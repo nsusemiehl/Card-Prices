@@ -1,0 +1,351 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Afterlife,Instant,None,Mirage,Uncommon,3,White,False,False,True,True,b'Pete Venters',0.19
+Alarum,Instant,None,Mirage,Common,2,White,False,False,True,False,b'Andrew Robinson',0.05
+Auspicious Ancestor,Creature,Human Cleric,Mirage,Rare,4,White,False,False,True,False,b'Zina Saunders',0.36
+Benevolent Unicorn,Creature,Unicorn,Mirage,Common,2,White,False,False,True,False,b'David A. Cherry',0.12
+Blinding Light,Sorcery,None,Mirage,Uncommon,3,White,False,False,True,True,b'Hannibal King',0.11
+Celestial Dawn,Enchantment,None,Mirage,Rare,3,White,True,False,True,True,b'Liz Danforth',1.08
+Civic Guildmage,Creature,Human Wizard,Mirage,Common,1,White,False,False,True,False,b'Andrew Robinson',0.08
+Dazzling Beauty,Instant,None,Mirage,Common,3,White,False,False,True,False,b'Harold McNeill',0.07
+Disempower,Instant,None,Mirage,Common,2,White,False,False,True,False,b'John Matson',0.1
+Disenchant,Instant,None,Mirage,Common,2,White,True,True,True,True,b'Charles Gillespie',0.13
+Divine Offering,Instant,None,Mirage,Common,2,White,True,False,True,True,b'Terese Nielsen',0.09
+Divine Retribution,Instant,None,Mirage,Rare,2,White,False,False,True,False,b'Charles Gillespie',0.4
+Ekundu Griffin,Creature,Griffin,Mirage,Common,4,White,False,False,True,True,b'David A. Cherry',0.09
+Enlightened Tutor,Instant,None,Mirage,Uncommon,1,White,False,False,True,True,b'Dan Frazier',28.65
+Ethereal Champion,Creature,Avatar,Mirage,Rare,5,White,False,False,True,True,b'Terese Nielsen',0.24
+Favorable Destiny,Enchantment,Aura,Mirage,Uncommon,2,White,False,False,True,False,b'Thomas Gianni',0.19
+Femeref Healer,Creature,Human Cleric,Mirage,Common,2,White,False,False,True,False,b'Steve Luke',0.08
+Femeref Knight,Creature,Human Knight,Mirage,Common,3,White,False,False,True,False,b'Tony Roberts',0.08
+Femeref Scouts,Creature,Human Scout,Mirage,Common,3,White,False,False,True,False,b'Zak Plucinski',0.08
+Healing Salve,Instant,None,Mirage,Common,1,White,True,False,True,True,b'Hannibal King',0.06
+Illumination,Instant,None,Mirage,Uncommon,2,White,False,False,True,False,"b""David O'Connor""",0.27
+Iron Tusk Elephant,Creature,Elephant,Mirage,Uncommon,5,White,False,False,True,False,b'Tony Roberts',0.14
+Ivory Charm,Instant,None,Mirage,Common,1,White,False,False,True,False,b'Gerry Grace',0.12
+Jabari's Influence,Instant,None,Mirage,Rare,5,White,False,False,True,False,b'Gerry Grace',0.75
+Mangara's Blessing,Instant,None,Mirage,Uncommon,3,White,False,False,True,False,b'David A. Cherry',0.16
+Mangara's Equity,Enchantment,None,Mirage,Uncommon,3,White,False,False,True,False,b'Alan Rabinowitz',0.14
+Melesse Spirit,Creature,Angel Spirit,Mirage,Uncommon,5,White,False,False,True,False,b'Gerry Grace',0.2
+Mtenda Griffin,Creature,Griffin,Mirage,Uncommon,4,White,False,False,True,False,b'Janine Johnston',0.24
+Mtenda Herder,Creature,Human Scout,Mirage,Common,1,White,False,False,True,False,b'Zina Saunders',0.11
+Noble Elephant,Creature,Elephant,Mirage,Common,4,White,False,False,True,False,b'Tony Roberts',0.11
+Null Chamber,World Enchantment,None,Mirage,Rare,4,White,False,False,True,False,b'Douglas Shuler',1.03
+Pacifism,Enchantment,Aura,Mirage,Common,2,White,True,True,True,True,b'Robert Bliss',0.11
+Pearl Dragon,Creature,Dragon,Mirage,Rare,6,White,False,False,True,True,b'Ian Miller',0.35
+Prismatic Circle,Enchantment,None,Mirage,Common,3,White,False,False,True,False,b'Pete Venters',0.06
+Rashida Scalebane,Legendary Creature,Human Soldier,Mirage,Rare,5,White,False,False,True,False,b'Randy Gallegos',0.47
+Ritual of Steel,Enchantment,Aura,Mirage,Common,3,White,False,False,True,False,b'Mark Poole',0.08
+Sacred Mesa,Enchantment,None,Mirage,Rare,3,White,True,False,True,True,b'Margaret Organ-Kean',0.42
+Shadowbane,Instant,None,Mirage,Uncommon,2,White,False,False,True,False,b'Douglas Shuler',0.11
+Sidar Jabari,Legendary Creature,Human Knight,Mirage,Rare,4,White,False,False,True,True,b'Gerry Grace',0.54
+Soul Echo,Enchantment,None,Mirage,Rare,3,White,False,False,True,False,b'Ron Spencer',0.54
+Spectral Guardian,Creature,Spirit,Mirage,Rare,4,White,False,False,True,False,b'Mike Dringenberg',0.51
+Sunweb,Creature,Wall,Mirage,Rare,4,White,True,False,True,True,b'Dan Frazier',0.28
+Teremko Griffin,Creature,Griffin,Mirage,Common,4,White,False,False,True,False,b'Martin McKenna',0.08
+Unyaro Griffin,Creature,Griffin,Mirage,Uncommon,4,White,False,False,True,True,b'Al Davidson',0.11
+Vigilant Martyr,Creature,Human Cleric,Mirage,Uncommon,1,White,False,False,True,False,b'Rebecca Guay',0.18
+Wall of Resistance,Creature,Wall,Mirage,Common,2,White,False,False,True,False,b'Harold McNeill',0.18
+Ward of Lights,Enchantment,Aura,Mirage,Common,2,White,False,False,True,False,b'Mike Dringenberg',0.13
+Yare,Instant,None,Mirage,Rare,3,White,False,False,True,False,b'Ron Spencer',0.44
+Zhalfirin Commander,Creature,Human Knight,Mirage,Uncommon,3,White,True,False,True,True,b'Stuart Griffin',0.11
+Zhalfirin Knight,Creature,Human Knight,Mirage,Common,3,White,False,False,True,True,b'John Bolton',0.08
+"Zuberi, Golden Feather",Legendary Creature,Griffin,Mirage,Rare,5,White,False,False,True,False,b'Alan Rabinowitz',1.01
+Ancestral Memories,Sorcery,None,Mirage,Rare,5,Blue,False,False,True,True,b'William Donohoe',0.25
+Azimaet Drake,Creature,Drake,Mirage,Common,3,Blue,False,False,True,False,b'Gerry Grace',0.06
+Bay Falcon,Creature,Bird,Mirage,Common,2,Blue,False,False,True,False,b'Una Fricker',0.1
+Bazaar of Wonders,World Enchantment,None,Mirage,Rare,5,Blue,False,False,True,False,b'Liz Danforth',1.05
+Boomerang,Instant,None,Mirage,Common,2,Blue,True,False,True,True,b'Richard Kane Ferguson',0.18
+Cerulean Wyvern,Creature,Drake,Mirage,Uncommon,5,Blue,False,False,True,False,b'Gerry Grace',0.09
+Cloak of Invisibility,Enchantment,Aura,Mirage,Common,1,Blue,False,False,True,False,b'John Coulthart',0.13
+Coral Fighters,Creature,Merfolk Soldier,Mirage,Uncommon,2,Blue,False,False,True,True,b'Steve Luke',0.12
+Daring Apprentice,Creature,Human Wizard,Mirage,Rare,3,Blue,True,False,True,True,b'Kaja Foglio',0.36
+Dissipate,Instant,None,Mirage,Uncommon,3,Blue,True,False,True,True,b'Richard Kane Ferguson',0.36
+Dream Cache,Sorcery,None,Mirage,Common,3,Blue,False,False,True,True,b'D. Alexander Gregory',0.16
+Dream Fighter,Creature,Human Soldier,Mirage,Common,3,Blue,False,False,True,False,b'Drew Tucker',0.11
+Energy Vortex,Enchantment,None,Mirage,Rare,5,Blue,False,False,True,False,b'Tom W\xc3\xa4nerstrand',0.55
+Ether Well,Instant,None,Mirage,Uncommon,4,Blue,False,False,True,False,b'Charles Gillespie',0.19
+Flash,Instant,None,Mirage,Rare,2,Blue,False,False,False,True,b'David Ho',2.73
+Floodgate,Creature,Wall,Mirage,Uncommon,4,Blue,False,False,True,True,b'Jeff Miracola',0.18
+"Hakim, Loreweaver",Legendary Creature,Human Wizard,Mirage,Rare,5,Blue,False,False,True,False,b'Alan Rabinowitz',0.45
+Harmattan Efreet,Creature,Efreet,Mirage,Uncommon,4,Blue,False,False,True,True,b'Drew Tucker',0.11
+Jolt,Instant,None,Mirage,Common,3,Blue,False,False,True,False,b'John Matson',0.12
+Kukemssa Pirates,Creature,Human Pirate,Mirage,Rare,4,Blue,False,False,True,False,b'Jock',1.41
+Kukemssa Serpent,Creature,Serpent,Mirage,Common,4,Blue,False,False,True,False,b'Ian Miller',0.09
+Meddle,Instant,None,Mirage,Uncommon,2,Blue,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.22
+Memory Lapse,Instant,None,Mirage,Common,2,Blue,False,False,True,True,b'Rebecca Guay',0.16
+Merfolk Raiders,Creature,Merfolk Soldier,Mirage,Common,2,Blue,False,False,True,False,b'Steve Luke',0.09
+Merfolk Seer,Creature,Merfolk Wizard,Mirage,Common,3,Blue,False,False,True,False,b'Steve Luke',0.08
+Mind Bend,Instant,None,Mirage,Uncommon,1,Blue,True,False,True,True,b'Mike Dringenberg',0.22
+Mind Harness,Enchantment,Aura,Mirage,Uncommon,1,Blue,False,False,True,False,b'John Malloy',0.22
+Mist Dragon,Creature,Dragon,Mirage,Rare,6,Blue,False,False,True,False,b'Al Davidson',0.8
+Mystical Tutor,Instant,None,Mirage,Uncommon,1,Blue,False,False,True,True,"b""David O'Connor""",13.66
+Political Trickery,Sorcery,None,Mirage,Rare,3,Blue,False,False,True,True,b'Scott Kirschner',1.76
+Polymorph,Sorcery,None,Mirage,Rare,4,Blue,True,False,True,True,b'Robert Bliss',0.99
+Power Sink,Instant,None,Mirage,Common,2,Blue,False,False,True,True,b'Charles Gillespie',0.16
+Prismatic Lace,Instant,None,Mirage,Rare,1,Blue,False,False,True,False,"b""David O'Connor""",0.57
+Psychic Transfer,Sorcery,None,Mirage,Rare,5,Blue,False,False,True,True,b'Dom!',0.27
+Ray of Command,Instant,None,Mirage,Common,4,Blue,False,False,True,True,b'Andrew Robinson',0.13
+Reality Ripple,Instant,None,Mirage,Common,2,Blue,False,False,True,False,b'Alan Rabinowitz',0.14
+Sandbar Crocodile,Creature,Crocodile,Mirage,Common,5,Blue,False,False,True,True,b'Una Fricker',0.05
+Sapphire Charm,Instant,None,Mirage,Common,1,Blue,False,False,True,True,b'Steve Luke',0.15
+Sea Scryer,Creature,Merfolk Wizard,Mirage,Common,2,Blue,False,False,True,False,b'Martin McKenna',0.22
+Shaper Guildmage,Creature,Human Wizard,Mirage,Common,1,Blue,False,False,True,False,b'D. Alexander Gregory',0.08
+Shimmer,Enchantment,None,Mirage,Rare,4,Blue,False,False,True,False,b'David A. Cherry',1.42
+Soar,Enchantment,Aura,Mirage,Common,2,Blue,False,False,True,False,b'Tony Roberts',0.04
+Suq'Ata Firewalker,Creature,Human Wizard,Mirage,Uncommon,3,Blue,False,False,True,False,"b""David O'Connor""",0.28
+Taniwha,Legendary Creature,Serpent,Mirage,Rare,5,Blue,False,False,True,False,b'Ian Miller',1.02
+Teferi's Curse,Enchantment,Aura,Mirage,Common,2,Blue,False,False,True,False,b'Robert Bliss',0.13
+Teferi's Drake,Creature,Drake,Mirage,Common,3,Blue,False,False,True,False,b'Kari Johnson',0.09
+Teferi's Imp,Creature,Imp,Mirage,Rare,3,Blue,False,False,True,False,b'Una Fricker',0.55
+Thirst,Enchantment,Aura,Mirage,Common,3,Blue,False,False,True,False,b'Roger Raupp',0.04
+Tidal Wave,Instant,None,Mirage,Uncommon,3,Blue,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.13
+Vaporous Djinn,Creature,Djinn,Mirage,Uncommon,4,Blue,False,False,True,False,b'Adam Rex',0.1
+Wave Elemental,Creature,Elemental,Mirage,Uncommon,4,Blue,False,False,True,False,b'Zak Plucinski',0.09
+Abyssal Hunter,Creature,Human Assassin,Mirage,Rare,4,Black,False,False,True,True,b'Steve Luke',0.31
+Ashen Powder,Sorcery,None,Mirage,Rare,4,Black,False,False,True,True,b'Geofrey Darrow',0.67
+Barbed-Back Wurm,Creature,Wurm,Mirage,Uncommon,5,Black,False,False,True,False,b'Gary Leach',0.13
+Binding Agony,Enchantment,Aura,Mirage,Common,2,Black,False,False,True,False,b'Robert Bliss',0.16
+Blighted Shaman,Creature,Human Cleric Shaman,Mirage,Uncommon,2,Black,False,False,True,True,b'Ian Miller',0.2
+Bone Harvest,Instant,None,Mirage,Common,3,Black,False,False,True,True,b'Greg Simanson',0.16
+Breathstealer,Creature,Nightstalker,Mirage,Common,3,Black,False,False,True,False,b'Cliff Nielsen',0.09
+Cadaverous Knight,Creature,Zombie Knight,Mirage,Common,3,Black,False,False,True,True,b'Dermot Power',0.17
+Carrion,Instant,None,Mirage,Rare,3,Black,False,False,True,False,b'Geofrey Darrow',2.41
+Catacomb Dragon,Creature,Dragon,Mirage,Rare,6,Black,False,False,True,False,"b""David O'Connor""",0.99
+Choking Sands,Sorcery,None,Mirage,Common,3,Black,False,False,True,True,b'Roger Raupp',0.68
+Crypt Cobra,Creature,Snake,Mirage,Uncommon,4,Black,False,False,True,False,b'Ron Spencer',0.27
+Dark Banishing,Instant,None,Mirage,Common,3,Black,True,False,True,True,b'Dermot Power',0.06
+Dark Ritual,Instant,None,Mirage,Common,1,Black,False,False,True,True,b'John Coulthart',0.48
+Dirtwater Wraith,Creature,Wraith,Mirage,Common,4,Black,False,False,True,False,b'Steve Luke',0.12
+Drain Life,Sorcery,None,Mirage,Common,3,Black,False,False,True,True,b'Richard Kane Ferguson',0.17
+Dread Specter,Creature,Specter,Mirage,Uncommon,4,Black,False,False,True,False,b'Kathryn Rathke',0.13
+Ebony Charm,Instant,None,Mirage,Common,1,Black,False,False,True,True,b'Gerry Grace',0.17
+Enfeeblement,Enchantment,Aura,Mirage,Common,2,Black,True,False,True,True,b'John Bolton',0.06
+Feral Shadow,Creature,Nightstalker,Mirage,Common,3,Black,False,False,True,True,b'Cliff Nielsen',0.15
+Fetid Horror,Creature,Shade Horror,Mirage,Common,4,Black,False,False,True,False,b'Gary Leach',0.08
+Forbidden Crypt,Enchantment,None,Mirage,Rare,5,Black,False,False,True,True,b'D. Alexander Gregory',0.31
+Forsaken Wastes,World Enchantment,None,Mirage,Rare,3,Black,False,False,True,True,b'Kev Walker',2.05
+Grave Servitude,Enchantment,Aura,Mirage,Common,2,Black,False,False,True,False,b'Adrian Smith',0.06
+Gravebane Zombie,Creature,Zombie,Mirage,Common,4,Black,False,False,True,True,b'Gary Leach',0.09
+Harbinger of Night,Creature,Spirit,Mirage,Rare,4,Black,False,False,True,False,b'Tom Kyffin',2.08
+Infernal Contract,Sorcery,None,Mirage,Rare,3,Black,False,False,True,True,b'Roger Raupp',0.57
+Kaervek's Hex,Sorcery,None,Mirage,Uncommon,4,Black,False,False,True,False,b'Ian Miller',0.14
+Mire Shade,Creature,Shade,Mirage,Uncommon,2,Black,False,False,True,False,b'Randy Gallegos',0.14
+Nocturnal Raid,Instant,None,Mirage,Uncommon,4,Black,False,False,True,True,b'John Matson',0.12
+Painful Memories,Sorcery,None,Mirage,Uncommon,2,Black,False,False,True,True,b'John Coulthart',0.13
+Phyrexian Tribute,Sorcery,None,Mirage,Rare,3,Black,False,False,True,False,b'John Matson',1.45
+Purraj of Urborg,Legendary Creature,Cat Warrior,Mirage,Rare,5,Black,False,False,True,False,b'John Matson',0.52
+Ravenous Vampire,Creature,Vampire,Mirage,Uncommon,5,Black,False,False,True,False,b'John Bolton',0.11
+Reign of Terror,Sorcery,None,Mirage,Uncommon,5,Black,False,False,True,False,b'Gary Leach',0.15
+Restless Dead,Creature,Skeleton,Mirage,Common,2,Black,False,False,True,False,b'Ian Miller',0.14
+Sewer Rats,Creature,Rat,Mirage,Common,1,Black,False,False,True,True,b'Martin McKenna',0.12
+Shadow Guildmage,Creature,Human Wizard,Mirage,Common,1,Black,True,False,True,True,b'Mike Kimble',0.09
+Shallow Grave,Instant,None,Mirage,Rare,2,Black,False,False,True,False,b'John Coulthart',5.61
+"Shauku, Endbringer",Legendary Creature,Vampire,Mirage,Rare,7,Black,False,False,True,False,b'Pete Venters',1.36
+Skulking Ghost,Creature,Spirit,Mirage,Common,2,Black,False,False,True,True,b'Robert Bliss',0.12
+Soul Rend,Instant,None,Mirage,Uncommon,2,Black,False,False,True,False,b'Jeff Miracola',0.13
+Soulshriek,Instant,None,Mirage,Common,1,Black,False,False,True,False,b'John Bolton',0.15
+Spirit of the Night,Legendary Creature,Demon Spirit,Mirage,Rare,9,Black,False,False,True,True,b'Cliff Nielsen',3.12
+Stupor,Sorcery,None,Mirage,Uncommon,3,Black,True,False,True,True,b'Mike Kimble',0.3
+Tainted Specter,Creature,Specter,Mirage,Rare,4,Black,False,False,True,False,b'Chippy',0.52
+Tombstone Stairwell,World Enchantment,None,Mirage,Rare,4,Black,False,False,True,False,b'Dom!',5.31
+Urborg Panther,Creature,Nightstalker Cat,Mirage,Common,3,Black,False,False,True,False,b'Cliff Nielsen',0.11
+Wall of Corpses,Creature,Wall,Mirage,Common,2,Black,False,False,True,False,b'Gary Leach',0.1
+Withering Boon,Instant,None,Mirage,Uncommon,2,Black,False,False,True,False,b'Robert Bliss',1.12
+Zombie Mob,Creature,Zombie,Mirage,Uncommon,4,Black,False,False,True,False,b'Terese Nielsen',0.12
+Agility,Enchantment,Aura,Mirage,Common,2,Red,False,False,True,False,b'Drew Tucker',0.13
+Aleatory,Instant,None,Mirage,Uncommon,2,Red,False,False,True,False,b'Kev Walker',0.42
+Armorer Guildmage,Creature,Human Wizard,Mirage,Common,1,Red,False,False,True,False,b'Martin McKenna',0.1
+Barreling Attack,Instant,None,Mirage,Rare,4,Red,False,False,True,False,b'Ian Miller',0.43
+Blind Fury,Instant,None,Mirage,Uncommon,4,Red,False,False,True,False,b'John Coulthart',0.12
+Blistering Barrier,Creature,Wall,Mirage,Common,3,Red,False,False,True,False,b'David Ho',0.14
+Builder's Bane,Sorcery,None,Mirage,Common,3,Red,False,False,True,False,b'Charles Gillespie',0.09
+Burning Palm Efreet,Creature,Efreet,Mirage,Uncommon,4,Red,False,False,True,False,b'Dermot Power',0.07
+Burning Shield Askari,Creature,Human Knight,Mirage,Common,3,Red,False,False,True,False,b'Dan Frazier',0.06
+Chaos Charm,Instant,None,Mirage,Common,1,Red,False,False,True,False,b'Steve Luke',0.12
+Chaosphere,World Enchantment,None,Mirage,Rare,3,Red,False,False,True,False,b'Steve Luke',1.88
+Cinder Cloud,Instant,None,Mirage,Uncommon,5,Red,False,False,True,False,b'Jock',0.13
+Consuming Ferocity,Enchantment,Aura,Mirage,Uncommon,2,Red,False,False,True,False,b'Scott Kirschner',0.11
+Crimson Hellkite,Creature,Dragon,Mirage,Rare,9,Red,False,False,True,True,b'Gerry Grace',0.34
+Crimson Roc,Creature,Bird,Mirage,Uncommon,5,Red,False,False,True,False,b'Ian Miller',0.1
+Dwarven Miner,Creature,Dwarf,Mirage,Uncommon,2,Red,False,False,True,True,b'Jock',1.24
+Dwarven Nomad,Creature,Dwarf Nomad,Mirage,Common,3,Red,False,False,True,False,b'Mike Kimble',0.09
+Ekundu Cyclops,Creature,Cyclops,Mirage,Common,4,Red,False,False,True,False,b'Robert Bliss',0.06
+Emberwilde Djinn,Creature,Djinn,Mirage,Rare,4,Red,False,False,True,False,b'Mike Dringenberg',0.37
+Final Fortune,Instant,None,Mirage,Rare,2,Red,False,False,True,True,b'D. Alexander Gregory',2.44
+Firebreathing,Enchantment,Aura,Mirage,Common,1,Red,True,False,True,True,b'Mike Kerr',0.17
+Flame Elemental,Creature,Elemental,Mirage,Uncommon,4,Red,False,False,True,False,b'Richard Kane Ferguson',0.17
+Flare,Instant,None,Mirage,Common,3,Red,False,False,True,True,b'Greg Simanson',0.11
+Goblin Elite Infantry,Creature,Goblin Warrior,Mirage,Common,2,Red,True,False,True,True,b'Robert Bliss',0.09
+Goblin Scouts,Sorcery,None,Mirage,Uncommon,5,Red,False,False,True,False,b'Geofrey Darrow',0.16
+Goblin Soothsayer,Creature,Goblin Shaman,Mirage,Uncommon,1,Red,False,False,True,False,b'Robert Bliss',0.34
+Goblin Tinkerer,Creature,Goblin Artificer,Mirage,Common,2,Red,False,False,True,True,b'Hannibal King',0.18
+Hammer of Bogardan,Sorcery,None,Mirage,Rare,3,Red,True,False,True,True,b'Ron Spencer',1.07
+Hivis of the Scale,Legendary Creature,Viashino Shaman,Mirage,Rare,5,Red,False,False,True,False,b'Andrew Robinson',0.47
+Illicit Auction,Sorcery,None,Mirage,Rare,5,Red,False,False,True,True,b'Scott Kirschner',1.14
+Incinerate,Instant,None,Mirage,Common,2,Red,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.13
+Kaervek's Torch,Sorcery,None,Mirage,Common,2,Red,False,False,True,True,b'John Coulthart',0.22
+Lightning Reflexes,Enchantment,Aura,Mirage,Common,2,Red,False,False,True,False,b'Tom Kyffin',0.09
+Pyric Salamander,Creature,Salamander,Mirage,Common,2,Red,False,False,True,False,b'Tony Roberts',0.05
+Raging Spirit,Creature,Spirit,Mirage,Common,4,Red,False,False,True,False,b'Scott M. Fischer',0.04
+Reckless Embermage,Creature,Human Wizard,Mirage,Rare,4,Red,False,False,True,True,b'Tom Kyffin',0.3
+Reign of Chaos,Sorcery,None,Mirage,Uncommon,4,Red,False,False,True,False,b'Kathryn Rathke',0.12
+Searing Spear Askari,Creature,Human Knight,Mirage,Common,3,Red,False,False,True,False,b'Richard Kane Ferguson',0.1
+Sirocco,Instant,None,Mirage,Uncommon,2,Red,False,False,True,False,b'Alan Rabinowitz',0.09
+Spitting Earth,Sorcery,None,Mirage,Common,2,Red,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.11
+Stone Rain,Sorcery,None,Mirage,Common,3,Red,True,False,True,True,b'Tony Roberts',0.17
+Subterranean Spirit,Creature,Elemental Spirit,Mirage,Rare,5,Red,False,False,True,False,b'John Bolton',0.4
+Talruum Minotaur,Creature,Minotaur Berserker,Mirage,Common,4,Red,False,False,True,True,b'Pete Venters',0.09
+Telim'Tor,Legendary Creature,Human Knight,Mirage,Rare,5,Red,False,False,True,False,b'Kev Walker',0.5
+Telim'Tor's Edict,Instant,None,Mirage,Rare,1,Red,False,False,True,False,b'Kev Walker',0.75
+Torrent of Lava,Sorcery,None,Mirage,Rare,3,Red,False,False,True,False,b'Kathryn Rathke',0.41
+Viashino Warrior,Creature,Viashino Warrior,Mirage,Common,4,Red,False,False,True,True,b'Roger Raupp',0.04
+Volcanic Dragon,Creature,Dragon,Mirage,Rare,6,Red,True,True,True,True,b'Janine Johnston',0.36
+Volcanic Geyser,Instant,None,Mirage,Uncommon,3,Red,True,False,True,True,"b""David O'Connor""",0.25
+Wildfire Emissary,Creature,Efreet,Mirage,Uncommon,4,Red,True,False,True,True,b'Richard Kane Ferguson',0.17
+Zirilan of the Claw,Legendary Creature,Viashino Shaman,Mirage,Rare,5,Red,False,False,True,False,b'Andrew Robinson',2.07
+Afiya Grove,Enchantment,None,Mirage,Rare,2,Green,False,False,True,False,b'Stuart Griffin',0.88
+Armor of Thorns,Enchantment,Aura,Mirage,Common,2,Green,False,False,True,True,b'Alan Rabinowitz',0.08
+Barbed Foliage,Enchantment,None,Mirage,Uncommon,4,Green,False,False,True,False,b'Mark Poole',0.08
+Brushwagg,Creature,Brushwagg,Mirage,Rare,3,Green,False,False,True,False,b'Ian Miller',0.81
+Canopy Dragon,Creature,Dragon,Mirage,Rare,6,Green,False,False,True,False,b'Alan Rabinowitz',0.59
+Crash of Rhinos,Creature,Rhino,Mirage,Common,8,Green,False,False,True,True,b'Steve White',0.06
+Cycle of Life,Enchantment,None,Mirage,Rare,3,Green,False,False,True,False,b'Chippy',0.27
+Decomposition,Enchantment,Aura,Mirage,Uncommon,2,Green,False,False,True,False,b'Drew Tucker',0.18
+Early Harvest,Instant,None,Mirage,Rare,3,Green,True,False,True,True,b'Janine Johnston',1.24
+Fallow Earth,Sorcery,None,Mirage,Uncommon,3,Green,False,False,True,True,b'Janine Johnston',0.2
+Femeref Archers,Creature,Human Archer,Mirage,Uncommon,3,Green,True,False,True,True,b'William Donohoe',0.15
+Fog,Instant,None,Mirage,Common,1,Green,True,False,True,True,b'Harold McNeill',0.15
+Foratog,Creature,Atog,Mirage,Uncommon,3,Green,True,False,True,True,b'Mark Poole',0.15
+Giant Mantis,Creature,Insect,Mirage,Common,4,Green,True,False,True,True,b'Randy Gallegos',0.05
+Gibbering Hyenas,Creature,Hyena,Mirage,Common,3,Green,False,False,True,False,b'Una Fricker',0.04
+Granger Guildmage,Creature,Human Wizard,Mirage,Common,1,Green,False,False,True,False,b'Dan Frazier',0.1
+Hall of Gemstone,World Enchantment,None,Mirage,Rare,3,Green,False,False,True,True,b'David A. Cherry',10.77
+Jolrael's Centaur,Creature,Centaur Archer,Mirage,Common,3,Green,False,False,True,True,b'Junior Tomlin',0.06
+Jungle Patrol,Creature,Human Soldier,Mirage,Rare,4,Green,False,False,True,False,b'Mark Poole',0.58
+Jungle Wurm,Creature,Wurm,Mirage,Common,5,Green,False,False,True,True,b'Tom Kyffin',0.08
+Karoo Meerkat,Creature,Mongoose,Mirage,Uncommon,2,Green,False,False,True,False,b'Janine Johnston',0.16
+Locust Swarm,Creature,Insect,Mirage,Uncommon,4,Green,False,False,True,False,b'William Donohoe',0.17
+Lure of Prey,Instant,None,Mirage,Rare,4,Green,False,False,True,False,b'Andrew Robinson',1.56
+Maro,Creature,Elemental,Mirage,Rare,4,Green,True,False,True,True,b'Stuart Griffin',0.28
+Mindbender Spores,Creature,Fungus Wall,Mirage,Rare,3,Green,False,False,True,False,b'Ian Miller',0.9
+Mtenda Lion,Creature,Cat,Mirage,Common,1,Green,False,False,True,False,b'Stuart Griffin',0.13
+Natural Balance,Sorcery,None,Mirage,Rare,4,Green,False,False,True,False,b'John Malloy',1.1
+Nettletooth Djinn,Creature,Djinn,Mirage,Uncommon,4,Green,False,False,True,False,b'Janine Johnston',0.17
+Preferred Selection,Enchantment,None,Mirage,Rare,4,Green,False,False,True,False,b'Kev Walker',0.93
+Quirion Elves,Creature,Elf Druid,Mirage,Common,2,Green,False,False,True,True,b'Randy Gallegos',0.24
+Rampant Growth,Sorcery,None,Mirage,Common,2,Green,True,False,True,True,b'Pat Morrissey',0.4
+Regeneration,Enchantment,Aura,Mirage,Common,2,Green,True,False,True,True,b'Charles Gillespie',0.08
+Roots of Life,Enchantment,None,Mirage,Uncommon,3,Green,False,False,True,False,b'Tony Roberts',0.17
+Sabertooth Cobra,Creature,Snake,Mirage,Common,3,Green,False,False,True,False,b'Andrew Robinson',0.22
+Sandstorm,Instant,None,Mirage,Common,1,Green,False,False,True,True,b'Mike Kimble',0.17
+Seedling Charm,Instant,None,Mirage,Common,1,Green,False,False,True,False,b'Stuart Griffin',0.12
+Seeds of Innocence,Sorcery,None,Mirage,Rare,3,Green,False,False,True,False,b'Junior Tomlin',1.87
+Serene Heart,Instant,None,Mirage,Common,2,Green,False,False,True,False,b'D. Alexander Gregory',0.32
+Stalking Tiger,Creature,Cat,Mirage,Common,4,Green,True,False,True,True,b'Terese Nielsen',0.07
+Superior Numbers,Sorcery,None,Mirage,Uncommon,2,Green,False,False,True,False,b'Geofrey Darrow',0.16
+Tranquil Domain,Instant,None,Mirage,Common,2,Green,False,False,True,False,b'D. Alexander Gregory',0.12
+Tropical Storm,Sorcery,None,Mirage,Uncommon,2,Green,False,False,True,False,b'Richard Kane Ferguson',0.14
+Uktabi Faerie,Creature,Faerie,Mirage,Common,2,Green,False,False,True,False,b'Junior Tomlin',0.13
+Uktabi Wildcats,Creature,Cat,Mirage,Rare,5,Green,False,False,True,True,b'John Matson',0.28
+Unseen Walker,Creature,Dryad,Mirage,Uncommon,2,Green,False,False,True,True,b'Alan Rabinowitz',0.15
+Unyaro Bee Sting,Sorcery,None,Mirage,Uncommon,4,Green,False,False,True,False,b'Pat Morrissey',0.13
+Village Elder,Creature,Human Druid,Mirage,Common,1,Green,False,False,True,True,b'Donato Giancola',0.16
+Waiting in the Weeds,Sorcery,None,Mirage,Rare,3,Green,False,False,True,True,b'Susan Van Camp',0.63
+Wall of Roots,Creature,Plant Wall,Mirage,Common,2,Green,True,False,True,True,b'John Matson',0.3
+Wild Elephant,Creature,Elephant,Mirage,Common,4,Green,False,False,True,False,b'Junior Tomlin',0.09
+Worldly Tutor,Instant,None,Mirage,Uncommon,1,Green,False,False,True,True,"b""David O'Connor""",28.67
+"Asmira, Holy Avenger",Legendary Creature,Human Cleric,Mirage,Rare,4,Gold,False,False,True,False,b'Rebecca Guay',0.86
+Benthic Djinn,Creature,Djinn,Mirage,Rare,4,Gold,False,False,True,False,b'Adam Rex',0.4
+Cadaverous Bloom,Enchantment,None,Mirage,Rare,5,Gold,False,False,True,False,b'Alan Rabinowitz',2.04
+Circle of Despair,Enchantment,None,Mirage,Rare,3,Gold,False,False,True,False,b'Scott M. Fischer',1.25
+Delirium,Instant,None,Mirage,Uncommon,3,Gold,False,False,True,False,b'Terese Nielsen',0.32
+Discordant Spirit,Creature,Spirit,Mirage,Rare,4,Gold,False,False,True,False,b'Alan Rabinowitz',0.37
+Emberwilde Caliph,Creature,Djinn,Mirage,Rare,4,Gold,False,False,True,False,b'Jennifer Law',0.27
+Energy Bolt,Sorcery,None,Mirage,Rare,3,Gold,False,False,True,False,b'Scott Kirschner',0.71
+Frenetic Efreet,Creature,Efreet,Mirage,Rare,3,Gold,False,False,True,True,b'Thomas Gianni',1.97
+Grim Feast,Enchantment,None,Mirage,Rare,3,Gold,False,False,True,False,b'Mike Kimble',1.16
+Harbor Guardian,Creature,Gargoyle,Mirage,Uncommon,4,Gold,False,False,True,False,b'Stuart Beel',0.11
+Haunting Apparition,Creature,Spirit,Mirage,Uncommon,3,Gold,False,False,True,False,b'Chippy',0.26
+Hazerider Drake,Creature,Drake,Mirage,Uncommon,4,Gold,False,False,True,False,b'Zina Saunders',0.18
+Jungle Troll,Creature,Troll,Mirage,Uncommon,3,Gold,False,False,True,False,b'John Bolton',0.12
+Kaervek's Purge,Sorcery,None,Mirage,Uncommon,3,Gold,False,False,True,False,b'Richard Kane Ferguson',0.14
+Leering Gargoyle,Creature,Gargoyle,Mirage,Rare,3,Gold,False,False,True,False,b'Dermot Power',0.39
+Malignant Growth,Enchantment,None,Mirage,Rare,5,Gold,False,False,True,False,b'Scott M. Fischer',0.33
+Phyrexian Purge,Sorcery,None,Mirage,Rare,4,Gold,False,False,True,False,b'Robert Bliss',1.65
+Prismatic Boon,Instant,None,Mirage,Uncommon,3,Gold,False,False,True,False,b'Thomas Gianni',0.14
+Purgatory,Enchantment,None,Mirage,Rare,4,Gold,False,False,True,False,b'Mike Dringenberg',0.92
+Radiant Essence,Creature,Spirit,Mirage,Uncommon,3,Gold,False,False,True,False,b'Jennifer Law',0.1
+Reflect Damage,Instant,None,Mirage,Rare,5,Gold,False,False,True,False,b'Ron Spencer',0.91
+Reparations,Enchantment,None,Mirage,Rare,3,Gold,False,False,True,False,b'Douglas Shuler',1.16
+Rock Basilisk,Creature,Basilisk,Mirage,Rare,6,Gold,False,False,True,False,b'Ian Miller',0.34
+Savage Twister,Sorcery,None,Mirage,Uncommon,3,Gold,True,False,True,True,b'Bob Eggleton',0.18
+Sawback Manticore,Creature,Manticore,Mirage,Rare,5,Gold,False,False,True,False,b'Martin McKenna',0.42
+Sealed Fate,Sorcery,None,Mirage,Uncommon,3,Gold,False,False,True,False,b'Terese Nielsen',0.14
+Shauku's Minion,Creature,Human Minion,Mirage,Uncommon,3,Gold,False,False,True,False,b'Greg Simanson',0.12
+Spatial Binding,Enchantment,None,Mirage,Uncommon,2,Gold,False,False,True,False,b'Dom!',0.13
+Unfulfilled Desires,Enchantment,None,Mirage,Rare,3,Gold,False,False,True,False,b'D. Alexander Gregory',0.93
+Vitalizing Cascade,Instant,None,Mirage,Uncommon,3,Gold,False,False,True,False,b'Rebecca Guay',0.25
+Warping Wurm,Creature,Wurm,Mirage,Rare,4,Gold,False,False,True,False,b'Scott M. Fischer',0.53
+Wellspring,Enchantment,Aura,Mirage,Rare,3,Gold,False,False,True,False,b'Susan Van Camp',0.64
+Windreaper Falcon,Creature,Bird,Mirage,Uncommon,3,Gold,False,False,True,False,b'Tony Roberts',0.2
+Zebra Unicorn,Creature,Unicorn,Mirage,Uncommon,4,Gold,False,False,True,False,b'Margaret Organ-Kean',0.23
+Acidic Dagger,Artifact,None,Mirage,Rare,4,Colorless,False,False,True,False,b'Stuart Beel',0.39
+Amber Prison,Artifact,None,Mirage,Rare,4,Colorless,False,False,True,True,b'Donato Giancola',0.3
+Amulet of Unmaking,Artifact,None,Mirage,Rare,5,Colorless,False,False,True,False,b'Kaja Foglio',0.35
+Basalt Golem,Artifact Creature,Golem,Mirage,Uncommon,5,Colorless,False,False,True,False,b'Scott Kirschner',0.1
+Bone Mask,Artifact,None,Mirage,Rare,4,Colorless,False,False,True,False,b'D. Alexander Gregory',0.35
+Charcoal Diamond,Artifact,None,Mirage,Uncommon,2,Colorless,False,False,True,True,b'Drew Tucker',1.43
+Chariot of the Sun,Artifact,None,Mirage,Uncommon,3,Colorless,False,False,True,False,b'Gerry Grace',0.14
+Crystal Golem,Artifact Creature,Golem,Mirage,Uncommon,4,Colorless,False,False,True,False,b'Mike Dringenberg',0.13
+Cursed Totem,Artifact,None,Mirage,Rare,2,Colorless,False,False,True,True,b'D. Alexander Gregory',13.36
+Elixir of Vitality,Artifact,None,Mirage,Uncommon,4,Colorless,False,False,True,False,b'Douglas Shuler',0.13
+Ersatz Gnomes,Artifact Creature,Gnome,Mirage,Uncommon,3,Colorless,False,False,True,False,b'Ron Spencer',0.15
+Fire Diamond,Artifact,None,Mirage,Uncommon,2,Colorless,False,False,True,True,b'Richard Thomas',2.08
+Grinning Totem,Artifact,None,Mirage,Rare,4,Colorless,True,False,True,True,b'Donato Giancola',0.36
+Horrible Hordes,Artifact Creature,Spirit,Mirage,Uncommon,3,Colorless,False,False,True,False,b'Ian Miller',0.15
+Igneous Golem,Artifact Creature,Golem,Mirage,Uncommon,5,Colorless,False,False,True,False,b'Adam Rex',0.1
+Lead Golem,Artifact Creature,Golem,Mirage,Uncommon,5,Colorless,False,False,True,True,b'Hannibal King',0.15
+Lion's Eye Diamond,Artifact,None,Mirage,Rare,0,Colorless,False,False,True,True,b'Margaret Organ-Kean',11.47
+Mana Prism,Artifact,None,Mirage,Uncommon,3,Colorless,False,False,True,True,b'Margaret Organ-Kean',0.2
+Mangara's Tome,Artifact,None,Mirage,Rare,5,Colorless,False,False,True,False,b'John Bolton',1.17
+Marble Diamond,Artifact,None,Mirage,Uncommon,2,Colorless,False,False,True,True,b'Jeff Miracola',2.25
+Misers' Cage,Artifact,None,Mirage,Rare,3,Colorless,False,False,True,False,b'Jeff Miracola',0.62
+Moss Diamond,Artifact,None,Mirage,Uncommon,2,Colorless,False,False,True,True,b'Donato Giancola',0.23
+Patagia Golem,Artifact Creature,Golem,Mirage,Uncommon,4,Colorless,True,False,True,True,b'Scott Kirschner',0.06
+Paupers' Cage,Artifact,None,Mirage,Rare,3,Colorless,False,False,True,False,b'Mike Kimble',0.93
+Phyrexian Dreadnought,Artifact Creature,Dreadnought,Mirage,Rare,1,Colorless,False,False,True,True,b'Pete Venters',30.88
+Phyrexian Vault,Artifact,None,Mirage,Uncommon,3,Colorless,True,False,True,True,b'Hannibal King',0.15
+Razor Pendulum,Artifact,None,Mirage,Rare,4,Colorless,False,False,True,False,b'Zak Plucinski',0.37
+Sand Golem,Artifact Creature,Golem,Mirage,Uncommon,5,Colorless,False,False,True,False,b'John Matson',0.13
+Sky Diamond,Artifact,None,Mirage,Uncommon,2,Colorless,False,False,True,True,b'D. Alexander Gregory',1.77
+Teeka's Dragon,Artifact Creature,Dragon,Mirage,Rare,9,Colorless,False,False,True,False,b'Liz Danforth',2.12
+Telim'Tor's Darts,Artifact,None,Mirage,Uncommon,2,Colorless,False,False,True,False,b'Kev Walker',0.09
+Unerring Sling,Artifact,None,Mirage,Uncommon,3,Colorless,False,False,True,False,b'Zak Plucinski',0.12
+Ventifact Bottle,Artifact,None,Mirage,Rare,3,Colorless,False,False,True,False,b'Ron Spencer',0.77
+Bad River,Land,None,Mirage,Uncommon,0,Colorless,False,False,True,True,b'Terese Nielsen',2.78
+Crystal Vein,Land,None,Mirage,Uncommon,0,Colorless,False,False,True,True,b'Pat Morrissey',1.27
+Flood Plain,Land,None,Mirage,Uncommon,0,Colorless,False,False,True,True,b'Pat Morrissey',1.22
+Grasslands,Land,None,Mirage,Uncommon,0,Colorless,False,False,True,True,b'John Avon',1.02
+Mountain Valley,Land,None,Mirage,Uncommon,0,Colorless,False,False,True,True,b'Kari Johnson',1.04
+Rocky Tar Pit,Land,None,Mirage,Uncommon,0,Colorless,False,False,True,True,b'Jeff Miracola',0.48
+Teferi's Isle,Legendary Land,None,Mirage,Rare,0,Colorless,False,False,True,False,b'Gerry Grace',1.99
+Plains,Basic Land,Plains,Mirage,Common,0,Colorless,True,True,True,True,b'Tom W\xc3\xa4nerstrand',0.52
+Plains,Basic Land,Plains,Mirage,Common,0,Colorless,True,True,True,True,b'Tom W\xc3\xa4nerstrand',0.35
+Plains,Basic Land,Plains,Mirage,Common,0,Colorless,True,True,True,True,b'Tom W\xc3\xa4nerstrand',0.67
+Plains,Basic Land,Plains,Mirage,Common,0,Colorless,True,True,True,True,b'Tom W\xc3\xa4nerstrand',0.47
+Island,Basic Land,Island,Mirage,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',0.73
+Island,Basic Land,Island,Mirage,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',0.37
+Island,Basic Land,Island,Mirage,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',0.36
+Island,Basic Land,Island,Mirage,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',1.27
+Swamp,Basic Land,Swamp,Mirage,Common,0,Colorless,True,True,True,True,b'Bob Eggleton',0.64
+Swamp,Basic Land,Swamp,Mirage,Common,0,Colorless,True,True,True,True,b'Bob Eggleton',1.22
+Swamp,Basic Land,Swamp,Mirage,Common,0,Colorless,True,True,True,True,b'Bob Eggleton',0.65
+Swamp,Basic Land,Swamp,Mirage,Common,0,Colorless,True,True,True,True,b'Bob Eggleton',0.4
+Mountain,Basic Land,Mountain,Mirage,Common,0,Colorless,True,True,True,True,b'John Avon',0.62
+Mountain,Basic Land,Mountain,Mirage,Common,0,Colorless,True,True,True,True,b'John Avon',0.48
+Mountain,Basic Land,Mountain,Mirage,Common,0,Colorless,True,True,True,True,b'John Avon',0.45
+Mountain,Basic Land,Mountain,Mirage,Common,0,Colorless,True,True,True,True,b'John Avon',1.69
+Forest,Basic Land,Forest,Mirage,Common,0,Colorless,True,True,True,True,b'Tony Roberts',0.53
+Forest,Basic Land,Forest,Mirage,Common,0,Colorless,True,True,True,True,b'Tony Roberts',0.89
+Forest,Basic Land,Forest,Mirage,Common,0,Colorless,True,True,True,True,b'Tony Roberts',0.28
+Forest,Basic Land,Forest,Mirage,Common,0,Colorless,True,True,True,True,b'Tony Roberts',0.33

@@ -1,0 +1,250 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+"Ajani, Caller of the Pride",Legendary Planeswalker,Ajani,Magic 2014,Mythic Rare,3,White,True,False,True,True,b'D. Alexander Gregory',3.26
+Ajani's Chosen,Creature,Cat Soldier,Magic 2014,Rare,4,White,True,False,True,True,b'Wayne Reynolds',0.32
+Angelic Accord,Enchantment,None,Magic 2014,Uncommon,4,White,True,False,True,True,b'Michael C. Hayes',0.36
+Angelic Wall,Creature,Wall,Magic 2014,Common,2,White,True,False,True,True,b'Allen Williams',0.14
+Archangel of Thune,Creature,Angel,Magic 2014,Mythic Rare,5,White,True,False,True,True,b'James Ryman',18.83
+Auramancer,Creature,Human Wizard,Magic 2014,Common,3,White,True,False,True,True,b'Rebecca Guay',0.11
+Banisher Priest,Creature,Human Cleric,Magic 2014,Uncommon,3,White,True,False,True,True,b'Willian Murai',0.15
+Blessing,Enchantment,Aura,Magic 2014,Uncommon,2,White,True,False,True,True,b'Jason A. Engle',0.07
+Bonescythe Sliver,Creature,Sliver,Magic 2014,Rare,4,White,True,False,True,True,b'Trevor Claxton',3.56
+Brave the Elements,Instant,None,Magic 2014,Uncommon,1,White,True,False,True,True,b'Goran Josic',0.26
+Capashen Knight,Creature,Human Knight,Magic 2014,Common,2,White,True,False,True,True,b'Jasper Sandner',0.07
+Celestial Flare,Instant,None,Magic 2014,Common,2,White,True,False,True,True,b'Clint Cearley',0.12
+Charging Griffin,Creature,Griffin,Magic 2014,Common,4,White,True,False,True,True,b'Erica Yang',0.03
+Congregate,Instant,None,Magic 2014,Uncommon,4,White,True,False,True,True,b'Mark Zug',0.1
+Dawnstrike Paladin,Creature,Human Knight,Magic 2014,Common,5,White,True,False,True,True,b'Tyler Jacobson',0.05
+Devout Invocation,Sorcery,None,Magic 2014,Mythic Rare,7,White,True,False,True,False,b'David Palumbo',1.26
+Divine Favor,Enchantment,Aura,Magic 2014,Common,2,White,True,False,True,True,b'Allen Williams',0.06
+Fiendslayer Paladin,Creature,Human Knight,Magic 2014,Rare,3,White,True,False,True,True,b'Wesley Burt',2.8
+Fortify,Instant,None,Magic 2014,Common,3,White,True,False,True,True,b'Christopher Moeller',0.05
+Griffin Sentinel,Creature,Griffin,Magic 2014,Common,3,White,True,True,True,True,b'Warren Mahy',0.03
+Hive Stirrings,Sorcery,None,Magic 2014,Common,3,White,True,False,True,True,b'Maciej Kuciara',0.25
+Imposing Sovereign,Creature,Human Noble,Magic 2014,Rare,2,White,True,False,True,False,b'Scott M. Fischer',0.38
+Indestructibility,Enchantment,Aura,Magic 2014,Rare,4,White,True,False,True,True,b'Darrell Riche',0.95
+Master of Diversion,Creature,Human Scout,Magic 2014,Common,3,White,True,False,True,False,b'Michael Komarck',0.04
+Pacifism,Enchantment,Aura,Magic 2014,Common,2,White,True,True,True,True,b'Robert Bliss',0.08
+Path of Bravery,Enchantment,None,Magic 2014,Rare,3,White,True,False,True,True,b'Chris Rahn',0.23
+Pay No Heed,Instant,None,Magic 2014,Common,1,White,True,False,True,True,b'Adam Rex',0.19
+Pillarfield Ox,Creature,Ox,Magic 2014,Common,4,White,True,False,True,True,b'Andrew Robinson',0.24
+Planar Cleansing,Sorcery,None,Magic 2014,Rare,6,White,True,True,True,True,b'Michael Komarck',0.27
+Sentinel Sliver,Creature,Sliver,Magic 2014,Common,2,White,True,False,True,False,b'Maciej Kuciara',0.5
+Seraph of the Sword,Creature,Angel,Magic 2014,Rare,4,White,True,False,True,False,b'Jaime Jones',0.39
+Serra Angel,Creature,Angel,Magic 2014,Uncommon,5,White,True,False,True,True,b'Greg Staples',0.1
+Show of Valor,Instant,None,Magic 2014,Common,2,White,True,True,True,True,b'Anthony Palumbo',0.11
+Siege Mastodon,Creature,Elephant,Magic 2014,Common,5,White,True,True,True,True,b'Matt Cavotta',0.2
+Silence,Instant,None,Magic 2014,Rare,1,White,True,False,True,True,b'Wayne Reynolds',3.47
+Solemn Offering,Sorcery,None,Magic 2014,Common,3,White,True,False,True,True,b'Sam Wood',0.09
+Soulmender,Creature,Human Cleric,Magic 2014,Common,1,White,True,True,True,True,b'James Ryman',0.11
+Steelform Sliver,Creature,Sliver,Magic 2014,Uncommon,3,White,True,False,True,False,b'Chase Stone',0.23
+Stonehorn Chanter,Creature,Rhino Cleric,Magic 2014,Uncommon,6,White,True,False,True,False,b'Raymond Swanland',0.11
+Suntail Hawk,Creature,Bird,Magic 2014,Common,1,White,True,False,True,True,b'Heather Hudson',0.08
+Wall of Swords,Creature,Wall,Magic 2014,Uncommon,4,White,True,False,True,True,b'Zoltan Boros',0.1
+Air Servant,Creature,Elemental,Magic 2014,Uncommon,5,Blue,True,False,True,True,b'Lars Grant-West',0.03
+Archaeomancer,Creature,Human Wizard,Magic 2014,Common,4,Blue,True,False,True,True,b'Zoltan Boros',0.21
+Armored Cancrix,Creature,Crab,Magic 2014,Common,5,Blue,True,False,True,True,b'Tomasz Jedruszek',0.02
+Cancel,Instant,None,Magic 2014,Common,3,Blue,True,False,True,True,b'David Palumbo',0.11
+Claustrophobia,Enchantment,Aura,Magic 2014,Common,3,Blue,True,False,True,True,b'Ryan Pancoast',0.05
+Clone,Creature,Shapeshifter,Magic 2014,Rare,4,Blue,True,False,True,True,b'Kev Walker',0.3
+Colossal Whale,Creature,Whale,Magic 2014,Rare,7,Blue,True,False,True,True,b'Adam Paquette',0.24
+Coral Merfolk,Creature,Merfolk,Magic 2014,Common,2,Blue,True,True,True,True,b'rk post',0.02
+Dismiss into Dream,Enchantment,None,Magic 2014,Rare,7,Blue,True,False,True,False,b'Sam Wolfe Connelly',0.37
+Disperse,Instant,None,Magic 2014,Common,2,Blue,True,False,True,True,b'Steve Ellis',0.07
+Divination,Sorcery,None,Magic 2014,Common,3,Blue,True,False,True,True,b'Howard Lyon',0.06
+Domestication,Enchantment,Aura,Magic 2014,Rare,4,Blue,True,False,True,True,b'Jesper Ejsing',0.12
+Elite Arcanist,Creature,Human Wizard,Magic 2014,Rare,4,Blue,True,False,True,False,b'James Zapata',0.33
+Essence Scatter,Instant,None,Magic 2014,Common,2,Blue,True,True,True,True,b'Jon Foster',0.1
+Frost Breath,Instant,None,Magic 2014,Common,3,Blue,True,False,True,True,b'Mike Bierek',0.04
+Galerider Sliver,Creature,Sliver,Magic 2014,Rare,1,Blue,True,False,True,False,b'James Zapata',5.51
+Glimpse the Future,Sorcery,None,Magic 2014,Uncommon,3,Blue,True,False,True,False,b'Andrew Robinson',0.05
+Illusionary Armor,Enchantment,Aura,Magic 2014,Uncommon,5,Blue,True,False,True,False,b'Mathias Kollros',0.05
+"Jace, Memory Adept",Legendary Planeswalker,Jace,Magic 2014,Mythic Rare,5,Blue,True,False,True,True,b'D. Alexander Gregory',4.46
+Jace's Mindseeker,Creature,Fish Illusion,Magic 2014,Rare,6,Blue,True,False,True,True,b'Greg Staples',0.31
+Merfolk Spy,Creature,Merfolk Rogue,Magic 2014,Common,1,Blue,True,False,True,True,b'Matt Cavotta',0.11
+Messenger Drake,Creature,Drake,Magic 2014,Common,5,Blue,True,False,True,False,b'Yeong-Hao Han',0.03
+Negate,Instant,None,Magic 2014,Common,2,Blue,True,True,True,True,b'Jeremy Jarvis',0.1
+Nephalia Seakite,Creature,Bird,Magic 2014,Common,4,Blue,True,False,True,True,b'Wayne England',0.02
+Opportunity,Instant,None,Magic 2014,Uncommon,6,Blue,True,False,True,True,b'Allen Williams',0.08
+Phantom Warrior,Creature,Illusion Warrior,Magic 2014,Uncommon,3,Blue,True,True,True,True,b'Greg Staples',0.07
+Quicken,Instant,None,Magic 2014,Rare,1,Blue,True,False,True,True,b'Aleksi Briclot',0.45
+Scroll Thief,Creature,Merfolk Rogue,Magic 2014,Common,3,Blue,True,False,True,True,b'Alex Horley-Orlandelli',0.08
+Seacoast Drake,Creature,Drake,Magic 2014,Common,2,Blue,True,False,True,False,b'Scott Chou',0.03
+Sensory Deprivation,Enchantment,Aura,Magic 2014,Common,1,Blue,True,False,True,True,b'Steven Belledin',0.03
+Spell Blast,Instant,None,Magic 2014,Uncommon,2,Blue,True,False,True,True,b'Jaime Jones',0.08
+Tidebinder Mage,Creature,Merfolk Wizard,Magic 2014,Rare,2,Blue,True,False,True,True,b'John Severin Brassell',0.36
+Time Ebb,Sorcery,None,Magic 2014,Common,3,Blue,True,False,True,True,b'Alan Rabinowitz',0.07
+Tome Scour,Sorcery,None,Magic 2014,Common,1,Blue,True,False,True,True,b'Steven Belledin',0.2
+Trained Condor,Creature,Bird,Magic 2014,Common,3,Blue,True,False,True,False,b'Alex Horley-Orlandelli',0.02
+Traumatize,Sorcery,None,Magic 2014,Rare,5,Blue,True,False,True,True,b'Greg Staples',1.58
+Wall of Frost,Creature,Wall,Magic 2014,Uncommon,3,Blue,True,False,True,True,b'Mike Bierek',0.17
+Warden of Evos Isle,Creature,Bird Wizard,Magic 2014,Uncommon,3,Blue,True,True,True,True,b'Nils Hamm',0.11
+Water Servant,Creature,Elemental,Magic 2014,Uncommon,4,Blue,True,False,True,True,b'Igor Kieryluk',0.06
+Windreader Sphinx,Creature,Sphinx,Magic 2014,Mythic Rare,7,Blue,True,False,True,True,b'Min Yum',0.45
+Zephyr Charge,Enchantment,None,Magic 2014,Common,2,Blue,True,True,True,True,b'Steve Prescott',0.06
+Accursed Spirit,Creature,Spirit,Magic 2014,Common,4,Black,True,False,True,True,b'Kev Walker',0.04
+Altar's Reap,Instant,None,Magic 2014,Common,2,Black,True,False,True,True,b'Donato Giancola',0.12
+Artificer's Hex,Enchantment,Aura,Magic 2014,Uncommon,1,Black,True,False,True,False,b'Franz Vohwinkel',0.1
+Blightcaster,Creature,Human Wizard,Magic 2014,Uncommon,4,Black,True,False,True,True,b'Winona Nelson',0.07
+Blood Bairn,Creature,Vampire,Magic 2014,Common,3,Black,True,False,True,True,b'Ryan Yee',0.13
+Bogbrew Witch,Creature,Human Wizard,Magic 2014,Rare,4,Black,True,False,True,True,b'Eric Deschamps',0.17
+Child of Night,Creature,Vampire,Magic 2014,Common,2,Black,True,True,True,True,b'Ash Wood',0.05
+Corpse Hauler,Creature,Human Rogue,Magic 2014,Common,2,Black,True,False,True,False,b'Jesper Ejsing',0.07
+Corrupt,Sorcery,None,Magic 2014,Uncommon,6,Black,True,False,True,True,b'Dave Allsop',0.13
+Dark Favor,Enchantment,Aura,Magic 2014,Common,2,Black,True,False,True,True,b'Allen Williams',0.04
+Dark Prophecy,Enchantment,None,Magic 2014,Rare,3,Black,True,False,True,False,b'Scott Chou',1.7
+Deathgaze Cockatrice,Creature,Cockatrice,Magic 2014,Common,4,Black,True,False,True,False,b'Kev Walker',0.08
+Diabolic Tutor,Sorcery,None,Magic 2014,Uncommon,4,Black,True,False,True,True,b'Greg Staples',0.51
+Doom Blade,Instant,None,Magic 2014,Uncommon,2,Black,True,False,True,True,b'Chippy',0.21
+Duress,Sorcery,None,Magic 2014,Common,1,Black,True,True,True,True,b'Steven Belledin',0.08
+Festering Newt,Creature,Salamander,Magic 2014,Common,1,Black,True,False,True,True,b'Eric Deschamps',0.09
+Gnawing Zombie,Creature,Zombie,Magic 2014,Uncommon,2,Black,True,False,True,True,b'Greg Staples',0.09
+Grim Return,Instant,None,Magic 2014,Rare,3,Black,True,False,True,False,b'Seb McKinnon',0.31
+Lifebane Zombie,Creature,Zombie Warrior,Magic 2014,Rare,3,Black,True,False,True,False,b'Min Yum',0.57
+Liliana of the Dark Realms,Legendary Planeswalker,Liliana,Magic 2014,Mythic Rare,4,Black,True,False,True,True,b'D. Alexander Gregory',10.77
+Liliana's Reaver,Creature,Zombie,Magic 2014,Rare,4,Black,True,False,True,True,b'Karl Kopinski',0.95
+Liturgy of Blood,Sorcery,None,Magic 2014,Common,5,Black,True,False,True,True,b'Zack Stella',0.03
+Mark of the Vampire,Enchantment,Aura,Magic 2014,Common,4,Black,True,False,True,True,b'Winona Nelson',0.04
+Mind Rot,Sorcery,None,Magic 2014,Common,3,Black,True,True,True,True,b'Steve Luke',0.05
+Minotaur Abomination,Creature,Zombie Minotaur,Magic 2014,Common,6,Black,True,False,True,False,b'Karl Kopinski',0.06
+Nightmare,Creature,Nightmare Horse,Magic 2014,Rare,6,Black,True,False,True,True,b'Vance Kovacs',0.23
+Nightwing Shade,Creature,Shade,Magic 2014,Common,5,Black,True,False,True,True,b'Lucas Graciano',0.06
+Quag Sickness,Enchantment,Aura,Magic 2014,Common,3,Black,True,False,True,True,b'Martina Pilcerova',0.05
+Rise of the Dark Realms,Sorcery,None,Magic 2014,Mythic Rare,9,Black,True,False,True,False,b'Michael Komarck',19.66
+Sanguine Bond,Enchantment,None,Magic 2014,Rare,5,Black,True,False,True,True,b'Jaime Jones',1.1
+Sengir Vampire,Creature,Vampire,Magic 2014,Uncommon,5,Black,True,False,True,True,b'Kev Walker',0.1
+Shadowborn Apostle,Creature,Human Cleric,Magic 2014,Common,1,Black,True,False,True,False,b'Lucas Graciano',3.81
+Shadowborn Demon,Creature,Demon,Magic 2014,Mythic Rare,5,Black,True,False,True,False,b'Lucas Graciano',0.69
+Shrivel,Sorcery,None,Magic 2014,Common,2,Black,True,False,True,True,b'Jung Park',0.14
+Syphon Sliver,Creature,Sliver,Magic 2014,Rare,3,Black,True,False,True,False,b'Tyler Jacobson',4.16
+Tenacious Dead,Creature,Skeleton Warrior,Magic 2014,Uncommon,1,Black,True,False,True,True,b'John Stanko',0.14
+Undead Minotaur,Creature,Zombie Minotaur,Magic 2014,Common,3,Black,True,False,True,False,b'Karl Kopinski',0.07
+Vampire Warlord,Creature,Vampire Warrior,Magic 2014,Uncommon,5,Black,True,False,True,False,b'Wesley Burt',0.08
+Vile Rebirth,Instant,None,Magic 2014,Common,1,Black,True,False,True,True,b'Erica Yang',0.09
+Wring Flesh,Instant,None,Magic 2014,Common,1,Black,True,False,True,True,b'Izzy',0.02
+Xathrid Necromancer,Creature,Human Wizard,Magic 2014,Rare,3,Black,True,False,True,True,b'Maciej Kuciara',0.36
+Academy Raider,Creature,Human Warrior,Magic 2014,Common,3,Red,True,False,True,False,b'Karl Kopinski',0.06
+Act of Treason,Sorcery,None,Magic 2014,Common,3,Red,True,True,True,True,b'Eric Deschamps',0.1
+Awaken the Ancient,Enchantment,Aura,Magic 2014,Rare,4,Red,True,False,True,False,b'Jaime Jones',0.19
+Barrage of Expendables,Enchantment,None,Magic 2014,Uncommon,1,Red,True,False,True,False,b'Trevor Claxton',0.13
+Battle Sliver,Creature,Sliver,Magic 2014,Uncommon,5,Red,True,False,True,False,b'Slawomir Maniak',0.26
+Blur Sliver,Creature,Sliver,Magic 2014,Common,3,Red,True,False,True,False,b'Daarken',0.23
+Burning Earth,Enchantment,None,Magic 2014,Rare,4,Red,True,False,True,False,b'rk post',0.48
+Canyon Minotaur,Creature,Minotaur Warrior,Magic 2014,Common,4,Red,True,False,True,True,b'Steve Prescott',0.05
+"Chandra, Pyromaster",Legendary Planeswalker,Chandra,Magic 2014,Mythic Rare,4,Red,True,False,True,True,b'Winona Nelson',1.16
+Chandra's Outrage,Instant,None,Magic 2014,Common,4,Red,True,True,True,True,b'Christopher Moeller',0.03
+Chandra's Phoenix,Creature,Phoenix,Magic 2014,Rare,3,Red,True,False,True,True,b'Aleksi Briclot',0.23
+Cyclops Tyrant,Creature,Cyclops,Magic 2014,Common,6,Red,True,False,True,False,b'Zack Stella',0.02
+Demolish,Sorcery,None,Magic 2014,Common,4,Red,True,True,True,True,b'John Avon',0.07
+Dragon Egg,Creature,Dragon Egg,Magic 2014,Uncommon,3,Red,True,False,True,True,b'Jack Wang',0.12
+Dragon Hatchling,Creature,Dragon,Magic 2014,Common,2,Red,True,False,True,True,b'David Palumbo',0.1
+Flames of the Firebrand,Sorcery,None,Magic 2014,Uncommon,3,Red,True,False,True,True,b'Steve Argyle',0.07
+Fleshpulper Giant,Creature,Giant,Magic 2014,Uncommon,7,Red,True,False,True,False,b'Alex Horley-Orlandelli',0.04
+Goblin Diplomats,Creature,Goblin,Magic 2014,Rare,2,Red,True,False,True,True,b'Izzy',0.22
+Goblin Shortcutter,Creature,Goblin Scout,Magic 2014,Common,2,Red,True,False,True,True,b'Jesper Ejsing',0.06
+Lava Axe,Sorcery,None,Magic 2014,Common,5,Red,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.03
+Lightning Talons,Enchantment,Aura,Magic 2014,Common,3,Red,True,False,True,True,b'Johann Bodin',0.03
+Marauding Maulhorn,Creature,Beast,Magic 2014,Common,4,Red,True,False,True,False,b'Jesper Ejsing',0.01
+Mindsparker,Creature,Elemental,Magic 2014,Rare,3,Red,True,False,True,False,b'Wayne Reynolds',0.17
+Molten Birth,Sorcery,None,Magic 2014,Uncommon,3,Red,True,False,True,True,b'Jaime Jones',0.14
+Ogre Battledriver,Creature,Ogre Warrior,Magic 2014,Rare,4,Red,True,False,True,True,b'Greg Staples',0.63
+Pitchburn Devils,Creature,Devil,Magic 2014,Common,5,Red,True,False,True,True,b'Johann Bodin',0.04
+Regathan Firecat,Creature,Elemental Cat,Magic 2014,Common,3,Red,True,False,True,False,b'Eric Velhagen',0.04
+Scourge of Valkas,Creature,Dragon,Magic 2014,Mythic Rare,5,Red,True,False,True,True,b'Lucas Graciano',1.01
+Seismic Stomp,Sorcery,None,Magic 2014,Common,2,Red,True,False,True,True,b'Chase Stone',0.05
+Shiv's Embrace,Enchantment,Aura,Magic 2014,Uncommon,4,Red,True,False,True,True,b'Dave Kendall',0.05
+Shivan Dragon,Creature,Dragon,Magic 2014,Rare,6,Red,True,True,True,True,b'Donato Giancola',0.19
+Shock,Instant,None,Magic 2014,Common,1,Red,True,True,True,True,b'Jon Foster',0.12
+Smelt,Instant,None,Magic 2014,Common,1,Red,True,False,True,True,b'Zoltan Boros',0.07
+Striking Sliver,Creature,Sliver,Magic 2014,Common,1,Red,True,False,True,False,b'Maciej Kuciara',0.31
+Thorncaster Sliver,Creature,Sliver,Magic 2014,Rare,5,Red,True,False,True,False,b'Trevor Claxton',1.8
+Thunder Strike,Instant,None,Magic 2014,Common,2,Red,True,False,True,True,b'Wayne Reynolds',0.02
+Volcanic Geyser,Instant,None,Magic 2014,Uncommon,3,Red,True,False,True,True,b'Clint Cearley',0.08
+Wild Guess,Sorcery,None,Magic 2014,Common,2,Red,True,False,True,True,b'Lucas Graciano',0.14
+Wild Ricochet,Instant,None,Magic 2014,Rare,4,Red,True,False,True,True,b'Dan Scott',0.41
+Young Pyromancer,Creature,Human Shaman,Magic 2014,Uncommon,2,Red,True,False,True,True,b'Cynthia Sheppard',0.91
+Advocate of the Beast,Creature,Elf Shaman,Magic 2014,Common,3,Green,True,False,True,False,b'Jesper Ejsing',0.08
+Bramblecrush,Sorcery,None,Magic 2014,Uncommon,4,Green,True,False,True,True,b'Drew Baker',0.1
+Briarpack Alpha,Creature,Wolf,Magic 2014,Uncommon,4,Green,True,False,True,True,b'Daarken',0.12
+Brindle Boar,Creature,Boar,Magic 2014,Common,3,Green,True,False,True,True,b'Dave Allsop',0.06
+Deadly Recluse,Creature,Spider,Magic 2014,Common,2,Green,True,False,True,True,b'Warren Mahy',0.16
+Elvish Mystic,Creature,Elf Druid,Magic 2014,Common,1,Green,True,False,True,True,b'Wesley Burt',0.4
+Enlarge,Sorcery,None,Magic 2014,Uncommon,5,Green,True,False,True,True,b'Michael Komarck',0.09
+Fog,Instant,None,Magic 2014,Common,1,Green,True,False,True,True,b'Jaime Jones',0.17
+"Garruk, Caller of Beasts",Legendary Planeswalker,Garruk,Magic 2014,Mythic Rare,6,Green,True,False,True,True,b'Karl Kopinski',4.53
+Garruk's Horde,Creature,Beast,Magic 2014,Rare,7,Green,True,False,True,True,b'Steve Prescott',0.23
+Giant Growth,Instant,None,Magic 2014,Common,1,Green,True,True,True,True,b'Matt Cavotta',0.06
+Giant Spider,Creature,Spider,Magic 2014,Common,4,Green,True,False,True,True,b'Randy Gallegos',0.05
+Gladecover Scout,Creature,Elf Scout,Magic 2014,Common,1,Green,True,False,True,True,b'Allen Williams',0.22
+Groundshaker Sliver,Creature,Sliver,Magic 2014,Common,7,Green,True,False,True,False,b'Chase Stone',0.15
+Howl of the Night Pack,Sorcery,None,Magic 2014,Uncommon,7,Green,True,False,True,True,b'Lars Grant-West',0.2
+Hunt the Weak,Sorcery,None,Magic 2014,Common,4,Green,True,False,True,True,b'Raoul Vitale',0.04
+Into the Wilds,Enchantment,None,Magic 2014,Rare,4,Green,True,False,True,False,b'V\xc3\xa9ronique Meignaud',0.64
+Kalonian Hydra,Creature,Hydra,Magic 2014,Mythic Rare,5,Green,True,False,True,True,b'Chris Rahn',11.5
+Kalonian Tusker,Creature,Beast,Magic 2014,Uncommon,2,Green,True,False,True,False,b'Svetlin Velinov',0.13
+Lay of the Land,Sorcery,None,Magic 2014,Common,1,Green,True,False,True,True,b'Chuck Lukacs',0.08
+Manaweft Sliver,Creature,Sliver,Magic 2014,Uncommon,2,Green,True,False,True,True,b'Trevor Claxton',1.13
+Megantic Sliver,Creature,Sliver,Magic 2014,Rare,6,Green,True,False,True,True,b'Ryan Barger',0.97
+Naturalize,Instant,None,Magic 2014,Common,2,Green,True,False,True,True,b'Tim Hildebrandt',0.07
+Oath of the Ancient Wood,Enchantment,None,Magic 2014,Rare,3,Green,True,False,True,False,b'Dan Scott',0.16
+Plummet,Instant,None,Magic 2014,Common,2,Green,True,True,True,True,b'Pete Venters',0.06
+Predatory Sliver,Creature,Sliver,Magic 2014,Common,2,Green,True,False,True,False,b'Mathias Kollros',0.56
+Primeval Bounty,Enchantment,None,Magic 2014,Mythic Rare,6,Green,True,False,True,False,b'Christine Choi',5.83
+Ranger's Guile,Instant,None,Magic 2014,Common,1,Green,True,False,True,True,b'Steve Prescott',0.09
+Rootwalla,Creature,Lizard,Magic 2014,Common,3,Green,True,False,True,True,b'Roger Raupp',0.04
+Rumbling Baloth,Creature,Beast,Magic 2014,Common,4,Green,True,False,True,True,b'Jesper Ejsing',0.05
+Savage Summoning,Instant,None,Magic 2014,Rare,1,Green,True,False,True,False,b'Johann Bodin',0.51
+Scavenging Ooze,Creature,Ooze,Magic 2014,Rare,2,Green,True,False,True,True,b'Austin Hsu',4.84
+Sporemound,Creature,Fungus,Magic 2014,Common,5,Green,True,False,True,False,b'Svetlin Velinov',0.31
+Trollhide,Enchantment,Aura,Magic 2014,Common,3,Green,True,False,True,True,b'Steven Belledin',0.05
+Vastwood Hydra,Creature,Hydra,Magic 2014,Rare,3,Green,True,False,True,True,b'Slawomir Maniak',2.25
+Verdant Haven,Enchantment,Aura,Magic 2014,Common,3,Green,True,False,True,True,b'Daniel Ljunggren',0.08
+Voracious Wurm,Creature,Wurm,Magic 2014,Uncommon,2,Green,True,False,True,False,b'Igor Kieryluk',0.13
+Windstorm,Instant,None,Magic 2014,Uncommon,2,Green,True,False,True,True,b'Rob Alexander',0.09
+Witchstalker,Creature,Wolf,Magic 2014,Rare,3,Green,True,False,True,False,b'Christopher Moeller',0.56
+Woodborn Behemoth,Creature,Elemental,Magic 2014,Uncommon,5,Green,True,False,True,True,b'Matt Stewart',0.08
+Accorder's Shield,Artifact,Equipment,Magic 2014,Uncommon,0,Colorless,True,False,True,True,b'Alan Pollack',0.17
+Bubbling Cauldron,Artifact,None,Magic 2014,Uncommon,2,Colorless,True,False,True,True,b'Eric Deschamps',0.13
+Darksteel Forge,Artifact,None,Magic 2014,Mythic Rare,9,Colorless,True,False,True,True,b'Martina Pilcerova',17.54
+Darksteel Ingot,Artifact,None,Magic 2014,Uncommon,3,Colorless,True,False,True,True,b'Martina Pilcerova',0.59
+Door of Destinies,Artifact,None,Magic 2014,Rare,4,Colorless,True,False,True,True,b'Larry MacDougall',7.22
+Elixir of Immortality,Artifact,None,Magic 2014,Uncommon,1,Colorless,True,False,True,True,b'Zoltan Boros',0.66
+Fireshrieker,Artifact,Equipment,Magic 2014,Uncommon,3,Colorless,True,False,True,True,b'Christopher Moeller',0.41
+Guardian of the Ages,Artifact Creature,Golem,Magic 2014,Rare,7,Colorless,True,False,True,False,b'Ryan Pancoast',0.19
+Haunted Plate Mail,Artifact,Equipment,Magic 2014,Rare,4,Colorless,True,False,True,True,b'Izzy',0.14
+Millstone,Artifact,None,Magic 2014,Uncommon,2,Colorless,True,False,True,True,b'Yeong-Hao Han',0.09
+Pyromancer's Gauntlet,Artifact,None,Magic 2014,Rare,5,Colorless,True,False,True,False,b'Christine Choi',0.28
+Ratchet Bomb,Artifact,None,Magic 2014,Rare,2,Colorless,True,False,True,True,b'Austin Hsu',0.89
+Ring of Three Wishes,Artifact,None,Magic 2014,Mythic Rare,5,Colorless,True,False,True,False,b'Mark Winters',2.17
+Rod of Ruin,Artifact,None,Magic 2014,Uncommon,4,Colorless,True,False,True,True,b'Mark Zug',0.04
+Sliver Construct,Artifact Creature,Sliver Construct,Magic 2014,Common,3,Colorless,True,False,True,False,b'Mathias Kollros',0.17
+Staff of the Death Magus,Artifact,None,Magic 2014,Uncommon,3,Colorless,True,False,True,True,b'Daniel Ljunggren',0.15
+Staff of the Flame Magus,Artifact,None,Magic 2014,Uncommon,3,Colorless,True,False,True,True,b'Daniel Ljunggren',0.07
+Staff of the Mind Magus,Artifact,None,Magic 2014,Uncommon,3,Colorless,True,False,True,True,b'Daniel Ljunggren',0.09
+Staff of the Sun Magus,Artifact,None,Magic 2014,Uncommon,3,Colorless,True,False,True,True,b'Daniel Ljunggren',0.08
+Staff of the Wild Magus,Artifact,None,Magic 2014,Uncommon,3,Colorless,True,False,True,True,b'Daniel Ljunggren',0.09
+Strionic Resonator,Artifact,None,Magic 2014,Rare,2,Colorless,True,False,True,True,b'Noah Bradley',2.11
+Trading Post,Artifact,None,Magic 2014,Rare,4,Colorless,True,False,True,True,b'Adam Paquette',0.46
+Vial of Poison,Artifact,None,Magic 2014,Uncommon,1,Colorless,True,False,True,False,b'Franz Vohwinkel',0.07
+Encroaching Wastes,Land,None,Magic 2014,Uncommon,0,Colorless,True,False,True,True,b'Noah Bradley',0.21
+Mutavault,Land,None,Magic 2014,Rare,0,Colorless,True,False,True,True,b'Fred Fields',20.7
+Shimmering Grotto,Land,None,Magic 2014,Uncommon,0,Colorless,True,False,True,True,b'Cliff Childs',0.08
+Plains,Basic Land,Plains,Magic 2014,Common,0,Colorless,True,True,True,True,b'John Avon',0.08
+Plains,Basic Land,Plains,Magic 2014,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.15
+Plains,Basic Land,Plains,Magic 2014,Common,0,Colorless,True,True,True,True,b'Nils Hamm',0.11
+Plains,Basic Land,Plains,Magic 2014,Common,0,Colorless,True,True,True,True,b'Andreas Rocha',0.14
+Island,Basic Land,Island,Magic 2014,Common,0,Colorless,True,True,True,True,b'Noah Bradley',0.13
+Island,Basic Land,Island,Magic 2014,Common,0,Colorless,True,True,True,True,b'Cliff Childs',0.17
+Island,Basic Land,Island,Magic 2014,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.24
+Island,Basic Land,Island,Magic 2014,Common,0,Colorless,True,True,True,True,b'Andreas Rocha',0.12
+Swamp,Basic Land,Swamp,Magic 2014,Common,0,Colorless,True,True,True,True,b'Cliff Childs',0.1
+Swamp,Basic Land,Swamp,Magic 2014,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.13
+Swamp,Basic Land,Swamp,Magic 2014,Common,0,Colorless,True,True,True,True,b'Jung Park',0.08
+Swamp,Basic Land,Swamp,Magic 2014,Common,0,Colorless,True,True,True,True,b'Andreas Rocha',0.08
+Mountain,Basic Land,Mountain,Magic 2014,Common,0,Colorless,True,True,True,True,b'Cliff Childs',0.15
+Mountain,Basic Land,Mountain,Magic 2014,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.11
+Mountain,Basic Land,Mountain,Magic 2014,Common,0,Colorless,True,True,True,True,b'Karl Kopinski',0.1
+Mountain,Basic Land,Mountain,Magic 2014,Common,0,Colorless,True,True,True,True,b'Andreas Rocha',0.1
+Forest,Basic Land,Forest,Magic 2014,Common,0,Colorless,True,True,True,True,b'Volkan Ba\xc7\xb5a',0.08
+Forest,Basic Land,Forest,Magic 2014,Common,0,Colorless,True,True,True,True,b'Steven Belledin',0.08
+Forest,Basic Land,Forest,Magic 2014,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.09
+Forest,Basic Land,Forest,Magic 2014,Common,0,Colorless,True,True,True,True,b'Andreas Rocha',0.11

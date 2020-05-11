@@ -1,0 +1,144 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Ageless Sentinels,Creature,Wall,Scourge,Rare,4,White,False,False,True,False,b'Tony Szczudlo',0.2
+Astral Steel,Instant,None,Scourge,Common,3,White,False,False,True,False,b'Matt Cavotta',0.1
+Aven Farseer,Creature,Bird Soldier,Scourge,Common,2,White,False,False,True,False,b'Luca Zontini',0.08
+Aven Liberator,Creature,Bird Soldier,Scourge,Common,4,White,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.08
+Daru Spiritualist,Creature,Human Cleric,Scourge,Common,2,White,False,False,True,False,b'Dave Dorman',0.16
+Daru Warchief,Creature,Human Soldier,Scourge,Uncommon,4,White,False,False,True,False,b'Tim Hildebrandt',0.93
+Dawn Elemental,Creature,Elemental,Scourge,Rare,4,White,False,False,True,False,b'Anthony S. Waters',0.35
+Decree of Justice,Sorcery,None,Scourge,Rare,5,White,False,False,True,True,b'Adam Rex',0.73
+Dimensional Breach,Sorcery,None,Scourge,Rare,7,White,False,False,True,False,b'Dave Dorman',0.34
+Dragon Scales,Enchantment,Aura,Scourge,Common,2,White,False,False,True,False,b'Darrell Riche',0.21
+Dragonstalker,Creature,Bird Soldier,Scourge,Uncommon,5,White,False,False,True,False,b'Ron Spencer',0.12
+Eternal Dragon,Creature,Dragon Spirit,Scourge,Rare,7,White,False,False,True,True,b'Justin Sweet',0.94
+Exiled Doomsayer,Creature,Human Cleric,Scourge,Rare,2,White,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.17
+Force Bubble,Enchantment,None,Scourge,Rare,4,White,False,False,True,False,b'Alan Pollack',0.25
+Frontline Strategist,Creature,Human Soldier,Scourge,Common,1,White,False,False,True,False,b'Christopher Moeller',0.08
+Gilded Light,Instant,None,Scourge,Uncommon,2,White,True,False,True,True,b'John Avon',0.21
+Guilty Conscience,Enchantment,Aura,Scourge,Common,1,White,False,False,True,False,b'Christopher Moeller',0.22
+Karona's Zealot,Creature,Human Cleric,Scourge,Uncommon,5,White,False,False,True,True,b'Alan Pollack',0.09
+Noble Templar,Creature,Human Cleric Soldier,Scourge,Common,6,White,False,False,True,True,b'Alex Horley-Orlandelli',0.06
+Rain of Blades,Instant,None,Scourge,Uncommon,1,White,True,False,True,True,b'Rob Alexander',0.07
+Recuperate,Instant,None,Scourge,Common,4,White,False,False,True,False,b'Tim Hildebrandt',0.04
+Reward the Faithful,Instant,None,Scourge,Uncommon,1,White,False,False,True,False,b'Matt Cavotta',0.13
+Silver Knight,Creature,Human Knight,Scourge,Uncommon,2,White,False,False,True,True,b'Eric Peterson',0.23
+Trap Digger,Creature,Human Soldier,Scourge,Rare,4,White,False,False,True,False,b'Christopher Moeller',0.18
+Wing Shards,Instant,None,Scourge,Uncommon,3,White,True,False,True,True,b'Daren Bader',0.17
+Wipe Clean,Instant,None,Scourge,Common,2,White,False,False,True,False,b'Arnie Swekel',0.15
+Zealous Inquisitor,Creature,Human Cleric,Scourge,Common,3,White,True,False,True,True,b'Wayne England',0.04
+Aphetto Runecaster,Creature,Human Wizard,Scourge,Uncommon,4,Blue,False,False,True,False,b'Scott M. Fischer',1.72
+Brain Freeze,Instant,None,Scourge,Uncommon,2,Blue,False,False,True,True,b'Tim Hildebrandt',4.18
+Coast Watcher,Creature,Bird Soldier,Scourge,Common,2,Blue,False,False,True,False,b'Luca Zontini',0.07
+Day of the Dragons,Enchantment,None,Scourge,Rare,7,Blue,False,False,True,True,b'Matthew D. Wilson',0.29
+Decree of Silence,Enchantment,None,Scourge,Rare,8,Blue,False,False,True,False,b'Adam Rex',21.37
+Dispersal Shield,Instant,None,Scourge,Common,2,Blue,False,False,True,False,b'Dave Dorman',0.11
+Dragon Wings,Enchantment,Aura,Scourge,Common,2,Blue,False,False,True,False,b'Darrell Riche',0.13
+Faces of the Past,Enchantment,None,Scourge,Rare,3,Blue,False,False,True,False,b'Wayne England',0.85
+Frozen Solid,Enchantment,Aura,Scourge,Common,3,Blue,True,False,True,True,b'Glen Angus',0.07
+Hindering Touch,Instant,None,Scourge,Common,4,Blue,False,False,True,False,b'Glen Angus',0.09
+Long-Term Plans,Instant,None,Scourge,Uncommon,3,Blue,False,False,True,False,b'Ben Thompson',2.78
+Mercurial Kite,Creature,Bird,Scourge,Common,4,Blue,False,False,True,False,b'Richard Sardinha',0.03
+Metamorphose,Instant,None,Scourge,Uncommon,2,Blue,False,False,True,False,b'Ron Spencer',0.22
+Mind's Desire,Sorcery,None,Scourge,Rare,6,Blue,False,False,True,True,b'Ron Spencer',0.76
+Mischievous Quanar,Creature,Beast,Scourge,Rare,5,Blue,False,False,True,False,b'Lars Grant-West',4.09
+Mistform Warchief,Creature,Illusion,Scourge,Uncommon,3,Blue,False,False,True,False,b'Greg Hildebrandt',0.17
+Parallel Thoughts,Enchantment,None,Scourge,Rare,5,Blue,False,False,True,False,b'Ben Thompson',0.44
+Pemmin's Aura,Enchantment,Aura,Scourge,Uncommon,3,Blue,False,False,True,False,b'Greg Staples',13.11
+Raven Guild Initiate,Creature,Human Wizard,Scourge,Common,3,Blue,False,False,True,False,b'Christopher Moeller',0.05
+Raven Guild Master,Creature,Human Wizard Mutant,Scourge,Rare,3,Blue,False,False,True,False,b'Kev Walker',1.24
+Riptide Survivor,Creature,Human Wizard,Scourge,Uncommon,3,Blue,False,False,True,True,b'Thomas M. Baxa',0.17
+Rush of Knowledge,Sorcery,None,Scourge,Common,5,Blue,False,False,True,True,b'Eric Peterson',0.24
+Scornful Egotist,Creature,Human Wizard,Scourge,Common,8,Blue,False,False,True,False,b'Jim Nelson',0.1
+Shoreline Ranger,Creature,Bird Soldier,Scourge,Common,6,Blue,False,False,True,True,b'Michael Sutfin',0.06
+Stifle,Instant,None,Scourge,Rare,1,Blue,False,False,True,True,b'Dany Orizio',6.11
+Temporal Fissure,Sorcery,None,Scourge,Common,5,Blue,False,False,True,True,"b'Edward P. Beard, Jr.'",0.23
+Thundercloud Elemental,Creature,Elemental,Scourge,Uncommon,7,Blue,False,False,True,False,b'Anthony S. Waters',0.14
+Bladewing's Thrall,Creature,Zombie,Scourge,Uncommon,4,Black,False,False,True,True,b'Kev Walker',0.22
+Cabal Conditioning,Sorcery,None,Scourge,Rare,7,Black,False,False,True,False,b'Scott M. Fischer',0.34
+Cabal Interrogator,Creature,Zombie Wizard,Scourge,Uncommon,2,Black,False,False,True,False,b'Tony Szczudlo',0.22
+Call to the Grave,Enchantment,None,Scourge,Rare,5,Black,True,False,True,True,b'Daren Bader',0.84
+Carrion Feeder,Creature,Zombie,Scourge,Common,1,Black,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.69
+Chill Haunting,Instant,None,Scourge,Uncommon,2,Black,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.08
+Clutch of Undeath,Enchantment,Aura,Scourge,Common,5,Black,False,False,True,False,b'Greg Hildebrandt',0.05
+Consumptive Goo,Creature,Ooze,Scourge,Rare,2,Black,False,False,True,False,b'Carl Critchlow',0.23
+Death's-Head Buzzard,Creature,Bird,Scourge,Common,3,Black,False,False,True,True,b'Marcelo Vignali',0.1
+Decree of Pain,Sorcery,None,Scourge,Rare,8,Black,False,False,True,True,b'Carl Critchlow',3.77
+Dragon Shadow,Enchantment,Aura,Scourge,Common,2,Black,False,False,True,False,b'Kev Walker',0.17
+Fatal Mutation,Enchantment,Aura,Scourge,Uncommon,1,Black,False,False,True,False,b'Erica Gassalasca-Jape',0.09
+Final Punishment,Sorcery,None,Scourge,Rare,5,Black,True,False,True,True,b'Matt Thompson',0.15
+Lethal Vapors,Enchantment,None,Scourge,Rare,4,Black,False,False,True,False,b'John Avon',2.16
+Lingering Death,Enchantment,Aura,Scourge,Common,2,Black,False,False,True,False,b'Matt Thompson',0.05
+Nefashu,Creature,Zombie Mutant,Scourge,Rare,6,Black,False,False,True,True,b'rk post',0.2
+Putrid Raptor,Creature,Zombie Dinosaur Beast,Scourge,Uncommon,6,Black,False,False,True,False,b'Pete Venters',0.08
+Reaping the Graves,Instant,None,Scourge,Common,3,Black,False,False,True,True,b'Ron Spencer',0.37
+Skulltap,Sorcery,None,Scourge,Common,2,Black,False,False,True,False,b'Adam Rex',0.13
+Soul Collector,Creature,Vampire,Scourge,Rare,5,Black,True,False,True,True,b'Matthew D. Wilson',0.45
+Tendrils of Agony,Sorcery,None,Scourge,Uncommon,4,Black,False,False,True,True,b'Pete Venters',2.3
+Twisted Abomination,Creature,Zombie Mutant,Scourge,Common,6,Black,True,False,True,True,b'Daren Bader',0.1
+Unburden,Sorcery,None,Scourge,Common,3,Black,True,False,True,True,b'Wayne England',0.11
+Undead Warchief,Creature,Zombie,Scourge,Uncommon,4,Black,True,False,True,True,b'Greg Hildebrandt',4.32
+Unspeakable Symbol,Enchantment,None,Scourge,Uncommon,3,Black,False,False,True,False,b'Arnie Swekel',1.57
+Vengeful Dead,Creature,Zombie,Scourge,Common,4,Black,False,False,True,False,b'Alex Horley-Orlandelli',0.46
+Zombie Cutthroat,Creature,Zombie,Scourge,Common,5,Black,False,False,True,False,b'Thomas M. Baxa',0.09
+Bonethorn Valesk,Creature,Beast,Scourge,Common,5,Red,False,False,True,False,b'Alan Pollack',0.04
+Carbonize,Instant,None,Scourge,Uncommon,3,Red,False,False,True,True,b'Alex Horley-Orlandelli',0.11
+Chartooth Cougar,Creature,Cat Beast,Scourge,Common,6,Red,False,False,True,True,b'Tony Szczudlo',0.08
+Decree of Annihilation,Sorcery,None,Scourge,Rare,10,Red,False,False,True,True,b'John Avon',6.8
+Dragon Breath,Enchantment,Aura,Scourge,Common,2,Red,False,False,True,True,b'Greg Staples',0.17
+Dragon Mage,Creature,Dragon Wizard,Scourge,Rare,7,Red,True,True,True,True,b'Matthew D. Wilson',1.12
+Dragon Tyrant,Creature,Dragon,Scourge,Rare,10,Red,False,False,True,False,b'Kev Walker',1.11
+Dragonspeaker Shaman,Creature,Human Barbarian Shaman,Scourge,Uncommon,3,Red,False,False,True,True,b'Kev Walker',2.87
+Dragonstorm,Sorcery,None,Scourge,Rare,9,Red,True,False,True,True,b'Kev Walker',1.2
+Enrage,Instant,None,Scourge,Uncommon,2,Red,True,False,True,True,b'Justin Sweet',0.12
+Extra Arms,Enchantment,Aura,Scourge,Uncommon,5,Red,False,False,True,False,b'Greg Staples',0.05
+Form of the Dragon,Enchantment,None,Scourge,Rare,7,Red,True,False,True,True,b'Carl Critchlow',0.57
+Goblin Brigand,Creature,Goblin Warrior,Scourge,Common,2,Red,True,False,True,True,b'Arnie Swekel',0.06
+Goblin Psychopath,Creature,Goblin Mutant,Scourge,Uncommon,4,Red,False,False,True,False,b'Pete Venters',0.15
+Goblin War Strike,Sorcery,None,Scourge,Common,1,Red,False,False,True,True,b'Pete Venters',0.78
+Goblin Warchief,Creature,Goblin Warrior,Scourge,Uncommon,3,Red,True,False,True,True,b'Greg Hildebrandt',0.72
+Grip of Chaos,Enchantment,None,Scourge,Rare,6,Red,False,False,True,False,b'Mark Tedin',1.56
+Misguided Rage,Sorcery,None,Scourge,Common,3,Red,False,False,True,False,b'Michael Sutfin',0.07
+Pyrostatic Pillar,Enchantment,None,Scourge,Uncommon,2,Red,False,False,True,True,b'Pete Venters',0.54
+Rock Jockey,Creature,Goblin,Scourge,Common,3,Red,False,False,True,False,b'Glen Angus',0.05
+Scattershot,Instant,None,Scourge,Common,3,Red,False,False,True,False,b'Glen Angus',0.12
+Siege-Gang Commander,Creature,Goblin,Scourge,Rare,5,Red,True,False,True,True,b'Christopher Moeller',1.42
+Skirk Volcanist,Creature,Goblin,Scourge,Uncommon,4,Red,False,False,True,False,b'Matt Cavotta',0.07
+Spark Spray,Instant,None,Scourge,Common,1,Red,False,False,True,True,b'Pete Venters',0.1
+Sulfuric Vortex,Enchantment,None,Scourge,Rare,3,Red,False,False,True,True,b'Greg Staples',0.88
+Torrent of Fire,Sorcery,None,Scourge,Common,5,Red,False,False,True,False,b'Thomas M. Baxa',0.12
+Uncontrolled Infestation,Enchantment,Aura,Scourge,Common,2,Red,False,False,True,False,b'Tony Szczudlo',0.11
+Accelerated Mutation,Instant,None,Scourge,Common,5,Green,False,False,True,False,"b'Edward P. Beard, Jr.'",0.07
+Alpha Status,Enchantment,Aura,Scourge,Uncommon,3,Green,False,False,True,True,b'Darrell Riche',1.15
+Ambush Commander,Creature,Elf,Scourge,Rare,5,Green,False,False,True,True,b'Darrell Riche',0.83
+Ancient Ooze,Creature,Ooze,Scourge,Rare,7,Green,False,False,True,False,b'Erica Gassalasca-Jape',0.45
+Break Asunder,Sorcery,None,Scourge,Common,4,Green,False,False,True,False,b'Jim Nelson',0.1
+Claws of Wirewood,Sorcery,None,Scourge,Uncommon,4,Green,False,False,True,True,b'Tony Szczudlo',0.12
+Decree of Savagery,Instant,None,Scourge,Rare,9,Green,False,False,True,False,b'Alex Horley-Orlandelli',0.53
+Divergent Growth,Instant,None,Scourge,Common,1,Green,False,False,True,False,b'Rob Alexander',0.06
+Dragon Fangs,Enchantment,Aura,Scourge,Common,2,Green,False,False,True,False,b'Carl Critchlow',0.17
+Elvish Aberration,Creature,Elf Mutant,Scourge,Uncommon,6,Green,False,False,True,True,b'Matt Cavotta',0.16
+Fierce Empath,Creature,Elf,Scourge,Common,3,Green,False,False,True,True,b'Alan Pollack',0.39
+Forgotten Ancient,Creature,Elemental,Scourge,Rare,4,Green,False,False,True,True,b'Mark Tedin',1.53
+Hunting Pack,Instant,None,Scourge,Uncommon,7,Green,False,False,True,True,b'Jim Nelson',0.17
+Krosan Drover,Creature,Elf,Scourge,Common,4,Green,False,False,True,False,b'Arnie Swekel',0.12
+Krosan Warchief,Creature,Beast,Scourge,Uncommon,3,Green,False,False,True,True,b'Greg Hildebrandt',0.16
+Kurgadon,Creature,Beast,Scourge,Uncommon,5,Green,False,False,True,False,b'Carl Critchlow',0.09
+One with Nature,Enchantment,Aura,Scourge,Uncommon,1,Green,False,False,True,False,b'Daren Bader',0.89
+Primitive Etchings,Enchantment,None,Scourge,Rare,4,Green,False,False,True,False,b'David Martin',0.29
+Root Elemental,Creature,Elemental,Scourge,Rare,6,Green,False,False,True,False,b'Anthony S. Waters',0.21
+Sprouting Vines,Instant,None,Scourge,Common,3,Green,False,False,True,True,b'John Avon',0.19
+Titanic Bulvox,Creature,Beast,Scourge,Common,8,Green,False,False,True,False,b'Wayne England',0.12
+Treetop Scout,Creature,Elf Scout,Scourge,Common,1,Green,False,False,True,True,b'Alan Pollack',0.2
+Upwelling,Enchantment,None,Scourge,Rare,4,Green,True,False,True,True,b'John Avon',0.65
+Wirewood Guardian,Creature,Elf Mutant,Scourge,Common,7,Green,False,False,True,True,b'Mark Tedin',0.11
+Wirewood Symbiote,Creature,Insect,Scourge,Uncommon,1,Green,False,False,True,True,b'Thomas M. Baxa',0.65
+Woodcloaker,Creature,Elf,Scourge,Common,6,Green,False,False,True,False,b'Jim Nelson',0.07
+Xantid Swarm,Creature,Insect,Scourge,Rare,1,Green,False,False,True,True,b'David Martin',0.92
+Bladewing the Risen,Legendary Creature,Zombie Dragon,Scourge,Rare,7,Gold,False,False,True,True,b'Kev Walker',0.7
+Edgewalker,Creature,Human Cleric,Scourge,Uncommon,3,Gold,False,False,True,False,b'Ben Thompson',0.98
+"Karona, False God",Legendary Creature,Avatar,Scourge,Rare,6,Gold,False,False,True,False,b'Matthew D. Wilson',1.11
+Sliver Overlord,Legendary Creature,Sliver Mutant,Scourge,Rare,5,Gold,False,False,True,True,b'Tony Szczudlo',24.5
+Ark of Blight,Artifact,None,Scourge,Uncommon,2,Colorless,False,False,True,False,b'David Martin',0.12
+Proteus Machine,Artifact Creature,Shapeshifter,Scourge,Uncommon,3,Colorless,False,False,True,False,b'Greg Staples',0.11
+Stabilizer,Artifact,None,Scourge,Rare,2,Colorless,False,False,True,False,b'David Martin',0.35
+Temple of the False God,Land,None,Scourge,Uncommon,0,Colorless,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.8

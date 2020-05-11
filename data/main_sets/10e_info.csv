@@ -1,0 +1,384 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Ancestor's Chosen,Creature,Human Cleric,Tenth Edition,Uncommon,7,White,True,False,True,True,b'Pete Venters',0.11
+Angel of Mercy,Creature,Angel,Tenth Edition,Uncommon,5,White,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.15
+Angelic Blessing,Sorcery,None,Tenth Edition,Common,3,White,True,False,True,True,b'Mark Zug',0.1
+Angelic Chorus,Enchantment,None,Tenth Edition,Rare,5,White,True,False,True,True,b'Jim Murray',1.86
+Angelic Wall,Creature,Wall,Tenth Edition,Common,2,White,True,False,True,True,b'John Avon',0.13
+Aura of Silence,Enchantment,None,Tenth Edition,Uncommon,3,White,True,False,True,True,b'D. Alexander Gregory',3.89
+Aven Cloudchaser,Creature,Bird Soldier,Tenth Edition,Common,4,White,True,False,True,True,b'Justin Sweet',0.17
+Ballista Squad,Creature,Human Rebel,Tenth Edition,Uncommon,4,White,True,False,True,True,b'Matthew D. Wilson',0.1
+Bandage,Instant,None,Tenth Edition,Common,1,White,True,False,True,True,b'Rebecca Guay',0.25
+Beacon of Immortality,Instant,None,Tenth Edition,Rare,6,White,True,False,True,True,b'Rob Alexander',2.24
+Benalish Knight,Creature,Human Knight,Tenth Edition,Common,3,White,True,False,True,True,b'Zoltan Boros',0.15
+"Cho-Manno, Revolutionary",Legendary Creature,Human Rebel,Tenth Edition,Rare,4,White,True,False,True,True,b'Steven Belledin',0.43
+Condemn,Instant,None,Tenth Edition,Uncommon,1,White,True,False,True,True,b'Daren Bader',0.25
+Demystify,Instant,None,Tenth Edition,Common,1,White,True,False,True,True,b'Christopher Rush',0.08
+Field Marshal,Creature,Human Soldier,Tenth Edition,Rare,3,White,True,False,True,True,b'Stephen Tappin',2.44
+Ghost Warden,Creature,Spirit,Tenth Edition,Common,2,White,True,False,True,True,b'Ittoku',0.09
+Glorious Anthem,Enchantment,None,Tenth Edition,Rare,3,White,True,False,True,True,b'Kev Walker',1.57
+Hail of Arrows,Instant,None,Tenth Edition,Uncommon,2,White,True,False,True,True,b'Anthony S. Waters',0.12
+Heart of Light,Enchantment,Aura,Tenth Edition,Common,3,White,True,False,True,True,b'Luca Zontini',0.1
+High Ground,Enchantment,None,Tenth Edition,Uncommon,1,White,True,False,True,True,b'rk post',0.27
+Holy Day,Instant,None,Tenth Edition,Common,1,White,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.36
+Holy Strength,Enchantment,Aura,Tenth Edition,Common,1,White,True,False,True,True,b'Terese Nielsen',0.13
+Honor Guard,Creature,Human Soldier,Tenth Edition,Common,1,White,True,False,True,True,b'Dan Dos Santos',0.05
+Icatian Priest,Creature,Human Cleric,Tenth Edition,Uncommon,1,White,True,False,True,True,b'Stephen Tappin',0.06
+Kjeldoran Royal Guard,Creature,Human Soldier,Tenth Edition,Rare,5,White,True,False,True,True,b'Carl Critchlow',0.19
+Loxodon Mystic,Creature,Elephant Cleric,Tenth Edition,Common,5,White,True,False,True,True,b'Randy Gallegos',0.03
+Loyal Sentry,Creature,Human Soldier,Tenth Edition,Rare,1,White,True,False,True,True,b'Michael Sutfin',0.35
+Luminesce,Instant,None,Tenth Edition,Uncommon,1,White,True,False,True,True,b'Daren Bader',0.08
+Mobilization,Enchantment,None,Tenth Edition,Rare,3,White,True,False,True,True,b'Carl Critchlow',0.69
+Nomad Mythmaker,Creature,Human Nomad Cleric,Tenth Edition,Rare,3,White,True,False,True,True,b'Darrell Riche',2.41
+Pacifism,Enchantment,Aura,Tenth Edition,Common,2,White,True,True,True,True,b'Robert Bliss',0.08
+Paladin en-Vec,Creature,Human Knight,Tenth Edition,Rare,3,White,True,False,True,True,b'Dave Kendall',0.85
+Pariah,Enchantment,Aura,Tenth Edition,Rare,3,White,True,False,True,True,b'Jon J Muth',0.81
+Reviving Dose,Instant,None,Tenth Edition,Common,3,White,True,False,True,True,b'D. Alexander Gregory',0.05
+Reya Dawnbringer,Legendary Creature,Angel,Tenth Edition,Rare,9,White,True,False,True,True,b'Matthew D. Wilson',1.21
+Righteousness,Instant,None,Tenth Edition,Rare,1,White,True,True,True,True,b'Wayne England',0.32
+Rule of Law,Enchantment,None,Tenth Edition,Uncommon,3,White,True,True,True,True,b'Scott M. Fischer',0.85
+Samite Healer,Creature,Human Cleric,Tenth Edition,Common,2,White,True,False,True,True,b'Anson Maddocks',0.05
+Serra Angel,Creature,Angel,Tenth Edition,Rare,5,White,True,False,True,True,b'Greg Staples',0.43
+Serra's Embrace,Enchantment,Aura,Tenth Edition,Uncommon,4,White,True,False,True,True,b'Zoltan Boros',0.16
+Skyhunter Patrol,Creature,Cat Knight,Tenth Edition,Common,4,White,True,False,True,True,b'Matt Cavotta',0.1
+Skyhunter Prowler,Creature,Cat Knight,Tenth Edition,Common,3,White,True,False,True,True,b'Vance Kovacs',0.11
+Skyhunter Skirmisher,Creature,Cat Knight,Tenth Edition,Uncommon,3,White,True,False,True,True,b'Greg Staples',0.29
+Soul Warden,Creature,Human Cleric,Tenth Edition,Uncommon,1,White,True,False,True,True,b'Randy Gallegos',0.57
+Spirit Link,Enchantment,Aura,Tenth Edition,Uncommon,1,White,True,False,True,True,b'Kev Walker',1.01
+Spirit Weaver,Creature,Human Wizard,Tenth Edition,Uncommon,2,White,True,False,True,True,b'Matthew D. Wilson',0.07
+Starlight Invoker,Creature,Human Cleric Mutant,Tenth Edition,Uncommon,2,White,True,False,True,True,b'Glen Angus',0.07
+Steadfast Guard,Creature,Human Rebel,Tenth Edition,Common,2,White,True,False,True,True,b'Michael Komarck',0.05
+Story Circle,Enchantment,None,Tenth Edition,Rare,3,White,True,False,True,True,b'Aleksi Briclot',0.64
+Suntail Hawk,Creature,Bird,Tenth Edition,Common,1,White,True,False,True,True,b'Heather Hudson',0.1
+Tempest of Light,Instant,None,Tenth Edition,Uncommon,3,White,True,False,True,True,b'Wayne England',0.1
+Treasure Hunter,Creature,Human,Tenth Edition,Uncommon,3,White,True,False,True,True,b'Adam Rex',0.17
+True Believer,Creature,Human Cleric,Tenth Edition,Rare,2,White,True,False,True,True,b'Alex Horley-Orlandelli',1.06
+Tundra Wolves,Creature,Wolf,Tenth Edition,Common,1,White,True,False,True,True,b'Richard Sardinha',0.1
+Venerable Monk,Creature,Human Monk Cleric,Tenth Edition,Common,3,White,True,False,True,True,b'D. Alexander Gregory',0.04
+Voice of All,Creature,Angel,Tenth Edition,Rare,4,White,True,False,True,True,b'rk post',0.43
+Wall of Swords,Creature,Wall,Tenth Edition,Uncommon,4,White,True,False,True,True,b'Zoltan Boros',0.11
+Warrior's Honor,Instant,None,Tenth Edition,Common,3,White,True,False,True,True,b'D. Alexander Gregory',0.09
+Wild Griffin,Creature,Griffin,Tenth Edition,Common,3,White,True,False,True,True,b'Matt Cavotta',0.09
+Windborn Muse,Creature,Spirit,Tenth Edition,Rare,4,White,True,False,True,True,b'Adam Rex',3.81
+Wrath of God,Sorcery,None,Tenth Edition,Rare,4,White,True,False,True,True,b'Kev Walker',9.02
+Youthful Knight,Creature,Human Knight,Tenth Edition,Common,2,White,True,True,True,True,b'Rebecca Guay',0.2
+Academy Researchers,Creature,Human Wizard,Tenth Edition,Uncommon,3,Blue,True,False,True,True,b'Stephen Daniele',0.36
+Air Elemental,Creature,Elemental,Tenth Edition,Uncommon,5,Blue,True,True,True,True,b'Kev Walker',0.04
+Ambassador Laquatus,Legendary Creature,Merfolk Wizard,Tenth Edition,Rare,3,Blue,True,False,True,True,b'Jim Murray',1.38
+Arcanis the Omnipotent,Legendary Creature,Wizard,Tenth Edition,Rare,6,Blue,True,False,True,True,b'Justin Sweet',1.14
+Aura Graft,Instant,None,Tenth Edition,Uncommon,2,Blue,True,False,True,True,b'Ray Lago',0.14
+Aven Fisher,Creature,Bird Soldier,Tenth Edition,Common,4,Blue,True,False,True,True,b'Christopher Moeller',0.05
+Aven Windreader,Creature,Bird Soldier Wizard,Tenth Edition,Common,5,Blue,True,False,True,True,b'Greg Hildebrandt',0.05
+Boomerang,Instant,None,Tenth Edition,Common,2,Blue,True,False,True,True,b'Arnie Swekel',0.2
+Cancel,Instant,None,Tenth Edition,Common,3,Blue,True,False,True,True,b'Mark Poole',0.1
+Cephalid Constable,Creature,Cephalid Wizard,Tenth Edition,Rare,3,Blue,True,False,True,True,b'Alan Pollack',3.3
+Clone,Creature,Shapeshifter,Tenth Edition,Rare,4,Blue,True,False,True,True,b'Kev Walker',0.33
+Cloud Elemental,Creature,Elemental,Tenth Edition,Common,3,Blue,True,False,True,True,b'Michael Sutfin',0.04
+Cloud Sprite,Creature,Faerie,Tenth Edition,Common,1,Blue,True,False,True,True,b'Mark Zug',0.15
+Counsel of the Soratami,Sorcery,None,Tenth Edition,Common,3,Blue,True,False,True,True,b'Randy Gallegos',0.11
+Crafty Pathmage,Creature,Human Wizard,Tenth Edition,Common,3,Blue,True,False,True,True,b'Wayne England',0.05
+Dehydration,Enchantment,Aura,Tenth Edition,Common,4,Blue,True,False,True,True,b'Arnie Swekel',0.03
+Deluge,Instant,None,Tenth Edition,Uncommon,3,Blue,True,False,True,True,b'Wayne England',0.1
+Denizen of the Deep,Creature,Serpent,Tenth Edition,Rare,8,Blue,True,False,True,True,b'Jim Pavelec',0.18
+Discombobulate,Instant,None,Tenth Edition,Uncommon,4,Blue,True,False,True,True,b'Alex Horley-Orlandelli',0.2
+Dreamborn Muse,Creature,Spirit,Tenth Edition,Rare,4,Blue,True,False,True,True,b'Kev Walker',1.37
+Evacuation,Instant,None,Tenth Edition,Rare,5,Blue,True,False,True,True,b'Franz Vohwinkel',4.42
+Flashfreeze,Instant,None,Tenth Edition,Uncommon,2,Blue,True,False,True,True,b'Brian Despain',0.19
+Fog Elemental,Creature,Elemental,Tenth Edition,Uncommon,3,Blue,True,False,True,True,b'Jon J Muth',0.09
+Fugitive Wizard,Creature,Human Wizard,Tenth Edition,Common,1,Blue,True,False,True,True,b'Mark Zug',0.04
+Horseshoe Crab,Creature,Crab,Tenth Edition,Common,3,Blue,True,False,True,True,b'Scott Kirschner',0.13
+Hurkyl's Recall,Instant,None,Tenth Edition,Rare,2,Blue,True,False,True,True,b'Ralph Horsley',3.5
+Lumengrid Warden,Creature,Human Wizard,Tenth Edition,Common,2,Blue,True,False,True,True,b'Francis Tsai',0.04
+Mahamoti Djinn,Creature,Djinn,Tenth Edition,Rare,6,Blue,True,False,True,True,b'Greg Staples',0.14
+March of the Machines,Enchantment,None,Tenth Edition,Rare,4,Blue,True,False,True,True,b'Ben Thompson',0.59
+Merfolk Looter,Creature,Merfolk Rogue,Tenth Edition,Common,2,Blue,True,False,True,True,b'Tristan Elwell',0.1
+Mind Bend,Instant,None,Tenth Edition,Rare,1,Blue,True,False,True,True,b'Mike Dringenberg',0.33
+Peek,Instant,None,Tenth Edition,Common,1,Blue,True,False,True,True,b'Adam Rex',0.39
+Persuasion,Enchantment,Aura,Tenth Edition,Uncommon,5,Blue,True,False,True,True,"b""William O'Connor""",0.31
+Phantom Warrior,Creature,Illusion Warrior,Tenth Edition,Uncommon,3,Blue,True,True,True,True,b'Greg Staples',0.18
+Plagiarize,Instant,None,Tenth Edition,Rare,4,Blue,True,False,True,True,b'Jeremy Jarvis',0.25
+Puppeteer,Creature,Human Wizard,Tenth Edition,Uncommon,3,Blue,True,False,True,True,b'Kev Walker',0.25
+Reminisce,Sorcery,None,Tenth Edition,Uncommon,3,Blue,True,False,True,True,b'Ralph Horsley',0.21
+Remove Soul,Instant,None,Tenth Edition,Common,2,Blue,True,False,True,True,b'Adam Rex',0.17
+Robe of Mirrors,Enchantment,Aura,Tenth Edition,Common,1,Blue,True,False,True,True,b'Christopher Moeller',0.17
+Rootwater Commando,Creature,Merfolk,Tenth Edition,Common,3,Blue,True,False,True,True,b'Mark Tedin',0.08
+Rootwater Matriarch,Creature,Merfolk,Tenth Edition,Rare,4,Blue,True,False,True,True,b'Daren Bader',0.34
+Sage Owl,Creature,Bird,Tenth Edition,Common,2,Blue,True,False,True,True,b'Mark Brill',0.13
+Scalpelexis,Creature,Beast,Tenth Edition,Rare,5,Blue,True,False,True,True,b'Mark Tedin',0.3
+Sea Monster,Creature,Serpent,Tenth Edition,Common,6,Blue,True,False,True,True,b'Brian Despain',0.15
+Shimmering Wings,Enchantment,Aura,Tenth Edition,Common,1,Blue,True,False,True,True,b'Carl Critchlow',0.13
+Sift,Sorcery,None,Tenth Edition,Common,4,Blue,True,False,True,True,b'Jeremy Jarvis',0.02
+Sky Weaver,Creature,Metathran Wizard,Tenth Edition,Uncommon,2,Blue,True,False,True,True,b'Christopher Moeller',0.06
+Snapping Drake,Creature,Drake,Tenth Edition,Common,4,Blue,True,True,True,True,b'Dave Dorman',0.19
+Spiketail Hatchling,Creature,Drake,Tenth Edition,Uncommon,2,Blue,True,False,True,True,b'Greg Staples',0.23
+Sunken Hope,Enchantment,None,Tenth Edition,Rare,5,Blue,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.27
+Telepathy,Enchantment,None,Tenth Edition,Uncommon,1,Blue,True,False,True,True,b'Matthew D. Wilson',0.32
+Telling Time,Instant,None,Tenth Edition,Uncommon,2,Blue,True,False,True,True,b'Scott M. Fischer',0.28
+Thieving Magpie,Creature,Bird,Tenth Edition,Uncommon,4,Blue,True,False,True,True,b'Una Fricker',0.13
+Tidings,Sorcery,None,Tenth Edition,Uncommon,5,Blue,True,False,True,True,b'Pete Venters',0.24
+Time Stop,Instant,None,Tenth Edition,Rare,6,Blue,True,False,True,True,b'Scott M. Fischer',2.67
+Time Stretch,Sorcery,None,Tenth Edition,Rare,10,Blue,True,False,True,True,b'Matt Cavotta',19.38
+Traumatize,Sorcery,None,Tenth Edition,Rare,5,Blue,True,False,True,True,b'Greg Staples',1.89
+Twincast,Instant,None,Tenth Edition,Rare,2,Blue,True,False,True,True,b'Christopher Moeller',3.52
+Twitch,Instant,None,Tenth Edition,Common,3,Blue,True,False,True,True,b'DiTerlizzi',0.05
+Unsummon,Instant,None,Tenth Edition,Common,1,Blue,True,True,True,True,b'Ron Spencer',0.1
+Vedalken Mastermind,Creature,Vedalken Wizard,Tenth Edition,Uncommon,2,Blue,True,False,True,True,b'Darrell Riche',0.39
+Wall of Air,Creature,Wall,Tenth Edition,Uncommon,3,Blue,True,False,True,True,b'John Avon',0.25
+Afflict,Instant,None,Tenth Edition,Common,3,Black,True,False,True,True,b'Roger Raupp',0.1
+Agonizing Memories,Sorcery,None,Tenth Edition,Uncommon,4,Black,True,False,True,True,b'Adam Rex',0.17
+Ascendant Evincar,Legendary Creature,Vampire Noble,Tenth Edition,Rare,6,Black,True,False,True,True,b'Mark Zug',0.92
+Assassinate,Sorcery,None,Tenth Edition,Common,3,Black,True,False,True,True,b'Kev Walker',0.1
+Beacon of Unrest,Sorcery,None,Tenth Edition,Rare,5,Black,True,False,True,True,b'Alan Pollack',2.25
+Bog Wraith,Creature,Wraith,Tenth Edition,Uncommon,4,Black,True,False,True,True,b'Daarken',0.15
+Consume Spirit,Sorcery,None,Tenth Edition,Uncommon,3,Black,True,False,True,True,b'Matt Thompson',0.06
+Contaminated Bond,Enchantment,Aura,Tenth Edition,Common,2,Black,True,False,True,True,b'Thomas M. Baxa',0.11
+Cruel Edict,Sorcery,None,Tenth Edition,Uncommon,2,Black,True,False,True,True,b'Michael Sutfin',0.29
+Deathmark,Sorcery,None,Tenth Edition,Uncommon,1,Black,True,False,True,True,b'Jeremy Jarvis',0.09
+Diabolic Tutor,Sorcery,None,Tenth Edition,Uncommon,4,Black,True,False,True,True,b'Greg Staples',0.55
+Distress,Sorcery,None,Tenth Edition,Common,2,Black,True,False,True,True,b'Michael Sutfin',0.13
+Doomed Necromancer,Creature,Human Cleric Mercenary,Tenth Edition,Rare,3,Black,True,False,True,True,b'Volkan Ba\xc7\xb5a',2.75
+Dross Crocodile,Creature,Zombie Crocodile,Tenth Edition,Common,4,Black,True,False,True,True,b'Carl Critchlow',0.1
+Drudge Skeletons,Creature,Skeleton,Tenth Edition,Uncommon,2,Black,True,False,True,True,b'Jim Nelson',0.09
+Dusk Imp,Creature,Imp,Tenth Edition,Common,3,Black,True,False,True,True,b'Pete Venters',0.04
+Essence Drain,Sorcery,None,Tenth Edition,Common,5,Black,True,False,True,True,b'Jim Nelson',0.03
+Fear,Enchantment,Aura,Tenth Edition,Common,2,Black,True,False,True,True,b'Adam Rex',0.11
+Festering Goblin,Creature,Zombie Goblin,Tenth Edition,Common,1,Black,True,False,True,True,b'Thomas M. Baxa',0.07
+Grave Pact,Enchantment,None,Tenth Edition,Rare,4,Black,True,False,True,True,b'Puddnhead',15.96
+Graveborn Muse,Creature,Zombie Spirit,Tenth Edition,Rare,4,Black,True,False,True,True,b'Kev Walker',3.04
+Gravedigger,Creature,Zombie,Tenth Edition,Common,4,Black,True,True,True,True,b'Dermot Power',0.06
+Hate Weaver,Creature,Zombie Wizard,Tenth Edition,Uncommon,2,Black,True,False,True,True,b'Roger Raupp',0.08
+Head Games,Sorcery,None,Tenth Edition,Rare,5,Black,True,False,True,True,b'Terese Nielsen',0.86
+Hidden Horror,Creature,Horror,Tenth Edition,Uncommon,3,Black,True,False,True,True,b'Brom',0.07
+Highway Robber,Creature,Human Mercenary,Tenth Edition,Common,4,Black,True,False,True,True,b'Kev Walker',0.05
+Hypnotic Specter,Creature,Specter,Tenth Edition,Rare,3,Black,True,False,True,True,b'Greg Staples',2.13
+Knight of Dusk,Creature,Human Knight,Tenth Edition,Uncommon,3,Black,True,False,True,True,b'rk post',0.52
+Looming Shade,Creature,Shade,Tenth Edition,Common,3,Black,True,False,True,True,b'Kev Walker',0.04
+Lord of the Pit,Creature,Demon,Tenth Edition,Rare,7,Black,True,False,True,True,b'Michael Sutfin',0.25
+Lord of the Undead,Creature,Zombie,Tenth Edition,Rare,3,Black,True,False,True,True,b'Brom',12.92
+Mass of Ghouls,Creature,Zombie Warrior,Tenth Edition,Common,5,Black,True,False,True,True,b'Lucio Parrillo',0.09
+Megrim,Enchantment,None,Tenth Edition,Uncommon,3,Black,True,False,True,True,b'Nick Percival',0.31
+Midnight Ritual,Sorcery,None,Tenth Edition,Rare,3,Black,True,False,True,True,b'Jeff Easley',0.23
+Mind Rot,Sorcery,None,Tenth Edition,Common,3,Black,True,True,True,True,b'Steve Luke',0.05
+Mortal Combat,Enchantment,None,Tenth Edition,Rare,4,Black,True,False,True,True,b'Mike Ploog',1.33
+Mortivore,Creature,Lhurgoyf,Tenth Edition,Rare,4,Black,True,False,True,True,b'Anthony S. Waters',1.43
+Nantuko Husk,Creature,Zombie Insect,Tenth Edition,Uncommon,3,Black,True,False,True,True,b'Carl Critchlow',0.08
+Nekrataal,Creature,Human Assassin,Tenth Edition,Uncommon,4,Black,True,False,True,True,b'Christopher Moeller',0.2
+Nightmare,Creature,Nightmare Horse,Tenth Edition,Rare,6,Black,True,False,True,True,b'Carl Critchlow',0.19
+No Rest for the Wicked,Enchantment,None,Tenth Edition,Uncommon,2,Black,True,False,True,True,b'Carl Critchlow',0.55
+Phage the Untouchable,Legendary Creature,Avatar Minion,Tenth Edition,Rare,7,Black,True,False,True,True,b'Ron Spears',4.86
+Phyrexian Rager,Creature,Horror,Tenth Edition,Common,3,Black,True,False,True,True,b'Mark Tedin',0.13
+Plague Beetle,Creature,Insect,Tenth Edition,Common,1,Black,True,False,True,True,b'Tom Fleming',0.09
+Plague Wind,Sorcery,None,Tenth Edition,Rare,9,Black,True,False,True,True,b'Alan Pollack',1.24
+Rain of Tears,Sorcery,None,Tenth Edition,Uncommon,3,Black,True,False,True,True,b'Eric Peterson',0.52
+Ravenous Rats,Creature,Rat,Tenth Edition,Common,2,Black,True,False,True,True,b'Carl Critchlow',0.06
+Recover,Sorcery,None,Tenth Edition,Common,3,Black,True,False,True,True,b'Nelson DeCastro',0.09
+Relentless Rats,Creature,Rat,Tenth Edition,Uncommon,3,Black,True,False,True,True,b'Thomas M. Baxa',1.53
+Royal Assassin,Creature,Human Assassin,Tenth Edition,Rare,3,Black,True,False,True,True,b'Mark Zug',0.93
+Scathe Zombies,Creature,Zombie,Tenth Edition,Common,3,Black,True,False,True,True,b'Kev Walker',0.07
+Sengir Vampire,Creature,Vampire,Tenth Edition,Rare,5,Black,True,False,True,True,b'Kev Walker',0.29
+Severed Legion,Creature,Zombie,Tenth Edition,Common,3,Black,True,False,True,True,b'Dany Orizio',0.06
+Sleeper Agent,Creature,Minion,Tenth Edition,Rare,1,Black,True,False,True,True,b'Randy Gallegos',0.57
+Soul Feast,Sorcery,None,Tenth Edition,Uncommon,5,Black,True,False,True,True,b'Adam Rex',0.1
+Spineless Thug,Creature,Zombie Mercenary,Tenth Edition,Common,2,Black,True,False,True,True,b'Matthew D. Wilson',0.05
+Stronghold Discipline,Sorcery,None,Tenth Edition,Uncommon,4,Black,True,False,True,True,b'Daarken',0.08
+Terror,Instant,None,Tenth Edition,Common,2,Black,True,False,True,True,b'Adam Rex',0.19
+Thrull Surgeon,Creature,Thrull,Tenth Edition,Uncommon,2,Black,True,False,True,True,b'rk post',0.28
+Underworld Dreams,Enchantment,None,Tenth Edition,Rare,3,Black,True,True,True,True,b'Carl Critchlow',4.4
+Unholy Strength,Enchantment,Aura,Tenth Edition,Common,1,Black,True,False,True,True,b'Terese Nielsen',0.05
+Vampire Bats,Creature,Bat,Tenth Edition,Common,1,Black,True,False,True,True,b'Chippy',0.1
+Anaba Bodyguard,Creature,Minotaur,Tenth Edition,Common,4,Red,True,False,True,True,b'Greg Staples',0.08
+Arcane Teachings,Enchantment,Aura,Tenth Edition,Uncommon,3,Red,True,False,True,True,b'Dan Dos Santos',0.25
+Beacon of Destruction,Instant,None,Tenth Edition,Rare,5,Red,True,False,True,True,b'Greg Hildebrandt',0.22
+Blaze,Sorcery,None,Tenth Edition,Uncommon,2,Red,True,False,True,True,b'Alex Horley-Orlandelli',0.14
+Bloodfire Colossus,Creature,Giant,Tenth Edition,Rare,8,Red,True,False,True,True,b'Greg Staples',0.26
+Bloodrock Cyclops,Creature,Cyclops,Tenth Edition,Common,3,Red,True,False,True,True,b'Alex Horley-Orlandelli',0.06
+Bogardan Firefiend,Creature,Elemental Spirit,Tenth Edition,Common,3,Red,True,False,True,True,b'Terese Nielsen',0.08
+Cone of Flame,Sorcery,None,Tenth Edition,Uncommon,5,Red,True,False,True,True,b'Chippy',0.09
+Cryoclasm,Sorcery,None,Tenth Edition,Uncommon,3,Red,True,False,True,True,b'Zoltan Boros',0.09
+Demolish,Sorcery,None,Tenth Edition,Common,4,Red,True,True,True,True,b'Gary Ruddell',0.04
+Dragon Roost,Enchantment,None,Tenth Edition,Rare,6,Red,True,False,True,True,b'Jim Pavelec',1.19
+Duct Crawler,Creature,Insect,Tenth Edition,Common,1,Red,True,False,True,True,b'Stephen Daniele',0.15
+Earth Elemental,Creature,Elemental,Tenth Edition,Uncommon,5,Red,True,False,True,True,b'Anthony S. Waters',0.09
+Firebreathing,Enchantment,Aura,Tenth Edition,Common,1,Red,True,False,True,True,b'Aleksi Briclot',0.05
+Fists of the Anvil,Instant,None,Tenth Edition,Common,2,Red,True,False,True,True,b'Pete Venters',0.16
+Flamewave Invoker,Creature,Goblin Mutant,Tenth Edition,Uncommon,3,Red,True,False,True,True,b'Dave Dorman',0.09
+Flowstone Slide,Sorcery,None,Tenth Edition,Rare,4,Red,True,False,True,True,b'Chippy',0.27
+Furnace of Rath,Enchantment,None,Tenth Edition,Rare,4,Red,True,False,True,True,b'John Matson',3.87
+Furnace Whelp,Creature,Dragon,Tenth Edition,Uncommon,4,Red,True,False,True,True,b'Matt Cavotta',0.08
+Goblin Elite Infantry,Creature,Goblin Warrior,Tenth Edition,Common,2,Red,True,False,True,True,b'Robert Bliss',0.04
+Goblin King,Creature,Goblin,Tenth Edition,Rare,3,Red,True,False,True,True,b'Ron Spears',7.05
+Goblin Lore,Sorcery,None,Tenth Edition,Uncommon,2,Red,True,False,True,True,b'D. Alexander Gregory',3.44
+Goblin Piker,Creature,Goblin Warrior,Tenth Edition,Common,2,Red,True,False,True,True,b'DiTerlizzi',0.05
+Goblin Sky Raider,Creature,Goblin Warrior,Tenth Edition,Common,3,Red,True,False,True,True,b'Daren Bader',0.12
+Guerrilla Tactics,Instant,None,Tenth Edition,Uncommon,2,Red,True,False,True,True,b'Dave Dorman',0.08
+Hill Giant,Creature,Giant,Tenth Edition,Common,4,Red,True,False,True,True,b'Kev Walker',0.05
+Incinerate,Instant,None,Tenth Edition,Common,2,Red,True,False,True,True,b'Zoltan Boros',0.11
+"Kamahl, Pit Fighter",Legendary Creature,Human Barbarian,Tenth Edition,Rare,6,Red,True,False,True,True,b'Kev Walker',0.14
+Lava Axe,Sorcery,None,Tenth Edition,Common,5,Red,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.05
+Lavaborn Muse,Creature,Spirit,Tenth Edition,Rare,4,Red,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.19
+Lightning Elemental,Creature,Elemental,Tenth Edition,Common,4,Red,True,False,True,True,b'Kev Walker',0.04
+Manabarbs,Enchantment,None,Tenth Edition,Rare,4,Red,True,False,True,True,b'Jeff Miracola',0.52
+Mogg Fanatic,Creature,Goblin,Tenth Edition,Uncommon,1,Red,True,False,True,True,b'Brom',0.39
+Orcish Artillery,Creature,Orc Warrior,Tenth Edition,Uncommon,3,Red,True,False,True,True,b'Jeff Miracola',0.11
+Prodigal Pyromancer,Creature,Human Wizard,Tenth Edition,Common,3,Red,True,False,True,True,b'Jeremy Jarvis',0.09
+Pyroclasm,Sorcery,None,Tenth Edition,Uncommon,2,Red,True,False,True,True,b'John Avon',0.2
+Rage Weaver,Creature,Human Wizard,Tenth Edition,Uncommon,2,Red,True,False,True,True,b'John Matson',0.05
+Raging Goblin,Creature,Goblin Berserker,Tenth Edition,Common,1,Red,True,False,True,True,b'Jeff Miracola',0.11
+Relentless Assault,Sorcery,None,Tenth Edition,Rare,4,Red,True,False,True,True,b'Greg Hildebrandt',0.94
+Rock Badger,Creature,Badger Beast,Tenth Edition,Common,5,Red,True,False,True,True,b'Heather Hudson',0.04
+Scoria Wurm,Creature,Wurm,Tenth Edition,Rare,5,Red,True,False,True,True,b'Steve Firchow',0.29
+Seismic Assault,Enchantment,None,Tenth Edition,Rare,3,Red,True,False,True,True,b'Greg Staples',1.49
+Shatterstorm,Sorcery,None,Tenth Edition,Uncommon,4,Red,True,False,True,True,b'Paolo Parente',1.02
+Shivan Dragon,Creature,Dragon,Tenth Edition,Rare,6,Red,True,True,True,True,b'Donato Giancola',0.33
+Shivan Hellkite,Creature,Dragon,Tenth Edition,Rare,7,Red,True,False,True,True,b'Kev Walker',0.31
+Shock,Instant,None,Tenth Edition,Common,1,Red,True,True,True,True,b'Jon Foster',0.15
+Shunt,Instant,None,Tenth Edition,Rare,3,Red,True,False,True,True,b'Greg Hildebrandt',0.34
+Siege-Gang Commander,Creature,Goblin,Tenth Edition,Rare,5,Red,True,False,True,True,b'Christopher Moeller',0.96
+Smash,Instant,None,Tenth Edition,Common,3,Red,True,False,True,True,b'Paolo Parente',0.13
+Soulblast,Instant,None,Tenth Edition,Rare,6,Red,True,False,True,True,b'Jim Nelson',0.39
+Spark Elemental,Creature,Elemental,Tenth Edition,Uncommon,1,Red,True,False,True,True,b'John Avon',0.56
+Spitting Earth,Sorcery,None,Tenth Edition,Common,2,Red,True,False,True,True,b'Michael Koelsch',0.05
+"Squee, Goblin Nabob",Legendary Creature,Goblin,Tenth Edition,Rare,3,Red,True,False,True,True,b'Greg Staples',1.36
+Stun,Instant,None,Tenth Edition,Common,2,Red,True,False,True,True,b'Terese Nielsen',0.15
+Sudden Impact,Instant,None,Tenth Edition,Uncommon,4,Red,True,False,True,True,b'Wayne Reynolds',0.14
+Threaten,Sorcery,None,Tenth Edition,Uncommon,3,Red,True,False,True,True,b'Pete Venters',0.28
+Thundering Giant,Creature,Giant,Tenth Edition,Uncommon,5,Red,True,False,True,True,b'Mark Zug',0.04
+Uncontrollable Anger,Enchantment,Aura,Tenth Edition,Common,4,Red,True,False,True,True,b'Kev Walker',0.06
+Viashino Runner,Creature,Viashino,Tenth Edition,Common,4,Red,True,False,True,True,b'Steve White',0.06
+Viashino Sandscout,Creature,Viashino Scout,Tenth Edition,Common,2,Red,True,False,True,True,b'Scott M. Fischer',0.22
+Wall of Fire,Creature,Wall,Tenth Edition,Uncommon,3,Red,True,False,True,True,b'Dan Dos Santos',0.04
+Warp World,Sorcery,None,Tenth Edition,Rare,8,Red,True,False,True,True,b'Ron Spencer',0.67
+Abundance,Enchantment,None,Tenth Edition,Rare,4,Green,True,False,True,True,b'Rebecca Guay',1.33
+Aggressive Urge,Instant,None,Tenth Edition,Common,2,Green,True,False,True,True,b'Christopher Moeller',0.07
+Avatar of Might,Creature,Avatar,Tenth Edition,Rare,8,Green,True,False,True,True,b'rk post',0.85
+Birds of Paradise,Creature,Bird,Tenth Edition,Rare,1,Green,True,False,True,True,b'Marcelo Vignali',6.86
+Blanchwood Armor,Enchantment,Aura,Tenth Edition,Uncommon,3,Green,True,False,True,True,b'Paolo Parente',0.29
+Canopy Spider,Creature,Spider,Tenth Edition,Common,2,Green,True,True,True,True,b'Christopher Rush',0.04
+Civic Wayfinder,Creature,Elf Druid Warrior,Tenth Edition,Common,3,Green,True,False,True,True,b'Cyril Van Der Haegen',0.09
+Commune with Nature,Sorcery,None,Tenth Edition,Common,1,Green,True,False,True,True,b'Lars Grant-West',0.13
+Craw Wurm,Creature,Wurm,Tenth Edition,Common,6,Green,True,False,True,True,b'Richard Sardinha',0.05
+Creeping Mold,Sorcery,None,Tenth Edition,Uncommon,4,Green,True,False,True,True,b'Gary Ruddell',0.05
+Elven Riders,Creature,Elf,Tenth Edition,Uncommon,5,Green,True,False,True,True,b'Darrell Riche',0.09
+Elvish Berserker,Creature,Elf Berserker,Tenth Edition,Common,1,Green,True,False,True,True,b'Paolo Parente',0.05
+Elvish Champion,Creature,Elf,Tenth Edition,Rare,3,Green,True,False,True,True,b'D. Alexander Gregory',6.25
+Elvish Piper,Creature,Elf Shaman,Tenth Edition,Rare,4,Green,True,False,True,True,b'Rebecca Guay',3.37
+Enormous Baloth,Creature,Beast,Tenth Edition,Uncommon,7,Green,True,False,True,True,b'Mark Tedin',0.04
+Femeref Archers,Creature,Human Archer,Tenth Edition,Uncommon,3,Green,True,False,True,True,b'Zoltan Boros',0.15
+Gaea's Herald,Creature,Elf,Tenth Edition,Rare,2,Green,True,False,True,True,b'Jim Murray',2.21
+Giant Growth,Instant,None,Tenth Edition,Common,1,Green,True,True,True,True,b'Matt Cavotta',0.24
+Giant Spider,Creature,Spider,Tenth Edition,Common,4,Green,True,False,True,True,b'Randy Gallegos',0.01
+Grizzly Bears,Creature,Bear,Tenth Edition,Common,2,Green,True,False,True,True,b'D. J. Cleland-Hura',0.16
+Hunted Wumpus,Creature,Beast,Tenth Edition,Uncommon,4,Green,True,False,True,True,b'Thomas M. Baxa',0.3
+Hurricane,Sorcery,None,Tenth Edition,Rare,2,Green,True,False,True,True,b'John Howe',0.77
+Joiner Adept,Creature,Elf Druid,Tenth Edition,Rare,2,Green,True,False,True,True,b'Heather Hudson',2.97
+Karplusan Strider,Creature,Yeti,Tenth Edition,Uncommon,4,Green,True,False,True,True,b'Dan Scott',0.09
+Kavu Climber,Creature,Kavu,Tenth Edition,Common,5,Green,True,False,True,True,b'Rob Alexander',0.03
+Llanowar Elves,Creature,Elf Druid,Tenth Edition,Common,1,Green,True,False,True,True,b'Kev Walker',0.26
+Llanowar Sentinel,Creature,Elf,Tenth Edition,Common,3,Green,True,False,True,True,b'Randy Gallegos',0.04
+Lure,Enchantment,Aura,Tenth Edition,Uncommon,3,Green,True,False,True,True,b'D. Alexander Gregory',0.19
+Might of Oaks,Instant,None,Tenth Edition,Rare,4,Green,True,False,True,True,b'Jeremy Jarvis',0.31
+Might Weaver,Creature,Human Wizard,Tenth Edition,Uncommon,2,Green,True,False,True,True,b'Larry Elmore',0.09
+"Mirri, Cat Warrior",Legendary Creature,Cat Warrior,Tenth Edition,Rare,3,Green,True,False,True,True,b'Daren Bader',1.77
+"Molimo, Maro-Sorcerer",Legendary Creature,Elemental,Tenth Edition,Rare,7,Green,True,False,True,True,b'Mark Zug',0.37
+Natural Spring,Sorcery,None,Tenth Edition,Common,5,Green,True,False,True,True,b'Jeffrey R. Busch',0.14
+Naturalize,Instant,None,Tenth Edition,Common,2,Green,True,False,True,True,b'Tim Hildebrandt',0.07
+Overgrowth,Enchantment,Aura,Tenth Edition,Common,3,Green,True,False,True,True,b'Ron Spears',0.27
+Overrun,Sorcery,None,Tenth Edition,Uncommon,5,Green,True,False,True,True,b'Carl Critchlow',0.28
+Pincher Beetles,Creature,Insect,Tenth Edition,Common,3,Green,True,False,True,True,b'Stephen Daniele',0.17
+Primal Rage,Enchantment,None,Tenth Edition,Uncommon,2,Green,True,False,True,True,b'Brian Sn\xc3\xb5ddy',2.0
+Quirion Dryad,Creature,Dryad,Tenth Edition,Rare,2,Green,True,False,True,True,b'Todd Lockwood',0.33
+Rampant Growth,Sorcery,None,Tenth Edition,Common,2,Green,True,False,True,True,b'Steven Belledin',0.4
+Recollect,Sorcery,None,Tenth Edition,Uncommon,3,Green,True,False,True,True,b'Pete Venters',0.15
+Regeneration,Enchantment,Aura,Tenth Edition,Uncommon,2,Green,True,False,True,True,b'Jeremy Jarvis',0.29
+Rhox,Creature,Rhino Beast,Tenth Edition,Rare,6,Green,True,False,True,True,b'Mark Zug',0.39
+Root Maze,Enchantment,None,Tenth Edition,Rare,1,Green,True,False,True,True,b'Rebecca Guay',2.85
+Rootwalla,Creature,Lizard,Tenth Edition,Common,3,Green,True,False,True,True,b'Roger Raupp',0.04
+Rushwood Dryad,Creature,Dryad,Tenth Edition,Common,2,Green,True,False,True,True,b'Todd Lockwood',0.1
+Scion of the Wild,Creature,Avatar,Tenth Edition,Rare,3,Green,True,False,True,True,b'Kev Walker',0.24
+Seedborn Muse,Creature,Spirit,Tenth Edition,Rare,5,Green,True,False,True,True,b'Adam Rex',6.98
+Skyshroud Ranger,Creature,Elf,Tenth Edition,Common,1,Green,True,False,True,True,b'Mark Tedin',0.72
+Spined Wurm,Creature,Wurm,Tenth Edition,Common,5,Green,True,False,True,True,b'Carl Critchlow',0.05
+Stalking Tiger,Creature,Cat,Tenth Edition,Common,4,Green,True,False,True,True,b'Terese Nielsen',0.07
+Stampeding Wildebeests,Creature,Antelope Beast,Tenth Edition,Uncommon,4,Green,True,False,True,True,b'Randy Gallegos',0.2
+Sylvan Basilisk,Creature,Basilisk,Tenth Edition,Uncommon,5,Green,True,False,True,True,b'Steven Belledin',0.25
+Sylvan Scrying,Sorcery,None,Tenth Edition,Uncommon,2,Green,True,False,True,True,b'Scott M. Fischer',0.79
+Tangle Spider,Creature,Spider,Tenth Edition,Uncommon,6,Green,True,False,True,True,b'Terese Nielsen',0.16
+Treetop Bracers,Enchantment,Aura,Tenth Edition,Common,2,Green,True,False,True,True,b'Heather Hudson',0.14
+Troll Ascetic,Creature,Troll Shaman,Tenth Edition,Rare,3,Green,True,False,True,True,b'Puddnhead',0.4
+Upwelling,Enchantment,None,Tenth Edition,Rare,4,Green,True,False,True,True,b'Chippy',0.79
+Verdant Force,Creature,Elemental,Tenth Edition,Rare,8,Green,True,False,True,True,b'DiTerlizzi',0.32
+Viridian Shaman,Creature,Elf Shaman,Tenth Edition,Uncommon,3,Green,True,False,True,True,b'Scott M. Fischer',0.1
+Wall of Wood,Creature,Wall,Tenth Edition,Common,1,Green,True,False,True,True,b'Rebecca Guay',0.09
+Yavimaya Enchantress,Creature,Human Druid,Tenth Edition,Uncommon,3,Green,True,False,True,True,b'Terese Nielsen',0.24
+Angel's Feather,Artifact,None,Tenth Edition,Uncommon,2,Colorless,True,False,True,True,b'Alan Pollack',0.17
+Bottle Gnomes,Artifact Creature,Gnome,Tenth Edition,Uncommon,3,Colorless,True,False,True,True,b'Ben Thompson',0.1
+Chimeric Staff,Artifact,None,Tenth Edition,Rare,4,Colorless,True,False,True,True,b'Michael Sutfin',0.31
+Chromatic Star,Artifact,None,Tenth Edition,Uncommon,1,Colorless,True,False,True,True,b'Alex Horley-Orlandelli',5.49
+Citanul Flute,Artifact,None,Tenth Edition,Rare,5,Colorless,True,False,True,True,b'Greg Hildebrandt',2.95
+Coat of Arms,Artifact,None,Tenth Edition,Rare,5,Colorless,True,False,True,True,b'Scott M. Fischer',7.77
+Colossus of Sardia,Artifact Creature,Golem,Tenth Edition,Rare,9,Colorless,True,False,True,True,b'Greg Staples',0.29
+Composite Golem,Artifact Creature,Golem,Tenth Edition,Uncommon,6,Colorless,True,False,True,True,b'Mark Tedin',0.31
+Crucible of Worlds,Artifact,None,Tenth Edition,Rare,3,Colorless,True,False,True,True,b'Ron Spencer',18.66
+Demon's Horn,Artifact,None,Tenth Edition,Uncommon,2,Colorless,True,False,True,True,b'Alan Pollack',0.09
+Doubling Cube,Artifact,None,Tenth Edition,Rare,2,Colorless,True,False,True,True,b'Mark Tedin',19.67
+Dragon's Claw,Artifact,None,Tenth Edition,Uncommon,2,Colorless,True,False,True,True,b'Alan Pollack',0.34
+Fountain of Youth,Artifact,None,Tenth Edition,Uncommon,0,Colorless,True,False,True,True,b'Dan Scott',0.24
+The Hive,Artifact,None,Tenth Edition,Rare,5,Colorless,True,False,True,True,b'Ron Spencer',0.14
+Howling Mine,Artifact,None,Tenth Edition,Rare,2,Colorless,True,False,True,True,b'Ralph Horsley',3.68
+Icy Manipulator,Artifact,None,Tenth Edition,Uncommon,4,Colorless,True,False,True,True,b'Matt Cavotta',0.16
+Jayemdae Tome,Artifact,None,Tenth Edition,Rare,4,Colorless,True,False,True,True,b'Donato Giancola',0.16
+Juggernaut,Artifact Creature,Juggernaut,Tenth Edition,Uncommon,4,Colorless,True,False,True,True,b'Arnie Swekel',0.16
+Kraken's Eye,Artifact,None,Tenth Edition,Uncommon,2,Colorless,True,False,True,True,b'Alan Pollack',0.13
+Legacy Weapon,Legendary Artifact,None,Tenth Edition,Rare,7,Colorless,True,False,True,True,b'Terese Nielsen',2.85
+Leonin Scimitar,Artifact,Equipment,Tenth Edition,Uncommon,1,Colorless,True,False,True,True,b'Doug Chaffee',0.12
+Loxodon Warhammer,Artifact,Equipment,Tenth Edition,Rare,3,Colorless,True,False,True,True,b'Jeremy Jarvis',0.91
+Mantis Engine,Artifact Creature,Insect,Tenth Edition,Uncommon,5,Colorless,True,False,True,True,b'John Zeleznik',0.21
+Millstone,Artifact,None,Tenth Edition,Rare,2,Colorless,True,False,True,True,b'John Avon',0.2
+Mind Stone,Artifact,None,Tenth Edition,Uncommon,2,Colorless,True,False,True,True,b'Adam Rex',1.18
+Ornithopter,Artifact Creature,Thopter,Tenth Edition,Uncommon,0,Colorless,True,False,True,True,b'Dana Knutson',0.25
+Phyrexian Vault,Artifact,None,Tenth Edition,Uncommon,3,Colorless,True,False,True,True,b'Hannibal King',0.2
+Pithing Needle,Artifact,None,Tenth Edition,Rare,1,Colorless,True,False,True,True,b'Pete Venters',6.24
+Platinum Angel,Artifact Creature,Angel,Tenth Edition,Rare,7,Colorless,True,False,True,True,b'Brom',5.8
+Razormane Masticore,Artifact Creature,Masticore,Tenth Edition,Rare,5,Colorless,True,False,True,True,b'Jim Murray',0.19
+Rod of Ruin,Artifact,None,Tenth Edition,Uncommon,4,Colorless,True,False,True,True,b'Mark Zug',0.26
+Sculpting Steel,Artifact,None,Tenth Edition,Rare,3,Colorless,True,False,True,True,b'Heather Hudson',7.98
+Spellbook,Artifact,None,Tenth Edition,Uncommon,0,Colorless,True,False,True,True,b'Andrew Goldhawk',1.93
+Steel Golem,Artifact Creature,Golem,Tenth Edition,Uncommon,3,Colorless,True,False,True,True,b'Donato Giancola',0.92
+Whispersilk Cloak,Artifact,Equipment,Tenth Edition,Uncommon,3,Colorless,True,False,True,True,b'Luca Zontini',1.08
+Wurm's Tooth,Artifact,None,Tenth Edition,Uncommon,2,Colorless,True,False,True,True,b'Alan Pollack',0.09
+Adarkar Wastes,Land,None,Tenth Edition,Rare,0,Colorless,True,False,True,True,b'John Avon',10.94
+Battlefield Forge,Land,None,Tenth Edition,Rare,0,Colorless,True,False,True,True,b'Darrell Riche',2.08
+Brushland,Land,None,Tenth Edition,Rare,0,Colorless,True,False,True,True,b'Scott Bailey',8.45
+Caves of Koilos,Land,None,Tenth Edition,Rare,0,Colorless,True,False,True,True,b'Jim Nelson',1.53
+Faerie Conclave,Land,None,Tenth Edition,Uncommon,0,Colorless,True,False,True,True,b'Stephan Martiniere',1.81
+Forbidding Watchtower,Land,None,Tenth Edition,Uncommon,0,Colorless,True,False,True,True,b'Aleksi Briclot',0.8
+Ghitu Encampment,Land,None,Tenth Edition,Uncommon,0,Colorless,True,False,True,True,b'John Avon',0.18
+Karplusan Forest,Land,None,Tenth Edition,Rare,0,Colorless,True,False,True,True,b'John Avon',4.91
+Llanowar Wastes,Land,None,Tenth Edition,Rare,0,Colorless,True,False,True,True,b'Rob Alexander',2.29
+Quicksand,Land,None,Tenth Edition,Uncommon,0,Colorless,True,False,True,True,b'Roger Raupp',0.14
+Shivan Reef,Land,None,Tenth Edition,Rare,0,Colorless,True,False,True,True,b'Rob Alexander',4.08
+Spawning Pool,Land,None,Tenth Edition,Uncommon,0,Colorless,True,False,True,True,b'Nils Hamm',0.36
+Sulfurous Springs,Land,None,Tenth Edition,Rare,0,Colorless,True,False,True,True,b'Rob Alexander',12.38
+Terramorphic Expanse,Land,None,Tenth Edition,Common,0,Colorless,True,False,True,True,b'Dan Scott',0.8
+Treetop Village,Land,None,Tenth Edition,Uncommon,0,Colorless,True,False,True,True,b'Rob Alexander',0.53
+Underground River,Land,None,Tenth Edition,Rare,0,Colorless,True,False,True,True,b'Andrew Goldhawk',6.38
+Yavimaya Coast,Land,None,Tenth Edition,Rare,0,Colorless,True,False,True,True,b'Anthony S. Waters',2.53
+Plains,Basic Land,Plains,Tenth Edition,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.09
+Plains,Basic Land,Plains,Tenth Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.08
+Plains,Basic Land,Plains,Tenth Edition,Common,0,Colorless,True,True,True,True,b'Greg Staples',0.13
+Plains,Basic Land,Plains,Tenth Edition,Common,0,Colorless,True,True,True,True,b'Richard Wright',0.34
+Island,Basic Land,Island,Tenth Edition,Common,0,Colorless,True,True,True,True,b'Donato Giancola',0.3
+Island,Basic Land,Island,Tenth Edition,Common,0,Colorless,True,True,True,True,b'John Avon',1.29
+Island,Basic Land,Island,Tenth Edition,Common,0,Colorless,True,True,True,True,b'Martina Pilcerova',0.2
+Island,Basic Land,Island,Tenth Edition,Common,0,Colorless,True,True,True,True,b'Stephan Martiniere',0.29
+Swamp,Basic Land,Swamp,Tenth Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.46
+Swamp,Basic Land,Swamp,Tenth Edition,Common,0,Colorless,True,True,True,True,b'Ron Spencer',0.22
+Swamp,Basic Land,Swamp,Tenth Edition,Common,0,Colorless,True,True,True,True,b'Jim Nelson',0.22
+Swamp,Basic Land,Swamp,Tenth Edition,Common,0,Colorless,True,True,True,True,b'Richard Wright',0.22
+Mountain,Basic Land,Mountain,Tenth Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.13
+Mountain,Basic Land,Mountain,Tenth Edition,Common,0,Colorless,True,True,True,True,b'Glen Angus',0.2
+Mountain,Basic Land,Mountain,Tenth Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.06
+Mountain,Basic Land,Mountain,Tenth Edition,Common,0,Colorless,True,True,True,True,b'Stephan Martiniere',0.29
+Forest,Basic Land,Forest,Tenth Edition,Common,0,Colorless,True,True,True,True,b'Anthony S. Waters',0.34
+Forest,Basic Land,Forest,Tenth Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.27
+Forest,Basic Land,Forest,Tenth Edition,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.24
+Forest,Basic Land,Forest,Tenth Edition,Common,0,Colorless,True,True,True,True,b'Stephan Martiniere',0.19

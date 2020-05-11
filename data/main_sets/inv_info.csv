@@ -1,0 +1,351 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Alabaster Leech,Creature,Leech,Invasion,Rare,1,White,False,False,True,False,"b'Edward P. Beard, Jr.'",0.19
+Angel of Mercy,Creature,Angel,Invasion,Uncommon,5,White,True,False,True,True,b'Mark Tedin',0.15
+Ardent Soldier,Creature,Human Soldier,Invasion,Common,2,White,False,False,True,False,b'Paolo Parente',0.05
+"Atalya, Samite Master",Legendary Creature,Human Cleric,Invasion,Rare,5,White,False,False,True,False,b'Rebecca Guay',0.6
+Benalish Emissary,Creature,Human Wizard,Invasion,Uncommon,3,White,False,False,True,False,b'Randy Gallegos',0.12
+Benalish Heralds,Creature,Human Soldier,Invasion,Uncommon,4,White,False,False,True,False,b'Don Hazeltine',0.09
+Benalish Lancer,Creature,Human Knight,Invasion,Common,3,White,False,False,True,True,b'Paolo Parente',0.07
+Benalish Trapper,Creature,Human Soldier,Invasion,Common,2,White,False,False,True,True,"b'Ken Meyer, Jr.'",0.07
+Blinding Light,Sorcery,None,Invasion,Uncommon,3,White,False,False,True,True,b'Marc Fishman',0.17
+Capashen Unicorn,Creature,Unicorn,Invasion,Common,2,White,False,False,True,False,b'Jerry Tiritilli',0.14
+Crimson Acolyte,Creature,Human Cleric,Invasion,Common,2,White,False,False,True,False,b'Dany Orizio',0.21
+Crusading Knight,Creature,Human Knight,Invasion,Rare,4,White,False,False,True,False,"b'Edward P. Beard, Jr.'",1.3
+Death or Glory,Sorcery,None,Invasion,Rare,5,White,False,False,True,False,b'Jeff Easley',0.33
+Dismantling Blow,Instant,None,Invasion,Common,3,White,True,False,True,True,b'Mark Tedin',0.17
+Divine Presence,Enchantment,None,Invasion,Rare,3,White,False,False,True,False,b'Ron Spears',0.48
+Fight or Flight,Enchantment,None,Invasion,Rare,4,White,False,False,True,False,b'Randy Gallegos',0.31
+Glimmering Angel,Creature,Angel,Invasion,Common,4,White,False,False,True,False,b'Ciruelo',0.12
+Global Ruin,Sorcery,None,Invasion,Rare,5,White,False,False,True,True,b'Greg Staples',0.26
+Harsh Judgment,Enchantment,None,Invasion,Rare,4,White,False,False,True,False,b'Carl Critchlow',0.24
+Holy Day,Instant,None,Invasion,Common,1,White,True,False,True,True,b'Pete Venters',0.23
+Liberate,Instant,None,Invasion,Uncommon,2,White,False,False,True,False,b'Alan Pollack',0.46
+Obsidian Acolyte,Creature,Human Cleric,Invasion,Common,2,White,False,False,True,False,b'Matthew D. Wilson',0.27
+Orim's Touch,Instant,None,Invasion,Common,1,White,False,False,True,False,b'Roger Raupp',0.05
+Pledge of Loyalty,Enchantment,Aura,Invasion,Uncommon,2,White,False,False,True,False,b'Franz Vohwinkel',0.16
+Prison Barricade,Creature,Wall,Invasion,Common,2,White,False,False,True,False,b'Thomas Gianni',0.15
+Protective Sphere,Enchantment,None,Invasion,Common,3,White,False,False,True,False,b'Rebecca Guay',0.15
+Pure Reflection,Enchantment,None,Invasion,Rare,3,White,False,False,True,False,b'Scott M. Fischer',0.22
+Rampant Elephant,Creature,Elephant,Invasion,Common,4,White,False,False,True,False,b'Alan Pollack',0.04
+Razorfoot Griffin,Creature,Griffin,Invasion,Common,4,White,True,False,True,True,b'Ben Thompson',0.06
+Restrain,Instant,None,Invasion,Common,3,White,False,False,True,False,b'Dave Dorman',0.06
+Reviving Dose,Instant,None,Invasion,Common,3,White,True,False,True,True,b'D. Alexander Gregory',0.07
+Rewards of Diversity,Enchantment,None,Invasion,Uncommon,3,White,False,False,True,False,b'Darrell Riche',0.16
+Reya Dawnbringer,Legendary Creature,Angel,Invasion,Rare,9,White,True,False,True,True,b'Matthew D. Wilson',1.13
+Rout,Sorcery,None,Invasion,Rare,5,White,False,False,True,True,b'Ron Spencer',1.27
+Ruham Djinn,Creature,Djinn,Invasion,Uncommon,6,White,False,False,True,False,b'Jeff Easley',0.1
+Samite Ministration,Instant,None,Invasion,Uncommon,2,White,False,False,True,False,b'Darrell Riche',0.12
+Shackles,Enchantment,Aura,Invasion,Common,3,White,False,False,True,True,b'Greg Staples',0.06
+Spirit of Resistance,Enchantment,None,Invasion,Rare,3,White,False,False,True,False,b'John Avon',0.83
+Spirit Weaver,Creature,Human Wizard,Invasion,Uncommon,2,White,True,False,True,True,b'Matthew D. Wilson',0.24
+Strength of Unity,Enchantment,Aura,Invasion,Common,4,White,False,False,True,False,b'Andrew Goldhawk',0.05
+Sunscape Apprentice,Creature,Human Wizard,Invasion,Common,1,White,False,False,True,False,b'Stephanie Law',0.08
+Sunscape Master,Creature,Human Wizard,Invasion,Rare,4,White,False,False,True,False,b'Alan Rabinowitz',0.29
+Teferi's Care,Enchantment,None,Invasion,Uncommon,3,White,False,False,True,False,b'Scott Bailey',0.13
+Wayfaring Giant,Creature,Giant,Invasion,Uncommon,6,White,False,False,True,False,b'Christopher Moeller',0.1
+Winnow,Instant,None,Invasion,Rare,2,White,False,False,True,False,b'Roger Raupp',0.19
+Barrin's Unmaking,Instant,None,Invasion,Common,2,Blue,False,False,True,False,b'Luca Zontini',0.08
+Blind Seer,Legendary Creature,Human Wizard,Invasion,Rare,4,Blue,False,False,True,False,b'Dave Dorman',0.38
+Breaking Wave,Sorcery,None,Invasion,Rare,4,Blue,False,False,True,False,b'Carl Critchlow',0.4
+Collective Restraint,Enchantment,None,Invasion,Rare,4,Blue,False,False,True,False,b'Alan Rabinowitz',8.02
+Crystal Spray,Instant,None,Invasion,Rare,3,Blue,False,False,True,False,b'Jeff Miracola',0.24
+Disrupt,Instant,None,Invasion,Uncommon,1,Blue,False,False,True,True,b'Paolo Parente',0.25
+Distorting Wake,Sorcery,None,Invasion,Rare,4,Blue,False,False,True,True,b'Arnie Swekel',0.35
+Dream Thrush,Creature,Bird,Invasion,Common,2,Blue,False,False,True,False,b'D. J. Cleland-Hura',0.12
+Empress Galina,Legendary Creature,Merfolk Noble,Invasion,Rare,5,Blue,False,False,True,False,b'Matt Cavotta',11.62
+Essence Leak,Enchantment,Aura,Invasion,Uncommon,1,Blue,False,False,True,False,b'Adam Rex',0.08
+Exclude,Instant,None,Invasion,Common,3,Blue,True,False,True,True,b'Mark Romanoski',0.28
+Fact or Fiction,Instant,None,Invasion,Uncommon,4,Blue,True,False,True,True,b'Terese Nielsen',1.49
+Faerie Squadron,Creature,Faerie,Invasion,Common,1,Blue,False,False,True,False,b'rk post',0.07
+Mana Maze,Enchantment,None,Invasion,Rare,2,Blue,False,False,True,True,b'Rebecca Guay',1.82
+Manipulate Fate,Sorcery,None,Invasion,Uncommon,2,Blue,False,False,True,False,b'John Matson',0.64
+Metathran Aerostat,Creature,Metathran,Invasion,Rare,4,Blue,False,False,True,False,b'Greg Staples',0.17
+Metathran Transport,Creature,Metathran,Invasion,Uncommon,3,Blue,False,False,True,False,b'Glen Angus',0.15
+Metathran Zombie,Creature,Metathran Zombie,Invasion,Common,2,Blue,False,False,True,False,b'Arnie Swekel',0.13
+Opt,Instant,None,Invasion,Common,1,Blue,True,True,True,True,b'John Howe',1.03
+Phantasmal Terrain,Enchantment,Aura,Invasion,Common,2,Blue,False,False,True,True,b'Dana Knutson',0.04
+Probe,Sorcery,None,Invasion,Common,3,Blue,False,False,True,False,b'Eric Peterson',0.13
+Prohibit,Instant,None,Invasion,Common,2,Blue,True,False,True,True,b'Adam Rex',0.33
+Psychic Battle,Enchantment,None,Invasion,Rare,5,Blue,False,False,True,False,b'Ray Lago',1.24
+Rainbow Crow,Creature,Bird,Invasion,Uncommon,4,Blue,False,False,True,False,"b'Edward P. Beard, Jr.'",0.1
+Repulse,Instant,None,Invasion,Common,3,Blue,False,False,True,True,b'Aaron Boyd',0.11
+Sapphire Leech,Creature,Leech,Invasion,Rare,2,Blue,False,False,True,False,b'Ron Spencer',0.21
+Shimmering Wings,Enchantment,Aura,Invasion,Common,1,Blue,True,False,True,True,b'Carl Critchlow',0.12
+Shoreline Raider,Creature,Merfolk,Invasion,Common,3,Blue,False,False,True,False,b'Nelson DeCastro',0.05
+Sky Weaver,Creature,Metathran Wizard,Invasion,Uncommon,2,Blue,True,False,True,True,b'Christopher Moeller',0.09
+Stormscape Apprentice,Creature,Human Wizard,Invasion,Common,1,Blue,False,False,True,False,b'D. Alexander Gregory',0.13
+Stormscape Master,Creature,Human Wizard,Invasion,Rare,4,Blue,False,False,True,False,b'Hannibal King',0.28
+Sway of Illusion,Instant,None,Invasion,Uncommon,2,Blue,False,False,True,False,b'Greg Hildebrandt',0.22
+Teferi's Response,Instant,None,Invasion,Rare,2,Blue,False,False,True,True,b'Scott Bailey',0.88
+Temporal Distortion,Enchantment,None,Invasion,Rare,5,Blue,False,False,True,False,b'Stephanie Law',0.21
+Tidal Visionary,Creature,Merfolk Wizard,Invasion,Common,1,Blue,False,False,True,False,b'Glen Angus',0.11
+Tolarian Emissary,Creature,Human Wizard,Invasion,Uncommon,3,Blue,False,False,True,False,b'Ron Spencer',0.13
+Tower Drake,Creature,Drake,Invasion,Common,3,Blue,True,False,True,True,b'Carl Critchlow',0.05
+Traveler's Cloak,Enchantment,Aura,Invasion,Common,3,Blue,False,False,True,True,b'Rebecca Guay',0.11
+Vodalian Hypnotist,Creature,Merfolk Wizard,Invasion,Uncommon,2,Blue,False,False,True,False,b'Rebecca Guay',0.11
+Vodalian Merchant,Creature,Merfolk,Invasion,Common,2,Blue,False,False,True,True,b'Scott M. Fischer',0.14
+Vodalian Serpent,Creature,Serpent,Invasion,Common,4,Blue,False,False,True,False,b'Christopher Moeller',0.1
+Wash Out,Sorcery,None,Invasion,Uncommon,4,Blue,False,False,True,True,b'Matthew D. Wilson',1.15
+Well-Laid Plans,Enchantment,None,Invasion,Rare,3,Blue,False,False,True,False,b'Kev Walker',0.2
+Worldly Counsel,Instant,None,Invasion,Common,2,Blue,True,False,True,True,b'Gary Ruddell',0.11
+Zanam Djinn,Creature,Djinn,Invasion,Uncommon,6,Blue,False,False,True,False,b'Eric Peterson',0.11
+Addle,Sorcery,None,Invasion,Uncommon,2,Black,False,False,True,True,b'Ron Spears',0.15
+Agonizing Demise,Instant,None,Invasion,Common,4,Black,False,False,True,True,b'Mark Brill',0.1
+Andradite Leech,Creature,Leech,Invasion,Rare,3,Black,False,False,True,False,b'Wayne England',0.23
+Annihilate,Instant,None,Invasion,Uncommon,5,Black,False,False,True,True,b'Kev Walker',0.17
+Bog Initiate,Creature,Human Wizard,Invasion,Common,2,Black,False,False,True,False,b'rk post',0.18
+Cremate,Instant,None,Invasion,Uncommon,1,Black,True,False,True,True,b'Andrew Goldhawk',0.21
+Crypt Angel,Creature,Angel,Invasion,Rare,5,Black,False,False,True,True,b'Todd Lockwood',0.79
+Cursed Flesh,Enchantment,Aura,Invasion,Common,1,Black,False,False,True,True,b'Chippy',0.05
+Defiling Tears,Instant,None,Invasion,Uncommon,3,Black,False,False,True,False,b'rk post',0.17
+Desperate Research,Sorcery,None,Invasion,Rare,2,Black,False,False,True,False,b'Ron Spencer',0.33
+Devouring Strossus,Creature,Horror,Invasion,Rare,8,Black,False,False,True,False,b'D. Alexander Gregory',0.41
+Do or Die,Sorcery,None,Invasion,Rare,2,Black,False,False,True,False,b'Christopher Moeller',1.39
+Dredge,Instant,None,Invasion,Uncommon,1,Black,False,False,True,False,b'Donato Giancola',0.2
+Duskwalker,Creature,Human Minion,Invasion,Common,1,Black,False,False,True,False,b'David Martin',0.06
+Exotic Curse,Enchantment,Aura,Invasion,Common,3,Black,False,False,True,True,b'Dany Orizio',0.07
+Firescreamer,Creature,Kavu,Invasion,Common,4,Black,False,False,True,False,b'Alan Pollack',0.07
+Goham Djinn,Creature,Djinn,Invasion,Uncommon,6,Black,False,False,True,False,b'Ron Spencer',0.1
+Hate Weaver,Creature,Zombie Wizard,Invasion,Uncommon,2,Black,True,False,True,True,b'Roger Raupp',0.12
+Hypnotic Cloud,Sorcery,None,Invasion,Common,2,Black,False,False,True,True,b'Randy Gallegos',0.05
+Marauding Knight,Creature,Zombie Knight,Invasion,Rare,4,Black,False,False,True,False,b'Daren Bader',0.47
+Mourning,Enchantment,Aura,Invasion,Common,2,Black,False,False,True,False,b'Terese Nielsen',0.32
+Nightscape Apprentice,Creature,Zombie Wizard,Invasion,Common,1,Black,False,False,True,False,b'Andrew Goldhawk',0.09
+Nightscape Master,Creature,Zombie Wizard,Invasion,Rare,4,Black,False,False,True,False,b'Andrew Goldhawk',0.29
+Phyrexian Battleflies,Creature,Insect,Invasion,Common,1,Black,False,False,True,True,b'Dan Frazier',0.06
+Phyrexian Delver,Creature,Zombie,Invasion,Rare,5,Black,False,False,True,True,b'Dana Knutson',1.22
+Phyrexian Infiltrator,Creature,Minion,Invasion,Rare,3,Black,False,False,True,False,b'Darrell Riche',0.23
+Phyrexian Reaper,Creature,Zombie,Invasion,Common,5,Black,False,False,True,False,b'Sam Wood',0.07
+Phyrexian Slayer,Creature,Minion,Invasion,Common,4,Black,False,False,True,False,b'Sam Wood',0.08
+Plague Spitter,Creature,Horror,Invasion,Uncommon,3,Black,False,False,True,True,b'Chippy',0.52
+Ravenous Rats,Creature,Rat,Invasion,Common,2,Black,True,False,True,True,b'Tom W\xc3\xa4nerstrand',0.14
+Reckless Spite,Instant,None,Invasion,Uncommon,3,Black,False,False,True,True,b'Chippy',0.15
+Recover,Sorcery,None,Invasion,Common,3,Black,True,False,True,True,b'Nelson DeCastro',0.06
+Scavenged Weaponry,Enchantment,Aura,Invasion,Common,3,Black,False,False,True,False,b'Alan Pollack',0.04
+Soul Burn,Sorcery,None,Invasion,Common,3,Black,False,False,True,True,b'Andrew Goldhawk',0.12
+Spreading Plague,Enchantment,None,Invasion,Rare,5,Black,False,False,True,False,b'Scott Bailey',3.69
+Tainted Well,Enchantment,Aura,Invasion,Common,3,Black,False,False,True,False,b'Val Mayerik',0.1
+Trench Wurm,Creature,Wurm,Invasion,Uncommon,4,Black,False,False,True,False,b'Wayne England',0.22
+Tsabo's Assassin,Creature,Zombie Assassin,Invasion,Rare,4,Black,False,False,True,True,b'Glen Angus',0.26
+Tsabo's Decree,Instant,None,Invasion,Rare,6,Black,False,False,True,True,b'Thomas M. Baxa',0.8
+Twilight's Call,Sorcery,None,Invasion,Rare,6,Black,False,False,True,True,b'Mark Romanoski',0.69
+Urborg Emissary,Creature,Human Wizard,Invasion,Uncommon,3,Black,False,False,True,True,b'Eric Peterson',0.14
+Urborg Phantom,Creature,Spirit Minion,Invasion,Common,3,Black,False,False,True,False,b'Daren Bader',0.05
+Urborg Shambler,Creature,Horror,Invasion,Uncommon,4,Black,False,False,True,False,b'Pete Venters',0.11
+Urborg Skeleton,Creature,Skeleton,Invasion,Common,1,Black,False,False,True,False,b'Alan Pollack',0.07
+Yawgmoth's Agenda,Enchantment,None,Invasion,Rare,5,Black,False,False,True,False,b'Arnie Swekel',0.3
+Ancient Kavu,Creature,Kavu,Invasion,Common,4,Red,False,False,True,False,b'Glen Angus',0.05
+Bend or Break,Sorcery,None,Invasion,Rare,4,Red,False,False,True,False,b'Arnie Swekel',0.3
+Breath of Darigaaz,Sorcery,None,Invasion,Uncommon,2,Red,False,False,True,True,b'Greg Hildebrandt',0.21
+Callous Giant,Creature,Giant,Invasion,Rare,6,Red,False,False,True,False,b'Mark Brill',0.2
+Chaotic Strike,Instant,None,Invasion,Uncommon,2,Red,False,False,True,False,b'Massimilano Frezzato',1.29
+Collapsing Borders,Enchantment,None,Invasion,Rare,4,Red,False,False,True,False,b'Glen Angus',0.18
+Crown of Flames,Enchantment,Aura,Invasion,Common,1,Red,False,False,True,True,b'Christopher Moeller',0.09
+Firebrand Ranger,Creature,Human Soldier,Invasion,Uncommon,2,Red,False,False,True,False,b'Quinton Hoover',0.13
+Ghitu Fire,Sorcery,None,Invasion,Rare,2,Red,False,False,True,False,b'Glen Angus',0.33
+Goblin Spy,Creature,Goblin Rogue,Invasion,Uncommon,1,Red,False,False,True,False,b'Scott M. Fischer',0.17
+Halam Djinn,Creature,Djinn,Invasion,Uncommon,6,Red,False,False,True,False,b'Adam Rex',0.12
+Hooded Kavu,Creature,Kavu,Invasion,Common,3,Red,False,False,True,False,b'John Howe',0.05
+Kavu Aggressor,Creature,Kavu,Invasion,Common,3,Red,False,False,True,False,b'Christopher Moeller',0.1
+Kavu Monarch,Creature,Kavu,Invasion,Rare,4,Red,False,False,True,False,b'Terese Nielsen',0.27
+Kavu Runner,Creature,Kavu,Invasion,Uncommon,4,Red,False,False,True,False,b'Douglas Shuler',0.14
+Kavu Scout,Creature,Kavu Scout,Invasion,Common,3,Red,False,False,True,False,b'DiTerlizzi',0.09
+Lightning Dart,Instant,None,Invasion,Uncommon,2,Red,False,False,True,False,b'Arnie Swekel',0.1
+Loafing Giant,Creature,Giant,Invasion,Rare,5,Red,False,False,True,False,b'Greg Hildebrandt',0.16
+Mages' Contest,Instant,None,Invasion,Rare,3,Red,False,False,True,False,b'Bradley Williams',1.21
+Maniacal Rage,Enchantment,Aura,Invasion,Common,2,Red,True,True,True,True,b'Matt Cavotta',0.04
+Obliterate,Sorcery,None,Invasion,Rare,8,Red,True,False,True,True,b'Kev Walker',2.91
+Overload,Instant,None,Invasion,Common,1,Red,False,False,True,False,b'Gary Ruddell',0.15
+Pouncing Kavu,Creature,Kavu,Invasion,Common,2,Red,False,False,True,False,b'Adam Rex',0.13
+Rage Weaver,Creature,Human Wizard,Invasion,Uncommon,2,Red,True,False,True,True,b'John Matson',0.08
+Rogue Kavu,Creature,Kavu,Invasion,Common,2,Red,True,False,True,True,b'Darrell Riche',0.07
+Ruby Leech,Creature,Leech,Invasion,Rare,2,Red,False,False,True,False,b'Jacques Bredy',0.21
+Savage Offensive,Sorcery,None,Invasion,Common,2,Red,False,False,True,True,b'Greg Hildebrandt',0.15
+Scarred Puma,Creature,Cat,Invasion,Common,1,Red,False,False,True,False,b'Aaron Boyd',0.06
+Scorching Lava,Instant,None,Invasion,Common,2,Red,False,False,True,False,b'Mark Tedin',0.12
+Searing Rays,Sorcery,None,Invasion,Uncommon,3,Red,False,False,True,False,b'Doug Chaffee',0.1
+Shivan Emissary,Creature,Human Wizard,Invasion,Uncommon,3,Red,False,False,True,False,b'Paolo Parente',0.08
+Shivan Harvest,Enchantment,None,Invasion,Uncommon,2,Red,False,False,True,False,b'Daren Bader',0.79
+Skittish Kavu,Creature,Kavu,Invasion,Uncommon,2,Red,False,False,True,False,b'Pete Venters',0.11
+Skizzik,Creature,Elemental,Invasion,Rare,4,Red,True,False,True,True,b'Ron Spencer',0.4
+Slimy Kavu,Creature,Kavu,Invasion,Common,3,Red,False,False,True,False,b'Randy Gallegos',0.12
+Stand or Fall,Enchantment,None,Invasion,Rare,4,Red,False,False,True,False,b'Matt Cavotta',0.25
+Stun,Instant,None,Invasion,Common,2,Red,True,False,True,True,b'Mike Ploog',0.14
+Tectonic Instability,Enchantment,None,Invasion,Rare,3,Red,False,False,True,False,b'Rob Alexander',2.08
+Thunderscape Apprentice,Creature,Human Wizard,Invasion,Common,1,Red,False,False,True,False,b'D. Alexander Gregory',0.06
+Thunderscape Master,Creature,Human Wizard,Invasion,Rare,4,Red,False,False,True,False,b'Scott M. Fischer',0.23
+Tribal Flames,Sorcery,None,Invasion,Common,2,Red,True,False,True,True,b'Tony Szczudlo',0.09
+Turf Wound,Instant,None,Invasion,Common,3,Red,False,False,True,False,b'Thomas Gianni',0.11
+Urza's Rage,Instant,None,Invasion,Rare,3,Red,True,False,True,True,b'Matthew D. Wilson',0.59
+Viashino Grappler,Creature,Viashino,Invasion,Common,3,Red,False,False,True,False,b'Mark Romanoski',0.07
+Zap,Instant,None,Invasion,Common,3,Red,False,False,True,False,b'John Matson',0.1
+Aggressive Urge,Instant,None,Invasion,Common,2,Green,True,False,True,True,b'Christopher Moeller',0.07
+Bind,Instant,None,Invasion,Rare,2,Green,False,False,True,False,b'Mark Zug',1.27
+Blurred Mongoose,Creature,Mongoose,Invasion,Rare,2,Green,False,False,True,False,b'Heather Hudson',0.24
+Canopy Surge,Sorcery,None,Invasion,Uncommon,2,Green,False,False,True,False,b'Matt Cavotta',0.19
+Elfhame Sanctuary,Enchantment,None,Invasion,Uncommon,2,Green,False,False,True,False,b'Alan Rabinowitz',0.37
+Elvish Champion,Creature,Elf,Invasion,Rare,3,Green,True,False,True,True,b'D. Alexander Gregory',6.47
+Explosive Growth,Instant,None,Invasion,Common,1,Green,False,False,True,False,b'Arnie Swekel',0.07
+Fertile Ground,Enchantment,Aura,Invasion,Common,2,Green,True,False,True,True,b'Carl Critchlow',0.14
+Harrow,Instant,None,Invasion,Common,3,Green,True,False,True,True,b'Rob Alexander',0.28
+Jade Leech,Creature,Leech,Invasion,Rare,4,Green,False,False,True,False,b'John Howe',0.22
+Kavu Chameleon,Creature,Kavu,Invasion,Uncommon,5,Green,False,False,True,True,b'John Howe',0.13
+Kavu Climber,Creature,Kavu,Invasion,Common,5,Green,True,False,True,True,b'Rob Alexander',0.06
+Kavu Lair,Enchantment,None,Invasion,Rare,3,Green,False,False,True,False,b'Chippy',0.67
+Kavu Titan,Creature,Kavu,Invasion,Rare,2,Green,False,False,True,False,b'Todd Lockwood',0.97
+Llanowar Cavalry,Creature,Human Soldier,Invasion,Common,3,Green,False,False,True,False,b'Eric Peterson',0.05
+Llanowar Elite,Creature,Elf,Invasion,Common,1,Green,False,False,True,True,b'Kev Walker',0.14
+Llanowar Vanguard,Creature,Dryad,Invasion,Common,3,Green,False,False,True,False,b'Greg Hildebrandt',0.03
+Might Weaver,Creature,Human Wizard,Invasion,Uncommon,2,Green,True,False,True,True,b'Larry Elmore',0.11
+"Molimo, Maro-Sorcerer",Legendary Creature,Elemental,Invasion,Rare,7,Green,True,False,True,True,b'Mark Zug',0.34
+Nomadic Elf,Creature,Elf Nomad,Invasion,Common,2,Green,False,False,True,True,b'D. J. Cleland-Hura',0.09
+Pincer Spider,Creature,Spider,Invasion,Common,3,Green,False,False,True,False,b'Dan Frazier',0.13
+Pulse of Llanowar,Enchantment,None,Invasion,Uncommon,4,Green,False,False,True,False,b'Rebecca Guay',0.17
+Quirion Elves,Creature,Elf Druid,Invasion,Common,2,Green,False,False,True,True,b'Douglas Shuler',0.19
+Quirion Sentinel,Creature,Elf Druid,Invasion,Common,2,Green,False,False,True,False,b'Heather Hudson',0.1
+Quirion Trailblazer,Creature,Elf Scout,Invasion,Common,4,Green,False,False,True,False,b'Rebecca Guay',0.15
+Restock,Sorcery,None,Invasion,Rare,5,Green,True,False,True,True,b'Daren Bader',0.32
+Rooting Kavu,Creature,Kavu,Invasion,Uncommon,4,Green,False,False,True,False,b'Heather Hudson',0.18
+Saproling Infestation,Enchantment,None,Invasion,Rare,2,Green,False,False,True,False,b'Heather Hudson',0.19
+Saproling Symbiosis,Sorcery,None,Invasion,Rare,4,Green,False,False,True,False,b'Ciruelo',5.6
+Scouting Trek,Sorcery,None,Invasion,Uncommon,2,Green,False,False,True,False,b'Stephanie Law',0.68
+Serpentine Kavu,Creature,Kavu,Invasion,Common,5,Green,False,False,True,False,b'Heather Hudson',0.08
+Sulam Djinn,Creature,Djinn,Invasion,Uncommon,6,Green,False,False,True,False,b'Greg Hildebrandt',0.24
+Tangle,Instant,None,Invasion,Uncommon,2,Green,False,False,True,True,b'John Avon',1.96
+Thicket Elemental,Creature,Elemental,Invasion,Rare,5,Green,False,False,True,True,b'Ron Spencer',0.4
+Thornscape Apprentice,Creature,Human Wizard,Invasion,Common,1,Green,False,False,True,True,b'Randy Gallegos',0.07
+Thornscape Master,Creature,Human Wizard,Invasion,Rare,4,Green,False,False,True,False,b'Larry Elmore',0.22
+Tranquility,Sorcery,None,Invasion,Common,3,Green,False,False,True,True,b'Rob Alexander',0.09
+Treefolk Healer,Creature,Treefolk Cleric,Invasion,Uncommon,5,Green,False,False,True,False,b'Matt Cavotta',0.05
+Utopia Tree,Creature,Plant,Invasion,Rare,2,Green,True,False,True,True,b'Gary Ruddell',1.37
+Verdeloth the Ancient,Legendary Creature,Treefolk,Invasion,Rare,6,Green,True,False,True,True,b'Daren Bader',2.08
+Verduran Emissary,Creature,Human Wizard,Invasion,Uncommon,3,Green,False,False,True,True,b'Alton Lawson',0.16
+Vigorous Charge,Instant,None,Invasion,Common,1,Green,False,False,True,False,b'Scott M. Fischer',0.07
+Wallop,Sorcery,None,Invasion,Uncommon,2,Green,False,False,True,False,b'Mike Ploog',0.11
+Wandering Stream,Sorcery,None,Invasion,Common,3,Green,False,False,True,False,b'Quinton Hoover',0.08
+Whip Silk,Enchantment,Aura,Invasion,Common,1,Green,False,False,True,False,b'Dave Dorman',0.21
+Absorb,Instant,None,Invasion,Rare,3,Gold,True,True,True,True,b'Andrew Goldhawk',7.58
+Aether Rift,Enchantment,None,Invasion,Rare,3,Gold,False,False,True,False,b'Heather Hudson',0.38
+Angelic Shield,Enchantment,None,Invasion,Uncommon,2,Gold,False,False,True,True,b'Adam Rex',0.24
+Armadillo Cloak,Enchantment,Aura,Invasion,Common,3,Gold,False,False,True,True,b'Paolo Parente',0.41
+Armored Guardian,Creature,Cat Soldier,Invasion,Rare,5,Gold,False,False,True,False,b'Arnie Swekel',0.21
+Artifact Mutation,Instant,None,Invasion,Rare,2,Gold,False,False,True,True,b'Greg Staples',2.51
+Aura Mutation,Instant,None,Invasion,Rare,2,Gold,False,False,True,True,b'Pete Venters',1.69
+Aura Shards,Enchantment,None,Invasion,Uncommon,3,Gold,False,False,True,True,b'Ron Spencer',11.65
+Backlash,Instant,None,Invasion,Uncommon,3,Gold,False,False,True,False,b'Chippy',0.65
+Barrin's Spite,Sorcery,None,Invasion,Rare,4,Gold,False,False,True,False,b'Terese Nielsen',0.27
+Blazing Specter,Creature,Specter,Invasion,Rare,4,Gold,False,False,True,True,b'Marc Fishman',0.51
+Captain Sisay,Legendary Creature,Human Soldier,Invasion,Rare,4,Gold,False,False,True,True,b'Ray Lago',11.56
+Cauldron Dance,Instant,None,Invasion,Uncommon,6,Gold,False,False,True,True,b'Donato Giancola',0.21
+Charging Troll,Creature,Troll,Invasion,Uncommon,4,Gold,False,False,True,True,b'Dave Dorman',0.15
+Cinder Shade,Creature,Shade,Invasion,Uncommon,3,Gold,False,False,True,False,b'Nelson DeCastro',0.14
+Coalition Victory,Sorcery,None,Invasion,Rare,8,Gold,True,False,False,True,b'Eric Peterson',0.54
+"Crosis, the Purger",Legendary Creature,Dragon,Invasion,Rare,6,Gold,False,False,True,True,b'Pete Venters',2.3
+"Darigaaz, the Igniter",Legendary Creature,Dragon,Invasion,Rare,6,Gold,False,False,True,True,b'Mark Zug',0.96
+"Dromar, the Banisher",Legendary Creature,Dragon,Invasion,Rare,6,Gold,False,False,True,False,b'Dave Dorman',2.95
+Dueling Grounds,Enchantment,None,Invasion,Rare,3,Gold,False,False,True,False,b'Pete Venters',4.44
+Fires of Yavimaya,Enchantment,None,Invasion,Uncommon,3,Gold,False,False,True,True,b'Val Mayerik',0.35
+Frenzied Tilling,Sorcery,None,Invasion,Common,5,Gold,True,False,True,True,b'Mike Raabe',0.07
+Galina's Knight,Creature,Merfolk Knight,Invasion,Common,2,Gold,False,False,True,False,b'David Martin',0.09
+"Hanna, Ship's Navigator",Legendary Creature,Human Artificer,Invasion,Rare,3,Gold,False,False,True,True,b'Dave Dorman',2.19
+Heroes' Reunion,Instant,None,Invasion,Uncommon,2,Gold,True,False,True,True,b'Terese Nielsen',0.15
+Horned Cheetah,Creature,Cat,Invasion,Uncommon,4,Gold,False,False,True,False,b'John Matson',0.15
+Hunting Kavu,Creature,Kavu,Invasion,Uncommon,3,Gold,False,False,True,False,b'Scott M. Fischer',0.22
+"Kangee, Aerie Keeper",Legendary Creature,Bird Wizard,Invasion,Rare,4,Gold,False,False,True,False,b'Mark Romanoski',1.4
+Llanowar Knight,Creature,Elf Knight,Invasion,Common,2,Gold,False,False,True,False,b'Heather Hudson',0.09
+Lobotomy,Sorcery,None,Invasion,Uncommon,4,Gold,False,False,True,True,b'D. Alexander Gregory',0.11
+Meteor Storm,Enchantment,None,Invasion,Rare,2,Gold,False,False,True,False,b'John Avon',0.21
+Noble Panther,Creature,Cat,Invasion,Rare,3,Gold,False,False,True,False,b'Matt Cavotta',0.25
+Ordered Migration,Sorcery,None,Invasion,Uncommon,5,Gold,False,False,True,False,b'Heather Hudson',0.18
+Overabundance,Enchantment,None,Invasion,Rare,3,Gold,False,False,True,False,b'Ben Thompson',0.68
+Plague Spores,Sorcery,None,Invasion,Common,6,Gold,False,False,True,False,b'Randy Gallegos',0.05
+Pyre Zombie,Creature,Zombie,Invasion,Rare,3,Gold,False,False,True,False,b'Nelson DeCastro',0.26
+Raging Kavu,Creature,Kavu,Invasion,Rare,3,Gold,False,False,True,True,b'Arnie Swekel',0.27
+Reckless Assault,Enchantment,None,Invasion,Rare,4,Gold,False,False,True,False,b'Jeff Easley',0.2
+Recoil,Instant,None,Invasion,Common,3,Gold,False,False,True,True,b'Alan Pollack',0.22
+Reviving Vapors,Instant,None,Invasion,Uncommon,4,Gold,False,False,True,True,b'Pete Venters',0.12
+Riptide Crab,Creature,Crab,Invasion,Uncommon,3,Gold,False,False,True,True,b'David Martin',0.07
+"Rith, the Awakener",Legendary Creature,Dragon,Invasion,Rare,6,Gold,False,False,True,True,b'Carl Critchlow',1.96
+Sabertooth Nishoba,Creature,Cat Beast Warrior,Invasion,Rare,6,Gold,False,False,True,False,b'Gary Ruddell',0.32
+Samite Archer,Creature,Human Cleric Archer,Invasion,Uncommon,3,Gold,False,False,True,False,b'Scott M. Fischer',0.15
+Seer's Vision,Enchantment,None,Invasion,Uncommon,4,Gold,False,False,True,False,b'Rebecca Guay',0.24
+Shivan Zombie,Creature,Barbarian Zombie,Invasion,Common,2,Gold,False,False,True,False,b'Tony Szczudlo',0.05
+Simoon,Instant,None,Invasion,Uncommon,2,Gold,False,False,True,True,b'Tony Szczudlo',0.17
+Sleeper's Robe,Enchantment,Aura,Invasion,Uncommon,2,Gold,False,False,True,False,b'Alan Pollack',0.26
+Slinking Serpent,Creature,Serpent,Invasion,Uncommon,4,Gold,False,False,True,False,b'Wayne England',0.07
+Smoldering Tar,Enchantment,None,Invasion,Uncommon,4,Gold,False,False,True,False,b'David Day',0.11
+Spinal Embrace,Instant,None,Invasion,Rare,6,Gold,False,False,True,True,b'Donato Giancola',0.3
+Stalking Assassin,Creature,Human Assassin,Invasion,Rare,3,Gold,False,False,True,False,b'Dana Knutson',0.27
+Sterling Grove,Enchantment,None,Invasion,Uncommon,2,Gold,False,False,True,True,b'Jeff Miracola',11.0
+Teferi's Moat,Enchantment,None,Invasion,Rare,5,Gold,True,False,True,True,b'rk post',0.57
+"Treva, the Renewer",Legendary Creature,Dragon,Invasion,Rare,6,Gold,False,False,True,True,b'Ciruelo',1.05
+Tsabo Tavoc,Legendary Creature,Horror,Invasion,Rare,7,Gold,False,False,True,False,b'Michael Sutfin',1.14
+Undermine,Instant,None,Invasion,Rare,3,Gold,False,False,True,True,b'Massimilano Frezzato',2.76
+Urborg Drake,Creature,Drake,Invasion,Uncommon,3,Gold,False,False,True,True,b'Sam Wood',0.09
+Vicious Kavu,Creature,Kavu,Invasion,Uncommon,3,Gold,False,False,True,False,b'Kev Walker',0.11
+Vile Consumption,Enchantment,None,Invasion,Rare,3,Gold,False,False,True,False,b'Heather Hudson',0.56
+Vodalian Zombie,Creature,Merfolk Zombie,Invasion,Common,2,Gold,False,False,True,False,b'Greg Hildebrandt',0.12
+Void,Sorcery,None,Invasion,Rare,5,Gold,True,False,True,True,b'Kev Walker',0.3
+Voracious Cobra,Creature,Snake,Invasion,Uncommon,4,Gold,False,False,True,False,b'Terese Nielsen',0.19
+Wings of Hope,Enchantment,Aura,Invasion,Common,2,Gold,False,False,True,False,b'Wayne England',0.08
+Yavimaya Barbarian,Creature,Elf Barbarian,Invasion,Common,2,Gold,False,False,True,False,b'Don Hazeltine',0.11
+Yavimaya Kavu,Creature,Kavu,Invasion,Uncommon,4,Gold,False,False,True,False,b'Greg Staples',0.22
+Stand,Instant,None,Invasion,Uncommon,1,White,False,False,True,False,b'David Martin',0.19
+Spite,Instant,None,Invasion,Uncommon,4,Blue,False,False,True,True,b'David Martin',0.18
+Pain,Sorcery,None,Invasion,Uncommon,1,Black,False,False,True,True,b'David Martin',0.15
+Assault,Sorcery,None,Invasion,Uncommon,1,Red,True,False,True,True,b'Ben Thompson',0.12
+Wax,Instant,None,Invasion,Uncommon,1,Green,False,False,True,True,b'Ben Thompson',0.14
+Alloy Golem,Artifact Creature,Golem,Invasion,Uncommon,6,Colorless,False,False,True,False,b'Greg Staples',0.12
+Bloodstone Cameo,Artifact,None,Invasion,Uncommon,3,Colorless,False,False,True,False,b'Tony Szczudlo',0.19
+Chromatic Sphere,Artifact,None,Invasion,Uncommon,1,Colorless,True,False,True,True,b'Luca Zontini',0.61
+Crosis's Attendant,Artifact Creature,Golem,Invasion,Uncommon,5,Colorless,False,False,True,False,b'Arnie Swekel',0.18
+Darigaaz's Attendant,Artifact Creature,Golem,Invasion,Uncommon,5,Colorless,False,False,True,False,b'Brom',0.17
+Drake-Skull Cameo,Artifact,None,Invasion,Uncommon,3,Colorless,False,False,True,False,b'Dan Frazier',0.21
+Dromar's Attendant,Artifact Creature,Golem,Invasion,Uncommon,5,Colorless,False,False,True,False,b'Carl Critchlow',0.14
+Juntu Stakes,Artifact,None,Invasion,Rare,2,Colorless,False,False,True,False,b'Mark Brill',0.3
+Lotus Guardian,Artifact Creature,Dragon,Invasion,Rare,7,Colorless,False,False,True,False,b'Dana Knutson',0.33
+Phyrexian Altar,Artifact,None,Invasion,Rare,3,Colorless,False,False,True,True,b'Ron Spears',28.2
+Phyrexian Lens,Artifact,None,Invasion,Rare,3,Colorless,False,False,True,False,b'Matt Cavotta',0.26
+Planar Portal,Artifact,None,Invasion,Rare,6,Colorless,True,False,True,True,b'Mark Tedin',3.44
+Power Armor,Artifact,None,Invasion,Uncommon,4,Colorless,False,False,True,True,b'Doug Chaffee',0.18
+Rith's Attendant,Artifact Creature,Golem,Invasion,Uncommon,5,Colorless,False,False,True,False,b'Adam Rex',0.16
+Seashell Cameo,Artifact,None,Invasion,Uncommon,3,Colorless,False,False,True,False,b'Tony Szczudlo',0.19
+Sparring Golem,Artifact Creature,Golem,Invasion,Uncommon,3,Colorless,False,False,True,False,b'Adam Rex',0.11
+Tek,Artifact Creature,Dragon,Invasion,Rare,5,Colorless,False,False,True,False,b'Chippy',0.35
+Tigereye Cameo,Artifact,None,Invasion,Uncommon,3,Colorless,False,False,True,False,b'Donato Giancola',0.14
+Treva's Attendant,Artifact Creature,Golem,Invasion,Uncommon,5,Colorless,False,False,True,False,b'Christopher Moeller',0.11
+Troll-Horn Cameo,Artifact,None,Invasion,Uncommon,3,Colorless,False,False,True,False,b'Donato Giancola',0.18
+Tsabo's Web,Artifact,None,Invasion,Rare,2,Colorless,False,False,True,True,b'Carl Critchlow',1.61
+Urza's Filter,Artifact,None,Invasion,Rare,4,Colorless,False,False,True,False,b'Dave Dorman',4.59
+Ancient Spring,Land,None,Invasion,Common,0,Colorless,False,False,True,False,b'Don Hazeltine',0.14
+Archaeological Dig,Land,None,Invasion,Uncommon,0,Colorless,False,False,True,False,b'Don Hazeltine',0.32
+Coastal Tower,Land,None,Invasion,Uncommon,0,Colorless,True,False,True,True,b'Don Hazeltine',0.52
+Elfhame Palace,Land,None,Invasion,Uncommon,0,Colorless,True,False,True,True,b'Jerry Tiritilli',0.22
+Geothermal Crevice,Land,None,Invasion,Common,0,Colorless,False,False,True,False,b'John Avon',0.13
+Irrigation Ditch,Land,None,Invasion,Common,0,Colorless,False,False,True,False,b'Rob Alexander',0.14
+Keldon Necropolis,Legendary Land,None,Invasion,Rare,0,Colorless,False,False,True,True,b'Franz Vohwinkel',0.33
+Salt Marsh,Land,None,Invasion,Uncommon,0,Colorless,True,False,True,True,b'Jerry Tiritilli',0.4
+Shivan Oasis,Land,None,Invasion,Uncommon,0,Colorless,True,False,True,True,b'Rob Alexander',0.26
+Sulfur Vent,Land,None,Invasion,Common,0,Colorless,False,False,True,False,"b'Edward P. Beard, Jr.'",0.18
+Tinder Farm,Land,None,Invasion,Common,0,Colorless,False,False,True,False,b'Rob Alexander',0.12
+Urborg Volcano,Land,None,Invasion,Uncommon,0,Colorless,True,False,True,True,b'Tony Szczudlo',0.3
+Plains,Basic Land,Plains,Invasion,Common,0,Colorless,True,True,True,True,b'John Avon',0.96
+Plains,Basic Land,Plains,Invasion,Common,0,Colorless,True,True,True,True,b'Ben Thompson',0.2
+Plains,Basic Land,Plains,Invasion,Common,0,Colorless,True,True,True,True,b'D. J. Cleland-Hura',0.24
+Plains,Basic Land,Plains,Invasion,Common,0,Colorless,True,True,True,True,b'Scott Bailey',0.3
+Island,Basic Land,Island,Invasion,Common,0,Colorless,True,True,True,True,b'Tony Szczudlo',0.93
+Island,Basic Land,Island,Invasion,Common,0,Colorless,True,True,True,True,b'John Avon',0.47
+Island,Basic Land,Island,Invasion,Common,0,Colorless,True,True,True,True,b'Terese Nielsen',0.74
+Island,Basic Land,Island,Invasion,Common,0,Colorless,True,True,True,True,b'Darrell Riche',0.37
+Swamp,Basic Land,Swamp,Invasion,Common,0,Colorless,True,True,True,True,b'Ron Spencer',0.38
+Swamp,Basic Land,Swamp,Invasion,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.39
+Swamp,Basic Land,Swamp,Invasion,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.41
+Swamp,Basic Land,Swamp,Invasion,Common,0,Colorless,True,True,True,True,b'Ron Spencer',0.52
+Mountain,Basic Land,Mountain,Invasion,Common,0,Colorless,True,True,True,True,b'Matt Cavotta',0.34
+Mountain,Basic Land,Mountain,Invasion,Common,0,Colorless,True,True,True,True,b'Jeff Miracola',0.41
+Mountain,Basic Land,Mountain,Invasion,Common,0,Colorless,True,True,True,True,b'Glen Angus',0.48
+Mountain,Basic Land,Mountain,Invasion,Common,0,Colorless,True,True,True,True,b'Scott Bailey',0.42
+Forest,Basic Land,Forest,Invasion,Common,0,Colorless,True,True,True,True,b'John Avon',0.98
+Forest,Basic Land,Forest,Invasion,Common,0,Colorless,True,True,True,True,b'Alan Pollack',0.23
+Forest,Basic Land,Forest,Invasion,Common,0,Colorless,True,True,True,True,b'Alan Pollack',0.52
+Forest,Basic Land,Forest,Invasion,Common,0,Colorless,True,True,True,True,b'Glen Angus',0.38

@@ -1,0 +1,265 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Abbey Griffin,Creature,Griffin,Innistrad,Common,4,White,True,False,True,False,b'Jaime Jones',0.07
+Angel of Flight Alabaster,Creature,Angel,Innistrad,Rare,5,White,True,False,True,False,b'Howard Lyon',0.26
+Angelic Overseer,Creature,Angel,Innistrad,Mythic Rare,5,White,True,False,True,False,b'Jason Chan',1.28
+Avacynian Priest,Creature,Human Cleric,Innistrad,Common,2,White,True,False,True,False,b'Greg Staples',0.06
+Bonds of Faith,Enchantment,Aura,Innistrad,Common,2,White,True,False,True,True,b'Steve Argyle',0.12
+Champion of the Parish,Creature,Human Soldier,Innistrad,Rare,1,White,True,False,True,True,b'Svetlin Velinov',1.29
+Chapel Geist,Creature,Spirit,Innistrad,Common,3,White,True,False,True,True,b'Peter Mohrbacher',0.04
+Cloistered Youth,Creature,Human,Innistrad,Uncommon,2,White,True,False,True,False,b'Igor Kieryluk',0.06
+Dearly Departed,Creature,Spirit,Innistrad,Rare,6,White,True,False,True,True,b'Daniel Ljunggren',0.19
+Divine Reckoning,Sorcery,None,Innistrad,Rare,4,White,True,False,True,True,b'Greg Staples',0.39
+Doomed Traveler,Creature,Human Soldier,Innistrad,Common,1,White,True,False,True,True,b'Lars Grant-West',0.13
+Elder Cathar,Creature,Human Soldier,Innistrad,Common,3,White,True,False,True,True,b'Chris Rahn',0.07
+Elite Inquisitor,Creature,Human Soldier,Innistrad,Rare,2,White,True,False,True,True,b'Jana Schirmer',0.33
+Feeling of Dread,Instant,None,Innistrad,Common,2,White,True,False,True,False,b'John Stanko',0.1
+Fiend Hunter,Creature,Human Cleric,Innistrad,Uncommon,3,White,True,False,True,True,b'Wayne Reynolds',0.11
+Gallows Warden,Creature,Spirit,Innistrad,Uncommon,5,White,True,False,True,False,b'Dan Scott',0.09
+Geist-Honored Monk,Creature,Human Monk,Innistrad,Rare,5,White,True,False,True,True,b'Clint Cearley',0.34
+Ghostly Possession,Enchantment,Aura,Innistrad,Common,3,White,True,False,True,True,b'Howard Lyon',0.07
+Intangible Virtue,Enchantment,None,Innistrad,Uncommon,2,White,True,False,True,True,b'Clint Cearley',0.23
+Mausoleum Guard,Creature,Human Scout,Innistrad,Uncommon,4,White,True,False,True,True,b'David Palumbo',0.07
+Mentor of the Meek,Creature,Human Soldier,Innistrad,Rare,3,White,True,False,True,True,b'Jana Schirmer',0.62
+Midnight Haunting,Instant,None,Innistrad,Uncommon,3,White,True,False,True,True,b'Matt Stewart',0.13
+"Mikaeus, the Lunarch",Legendary Creature,Human Cleric,Innistrad,Mythic Rare,2,White,True,False,True,True,b'Steven Belledin',2.75
+Moment of Heroism,Instant,None,Innistrad,Common,2,White,True,True,True,True,b'Christopher Moeller',0.07
+Nevermore,Enchantment,None,Innistrad,Rare,3,White,True,False,True,False,b'Jason A. Engle',0.86
+Paraselene,Sorcery,None,Innistrad,Uncommon,3,White,True,False,True,False,b'Ryan Yee',0.14
+Purify the Grave,Instant,None,Innistrad,Uncommon,1,White,True,False,True,True,b'Drew Baker',0.08
+Rally the Peasants,Instant,None,Innistrad,Uncommon,3,White,True,False,True,True,b'Jaime Jones',0.12
+Rebuke,Instant,None,Innistrad,Common,3,White,True,False,True,True,b'Igor Kieryluk',0.08
+Selfless Cathar,Creature,Human Cleric,Innistrad,Common,1,White,True,False,True,True,b'Slawomir Maniak',0.07
+Silverchase Fox,Creature,Fox,Innistrad,Common,2,White,True,False,True,True,b'Howard Lyon',0.07
+Slayer of the Wicked,Creature,Human Soldier,Innistrad,Uncommon,4,White,True,False,True,True,b'Anthony Palumbo',0.06
+Smite the Monstrous,Instant,None,Innistrad,Common,4,White,True,False,True,True,b'Jason Felix',0.05
+Spare from Evil,Instant,None,Innistrad,Common,2,White,True,False,True,False,b'Jason Felix',0.06
+Spectral Rider,Creature,Spirit Knight,Innistrad,Uncommon,2,White,True,False,True,False,b'Igor Kieryluk',0.09
+Stony Silence,Enchantment,None,Innistrad,Rare,2,White,True,False,True,True,b'Wayne England',1.48
+Thraben Purebloods,Creature,Hound,Innistrad,Common,5,White,True,False,True,False,b'Martina Pilcerova',0.05
+Thraben Sentry,Creature,Human Soldier,Innistrad,Common,4,White,True,False,True,False,b'David Rapoza',0.07
+Unruly Mob,Creature,Human,Innistrad,Common,2,White,True,False,True,True,b'Ryan Pancoast',0.06
+Urgent Exorcism,Instant,None,Innistrad,Common,2,White,True,False,True,False,b'Svetlin Velinov',0.05
+Village Bell-Ringer,Creature,Human Scout,Innistrad,Common,3,White,True,False,True,True,b'David Palumbo',0.15
+Voiceless Spirit,Creature,Spirit,Innistrad,Common,3,White,True,False,True,False,b'Daarken',0.1
+Armored Skaab,Creature,Zombie Warrior,Innistrad,Common,3,Blue,True,False,True,False,b'Volkan Ba\xc7\xb5a',0.07
+Back from the Brink,Enchantment,None,Innistrad,Rare,6,Blue,True,False,True,False,b'Anthony Palumbo',0.22
+Battleground Geist,Creature,Spirit,Innistrad,Uncommon,5,Blue,True,False,True,False,b'Clint Cearley',0.09
+Cackling Counterpart,Instant,None,Innistrad,Rare,3,Blue,True,False,True,True,b'David Rapoza',0.39
+Civilized Scholar,Creature,Human Advisor,Innistrad,Uncommon,3,Blue,True,False,True,False,b'Michael C. Hayes',0.07
+Claustrophobia,Enchantment,Aura,Innistrad,Common,3,Blue,True,False,True,True,b'Ryan Pancoast',0.05
+Curiosity,Enchantment,Aura,Innistrad,Uncommon,1,Blue,True,False,True,True,b'Igor Kieryluk',0.35
+Curse of the Bloody Tome,Enchantment,Aura Curse,Innistrad,Common,3,Blue,True,False,True,True,b'Jaime Jones',0.13
+Delver of Secrets,Creature,Human Wizard,Innistrad,Common,1,Blue,True,False,True,True,b'Nils Hamm',0.78
+Deranged Assistant,Creature,Human Wizard,Innistrad,Common,2,Blue,True,False,True,True,b'Nils Hamm',0.11
+Dissipate,Instant,None,Innistrad,Uncommon,3,Blue,True,False,True,True,b'Tomasz Jedruszek',0.22
+Dream Twist,Instant,None,Innistrad,Common,1,Blue,True,False,True,True,b'Dan Scott',0.1
+Forbidden Alchemy,Instant,None,Innistrad,Common,3,Blue,True,False,True,True,b'David Rapoza',0.12
+Fortress Crab,Creature,Crab,Innistrad,Common,4,Blue,True,True,True,True,b'Vincent Proce',0.06
+Frightful Delusion,Instant,None,Innistrad,Common,3,Blue,True,False,True,False,b'Anthony Palumbo',0.06
+Grasp of Phantoms,Sorcery,None,Innistrad,Uncommon,4,Blue,True,False,True,True,b'Izzy',0.08
+Hysterical Blindness,Instant,None,Innistrad,Common,3,Blue,True,False,True,False,b'Wayne England',0.05
+Invisible Stalker,Creature,Human Rogue,Innistrad,Uncommon,2,Blue,True,False,True,False,b'Bud Cook',0.94
+Laboratory Maniac,Creature,Human Wizard,Innistrad,Rare,3,Blue,True,False,True,True,b'Jason Felix',3.37
+Lantern Spirit,Creature,Spirit,Innistrad,Uncommon,3,Blue,True,False,True,False,b'Johann Bodin',0.08
+Lost in the Mist,Instant,None,Innistrad,Common,5,Blue,True,False,True,False,b'David Palumbo',0.07
+Ludevic's Test Subject,Creature,Lizard Egg,Innistrad,Rare,2,Blue,True,False,True,True,b'Nils Hamm',0.39
+Makeshift Mauler,Creature,Zombie Horror,Innistrad,Common,4,Blue,True,False,True,True,b'James Ryman',0.07
+Memory's Journey,Instant,None,Innistrad,Uncommon,2,Blue,True,False,True,False,b'Slawomir Maniak',0.23
+Mindshrieker,Creature,Spirit Bird,Innistrad,Rare,2,Blue,True,False,True,False,b'Dave Kendall',0.46
+Mirror-Mad Phantasm,Creature,Spirit,Innistrad,Mythic Rare,5,Blue,True,False,True,False,b'Howard Lyon',0.62
+Moon Heron,Creature,Spirit Bird,Innistrad,Common,4,Blue,True,False,True,False,b'Charles Urbach',0.06
+Murder of Crows,Creature,Bird,Innistrad,Uncommon,5,Blue,True,False,True,True,b'Drew Baker',0.08
+Rooftop Storm,Enchantment,None,Innistrad,Rare,6,Blue,True,False,True,False,b'John Stanko',1.86
+Runic Repetition,Sorcery,None,Innistrad,Uncommon,3,Blue,True,False,True,True,b'Svetlin Velinov',0.11
+Selhoff Occultist,Creature,Human Rogue,Innistrad,Common,3,Blue,True,False,True,False,b'Igor Kieryluk',0.06
+Sensory Deprivation,Enchantment,Aura,Innistrad,Common,1,Blue,True,False,True,True,b'Steven Belledin',0.06
+Silent Departure,Sorcery,None,Innistrad,Common,1,Blue,True,False,True,True,b'John Avon',0.1
+Skaab Goliath,Creature,Zombie Giant,Innistrad,Uncommon,6,Blue,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.08
+Skaab Ruinator,Creature,Zombie Horror,Innistrad,Mythic Rare,3,Blue,True,False,True,False,b'Chris Rahn',0.81
+Snapcaster Mage,Creature,Human Wizard,Innistrad,Rare,2,Blue,True,False,True,True,b'Volkan Ba\xc7\xb5a',37.15
+Spectral Flight,Enchantment,Aura,Innistrad,Common,2,Blue,True,False,True,False,b'Johann Bodin',0.07
+Stitched Drake,Creature,Zombie Drake,Innistrad,Common,3,Blue,True,False,True,True,b'Chris Rahn',0.07
+Stitcher's Apprentice,Creature,Homunculus,Innistrad,Common,2,Blue,True,False,True,True,b'Johann Bodin',0.11
+Sturmgeist,Creature,Spirit,Innistrad,Rare,5,Blue,True,False,True,False,b'Terese Nielsen',0.27
+Think Twice,Instant,None,Innistrad,Common,2,Blue,True,False,True,True,b'Anthony Francisco',0.12
+Undead Alchemist,Creature,Zombie,Innistrad,Rare,4,Blue,True,False,True,False,b'Michael C. Hayes',0.92
+Abattoir Ghoul,Creature,Zombie,Innistrad,Uncommon,4,Black,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.08
+Altar's Reap,Instant,None,Innistrad,Common,2,Black,True,False,True,True,b'Donato Giancola',0.09
+Army of the Damned,Sorcery,None,Innistrad,Mythic Rare,8,Black,True,False,True,True,b'Ryan Pancoast',1.2
+Bitterheart Witch,Creature,Human Shaman,Innistrad,Uncommon,5,Black,True,False,True,False,b'Karl Kopinski',0.18
+Bloodgift Demon,Creature,Demon,Innistrad,Rare,5,Black,True,False,True,True,b'Peter Mohrbacher',1.23
+Bloodline Keeper,Creature,Vampire,Innistrad,Rare,4,Black,True,False,True,True,b'Jason Chan',7.13
+Brain Weevil,Creature,Insect,Innistrad,Common,4,Black,True,False,True,True,b'Anthony Jones',0.08
+Bump in the Night,Sorcery,None,Innistrad,Common,1,Black,True,False,True,True,b'Kev Walker',0.14
+Corpse Lunge,Instant,None,Innistrad,Common,3,Black,True,False,True,False,b'Christopher Moeller',0.05
+Curse of Death's Hold,Enchantment,Aura Curse,Innistrad,Rare,5,Black,True,False,True,False,b'Clint Cearley',0.37
+Curse of Oblivion,Enchantment,Aura Curse,Innistrad,Common,4,Black,True,False,True,False,b'Jana Schirmer',0.1
+Dead Weight,Enchantment,Aura,Innistrad,Common,1,Black,True,True,True,True,b'Randy Gallegos',0.11
+Diregraf Ghoul,Creature,Zombie,Innistrad,Uncommon,1,Black,True,False,True,True,b'Dave Kendall',0.1
+Disciple of Griselbrand,Creature,Human Cleric,Innistrad,Uncommon,2,Black,True,False,True,True,b'Clint Cearley',0.15
+Endless Ranks of the Dead,Enchantment,None,Innistrad,Rare,4,Black,True,False,True,False,b'Ryan Yee',5.45
+Falkenrath Noble,Creature,Vampire Noble,Innistrad,Uncommon,4,Black,True,False,True,True,b'Slawomir Maniak',0.28
+Ghoulcaller's Chant,Sorcery,None,Innistrad,Common,1,Black,True,False,True,False,b'Randy Gallegos',0.2
+Ghoulraiser,Creature,Zombie,Innistrad,Common,3,Black,True,False,True,True,b'Steve Prescott',0.12
+Gruesome Deformity,Enchantment,Aura,Innistrad,Common,1,Black,True,False,True,False,b'Matt Stewart',0.07
+Heartless Summoning,Enchantment,None,Innistrad,Rare,2,Black,True,False,True,False,b'Anthony Palumbo',1.62
+Liliana of the Veil,Legendary Planeswalker,Liliana,Innistrad,Mythic Rare,3,Black,True,False,True,True,b'Steve Argyle',46.76
+Manor Skeleton,Creature,Skeleton,Innistrad,Common,2,Black,True,False,True,False,b'Eric Deschamps',0.06
+Markov Patrician,Creature,Vampire,Innistrad,Common,3,Black,True,False,True,False,b'Jana Schirmer',0.08
+Maw of the Mire,Sorcery,None,Innistrad,Common,5,Black,True,False,True,False,b'Vincent Proce',0.06
+Moan of the Unhallowed,Sorcery,None,Innistrad,Uncommon,4,Black,True,False,True,True,b'Nils Hamm',0.11
+Morkrut Banshee,Creature,Spirit,Innistrad,Uncommon,5,Black,True,False,True,True,b'Svetlin Velinov',0.05
+Night Terrors,Sorcery,None,Innistrad,Common,3,Black,True,False,True,True,b'Christopher Moeller',0.06
+Reaper from the Abyss,Creature,Demon,Innistrad,Mythic Rare,6,Black,True,False,True,True,b'Matt Stewart',1.27
+Rotting Fensnake,Creature,Zombie Snake,Innistrad,Common,4,Black,True,False,True,False,b'Tomasz Jedruszek',0.1
+Screeching Bat,Creature,Bat,Innistrad,Uncommon,3,Black,True,False,True,False,b'Slawomir Maniak',0.11
+Sever the Bloodline,Sorcery,None,Innistrad,Rare,4,Black,True,False,True,True,b'Clint Cearley',0.2
+Skeletal Grimace,Enchantment,Aura,Innistrad,Common,2,Black,True,False,True,False,b'Eric Deschamps',0.13
+Skirsdag High Priest,Creature,Human Cleric,Innistrad,Rare,2,Black,True,False,True,True,b'Jason A. Engle',0.46
+Stromkirk Patrol,Creature,Vampire Soldier,Innistrad,Common,5,Black,True,False,True,True,b'Karl Kopinski',0.07
+Tribute to Hunger,Instant,None,Innistrad,Uncommon,3,Black,True,False,True,True,b'Dave Kendall',0.1
+Typhoid Rats,Creature,Rat,Innistrad,Common,1,Black,True,False,True,True,b'Kev Walker',0.11
+Unbreathing Horde,Creature,Zombie,Innistrad,Rare,3,Black,True,False,True,True,b'Dave Kendall',0.76
+Unburial Rites,Sorcery,None,Innistrad,Uncommon,5,Black,True,False,True,True,b'Ryan Pancoast',0.24
+Vampire Interloper,Creature,Vampire Scout,Innistrad,Common,2,Black,True,False,True,True,b'James Ryman',0.11
+Victim of Night,Instant,None,Innistrad,Common,2,Black,True,False,True,True,b'Winona Nelson',0.24
+Village Cannibals,Creature,Human,Innistrad,Uncommon,3,Black,True,False,True,False,b'Bud Cook',0.08
+Walking Corpse,Creature,Zombie,Innistrad,Common,2,Black,True,True,True,True,b'Igor Kieryluk',0.06
+Ancient Grudge,Instant,None,Innistrad,Common,2,Red,True,False,True,True,b'Ryan Yee',0.22
+Ashmouth Hound,Creature,Elemental Hound,Innistrad,Common,2,Red,True,False,True,True,b'Daarken',0.06
+Balefire Dragon,Creature,Dragon,Innistrad,Mythic Rare,7,Red,True,False,True,True,b'Eric Deschamps',9.64
+Blasphemous Act,Sorcery,None,Innistrad,Rare,9,Red,True,False,True,True,b'Daarken',4.52
+Bloodcrazed Neonate,Creature,Vampire,Innistrad,Common,2,Red,True,False,True,True,b'Cynthia Sheppard',0.09
+Brimstone Volley,Instant,None,Innistrad,Common,3,Red,True,False,True,True,b'Eytan Zana',0.09
+Burning Vengeance,Enchantment,None,Innistrad,Uncommon,3,Red,True,False,True,True,b'Raymond Swanland',0.11
+Charmbreaker Devils,Creature,Devil,Innistrad,Rare,6,Red,True,False,True,True,b'Dan Scott',0.33
+Crossway Vampire,Creature,Vampire,Innistrad,Common,3,Red,True,False,True,False,b'Mark Evans',0.11
+Curse of Stalked Prey,Enchantment,Aura Curse,Innistrad,Rare,2,Red,True,False,True,False,b'Christopher Moeller',0.29
+Curse of the Nightly Hunt,Enchantment,Aura Curse,Innistrad,Uncommon,3,Red,True,False,True,True,b'Daarken',0.14
+Curse of the Pierced Heart,Enchantment,Aura Curse,Innistrad,Common,2,Red,True,False,True,False,b'E. M. Gist',0.27
+Desperate Ravings,Instant,None,Innistrad,Uncommon,2,Red,True,False,True,True,b'John Stanko',0.08
+Devil's Play,Sorcery,None,Innistrad,Rare,2,Red,True,False,True,True,b'Austin Hsu',0.21
+Falkenrath Marauders,Creature,Vampire Warrior,Innistrad,Rare,5,Red,True,False,True,False,b'James Ryman',0.29
+Feral Ridgewolf,Creature,Wolf,Innistrad,Common,3,Red,True,False,True,False,b'Martina Pilcerova',0.08
+Furor of the Bitten,Enchantment,Aura,Innistrad,Common,1,Red,True,False,True,False,b'Randy Gallegos',0.11
+Geistflame,Instant,None,Innistrad,Common,1,Red,True,False,True,True,b'Scott Chou',0.05
+Hanweir Watchkeep,Creature,Human Warrior Werewolf,Innistrad,Uncommon,3,Red,True,False,True,False,b'Wayne Reynolds',0.17
+Harvest Pyre,Instant,None,Innistrad,Common,2,Red,True,False,True,False,b'Ryan Yee',0.06
+Heretic's Punishment,Enchantment,None,Innistrad,Rare,5,Red,True,False,True,False,b'Vincent Proce',0.18
+Infernal Plunge,Sorcery,None,Innistrad,Common,1,Red,True,False,True,False,b'Daarken',0.14
+Instigator Gang,Creature,Human Werewolf,Innistrad,Rare,4,Red,True,False,True,False,b'Greg Staples',0.47
+Into the Maw of Hell,Sorcery,None,Innistrad,Uncommon,6,Red,True,False,True,False,b'Raymond Swanland',0.09
+Kessig Wolf,Creature,Wolf,Innistrad,Common,3,Red,True,False,True,False,b'Wayne England',0.08
+Kruin Outlaw,Creature,Human Rogue Werewolf,Innistrad,Rare,3,Red,True,False,True,False,b'David Rapoza',0.62
+Night Revelers,Creature,Vampire,Innistrad,Common,5,Red,True,False,True,False,b'Steve Argyle',0.06
+Nightbird's Clutches,Sorcery,None,Innistrad,Common,2,Red,True,False,True,True,b'Jason A. Engle',0.05
+Past in Flames,Sorcery,None,Innistrad,Mythic Rare,4,Red,True,False,True,True,b'Anthony Jones',5.08
+Pitchburn Devils,Creature,Devil,Innistrad,Common,5,Red,True,False,True,True,b'Johann Bodin',0.04
+Rage Thrower,Creature,Human Shaman,Innistrad,Uncommon,6,Red,True,False,True,False,b'Peter Mohrbacher',0.12
+Rakish Heir,Creature,Vampire,Innistrad,Uncommon,3,Red,True,False,True,True,b'Winona Nelson',0.14
+Reckless Waif,Creature,Human Rogue Werewolf,Innistrad,Uncommon,1,Red,True,False,True,False,b'Michael C. Hayes',0.2
+Riot Devils,Creature,Devil,Innistrad,Common,3,Red,True,False,True,False,b'Svetlin Velinov',0.06
+Rolling Temblor,Sorcery,None,Innistrad,Uncommon,3,Red,True,False,True,True,b'Cliff Childs',0.05
+Scourge of Geier Reach,Creature,Elemental,Innistrad,Uncommon,5,Red,True,False,True,False,b'Jung Park',0.1
+Skirsdag Cultist,Creature,Human Shaman,Innistrad,Uncommon,4,Red,True,False,True,True,b'Slawomir Maniak',0.07
+Stromkirk Noble,Creature,Vampire Noble,Innistrad,Rare,1,Red,True,False,True,False,b'James Ryman',0.44
+Tormented Pariah,Creature,Human Warrior Werewolf,Innistrad,Common,4,Red,True,False,True,False,b'Bud Cook',0.11
+Traitorous Blood,Sorcery,None,Innistrad,Common,3,Red,True,False,True,False,b'Raymond Swanland',0.16
+Vampiric Fury,Instant,None,Innistrad,Common,2,Red,True,False,True,False,b'Matt Stewart',0.11
+Village Ironsmith,Creature,Human Werewolf,Innistrad,Common,2,Red,True,False,True,False,b'Christopher Moeller',0.09
+Ambush Viper,Creature,Snake,Innistrad,Common,2,Green,True,False,True,False,b'Alan Pollack',0.14
+Avacyn's Pilgrim,Creature,Human Monk,Innistrad,Common,1,Green,True,False,True,True,b'Jana Schirmer',0.21
+Boneyard Wurm,Creature,Wurm,Innistrad,Uncommon,2,Green,True,False,True,True,b'Jaime Jones',0.13
+Bramblecrush,Sorcery,None,Innistrad,Uncommon,4,Green,True,False,True,True,b'Drew Baker',0.12
+Caravan Vigil,Sorcery,None,Innistrad,Common,1,Green,True,False,True,False,b'Drew Baker',0.15
+Creeping Renaissance,Sorcery,None,Innistrad,Rare,5,Green,True,False,True,True,b'Tomasz Jedruszek',0.57
+Darkthicket Wolf,Creature,Wolf,Innistrad,Common,2,Green,True,False,True,False,b'Wayne England',0.1
+Daybreak Ranger,Creature,Human Archer Werewolf,Innistrad,Rare,3,Green,True,False,True,False,b'Steve Prescott',0.6
+Elder of Laurels,Creature,Human Advisor,Innistrad,Rare,3,Green,True,False,True,False,b'Terese Nielsen',0.22
+Essence of the Wild,Creature,Avatar,Innistrad,Mythic Rare,6,Green,True,False,True,False,b'Terese Nielsen',0.56
+Festerhide Boar,Creature,Boar,Innistrad,Common,4,Green,True,False,True,True,b'Nils Hamm',0.06
+Full Moon's Rise,Enchantment,None,Innistrad,Uncommon,2,Green,True,False,True,False,b'Terese Nielsen',0.25
+Garruk Relentless,Legendary Planeswalker,Garruk,Innistrad,Mythic Rare,4,Green,True,False,True,True,b'Eric Deschamps',2.85
+Gatstaf Shepherd,Creature,Human Werewolf,Innistrad,Uncommon,2,Green,True,False,True,False,b'Mark Evans',0.14
+Gnaw to the Bone,Instant,None,Innistrad,Common,3,Green,True,False,True,False,b'Scott Chou',0.16
+Grave Bramble,Creature,Plant,Innistrad,Common,3,Green,True,False,True,False,b'Anthony Jones',0.05
+Grizzled Outcasts,Creature,Human Werewolf,Innistrad,Common,5,Green,True,False,True,False,b'Randy Gallegos',0.11
+Gutter Grime,Enchantment,None,Innistrad,Rare,5,Green,True,False,True,False,b'Erica Yang',0.25
+Hamlet Captain,Creature,Human Warrior,Innistrad,Uncommon,2,Green,True,False,True,True,b'Wayne Reynolds',0.09
+Hollowhenge Scavenger,Creature,Elemental,Innistrad,Uncommon,5,Green,True,False,True,False,b'Slawomir Maniak',0.06
+Kessig Cagebreakers,Creature,Human Rogue,Innistrad,Rare,5,Green,True,False,True,True,b'Wayne England',0.34
+Kindercatch,Creature,Spirit,Innistrad,Common,6,Green,True,False,True,False,b'Terese Nielsen',0.05
+Lumberknot,Creature,Treefolk,Innistrad,Uncommon,4,Green,True,False,True,True,b'Jason A. Engle',0.11
+Make a Wish,Sorcery,None,Innistrad,Uncommon,4,Green,True,False,True,False,b'Howard Lyon',0.07
+Mayor of Avabruck,Creature,Human Advisor Werewolf,Innistrad,Rare,2,Green,True,False,True,True,b'Svetlin Velinov',1.37
+Moldgraf Monstrosity,Creature,Insect,Innistrad,Rare,7,Green,True,False,True,True,b'Tomasz Jedruszek',0.26
+Moonmist,Instant,None,Innistrad,Common,2,Green,True,False,True,False,b'Ryan Yee',0.26
+Mulch,Sorcery,None,Innistrad,Common,2,Green,True,False,True,True,b'Christopher Moeller',0.16
+Naturalize,Instant,None,Innistrad,Common,2,Green,True,False,True,True,b'Scott Chou',0.09
+Orchard Spirit,Creature,Spirit,Innistrad,Common,3,Green,True,False,True,True,b'Howard Lyon',0.05
+Parallel Lives,Enchantment,None,Innistrad,Rare,4,Green,True,False,True,False,b'Steve Prescott',20.78
+Prey Upon,Sorcery,None,Innistrad,Common,1,Green,True,True,True,True,b'Dave Kendall',0.09
+Ranger's Guile,Instant,None,Innistrad,Common,1,Green,True,False,True,True,b'Steve Prescott',0.13
+Somberwald Spider,Creature,Spider,Innistrad,Common,5,Green,True,False,True,False,b'Volkan Ba\xc7\xb5a',0.1
+Spider Spawning,Sorcery,None,Innistrad,Uncommon,5,Green,True,False,True,True,b'Daniel Ljunggren',0.16
+Spidery Grasp,Instant,None,Innistrad,Common,3,Green,True,False,True,True,b'James Ryman',0.07
+Splinterfright,Creature,Elemental,Innistrad,Rare,3,Green,True,False,True,True,b'Eric Deschamps',0.78
+Travel Preparations,Sorcery,None,Innistrad,Common,2,Green,True,False,True,True,b'Vincent Proce',0.11
+Tree of Redemption,Creature,Plant,Innistrad,Mythic Rare,4,Green,True,False,True,True,b'Vincent Proce',2.12
+Ulvenwald Mystics,Creature,Human Shaman Werewolf,Innistrad,Uncommon,4,Green,True,False,True,False,b'Dan Scott',0.15
+Villagers of Estwald,Creature,Human Werewolf,Innistrad,Common,3,Green,True,False,True,False,b'Kev Walker',0.11
+Woodland Sleuth,Creature,Human Scout,Innistrad,Common,4,Green,True,False,True,False,b'Tomasz Jedruszek',0.06
+Wreath of Geists,Enchantment,Aura,Innistrad,Uncommon,1,Green,True,False,True,False,b'Jason A. Engle',0.1
+Evil Twin,Creature,Shapeshifter,Innistrad,Rare,4,Gold,True,False,True,True,b'Greg Staples',0.33
+Geist of Saint Traft,Legendary Creature,Spirit Cleric,Innistrad,Mythic Rare,3,Gold,True,False,True,True,b'Igor Kieryluk',3.38
+"Grimgrin, Corpse-Born",Legendary Creature,Zombie Warrior,Innistrad,Mythic Rare,5,Gold,True,False,True,True,b'Peter Mohrbacher',3.42
+Olivia Voldaren,Legendary Creature,Vampire,Innistrad,Mythic Rare,4,Gold,True,False,True,True,b'Eric Deschamps',3.21
+Blazing Torch,Artifact,Equipment,Innistrad,Common,1,Colorless,True,False,True,True,b'Scott Chou',0.09
+Butcher's Cleaver,Artifact,Equipment,Innistrad,Uncommon,3,Colorless,True,False,True,True,b'Jason Felix',0.11
+Cellar Door,Artifact,None,Innistrad,Uncommon,2,Colorless,True,False,True,False,b'Rob Alexander',0.12
+Cobbled Wings,Artifact,Equipment,Innistrad,Common,2,Colorless,True,False,True,True,b'Matt Stewart',0.09
+Creepy Doll,Artifact Creature,Construct,Innistrad,Rare,5,Colorless,True,False,True,False,b'Matt Stewart',0.41
+Demonmail Hauberk,Artifact,Equipment,Innistrad,Uncommon,4,Colorless,True,False,True,False,b'Jason Felix',0.11
+Galvanic Juggernaut,Artifact Creature,Juggernaut,Innistrad,Uncommon,4,Colorless,True,False,True,True,b'Lucas Graciano',0.06
+Geistcatcher's Rig,Artifact Creature,Construct,Innistrad,Uncommon,6,Colorless,True,False,True,False,b'Vincent Proce',0.06
+Ghoulcaller's Bell,Artifact,None,Innistrad,Common,1,Colorless,True,False,True,False,b'Lars Grant-West',0.13
+Graveyard Shovel,Artifact,None,Innistrad,Uncommon,2,Colorless,True,False,True,False,b'Martina Pilcerova',0.09
+Grimoire of the Dead,Legendary Artifact,None,Innistrad,Mythic Rare,4,Colorless,True,False,True,True,b'Steven Belledin',2.17
+Inquisitor's Flail,Artifact,Equipment,Innistrad,Uncommon,2,Colorless,True,False,True,False,b'Rob Alexander',0.3
+Manor Gargoyle,Artifact Creature,Gargoyle,Innistrad,Rare,5,Colorless,True,False,True,False,b'Matt Stewart',0.23
+Mask of Avacyn,Artifact,Equipment,Innistrad,Uncommon,2,Colorless,True,False,True,False,b'James Paick',0.69
+One-Eyed Scarecrow,Artifact Creature,Scarecrow,Innistrad,Common,3,Colorless,True,False,True,False,b'Dave Kendall',0.18
+Runechanter's Pike,Artifact,Equipment,Innistrad,Rare,2,Colorless,True,False,True,False,b'John Avon',0.39
+Sharpened Pitchfork,Artifact,Equipment,Innistrad,Uncommon,2,Colorless,True,False,True,True,b'Winona Nelson',0.12
+Silver-Inlaid Dagger,Artifact,Equipment,Innistrad,Uncommon,1,Colorless,True,False,True,False,b'Austin Hsu',0.1
+Traveler's Amulet,Artifact,None,Innistrad,Common,1,Colorless,True,True,True,True,b'Alan Pollack',0.09
+Trepanation Blade,Artifact,Equipment,Innistrad,Uncommon,3,Colorless,True,False,True,True,b'Daniel Ljunggren',0.26
+Witchbane Orb,Artifact,None,Innistrad,Rare,4,Colorless,True,False,True,True,b'John Avon',0.92
+Wooden Stake,Artifact,Equipment,Innistrad,Common,2,Colorless,True,False,True,False,b'David Palumbo',0.05
+Clifftop Retreat,Land,None,Innistrad,Rare,0,Colorless,True,False,True,True,b'John Avon',4.97
+Gavony Township,Land,None,Innistrad,Rare,0,Colorless,True,False,True,True,b'Peter Mohrbacher',2.8
+Ghost Quarter,Land,None,Innistrad,Uncommon,0,Colorless,True,False,True,True,b'Peter Mohrbacher',0.7
+Hinterland Harbor,Land,None,Innistrad,Rare,0,Colorless,True,False,True,True,b'Karl Kopinski',6.49
+Isolated Chapel,Land,None,Innistrad,Rare,0,Colorless,True,False,True,True,b'Cliff Childs',3.92
+Kessig Wolf Run,Land,None,Innistrad,Rare,0,Colorless,True,False,True,True,b'Eytan Zana',3.18
+Moorland Haunt,Land,None,Innistrad,Rare,0,Colorless,True,False,True,False,b'James Paick',0.32
+Nephalia Drownyard,Land,None,Innistrad,Rare,0,Colorless,True,False,True,False,b'Cliff Childs',0.51
+Shimmering Grotto,Land,None,Innistrad,Common,0,Colorless,True,False,True,True,b'Cliff Childs',0.1
+Stensia Bloodhall,Land,None,Innistrad,Rare,0,Colorless,True,False,True,False,b'John Avon',0.17
+Sulfur Falls,Land,None,Innistrad,Rare,0,Colorless,True,False,True,True,b'Cliff Childs',3.21
+Woodland Cemetery,Land,None,Innistrad,Rare,0,Colorless,True,False,True,True,b'Lars Grant-West',3.91
+Plains,Basic Land,Plains,Innistrad,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.21
+Plains,Basic Land,Plains,Innistrad,Common,0,Colorless,True,True,True,True,b'Jung Park',0.16
+Plains,Basic Land,Plains,Innistrad,Common,0,Colorless,True,True,True,True,b'Eytan Zana',0.15
+Island,Basic Land,Island,Innistrad,Common,0,Colorless,True,True,True,True,b'James Paick',0.18
+Island,Basic Land,Island,Innistrad,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.26
+Island,Basic Land,Island,Innistrad,Common,0,Colorless,True,True,True,True,b'Jung Park',0.15
+Swamp,Basic Land,Swamp,Innistrad,Common,0,Colorless,True,True,True,True,b'James Paick',0.27
+Swamp,Basic Land,Swamp,Innistrad,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.24
+Swamp,Basic Land,Swamp,Innistrad,Common,0,Colorless,True,True,True,True,b'Jung Park',0.37
+Mountain,Basic Land,Mountain,Innistrad,Common,0,Colorless,True,True,True,True,b'James Paick',0.17
+Mountain,Basic Land,Mountain,Innistrad,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.22
+Mountain,Basic Land,Mountain,Innistrad,Common,0,Colorless,True,True,True,True,b'Eytan Zana',0.16
+Forest,Basic Land,Forest,Innistrad,Common,0,Colorless,True,True,True,True,b'James Paick',0.24
+Forest,Basic Land,Forest,Innistrad,Common,0,Colorless,True,True,True,True,b'Jung Park',0.21
+Forest,Basic Land,Forest,Innistrad,Common,0,Colorless,True,True,True,True,b'Eytan Zana',0.21

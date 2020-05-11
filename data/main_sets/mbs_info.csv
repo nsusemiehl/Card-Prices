@@ -1,0 +1,156 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Accorder Paladin,Creature,Human Knight,Mirrodin Besieged,Uncommon,2,White,True,False,True,False,b'Kekai Kotaki',0.14
+Ardent Recruit,Creature,Human Soldier,Mirrodin Besieged,Common,1,White,True,False,True,True,b'Mike Bierek',0.09
+Banishment Decree,Instant,None,Mirrodin Besieged,Common,5,White,True,False,True,False,b'James Ryman',0.02
+Choking Fumes,Instant,None,Mirrodin Besieged,Uncommon,3,White,True,False,True,False,b'Scott Chou',0.12
+Divine Offering,Instant,None,Mirrodin Besieged,Common,2,White,True,False,True,True,b'Terese Nielsen',0.12
+Frantic Salvage,Instant,None,Mirrodin Besieged,Common,4,White,True,False,True,False,b'Scott Chou',0.1
+Gore Vassal,Creature,Hound,Mirrodin Besieged,Uncommon,3,White,True,False,True,False,b'Matt Cavotta',0.06
+Hero of Bladehold,Creature,Human Knight,Mirrodin Besieged,Mythic Rare,4,White,True,False,True,True,b'Austin Hsu',5.74
+Kemba's Legion,Creature,Cat Soldier,Mirrodin Besieged,Uncommon,7,White,True,False,True,False,b'Anthony Francisco',0.1
+Leonin Relic-Warder,Creature,Cat Cleric,Mirrodin Besieged,Uncommon,2,White,True,False,True,True,b'Greg Staples',0.19
+Leonin Skyhunter,Creature,Cat Knight,Mirrodin Besieged,Common,2,White,True,False,True,True,b'Jana Schirmer',0.08
+Loxodon Partisan,Creature,Elephant Soldier,Mirrodin Besieged,Common,5,White,True,False,True,True,b'Matt Stewart',0.04
+Master's Call,Instant,None,Mirrodin Besieged,Common,3,White,True,False,True,True,b'David Rapoza',0.1
+Mirran Crusader,Creature,Human Knight,Mirrodin Besieged,Rare,3,White,True,False,True,True,b'Eric Deschamps',1.5
+Phyrexian Rebirth,Sorcery,None,Mirrodin Besieged,Rare,6,White,True,False,True,True,b'Scott Chou',0.33
+Priests of Norn,Creature,Cleric,Mirrodin Besieged,Common,3,White,True,False,True,False,b'Igor Kieryluk',0.11
+Tine Shrike,Creature,Bird,Mirrodin Besieged,Common,4,White,True,False,True,False,b'Adrian Smith',0.11
+Victory's Herald,Creature,Angel,Mirrodin Besieged,Rare,6,White,True,False,True,True,b'rk post',0.22
+White Sun's Zenith,Instant,None,Mirrodin Besieged,Rare,4,White,True,False,True,True,b'Mike Bierek',0.33
+Blue Sun's Zenith,Instant,None,Mirrodin Besieged,Rare,4,Blue,True,False,True,True,b'Izzy',1.75
+Consecrated Sphinx,Creature,Sphinx,Mirrodin Besieged,Mythic Rare,6,Blue,True,False,True,True,b'Mark Zug',19.72
+Corrupted Conscience,Enchantment,Aura,Mirrodin Besieged,Uncommon,5,Blue,True,False,True,True,b'Jason Chan',0.77
+Cryptoplasm,Creature,Shapeshifter,Mirrodin Besieged,Rare,3,Blue,True,False,True,False,b'Eric Deschamps',0.68
+Distant Memories,Sorcery,None,Mirrodin Besieged,Rare,4,Blue,True,False,True,False,b'Karl Kopinski',0.17
+Fuel for the Cause,Instant,None,Mirrodin Besieged,Common,4,Blue,True,False,True,False,b'Steven Belledin',0.31
+Mirran Spy,Creature,Drone,Mirrodin Besieged,Common,3,Blue,True,False,True,False,b'Dave Kendall',0.27
+Mitotic Manipulation,Sorcery,None,Mirrodin Besieged,Rare,3,Blue,True,False,True,False,b'Dan Scott',0.26
+Neurok Commando,Creature,Human Rogue,Mirrodin Besieged,Uncommon,3,Blue,True,False,True,False,b'Matt Stewart',0.11
+Oculus,Creature,Homunculus,Mirrodin Besieged,Common,2,Blue,True,False,True,False,b'Dan Scott',0.09
+Quicksilver Geyser,Instant,None,Mirrodin Besieged,Common,5,Blue,True,False,True,False,b'Erica Yang',0.06
+Serum Raker,Creature,Drake,Mirrodin Besieged,Common,4,Blue,True,False,True,False,b'Austin Hsu',0.06
+Spire Serpent,Creature,Serpent,Mirrodin Besieged,Common,5,Blue,True,False,True,True,b'Johann Bodin',0.04
+Steel Sabotage,Instant,None,Mirrodin Besieged,Common,1,Blue,True,False,True,False,b'Daarken',0.07
+Treasure Mage,Creature,Human Wizard,Mirrodin Besieged,Uncommon,3,Blue,True,False,True,True,b'Ryan Pancoast',0.19
+Turn the Tide,Instant,None,Mirrodin Besieged,Common,2,Blue,True,False,True,True,b'Jason Felix',0.06
+Vedalken Anatomist,Creature,Vedalken Wizard,Mirrodin Besieged,Uncommon,3,Blue,True,False,True,False,b'Greg Staples',0.12
+Vedalken Infuser,Creature,Vedalken Wizard,Mirrodin Besieged,Uncommon,4,Blue,True,False,True,False,b'Ryan Pancoast',0.05
+Vivisection,Sorcery,None,Mirrodin Besieged,Common,4,Blue,True,False,True,False,b'Anthony Francisco',0.07
+Black Sun's Zenith,Sorcery,None,Mirrodin Besieged,Rare,3,Black,True,False,True,True,b'Daniel Ljunggren',3.81
+Caustic Hound,Creature,Hound,Mirrodin Besieged,Common,6,Black,True,False,True,False,b'Dave Allsop',0.09
+Flensermite,Creature,Gremlin,Mirrodin Besieged,Common,2,Black,True,False,True,False,b'Dave Allsop',0.19
+Flesh-Eater Imp,Creature,Imp,Mirrodin Besieged,Uncommon,4,Black,True,False,True,True,b'Johann Bodin',0.38
+Go for the Throat,Instant,None,Mirrodin Besieged,Uncommon,2,Black,True,False,True,True,b'David Rapoza',1.16
+Gruesome Encore,Sorcery,None,Mirrodin Besieged,Uncommon,3,Black,True,False,True,False,b'Adrian Smith',0.09
+Horrifying Revelation,Sorcery,None,Mirrodin Besieged,Common,1,Black,True,False,True,False,b'Shelly Wan',0.09
+Massacre Wurm,Creature,Wurm,Mirrodin Besieged,Mythic Rare,6,Black,True,False,True,False,b'Jason Chan',16.23
+Morbid Plunder,Sorcery,None,Mirrodin Besieged,Common,3,Black,True,False,True,True,b'Mike Bierek',0.07
+Nested Ghoul,Creature,Zombie Warrior,Mirrodin Besieged,Uncommon,5,Black,True,False,True,False,b'Dave Kendall',0.09
+Phyresis,Enchantment,Aura,Mirrodin Besieged,Common,2,Black,True,False,True,False,b'Izzy',0.35
+Phyrexian Crusader,Creature,Zombie Knight,Mirrodin Besieged,Rare,3,Black,True,False,True,False,b'Eric Deschamps',4.92
+Phyrexian Rager,Creature,Horror,Mirrodin Besieged,Common,3,Black,True,False,True,True,b'Stephan Martiniere',0.09
+Phyrexian Vatmother,Creature,Horror,Mirrodin Besieged,Rare,4,Black,True,False,True,False,b'Stephan Martiniere',0.35
+Sangromancer,Creature,Vampire Shaman,Mirrodin Besieged,Rare,4,Black,True,False,True,True,b'Igor Kieryluk',0.81
+Scourge Servant,Creature,Zombie,Mirrodin Besieged,Common,5,Black,True,False,True,False,b'Daarken',0.08
+Septic Rats,Creature,Rat,Mirrodin Besieged,Uncommon,3,Black,True,False,True,False,b'Cos Koniotis',0.38
+Spread the Sickness,Sorcery,None,Mirrodin Besieged,Common,5,Black,True,False,True,True,b'Jaime Jones',0.16
+Virulent Wound,Instant,None,Mirrodin Besieged,Common,1,Black,True,False,True,False,b'Whit Brachna',0.2
+Blisterstick Shaman,Creature,Goblin Shaman,Mirrodin Besieged,Common,3,Red,True,False,True,False,b'Svetlin Velinov',0.05
+Burn the Impure,Instant,None,Mirrodin Besieged,Common,2,Red,True,False,True,False,b'Nic Klein',0.08
+Concussive Bolt,Sorcery,None,Mirrodin Besieged,Common,5,Red,True,False,True,False,b'Johann Bodin',0.06
+Crush,Instant,None,Mirrodin Besieged,Common,1,Red,True,False,True,False,b'Matt Stewart',0.05
+Galvanoth,Creature,Beast,Mirrodin Besieged,Rare,5,Red,True,False,True,True,b'Kev Walker',0.25
+Gnathosaur,Creature,Dinosaur,Mirrodin Besieged,Common,6,Red,True,False,True,False,b'Jason Chan',0.06
+Goblin Wardriver,Creature,Goblin Warrior,Mirrodin Besieged,Uncommon,2,Red,True,False,True,True,b'Chippy',0.19
+Hellkite Igniter,Creature,Dragon,Mirrodin Besieged,Rare,7,Red,True,False,True,True,b'Jason Chan',0.16
+Hero of Oxid Ridge,Creature,Human Knight,Mirrodin Besieged,Mythic Rare,4,Red,True,False,True,False,b'Eric Deschamps',0.7
+Into the Core,Instant,None,Mirrodin Besieged,Uncommon,4,Red,True,False,True,False,b'Whit Brachna',0.07
+Koth's Courier,Creature,Human Rogue,Mirrodin Besieged,Common,3,Red,True,False,True,False,b'Wayne Reynolds',0.07
+Kuldotha Flamefiend,Creature,Elemental,Mirrodin Besieged,Uncommon,6,Red,True,False,True,False,b'Raymond Swanland',0.04
+Kuldotha Ringleader,Creature,Giant Berserker,Mirrodin Besieged,Common,5,Red,True,False,True,False,b'Greg Staples',0.07
+Metallic Mastery,Sorcery,None,Mirrodin Besieged,Uncommon,3,Red,True,False,True,False,b'Erica Yang',0.12
+Ogre Resister,Creature,Ogre,Mirrodin Besieged,Common,4,Red,True,False,True,False,b'Efrem Palacios',0.06
+Rally the Forces,Instant,None,Mirrodin Besieged,Common,3,Red,True,False,True,False,b'Steven Belledin',0.06
+Red Sun's Zenith,Sorcery,None,Mirrodin Besieged,Rare,2,Red,True,False,True,False,b'Svetlin Velinov',0.64
+Slagstorm,Sorcery,None,Mirrodin Besieged,Rare,3,Red,True,False,True,False,b'Dan Scott',0.51
+Spiraling Duelist,Creature,Human Berserker,Mirrodin Besieged,Uncommon,4,Red,True,False,True,False,b'Karl Kopinski',0.15
+Blightwidow,Creature,Spider,Mirrodin Besieged,Common,4,Green,True,False,True,False,b'Daniel Ljunggren',0.17
+Creeping Corrosion,Sorcery,None,Mirrodin Besieged,Rare,4,Green,True,False,True,False,b'Ryan Pancoast',0.53
+Fangren Marauder,Creature,Beast,Mirrodin Besieged,Common,6,Green,True,False,True,False,b'James Ryman',0.12
+Glissa's Courier,Creature,Horror,Mirrodin Besieged,Common,3,Green,True,False,True,False,b'Dave Kendall',0.05
+Green Sun's Zenith,Sorcery,None,Mirrodin Besieged,Rare,2,Green,False,False,True,True,b'David Rapoza',9.71
+Lead the Stampede,Sorcery,None,Mirrodin Besieged,Uncommon,3,Green,True,True,True,True,b'Efrem Palacios',0.22
+Melira's Keepers,Creature,Human Warrior,Mirrodin Besieged,Uncommon,5,Green,True,False,True,False,b'Eric Deschamps',0.06
+Mirran Mettle,Instant,None,Mirrodin Besieged,Common,1,Green,True,False,True,False,b'Karl Kopinski',0.06
+Phyrexian Hydra,Creature,Hydra,Mirrodin Besieged,Rare,5,Green,True,False,True,False,b'Mike Bierek',1.41
+Pistus Strike,Instant,None,Mirrodin Besieged,Common,3,Green,True,False,True,False,b'Jaime Jones',0.11
+Plaguemaw Beast,Creature,Beast,Mirrodin Besieged,Uncommon,5,Green,True,False,True,True,b'Whit Brachna',0.39
+Praetor's Counsel,Sorcery,None,Mirrodin Besieged,Mythic Rare,8,Green,True,False,True,True,b'Daarken',3.15
+Quilled Slagwurm,Creature,Wurm,Mirrodin Besieged,Uncommon,7,Green,True,False,True,False,b'Matt Stewart',0.06
+Rot Wolf,Creature,Wolf,Mirrodin Besieged,Common,3,Green,True,False,True,True,b'Nils Hamm',0.19
+Tangle Mantis,Creature,Insect,Mirrodin Besieged,Common,4,Green,True,False,True,False,b'Chris Rahn',0.06
+"Thrun, the Last Troll",Legendary Creature,Troll Shaman,Mirrodin Besieged,Mythic Rare,4,Green,True,False,True,True,b'Jason Chan',4.93
+Unnatural Predation,Instant,None,Mirrodin Besieged,Common,1,Green,True,False,True,False,b'Shelly Wan',0.11
+Viridian Corrupter,Creature,Elf Shaman,Mirrodin Besieged,Uncommon,3,Green,True,False,True,True,b'Matt Cavotta',0.3
+Viridian Emissary,Creature,Elf Scout,Mirrodin Besieged,Common,2,Green,True,False,True,True,b'Matt Stewart',0.12
+"Glissa, the Traitor",Legendary Creature,Zombie Elf,Mirrodin Besieged,Mythic Rare,3,Gold,True,False,True,True,b'Chris Rahn',1.9
+"Tezzeret, Agent of Bolas",Legendary Planeswalker,Tezzeret,Mirrodin Besieged,Mythic Rare,4,Gold,True,False,True,True,b'Aleksi Briclot',9.31
+Bladed Sentinel,Artifact Creature,Construct,Mirrodin Besieged,Common,4,Colorless,True,False,True,False,b'Tomasz Jedruszek',0.04
+Blightsteel Colossus,Artifact Creature,Golem,Mirrodin Besieged,Mythic Rare,2,Colorless,True,False,True,False,b'Chris Rahn',64.23
+Bonehoard,Artifact,Equipment,Mirrodin Besieged,Rare,4,Colorless,True,False,True,True,b'Chippy',0.29
+Brass Squire,Artifact Creature,Myr,Mirrodin Besieged,Uncommon,3,Colorless,True,False,True,False,b'Ryan Pancoast',0.41
+Copper Carapace,Artifact,Equipment,Mirrodin Besieged,Common,1,Colorless,True,False,True,True,b'Franz Vohwinkel',0.04
+Core Prowler,Artifact Creature,Horror,Mirrodin Besieged,Uncommon,4,Colorless,True,False,True,False,b'Dave Allsop',0.59
+Darksteel Plate,Artifact,Equipment,Mirrodin Besieged,Rare,3,Colorless,True,False,True,True,b'Daniel Ljunggren',8.08
+Decimator Web,Artifact,None,Mirrodin Besieged,Rare,4,Colorless,True,False,True,False,b'Daniel Ljunggren',0.3
+Dross Ripper,Artifact Creature,Hound,Mirrodin Besieged,Common,4,Colorless,True,False,True,False,b'David Rapoza',0.1
+Flayer Husk,Artifact,Equipment,Mirrodin Besieged,Common,1,Colorless,True,False,True,True,b'Igor Kieryluk',0.11
+Gust-Skimmer,Artifact Creature,Insect,Mirrodin Besieged,Common,2,Colorless,True,False,True,True,b'Dan Scott',0.04
+Hexplate Golem,Artifact Creature,Golem,Mirrodin Besieged,Common,7,Colorless,True,False,True,True,b'Matt Cavotta',0.05
+Ichor Wellspring,Artifact,None,Mirrodin Besieged,Common,2,Colorless,True,False,True,True,b'Steven Belledin',0.23
+Knowledge Pool,Artifact,None,Mirrodin Besieged,Rare,6,Colorless,True,False,True,True,b'Mike Bierek',0.69
+Lumengrid Gargoyle,Artifact Creature,Gargoyle,Mirrodin Besieged,Uncommon,6,Colorless,True,False,True,True,b'Randis Albion',0.03
+Magnetic Mine,Artifact,None,Mirrodin Besieged,Rare,4,Colorless,True,False,True,False,b'David Rapoza',0.18
+Mirrorworks,Artifact,None,Mirrodin Besieged,Rare,5,Colorless,True,False,True,True,b'John Avon',0.82
+Mortarpod,Artifact,Equipment,Mirrodin Besieged,Uncommon,2,Colorless,True,False,True,True,b'Eric Deschamps',0.11
+Myr Sire,Artifact Creature,Myr,Mirrodin Besieged,Common,2,Colorless,True,False,True,True,b'Jaime Jones',0.1
+Myr Turbine,Artifact,None,Mirrodin Besieged,Rare,5,Colorless,True,False,True,False,b'Randis Albion',1.28
+Myr Welder,Artifact Creature,Myr,Mirrodin Besieged,Rare,3,Colorless,True,False,True,False,b'Austin Hsu',0.31
+Peace Strider,Artifact Creature,Construct,Mirrodin Besieged,Uncommon,4,Colorless,True,False,True,True,b'Igor Kieryluk',0.05
+Phyrexian Digester,Artifact Creature,Construct,Mirrodin Besieged,Common,3,Colorless,True,False,True,False,b'Dave Allsop',0.15
+Phyrexian Juggernaut,Artifact Creature,Juggernaut,Mirrodin Besieged,Uncommon,6,Colorless,True,False,True,True,b'Kev Walker',0.17
+Phyrexian Revoker,Artifact Creature,Horror,Mirrodin Besieged,Rare,2,Colorless,True,False,True,True,b'Kev Walker',1.75
+Pierce Strider,Artifact Creature,Construct,Mirrodin Besieged,Uncommon,4,Colorless,True,False,True,True,b'Igor Kieryluk',0.08
+Piston Sledge,Artifact,Equipment,Mirrodin Besieged,Uncommon,3,Colorless,True,False,True,False,b'Pete Venters',0.09
+Plague Myr,Artifact Creature,Myr,Mirrodin Besieged,Uncommon,2,Colorless,True,False,True,True,b'Efrem Palacios',0.97
+Psychosis Crawler,Artifact Creature,Horror,Mirrodin Besieged,Rare,5,Colorless,True,False,True,True,b'Stephan Martiniere',0.7
+Razorfield Rhino,Artifact Creature,Rhino,Mirrodin Besieged,Common,6,Colorless,True,False,True,False,b'Kekai Kotaki',0.06
+Rusted Slasher,Artifact Creature,Horror,Mirrodin Besieged,Common,4,Colorless,True,False,True,False,b'Adrian Smith',0.09
+Shimmer Myr,Artifact Creature,Myr,Mirrodin Besieged,Rare,3,Colorless,True,False,True,True,b'Jana Schirmer',2.44
+Shriekhorn,Artifact,None,Mirrodin Besieged,Common,1,Colorless,True,False,True,False,b'Erica Yang',0.42
+Signal Pest,Artifact Creature,Pest,Mirrodin Besieged,Uncommon,1,Colorless,True,False,True,True,b'Mark Zug',0.4
+Silverskin Armor,Artifact,Equipment,Mirrodin Besieged,Uncommon,2,Colorless,True,False,True,False,b'Terese Nielsen',0.1
+Skinwing,Artifact,Equipment,Mirrodin Besieged,Uncommon,4,Colorless,True,False,True,False,b'Igor Kieryluk',0.07
+Sphere of the Suns,Artifact,None,Mirrodin Besieged,Uncommon,2,Colorless,True,False,True,True,b'Jana Schirmer',0.4
+Spin Engine,Artifact Creature,Construct,Mirrodin Besieged,Common,3,Colorless,True,False,True,False,b'Pete Venters',0.07
+Spine of Ish Sah,Artifact,None,Mirrodin Besieged,Rare,7,Colorless,True,False,True,True,b'Daniel Ljunggren',0.61
+Strandwalker,Artifact,Equipment,Mirrodin Besieged,Uncommon,5,Colorless,True,False,True,False,b'Igor Kieryluk',0.09
+Sword of Feast and Famine,Artifact,Equipment,Mirrodin Besieged,Mythic Rare,3,Colorless,True,False,True,True,b'Chris Rahn',55.98
+Tangle Hulk,Artifact Creature,Beast,Mirrodin Besieged,Common,5,Colorless,True,False,True,False,b'Mark Zug',0.06
+Thopter Assembly,Artifact Creature,Thopter,Mirrodin Besieged,Rare,6,Colorless,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.41
+Titan Forge,Artifact,None,Mirrodin Besieged,Rare,3,Colorless,True,False,True,False,b'Svetlin Velinov',0.38
+Training Drone,Artifact Creature,Drone,Mirrodin Besieged,Common,3,Colorless,True,False,True,False,b'Matt Cavotta',0.03
+Viridian Claw,Artifact,Equipment,Mirrodin Besieged,Uncommon,2,Colorless,True,False,True,True,b'Marc Simonetti',0.11
+Contested War Zone,Land,None,Mirrodin Besieged,Rare,0,Colorless,True,False,True,False,b'Scott Chou',0.31
+Inkmoth Nexus,Land,None,Mirrodin Besieged,Rare,0,Colorless,True,False,True,True,b'Jung Park',11.18
+Plains,Basic Land,Plains,Mirrodin Besieged,Common,0,Colorless,True,True,True,True,b'James Paick',0.09
+Plains,Basic Land,Plains,Mirrodin Besieged,Common,0,Colorless,True,True,True,True,b'James Paick',0.13
+Island,Basic Land,Island,Mirrodin Besieged,Common,0,Colorless,True,True,True,True,b'Jung Park',0.18
+Island,Basic Land,Island,Mirrodin Besieged,Common,0,Colorless,True,True,True,True,b'Jung Park',0.16
+Swamp,Basic Land,Swamp,Mirrodin Besieged,Common,0,Colorless,True,True,True,True,b'Lars Grant-West',0.12
+Swamp,Basic Land,Swamp,Mirrodin Besieged,Common,0,Colorless,True,True,True,True,b'Lars Grant-West',0.13
+Mountain,Basic Land,Mountain,Mirrodin Besieged,Common,0,Colorless,True,True,True,True,b'Tomasz Jedruszek',0.11
+Mountain,Basic Land,Mountain,Mirrodin Besieged,Common,0,Colorless,True,True,True,True,b'Tomasz Jedruszek',0.12
+Forest,Basic Land,Forest,Mirrodin Besieged,Common,0,Colorless,True,True,True,True,b'Mark Tedin',0.08
+Forest,Basic Land,Forest,Mirrodin Besieged,Common,0,Colorless,True,True,True,True,b'Mark Tedin',0.11

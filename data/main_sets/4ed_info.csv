@@ -1,0 +1,379 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Alabaster Potion,Instant,None,Fourth Edition,Common,3,White,False,False,True,True,b'Harold McNeill',0.12
+Amrou Kithkin,Creature,Kithkin,Fourth Edition,Common,2,White,False,False,True,True,b'Quinton Hoover',0.09
+Angry Mob,Creature,Human,Fourth Edition,Uncommon,4,White,False,False,True,True,b'Drew Tucker',0.14
+Animate Wall,Enchantment,Aura,Fourth Edition,Rare,1,White,False,False,True,True,b'Dan Frazier',0.23
+Armageddon,Sorcery,None,Fourth Edition,Rare,4,White,False,False,True,True,b'Jesper Myrfors',2.96
+Balance,Sorcery,None,Fourth Edition,Rare,2,White,False,False,False,True,b'Mark Poole',1.25
+Benalish Hero,Creature,Human Soldier,Fourth Edition,Common,1,White,False,False,True,True,b'Douglas Shuler',0.07
+Black Ward,Enchantment,Aura,Fourth Edition,Uncommon,1,White,False,False,True,True,b'Dan Frazier',0.2
+Blessing,Enchantment,Aura,Fourth Edition,Rare,2,White,True,False,True,True,b'Julie Baroh',0.27
+Blue Ward,Enchantment,Aura,Fourth Edition,Uncommon,1,White,False,False,True,True,b'Dan Frazier',0.18
+Brainwash,Enchantment,Aura,Fourth Edition,Common,1,White,False,False,True,True,b'Pete Venters',0.09
+Castle,Enchantment,None,Fourth Edition,Uncommon,4,White,False,False,True,True,b'Dameon Willich',0.14
+Circle of Protection: Artifacts,Enchantment,None,Fourth Edition,Uncommon,2,White,True,False,True,True,b'Pete Venters',0.21
+Circle of Protection: Black,Enchantment,None,Fourth Edition,Common,2,White,True,False,True,True,b'Jesper Myrfors',0.19
+Circle of Protection: Blue,Enchantment,None,Fourth Edition,Common,2,White,True,False,True,True,b'Dameon Willich',0.15
+Circle of Protection: Green,Enchantment,None,Fourth Edition,Common,2,White,True,False,True,True,b'Sandra Everingham',0.15
+Circle of Protection: Red,Enchantment,None,Fourth Edition,Common,2,White,True,False,True,True,b'Mark Tedin',0.16
+Circle of Protection: White,Enchantment,None,Fourth Edition,Common,2,White,True,False,True,True,b'Douglas Shuler',0.13
+Conversion,Enchantment,None,Fourth Edition,Uncommon,4,White,False,False,True,True,b'Jesper Myrfors',0.14
+Crusade,Enchantment,None,Fourth Edition,Rare,2,White,False,False,True,True,b'Mark Poole',1.28
+Death Ward,Instant,None,Fourth Edition,Common,1,White,False,False,True,True,b'Mark Poole',0.14
+Disenchant,Instant,None,Fourth Edition,Common,2,White,True,True,True,True,b'Amy Weber',0.14
+Divine Transformation,Enchantment,Aura,Fourth Edition,Uncommon,4,White,False,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.15
+Elder Land Wurm,Creature,Dragon Wurm,Fourth Edition,Rare,7,White,False,False,True,True,b'Quinton Hoover',0.25
+Eye for an Eye,Instant,None,Fourth Edition,Rare,2,White,False,False,True,True,b'Mark Poole',0.25
+Fortified Area,Enchantment,None,Fourth Edition,Common,3,White,False,False,True,True,b'Randy Asplund-Faith',0.11
+Green Ward,Enchantment,Aura,Fourth Edition,Uncommon,1,White,False,False,True,True,b'Dan Frazier',0.12
+Healing Salve,Instant,None,Fourth Edition,Common,1,White,True,False,True,True,b'Dan Frazier',0.08
+Holy Armor,Enchantment,Aura,Fourth Edition,Common,1,White,False,False,True,True,b'Melissa A. Benson',0.1
+Holy Strength,Enchantment,Aura,Fourth Edition,Common,1,White,True,False,True,True,b'Anson Maddocks',0.08
+Island Sanctuary,Enchantment,None,Fourth Edition,Rare,2,White,False,False,True,True,b'Mark Poole',2.7
+Karma,Enchantment,None,Fourth Edition,Uncommon,4,White,True,False,True,True,b'Richard Thomas',0.19
+Kismet,Enchantment,None,Fourth Edition,Uncommon,4,White,False,False,True,True,b'Kaja Foglio',0.83
+Land Tax,Enchantment,None,Fourth Edition,Rare,1,White,False,False,True,True,b'Brian Sn\xc3\xb5ddy',27.23
+Mesa Pegasus,Creature,Pegasus,Fourth Edition,Common,2,White,False,False,True,True,b'Melissa A. Benson',0.06
+Morale,Instant,None,Fourth Edition,Common,3,White,False,False,True,True,b'Mark Poole',0.06
+Northern Paladin,Creature,Human Knight,Fourth Edition,Rare,4,White,False,False,True,True,b'Douglas Shuler',0.32
+Osai Vultures,Creature,Bird,Fourth Edition,Uncommon,2,White,False,False,True,True,b'Dan Frazier',0.11
+Pearled Unicorn,Creature,Unicorn,Fourth Edition,Common,3,White,False,False,True,True,b'Cornelius Brudi',0.1
+Personal Incarnation,Creature,Avatar Incarnation,Fourth Edition,Rare,6,White,False,False,True,True,b'Kev Brockschmidt',0.33
+Piety,Instant,None,Fourth Edition,Common,3,White,False,False,True,True,b'Mark Poole',0.08
+Pikemen,Creature,Human Soldier,Fourth Edition,Common,2,White,False,False,True,True,b'Dennis Detwiller',0.06
+Purelace,Instant,None,Fourth Edition,Rare,1,White,False,False,True,True,b'Sandra Everingham',0.17
+Red Ward,Enchantment,Aura,Fourth Edition,Uncommon,1,White,False,False,True,True,b'Dan Frazier',0.15
+Reverse Damage,Instant,None,Fourth Edition,Rare,3,White,True,False,True,True,b'Dameon Willich',0.29
+Righteousness,Instant,None,Fourth Edition,Rare,1,White,True,True,True,True,b'Douglas Shuler',0.26
+Samite Healer,Creature,Human Cleric,Fourth Edition,Common,2,White,True,False,True,True,b'Tom W\xc3\xa4nerstrand',0.15
+Savannah Lions,Creature,Cat,Fourth Edition,Rare,1,White,True,False,True,True,b'Daniel Gelon',1.06
+Seeker,Enchantment,Aura,Fourth Edition,Common,4,White,False,False,True,True,b'Mark Poole',0.07
+Serra Angel,Creature,Angel,Fourth Edition,Uncommon,5,White,True,False,True,True,b'Douglas Shuler',0.77
+Spirit Link,Enchantment,Aura,Fourth Edition,Uncommon,1,White,True,False,True,True,b'Kaja Foglio',0.39
+Swords to Plowshares,Instant,None,Fourth Edition,Uncommon,1,White,False,False,True,True,b'Jeff A. Menges',1.51
+Tundra Wolves,Creature,Wolf,Fourth Edition,Common,1,White,True,False,True,True,b'Quinton Hoover',0.08
+Visions,Sorcery,None,Fourth Edition,Uncommon,1,White,False,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.08
+Wall of Swords,Creature,Wall,Fourth Edition,Uncommon,4,White,True,False,True,True,b'Mark Tedin',0.13
+White Knight,Creature,Human Knight,Fourth Edition,Uncommon,2,White,True,False,True,True,b'Daniel Gelon',0.23
+White Ward,Enchantment,Aura,Fourth Edition,Uncommon,1,White,False,False,True,True,b'Dan Frazier',0.18
+Wrath of God,Sorcery,None,Fourth Edition,Rare,4,White,True,False,True,True,b'Quinton Hoover',6.61
+Air Elemental,Creature,Elemental,Fourth Edition,Uncommon,5,Blue,True,True,True,True,b'Richard Thomas',0.17
+Animate Artifact,Enchantment,Aura,Fourth Edition,Uncommon,4,Blue,False,False,True,True,b'Douglas Shuler',0.14
+Apprentice Wizard,Creature,Human Wizard,Fourth Edition,Common,3,Blue,False,False,True,True,b'Dan Frazier',0.19
+Backfire,Enchantment,Aura,Fourth Edition,Uncommon,1,Blue,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.19
+Blue Elemental Blast,Instant,None,Fourth Edition,Common,1,Blue,False,False,True,True,b'Richard Thomas',0.16
+Control Magic,Enchantment,Aura,Fourth Edition,Uncommon,4,Blue,False,False,True,True,b'Dameon Willich',0.72
+Counterspell,Instant,None,Fourth Edition,Uncommon,2,Blue,False,False,True,True,b'Mark Poole',1.48
+Creature Bond,Enchantment,Aura,Fourth Edition,Common,2,Blue,False,False,True,True,b'Anson Maddocks',0.06
+Drain Power,Sorcery,None,Fourth Edition,Rare,2,Blue,False,False,True,True,b'Douglas Shuler',0.76
+Energy Flux,Enchantment,None,Fourth Edition,Uncommon,3,Blue,False,False,True,True,b'Kaja Foglio',0.19
+Energy Tap,Sorcery,None,Fourth Edition,Common,1,Blue,False,False,True,True,b'Daniel Gelon',0.16
+Erosion,Enchantment,Aura,Fourth Edition,Common,3,Blue,False,False,True,True,b'Pete Venters',0.12
+Feedback,Enchantment,Aura,Fourth Edition,Uncommon,3,Blue,False,False,True,True,b'Quinton Hoover',0.08
+Flight,Enchantment,Aura,Fourth Edition,Common,1,Blue,True,False,True,True,b'Anson Maddocks',0.13
+Flood,Enchantment,None,Fourth Edition,Common,1,Blue,False,False,True,True,b'Dennis Detwiller',0.09
+Gaseous Form,Enchantment,Aura,Fourth Edition,Common,3,Blue,False,False,True,True,b'Phil Foglio',0.14
+Ghost Ship,Creature,Spirit,Fourth Edition,Uncommon,4,Blue,True,False,True,True,b'Tom W\xc3\xa4nerstrand',0.17
+Giant Tortoise,Creature,Turtle,Fourth Edition,Common,2,Blue,False,False,True,True,b'Kaja Foglio',0.1
+Hurkyl's Recall,Instant,None,Fourth Edition,Rare,2,Blue,True,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',2.13
+Island Fish Jasconius,Creature,Fish,Fourth Edition,Rare,7,Blue,False,False,True,True,b'Jesper Myrfors',0.2
+Jump,Instant,None,Fourth Edition,Common,1,Blue,True,False,True,True,b'Mark Poole',0.17
+Leviathan,Creature,Leviathan,Fourth Edition,Rare,9,Blue,True,False,True,True,b'Mark Tedin',0.34
+Lifetap,Enchantment,None,Fourth Edition,Uncommon,2,Blue,False,False,True,True,b'Anson Maddocks',0.08
+Lord of Atlantis,Creature,Merfolk,Fourth Edition,Rare,2,Blue,True,False,True,True,b'Melissa A. Benson',3.7
+Magical Hack,Instant,None,Fourth Edition,Rare,1,Blue,False,False,True,True,b'Julie Baroh',0.26
+Mahamoti Djinn,Creature,Djinn,Fourth Edition,Rare,6,Blue,True,False,True,True,b'Dan Frazier',0.37
+Mana Short,Instant,None,Fourth Edition,Rare,3,Blue,False,False,True,True,b'Dameon Willich',0.78
+Merfolk of the Pearl Trident,Creature,Merfolk,Fourth Edition,Common,1,Blue,True,False,True,True,b'Jeff A. Menges',0.08
+Mind Bomb,Sorcery,None,Fourth Edition,Uncommon,1,Blue,False,False,True,True,b'Mark Tedin',0.17
+Phantasmal Forces,Creature,Illusion,Fourth Edition,Uncommon,4,Blue,False,False,True,True,b'Mark Poole',0.09
+Phantasmal Terrain,Enchantment,Aura,Fourth Edition,Common,2,Blue,False,False,True,True,b'Dameon Willich',0.13
+Phantom Monster,Creature,Illusion,Fourth Edition,Uncommon,4,Blue,False,False,True,True,b'Jesper Myrfors',0.14
+Pirate Ship,Creature,Human Pirate,Fourth Edition,Rare,5,Blue,True,False,True,True,b'Tom W\xc3\xa4nerstrand',0.25
+Power Leak,Enchantment,Aura,Fourth Edition,Common,2,Blue,False,False,True,True,b'Drew Tucker',0.1
+Power Sink,Instant,None,Fourth Edition,Common,2,Blue,False,False,True,True,b'Richard Thomas',0.14
+Prodigal Sorcerer,Creature,Human Wizard,Fourth Edition,Common,3,Blue,True,False,True,True,b'Douglas Shuler',0.13
+Psionic Entity,Creature,Illusion,Fourth Edition,Rare,5,Blue,False,False,True,True,b'Justin Hampton',0.19
+Psychic Venom,Enchantment,Aura,Fourth Edition,Common,2,Blue,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.09
+Relic Bind,Enchantment,Aura,Fourth Edition,Rare,3,Blue,False,False,True,True,b'Christopher Rush',0.17
+Sea Serpent,Creature,Serpent,Fourth Edition,Common,6,Blue,False,False,True,True,b'Jeff A. Menges',0.18
+Segovian Leviathan,Creature,Leviathan,Fourth Edition,Uncommon,5,Blue,False,False,True,True,b'Melissa A. Benson',0.17
+Sindbad,Creature,Human,Fourth Edition,Uncommon,2,Blue,True,False,True,True,b'Julie Baroh',0.16
+Siren's Call,Instant,None,Fourth Edition,Uncommon,1,Blue,False,False,True,True,b'Anson Maddocks',0.14
+Sleight of Mind,Instant,None,Fourth Edition,Rare,1,Blue,False,False,True,True,b'Mark Poole',0.26
+Spell Blast,Instant,None,Fourth Edition,Common,2,Blue,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.12
+Stasis,Enchantment,None,Fourth Edition,Rare,2,Blue,False,False,True,True,b'Fay Jones',5.43
+Steal Artifact,Enchantment,Aura,Fourth Edition,Uncommon,4,Blue,True,False,True,True,b'Amy Weber',0.21
+Sunken City,Enchantment,None,Fourth Edition,Common,2,Blue,False,False,True,True,b'Jesper Myrfors',0.16
+Thoughtlace,Instant,None,Fourth Edition,Rare,1,Blue,False,False,True,True,b'Mark Poole',0.23
+Time Elemental,Creature,Elemental,Fourth Edition,Rare,3,Blue,False,False,True,True,b'Amy Weber',0.33
+Twiddle,Instant,None,Fourth Edition,Common,1,Blue,True,False,True,True,b'Rob Alexander',0.18
+Unstable Mutation,Enchantment,Aura,Fourth Edition,Common,1,Blue,True,False,True,True,b'Douglas Shuler',0.08
+Unsummon,Instant,None,Fourth Edition,Common,1,Blue,True,True,True,True,b'Douglas Shuler',0.12
+Volcanic Eruption,Sorcery,None,Fourth Edition,Rare,4,Blue,False,False,True,True,b'Douglas Shuler',0.18
+Wall of Air,Creature,Wall,Fourth Edition,Uncommon,3,Blue,True,False,True,True,b'Richard Thomas',0.24
+Wall of Water,Creature,Wall,Fourth Edition,Uncommon,3,Blue,False,False,True,True,b'Richard Thomas',0.15
+Water Elemental,Creature,Elemental,Fourth Edition,Uncommon,5,Blue,False,False,True,True,b'Jeff A. Menges',0.14
+Zephyr Falcon,Creature,Bird,Fourth Edition,Common,2,Blue,False,False,True,True,b'Heather Hudson',0.13
+Abomination,Creature,Horror,Fourth Edition,Uncommon,5,Black,False,False,True,True,b'Mark Tedin',0.13
+Animate Dead,Enchantment,Aura,Fourth Edition,Uncommon,2,Black,False,False,True,True,b'Anson Maddocks',2.54
+Ashes to Ashes,Sorcery,None,Fourth Edition,Uncommon,3,Black,False,False,True,True,b'Drew Tucker',0.47
+Bad Moon,Enchantment,None,Fourth Edition,Rare,2,Black,True,False,True,True,b'Jesper Myrfors',1.49
+Black Knight,Creature,Human Knight,Fourth Edition,Uncommon,2,Black,True,False,True,True,b'Jeff A. Menges',0.39
+Blight,Enchantment,Aura,Fourth Edition,Uncommon,2,Black,False,False,True,True,b'Pete Venters',0.28
+Bog Imp,Creature,Imp,Fourth Edition,Common,2,Black,True,False,True,True,b'Ron Spencer',0.07
+Bog Wraith,Creature,Wraith,Fourth Edition,Uncommon,4,Black,True,False,True,True,b'Jeff A. Menges',0.1
+Carrion Ants,Creature,Insect,Fourth Edition,Uncommon,4,Black,False,False,True,True,b'Richard Thomas',0.16
+Cosmic Horror,Creature,Horror,Fourth Edition,Rare,6,Black,False,False,True,True,b'Jesper Myrfors',0.23
+Cursed Land,Enchantment,Aura,Fourth Edition,Uncommon,4,Black,False,False,True,True,b'Jesper Myrfors',0.17
+Cyclopean Mummy,Creature,Zombie,Fourth Edition,Common,2,Black,False,False,True,True,"b'Edward P. Beard, Jr.'",0.05
+Dark Ritual,Instant,None,Fourth Edition,Common,1,Black,False,False,True,True,b'Sandra Everingham',0.41
+Deathgrip,Enchantment,None,Fourth Edition,Uncommon,2,Black,False,False,True,True,b'Anson Maddocks',0.19
+Deathlace,Instant,None,Fourth Edition,Rare,1,Black,False,False,True,True,b'Sandra Everingham',0.18
+Drain Life,Sorcery,None,Fourth Edition,Common,3,Black,False,False,True,True,b'Douglas Shuler',0.12
+Drudge Skeletons,Creature,Skeleton,Fourth Edition,Common,2,Black,True,False,True,True,b'Sandra Everingham',0.1
+El-Hajjâj,Creature,Human Wizard,Fourth Edition,Rare,3,Black,False,False,True,True,b'Dameon Willich',0.19
+Erg Raiders,Creature,Human Warrior,Fourth Edition,Common,2,Black,False,False,True,True,b'Dameon Willich',0.05
+Evil Presence,Enchantment,Aura,Fourth Edition,Uncommon,1,Black,True,False,True,True,b'Sandra Everingham',0.21
+Fear,Enchantment,Aura,Fourth Edition,Common,2,Black,True,False,True,True,b'Mark Poole',0.14
+Frozen Shade,Creature,Shade,Fourth Edition,Common,3,Black,False,False,True,True,b'Douglas Shuler',0.1
+Gloom,Enchantment,None,Fourth Edition,Uncommon,3,Black,False,False,True,True,b'Dan Frazier',0.16
+Greed,Enchantment,None,Fourth Edition,Rare,4,Black,False,False,True,True,b'Phil Foglio',3.29
+Howl from Beyond,Instant,None,Fourth Edition,Common,2,Black,False,False,True,True,b'Mark Poole',0.11
+Hypnotic Specter,Creature,Specter,Fourth Edition,Uncommon,3,Black,True,False,True,True,b'Douglas Shuler',1.25
+Junún Efreet,Creature,Efreet,Fourth Edition,Uncommon,3,Black,False,False,True,True,b'Christopher Rush',0.11
+Lord of the Pit,Creature,Demon,Fourth Edition,Rare,7,Black,True,False,True,True,b'Mark Tedin',0.61
+Lost Soul,Creature,Spirit Minion,Fourth Edition,Common,3,Black,False,False,True,True,b'Randy Asplund-Faith',0.06
+Marsh Gas,Instant,None,Fourth Edition,Common,1,Black,False,False,True,True,b'Douglas Shuler',0.13
+Mind Twist,Sorcery,None,Fourth Edition,Rare,2,Black,False,False,True,True,b'Julie Baroh',3.27
+Murk Dwellers,Creature,Zombie,Fourth Edition,Common,4,Black,False,False,True,True,b'Drew Tucker',0.09
+Nether Shadow,Creature,Spirit,Fourth Edition,Rare,2,Black,False,False,True,True,b'Christopher Rush',1.18
+Nightmare,Creature,Nightmare Horse,Fourth Edition,Rare,6,Black,True,False,True,True,b'Melissa A. Benson',0.86
+Paralyze,Enchantment,Aura,Fourth Edition,Common,1,Black,False,False,True,True,b'Anson Maddocks',0.12
+Pestilence,Enchantment,None,Fourth Edition,Common,4,Black,False,False,True,True,b'Jesper Myrfors',0.28
+Pit Scorpion,Creature,Scorpion,Fourth Edition,Common,3,Black,False,False,True,True,b'Scott Kirschner',0.06
+Plague Rats,Creature,Rat,Fourth Edition,Common,3,Black,False,False,True,True,b'Anson Maddocks',0.08
+Rag Man,Creature,Human Minion,Fourth Edition,Rare,4,Black,False,False,True,True,b'Daniel Gelon',0.27
+Raise Dead,Sorcery,None,Fourth Edition,Common,1,Black,True,False,True,True,b'Jeff A. Menges',0.06
+Royal Assassin,Creature,Human Assassin,Fourth Edition,Rare,3,Black,True,False,True,True,b'Tom W\xc3\xa4nerstrand',2.27
+Scathe Zombies,Creature,Zombie,Fourth Edition,Common,3,Black,True,False,True,True,b'Jesper Myrfors',0.06
+Scavenging Ghoul,Creature,Zombie,Fourth Edition,Uncommon,4,Black,False,False,True,True,b'Jeff A. Menges',0.07
+Sengir Vampire,Creature,Vampire,Fourth Edition,Uncommon,5,Black,True,False,True,True,b'Anson Maddocks',0.34
+Simulacrum,Instant,None,Fourth Edition,Uncommon,2,Black,False,False,True,True,b'Mark Poole',0.12
+Sorceress Queen,Creature,Human Wizard,Fourth Edition,Rare,3,Black,False,False,True,True,b'Kaja Foglio',0.58
+Spirit Shackle,Enchantment,Aura,Fourth Edition,Uncommon,2,Black,False,False,True,True,"b'Edward P. Beard, Jr.'",0.06
+Terror,Instant,None,Fourth Edition,Common,2,Black,True,False,True,True,b'Ron Spencer',0.1
+Uncle Istvan,Creature,Human,Fourth Edition,Uncommon,4,Black,True,False,True,True,b'Daniel Gelon',0.11
+Unholy Strength,Enchantment,Aura,Fourth Edition,Common,1,Black,True,False,True,True,b'Douglas Shuler',0.08
+Vampire Bats,Creature,Bat,Fourth Edition,Common,1,Black,True,False,True,True,b'Anson Maddocks',0.08
+Wall of Bone,Creature,Skeleton Wall,Fourth Edition,Uncommon,3,Black,True,False,True,True,b'Anson Maddocks',0.15
+Warp Artifact,Enchantment,Aura,Fourth Edition,Rare,2,Black,False,False,True,True,b'Amy Weber',0.19
+Weakness,Enchantment,Aura,Fourth Edition,Common,1,Black,True,False,True,True,b'Douglas Shuler',0.1
+Will-o'-the-Wisp,Creature,Spirit,Fourth Edition,Rare,1,Black,True,False,True,True,b'Jesper Myrfors',0.76
+Word of Binding,Sorcery,None,Fourth Edition,Common,3,Black,False,False,True,True,b'Ron Spencer',0.09
+Xenic Poltergeist,Creature,Spirit,Fourth Edition,Rare,3,Black,False,False,True,True,b'Dan Frazier',0.27
+Zombie Master,Creature,Zombie,Fourth Edition,Rare,3,Black,False,False,True,True,b'Jeff A. Menges',2.47
+Ali Baba,Creature,Human Rogue,Fourth Edition,Uncommon,1,Red,False,False,True,True,b'Julie Baroh',0.14
+Ball Lightning,Creature,Elemental,Fourth Edition,Rare,3,Red,True,False,True,True,b'Quinton Hoover',2.16
+Bird Maiden,Creature,Human Bird,Fourth Edition,Common,3,Red,False,False,True,True,b'Kaja Foglio',0.08
+Blood Lust,Instant,None,Fourth Edition,Common,2,Red,False,False,True,True,b'Anson Maddocks',0.12
+Brothers of Fire,Creature,Human Shaman,Fourth Edition,Common,3,Red,False,False,True,True,b'Mark Tedin',0.08
+Burrowing,Enchantment,Aura,Fourth Edition,Uncommon,1,Red,False,False,True,True,b'Mark Poole',0.11
+Cave People,Creature,Human,Fourth Edition,Uncommon,3,Red,False,False,True,True,b'Drew Tucker',0.12
+Chaoslace,Instant,None,Fourth Edition,Rare,1,Red,False,False,True,True,b'Dameon Willich',0.19
+Crimson Manticore,Creature,Manticore,Fourth Edition,Rare,4,Red,False,False,True,True,b'Daniel Gelon',0.18
+Detonate,Sorcery,None,Fourth Edition,Uncommon,2,Red,True,False,True,True,b'Randy Asplund-Faith',0.2
+Disintegrate,Sorcery,None,Fourth Edition,Common,2,Red,True,False,True,True,b'Anson Maddocks',0.13
+Dragon Whelp,Creature,Dragon,Fourth Edition,Uncommon,4,Red,True,False,True,True,b'Amy Weber',0.14
+Dwarven Warriors,Creature,Dwarf Warrior,Fourth Edition,Common,3,Red,False,False,True,True,b'Douglas Shuler',0.09
+Earth Elemental,Creature,Elemental,Fourth Edition,Uncommon,5,Red,True,False,True,True,b'Dan Frazier',0.09
+Earthquake,Sorcery,None,Fourth Edition,Rare,2,Red,True,False,True,True,b'Dan Frazier',0.56
+Eternal Warrior,Enchantment,Aura,Fourth Edition,Common,1,Red,False,False,True,True,b'Anson Maddocks',0.09
+Fire Elemental,Creature,Elemental,Fourth Edition,Uncommon,5,Red,True,True,True,True,b'Melissa A. Benson',0.14
+Fireball,Sorcery,None,Fourth Edition,Common,2,Red,True,False,True,True,b'Mark Tedin',0.14
+Firebreathing,Enchantment,Aura,Fourth Edition,Common,1,Red,True,False,True,True,b'Dan Frazier',0.06
+Fissure,Instant,None,Fourth Edition,Common,5,Red,False,False,True,True,b'Douglas Shuler',0.13
+Flashfires,Sorcery,None,Fourth Edition,Uncommon,4,Red,True,False,True,True,b'Dameon Willich',0.11
+Giant Strength,Enchantment,Aura,Fourth Edition,Common,2,Red,False,False,True,True,b'Justin Hampton',0.14
+Goblin Balloon Brigade,Creature,Goblin Warrior,Fourth Edition,Uncommon,1,Red,True,False,True,True,b'Andi Rusu',0.08
+Goblin King,Creature,Goblin,Fourth Edition,Rare,3,Red,True,False,True,True,b'Jesper Myrfors',2.11
+Goblin Rock Sled,Creature,Goblin,Fourth Edition,Common,2,Red,False,False,True,True,b'Dennis Detwiller',0.07
+Gray Ogre,Creature,Ogre,Fourth Edition,Common,3,Red,False,False,True,True,b'Dan Frazier',0.08
+Hill Giant,Creature,Giant,Fourth Edition,Common,4,Red,True,False,True,True,b'Dan Frazier',0.08
+Hurloon Minotaur,Creature,Minotaur,Fourth Edition,Common,3,Red,False,False,True,True,b'Anson Maddocks',0.13
+Hurr Jackal,Creature,Jackal,Fourth Edition,Rare,1,Red,False,False,True,True,b'Drew Tucker',0.27
+Immolation,Enchantment,Aura,Fourth Edition,Common,1,Red,False,False,True,True,b'Scott Kirschner',0.08
+Inferno,Instant,None,Fourth Edition,Rare,7,Red,True,False,True,True,b'Randy Asplund-Faith',0.26
+Ironclaw Orcs,Creature,Orc,Fourth Edition,Common,2,Red,False,False,True,True,b'Anson Maddocks',0.08
+Keldon Warlord,Creature,Human Barbarian,Fourth Edition,Uncommon,4,Red,False,False,True,True,b'Kev Brockschmidt',0.08
+Lightning Bolt,Instant,None,Fourth Edition,Common,1,Red,True,False,True,True,b'Christopher Rush',1.29
+Magnetic Mountain,Enchantment,None,Fourth Edition,Rare,3,Red,False,False,True,True,b'Susan Van Camp',0.24
+Mana Clash,Sorcery,None,Fourth Edition,Rare,1,Red,True,False,True,True,b'Mark Tedin',0.39
+Mana Flare,Enchantment,None,Fourth Edition,Rare,3,Red,False,False,True,True,b'Christopher Rush',3.48
+Manabarbs,Enchantment,None,Fourth Edition,Rare,4,Red,True,False,True,True,b'Christopher Rush',0.45
+Mons's Goblin Raiders,Creature,Goblin,Fourth Edition,Common,1,Red,False,False,True,True,b'Jeff A. Menges',0.1
+Orcish Artillery,Creature,Orc Warrior,Fourth Edition,Uncommon,3,Red,True,False,True,True,b'Anson Maddocks',0.14
+Orcish Oriflamme,Enchantment,None,Fourth Edition,Uncommon,4,Red,False,False,True,True,b'Dan Frazier',0.17
+Power Surge,Enchantment,None,Fourth Edition,Rare,2,Red,False,False,True,True,b'Douglas Shuler',0.29
+Pyrotechnics,Sorcery,None,Fourth Edition,Uncommon,5,Red,True,False,True,True,b'Anson Maddocks',0.07
+Red Elemental Blast,Instant,None,Fourth Edition,Common,1,Red,False,False,True,True,b'Richard Thomas',0.36
+Shatter,Instant,None,Fourth Edition,Common,2,Red,True,False,True,True,b'Amy Weber',0.16
+Shivan Dragon,Creature,Dragon,Fourth Edition,Rare,6,Red,True,True,True,True,b'Melissa A. Benson',2.07
+Sisters of the Flame,Creature,Human Shaman,Fourth Edition,Common,3,Red,False,False,True,True,b'Jesper Myrfors',0.11
+Smoke,Enchantment,None,Fourth Edition,Rare,2,Red,False,False,True,True,b'Jesper Myrfors',1.82
+Stone Giant,Creature,Giant,Fourth Edition,Uncommon,4,Red,True,False,True,True,b'Dameon Willich',0.11
+Stone Rain,Sorcery,None,Fourth Edition,Common,3,Red,True,False,True,True,b'Daniel Gelon',0.12
+Tempest Efreet,Creature,Efreet,Fourth Edition,Rare,4,Red,False,False,False,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.23
+The Brute,Enchantment,Aura,Fourth Edition,Common,2,Red,False,False,True,True,b'Mark Poole',0.08
+Tunnel,Instant,None,Fourth Edition,Uncommon,1,Red,False,False,True,True,b'Dan Frazier',0.07
+Uthden Troll,Creature,Troll,Fourth Edition,Uncommon,3,Red,True,False,True,True,b'Douglas Shuler',0.11
+Wall of Dust,Creature,Wall,Fourth Edition,Uncommon,3,Red,False,False,True,True,b'Richard Thomas',0.17
+Wall of Fire,Creature,Wall,Fourth Edition,Uncommon,3,Red,True,False,True,True,b'Richard Thomas',0.12
+Wall of Stone,Creature,Wall,Fourth Edition,Uncommon,3,Red,True,False,True,True,b'Dan Frazier',0.09
+Winds of Change,Sorcery,None,Fourth Edition,Rare,1,Red,False,False,True,True,b'Justin Hampton',8.95
+Aspect of Wolf,Enchantment,Aura,Fourth Edition,Rare,2,Green,False,False,True,True,b'Jeff A. Menges',0.32
+Birds of Paradise,Creature,Bird,Fourth Edition,Rare,1,Green,True,False,True,True,b'Mark Poole',7.26
+Carnivorous Plant,Creature,Plant Wall,Fourth Edition,Common,4,Green,False,False,True,True,b'Quinton Hoover',0.06
+Channel,Sorcery,None,Fourth Edition,Uncommon,2,Green,False,False,False,True,b'Richard Thomas',0.17
+Cockatrice,Creature,Cockatrice,Fourth Edition,Rare,5,Green,True,False,True,True,b'Dan Frazier',0.25
+Craw Wurm,Creature,Wurm,Fourth Edition,Common,6,Green,True,False,True,True,b'Daniel Gelon',0.11
+Crumble,Instant,None,Fourth Edition,Uncommon,1,Green,False,False,True,True,b'Jesper Myrfors',0.16
+Desert Twister,Sorcery,None,Fourth Edition,Uncommon,6,Green,False,False,True,True,b'Susan Van Camp',0.14
+Durkwood Boars,Creature,Boar,Fourth Edition,Common,5,Green,False,False,True,True,b'Mike Kimble',0.06
+Elven Riders,Creature,Elf,Fourth Edition,Uncommon,5,Green,True,False,True,True,b'Melissa A. Benson',0.14
+Elvish Archers,Creature,Elf Archer,Fourth Edition,Rare,2,Green,False,False,True,True,b'Anson Maddocks',0.3
+Fog,Instant,None,Fourth Edition,Common,1,Green,True,False,True,True,b'Jesper Myrfors',0.18
+Force of Nature,Creature,Elemental,Fourth Edition,Rare,6,Green,True,False,True,True,b'Douglas Shuler',0.49
+Fungusaur,Creature,Fungus Dinosaur,Fourth Edition,Rare,4,Green,True,False,True,True,b'Daniel Gelon',0.25
+Gaea's Liege,Creature,Avatar,Fourth Edition,Rare,6,Green,True,False,True,True,b'Dameon Willich',0.27
+Giant Growth,Instant,None,Fourth Edition,Common,1,Green,True,True,True,True,b'Sandra Everingham',0.11
+Giant Spider,Creature,Spider,Fourth Edition,Common,4,Green,True,False,True,True,b'Sandra Everingham',0.14
+Grizzly Bears,Creature,Bear,Fourth Edition,Common,2,Green,True,False,True,True,b'Jeff A. Menges',0.12
+Hurricane,Sorcery,None,Fourth Edition,Uncommon,2,Green,True,False,True,True,b'Dameon Willich',0.16
+Instill Energy,Enchantment,Aura,Fourth Edition,Uncommon,1,Green,False,False,True,True,b'Dameon Willich',0.38
+Ironroot Treefolk,Creature,Treefolk,Fourth Edition,Common,5,Green,False,False,True,True,b'Jesper Myrfors',0.06
+Killer Bees,Creature,Insect,Fourth Edition,Uncommon,3,Green,False,False,True,True,b'Phil Foglio',0.28
+Land Leeches,Creature,Leech,Fourth Edition,Common,3,Green,False,False,True,True,b'Quinton Hoover',0.07
+Ley Druid,Creature,Human Druid,Fourth Edition,Uncommon,3,Green,True,False,True,True,b'Sandra Everingham',0.11
+Lifeforce,Enchantment,None,Fourth Edition,Uncommon,2,Green,False,False,True,True,b'Dameon Willich',0.18
+Lifelace,Instant,None,Fourth Edition,Rare,1,Green,False,False,True,True,b'Amy Weber',0.18
+Living Artifact,Enchantment,Aura,Fourth Edition,Rare,1,Green,False,False,True,True,b'Anson Maddocks',0.17
+Living Lands,Enchantment,None,Fourth Edition,Rare,4,Green,False,False,True,True,b'Jesper Myrfors',0.15
+Llanowar Elves,Creature,Elf Druid,Fourth Edition,Common,1,Green,True,False,True,True,b'Anson Maddocks',0.23
+Lure,Enchantment,Aura,Fourth Edition,Uncommon,3,Green,True,False,True,True,b'Anson Maddocks',0.13
+Marsh Viper,Creature,Snake,Fourth Edition,Common,4,Green,False,False,True,True,b'Ron Spencer',0.06
+Nafs Asp,Creature,Snake,Fourth Edition,Common,1,Green,False,False,True,True,b'Christopher Rush',0.12
+Pradesh Gypsies,Creature,Human Nomad,Fourth Edition,Common,3,Green,False,False,True,True,b'Quinton Hoover',0.05
+Radjan Spirit,Creature,Spirit,Fourth Edition,Uncommon,4,Green,False,False,True,True,b'Christopher Rush',0.08
+Rebirth,Sorcery,None,Fourth Edition,Rare,6,Green,False,False,False,True,b'Mark Tedin',0.23
+Regeneration,Enchantment,Aura,Fourth Edition,Common,2,Green,True,False,True,True,b'Quinton Hoover',0.1
+Sandstorm,Instant,None,Fourth Edition,Common,1,Green,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.09
+Scryb Sprites,Creature,Faerie,Fourth Edition,Common,1,Green,False,False,True,True,b'Amy Weber',0.12
+Shanodin Dryads,Creature,Nymph Dryad,Fourth Edition,Common,1,Green,False,False,True,True,b'Anson Maddocks',0.15
+Stream of Life,Sorcery,None,Fourth Edition,Common,2,Green,True,False,True,True,b'Mark Poole',0.11
+Sylvan Library,Enchantment,None,Fourth Edition,Rare,2,Green,False,False,True,True,b'Harold McNeill',37.87
+Thicket Basilisk,Creature,Basilisk,Fourth Edition,Uncommon,5,Green,False,False,True,True,b'Dan Frazier',0.13
+Timber Wolves,Creature,Wolf,Fourth Edition,Rare,1,Green,False,False,True,True,b'Melissa A. Benson',0.27
+Titania's Song,Enchantment,None,Fourth Edition,Rare,4,Green,False,False,True,True,b'Kerstin Kaman',0.24
+Tranquility,Sorcery,None,Fourth Edition,Common,3,Green,False,False,True,True,b'Douglas Shuler',0.14
+Tsunami,Sorcery,None,Fourth Edition,Uncommon,4,Green,False,False,True,True,b'Richard Thomas',0.15
+Untamed Wilds,Sorcery,None,Fourth Edition,Uncommon,3,Green,False,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.12
+Venom,Enchantment,Aura,Fourth Edition,Common,3,Green,False,False,True,True,b'Tom W\xc3\xa4nerstrand',0.09
+Verduran Enchantress,Creature,Human Druid,Fourth Edition,Rare,3,Green,True,False,True,True,b'Kev Brockschmidt',2.57
+Wall of Brambles,Creature,Plant Wall,Fourth Edition,Uncommon,3,Green,False,False,True,True,b'Anson Maddocks',0.17
+Wall of Ice,Creature,Wall,Fourth Edition,Uncommon,3,Green,False,False,True,True,b'Richard Thomas',0.87
+Wall of Wood,Creature,Wall,Fourth Edition,Common,1,Green,True,False,True,True,b'Mark Tedin',0.05
+Wanderlust,Enchantment,Aura,Fourth Edition,Uncommon,3,Green,False,False,True,True,b'Cornelius Brudi',0.14
+War Mammoth,Creature,Elephant,Fourth Edition,Common,4,Green,False,False,True,True,b'Jeff A. Menges',0.17
+Web,Enchantment,Aura,Fourth Edition,Rare,1,Green,True,False,True,True,b'Rob Alexander',0.22
+Whirling Dervish,Creature,Human Monk,Fourth Edition,Uncommon,2,Green,True,False,True,True,b'Susan Van Camp',0.15
+Wild Growth,Enchantment,Aura,Fourth Edition,Common,1,Green,False,False,True,True,b'Mark Poole',0.22
+Winter Blast,Sorcery,None,Fourth Edition,Uncommon,2,Green,False,False,True,True,b'Kaja Foglio',0.17
+Aladdin's Lamp,Artifact,None,Fourth Edition,Rare,1,Colorless,False,False,True,True,b'Mark Tedin',0.24
+Aladdin's Ring,Artifact,None,Fourth Edition,Rare,8,Colorless,True,False,True,True,b'Dan Frazier',0.24
+Amulet of Kroog,Artifact,None,Fourth Edition,Common,2,Colorless,False,False,True,True,b'Margaret Organ-Kean',0.08
+Ankh of Mishra,Artifact,None,Fourth Edition,Rare,2,Colorless,False,False,True,True,b'Amy Weber',1.76
+Armageddon Clock,Artifact,None,Fourth Edition,Rare,6,Colorless,False,False,True,True,b'Amy Weber',0.24
+Ashnod's Battle Gear,Artifact,None,Fourth Edition,Uncommon,2,Colorless,False,False,True,True,b'Mark Poole',0.09
+Battering Ram,Artifact Creature,Construct,Fourth Edition,Common,2,Colorless,False,False,True,True,b'Jeff A. Menges',0.12
+Black Mana Battery,Artifact,None,Fourth Edition,Rare,4,Colorless,False,False,True,True,b'Anson Maddocks',0.44
+Black Vise,Artifact,None,Fourth Edition,Uncommon,1,Colorless,False,False,True,True,b'Richard Thomas',0.54
+Blue Mana Battery,Artifact,None,Fourth Edition,Rare,4,Colorless,False,False,True,True,b'Amy Weber',0.31
+Bottle of Suleiman,Artifact,None,Fourth Edition,Rare,4,Colorless,False,False,True,True,b'Jesper Myrfors',0.22
+Brass Man,Artifact Creature,Construct,Fourth Edition,Uncommon,1,Colorless,False,False,True,True,b'Christopher Rush',0.11
+Bronze Tablet,Artifact,None,Fourth Edition,Rare,6,Colorless,False,False,False,True,b'Tom W\xc3\xa4nerstrand',0.23
+Celestial Prism,Artifact,None,Fourth Edition,Uncommon,3,Colorless,False,False,True,True,b'Amy Weber',0.11
+Clay Statue,Artifact Creature,Golem,Fourth Edition,Common,4,Colorless,False,False,True,True,b'Jesper Myrfors',0.08
+Clockwork Avian,Artifact Creature,Bird,Fourth Edition,Rare,5,Colorless,False,False,True,True,b'Randy Asplund-Faith',0.22
+Clockwork Beast,Artifact Creature,Beast,Fourth Edition,Rare,6,Colorless,False,False,True,True,b'Drew Tucker',0.18
+Colossus of Sardia,Artifact Creature,Golem,Fourth Edition,Rare,9,Colorless,True,False,True,True,b'Jesper Myrfors',0.28
+Conservator,Artifact,None,Fourth Edition,Uncommon,4,Colorless,False,False,True,True,b'Amy Weber',0.14
+Coral Helm,Artifact,None,Fourth Edition,Rare,3,Colorless,False,False,True,True,b'Amy Weber',0.18
+Crystal Rod,Artifact,None,Fourth Edition,Uncommon,1,Colorless,True,False,True,True,b'Amy Weber',0.09
+Cursed Rack,Artifact,None,Fourth Edition,Uncommon,4,Colorless,False,False,True,True,b'Richard Thomas',0.16
+Dancing Scimitar,Artifact Creature,Spirit,Fourth Edition,Rare,4,Colorless,True,False,True,True,b'Anson Maddocks',0.19
+Diabolic Machine,Artifact Creature,Construct,Fourth Edition,Uncommon,7,Colorless,False,False,True,True,b'Anson Maddocks',0.09
+Dingus Egg,Artifact,None,Fourth Edition,Rare,4,Colorless,True,False,True,True,b'Dan Frazier',0.36
+Disrupting Scepter,Artifact,None,Fourth Edition,Rare,3,Colorless,True,False,True,True,b'Dan Frazier',0.24
+Dragon Engine,Artifact Creature,Construct,Fourth Edition,Rare,3,Colorless,False,False,True,True,b'Anson Maddocks',0.22
+Ebony Horse,Artifact,None,Fourth Edition,Rare,3,Colorless,False,False,True,True,b'Dameon Willich',0.26
+Fellwar Stone,Artifact,None,Fourth Edition,Uncommon,2,Colorless,True,False,True,True,b'Quinton Hoover',3.12
+Flying Carpet,Artifact,None,Fourth Edition,Rare,4,Colorless,True,False,True,True,b'Mark Tedin',0.23
+Glasses of Urza,Artifact,None,Fourth Edition,Uncommon,1,Colorless,False,False,True,True,b'Douglas Shuler',0.21
+Grapeshot Catapult,Artifact Creature,Construct,Fourth Edition,Common,4,Colorless,False,False,True,True,b'Dan Frazier',0.06
+Green Mana Battery,Artifact,None,Fourth Edition,Rare,4,Colorless,False,False,True,True,b'Christopher Rush',0.26
+Helm of Chatzuk,Artifact,None,Fourth Edition,Rare,1,Colorless,False,False,True,True,b'Mark Tedin',0.18
+Howling Mine,Artifact,None,Fourth Edition,Rare,2,Colorless,True,False,True,True,b'Mark Poole',4.26
+Iron Star,Artifact,None,Fourth Edition,Uncommon,1,Colorless,True,False,True,True,b'Dan Frazier',0.09
+Ivory Cup,Artifact,None,Fourth Edition,Uncommon,1,Colorless,True,False,True,True,b'Anson Maddocks',0.06
+Ivory Tower,Artifact,None,Fourth Edition,Rare,1,Colorless,False,False,True,True,b'Margaret Organ-Kean',2.6
+Jade Monolith,Artifact,None,Fourth Edition,Rare,4,Colorless,False,False,True,True,b'Anson Maddocks',0.23
+Jandor's Saddlebags,Artifact,None,Fourth Edition,Rare,2,Colorless,False,False,True,True,b'Dameon Willich',0.34
+Jayemdae Tome,Artifact,None,Fourth Edition,Rare,4,Colorless,True,False,True,True,b'Mark Tedin',0.27
+Kormus Bell,Artifact,None,Fourth Edition,Rare,4,Colorless,False,False,True,True,b'Christopher Rush',0.41
+Library of Leng,Artifact,None,Fourth Edition,Uncommon,1,Colorless,False,False,True,True,b'Daniel Gelon',1.42
+Mana Vault,Artifact,None,Fourth Edition,Rare,1,Colorless,False,False,True,True,b'Mark Tedin',30.49
+Meekstone,Artifact,None,Fourth Edition,Rare,1,Colorless,False,False,True,True,b'Quinton Hoover',4.99
+Millstone,Artifact,None,Fourth Edition,Rare,2,Colorless,True,False,True,True,b'Kaja Foglio',0.33
+Mishra's War Machine,Artifact Creature,Juggernaut,Fourth Edition,Rare,7,Colorless,False,False,True,True,b'Amy Weber',0.24
+Nevinyrral's Disk,Artifact,None,Fourth Edition,Rare,4,Colorless,False,False,True,True,b'Mark Tedin',2.62
+Obsianus Golem,Artifact Creature,Golem,Fourth Edition,Uncommon,6,Colorless,False,False,True,True,b'Jesper Myrfors',0.1
+Onulet,Artifact Creature,Construct,Fourth Edition,Rare,3,Colorless,False,False,True,True,b'Anson Maddocks',0.23
+Ornithopter,Artifact Creature,Thopter,Fourth Edition,Uncommon,0,Colorless,True,False,True,True,b'Amy Weber',0.24
+Primal Clay,Artifact Creature,Shapeshifter,Fourth Edition,Rare,4,Colorless,True,False,True,True,b'Kaja Foglio',0.23
+Red Mana Battery,Artifact,None,Fourth Edition,Rare,4,Colorless,False,False,True,True,b'Mark Tedin',0.28
+Rod of Ruin,Artifact,None,Fourth Edition,Uncommon,4,Colorless,True,False,True,True,b'Christopher Rush',0.12
+Shapeshifter,Artifact Creature,Shapeshifter,Fourth Edition,Uncommon,6,Colorless,False,False,True,True,b'Dan Frazier',0.11
+Soul Net,Artifact,None,Fourth Edition,Uncommon,1,Colorless,False,False,True,True,b'Dameon Willich',0.08
+Sunglasses of Urza,Artifact,None,Fourth Edition,Rare,3,Colorless,False,False,True,True,b'Dan Frazier',0.2
+Tawnos's Wand,Artifact,None,Fourth Edition,Uncommon,4,Colorless,False,False,True,True,b'Douglas Shuler',0.08
+Tawnos's Weaponry,Artifact,None,Fourth Edition,Uncommon,2,Colorless,False,False,True,True,b'Dan Frazier',0.1
+Tetravus,Artifact Creature,Construct,Fourth Edition,Rare,6,Colorless,False,False,True,True,b'Mark Tedin',0.4
+The Hive,Artifact,None,Fourth Edition,Rare,5,Colorless,True,False,True,True,b'Sandra Everingham',0.24
+The Rack,Artifact,None,Fourth Edition,Uncommon,1,Colorless,True,False,True,True,b'Richard Thomas',0.82
+Throne of Bone,Artifact,None,Fourth Edition,Uncommon,1,Colorless,True,False,True,True,b'Anson Maddocks',0.1
+Triskelion,Artifact Creature,Construct,Fourth Edition,Rare,6,Colorless,True,False,True,True,b'Douglas Shuler',2.38
+Urza's Avenger,Artifact Creature,Shapeshifter,Fourth Edition,Rare,6,Colorless,False,False,True,True,b'Amy Weber',0.35
+Wall of Spears,Artifact Creature,Wall,Fourth Edition,Common,3,Colorless,True,False,True,True,b'Sandra Everingham',0.1
+White Mana Battery,Artifact,None,Fourth Edition,Rare,4,Colorless,False,False,True,True,b'Anthony S. Waters',0.31
+Winter Orb,Artifact,None,Fourth Edition,Rare,2,Colorless,False,False,True,True,b'Mark Tedin',8.3
+Wooden Sphere,Artifact,None,Fourth Edition,Uncommon,1,Colorless,True,False,True,True,b'Mark Tedin',0.08
+Yotian Soldier,Artifact Creature,Soldier,Fourth Edition,Common,3,Colorless,True,False,True,True,b'Christopher Rush',0.07
+Mishra's Factory,Land,None,Fourth Edition,Uncommon,0,Colorless,False,False,True,True,b'Kaja Foglio',1.39
+Oasis,Land,None,Fourth Edition,Uncommon,0,Colorless,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.13
+Strip Mine,Land,None,Fourth Edition,Uncommon,0,Colorless,False,False,True,True,b'Daniel Gelon',16.42
+Plains,Basic Land,Plains,Fourth Edition,Common,0,Colorless,True,True,True,True,b'Jesper Myrfors',0.29
+Plains,Basic Land,Plains,Fourth Edition,Common,0,Colorless,True,True,True,True,b'Jesper Myrfors',0.32
+Plains,Basic Land,Plains,Fourth Edition,Common,0,Colorless,True,True,True,True,b'Jesper Myrfors',0.14
+Island,Basic Land,Island,Fourth Edition,Common,0,Colorless,True,True,True,True,b'Mark Poole',0.39
+Island,Basic Land,Island,Fourth Edition,Common,0,Colorless,True,True,True,True,b'Mark Poole',0.37
+Island,Basic Land,Island,Fourth Edition,Common,0,Colorless,True,True,True,True,b'Mark Poole',0.31
+Swamp,Basic Land,Swamp,Fourth Edition,Common,0,Colorless,True,True,True,True,b'Dan Frazier',0.29
+Swamp,Basic Land,Swamp,Fourth Edition,Common,0,Colorless,True,True,True,True,b'Dan Frazier',0.3
+Swamp,Basic Land,Swamp,Fourth Edition,Common,0,Colorless,True,True,True,True,b'Dan Frazier',0.27
+Mountain,Basic Land,Mountain,Fourth Edition,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',0.27
+Mountain,Basic Land,Mountain,Fourth Edition,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',0.3
+Mountain,Basic Land,Mountain,Fourth Edition,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',0.27
+Forest,Basic Land,Forest,Fourth Edition,Common,0,Colorless,True,True,True,True,b'Christopher Rush',0.34
+Forest,Basic Land,Forest,Fourth Edition,Common,0,Colorless,True,True,True,True,b'Christopher Rush',0.28
+Forest,Basic Land,Forest,Fourth Edition,Common,0,Colorless,True,True,True,True,b'Christopher Rush',0.2

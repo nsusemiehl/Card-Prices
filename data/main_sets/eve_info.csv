@@ -1,0 +1,181 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Archon of Justice,Creature,Archon,Eventide,Rare,5,White,True,False,True,True,b'Jason Chan',0.42
+Ballynock Trapper,Creature,Kithkin Soldier,Eventide,Common,4,White,True,False,True,False,b'Randy Gallegos',0.08
+Cenn's Enlistment,Sorcery,None,Eventide,Common,4,White,True,False,True,True,b'Matt Cavotta',0.09
+Endless Horizons,Enchantment,None,Eventide,Rare,4,White,True,False,True,False,b'Joshua Hagler',8.75
+Endure,Instant,None,Eventide,Uncommon,5,White,True,False,True,False,b'Ralph Horsley',0.07
+Flickerwisp,Creature,Elemental,Eventide,Uncommon,3,White,True,False,True,True,b'Jeremy Enecio',0.78
+Hallowed Burial,Sorcery,None,Eventide,Rare,5,White,True,False,True,True,b'Dave Kendall',1.06
+Kithkin Spellduster,Creature,Kithkin Wizard,Eventide,Common,5,White,True,False,True,False,b'Trevor Hairsine',0.08
+Kithkin Zealot,Creature,Kithkin Cleric,Eventide,Common,2,White,True,False,True,False,b'Scott Altmann',0.05
+Light from Within,Enchantment,None,Eventide,Rare,4,White,True,False,True,False,b'Aleksi Briclot',1.48
+Loyal Gyrfalcon,Creature,Bird,Eventide,Uncommon,4,White,True,False,True,False,b'Darrell Riche',0.1
+Patrol Signaler,Creature,Kithkin Soldier,Eventide,Uncommon,2,White,True,False,True,False,b'Steve Prescott',0.21
+Recumbent Bliss,Enchantment,Aura,Eventide,Common,3,White,True,False,True,True,b'Todd Lockwood',0.15
+Spirit of the Hearth,Creature,Cat Spirit,Eventide,Rare,6,White,True,False,True,True,b'Jason Chan',0.49
+Springjack Shepherd,Creature,Kithkin Wizard,Eventide,Uncommon,4,White,True,False,True,True,b'Thomas Denmark',0.83
+Suture Spirit,Creature,Spirit,Eventide,Uncommon,2,White,True,False,True,False,b'Larry MacDougall',0.15
+Banishing Knack,Instant,None,Eventide,Common,1,Blue,True,False,True,False,b'Howard Lyon',0.26
+Cache Raiders,Creature,Merfolk Rogue,Eventide,Uncommon,5,Blue,True,False,True,True,b'Pete Venters',0.1
+Dream Fracture,Instant,None,Eventide,Uncommon,3,Blue,True,False,True,True,b'Howard Lyon',0.34
+Dream Thief,Creature,Faerie Rogue,Eventide,Common,3,Blue,True,False,True,False,b'Howard Lyon',0.15
+Glamerdye,Instant,None,Eventide,Rare,2,Blue,True,False,True,False,b'Ralph Horsley',0.37
+Glen Elendra Archmage,Creature,Faerie Wizard,Eventide,Rare,4,Blue,True,False,True,True,b'Warren Mahy',6.48
+Idle Thoughts,Enchantment,None,Eventide,Uncommon,4,Blue,True,False,True,False,b'Steven Belledin',0.08
+Indigo Faerie,Creature,Faerie Wizard,Eventide,Uncommon,2,Blue,True,False,True,False,b'Steve Prescott',0.16
+Inundate,Sorcery,None,Eventide,Rare,6,Blue,True,False,True,False,b'Mark Zug',2.89
+Merrow Levitator,Creature,Merfolk Wizard,Eventide,Common,4,Blue,True,False,True,False,b'Jim Pavelec',0.08
+Oona's Grace,Instant,None,Eventide,Common,3,Blue,True,False,True,True,b'Rebecca Guay',0.12
+Razorfin Abolisher,Creature,Merfolk Wizard,Eventide,Uncommon,3,Blue,True,False,True,False,"b""William O'Connor""",0.2
+Sanity Grinding,Sorcery,None,Eventide,Rare,3,Blue,True,False,True,False,b'Lars Grant-West',2.75
+Talonrend,Creature,Elemental,Eventide,Uncommon,5,Blue,True,False,True,False,b'Nils Hamm',0.07
+Wake Thrasher,Creature,Merfolk Soldier,Eventide,Rare,3,Blue,True,False,True,True,b'Jesper Ejsing',0.63
+Wilderness Hypnotist,Creature,Merfolk Wizard,Eventide,Common,4,Blue,True,False,True,False,b'Rebecca Guay',0.09
+"Ashling, the Extinguisher",Legendary Creature,Elemental Shaman,Eventide,Rare,4,Black,True,False,True,False,b'Wayne Reynolds',3.29
+Creakwood Ghoul,Creature,Plant Zombie,Eventide,Uncommon,5,Black,True,False,True,False,b'Thomas M. Baxa',0.1
+Crumbling Ashes,Enchantment,None,Eventide,Uncommon,2,Black,True,False,True,False,b'Chuck Lukacs',6.62
+Lingering Tormentor,Creature,Spirit,Eventide,Uncommon,4,Black,True,False,True,False,b'Joshua Hagler',0.27
+Merrow Bonegnawer,Creature,Merfolk Rogue,Eventide,Common,1,Black,True,False,True,False,b'Jim Nelson',0.13
+Necroskitter,Creature,Elemental,Eventide,Rare,3,Black,True,False,True,True,b'Jaime Jones',9.02
+Needle Specter,Creature,Specter,Eventide,Rare,3,Black,True,False,True,False,b'Christopher Moeller',2.08
+Nightmare Incursion,Sorcery,None,Eventide,Rare,6,Black,True,False,True,False,b'Chuck Lukacs',0.7
+Raven's Crime,Sorcery,None,Eventide,Common,1,Black,True,False,True,True,b'Warren Mahy',0.67
+Smoldering Butcher,Creature,Elemental Warrior,Eventide,Common,4,Black,True,False,True,False,b'Zoltan Boros',0.09
+Soot Imp,Creature,Imp,Eventide,Uncommon,3,Black,True,False,True,True,b'Jesper Ejsing',0.16
+Soul Reap,Sorcery,None,Eventide,Common,2,Black,True,False,True,False,b'Izzy',0.14
+Soul Snuffers,Creature,Elemental Shaman,Eventide,Uncommon,4,Black,True,False,True,True,b'Izzy',2.12
+Syphon Life,Sorcery,None,Eventide,Uncommon,3,Black,True,False,True,True,b'Dan Seagrave',0.17
+Talara's Bane,Sorcery,None,Eventide,Common,2,Black,True,False,True,False,b'Joshua Hagler',0.05
+Umbra Stalker,Creature,Elemental,Eventide,Rare,7,Black,True,False,True,False,b'Daarken',0.3
+Chaotic Backlash,Instant,None,Eventide,Uncommon,5,Red,True,False,True,False,b'Carl Frank',0.07
+Cinder Pyromancer,Creature,Elemental Shaman,Eventide,Common,3,Red,True,False,True,True,b'Greg Staples',0.22
+Duergar Cave-Guard,Creature,Dwarf Warrior,Eventide,Uncommon,4,Red,True,False,True,False,b'Dave Allsop',0.11
+Fiery Bombardment,Enchantment,None,Eventide,Rare,2,Red,True,False,True,False,b'Nils Hamm',0.15
+Flame Jab,Sorcery,None,Eventide,Common,1,Red,True,False,True,True,b'rk post',0.14
+Hatchet Bully,Creature,Goblin Warrior,Eventide,Uncommon,4,Red,True,False,True,False,b'Paul Bonner',0.09
+Hateflayer,Creature,Elemental,Eventide,Rare,7,Red,True,False,True,False,b'Thomas M. Baxa',2.21
+Heartlash Cinder,Creature,Elemental Warrior,Eventide,Common,2,Red,True,False,True,False,b'Steve Prescott',0.06
+Hotheaded Giant,Creature,Giant Warrior,Eventide,Common,4,Red,True,False,True,False,b'Fred Harper',0.05
+Impelled Giant,Creature,Giant Warrior,Eventide,Uncommon,6,Red,True,False,True,True,b'Mark Zug',0.13
+Outrage Shaman,Creature,Goblin Shaman,Eventide,Uncommon,5,Red,True,False,True,False,b'Cole Eastburn',0.17
+Puncture Blast,Instant,None,Eventide,Common,3,Red,True,False,True,False,b'Carl Critchlow',0.11
+Rekindled Flame,Sorcery,None,Eventide,Rare,4,Red,True,False,True,False,b'Zoltan Boros',0.25
+Stigma Lasher,Creature,Elemental Shaman,Eventide,Rare,2,Red,True,False,True,True,b'Aleksi Briclot',7.09
+Thunderblust,Creature,Elemental,Eventide,Rare,5,Red,True,False,True,True,b'Dan Scott',0.41
+Unwilling Recruit,Sorcery,None,Eventide,Uncommon,4,Red,True,False,True,False,b'Dave Allsop',0.18
+Aerie Ouphes,Creature,Ouphe,Eventide,Common,5,Green,True,False,True,False,b'Jesper Ejsing',0.18
+Bloom Tender,Creature,Elf Druid,Eventide,Rare,2,Green,True,False,True,True,b'Chippy',56.9
+Duskdale Wurm,Creature,Wurm,Eventide,Uncommon,7,Green,True,False,True,True,b'Dan Dos Santos',0.05
+Helix Pinnacle,Enchantment,None,Eventide,Rare,1,Green,True,False,True,True,b'Dan Scott',16.5
+Marshdrinker Giant,Creature,Giant Warrior,Eventide,Uncommon,5,Green,True,False,True,False,b'Daarken',0.09
+Monstrify,Sorcery,None,Eventide,Common,4,Green,True,False,True,False,b'Lars Grant-West',0.11
+Nettle Sentinel,Creature,Elf Warrior,Eventide,Common,1,Green,True,False,True,True,b'Kev Walker',0.41
+Phosphorescent Feast,Sorcery,None,Eventide,Uncommon,5,Green,True,False,True,True,b'Ron Spencer',0.08
+Primalcrux,Creature,Elemental,Eventide,Rare,6,Green,True,False,True,False,b'Wayne Reynolds',5.39
+Regal Force,Creature,Elemental,Eventide,Rare,7,Green,True,False,True,True,b'Brandon Kitkouski',1.63
+Savage Conception,Sorcery,None,Eventide,Uncommon,5,Green,True,False,True,False,"b""William O'Connor""",0.09
+Swirling Spriggan,Creature,Goblin Shaman,Eventide,Uncommon,4,Green,True,False,True,False,b'Thomas M. Baxa',0.09
+Talara's Battalion,Creature,Elf Warrior,Eventide,Rare,2,Green,True,False,True,True,b'Todd Lockwood',0.55
+Tilling Treefolk,Creature,Treefolk Druid,Eventide,Common,3,Green,True,False,True,False,b'rk post',0.38
+Twinblade Slasher,Creature,Elf Warrior,Eventide,Uncommon,1,Green,True,False,True,False,b'Trevor Hairsine',0.27
+Wickerbough Elder,Creature,Treefolk Shaman,Eventide,Common,4,Green,True,False,True,True,b'Jesper Ejsing',0.22
+Batwing Brume,Instant,None,Eventide,Uncommon,3,Gold,True,False,True,True,b'Richard Kane Ferguson',0.99
+Beckon Apparition,Instant,None,Eventide,Common,2,Gold,True,False,True,True,b'Larry MacDougall',0.12
+Bloodied Ghost,Creature,Spirit,Eventide,Uncommon,5,Gold,True,False,True,False,b'Mike Dringenberg',0.07
+Cauldron Haze,Instant,None,Eventide,Uncommon,3,Gold,True,False,True,False,b'Brandon Kitkouski',0.69
+Deathbringer Liege,Creature,Horror,Eventide,Rare,8,Gold,True,False,True,False,b'Drew Tucker',11.13
+Divinity of Pride,Creature,Spirit Avatar,Eventide,Rare,10,Gold,True,False,True,True,b'Greg Staples',2.75
+Edge of the Divinity,Enchantment,Aura,Eventide,Common,2,Gold,True,False,True,False,b'Dan Scott',0.48
+Evershrike,Creature,Elemental Spirit,Eventide,Rare,7,Gold,True,False,True,False,b'Dan Dos Santos',0.7
+Gwyllion Hedge-Mage,Creature,Hag Wizard,Eventide,Uncommon,4,Gold,True,False,True,True,b'Todd Lockwood',0.11
+Harvest Gwyllion,Creature,Hag,Eventide,Common,6,Gold,True,False,True,False,b'Nils Hamm',0.08
+Nightsky Mimic,Creature,Shapeshifter,Eventide,Common,3,Gold,True,False,True,False,b'Franz Vohwinkel',0.13
+Nip Gwyllion,Creature,Hag,Eventide,Common,2,Gold,True,False,True,False,b'Alex Horley-Orlandelli',0.19
+Pyrrhic Revival,Sorcery,None,Eventide,Rare,9,Gold,True,False,True,False,b'Richard Kane Ferguson',0.43
+Restless Apparition,Creature,Spirit,Eventide,Uncommon,6,Gold,True,False,True,True,b'Jeff Easley',0.18
+Stillmoon Cavalier,Creature,Zombie Knight,Eventide,Rare,5,Gold,True,False,True,False,b'Christopher Moeller',4.75
+Unmake,Instant,None,Eventide,Common,6,Gold,True,False,True,True,b'Steven Belledin',0.62
+Voracious Hatchling,Creature,Elemental,Eventide,Uncommon,5,Gold,True,False,True,False,b'Jeremy Enecio',0.3
+Call the Skybreaker,Sorcery,None,Eventide,Rare,9,Gold,True,False,True,True,b'Randy Gallegos',0.21
+Clout of the Dominus,Enchantment,Aura,Eventide,Common,2,Gold,True,False,True,False,b'Jaime Jones',0.27
+Crackleburr,Creature,Elemental,Eventide,Rare,5,Gold,True,False,True,False,b'Mike Dringenberg',1.26
+Crag Puca,Creature,Shapeshifter,Eventide,Uncommon,6,Gold,True,False,True,False,b'John Howe (Lorywn)',0.08
+Dominus of Fealty,Creature,Spirit Avatar,Eventide,Rare,10,Gold,True,False,True,True,b'Kev Walker',2.94
+Inside Out,Instant,None,Eventide,Common,3,Gold,True,False,True,False,b'Zoltan Boros',0.27
+Mindwrack Liege,Creature,Horror,Eventide,Rare,9,Gold,True,False,True,False,b'Richard Whitters',2.16
+Mirror Sheen,Enchantment,None,Eventide,Rare,5,Gold,True,False,True,False,b'John Avon',0.93
+Noggle Bandit,Creature,Noggle Rogue,Eventide,Common,5,Gold,True,False,True,True,b'Thomas Denmark',0.07
+Noggle Bridgebreaker,Creature,Noggle Rogue,Eventide,Common,6,Gold,True,False,True,False,b'Thomas M. Baxa',0.04
+Noggle Hedge-Mage,Creature,Noggle Wizard,Eventide,Uncommon,4,Gold,True,False,True,False,b'Larry MacDougall',0.2
+Noggle Ransacker,Creature,Noggle Rogue,Eventide,Uncommon,4,Gold,True,False,True,True,b'Alex Horley-Orlandelli',0.1
+Nucklavee,Creature,Beast,Eventide,Uncommon,8,Gold,True,False,True,True,b'Trevor Hairsine',0.09
+Riverfall Mimic,Creature,Shapeshifter,Eventide,Common,3,Gold,True,False,True,False,b'Franz Vohwinkel',0.05
+Shrewd Hatchling,Creature,Elemental,Eventide,Uncommon,5,Gold,True,False,True,True,b'Carl Frank',0.11
+Stream Hopper,Creature,Goblin,Eventide,Common,2,Gold,True,False,True,False,b'Dave Allsop',0.05
+Unnerving Assault,Instant,None,Eventide,Uncommon,4,Gold,True,False,True,False,b'Ron Spencer',0.07
+Canker Abomination,Creature,Treefolk Horror,Eventide,Uncommon,6,Gold,True,False,True,True,b'Brandon Kitkouski',0.14
+Cankerous Thirst,Instant,None,Eventide,Uncommon,5,Gold,True,False,True,False,b'Carl Frank',0.16
+Creakwood Liege,Creature,Horror,Eventide,Rare,7,Gold,True,False,True,True,b'Cole Eastburn',3.63
+Deity of Scars,Creature,Spirit Avatar,Eventide,Rare,10,Gold,True,False,True,False,b'Steve Prescott',3.18
+Desecrator Hag,Creature,Hag,Eventide,Common,6,Gold,True,False,True,True,b'Fred Harper',0.07
+Doomgape,Creature,Elemental,Eventide,Rare,10,Gold,True,False,True,True,b'Dave Allsop',0.68
+Drain the Well,Sorcery,None,Eventide,Common,6,Gold,True,False,True,False,b'Warren Mahy',0.07
+Gift of the Deity,Enchantment,Aura,Eventide,Common,6,Gold,True,False,True,False,b'Steve Prescott',0.1
+Hag Hedge-Mage,Creature,Hag Shaman,Eventide,Uncommon,4,Gold,True,False,True,False,b'Scott Altmann',0.13
+Noxious Hatchling,Creature,Elemental,Eventide,Uncommon,5,Gold,True,False,True,False,b'Nils Hamm',0.64
+Odious Trow,Creature,Troll,Eventide,Common,2,Gold,True,False,True,False,b'Warren Mahy',0.07
+Quillspike,Creature,Beast,Eventide,Uncommon,4,Gold,True,False,True,False,b'Carl Critchlow',1.34
+Rendclaw Trow,Creature,Troll,Eventide,Common,4,Gold,True,False,True,False,b'Warren Mahy',0.25
+Sapling of Colfenor,Legendary Creature,Treefolk Shaman,Eventide,Rare,7,Gold,True,False,True,False,b'John Avon',5.36
+Stalker Hag,Creature,Hag,Eventide,Uncommon,6,Gold,True,False,True,False,b'Dave Kendall',0.15
+Woodlurker Mimic,Creature,Shapeshifter,Eventide,Common,3,Gold,True,False,True,False,b'Franz Vohwinkel',0.08
+Worm Harvest,Sorcery,None,Eventide,Rare,8,Gold,True,False,True,True,b'Chuck Lukacs',0.55
+Balefire Liege,Creature,Spirit Horror,Eventide,Rare,8,Gold,True,False,True,True,b'Ralph Horsley',10.93
+Battlegate Mimic,Creature,Shapeshifter,Eventide,Common,3,Gold,True,False,True,True,b'Franz Vohwinkel',0.06
+Belligerent Hatchling,Creature,Elemental,Eventide,Uncommon,5,Gold,True,False,True,False,b'Steve Prescott',0.1
+Double Cleave,Instant,None,Eventide,Common,3,Gold,True,False,True,True,b'rk post',0.15
+Duergar Assailant,Creature,Dwarf Soldier,Eventide,Common,2,Gold,True,False,True,False,b'Paul Bonner',0.06
+Duergar Hedge-Mage,Creature,Dwarf Shaman,Eventide,Uncommon,4,Gold,True,False,True,True,b'Dave Allsop',0.78
+Duergar Mine-Captain,Creature,Dwarf Soldier,Eventide,Uncommon,4,Gold,True,False,True,False,b'Matt Cavotta',0.21
+Figure of Destiny,Creature,Kithkin,Eventide,Rare,2,Gold,True,False,True,True,b'Scott M. Fischer',1.39
+Fire at Will,Instant,None,Eventide,Common,6,Gold,True,False,True,False,b'Pete Venters',0.05
+Hearthfire Hobgoblin,Creature,Goblin Soldier,Eventide,Uncommon,6,Gold,True,False,True,True,b'Steven Belledin',0.16
+Hobgoblin Dragoon,Creature,Goblin Knight,Eventide,Common,4,Gold,True,False,True,False,b'Matt Cavotta',0.09
+Moonhold,Instant,None,Eventide,Uncommon,4,Gold,True,False,True,False,b'Mike Dringenberg',0.14
+Nobilis of War,Creature,Spirit Avatar,Eventide,Rare,10,Gold,True,False,True,True,b'Christopher Moeller',0.29
+Rise of the Hobgoblins,Enchantment,None,Eventide,Rare,4,Gold,True,False,True,False,b'Jeff Miracola',2.59
+Scourge of the Nobilis,Enchantment,Aura,Eventide,Common,4,Gold,True,False,True,False,b'Dan Scott',0.12
+Spitemare,Creature,Elemental,Eventide,Uncommon,6,Gold,True,False,True,True,b'Matt Cavotta',0.8
+Waves of Aggression,Sorcery,None,Eventide,Rare,7,Gold,True,False,True,False,b'Jim Pavelec',8.28
+Cold-Eyed Selkie,Creature,Merfolk Rogue,Eventide,Rare,5,Gold,True,False,True,True,b'Jaime Jones',0.51
+Fable of Wolf and Owl,Enchantment,None,Eventide,Rare,9,Gold,True,False,True,False,b'Heather Hudson',3.65
+Favor of the Overbeing,Enchantment,Aura,Eventide,Common,3,Gold,True,False,True,False,b'Chippy',0.19
+Gilder Bairn,Creature,Ouphe,Eventide,Uncommon,5,Gold,True,False,True,True,b'Nils Hamm',2.19
+Grazing Kelpie,Creature,Beast,Eventide,Common,5,Gold,True,False,True,False,b'Drew Tucker',0.07
+Groundling Pouncer,Creature,Faerie,Eventide,Uncommon,3,Gold,True,False,True,False,b'Richard Whitters',0.06
+Invert the Skies,Instant,None,Eventide,Uncommon,5,Gold,True,False,True,False,b'Randy Gallegos',0.16
+Murkfiend Liege,Creature,Horror,Eventide,Rare,8,Gold,True,False,True,True,b'Carl Critchlow',4.17
+Overbeing of Myth,Creature,Spirit Avatar,Eventide,Rare,10,Gold,True,False,True,True,b'Chippy',3.75
+Selkie Hedge-Mage,Creature,Merfolk Wizard,Eventide,Uncommon,4,Gold,True,False,True,True,b'Larry MacDougall',0.16
+Shorecrasher Mimic,Creature,Shapeshifter,Eventide,Common,3,Gold,True,False,True,False,b'Franz Vohwinkel',0.06
+Slippery Bogle,Creature,Beast,Eventide,Common,2,Gold,True,False,True,True,b'Dave Allsop',0.85
+Snakeform,Instant,None,Eventide,Common,4,Gold,True,False,True,True,b'Jim Nelson',0.15
+Spitting Image,Sorcery,None,Eventide,Rare,8,Gold,True,False,True,True,b'Jim Nelson',0.46
+Sturdy Hatchling,Creature,Elemental,Eventide,Uncommon,5,Gold,True,False,True,False,b'Darrell Riche',0.14
+Trapjaw Kelpie,Creature,Beast,Eventide,Common,8,Gold,True,False,True,False,b'Lars Grant-West',0.07
+Wistful Selkie,Creature,Merfolk Wizard,Eventide,Uncommon,6,Gold,True,False,True,True,b'Mark Tedin',0.33
+Altar Golem,Artifact Creature,Golem,Eventide,Rare,7,Colorless,True,False,True,False,b'Rob Alexander',0.27
+Antler Skulkin,Artifact Creature,Scarecrow,Eventide,Common,5,Colorless,True,False,True,False,b'Dave Kendall',0.18
+Fang Skulkin,Artifact Creature,Scarecrow,Eventide,Common,2,Colorless,True,False,True,False,b'Ron Brown',0.2
+Hoof Skulkin,Artifact Creature,Scarecrow,Eventide,Common,3,Colorless,True,False,True,False,b'Joshua Hagler',0.15
+Jawbone Skulkin,Artifact Creature,Scarecrow,Eventide,Common,1,Colorless,True,False,True,False,b'Jeff Easley',0.2
+Leering Emblem,Artifact,Equipment,Eventide,Rare,2,Colorless,True,False,True,False,b'Ron Brown',0.45
+Scarecrone,Artifact Creature,Scarecrow,Eventide,Rare,3,Colorless,True,False,True,False,b'Jesper Ejsing',15.15
+Shell Skulkin,Artifact Creature,Scarecrow,Eventide,Common,4,Colorless,True,False,True,False,b'Cole Eastburn',0.2
+Ward of Bones,Artifact,None,Eventide,Rare,6,Colorless,True,False,True,False,b'David Martin',11.0
+Cascade Bluffs,Land,None,Eventide,Rare,0,Colorless,True,False,True,True,b'Brandon Kitkouski',10.13
+Fetid Heath,Land,None,Eventide,Rare,0,Colorless,True,False,True,True,b'Daarken',8.65
+Flooded Grove,Land,None,Eventide,Rare,0,Colorless,True,False,True,True,b'Dave Kendall',7.53
+Rugged Prairie,Land,None,Eventide,Rare,0,Colorless,True,False,True,True,b'Fred Fields',6.6
+Springjack Pasture,Land,None,Eventide,Rare,0,Colorless,True,False,True,True,b'Terese Nielsen',1.68
+Twilight Mire,Land,None,Eventide,Rare,0,Colorless,True,False,True,True,b'Rob Alexander',10.11

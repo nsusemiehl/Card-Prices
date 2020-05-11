@@ -1,0 +1,351 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Aegis of Honor,Enchantment,None,Odyssey,Rare,1,White,False,False,True,False,b'Ron Spears',0.56
+Ancestral Tribute,Sorcery,None,Odyssey,Rare,7,White,False,False,True,False,"b'Edward P. Beard, Jr.'",0.27
+Angelic Wall,Creature,Wall,Odyssey,Common,2,White,True,False,True,True,b'John Avon',0.14
+Animal Boneyard,Enchantment,Aura,Odyssey,Uncommon,3,White,False,False,True,False,"b'Edward P. Beard, Jr.'",0.17
+Auramancer,Creature,Human Wizard,Odyssey,Common,3,White,True,False,True,True,b'Rebecca Guay',0.17
+Aven Archer,Creature,Bird Soldier Archer,Odyssey,Uncommon,5,White,False,False,True,False,b'Mark Zug',0.16
+Aven Cloudchaser,Creature,Bird Soldier,Odyssey,Common,4,White,True,False,True,True,b'Justin Sweet',0.14
+Aven Flock,Creature,Bird Soldier,Odyssey,Common,5,White,True,False,True,True,b'Greg Hildebrandt',0.15
+Aven Shrine,Enchantment,None,Odyssey,Rare,3,White,False,False,True,False,b'Wayne England',0.19
+Balancing Act,Sorcery,None,Odyssey,Rare,4,White,False,False,True,False,b'Scott M. Fischer',0.44
+Beloved Chaplain,Creature,Human Cleric,Odyssey,Uncommon,2,White,False,False,True,False,b'Darrell Riche',0.24
+Blessed Orator,Creature,Human Cleric,Odyssey,Uncommon,4,White,True,False,True,True,b'Terese Nielsen',0.08
+Cantivore,Creature,Lhurgoyf,Odyssey,Rare,3,White,False,False,True,False,b'Daren Bader',0.31
+Cease-Fire,Instant,None,Odyssey,Common,3,White,False,False,True,False,b'Darrell Riche',0.06
+Confessor,Creature,Human Cleric,Odyssey,Common,1,White,False,False,True,False,b'John Avon',0.11
+Dedicated Martyr,Creature,Human Cleric,Odyssey,Common,1,White,False,False,True,False,b'Dave Dorman',0.04
+Delaying Shield,Enchantment,None,Odyssey,Rare,4,White,False,False,True,False,b'Luca Zontini',2.32
+Devoted Caretaker,Creature,Human Cleric,Odyssey,Rare,1,White,False,False,True,False,b'Clyde Caldwell',1.22
+Divine Sacrament,Enchantment,None,Odyssey,Rare,3,White,False,False,True,False,b'Ray Lago',1.09
+Dogged Hunter,Creature,Human Nomad,Odyssey,Rare,3,White,False,False,True,False,b'rk post',0.19
+Earnest Fellowship,Enchantment,None,Odyssey,Rare,2,White,False,False,True,False,b'Heather Hudson',0.38
+Embolden,Instant,None,Odyssey,Common,3,White,False,False,True,False,b'Rebecca Guay',0.09
+Gallantry,Instant,None,Odyssey,Uncommon,2,White,False,False,True,True,b'Mark Tedin',0.09
+Graceful Antelope,Creature,Antelope,Odyssey,Rare,4,White,False,False,True,False,b'Heather Hudson',0.2
+Hallowed Healer,Creature,Human Cleric,Odyssey,Common,3,White,False,False,True,False,b'Ben Thompson',0.06
+Karmic Justice,Enchantment,None,Odyssey,Rare,3,White,False,False,True,True,b'Ray Lago',8.1
+Kirtar's Desire,Enchantment,Aura,Odyssey,Common,1,White,False,False,True,False,b'Pete Venters',0.12
+Kirtar's Wrath,Sorcery,None,Odyssey,Rare,6,White,False,False,True,True,b'Kev Walker',0.39
+Lieutenant Kirtar,Legendary Creature,Bird Soldier,Odyssey,Rare,3,White,False,False,True,False,b'Paolo Parente',1.23
+Life Burst,Instant,None,Odyssey,Common,2,White,False,False,True,False,b'John Avon',0.18
+Luminous Guardian,Creature,Human Nomad,Odyssey,Uncommon,4,White,False,False,True,False,b'Terese Nielsen',0.1
+Master Apothecary,Creature,Human Cleric,Odyssey,Rare,3,White,False,False,True,False,b'Terese Nielsen',0.45
+Mystic Crusader,Creature,Human Nomad Mystic,Odyssey,Rare,3,White,False,False,True,False,b'Kev Walker',0.26
+Mystic Penitent,Creature,Human Nomad Mystic,Odyssey,Uncommon,1,White,False,False,True,False,b'Larry Elmore',0.08
+Mystic Visionary,Creature,Human Nomad Mystic,Odyssey,Common,2,White,False,False,True,False,b'Matt Cavotta',0.05
+Mystic Zealot,Creature,Human Nomad Mystic,Odyssey,Common,4,White,False,False,True,True,b'Paolo Parente',0.07
+Nomad Decoy,Creature,Human Nomad,Odyssey,Uncommon,3,White,False,False,True,False,b'Pete Venters',0.05
+Patrol Hound,Creature,Hound,Odyssey,Common,2,White,False,False,True,False,b'Daren Bader',0.06
+"Pianna, Nomad Captain",Legendary Creature,Human Nomad,Odyssey,Rare,3,White,False,False,True,True,b'D. Alexander Gregory',0.4
+Pilgrim of Justice,Creature,Human Cleric,Odyssey,Common,3,White,False,False,True,False,b'Dany Orizio',0.05
+Pilgrim of Virtue,Creature,Human Cleric,Odyssey,Common,3,White,False,False,True,False,b'Massimilano Frezzato',0.13
+Ray of Distortion,Instant,None,Odyssey,Common,4,White,False,False,True,True,b'Carl Critchlow',0.08
+Resilient Wanderer,Creature,Human Nomad,Odyssey,Uncommon,4,White,False,False,True,False,b'Clyde Caldwell',0.2
+Sacred Rites,Instant,None,Odyssey,Common,1,White,False,False,True,False,b'Bradley Williams',0.09
+Second Thoughts,Instant,None,Odyssey,Common,5,White,False,False,True,True,b'Ray Lago',0.08
+Shelter,Instant,None,Odyssey,Common,2,White,True,False,True,True,b'Christopher Moeller',0.22
+Soulcatcher,Creature,Bird Soldier,Odyssey,Uncommon,2,White,False,False,True,True,b'Ron Spencer',0.17
+Sphere of Duty,Enchantment,None,Odyssey,Uncommon,4,White,False,False,True,False,b'Christopher Moeller',0.18
+Sphere of Grace,Enchantment,None,Odyssey,Uncommon,4,White,False,False,True,False,b'Christopher Moeller',0.12
+Sphere of Law,Enchantment,None,Odyssey,Uncommon,4,White,False,False,True,False,b'Christopher Moeller',0.16
+Sphere of Reason,Enchantment,None,Odyssey,Uncommon,4,White,False,False,True,False,b'Christopher Moeller',0.13
+Sphere of Truth,Enchantment,None,Odyssey,Uncommon,4,White,False,False,True,False,b'Christopher Moeller',0.16
+Spiritualize,Instant,None,Odyssey,Uncommon,3,White,False,False,True,False,b'Christopher Moeller',0.25
+Tattoo Ward,Enchantment,Aura,Odyssey,Uncommon,3,White,False,False,True,False,b'Ben Thompson',0.12
+Testament of Faith,Enchantment,None,Odyssey,Uncommon,1,White,False,False,True,False,b'Roger Raupp',0.15
+Tireless Tribe,Creature,Human Nomad,Odyssey,Common,1,White,False,False,True,False,b'Carl Critchlow',0.25
+Wayward Angel,Creature,Angel Horror,Odyssey,Rare,6,White,False,False,True,False,b'Mark Tedin',0.44
+"Aboshan, Cephalid Emperor",Legendary Creature,Cephalid Noble,Odyssey,Rare,6,Blue,False,False,True,False,b'Christopher Moeller',0.52
+Aboshan's Desire,Enchantment,Aura,Odyssey,Common,1,Blue,False,False,True,False,b'Ciruelo',0.17
+Aether Burst,Instant,None,Odyssey,Common,2,Blue,False,False,True,False,b'Adam Rex',0.1
+Amugaba,Creature,Illusion,Odyssey,Rare,7,Blue,False,False,True,False,b'Heather Hudson',0.22
+Aura Graft,Instant,None,Odyssey,Uncommon,2,Blue,True,False,True,True,b'Ray Lago',0.12
+Aven Fisher,Creature,Bird Soldier,Odyssey,Common,4,Blue,True,False,True,True,b'Christopher Moeller',0.1
+Aven Smokeweaver,Creature,Bird Soldier,Odyssey,Uncommon,4,Blue,False,False,True,False,b'Kev Walker',0.09
+Aven Windreader,Creature,Bird Soldier Wizard,Odyssey,Common,5,Blue,True,False,True,True,b'Greg Hildebrandt',0.07
+Balshan Beguiler,Creature,Human Wizard,Odyssey,Uncommon,3,Blue,False,False,True,False,b'Ray Lago',0.14
+Balshan Griffin,Creature,Griffin,Odyssey,Uncommon,5,Blue,False,False,True,False,b'Wayne England',0.06
+Bamboozle,Sorcery,None,Odyssey,Uncommon,3,Blue,False,False,True,False,b'Alan Pollack',0.15
+Battle of Wits,Enchantment,None,Odyssey,Rare,5,Blue,True,False,True,True,b'Mark Brill',0.28
+Careful Study,Sorcery,None,Odyssey,Common,1,Blue,False,False,True,True,b'Scott M. Fischer',1.02
+Cephalid Broker,Creature,Cephalid,Odyssey,Uncommon,4,Blue,False,False,True,True,b'Dave Dorman',0.1
+Cephalid Looter,Creature,Cephalid Rogue,Odyssey,Common,3,Blue,False,False,True,False,b'Keith Garletts',0.11
+Cephalid Retainer,Creature,Cephalid,Odyssey,Rare,4,Blue,False,False,True,False,b'Tony Szczudlo',0.16
+Cephalid Scout,Creature,Cephalid Wizard Scout,Odyssey,Common,2,Blue,False,False,True,False,b'Alan Pollack',0.03
+Cephalid Shrine,Enchantment,None,Odyssey,Rare,3,Blue,False,False,True,False,b'Wayne England',0.17
+Chamber of Manipulation,Enchantment,Aura,Odyssey,Uncommon,4,Blue,False,False,True,False,b'Wayne England',1.46
+Cognivore,Creature,Lhurgoyf,Odyssey,Rare,8,Blue,False,False,True,False,b'Adam Rex',0.24
+Concentrate,Sorcery,None,Odyssey,Uncommon,4,Blue,True,False,True,True,b'Glen Angus',0.18
+Cultural Exchange,Sorcery,None,Odyssey,Rare,6,Blue,False,False,True,False,b'Daren Bader',2.86
+Deluge,Instant,None,Odyssey,Uncommon,3,Blue,True,False,True,True,b'Wayne England',0.1
+Dematerialize,Sorcery,None,Odyssey,Common,4,Blue,False,False,True,False,b'Mike Ploog',0.05
+Divert,Instant,None,Odyssey,Rare,1,Blue,False,False,True,True,b'Christopher Moeller',0.78
+Dreamwinder,Creature,Serpent,Odyssey,Common,4,Blue,False,False,True,False,b'Wayne England',0.07
+Escape Artist,Creature,Human Wizard,Odyssey,Common,2,Blue,False,False,True,False,b'Scott M. Fischer',0.14
+Extract,Sorcery,None,Odyssey,Rare,1,Blue,False,False,True,False,b'Matt Cavotta',4.8
+Fervent Denial,Instant,None,Odyssey,Uncommon,5,Blue,False,False,True,True,b'Scott M. Fischer',0.05
+Immobilizing Ink,Enchantment,Aura,Odyssey,Common,2,Blue,False,False,True,False,b'Darrell Riche',0.14
+Laquatus's Creativity,Sorcery,None,Odyssey,Uncommon,5,Blue,False,False,True,False,b'Don Hazeltine',0.26
+Patron Wizard,Creature,Human Wizard,Odyssey,Rare,3,Blue,False,False,True,False,b'Donato Giancola',10.5
+Pedantic Learning,Enchantment,None,Odyssey,Rare,2,Blue,False,False,True,False,b'Heather Hudson',0.17
+Peek,Instant,None,Odyssey,Common,1,Blue,True,False,True,True,b'Adam Rex',0.42
+Persuasion,Enchantment,Aura,Odyssey,Rare,5,Blue,True,False,True,True,b'Adam Rex',0.33
+Phantom Whelp,Creature,Illusion Hound,Odyssey,Common,2,Blue,False,False,True,False,b'Wayne England',0.03
+Predict,Instant,None,Odyssey,Uncommon,2,Blue,False,False,True,True,b'Rebecca Guay',0.47
+Psionic Gift,Enchantment,Aura,Odyssey,Common,2,Blue,False,False,True,False,b'Dany Orizio',0.17
+Pulsating Illusion,Creature,Illusion,Odyssey,Uncommon,5,Blue,False,False,True,False,b'Arnie Swekel',0.14
+Puppeteer,Creature,Human Wizard,Odyssey,Uncommon,3,Blue,True,False,True,True,b'Scott M. Fischer',0.15
+Repel,Instant,None,Odyssey,Common,4,Blue,False,False,True,True,b'Terese Nielsen',0.1
+Rites of Refusal,Instant,None,Odyssey,Common,2,Blue,False,False,True,False,b'Bradley Williams',0.17
+Scrivener,Creature,Human Wizard,Odyssey,Common,5,Blue,False,False,True,True,b'Kev Walker',0.14
+Shifty Doppelganger,Creature,Shapeshifter,Odyssey,Rare,3,Blue,False,False,True,False,b'Greg Staples',0.39
+Standstill,Enchantment,None,Odyssey,Uncommon,2,Blue,False,False,True,True,b'Heather Hudson',2.09
+Syncopate,Instant,None,Odyssey,Common,2,Blue,True,False,True,True,b'Pete Venters',0.25
+Think Tank,Enchantment,None,Odyssey,Uncommon,3,Blue,False,False,True,False,b'Jim Nelson',0.16
+Thought Devourer,Creature,Beast,Odyssey,Rare,4,Blue,False,False,True,False,b'Jim Nelson',0.41
+Thought Eater,Creature,Beast,Odyssey,Uncommon,2,Blue,False,False,True,False,b'Luca Zontini',0.05
+Thought Nibbler,Creature,Beast,Odyssey,Common,1,Blue,False,False,True,False,b'Arnie Swekel',0.08
+Time Stretch,Sorcery,None,Odyssey,Rare,10,Blue,True,False,True,True,b'Paolo Parente',15.74
+Touch of Invisibility,Sorcery,None,Odyssey,Common,4,Blue,False,False,True,False,b'Eric Peterson',0.06
+Traumatize,Sorcery,None,Odyssey,Rare,5,Blue,True,False,True,True,b'Greg Staples',2.34
+Treetop Sentinel,Creature,Bird Soldier,Odyssey,Uncommon,4,Blue,False,False,True,False,b'Carl Critchlow',0.21
+Unifying Theory,Enchantment,None,Odyssey,Rare,2,Blue,False,False,True,False,b'Ron Spears',0.27
+Upheaval,Sorcery,None,Odyssey,Rare,6,Blue,False,False,False,True,b'Kev Walker',1.71
+Words of Wisdom,Instant,None,Odyssey,Common,2,Blue,False,False,True,False,b'Eric Peterson',0.27
+Afflict,Instant,None,Odyssey,Common,3,Black,True,False,True,True,b'Roger Raupp',0.08
+Bloodcurdler,Creature,Horror,Odyssey,Rare,2,Black,False,False,True,False,b'Adam Rex',0.22
+"Braids, Cabal Minion",Legendary Creature,Human Minion,Odyssey,Rare,4,Black,False,False,False,True,b'Eric Peterson',0.57
+Buried Alive,Sorcery,None,Odyssey,Uncommon,3,Black,False,False,True,True,b'Greg Staples',1.37
+Cabal Inquisitor,Creature,Human Minion,Odyssey,Common,2,Black,False,False,True,False,b'Alex Horley-Orlandelli',0.05
+Cabal Patriarch,Legendary Creature,Human Wizard,Odyssey,Rare,6,Black,False,False,True,False,b'Mark Zug',0.18
+Cabal Shrine,Enchantment,None,Odyssey,Rare,3,Black,False,False,True,False,b'Ben Thompson',0.18
+Caustic Tar,Enchantment,Aura,Odyssey,Uncommon,6,Black,True,False,True,True,b'John Avon',0.12
+Childhood Horror,Creature,Horror,Odyssey,Uncommon,4,Black,False,False,True,False,b'Larry Elmore',0.04
+Coffin Purge,Instant,None,Odyssey,Common,1,Black,False,False,True,True,b'Pete Venters',0.19
+Crypt Creeper,Creature,Zombie,Odyssey,Common,2,Black,True,False,True,True,b'John Matson',0.04
+Cursed Monstrosity,Creature,Horror,Odyssey,Rare,5,Black,False,False,True,False,b'Jeff Remmer',0.19
+Decaying Soil,Enchantment,None,Odyssey,Rare,3,Black,False,False,True,False,b'Don Hazeltine',0.25
+Decompose,Sorcery,None,Odyssey,Uncommon,2,Black,False,False,True,True,b'Tony Szczudlo',0.12
+Diabolic Tutor,Sorcery,None,Odyssey,Uncommon,4,Black,True,False,True,True,b'Rick Farrell',1.29
+Dirty Wererat,Creature,Human Rat Minion,Odyssey,Common,4,Black,False,False,True,True,b'Daren Bader',0.12
+Dusk Imp,Creature,Imp,Odyssey,Common,3,Black,True,False,True,True,"b'Edward P. Beard, Jr.'",0.05
+Entomb,Instant,None,Odyssey,Rare,1,Black,False,False,True,True,b'Ron Spears',11.94
+Execute,Instant,None,Odyssey,Uncommon,3,Black,True,False,True,True,b'Gary Ruddell',0.06
+Face of Fear,Creature,Horror,Odyssey,Uncommon,6,Black,False,False,True,False,b'Thomas M. Baxa',0.08
+Famished Ghoul,Creature,Zombie,Odyssey,Uncommon,4,Black,False,False,True,False,b'Adam Rex',0.1
+Filthy Cur,Creature,Hound,Odyssey,Common,2,Black,False,False,True,False,b'Adam Rex',0.04
+Fledgling Imp,Creature,Imp,Odyssey,Common,3,Black,False,False,True,False,b'John Matson',0.03
+Frightcrawler,Creature,Horror,Odyssey,Common,2,Black,False,False,True,False,b'Matt Cavotta',0.09
+Ghastly Demise,Instant,None,Odyssey,Common,1,Black,False,False,True,True,b'Gary Ruddell',0.37
+Gravedigger,Creature,Zombie,Odyssey,Common,4,Black,True,True,True,True,b'Tony Szczudlo',0.07
+Gravestorm,Enchantment,None,Odyssey,Rare,3,Black,False,False,True,True,b'Alex Horley-Orlandelli',1.28
+Haunting Echoes,Sorcery,None,Odyssey,Rare,5,Black,True,False,True,True,b'Arnie Swekel',0.44
+Hint of Insanity,Sorcery,None,Odyssey,Rare,3,Black,False,False,True,False,b'Luca Zontini',0.22
+Infected Vermin,Creature,Rat,Odyssey,Uncommon,3,Black,False,False,True,False,b'Anthony S. Waters',0.25
+Innocent Blood,Sorcery,None,Odyssey,Common,1,Black,False,False,True,True,b'Carl Critchlow',0.22
+Last Rites,Sorcery,None,Odyssey,Common,3,Black,False,False,True,True,b'Bradley Williams',0.13
+Malevolent Awakening,Enchantment,None,Odyssey,Uncommon,3,Black,False,False,True,False,b'Alex Horley-Orlandelli',0.18
+Mind Burst,Sorcery,None,Odyssey,Common,2,Black,False,False,True,False,b'Marc Fishman',0.03
+Mindslicer,Creature,Horror,Odyssey,Rare,4,Black,True,False,True,True,b'Kev Walker',8.9
+Morbid Hunger,Sorcery,None,Odyssey,Common,6,Black,False,False,True,False,b'Eric Peterson',0.04
+Morgue Theft,Sorcery,None,Odyssey,Common,2,Black,False,False,True,False,b'Justin Sweet',0.18
+Mortivore,Creature,Lhurgoyf,Odyssey,Rare,4,Black,True,False,True,True,b'Anthony S. Waters',1.35
+Nefarious Lich,Enchantment,None,Odyssey,Rare,4,Black,False,False,True,False,b'Jerry Tiritilli',0.34
+Overeager Apprentice,Creature,Human Minion,Odyssey,Common,3,Black,False,False,True,True,b'Ray Lago',0.18
+Painbringer,Creature,Human Minion,Odyssey,Uncommon,4,Black,False,False,True,False,b'Pete Venters',0.13
+Patriarch's Desire,Enchantment,Aura,Odyssey,Common,4,Black,False,False,True,False,b'Eric Peterson',0.05
+Repentant Vampire,Creature,Vampire,Odyssey,Rare,5,Black,False,False,True,False,b'Mark Tedin',0.24
+Rotting Giant,Creature,Zombie Giant,Odyssey,Uncommon,2,Black,False,False,True,False,b'Kev Walker',0.18
+Sadistic Hypnotist,Creature,Human Minion,Odyssey,Uncommon,5,Black,False,False,True,True,b'Paolo Parente',1.54
+Screams of the Damned,Enchantment,None,Odyssey,Uncommon,5,Black,False,False,True,False,b'Jerry Tiritilli',0.04
+Skeletal Scrying,Instant,None,Odyssey,Uncommon,2,Black,False,False,True,True,b'Bob Petillo',0.31
+Skull Fracture,Sorcery,None,Odyssey,Uncommon,1,Black,False,False,True,False,b'Paolo Parente',0.13
+Stalking Bloodsucker,Creature,Vampire,Odyssey,Rare,6,Black,False,False,True,False,b'Greg Staples',0.19
+Tainted Pact,Instant,None,Odyssey,Rare,2,Black,False,False,True,False,b'Adam Rex',39.75
+Tombfire,Sorcery,None,Odyssey,Rare,1,Black,False,False,True,False,b'Arnie Swekel',0.18
+Traveling Plague,Enchantment,Aura,Odyssey,Rare,5,Black,False,False,True,False,b'Dave Dorman',0.2
+Whispering Shade,Creature,Shade,Odyssey,Common,4,Black,False,False,True,False,b'Daren Bader',0.1
+Zombie Assassin,Creature,Zombie Assassin,Odyssey,Common,5,Black,False,False,True,False,b'Pete Venters',0.03
+Zombie Cannibal,Creature,Zombie,Odyssey,Common,1,Black,False,False,True,False,b'Adam Rex',0.18
+Zombie Infestation,Enchantment,None,Odyssey,Uncommon,2,Black,True,False,True,True,b'Thomas M. Baxa',0.57
+Zombify,Sorcery,None,Odyssey,Uncommon,4,Black,True,False,True,True,b'Mark Romanoski',0.27
+Acceptable Losses,Sorcery,None,Odyssey,Common,4,Red,False,False,True,False,b'Mike Ploog',0.04
+Anarchist,Creature,Human Wizard,Odyssey,Common,5,Red,True,False,True,True,b'Greg Hildebrandt',0.16
+Ashen Firebeast,Creature,Elemental Beast,Odyssey,Rare,8,Red,False,False,True,False,b'Mark Tedin',0.22
+Barbarian Lunatic,Creature,Human Barbarian,Odyssey,Common,3,Red,False,False,True,False,b'Ron Spears',0.05
+Bash to Bits,Instant,None,Odyssey,Uncommon,4,Red,False,False,True,False,b'Matt Cavotta',0.11
+Battle Strain,Enchantment,None,Odyssey,Uncommon,2,Red,False,False,True,False,b'Dave Dorman',0.15
+Blazing Salvo,Instant,None,Odyssey,Common,1,Red,False,False,True,True,b'rk post',0.17
+Bomb Squad,Creature,Dwarf,Odyssey,Rare,4,Red,False,False,True,False,b'Greg Hildebrandt',0.53
+Burning Sands,Enchantment,None,Odyssey,Rare,5,Red,False,False,True,False,b'Ron Spencer',2.68
+Chainflinger,Creature,Beast,Odyssey,Common,4,Red,False,False,True,False,b'Scott M. Fischer',0.05
+Chance Encounter,Enchantment,None,Odyssey,Rare,4,Red,False,False,True,False,b'Mark Brill',8.99
+Demolish,Sorcery,None,Odyssey,Uncommon,4,Red,True,True,True,True,b'Gary Ruddell',0.05
+Demoralize,Instant,None,Odyssey,Common,3,Red,False,False,True,False,b'Greg Hildebrandt',0.09
+Dwarven Grunt,Creature,Dwarf,Odyssey,Common,1,Red,False,False,True,False,b'Mike Ploog',0.11
+Dwarven Recruiter,Creature,Dwarf,Odyssey,Uncommon,3,Red,False,False,True,False,b'Ciruelo',0.93
+Dwarven Shrine,Enchantment,None,Odyssey,Rare,3,Red,False,False,True,False,b'Matt Cavotta',0.18
+Dwarven Strike Force,Creature,Dwarf Berserker,Odyssey,Uncommon,5,Red,False,False,True,False,b'Mike Ploog',0.1
+Earth Rift,Sorcery,None,Odyssey,Common,4,Red,False,False,True,False,b'Wayne England',0.22
+Ember Beast,Creature,Beast,Odyssey,Common,3,Red,True,False,True,True,b'Wayne England',0.04
+Engulfing Flames,Instant,None,Odyssey,Uncommon,1,Red,False,False,True,True,b'Marc Fishman',0.06
+Epicenter,Sorcery,None,Odyssey,Rare,5,Red,False,False,True,False,b'Anthony S. Waters',1.04
+Firebolt,Sorcery,None,Odyssey,Common,1,Red,True,False,True,True,b'Ron Spencer',0.25
+Flame Burst,Instant,None,Odyssey,Common,2,Red,False,False,True,False,b'Ron Spencer',0.14
+Frenetic Ogre,Creature,Ogre,Odyssey,Uncommon,5,Red,False,False,True,False,b'Ron Spears',0.23
+Halberdier,Creature,Human Barbarian,Odyssey,Common,4,Red,False,False,True,False,b'Ben Thompson',0.04
+Impulsive Maneuvers,Enchantment,None,Odyssey,Rare,4,Red,False,False,True,False,b'Dave Dorman',2.26
+"Kamahl, Pit Fighter",Legendary Creature,Human Barbarian,Odyssey,Rare,6,Red,True,False,True,True,b'Kev Walker',0.36
+Kamahl's Desire,Enchantment,Aura,Odyssey,Common,2,Red,False,False,True,False,b'Dave Dorman',0.06
+Lava Blister,Sorcery,None,Odyssey,Uncommon,2,Red,False,False,True,False,b'Rob Alexander',0.42
+Liquid Fire,Sorcery,None,Odyssey,Uncommon,6,Red,False,False,True,False,b'Greg Staples',0.03
+Mad Dog,Creature,Hound,Odyssey,Common,2,Red,False,False,True,False,b'Ron Spencer',0.04
+Magma Vein,Enchantment,None,Odyssey,Uncommon,3,Red,False,False,True,False,b'Glen Angus',0.04
+Magnivore,Creature,Lhurgoyf,Odyssey,Rare,4,Red,True,False,True,True,b'Carl Critchlow',0.3
+Mine Layer,Creature,Dwarf,Odyssey,Rare,4,Red,False,False,True,False,b'Mark Brill',3.03
+Minotaur Explorer,Creature,Minotaur Scout,Odyssey,Uncommon,2,Red,False,False,True,False,b'Dave Dorman',0.15
+Molten Influence,Instant,None,Odyssey,Rare,2,Red,False,False,True,False,b'Franz Vohwinkel',1.27
+Mudhole,Instant,None,Odyssey,Rare,3,Red,False,False,True,True,b'Gary Ruddell',0.24
+Need for Speed,Enchantment,None,Odyssey,Rare,1,Red,False,False,True,False,b'Christopher Moeller',0.58
+Obstinate Familiar,Creature,Lizard,Odyssey,Rare,1,Red,False,False,True,False,b'Terese Nielsen',0.54
+Pardic Firecat,Creature,Elemental Cat,Odyssey,Common,4,Red,False,False,True,False,b'Glen Angus',0.13
+Pardic Miner,Creature,Dwarf,Odyssey,Rare,2,Red,False,False,True,False,b'Tony Szczudlo',0.26
+Pardic Swordsmith,Creature,Dwarf,Odyssey,Common,3,Red,False,False,True,False,b'Bob Petillo',0.05
+Price of Glory,Enchantment,None,Odyssey,Uncommon,3,Red,False,False,True,False,b'Darrell Riche',7.83
+Reckless Charge,Sorcery,None,Odyssey,Common,1,Red,True,False,True,True,b'Scott M. Fischer',0.14
+Recoup,Sorcery,None,Odyssey,Uncommon,2,Red,False,False,True,True,b'Dave Dorman',0.29
+Rites of Initiation,Instant,None,Odyssey,Common,1,Red,False,False,True,True,b'Bradley Williams',0.14
+Savage Firecat,Creature,Elemental Cat,Odyssey,Rare,5,Red,False,False,True,False,b'Dave Dorman',0.37
+Scorching Missile,Sorcery,None,Odyssey,Common,4,Red,False,False,True,False,b'Don Hazeltine',0.05
+Seize the Day,Sorcery,None,Odyssey,Rare,4,Red,False,False,True,True,b'Greg Staples',2.72
+Shower of Coals,Sorcery,None,Odyssey,Uncommon,5,Red,False,False,True,False,b'Matt Cavotta',0.11
+Spark Mage,Creature,Dwarf Wizard,Odyssey,Uncommon,1,Red,False,False,True,False,b'Paolo Parente',0.17
+Steam Vines,Enchantment,Aura,Odyssey,Uncommon,3,Red,False,False,True,False,b'Anthony S. Waters',0.07
+Thermal Blast,Instant,None,Odyssey,Common,5,Red,False,False,True,False,b'Franz Vohwinkel',0.02
+Tremble,Sorcery,None,Odyssey,Common,2,Red,False,False,True,False,b'Ciruelo',0.18
+Volcanic Spray,Sorcery,None,Odyssey,Uncommon,2,Red,False,False,True,False,b'Matt Cavotta',0.12
+Volley of Boulders,Sorcery,None,Odyssey,Rare,9,Red,False,False,True,True,b'Tony Szczudlo',0.12
+Whipkeeper,Creature,Dwarf,Odyssey,Uncommon,4,Red,False,False,True,False,b'Ron Spencer',0.17
+Bearscape,Enchantment,None,Odyssey,Rare,3,Green,False,False,True,False,b'Heather Hudson',4.21
+Beast Attack,Instant,None,Odyssey,Uncommon,5,Green,False,False,True,True,b'Ciruelo',0.11
+Call of the Herd,Sorcery,None,Odyssey,Rare,3,Green,True,False,True,True,b'Carl Critchlow',0.5
+Cartographer,Creature,Human,Odyssey,Common,3,Green,False,False,True,True,b'Donato Giancola',0.14
+Chatter of the Squirrel,Sorcery,None,Odyssey,Common,1,Green,False,False,True,True,b'Jim Nelson',0.32
+Chlorophant,Creature,Elemental,Odyssey,Rare,3,Green,False,False,True,False,b'John Avon',0.46
+Crashing Centaur,Creature,Centaur,Odyssey,Uncommon,6,Green,False,False,True,False,b'Eric Peterson',0.11
+Deep Reconnaissance,Sorcery,None,Odyssey,Uncommon,3,Green,False,False,True,False,b'Jeff Remmer',0.13
+Diligent Farmhand,Creature,Human Druid,Odyssey,Common,1,Green,False,False,True,False,b'Gary Ruddell',0.86
+Druid Lyrist,Creature,Human Druid,Odyssey,Common,1,Green,False,False,True,False,b'Mark Zug',0.14
+Druid's Call,Enchantment,Aura,Odyssey,Uncommon,2,Green,False,False,True,False,b'Greg Hildebrandt',1.86
+Elephant Ambush,Instant,None,Odyssey,Common,4,Green,False,False,True,False,b'Anthony S. Waters',0.14
+Gorilla Titan,Creature,Ape,Odyssey,Uncommon,5,Green,False,False,True,False,b'Heather Hudson',0.26
+Ground Seal,Enchantment,None,Odyssey,Rare,2,Green,True,False,True,True,"b'Edward P. Beard, Jr.'",0.58
+Holistic Wisdom,Enchantment,None,Odyssey,Rare,3,Green,False,False,True,False,b'Rebecca Guay',0.55
+Howling Gale,Instant,None,Odyssey,Uncommon,2,Green,False,False,True,False,b'Greg Staples',0.07
+Ivy Elemental,Creature,Elemental,Odyssey,Rare,2,Green,True,True,True,True,b'Ron Spencer',0.21
+Krosan Archer,Creature,Centaur Archer,Odyssey,Common,4,Green,False,False,True,False,b'Ron Spears',0.08
+Krosan Avenger,Creature,Human Druid,Odyssey,Common,3,Green,False,False,True,False,b'D. Alexander Gregory',0.04
+Krosan Beast,Creature,Squirrel Beast,Odyssey,Rare,4,Green,False,False,True,False,b'Kev Walker',2.15
+Leaf Dancer,Creature,Centaur,Odyssey,Common,3,Green,False,False,True,False,b'Greg Hildebrandt',0.03
+Metamorphic Wurm,Creature,Elephant Wurm,Odyssey,Uncommon,5,Green,False,False,True,False,b'Thomas M. Baxa',0.15
+Moment's Peace,Instant,None,Odyssey,Common,2,Green,False,False,True,True,b'Rebecca Guay',0.8
+Muscle Burst,Instant,None,Odyssey,Common,2,Green,False,False,True,False,b'Gary Ruddell',0.13
+Nantuko Disciple,Creature,Insect Druid,Odyssey,Common,4,Green,True,False,True,True,b'Justin Sweet',0.03
+Nantuko Elder,Creature,Insect Druid,Odyssey,Uncommon,3,Green,False,False,True,False,b'Daren Bader',0.19
+Nantuko Mentor,Creature,Insect Druid,Odyssey,Rare,3,Green,False,False,True,False,b'John Matson',0.25
+Nantuko Shrine,Enchantment,None,Odyssey,Rare,3,Green,False,False,True,False,b'Rebecca Guay',0.58
+New Frontiers,Sorcery,None,Odyssey,Rare,2,Green,False,False,True,False,b'Ron Spencer',2.67
+Nimble Mongoose,Creature,Mongoose,Odyssey,Uncommon,1,Green,True,False,True,True,b'Terese Nielsen',0.46
+Nut Collector,Creature,Human Druid,Odyssey,Rare,6,Green,False,False,True,False,b'Christopher Moeller',4.02
+Overrun,Sorcery,None,Odyssey,Uncommon,5,Green,True,False,True,True,b'Carl Critchlow',0.2
+Piper's Melody,Sorcery,None,Odyssey,Uncommon,1,Green,False,False,True,False,b'Greg Hildebrandt',0.2
+Primal Frenzy,Enchantment,Aura,Odyssey,Common,1,Green,False,False,True,False,b'Alex Horley-Orlandelli',0.15
+Rabid Elephant,Creature,Elephant,Odyssey,Common,5,Green,False,False,True,False,b'Dave Dorman',0.08
+Refresh,Instant,None,Odyssey,Common,3,Green,False,False,True,False,b'Keith Garletts',0.07
+Rites of Spring,Sorcery,None,Odyssey,Common,2,Green,False,False,True,False,b'Bradley Williams',0.2
+Roar of the Wurm,Sorcery,None,Odyssey,Uncommon,7,Green,False,False,True,True,b'Kev Walker',0.17
+"Seton, Krosan Protector",Legendary Creature,Centaur Druid,Odyssey,Rare,3,Green,False,False,True,False,b'Greg Staples',0.99
+Seton's Desire,Enchantment,Aura,Odyssey,Common,3,Green,False,False,True,False,b'Ciruelo',0.06
+Simplify,Sorcery,None,Odyssey,Common,1,Green,False,False,True,False,b'Greg Hildebrandt',0.07
+Skyshooter,Creature,Centaur Archer,Odyssey,Uncommon,2,Green,False,False,True,False,b'Jerry Tiritilli',0.15
+Spellbane Centaur,Creature,Centaur,Odyssey,Rare,3,Green,False,False,True,False,b'Rick Farrell',0.29
+Springing Tiger,Creature,Cat,Odyssey,Common,4,Green,False,False,True,False,b'Arnie Swekel',0.09
+Squirrel Mob,Creature,Squirrel,Odyssey,Rare,3,Green,False,False,True,False,b'Carl Critchlow',9.74
+Squirrel Nest,Enchantment,Aura,Odyssey,Uncommon,3,Green,True,False,True,True,b'Anthony S. Waters',0.72
+Still Life,Enchantment,None,Odyssey,Uncommon,3,Green,False,False,True,False,b'Matt Cavotta',0.04
+Stone-Tongue Basilisk,Creature,Basilisk,Odyssey,Rare,7,Green,False,False,True,True,b'Wayne England',0.21
+Sylvan Might,Instant,None,Odyssey,Uncommon,2,Green,False,False,True,True,b'Arnie Swekel',0.13
+Terravore,Creature,Lhurgoyf,Odyssey,Rare,3,Green,False,False,True,True,b'Jim Nelson',1.59
+Twigwalker,Creature,Insect,Odyssey,Uncommon,3,Green,False,False,True,False,b'Carl Critchlow',0.04
+Verdant Succession,Enchantment,None,Odyssey,Rare,5,Green,False,False,True,False,"b'Edward P. Beard, Jr.'",0.31
+Vivify,Instant,None,Odyssey,Uncommon,3,Green,False,False,True,False,b'Greg Staples',0.09
+Werebear,Creature,Human Bear Druid,Odyssey,Common,2,Green,False,False,True,True,b'Carl Critchlow',0.25
+Wild Mongrel,Creature,Hound,Odyssey,Common,2,Green,False,False,True,True,b'Anthony S. Waters',0.2
+Woodland Druid,Creature,Human Druid,Odyssey,Common,1,Green,False,False,True,False,b'Rick Farrell',0.18
+Zoologist,Creature,Human Druid,Odyssey,Rare,4,Green,False,False,True,False,b'Alex Horley-Orlandelli',0.38
+Atogatog,Legendary Creature,Atog,Odyssey,Rare,5,Gold,False,False,True,False,b'Ron Spears',0.42
+Decimate,Sorcery,None,Odyssey,Rare,4,Gold,False,False,True,True,b'Alex Horley-Orlandelli',2.78
+Iridescent Angel,Creature,Angel,Odyssey,Rare,7,Gold,False,False,True,True,b'Matt Cavotta',0.83
+Lithatog,Creature,Atog,Odyssey,Uncommon,3,Gold,False,False,True,False,b'Franz Vohwinkel',0.13
+Mystic Enforcer,Creature,Human Nomad Mystic,Odyssey,Rare,4,Gold,True,False,True,True,b'Gary Ruddell',0.31
+Phantatog,Creature,Atog,Odyssey,Uncommon,3,Gold,False,False,True,False,b'Glen Angus',0.21
+Psychatog,Creature,Atog,Odyssey,Uncommon,3,Gold,False,False,True,True,"b'Edward P. Beard, Jr.'",0.38
+Sarcatog,Creature,Atog,Odyssey,Uncommon,3,Gold,False,False,True,False,b'Mark Brill',0.15
+Shadowmage Infiltrator,Creature,Human Wizard,Odyssey,Rare,3,Gold,True,False,True,True,b'Rick Farrell',0.79
+Thaumatog,Creature,Atog,Odyssey,Uncommon,3,Gold,False,False,True,False,b'Monte Michael Moore',0.21
+Vampiric Dragon,Creature,Vampire Dragon,Odyssey,Rare,8,Gold,False,False,True,True,b'Gary Ruddell',1.13
+Catalyst Stone,Artifact,None,Odyssey,Rare,2,Colorless,False,False,True,False,b'Tony Szczudlo',2.58
+Charmed Pendant,Artifact,None,Odyssey,Rare,4,Colorless,False,False,True,False,b'Anthony S. Waters',0.39
+Darkwater Egg,Artifact,None,Odyssey,Uncommon,1,Colorless,False,False,True,False,b'David Martin',0.24
+Junk Golem,Artifact Creature,Golem,Odyssey,Rare,4,Colorless,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.37
+Limestone Golem,Artifact Creature,Golem,Odyssey,Uncommon,6,Colorless,False,False,True,False,b'Mark Tedin',0.17
+Millikin,Artifact Creature,Construct,Odyssey,Uncommon,2,Colorless,False,False,True,True,b'Alex Horley-Orlandelli',0.67
+Mirari,Legendary Artifact,None,Odyssey,Rare,5,Colorless,True,False,True,True,b'Donato Giancola',0.97
+Mossfire Egg,Artifact,None,Odyssey,Uncommon,1,Colorless,False,False,True,False,b'David Martin',0.17
+Otarian Juggernaut,Artifact Creature,Juggernaut,Odyssey,Rare,4,Colorless,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.17
+Patchwork Gnomes,Artifact Creature,Gnome,Odyssey,Uncommon,3,Colorless,False,False,True,True,b'Jerry Tiritilli',0.12
+Sandstone Deadfall,Artifact,None,Odyssey,Uncommon,3,Colorless,False,False,True,False,b'Jim Nelson',0.08
+Shadowblood Egg,Artifact,None,Odyssey,Uncommon,1,Colorless,False,False,True,False,b'David Martin',0.18
+Skycloud Egg,Artifact,None,Odyssey,Uncommon,1,Colorless,False,False,True,False,b'David Martin',0.28
+Steamclaw,Artifact,None,Odyssey,Uncommon,2,Colorless,False,False,True,False,b'Jim Nelson',0.04
+Sungrass Egg,Artifact,None,Odyssey,Uncommon,1,Colorless,False,False,True,False,b'David Martin',0.24
+Abandoned Outpost,Land,None,Odyssey,Common,0,Colorless,False,False,True,False,"b'Edward P. Beard, Jr.'",0.08
+Barbarian Ring,Land,None,Odyssey,Uncommon,0,Colorless,False,False,True,True,b'John Avon',0.46
+Bog Wreckage,Land,None,Odyssey,Common,0,Colorless,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.15
+Cabal Pit,Land,None,Odyssey,Uncommon,0,Colorless,False,False,True,False,b'John Avon',0.27
+Centaur Garden,Land,None,Odyssey,Uncommon,0,Colorless,False,False,True,True,b'John Avon',0.17
+Cephalid Coliseum,Land,None,Odyssey,Uncommon,0,Colorless,False,False,True,True,b'John Avon',3.77
+Crystal Quarry,Land,None,Odyssey,Rare,0,Colorless,False,False,True,False,b'Alan Pollack',5.93
+Darkwater Catacombs,Land,None,Odyssey,Rare,0,Colorless,False,False,True,True,b'Monte Michael Moore',2.17
+Deserted Temple,Land,None,Odyssey,Rare,0,Colorless,False,False,True,False,b'Rob Alexander',16.01
+Mossfire Valley,Land,None,Odyssey,Rare,0,Colorless,False,False,True,True,b'John Avon',4.59
+Nomad Stadium,Land,None,Odyssey,Uncommon,0,Colorless,False,False,True,False,b'David Martin',0.24
+Petrified Field,Land,None,Odyssey,Rare,0,Colorless,False,False,True,False,b'Glen Angus',6.43
+Ravaged Highlands,Land,None,Odyssey,Common,0,Colorless,False,False,True,False,b'David Martin',0.08
+Seafloor Debris,Land,None,Odyssey,Common,0,Colorless,False,False,True,False,b'Larry Elmore',0.11
+Shadowblood Ridge,Land,None,Odyssey,Rare,0,Colorless,False,False,True,True,b'Glen Angus',3.11
+Skycloud Expanse,Land,None,Odyssey,Rare,0,Colorless,False,False,True,True,b'Rob Alexander',5.9
+Sungrass Prairie,Land,None,Odyssey,Rare,0,Colorless,False,False,True,True,b'Ron Spencer',1.28
+Tarnished Citadel,Land,None,Odyssey,Rare,0,Colorless,False,False,True,False,b'David Martin',19.67
+Timberland Ruins,Land,None,Odyssey,Common,0,Colorless,False,False,True,False,b'Alan Pollack',0.07
+Plains,Basic Land,Plains,Odyssey,Common,0,Colorless,True,True,True,True,b'Alan Pollack',0.29
+Plains,Basic Land,Plains,Odyssey,Common,0,Colorless,True,True,True,True,b'Don Hazeltine',0.24
+Plains,Basic Land,Plains,Odyssey,Common,0,Colorless,True,True,True,True,b'Eric Peterson',1.58
+Plains,Basic Land,Plains,Odyssey,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.35
+Island,Basic Land,Island,Odyssey,Common,0,Colorless,True,True,True,True,b'Alan Pollack',0.35
+Island,Basic Land,Island,Odyssey,Common,0,Colorless,True,True,True,True,b'Ben Thompson',0.32
+Island,Basic Land,Island,Odyssey,Common,0,Colorless,True,True,True,True,b'Larry Elmore',0.47
+Island,Basic Land,Island,Odyssey,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.68
+Swamp,Basic Land,Swamp,Odyssey,Common,0,Colorless,True,True,True,True,b'Jerry Tiritilli',0.24
+Swamp,Basic Land,Swamp,Odyssey,Common,0,Colorless,True,True,True,True,b'Arnie Swekel',0.38
+Swamp,Basic Land,Swamp,Odyssey,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.86
+Swamp,Basic Land,Swamp,Odyssey,Common,0,Colorless,True,True,True,True,b'Alan Pollack',0.43
+Mountain,Basic Land,Mountain,Odyssey,Common,0,Colorless,True,True,True,True,b'Anthony S. Waters',0.43
+Mountain,Basic Land,Mountain,Odyssey,Common,0,Colorless,True,True,True,True,b'Franz Vohwinkel',0.67
+Mountain,Basic Land,Mountain,Odyssey,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.51
+Mountain,Basic Land,Mountain,Odyssey,Common,0,Colorless,True,True,True,True,b'Tony Szczudlo',1.89
+Forest,Basic Land,Forest,Odyssey,Common,0,Colorless,True,True,True,True,b'Larry Elmore',0.46
+Forest,Basic Land,Forest,Odyssey,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.55
+Forest,Basic Land,Forest,Odyssey,Common,0,Colorless,True,True,True,True,b'Jerry Tiritilli',1.2
+Forest,Basic Land,Forest,Odyssey,Common,0,Colorless,True,True,True,True,b'Tony Szczudlo',0.25

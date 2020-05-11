@@ -1,0 +1,79 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Abu Ja'far,Creature,Human,Arabian Nights,Uncommon,1,White,False,False,True,True,"b'Ken Meyer, Jr.'",18.51
+Army of Allah,Instant,None,Arabian Nights,Common,3,White,False,False,True,False,b'Brian Sn\xc3\xb5ddy',11.96
+Camel,Creature,Camel,Arabian Nights,Common,1,White,False,False,True,False,b'Sandra Everingham',2.67
+Eye for an Eye,Instant,None,Arabian Nights,Uncommon,2,White,False,False,True,True,b'Mark Poole',13.11
+Jihad,Enchantment,None,Arabian Nights,Rare,3,White,False,False,True,False,b'Brian Sn\xc3\xb5ddy',42.99
+King Suleiman,Creature,Human Noble,Arabian Nights,Rare,2,White,False,False,True,False,b'Mark Poole',99.51
+Moorish Cavalry,Creature,Human Knight,Arabian Nights,Common,4,White,True,False,True,True,b'Dameon Willich',3.27
+Piety,Instant,None,Arabian Nights,Common,3,White,False,False,True,True,b'Mark Poole',2.0
+Repentant Blacksmith,Creature,Human,Arabian Nights,Rare,2,White,False,False,True,True,b'Drew Tucker',21.28
+Shahrazad,Sorcery,None,Arabian Nights,Rare,2,White,False,False,False,False,b'Kaja Foglio',56.46
+War Elephant,Creature,Elephant,Arabian Nights,Common,4,White,False,False,True,True,b'Kristen Bishop',2.44
+Dandân,Creature,Fish,Arabian Nights,Common,2,Blue,True,False,True,True,b'Drew Tucker',2.64
+Fishliver Oil,Enchantment,Aura,Arabian Nights,Common,2,Blue,True,False,True,True,b'Anson Maddocks',2.44
+Flying Men,Creature,Human,Arabian Nights,Common,1,Blue,True,False,True,True,b'Christopher Rush',8.99
+Giant Tortoise,Creature,Turtle,Arabian Nights,Common,2,Blue,False,False,True,True,b'Kaja Foglio',2.71
+Island Fish Jasconius,Creature,Fish,Arabian Nights,Rare,7,Blue,False,False,True,True,b'Jesper Myrfors',18.99
+Merchant Ship,Creature,Human,Arabian Nights,Uncommon,1,Blue,False,False,True,False,b'Tom W\xc3\xa4nerstrand',15.43
+Old Man of the Sea,Creature,Djinn,Arabian Nights,Rare,3,Blue,False,False,True,True,b'Susan Van Camp',34.47
+Serendib Djinn,Creature,Djinn,Arabian Nights,Rare,4,Blue,False,False,True,True,b'Anson Maddocks',8.0
+Serendib Efreet,Creature,Efreet,Arabian Nights,Rare,3,Blue,False,False,True,True,b'Anson Maddocks',54.99
+Sindbad,Creature,Human,Arabian Nights,Uncommon,2,Blue,True,False,True,True,b'Julie Baroh',16.06
+Unstable Mutation,Enchantment,Aura,Arabian Nights,Common,1,Blue,True,False,True,True,b'Douglas Shuler',3.78
+Cuombajj Witches,Creature,Human Wizard,Arabian Nights,Common,2,Black,False,False,True,True,b'Kaja Foglio',5.46
+El-Hajjâj,Creature,Human Wizard,Arabian Nights,Rare,3,Black,False,False,True,True,b'Dameon Willich',23.66
+Erg Raiders,Creature,Human Warrior,Arabian Nights,Common,2,Black,False,False,True,True,b'Dameon Willich',3.81
+Guardian Beast,Creature,Beast,Arabian Nights,Rare,4,Black,False,False,True,True,"b'Ken Meyer, Jr.'",10.99
+Hasran Ogress,Creature,Ogre,Arabian Nights,Common,2,Black,False,False,True,True,b'Dan Frazier',2.31
+Junún Efreet,Creature,Efreet,Arabian Nights,Rare,3,Black,False,False,True,True,b'Christopher Rush',33.31
+Juzám Djinn,Creature,Djinn,Arabian Nights,Rare,4,Black,False,False,True,True,b'Mark Tedin',49.99
+Khabál Ghoul,Creature,Zombie,Arabian Nights,Uncommon,3,Black,False,False,True,True,b'Douglas Shuler',69.33
+Oubliette,Enchantment,None,Arabian Nights,Common,3,Black,False,False,True,True,b'Douglas Shuler',22.38
+Sorceress Queen,Creature,Human Wizard,Arabian Nights,Uncommon,3,Black,False,False,True,True,b'Kaja Foglio',57.31
+Stone-Throwing Devils,Creature,Devil,Arabian Nights,Common,1,Black,False,False,True,False,"b'Ken Meyer, Jr.'",9.24
+Aladdin,Creature,Human Rogue,Arabian Nights,Rare,4,Red,False,False,True,True,b'Julie Baroh',48.52
+Ali Baba,Creature,Human Rogue,Arabian Nights,Uncommon,1,Red,False,False,True,True,b'Julie Baroh',11.79
+Ali from Cairo,Creature,Human,Arabian Nights,Rare,4,Red,False,False,True,True,b'Mark Poole',4.95
+Bird Maiden,Creature,Human Bird,Arabian Nights,Common,3,Red,False,False,True,True,b'Kaja Foglio',3.33
+Desert Nomads,Creature,Human Nomad,Arabian Nights,Common,3,Red,False,False,True,False,b'Christopher Rush',2.59
+Hurr Jackal,Creature,Jackal,Arabian Nights,Common,1,Red,False,False,True,True,b'Drew Tucker',2.92
+Kird Ape,Creature,Ape,Arabian Nights,Common,1,Red,True,False,True,True,"b'Ken Meyer, Jr.'",12.71
+Magnetic Mountain,Enchantment,None,Arabian Nights,Uncommon,3,Red,False,False,True,True,b'Susan Van Camp',8.16
+Mijae Djinn,Creature,Djinn,Arabian Nights,Rare,3,Red,False,False,True,True,b'Susan Van Camp',32.88
+Rukh Egg,Creature,Bird Egg,Arabian Nights,Common,4,Red,True,False,True,True,b'Christopher Rush',10.29
+Ydwen Efreet,Creature,Efreet,Arabian Nights,Rare,3,Red,False,False,True,True,b'Drew Tucker',79.97
+Cyclone,Enchantment,None,Arabian Nights,Uncommon,4,Green,False,False,True,True,b'Mark Tedin',12.69
+Desert Twister,Sorcery,None,Arabian Nights,Uncommon,6,Green,False,False,True,True,b'Susan Van Camp',21.21
+Drop of Honey,Enchantment,None,Arabian Nights,Rare,1,Green,False,False,True,True,b'Anson Maddocks',19.96
+Erhnam Djinn,Creature,Djinn,Arabian Nights,Rare,4,Green,False,False,True,True,"b'Ken Meyer, Jr.'",99.99
+Ghazbán Ogre,Creature,Ogre,Arabian Nights,Common,1,Green,False,False,True,True,b'Jesper Myrfors',3.02
+Ifh-Bíff Efreet,Creature,Efreet,Arabian Nights,Rare,4,Green,False,False,True,True,b'Jesper Myrfors',98.25
+Metamorphosis,Sorcery,None,Arabian Nights,Common,1,Green,False,False,True,True,b'Christopher Rush',1.88
+Nafs Asp,Creature,Snake,Arabian Nights,Common,1,Green,False,False,True,True,b'Christopher Rush',3.08
+Sandstorm,Instant,None,Arabian Nights,Common,1,Green,False,False,True,True,b'Brian Sn\xc3\xb5ddy',2.16
+Singing Tree,Creature,Plant,Arabian Nights,Rare,4,Green,False,False,True,True,b'Rob Alexander',88.1
+Wyluli Wolf,Creature,Wolf,Arabian Nights,Common,2,Green,False,False,True,True,b'Susan Van Camp',3.19
+Aladdin's Lamp,Artifact,None,Arabian Nights,Rare,1,Colorless,False,False,True,True,b'Mark Tedin',26.89
+Aladdin's Ring,Artifact,None,Arabian Nights,Rare,8,Colorless,True,False,True,True,b'Dan Frazier',19.99
+Bottle of Suleiman,Artifact,None,Arabian Nights,Rare,4,Colorless,False,False,True,True,b'Jesper Myrfors',22.26
+Brass Man,Artifact Creature,Construct,Arabian Nights,Uncommon,1,Colorless,False,False,True,True,b'Christopher Rush',13.15
+City in a Bottle,Artifact,None,Arabian Nights,Rare,2,Colorless,False,False,True,True,b'Drew Tucker',99.95
+Dancing Scimitar,Artifact Creature,Spirit,Arabian Nights,Rare,4,Colorless,True,False,True,True,b'Anson Maddocks',25.12
+Ebony Horse,Artifact,None,Arabian Nights,Rare,3,Colorless,False,False,True,True,b'Dameon Willich',16.02
+Flying Carpet,Artifact,None,Arabian Nights,Uncommon,4,Colorless,True,False,True,True,b'Mark Tedin',15.67
+Jandor's Ring,Artifact,None,Arabian Nights,Rare,6,Colorless,False,False,True,True,b'Dan Frazier',20.62
+Jandor's Saddlebags,Artifact,None,Arabian Nights,Rare,2,Colorless,False,False,True,True,b'Dameon Willich',22.82
+Jeweled Bird,Artifact,None,Arabian Nights,Uncommon,1,Colorless,False,False,False,True,b'Amy Weber',14.96
+Pyramids,Artifact,None,Arabian Nights,Rare,6,Colorless,False,False,True,False,b'Amy Weber',81.67
+Ring of Ma'rûf,Artifact,None,Arabian Nights,Rare,5,Colorless,False,False,True,True,b'Dan Frazier',77.49
+Sandals of Abdallah,Artifact,None,Arabian Nights,Uncommon,4,Colorless,False,False,True,False,b'Dan Frazier',17.1
+Bazaar of Baghdad,Land,None,Arabian Nights,Uncommon,0,Colorless,False,False,True,True,b'Jeff A. Menges',99.99
+City of Brass,Land,None,Arabian Nights,Uncommon,0,Colorless,True,False,True,True,b'Mark Tedin',20.09
+Desert,Land,Desert,Arabian Nights,Common,0,Colorless,True,False,True,True,b'Jesper Myrfors',6.38
+Diamond Valley,Land,None,Arabian Nights,Uncommon,0,Colorless,False,False,True,True,b'Brian Sn\xc3\xb5ddy',50.99
+Elephant Graveyard,Land,None,Arabian Nights,Rare,0,Colorless,False,False,True,True,b'Rob Alexander',10.05
+Island of Wak-Wak,Land,None,Arabian Nights,Rare,0,Colorless,False,False,True,True,b'Douglas Shuler',87.82
+Library of Alexandria,Land,None,Arabian Nights,Uncommon,0,Colorless,False,False,False,True,b'Mark Poole',99.99
+Mountain,Basic Land,Mountain,Arabian Nights,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',42.22
+Oasis,Land,None,Arabian Nights,Uncommon,0,Colorless,False,False,True,True,b'Brian Sn\xc3\xb5ddy',17.09

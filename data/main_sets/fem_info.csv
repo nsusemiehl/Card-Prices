@@ -1,0 +1,68 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Farrel's Mantle,Enchantment,Aura,Fallen Empires,Uncommon,3,White,False,False,True,True,b'Anthony S. Waters',0.14
+Farrelite Priest,Creature,Human Cleric,Fallen Empires,Uncommon,3,White,False,False,True,False,b'Phil Foglio',0.16
+Hand of Justice,Creature,Avatar,Fallen Empires,Rare,6,White,False,False,True,True,b'Melissa A. Benson',0.63
+Heroism,Enchantment,None,Fallen Empires,Uncommon,3,White,False,False,True,False,b'Mark Poole',0.11
+Icatian Lieutenant,Creature,Human Soldier,Fallen Empires,Rare,2,White,False,False,True,True,b'Pete Venters',0.6
+Icatian Phalanx,Creature,Human Soldier,Fallen Empires,Uncommon,5,White,False,False,True,True,b'Kaja Foglio',0.13
+Icatian Priest,Creature,Human Cleric,Fallen Empires,Uncommon,1,White,True,False,True,True,b'Drew Tucker',0.15
+Icatian Skirmishers,Creature,Human Soldier,Fallen Empires,Rare,4,White,False,False,True,False,b'Heather Hudson',0.41
+Icatian Town,Sorcery,None,Fallen Empires,Rare,6,White,False,False,True,True,b'Tom W\xc3\xa4nerstrand',0.26
+Deep Spawn,Creature,Homarid,Fallen Empires,Uncommon,8,Blue,False,False,True,True,b'Mark Tedin',0.21
+Homarid Shaman,Creature,Homarid Shaman,Fallen Empires,Rare,4,Blue,False,False,True,False,b'Amy Weber',0.44
+Homarid Spawning Bed,Enchantment,None,Fallen Empires,Uncommon,2,Blue,False,False,True,True,b'Douglas Shuler',0.23
+River Merfolk,Creature,Merfolk,Fallen Empires,Rare,2,Blue,False,False,True,True,b'Douglas Shuler',0.74
+Seasinger,Creature,Merfolk,Fallen Empires,Uncommon,3,Blue,False,False,True,True,b'Amy Weber',0.23
+Svyelunite Priest,Creature,Merfolk Cleric,Fallen Empires,Uncommon,2,Blue,False,False,True,False,b'Ron Spencer',0.09
+Tidal Influence,Enchantment,None,Fallen Empires,Uncommon,3,Blue,False,False,True,False,b'Tom W\xc3\xa4nerstrand',0.11
+Vodalian Knights,Creature,Merfolk Knight,Fallen Empires,Rare,3,Blue,False,False,True,True,b'Susan Van Camp',0.44
+Vodalian War Machine,Creature,Wall,Fallen Empires,Rare,3,Blue,False,False,True,False,b'Amy Weber',0.45
+Breeding Pit,Enchantment,None,Fallen Empires,Uncommon,4,Black,False,False,True,True,b'Anson Maddocks',0.26
+Derelor,Creature,Thrull,Fallen Empires,Rare,4,Black,False,False,True,True,b'Anson Maddocks',0.38
+Ebon Praetor,Creature,Avatar Praetor,Fallen Empires,Rare,6,Black,False,False,True,True,b'Randy Asplund-Faith',0.83
+Soul Exchange,Sorcery,None,Fallen Empires,Uncommon,2,Black,False,False,True,True,b'Anthony S. Waters',0.36
+Thrull Champion,Creature,Thrull,Fallen Empires,Rare,5,Black,False,False,True,True,b'Daniel Gelon',0.53
+Thrull Retainer,Enchantment,Aura,Fallen Empires,Uncommon,1,Black,False,False,True,True,b'Ron Spencer',0.32
+Thrull Wizard,Creature,Thrull Wizard,Fallen Empires,Uncommon,3,Black,False,False,True,False,b'Anson Maddocks',0.21
+Tourach's Chant,Enchantment,None,Fallen Empires,Uncommon,3,Black,False,False,True,False,b'Richard Kane Ferguson',0.12
+Tourach's Gate,Enchantment,Aura,Fallen Empires,Rare,3,Black,False,False,True,False,b'Sandra Everingham',0.43
+Dwarven Armorer,Creature,Dwarf,Fallen Empires,Rare,1,Red,False,False,True,False,b'Bryon Wackwitz',0.63
+Dwarven Catapult,Instant,None,Fallen Empires,Uncommon,2,Red,False,False,True,True,b'Jeff A. Menges',0.22
+Dwarven Lieutenant,Creature,Dwarf Soldier,Fallen Empires,Uncommon,2,Red,False,False,True,False,b'Jeff A. Menges',0.22
+Goblin Flotilla,Creature,Goblin,Fallen Empires,Rare,3,Red,False,False,True,False,b'Tom W\xc3\xa4nerstrand',0.46
+Goblin Kites,Enchantment,None,Fallen Empires,Uncommon,2,Red,False,False,True,False,b'Anson Maddocks',0.13
+Goblin Warrens,Enchantment,None,Fallen Empires,Rare,3,Red,False,False,True,True,b'Dan Frazier',1.31
+Orcish Captain,Creature,Orc Warrior,Fallen Empires,Uncommon,1,Red,False,False,True,True,b'Mark Tedin',0.16
+Orgg,Creature,Orgg,Fallen Empires,Rare,5,Red,True,False,True,True,b'Daniel Gelon',0.27
+Raiding Party,Enchantment,None,Fallen Empires,Uncommon,3,Red,False,False,True,False,b'Quinton Hoover',0.11
+Elvish Farmer,Creature,Elf,Fallen Empires,Rare,2,Green,False,False,True,True,b'Richard Kane Ferguson',1.66
+Feral Thallid,Creature,Fungus,Fallen Empires,Uncommon,6,Green,False,False,True,True,b'Rob Alexander',0.22
+Fungal Bloom,Enchantment,None,Fallen Empires,Rare,2,Green,False,False,True,True,b'Daniel Gelon',0.96
+Spore Flower,Creature,Fungus,Fallen Empires,Uncommon,2,Green,False,False,True,True,b'Margaret Organ-Kean',0.43
+Thallid Devourer,Creature,Fungus,Fallen Empires,Uncommon,3,Green,False,False,True,True,b'Ron Spencer',0.34
+Thelon's Chant,Enchantment,None,Fallen Empires,Uncommon,3,Green,False,False,True,False,b'Melissa A. Benson',0.14
+Thelon's Curse,Enchantment,None,Fallen Empires,Rare,2,Green,False,False,True,False,b'Pete Venters',0.48
+Thelonite Druid,Creature,Human Cleric Druid,Fallen Empires,Uncommon,3,Green,False,False,True,True,b'Margaret Organ-Kean',0.19
+Thelonite Monk,Creature,Insect Monk Cleric,Fallen Empires,Rare,4,Green,False,False,True,False,b'Bryon Wackwitz',0.51
+Aeolipile,Artifact,None,Fallen Empires,Rare,2,Colorless,False,False,True,True,b'Heather Hudson',0.92
+Balm of Restoration,Artifact,None,Fallen Empires,Rare,2,Colorless,False,False,True,False,b'Margaret Organ-Kean',0.45
+Conch Horn,Artifact,None,Fallen Empires,Rare,2,Colorless,False,False,True,False,b'Phil Foglio',1.4
+Delif's Cone,Artifact,None,Fallen Empires,Uncommon,0,Colorless,False,False,True,False,b'Mark Tedin',0.16
+Delif's Cube,Artifact,None,Fallen Empires,Rare,1,Colorless,False,False,True,False,b'Mark Tedin',0.53
+Draconian Cylix,Artifact,None,Fallen Empires,Rare,3,Colorless,False,False,True,False,"b'Edward P. Beard, Jr.'",0.45
+Elven Lyre,Artifact,None,Fallen Empires,Rare,2,Colorless,False,False,True,True,b'Kaja Foglio',0.33
+Implements of Sacrifice,Artifact,None,Fallen Empires,Rare,2,Colorless,False,False,True,False,b'Margaret Organ-Kean',0.55
+Ring of Renewal,Artifact,None,Fallen Empires,Rare,5,Colorless,False,False,True,True,b'Douglas Shuler',0.42
+Spirit Shield,Artifact,None,Fallen Empires,Rare,3,Colorless,False,False,True,False,b'Scott Kirschner',0.41
+Zelyon Sword,Artifact,None,Fallen Empires,Rare,3,Colorless,False,False,True,False,b'Scott Kirschner',0.61
+Bottomless Vault,Land,None,Fallen Empires,Rare,0,Colorless,False,False,True,True,b'Pat Morrissey',1.0
+Dwarven Hold,Land,None,Fallen Empires,Rare,0,Colorless,False,False,True,True,b'Pat Morrissey',0.84
+Dwarven Ruins,Land,None,Fallen Empires,Uncommon,0,Colorless,False,False,True,True,b'Mark Poole',0.3
+Ebon Stronghold,Land,None,Fallen Empires,Uncommon,0,Colorless,False,False,True,True,b'Mark Poole',0.34
+Havenwood Battleground,Land,None,Fallen Empires,Uncommon,0,Colorless,False,False,True,True,b'Mark Poole',0.23
+Hollow Trees,Land,None,Fallen Empires,Rare,0,Colorless,False,False,True,True,b'Pat Morrissey',0.79
+Icatian Store,Land,None,Fallen Empires,Rare,0,Colorless,False,False,True,True,b'Pat Morrissey',0.68
+Rainbow Vale,Land,None,Fallen Empires,Rare,0,Colorless,False,False,True,True,b'Kaja Foglio',1.87
+Ruins of Trokair,Land,None,Fallen Empires,Uncommon,0,Colorless,False,False,True,True,b'Mark Poole',0.2
+Sand Silos,Land,None,Fallen Empires,Rare,0,Colorless,False,False,True,True,b'Pat Morrissey',0.72
+Svyelunite Temple,Land,None,Fallen Empires,Uncommon,0,Colorless,False,False,True,True,b'Mark Poole',0.24

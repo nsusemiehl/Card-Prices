@@ -1,0 +1,281 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+"Karn, Scion of Urza",Legendary Planeswalker,Karn,Dominaria,Mythic Rare,4,Colorless,True,False,True,True,b'Chase Stone',6.26
+Adamant Will,Instant,None,Dominaria,Common,2,White,True,False,True,False,b'Alex Konstad',0.07
+Aven Sentry,Creature,Bird Soldier,Dominaria,Common,4,White,True,False,True,True,b'Dan Scott',0.03
+"Baird, Steward of Argive",Legendary Creature,Human Soldier,Dominaria,Uncommon,4,White,True,False,True,True,b'Christine Choi',0.37
+Benalish Honor Guard,Creature,Human Knight,Dominaria,Common,2,White,True,False,True,False,b'Ryan Pancoast',0.04
+Benalish Marshal,Creature,Human Knight,Dominaria,Rare,3,White,True,False,True,True,b'Mark Zug',0.63
+Blessed Light,Instant,None,Dominaria,Common,5,White,True,False,True,False,b'Anthony Palumbo',0.04
+Board the Weatherlight,Sorcery,None,Dominaria,Uncommon,2,White,True,False,True,False,b'Tyler Jacobson',0.15
+Call the Cavalry,Sorcery,None,Dominaria,Common,4,White,True,False,True,True,b'Scott Murphy',0.04
+Charge,Instant,None,Dominaria,Common,1,White,True,False,True,True,b'Zezhou Chen',0.03
+D'Avenant Trapper,Creature,Human Archer,Dominaria,Common,3,White,True,False,True,False,b'Winona Nelson',0.03
+"Danitha Capashen, Paragon",Legendary Creature,Human Knight,Dominaria,Uncommon,3,White,True,False,True,True,b'Chris Rallis',0.51
+Daring Archaeologist,Creature,Human Artificer,Dominaria,Rare,4,White,True,False,True,True,b'Sidharth Chaturvedi',0.12
+Dauntless Bodyguard,Creature,Human Knight,Dominaria,Uncommon,1,White,True,False,True,False,b'Manuel Casta\xc3\xb1\xc3\xb3n',0.23
+Dub,Enchantment,Aura,Dominaria,Common,3,White,True,False,True,False,b'Bastien L. Deharme',0.07
+"Evra, Halcyon Witness",Legendary Creature,Avatar,Dominaria,Rare,6,White,True,False,True,True,b'Johannes Voss',0.21
+Excavation Elephant,Creature,Elephant,Dominaria,Common,5,White,True,False,True,True,b'Viktor Titov',0.03
+Fall of the Thran,Enchantment,Saga,Dominaria,Rare,6,White,True,False,True,True,b'Jason Felix',0.23
+Gideon's Reproach,Instant,None,Dominaria,Common,2,White,True,False,True,True,b'Izzy',0.03
+Healing Grace,Instant,None,Dominaria,Common,1,White,True,False,True,True,b'Magali Villeneuve',0.04
+History of Benalia,Enchantment,Saga,Dominaria,Mythic Rare,3,White,True,False,True,True,b'Noah Bradley',2.69
+Invoke the Divine,Instant,None,Dominaria,Common,3,White,True,False,True,True,b'Magali Villeneuve',0.07
+Knight of Grace,Creature,Human Knight,Dominaria,Uncommon,2,White,True,False,True,False,b'Sidharth Chaturvedi',0.13
+Knight of New Benalia,Creature,Human Knight,Dominaria,Common,2,White,True,False,True,False,b'Josu Hernaiz',0.04
+"Kwende, Pride of Femeref",Legendary Creature,Human Knight,Dominaria,Uncommon,4,White,True,False,True,True,b'Daarken',0.15
+Lyra Dawnbringer,Legendary Creature,Angel,Dominaria,Mythic Rare,5,White,True,False,True,True,b'Chris Rahn',6.23
+Mesa Unicorn,Creature,Unicorn,Dominaria,Common,2,White,True,False,True,True,b'Winona Nelson',0.04
+On Serra's Wings,Legendary Enchantment,Aura,Dominaria,Uncommon,4,White,True,False,True,False,b'Johannes Voss',0.2
+Pegasus Courser,Creature,Pegasus,Dominaria,Common,3,White,True,False,True,True,b'Mathias Kollros',0.04
+Sanctum Spirit,Creature,Spirit,Dominaria,Uncommon,4,White,True,False,True,False,b'Nils Hamm',0.04
+Seal Away,Enchantment,None,Dominaria,Uncommon,2,White,True,False,True,False,b'Joseph Meehan',0.33
+Sergeant-at-Arms,Creature,Human Soldier,Dominaria,Common,3,White,True,False,True,False,b'Scott Murphy',0.03
+Serra Angel,Creature,Angel,Dominaria,Uncommon,5,White,True,False,True,True,b'Donato Giancola',0.1
+Serra Disciple,Creature,Bird Cleric,Dominaria,Common,2,White,True,False,True,True,b'Victor Adame Minguez',0.03
+"Shalai, Voice of Plenty",Legendary Creature,Angel,Dominaria,Rare,4,White,True,False,True,True,b'Victor Adame Minguez',4.83
+"Teshar, Ancestor's Apostle",Legendary Creature,Bird Cleric,Dominaria,Rare,4,White,True,False,True,True,b'Even Amundsen',0.32
+Tragic Poet,Creature,Human,Dominaria,Common,1,White,True,False,True,True,b'Anthony Palumbo',0.04
+Triumph of Gerrard,Enchantment,Saga,Dominaria,Uncommon,2,White,True,False,True,False,b'Daniel Ljunggren',0.1
+Urza's Ruinous Blast,Legendary Sorcery,None,Dominaria,Rare,5,White,True,False,True,True,b'Noah Bradley',0.55
+Academy Drake,Creature,Drake,Dominaria,Common,3,Blue,True,False,True,False,b'Svetlin Velinov',0.02
+Academy Journeymage,Creature,Human Wizard,Dominaria,Common,5,Blue,True,False,True,True,b'Magali Villeneuve',0.04
+The Antiquities War,Enchantment,Saga,Dominaria,Rare,4,Blue,True,False,True,True,b'Mark Tedin',0.47
+Arcane Flight,Enchantment,Aura,Dominaria,Common,1,Blue,True,False,True,False,b'Steve Prescott',0.07
+Artificer's Assistant,Creature,Bird,Dominaria,Common,1,Blue,True,False,True,True,b'Chris Seaman',0.14
+Befuddle,Instant,None,Dominaria,Common,3,Blue,True,True,True,True,b'Svetlin Velinov',0.04
+Blink of an Eye,Instant,None,Dominaria,Common,2,Blue,True,False,True,False,b'Igor Kieryluk',0.14
+Cloudreader Sphinx,Creature,Sphinx,Dominaria,Common,5,Blue,True,False,True,True,b'Kev Walker',0.03
+Cold-Water Snapper,Creature,Turtle,Dominaria,Common,6,Blue,True,False,True,False,b'Jason Kang',0.05
+Curator's Ward,Enchantment,Aura,Dominaria,Uncommon,3,Blue,True,False,True,False,b'Josu Hernaiz',0.23
+Deep Freeze,Enchantment,Aura,Dominaria,Common,3,Blue,True,False,True,True,b'Svetlin Velinov',0.08
+Diligent Excavator,Creature,Human Artificer,Dominaria,Uncommon,2,Blue,True,False,True,False,b'Mark Behm',0.09
+Divination,Sorcery,None,Dominaria,Common,3,Blue,True,False,True,True,b'Matt Stewart',0.08
+Homarid Explorer,Creature,Homarid Scout,Dominaria,Common,4,Blue,True,False,True,False,b'Jehan Choo',0.04
+In Bolas's Clutches,Legendary Enchantment,Aura,Dominaria,Uncommon,6,Blue,True,False,True,False,b'Zack Stella',0.1
+Karn's Temporal Sundering,Legendary Sorcery,None,Dominaria,Rare,6,Blue,True,False,True,True,b'Noah Bradley',1.23
+Merfolk Trickster,Creature,Merfolk Wizard,Dominaria,Uncommon,2,Blue,True,False,True,False,b'Jesper Ejsing',0.74
+The Mirari Conjecture,Enchantment,Saga,Dominaria,Rare,5,Blue,True,False,True,True,b'James Arnold',0.26
+"Naban, Dean of Iteration",Legendary Creature,Human Wizard,Dominaria,Rare,2,Blue,True,False,True,True,b'Ryan Alexander Lee',0.36
+"Naru Meha, Master Wizard",Legendary Creature,Human Wizard,Dominaria,Mythic Rare,4,Blue,True,False,True,True,b'Matt Stewart',1.31
+Opt,Instant,None,Dominaria,Common,1,Blue,True,True,True,True,b'Tyler Jacobson',0.16
+Precognition Field,Enchantment,None,Dominaria,Rare,4,Blue,True,False,True,True,b'Adam Paquette',0.32
+Relic Runner,Creature,Human Rogue,Dominaria,Common,2,Blue,True,False,True,False,b'Josu Hernaiz',0.01
+Rescue,Instant,None,Dominaria,Common,1,Blue,True,False,True,True,b'Joe Slucher',0.03
+Sage of Lat-Nam,Creature,Human Artificer,Dominaria,Uncommon,2,Blue,True,False,True,True,b'Matt Stewart',0.05
+Sentinel of the Pearl Trident,Creature,Merfolk Soldier,Dominaria,Uncommon,5,Blue,True,False,True,False,b'Jonas De Ro',0.04
+"Slinn Voda, the Rising Deep",Legendary Creature,Leviathan,Dominaria,Uncommon,8,Blue,True,False,True,True,b'Grzegorz Rutkowski',0.17
+Syncopate,Instant,None,Dominaria,Common,2,Blue,True,False,True,True,b'Tommy Arnold',0.1
+Tempest Djinn,Creature,Djinn,Dominaria,Rare,3,Blue,True,False,True,True,b'Zezhou Chen',0.82
+"Tetsuko Umezawa, Fugitive",Legendary Creature,Human Rogue,Dominaria,Uncommon,2,Blue,True,False,True,True,b'Randy Vargas',0.45
+Time of Ice,Enchantment,Saga,Dominaria,Uncommon,4,Blue,True,False,True,False,b'Franz Vohwinkel',0.1
+Tolarian Scholar,Creature,Human Wizard,Dominaria,Common,3,Blue,True,False,True,True,b'Sara Winters',0.02
+Unwind,Instant,None,Dominaria,Common,3,Blue,True,False,True,False,b'Anna Steinbauer',0.32
+Vodalian Arcanist,Creature,Merfolk Wizard,Dominaria,Common,2,Blue,True,False,True,False,b'Tyler Walpole',0.03
+Weight of Memory,Sorcery,None,Dominaria,Uncommon,5,Blue,True,False,True,False,b'Eric Deschamps',0.04
+Wizard's Retort,Instant,None,Dominaria,Uncommon,3,Blue,True,False,True,False,b'Grzegorz Rutkowski',0.65
+"Zahid, Djinn of the Lamp",Legendary Creature,Djinn,Dominaria,Rare,6,Blue,True,False,True,True,b'Magali Villeneuve',0.13
+Blessing of Belzenlok,Instant,None,Dominaria,Common,1,Black,True,False,True,True,b'Joe Slucher',0.04
+Cabal Evangel,Creature,Human Cleric,Dominaria,Common,2,Black,True,False,True,False,b'Lius Lasahido',0.02
+Cabal Paladin,Creature,Human Knight,Dominaria,Common,4,Black,True,False,True,False,b'Lius Lasahido',0.03
+Caligo Skin-Witch,Creature,Human Wizard,Dominaria,Common,2,Black,True,False,True,True,b'Daarken',0.04
+Cast Down,Instant,None,Dominaria,Uncommon,2,Black,True,False,True,True,b'Bastien L. Deharme',0.35
+Chainer's Torment,Enchantment,Saga,Dominaria,Uncommon,4,Black,True,False,True,False,b'Vincent Proce',0.09
+Dark Bargain,Instant,None,Dominaria,Common,4,Black,True,True,True,True,b'Tyler Jacobson',0.1
+Deathbloom Thallid,Creature,Fungus,Dominaria,Common,3,Black,True,False,True,False,b'Mike Burns',0.05
+Demonic Vigor,Enchantment,Aura,Dominaria,Common,1,Black,True,False,True,True,b'Zoltan Boros',0.09
+Demonlord Belzenlok,Legendary Creature,Elder Demon,Dominaria,Mythic Rare,6,Black,True,False,True,True,b'Tyler Jacobson',0.94
+Divest,Sorcery,None,Dominaria,Common,1,Black,True,False,True,False,b'Jesper Ejsing',0.13
+Dread Shade,Creature,Shade,Dominaria,Rare,3,Black,True,False,True,True,b'G-host Lee',0.3
+Drudge Sentinel,Creature,Skeleton Warrior,Dominaria,Common,3,Black,True,False,True,True,b'Sara Winters',0.02
+The Eldest Reborn,Enchantment,Saga,Dominaria,Uncommon,5,Black,True,False,True,True,b'Jenn Ravenna Tran',0.29
+Eviscerate,Sorcery,None,Dominaria,Common,4,Black,True,False,True,False,b'Min Yum',0.03
+Feral Abomination,Creature,Thrull,Dominaria,Common,6,Black,True,True,True,True,b'Darek Zabrocki',0.02
+Final Parting,Sorcery,None,Dominaria,Uncommon,5,Black,True,False,True,False,b'Eric Deschamps',0.79
+Fungal Infection,Instant,None,Dominaria,Common,1,Black,True,False,True,True,b'Filip Burburan',0.07
+"Josu Vess, Lich Knight",Legendary Creature,Zombie Knight,Dominaria,Rare,4,Black,True,False,True,True,b'Tyler Jacobson',0.49
+"Kazarov, Sengir Pureblood",Legendary Creature,Vampire,Dominaria,Rare,7,Black,True,False,True,True,b'Igor Kieryluk',0.2
+Knight of Malice,Creature,Human Knight,Dominaria,Uncommon,2,Black,True,False,True,False,b'Sidharth Chaturvedi',0.27
+Lich's Mastery,Legendary Enchantment,None,Dominaria,Rare,6,Black,True,False,True,True,b'Daarken',0.23
+Lingering Phantom,Creature,Spirit,Dominaria,Uncommon,6,Black,True,False,True,False,b'YW Tang',0.04
+Phyrexian Scriptures,Enchantment,Saga,Dominaria,Mythic Rare,4,Black,True,False,True,True,b'Joseph Meehan',1.02
+Rat Colony,Creature,Rat,Dominaria,Common,2,Black,True,False,True,True,b'Suzanne Helmigh',1.62
+Rite of Belzenlok,Enchantment,Saga,Dominaria,Rare,4,Black,True,False,True,True,b'Seb McKinnon',0.22
+Settle the Score,Sorcery,None,Dominaria,Uncommon,4,Black,True,False,True,False,b'Yongjae Choi',0.17
+Soul Salvage,Sorcery,None,Dominaria,Common,3,Black,True,True,True,True,b'Daarken',0.03
+Stronghold Confessor,Creature,Human Cleric,Dominaria,Common,1,Black,True,False,True,False,b'Igor Kieryluk',0.04
+Thallid Omnivore,Creature,Fungus,Dominaria,Common,4,Black,True,False,True,True,b'Mathias Kollros',0.06
+Thallid Soothsayer,Creature,Fungus,Dominaria,Uncommon,4,Black,True,False,True,True,b'Jason A. Engle',0.12
+"Torgaar, Famine Incarnate",Legendary Creature,Avatar,Dominaria,Rare,8,Black,True,False,True,True,b'Lius Lasahido',0.26
+"Urgoros, the Empty One",Legendary Creature,Specter,Dominaria,Uncommon,6,Black,True,False,True,True,b'Daarken',0.13
+Vicious Offering,Instant,None,Dominaria,Common,2,Black,True,False,True,False,b'Anthony Palumbo',0.06
+"Whisper, Blood Liturgist",Legendary Creature,Human Cleric,Dominaria,Uncommon,4,Black,True,False,True,True,b'Kieran Yanner',0.3
+Windgrace Acolyte,Creature,Cat Warrior,Dominaria,Common,5,Black,True,False,True,True,b'Bayard Wu',0.03
+"Yargle, Glutton of Urborg",Legendary Creature,Frog Spirit,Dominaria,Uncommon,5,Black,True,False,True,True,b'Jehan Choo',0.16
+Yawgmoth's Vile Offering,Legendary Sorcery,None,Dominaria,Rare,5,Black,True,False,True,True,b'Noah Bradley',0.37
+Bloodstone Goblin,Creature,Goblin Warrior,Dominaria,Common,2,Red,True,False,True,True,b'Magali Villeneuve',0.03
+Champion of the Flame,Creature,Human Warrior,Dominaria,Uncommon,2,Red,True,False,True,False,b'Wayne Reynolds',0.1
+Fervent Strike,Instant,None,Dominaria,Common,1,Red,True,False,True,True,b'Winona Nelson',0.04
+Fiery Intervention,Sorcery,None,Dominaria,Common,5,Red,True,False,True,False,b'Adam Paquette',0.02
+Fight with Fire,Sorcery,None,Dominaria,Uncommon,3,Red,True,False,True,False,b'Yongjae Choi',0.09
+Fire Elemental,Creature,Elemental,Dominaria,Common,5,Red,True,True,True,True,b'Joe Slucher',0.02
+Firefist Adept,Creature,Human Wizard,Dominaria,Uncommon,5,Red,True,False,True,False,b'Lucas Graciano',0.05
+The First Eruption,Enchantment,Saga,Dominaria,Rare,3,Red,True,False,True,True,b'Steven Belledin',0.16
+The Flame of Keld,Enchantment,Saga,Dominaria,Uncommon,2,Red,True,False,True,False,b'Lake Hurwitz',0.22
+Frenzied Rage,Enchantment,Aura,Dominaria,Common,2,Red,True,False,True,False,b'Simon Dominic',0.05
+Ghitu Chronicler,Creature,Human Wizard,Dominaria,Common,2,Red,True,False,True,False,b'Anthony Palumbo',0.05
+Ghitu Journeymage,Creature,Human Wizard,Dominaria,Common,3,Red,True,False,True,False,b'Jason Rainville',0.04
+Ghitu Lavarunner,Creature,Human Wizard,Dominaria,Common,1,Red,True,False,True,True,b'Jesper Ejsing',0.15
+Goblin Barrage,Sorcery,None,Dominaria,Uncommon,4,Red,True,False,True,False,b'Bram Sels',0.09
+Goblin Chainwhirler,Creature,Goblin Warrior,Dominaria,Rare,3,Red,True,False,True,True,b'Svetlin Velinov',1.27
+Goblin Warchief,Creature,Goblin Warrior,Dominaria,Uncommon,3,Red,True,False,True,True,b'Karl Kopinski',0.38
+Haphazard Bombardment,Enchantment,None,Dominaria,Rare,6,Red,True,False,True,True,b'Jesper Ejsing',0.16
+Jaya Ballard,Legendary Planeswalker,Jaya,Dominaria,Mythic Rare,5,Red,True,False,True,True,b'Magali Villeneuve',1.25
+Jaya's Immolating Inferno,Legendary Sorcery,None,Dominaria,Rare,3,Red,True,False,True,True,b'Noah Bradley',0.39
+Keldon Overseer,Creature,Human Warrior,Dominaria,Common,3,Red,True,False,True,True,b'Jason A. Engle',0.04
+Keldon Raider,Creature,Human Warrior,Dominaria,Common,4,Red,True,True,True,True,b'Chris Seaman',0.02
+Keldon Warcaller,Creature,Human Warrior,Dominaria,Common,2,Red,True,False,True,False,b'Aaron Miller',0.03
+Orcish Vandal,Creature,Orc Warrior,Dominaria,Uncommon,2,Red,True,False,True,False,b'Alex Konstad',0.05
+Radiating Lightning,Instant,None,Dominaria,Common,4,Red,True,False,True,True,b'Suzanne Helmigh',0.04
+Rampaging Cyclops,Creature,Cyclops,Dominaria,Common,4,Red,True,False,True,True,b'Tomasz Jedruszek',0.02
+Run Amok,Instant,None,Dominaria,Common,2,Red,True,False,True,True,b'Svetlin Velinov',0.12
+Seismic Shift,Sorcery,None,Dominaria,Common,4,Red,True,False,True,True,b'James Paick',0.07
+Shivan Fire,Instant,None,Dominaria,Common,1,Red,True,False,True,False,b'Grzegorz Rutkowski',0.04
+Siege-Gang Commander,Creature,Goblin,Dominaria,Rare,5,Red,True,False,True,True,b'Aaron Miller',0.59
+Skirk Prospector,Creature,Goblin,Dominaria,Common,1,Red,True,False,True,True,b'Slawomir Maniak',0.16
+Skizzik,Creature,Elemental,Dominaria,Uncommon,4,Red,True,False,True,True,b'Tomasz Jedruszek',0.06
+"Squee, the Immortal",Legendary Creature,Goblin,Dominaria,Rare,3,Red,True,False,True,True,b'Svetlin Velinov',0.47
+Two-Headed Giant,Creature,Giant Warrior,Dominaria,Rare,4,Red,True,False,True,True,b'Simon Dominic',0.11
+"Valduk, Keeper of the Flame",Legendary Creature,Human Shaman,Dominaria,Uncommon,3,Red,True,False,True,True,b'Victor Adame Minguez',0.13
+Verix Bladewing,Legendary Creature,Dragon,Dominaria,Mythic Rare,4,Red,True,False,True,True,b'XiaoDi Jin',1.0
+Warcry Phoenix,Creature,Phoenix,Dominaria,Uncommon,4,Red,True,False,True,False,b'Daarken',0.09
+Warlord's Fury,Sorcery,None,Dominaria,Common,1,Red,True,False,True,False,b'Volkan Ba\xc7\xb5a',0.12
+Wizard's Lightning,Instant,None,Dominaria,Uncommon,3,Red,True,False,True,False,b'Grzegorz Rutkowski',0.31
+Adventurous Impulse,Sorcery,None,Dominaria,Common,1,Green,True,True,True,True,b'Titus Lunter',0.12
+Ancient Animus,Instant,None,Dominaria,Common,2,Green,True,False,True,False,b'Titus Lunter',0.06
+Arbor Armament,Instant,None,Dominaria,Common,1,Green,True,False,True,True,b'Bayard Wu',0.04
+Baloth Gorger,Creature,Beast,Dominaria,Common,4,Green,True,False,True,True,b'Zezhou Chen',0.03
+Broken Bond,Sorcery,None,Dominaria,Common,2,Green,True,False,True,True,b'Ryan Yee',0.23
+Corrosive Ooze,Creature,Ooze,Dominaria,Common,2,Green,True,False,True,False,b'Daniel Ljunggren',0.03
+Elfhame Druid,Creature,Elf Druid,Dominaria,Uncommon,2,Green,True,False,True,False,b'Yongjae Choi',0.13
+Fungal Plots,Enchantment,None,Dominaria,Uncommon,2,Green,True,False,True,False,b'Even Amundsen',0.16
+Gaea's Blessing,Sorcery,None,Dominaria,Uncommon,2,Green,True,False,True,True,b'David Palumbo',0.14
+Gaea's Protector,Creature,Elemental Warrior,Dominaria,Common,4,Green,True,False,True,True,b'Grzegorz Rutkowski',0.03
+Gift of Growth,Instant,None,Dominaria,Common,2,Green,True,False,True,True,b'YW Tang',0.05
+Grow from the Ashes,Sorcery,None,Dominaria,Common,3,Green,True,False,True,False,b'Richard Wright',0.4
+"Grunn, the Lonely King",Legendary Creature,Ape Warrior,Dominaria,Uncommon,6,Green,True,False,True,True,b'Mathias Kollros',0.12
+Kamahl's Druidic Vow,Legendary Sorcery,None,Dominaria,Rare,3,Green,True,False,True,True,b'Noah Bradley',0.43
+Krosan Druid,Creature,Centaur Druid,Dominaria,Common,3,Green,True,False,True,True,b'Bastien L. Deharme',0.03
+Llanowar Elves,Creature,Elf Druid,Dominaria,Common,1,Green,True,False,True,True,b'Chris Rahn',0.2
+Llanowar Envoy,Creature,Elf Scout,Dominaria,Common,3,Green,True,False,True,False,b'Daniel Ljunggren',0.02
+Llanowar Scout,Creature,Elf Scout,Dominaria,Common,2,Green,True,False,True,False,b'Wayne Reynolds',0.14
+Mammoth Spider,Creature,Spider,Dominaria,Common,5,Green,True,True,True,True,b'Lars Grant-West',0.02
+"Marwyn, the Nurturer",Legendary Creature,Elf Druid,Dominaria,Rare,3,Green,True,False,True,True,b'Chris Rahn',0.8
+The Mending of Dominaria,Enchantment,Saga,Dominaria,Rare,5,Green,True,False,True,True,b'Adam Paquette',0.42
+"Multani, Yavimaya's Avatar",Legendary Creature,Elemental Avatar,Dominaria,Mythic Rare,6,Green,True,False,True,True,b'Ryan Yee',2.28
+Nature's Spiral,Sorcery,None,Dominaria,Uncommon,2,Green,True,False,True,True,b'Florian de Gesincourt',0.08
+Pierce the Sky,Instant,None,Dominaria,Common,2,Green,True,False,True,True,b'Slawomir Maniak',0.04
+Primordial Wurm,Creature,Wurm,Dominaria,Common,6,Green,True,True,True,True,b'Yeong-Hao Han',0.03
+Saproling Migration,Sorcery,None,Dominaria,Common,2,Green,True,False,True,True,b'Christine Choi',0.12
+Song of Freyalise,Enchantment,Saga,Dominaria,Uncommon,2,Green,True,False,True,False,b'Min Yum',0.47
+Spore Swarm,Instant,None,Dominaria,Uncommon,4,Green,True,False,True,False,b'Mathias Kollros',0.2
+Sporecrown Thallid,Creature,Fungus,Dominaria,Uncommon,2,Green,True,False,True,False,b'Bram Sels',0.27
+Steel Leaf Champion,Creature,Elf Knight,Dominaria,Rare,3,Green,True,False,True,True,b'Chris Rahn',1.81
+Sylvan Awakening,Sorcery,None,Dominaria,Rare,3,Green,True,False,True,True,b'Adam Paquette',0.5
+Territorial Allosaurus,Creature,Dinosaur,Dominaria,Rare,4,Green,True,False,True,True,b'Jonathan Kuo',0.3
+Thorn Elemental,Creature,Elemental,Dominaria,Uncommon,7,Green,True,False,True,True,b'Daarken',0.09
+Untamed Kavu,Creature,Kavu,Dominaria,Uncommon,2,Green,True,False,True,False,b'Yongjae Choi',0.12
+Verdant Force,Creature,Elemental,Dominaria,Rare,8,Green,True,False,True,True,b'Viktor Titov',0.24
+Wild Onslaught,Instant,None,Dominaria,Uncommon,4,Green,True,False,True,False,b'Simon Dominic',0.07
+Yavimaya Sapherd,Creature,Fungus,Dominaria,Common,3,Green,True,False,True,True,b'Christine Choi',0.09
+"Adeliz, the Cinder Wind",Legendary Creature,Human Wizard,Dominaria,Uncommon,3,Gold,True,False,True,True,b'Zezhou Chen',0.21
+Arvad the Cursed,Legendary Creature,Vampire Knight,Dominaria,Uncommon,5,Gold,True,False,True,True,b'Lius Lasahido',0.26
+"Aryel, Knight of Windgrace",Legendary Creature,Human Knight,Dominaria,Rare,4,Gold,True,False,True,True,b'Grzegorz Rutkowski',0.41
+Darigaaz Reincarnated,Legendary Creature,Dragon,Dominaria,Mythic Rare,7,Gold,True,False,True,True,b'Grzegorz Rutkowski',0.76
+"Garna, the Bloodflame",Legendary Creature,Human Warrior,Dominaria,Uncommon,5,Gold,True,False,True,True,b'Winona Nelson',0.19
+Grand Warlord Radha,Legendary Creature,Elf Warrior,Dominaria,Rare,4,Gold,True,False,True,True,b'Anna Steinbauer',0.37
+"Hallar, the Firefletcher",Legendary Creature,Elf Archer,Dominaria,Uncommon,3,Gold,True,False,True,True,b'Bram Sels',0.1
+"Jhoira, Weatherlight Captain",Legendary Creature,Human Artificer,Dominaria,Mythic Rare,4,Gold,True,False,True,True,b'Brad Rigney',3.54
+"Jodah, Archmage Eternal",Legendary Creature,Human Wizard,Dominaria,Rare,4,Gold,True,False,True,True,b'Yongjae Choi',0.55
+"Muldrotha, the Gravetide",Legendary Creature,Elemental Avatar,Dominaria,Mythic Rare,6,Gold,True,False,True,True,b'Jason Rainville',8.75
+Oath of Teferi,Legendary Enchantment,None,Dominaria,Rare,5,Gold,True,False,True,True,b'Wesley Burt',0.55
+Primevals' Glorious Rebirth,Legendary Sorcery,None,Dominaria,Rare,7,Gold,True,False,True,True,b'Noah Bradley',0.5
+"Raff Capashen, Ship's Mage",Legendary Creature,Human Wizard,Dominaria,Uncommon,4,Gold,True,False,True,True,b'John Stanko',0.15
+"Rona, Disciple of Gix",Legendary Creature,Human Artificer,Dominaria,Uncommon,3,Gold,True,False,True,True,b'Tommy Arnold',0.1
+"Shanna, Sisay's Legacy",Legendary Creature,Human Warrior,Dominaria,Uncommon,2,Gold,True,False,True,True,b'Magali Villeneuve',0.17
+"Slimefoot, the Stowaway",Legendary Creature,Fungus,Dominaria,Uncommon,3,Gold,True,False,True,True,b'Alex Konstad',0.26
+"Tatyova, Benthic Druid",Legendary Creature,Merfolk Druid,Dominaria,Uncommon,5,Gold,True,False,True,True,b'Mathias Kollros',1.21
+"Teferi, Hero of Dominaria",Legendary Planeswalker,Teferi,Dominaria,Mythic Rare,5,Gold,True,False,True,True,b'Chris Rallis',24.84
+"Tiana, Ship's Caretaker",Legendary Creature,Angel Artificer,Dominaria,Uncommon,5,Gold,True,False,True,True,b'Eric Deschamps',0.14
+Aesthir Glider,Artifact Creature,Bird Construct,Dominaria,Common,3,Colorless,True,False,True,True,b'James Paick',0.03
+Amaranthine Wall,Artifact Creature,Wall,Dominaria,Uncommon,4,Colorless,True,False,True,False,b'Jason Felix',0.16
+Blackblade Reforged,Legendary Artifact,Equipment,Dominaria,Rare,2,Colorless,True,False,True,True,b'Chris Rahn',1.35
+Bloodtallow Candle,Artifact,None,Dominaria,Common,1,Colorless,True,False,True,False,b'Alayna Danner',0.03
+Damping Sphere,Artifact,None,Dominaria,Uncommon,2,Colorless,True,False,True,False,b'Adam Paquette',1.96
+Forebear's Blade,Artifact,Equipment,Dominaria,Rare,3,Colorless,True,False,True,True,b'Scott Murphy',0.47
+Gilded Lotus,Artifact,None,Dominaria,Rare,5,Colorless,True,False,True,True,b'Volkan Ba\xc7\xb5a',4.04
+Guardians of Koilos,Artifact Creature,Construct,Dominaria,Common,5,Colorless,True,False,True,False,b'Yeong-Hao Han',0.03
+Helm of the Host,Legendary Artifact,Equipment,Dominaria,Rare,4,Colorless,True,False,True,True,b'Igor Kieryluk',7.96
+Howling Golem,Artifact Creature,Golem,Dominaria,Uncommon,3,Colorless,True,False,True,True,b'Grzegorz Rutkowski',0.08
+Icy Manipulator,Artifact,None,Dominaria,Uncommon,4,Colorless,True,False,True,True,b'Titus Lunter',0.11
+Jhoira's Familiar,Artifact Creature,Bird,Dominaria,Uncommon,4,Colorless,True,False,True,False,b'Kev Walker',0.43
+Jousting Lance,Artifact,Equipment,Dominaria,Common,2,Colorless,True,False,True,False,b'Alayna Danner',0.04
+Juggernaut,Artifact Creature,Juggernaut,Dominaria,Uncommon,4,Colorless,True,False,True,True,b'Jonas De Ro',0.04
+Mishra's Self-Replicator,Artifact Creature,Assembly-Worker,Dominaria,Rare,5,Colorless,True,False,True,True,b'Joseph Meehan',0.24
+Mox Amber,Legendary Artifact,None,Dominaria,Mythic Rare,0,Colorless,True,False,True,True,b'Steven Belledin',19.95
+Navigator's Compass,Artifact,None,Dominaria,Common,1,Colorless,True,False,True,False,b'Sung Choi',0.12
+Pardic Wanderer,Artifact Creature,Golem,Dominaria,Common,6,Colorless,True,False,True,False,b'Igor Kieryluk',0.04
+Powerstone Shard,Artifact,None,Dominaria,Common,3,Colorless,True,False,True,False,b'Lindsey Look',0.12
+Shield of the Realm,Artifact,Equipment,Dominaria,Uncommon,2,Colorless,True,False,True,False,b'Manuel Casta\xc3\xb1\xc3\xb3n',0.07
+Short Sword,Artifact,Equipment,Dominaria,Common,1,Colorless,True,False,True,True,b'John Severin Brassell',0.05
+Skittering Surveyor,Artifact Creature,Construct,Dominaria,Common,3,Colorless,True,False,True,False,b'Dan Scott',0.06
+Sorcerer's Wand,Artifact,Equipment,Dominaria,Uncommon,1,Colorless,True,False,True,False,b'Matt Stewart',0.11
+Sparring Construct,Artifact Creature,Construct,Dominaria,Common,1,Colorless,True,False,True,False,b'Mark Behm',0.05
+Thran Temporal Gateway,Legendary Artifact,None,Dominaria,Rare,4,Colorless,True,False,True,True,b'Jason Felix',0.56
+"Traxos, Scourge of Kroog",Legendary Artifact Creature,Construct,Dominaria,Rare,4,Colorless,True,False,True,True,b'Lius Lasahido',0.38
+Urza's Tome,Artifact,None,Dominaria,Uncommon,2,Colorless,True,False,True,False,b'Aaron Miller',0.1
+Voltaic Servant,Artifact Creature,Construct,Dominaria,Common,2,Colorless,True,False,True,False,b'Jonas De Ro',0.12
+Weatherlight,Legendary Artifact,Vehicle,Dominaria,Mythic Rare,4,Colorless,True,False,True,True,b'Jaime Jones',0.75
+Cabal Stronghold,Land,None,Dominaria,Rare,0,Colorless,True,False,True,True,b'Dimitar Marinski',1.87
+Clifftop Retreat,Land,None,Dominaria,Rare,0,Colorless,True,False,True,True,b'Christine Choi',4.63
+Hinterland Harbor,Land,None,Dominaria,Rare,0,Colorless,True,False,True,True,b'Daniel Ljunggren',6.11
+Isolated Chapel,Land,None,Dominaria,Rare,0,Colorless,True,False,True,True,b'Richard Wright',3.76
+Memorial to Folly,Land,None,Dominaria,Uncommon,0,Colorless,True,False,True,True,b'Sung Choi',0.17
+Memorial to Genius,Land,None,Dominaria,Uncommon,0,Colorless,True,False,True,False,b'James Paick',0.15
+Memorial to Glory,Land,None,Dominaria,Uncommon,0,Colorless,True,False,True,False,b'James Paick',0.09
+Memorial to Unity,Land,None,Dominaria,Uncommon,0,Colorless,True,False,True,False,b'Cliff Childs',0.14
+Memorial to War,Land,None,Dominaria,Uncommon,0,Colorless,True,False,True,False,b'Richard Wright',0.11
+Sulfur Falls,Land,None,Dominaria,Rare,0,Colorless,True,False,True,True,b'Cliff Childs',3.06
+Woodland Cemetery,Land,None,Dominaria,Rare,0,Colorless,True,False,True,True,b'Christine Choi',4.15
+Zhalfirin Void,Land,None,Dominaria,Uncommon,0,Colorless,True,False,True,True,b'Chase Stone',0.29
+Plains,Basic Land,Plains,Dominaria,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.09
+Plains,Basic Land,Plains,Dominaria,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.07
+Plains,Basic Land,Plains,Dominaria,Common,0,Colorless,True,True,True,True,b'Dimitar Marinski',0.08
+Plains,Basic Land,Plains,Dominaria,Common,0,Colorless,True,True,True,True,b'Mark Poole',0.07
+Island,Basic Land,Island,Dominaria,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.14
+Island,Basic Land,Island,Dominaria,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.1
+Island,Basic Land,Island,Dominaria,Common,0,Colorless,True,True,True,True,b'Dimitar Marinski',0.1
+Island,Basic Land,Island,Dominaria,Common,0,Colorless,True,True,True,True,b'Mark Poole',0.08
+Swamp,Basic Land,Swamp,Dominaria,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.15
+Swamp,Basic Land,Swamp,Dominaria,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.1
+Swamp,Basic Land,Swamp,Dominaria,Common,0,Colorless,True,True,True,True,b'Dimitar Marinski',0.13
+Swamp,Basic Land,Swamp,Dominaria,Common,0,Colorless,True,True,True,True,b'Mark Poole',0.1
+Mountain,Basic Land,Mountain,Dominaria,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.16
+Mountain,Basic Land,Mountain,Dominaria,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.07
+Mountain,Basic Land,Mountain,Dominaria,Common,0,Colorless,True,True,True,True,b'Dimitar Marinski',0.08
+Mountain,Basic Land,Mountain,Dominaria,Common,0,Colorless,True,True,True,True,b'Mark Poole',0.08
+Forest,Basic Land,Forest,Dominaria,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.16
+Forest,Basic Land,Forest,Dominaria,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.08
+Forest,Basic Land,Forest,Dominaria,Common,0,Colorless,True,True,True,True,b'Dimitar Marinski',0.09
+Forest,Basic Land,Forest,Dominaria,Common,0,Colorless,True,True,True,True,b'Mark Poole',0.07
+"Teferi, Timebender",Legendary Planeswalker,Teferi,Dominaria,Mythic Rare,6,Gold,True,False,True,False,b'Zack Stella',1.39
+Temporal Machinations,Sorcery,None,Dominaria,Common,3,Blue,True,False,True,False,b'Zack Stella',0.09
+"Niambi, Faithful Healer",Legendary Creature,Human Cleric,Dominaria,Rare,3,Gold,True,False,True,False,b'Greg Opalinski',0.18
+Teferi's Sentinel,Artifact Creature,Golem,Dominaria,Uncommon,5,Colorless,True,False,True,False,b'Titus Lunter',0.07
+Meandering River,Land,None,Dominaria,Common,0,Colorless,True,False,True,True,b'James Paick',0.13
+"Chandra, Bold Pyromancer",Legendary Planeswalker,Chandra,Dominaria,Mythic Rare,6,Red,True,False,True,False,b'Zack Stella',2.42
+Chandra's Outburst,Sorcery,None,Dominaria,Rare,5,Red,True,False,True,False,b'Yongjae Choi',0.24
+Karplusan Hound,Creature,Hound,Dominaria,Uncommon,4,Red,True,False,True,False,b'Viktor Titov',0.11
+Pyromantic Pilgrim,Creature,Human Wizard,Dominaria,Common,3,Red,True,False,True,False,b'Magali Villeneuve',0.09
+Timber Gorge,Land,None,Dominaria,Common,0,Colorless,True,False,True,True,b'YW Tang',0.09
+Firesong and Sunspeaker,Legendary Creature,Minotaur Cleric,Dominaria,Rare,6,Gold,True,False,True,True,b'Zoltan Boros',0.97

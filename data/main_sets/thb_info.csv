@@ -1,0 +1,358 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Alseid of Life's Bounty,Enchantment Creature,Nymph,Theros Beyond Death,Uncommon,1,White,True,True,True,True,b'Magali Villeneuve',0.44
+Archon of Falling Stars,Creature,Archon,Theros Beyond Death,Uncommon,6,White,True,True,True,True,b'Victor Adame Minguez',0.05
+Archon of Sun's Grace,Creature,Archon,Theros Beyond Death,Rare,4,White,True,True,True,True,b'Matt Stewart',0.76
+Banishing Light,Enchantment,None,Theros Beyond Death,Uncommon,3,White,True,True,True,True,b'Willian Murai',0.22
+The Birth of Meletis,Enchantment,Saga,Theros Beyond Death,Uncommon,2,White,True,True,True,True,b'Tyler Jacobson',0.38
+Captivating Unicorn,Creature,Unicorn,Theros Beyond Death,Common,5,White,True,True,True,True,b'Emrah Elmasli',0.05
+Commanding Presence,Enchantment,Aura,Theros Beyond Death,Uncommon,4,White,True,True,True,True,b'Milivoj \xc4\x86eran',0.08
+Dawn Evangel,Enchantment Creature,Human Cleric,Theros Beyond Death,Uncommon,3,White,True,True,True,True,b'Livia Prima',0.07
+"Daxos, Blessed by the Sun",Legendary Enchantment Creature,Demigod,Theros Beyond Death,Uncommon,2,White,True,True,True,True,b'Lius Lasahido',0.31
+Daybreak Chimera,Creature,Chimera,Theros Beyond Death,Common,5,White,True,True,True,True,b'Lars Grant-West',0.03
+Dreadful Apathy,Enchantment,Aura,Theros Beyond Death,Common,3,White,True,True,True,True,b'Mark Zug',0.04
+Eidolon of Obstruction,Enchantment Creature,Spirit,Theros Beyond Death,Rare,2,White,True,True,True,True,b'Jason Rainville',0.2
+Elspeth Conquers Death,Enchantment,Saga,Theros Beyond Death,Rare,5,White,True,True,True,True,b'Ryan Yee',1.39
+"Elspeth, Sun's Nemesis",Legendary Planeswalker,Elspeth,Theros Beyond Death,Mythic Rare,4,White,True,True,True,True,b'Livia Prima',2.6
+Favored of Iroas,Creature,Human Soldier,Theros Beyond Death,Uncommon,3,White,True,True,True,True,b'John Severin Brassell',0.04
+Flicker of Fate,Instant,None,Theros Beyond Death,Common,2,White,True,True,True,True,b'Tomasz Jedruszek',0.1
+Glory Bearers,Enchantment Creature,Human Cleric,Theros Beyond Death,Common,4,White,True,True,True,True,b'Tyler Walpole',0.02
+"Heliod, Sun-Crowned",Legendary Enchantment Creature,God,Theros Beyond Death,Mythic Rare,3,White,True,True,True,True,b'Lius Lasahido',11.66
+Heliod's Intervention,Instant,None,Theros Beyond Death,Rare,3,White,True,True,True,True,b'Daarken',1.61
+Heliod's Pilgrim,Creature,Human Cleric,Theros Beyond Death,Common,3,White,True,True,True,True,b'Micah Epstein',0.06
+Heliod's Punishment,Enchantment,Aura,Theros Beyond Death,Uncommon,2,White,True,True,True,True,b'Aleksi Briclot',0.05
+Hero of the Pride,Creature,Cat Soldier,Theros Beyond Death,Common,2,White,True,True,True,True,b'Wisnu Tan',0.05
+Hero of the Winds,Creature,Human Soldier,Theros Beyond Death,Uncommon,4,White,True,True,True,True,b'Greg Staples',0.04
+Idyllic Tutor,Sorcery,None,Theros Beyond Death,Rare,3,White,True,True,True,True,b'Jaime Jones',3.21
+Indomitable Will,Enchantment,Aura,Theros Beyond Death,Common,2,White,True,True,True,True,b'Micah Epstein',0.02
+Karametra's Blessing,Instant,None,Theros Beyond Death,Common,1,White,True,True,True,True,b'Wisnu Tan',0.16
+Lagonna-Band Storyteller,Creature,Centaur Advisor,Theros Beyond Death,Uncommon,4,White,True,True,True,True,b'Chris Seaman',0.04
+Leonin of the Lost Pride,Creature,Cat Warrior,Theros Beyond Death,Common,2,White,True,True,True,True,b'Aaron Miller',0.04
+Nyxborn Courser,Enchantment Creature,Centaur Scout,Theros Beyond Death,Common,3,White,True,True,True,True,b'Bastien L. Deharme',0.03
+Omen of the Sun,Enchantment,None,Theros Beyond Death,Common,3,White,True,True,True,True,b'Piotr Dura',0.06
+Phalanx Tactics,Instant,None,Theros Beyond Death,Uncommon,2,White,True,True,True,True,b'Bayard Wu',0.06
+Pious Wayfarer,Creature,Human Scout,Theros Beyond Death,Common,1,White,True,True,True,True,b'Mark Zug',0.04
+Reverent Hoplite,Creature,Human Soldier,Theros Beyond Death,Uncommon,5,White,True,True,True,True,b'Sidharth Chaturvedi',0.12
+Revoke Existence,Sorcery,None,Theros Beyond Death,Common,2,White,True,True,True,True,b'Adam Paquette',0.04
+Rumbling Sentry,Creature,Giant,Theros Beyond Death,Common,5,White,True,True,True,True,b'Yongjae Choi',0.03
+Sentinel's Eyes,Enchantment,Aura,Theros Beyond Death,Common,1,White,True,True,True,True,b'Wisnu Tan',0.16
+Shatter the Sky,Sorcery,None,Theros Beyond Death,Rare,4,White,True,True,True,True,b'Bayard Wu',0.94
+Sunmane Pegasus,Creature,Pegasus,Theros Beyond Death,Common,4,White,True,True,True,True,b'John Severin Brassell',0.03
+"Taranika, Akroan Veteran",Legendary Creature,Human Soldier,Theros Beyond Death,Rare,3,White,True,True,True,True,b'Eric Deschamps',0.21
+Transcendent Envoy,Enchantment Creature,Griffin,Theros Beyond Death,Common,2,White,True,True,True,True,b'Zezhou Chen',0.14
+Triumphant Surge,Instant,None,Theros Beyond Death,Common,4,White,True,True,True,True,b'Daarken',0.02
+"Alirios, Enraptured",Legendary Creature,Human,Theros Beyond Death,Uncommon,3,Blue,True,True,True,True,b'Kieran Yanner',0.07
+Ashiok's Erasure,Enchantment,None,Theros Beyond Death,Rare,4,Blue,True,True,True,True,b'Zezhou Chen',0.23
+Brine Giant,Creature,Giant,Theros Beyond Death,Common,7,Blue,True,True,True,True,b'Yongjae Choi',0.03
+"Callaphe, Beloved of the Sea",Legendary Enchantment Creature,Demigod,Theros Beyond Death,Uncommon,3,Blue,True,True,True,True,b'Zack Stella',0.14
+Chain to Memory,Instant,None,Theros Beyond Death,Common,1,Blue,True,True,True,True,b'Paul Scott Canavan',0.03
+Deny the Divine,Instant,None,Theros Beyond Death,Common,3,Blue,True,True,True,True,b'Yigit Koroglu',0.04
+Eidolon of Philosophy,Enchantment Creature,Spirit,Theros Beyond Death,Common,1,Blue,True,True,True,True,b'Adam Paquette',0.02
+Elite Instructor,Creature,Human Wizard,Theros Beyond Death,Common,3,Blue,True,True,True,True,b'Mike Sass',0.02
+Glimpse of Freedom,Instant,None,Theros Beyond Death,Uncommon,2,Blue,True,True,True,True,b'Clint Cearley',0.05
+Ichthyomorphosis,Enchantment,Aura,Theros Beyond Death,Common,3,Blue,True,True,True,True,b'Campbell White',0.03
+Kiora Bests the Sea God,Enchantment,Saga,Theros Beyond Death,Mythic Rare,7,Blue,True,True,True,True,b'Victor Adame Minguez',1.64
+Medomai's Prophecy,Enchantment,Saga,Theros Beyond Death,Uncommon,2,Blue,True,True,True,True,b'Seb McKinnon',0.15
+Memory Drain,Instant,None,Theros Beyond Death,Common,4,Blue,True,True,True,True,b'Pindurski',0.04
+Nadir Kraken,Creature,Kraken,Theros Beyond Death,Rare,3,Blue,True,True,True,True,b'Dan Scott',0.91
+Naiad of Hidden Coves,Enchantment Creature,Nymph,Theros Beyond Death,Common,3,Blue,True,True,True,True,b'Kieran Yanner',0.06
+Nyxborn Seaguard,Enchantment Creature,Merfolk Soldier,Theros Beyond Death,Common,4,Blue,True,True,True,True,b'Simon Dominic',0.02
+Omen of the Sea,Enchantment,None,Theros Beyond Death,Common,2,Blue,True,True,True,True,b'Piotr Dura',0.19
+One with the Stars,Enchantment,Aura,Theros Beyond Death,Uncommon,4,Blue,True,True,True,True,b'Caio Monteiro',0.09
+Protean Thaumaturge,Creature,Human Wizard,Theros Beyond Death,Rare,2,Blue,True,True,True,True,b'Izzy',0.24
+Riptide Turtle,Creature,Turtle,Theros Beyond Death,Common,2,Blue,True,True,True,True,b'Brian Valeza',0.08
+Sage of Mysteries,Creature,Human Wizard,Theros Beyond Death,Uncommon,1,Blue,True,True,True,True,b'John Stanko',0.05
+Sea God's Scorn,Sorcery,None,Theros Beyond Death,Uncommon,6,Blue,True,True,True,True,b'Zoltan Boros',0.03
+Shimmerwing Chimera,Enchantment Creature,Chimera,Theros Beyond Death,Uncommon,4,Blue,True,True,True,True,b'Christopher Burdett',0.06
+Shoal Kraken,Creature,Kraken,Theros Beyond Death,Uncommon,5,Blue,True,True,True,True,b'Vincent Proce',0.06
+Sleep of the Dead,Sorcery,None,Theros Beyond Death,Common,1,Blue,True,True,True,True,b'Kari Christensen',0.04
+Starlit Mantle,Enchantment,Aura,Theros Beyond Death,Common,2,Blue,True,True,True,True,b'Chris Rahn',0.06
+Stern Dismissal,Instant,None,Theros Beyond Death,Common,1,Blue,True,True,True,True,b'Lie Setiawan',0.07
+Stinging Lionfish,Enchantment Creature,Fish,Theros Beyond Death,Uncommon,2,Blue,True,True,True,True,b'Christopher Burdett',0.11
+Sweet Oblivion,Sorcery,None,Theros Beyond Death,Uncommon,2,Blue,True,True,True,True,b'Clint Cearley',0.05
+"Thassa, Deep-Dwelling",Legendary Enchantment Creature,God,Theros Beyond Death,Mythic Rare,4,Blue,True,True,True,True,b'Zack Stella',10.45
+Thassa's Intervention,Instant,None,Theros Beyond Death,Rare,3,Blue,True,True,True,True,b'Zack Stella',0.47
+Thassa's Oracle,Creature,Merfolk Wizard,Theros Beyond Death,Rare,2,Blue,True,True,True,True,b'Jesper Ejsing',4.15
+Thirst for Meaning,Instant,None,Theros Beyond Death,Common,3,Blue,True,True,True,True,b'Brian Valeza',0.12
+Threnody Singer,Creature,Siren,Theros Beyond Death,Uncommon,2,Blue,True,True,True,True,b'Pindurski',0.07
+"Thryx, the Sudden Storm",Legendary Creature,Elemental Giant,Theros Beyond Death,Rare,5,Blue,True,True,True,True,b'Mathias Kollros',0.31
+Towering-Wave Mystic,Creature,Merfolk Wizard,Theros Beyond Death,Common,2,Blue,True,True,True,True,b'Jason Rainville',0.03
+Triton Waverider,Creature,Merfolk Wizard,Theros Beyond Death,Common,4,Blue,True,True,True,True,b'Lie Setiawan',0.03
+Vexing Gull,Creature,Bird,Theros Beyond Death,Common,3,Blue,True,True,True,True,b'Volkan Ba\xc7\xb5a',0.02
+Wavebreak Hippocamp,Enchantment Creature,Horse Fish,Theros Beyond Death,Rare,3,Blue,True,True,True,True,b'Caio Monteiro',0.26
+Whirlwind Denial,Instant,None,Theros Beyond Death,Uncommon,3,Blue,True,True,True,True,b'Lie Setiawan',0.26
+Witness of Tomorrows,Enchantment Creature,Sphinx,Theros Beyond Death,Common,5,Blue,True,True,True,True,b'Svetlin Velinov',0.03
+Agonizing Remorse,Sorcery,None,Theros Beyond Death,Uncommon,2,Black,True,True,True,True,b'Wisnu Tan',0.54
+"Aphemia, the Cacophony",Legendary Enchantment Creature,Harpy,Theros Beyond Death,Rare,2,Black,True,True,True,True,b'Lucas Graciano',0.26
+Aspect of Lamprey,Enchantment,Aura,Theros Beyond Death,Common,4,Black,True,True,True,True,b'Deruchenko Alexander',0.03
+Blight-Breath Catoblepas,Creature,Beast,Theros Beyond Death,Common,6,Black,True,True,True,True,b'Antonio Jos\xc3\xa9 Manzanedo',0.02
+Cling to Dust,Instant,None,Theros Beyond Death,Uncommon,1,Black,True,True,True,True,b'Caio Monteiro',0.24
+Discordant Piper,Creature,Zombie Satyr,Theros Beyond Death,Common,2,Black,True,True,True,True,b'John Stanko',0.04
+Drag to the Underworld,Instant,None,Theros Beyond Death,Uncommon,4,Black,True,True,True,True,b'Victor Adame Minguez',0.26
+Eat to Extinction,Instant,None,Theros Beyond Death,Rare,4,Black,True,True,True,True,b'Vincent Proce',0.44
+Elspeth's Nightmare,Enchantment,Saga,Theros Beyond Death,Uncommon,3,Black,True,True,True,True,b'Jason Rainville',0.17
+Enemy of Enlightenment,Enchantment Creature,Demon,Theros Beyond Death,Uncommon,6,Black,True,True,True,True,b'James Ryman',0.05
+"Erebos, Bleak-Hearted",Legendary Enchantment Creature,God,Theros Beyond Death,Mythic Rare,4,Black,True,True,True,True,b'Chase Stone',2.29
+Erebos's Intervention,Instant,None,Theros Beyond Death,Rare,2,Black,True,True,True,True,b'Mathias Kollros',0.42
+Final Death,Instant,None,Theros Beyond Death,Common,5,Black,True,True,True,True,b'Johann Bodin',0.05
+Fruit of Tizerus,Sorcery,None,Theros Beyond Death,Common,1,Black,True,True,True,True,b'Bastien L. Deharme',0.03
+Funeral Rites,Sorcery,None,Theros Beyond Death,Common,3,Black,True,True,True,True,b'John Stanko',0.05
+Gravebreaker Lamia,Enchantment Creature,Snake Lamia,Theros Beyond Death,Rare,5,Black,True,True,True,True,b'Lius Lasahido',0.32
+Gray Merchant of Asphodel,Creature,Zombie,Theros Beyond Death,Uncommon,5,Black,True,True,True,True,b'Scott Murphy',0.39
+Grim Physician,Creature,Zombie,Theros Beyond Death,Common,1,Black,True,True,True,True,b'Mark Zug',0.02
+Hateful Eidolon,Enchantment Creature,Spirit,Theros Beyond Death,Uncommon,1,Black,True,True,True,True,b'Daniel Ljunggren',0.17
+Inevitable End,Enchantment,Aura,Theros Beyond Death,Uncommon,3,Black,True,True,True,True,b'Josh Hass',0.11
+Lampad of Death's Vigil,Enchantment Creature,Nymph,Theros Beyond Death,Common,2,Black,True,True,True,True,b'Jason Felix',0.08
+Minion's Return,Enchantment,Aura,Theros Beyond Death,Uncommon,3,Black,True,True,True,True,b'Billy Christian',0.11
+Mire Triton,Creature,Zombie Merfolk,Theros Beyond Death,Uncommon,2,Black,True,True,True,True,b'Seb McKinnon',0.16
+Mire's Grasp,Enchantment,Aura,Theros Beyond Death,Common,2,Black,True,True,True,True,b'Chris Rallis',0.07
+Mogis's Favor,Enchantment,Aura,Theros Beyond Death,Common,1,Black,True,True,True,True,b'Uriah Voth',0.05
+Nightmare Shepherd,Enchantment Creature,Demon,Theros Beyond Death,Rare,4,Black,True,True,True,True,b'Tyler Jacobson',1.11
+Nyxborn Marauder,Enchantment Creature,Minotaur,Theros Beyond Death,Common,4,Black,True,True,True,True,b'Steve Prescott',0.02
+Omen of the Dead,Enchantment,None,Theros Beyond Death,Common,1,Black,True,True,True,True,b'Piotr Dura',0.09
+Pharika's Libation,Instant,None,Theros Beyond Death,Common,3,Black,True,True,True,True,b'Jason Felix',0.12
+Pharika's Spawn,Creature,Gorgon,Theros Beyond Death,Uncommon,4,Black,True,True,True,True,b'Vincent Proce',0.05
+Rage-Scarred Berserker,Creature,Minotaur Berserker,Theros Beyond Death,Common,5,Black,True,True,True,True,b'Antonio Jos\xc3\xa9 Manzanedo',0.02
+Scavenging Harpy,Creature,Harpy,Theros Beyond Death,Common,3,Black,True,True,True,True,b'Daniel Ljunggren',0.02
+Soulreaper of Mogis,Enchantment Creature,Minotaur Shaman,Theros Beyond Death,Common,3,Black,True,True,True,True,b'Dmitry Burmak',0.05
+Temple Thief,Creature,Human Rogue,Theros Beyond Death,Common,2,Black,True,True,True,True,b'Evyn Fong',0.02
+Treacherous Blessing,Enchantment,None,Theros Beyond Death,Rare,3,Black,True,True,True,True,b'Marco Teixeira',0.23
+Tymaret Calls the Dead,Enchantment,Saga,Theros Beyond Death,Rare,3,Black,True,True,True,True,b'Vincent Proce',0.24
+"Tymaret, Chosen from Death",Legendary Enchantment Creature,Demigod,Theros Beyond Death,Uncommon,2,Black,True,True,True,True,b'Chase Stone',0.18
+Underworld Charger,Creature,Nightmare Horse,Theros Beyond Death,Common,3,Black,True,True,True,True,b'Johann Bodin',0.03
+Underworld Dreams,Enchantment,None,Theros Beyond Death,Uncommon,3,Black,True,True,True,True,b'Pindurski',0.29
+Venomous Hierophant,Creature,Gorgon Cleric,Theros Beyond Death,Common,4,Black,True,True,True,True,b'Johannes Voss',0.05
+Woe Strider,Creature,Horror,Theros Beyond Death,Rare,3,Black,True,True,True,True,b'John Thacker',0.92
+The Akroan War,Enchantment,Saga,Theros Beyond Death,Rare,4,Red,True,True,True,True,b'Steven Belledin',0.19
+"Anax, Hardened in the Forge",Legendary Enchantment Creature,Demigod,Theros Beyond Death,Uncommon,3,Red,True,True,True,True,b'Eric Deschamps',0.29
+Arena Trickster,Creature,Human Shaman,Theros Beyond Death,Common,4,Red,True,True,True,True,b'Pindurski',0.01
+Aspect of Manticore,Enchantment,Aura,Theros Beyond Death,Common,3,Red,True,True,True,True,b'Tomasz Jedruszek',0.02
+Blood Aspirant,Creature,Satyr Berserker,Theros Beyond Death,Uncommon,2,Red,True,True,True,True,b'Tyler Walpole',0.09
+Careless Celebrant,Creature,Satyr Shaman,Theros Beyond Death,Uncommon,2,Red,True,True,True,True,b'Mathias Kollros',0.09
+Dreamshaper Shaman,Enchantment Creature,Minotaur Shaman,Theros Beyond Death,Uncommon,6,Red,True,True,True,True,b'Steve Prescott',0.09
+Dreamstalker Manticore,Enchantment Creature,Manticore,Theros Beyond Death,Uncommon,3,Red,True,True,True,True,b'Chris Rallis',0.05
+Escape Velocity,Enchantment,Aura,Theros Beyond Death,Uncommon,1,Red,True,True,True,True,b'Mathias Kollros',0.07
+Fateful End,Instant,None,Theros Beyond Death,Uncommon,3,Red,True,True,True,True,b'Chris Rallis',0.04
+Final Flare,Instant,None,Theros Beyond Death,Common,3,Red,True,True,True,True,b'Kev Walker',0.04
+Flummoxed Cyclops,Creature,Cyclops,Theros Beyond Death,Common,4,Red,True,True,True,True,b'Mark Behm',0.03
+Furious Rise,Enchantment,None,Theros Beyond Death,Uncommon,3,Red,True,True,True,True,b'Chase Stone',0.11
+Hero of the Games,Creature,Human Soldier,Theros Beyond Death,Common,3,Red,True,True,True,True,b'Josh Hass',0.02
+Heroes of the Revel,Creature,Satyr Soldier,Theros Beyond Death,Uncommon,5,Red,True,True,True,True,b'Zoltan Boros',0.03
+Impending Doom,Enchantment,Aura,Theros Beyond Death,Uncommon,3,Red,True,True,True,True,b'Zoltan Boros',0.05
+Incendiary Oracle,Creature,Human Shaman,Theros Beyond Death,Common,2,Red,True,True,True,True,b'Cynthia Sheppard',0.02
+Infuriate,Instant,None,Theros Beyond Death,Common,1,Red,True,True,True,True,b'Tomasz Jedruszek',0.06
+Iroas's Blessing,Enchantment,Aura,Theros Beyond Death,Common,4,Red,True,True,True,True,b'Victor Adame Minguez',0.02
+Irreverent Revelers,Creature,Satyr,Theros Beyond Death,Common,3,Red,True,True,True,True,b'Milivoj \xc4\x86eran',0.03
+Nyxborn Brute,Enchantment Creature,Cyclops,Theros Beyond Death,Common,5,Red,True,True,True,True,b'Zoltan Boros',0.03
+Omen of the Forge,Enchantment,None,Theros Beyond Death,Common,2,Red,True,True,True,True,b'Piotr Dura',0.04
+Oread of Mountain's Blaze,Enchantment Creature,Nymph,Theros Beyond Death,Common,2,Red,True,True,True,True,b'Yigit Koroglu',0.02
+Ox of Agonas,Creature,Ox,Theros Beyond Death,Mythic Rare,5,Red,True,True,True,True,b'Lie Setiawan',2.17
+Phoenix of Ash,Creature,Phoenix,Theros Beyond Death,Rare,3,Red,True,True,True,True,b'Svetlin Velinov',0.47
+Portent of Betrayal,Sorcery,None,Theros Beyond Death,Common,4,Red,True,True,True,True,b'Greg Staples',0.03
+"Purphoros, Bronze-Blooded",Legendary Enchantment Creature,God,Theros Beyond Death,Mythic Rare,5,Red,True,True,True,True,b'Eric Deschamps',2.4
+Purphoros's Intervention,Sorcery,None,Theros Beyond Death,Rare,2,Red,True,True,True,True,b'Aleksi Briclot',0.23
+Satyr's Cunning,Sorcery,None,Theros Beyond Death,Common,1,Red,True,True,True,True,b'Deruchenko Alexander',0.05
+Skophos Maze-Warden,Creature,Minotaur Warrior,Theros Beyond Death,Uncommon,4,Red,True,True,True,True,b'Jason Rainville',0.02
+Skophos Warleader,Creature,Minotaur Warrior,Theros Beyond Death,Common,5,Red,True,True,True,True,b'Svetlin Velinov',0.02
+Stampede Rider,Creature,Satyr,Theros Beyond Death,Common,3,Red,True,True,True,True,b'Aaron Miller',0.02
+Storm Herald,Creature,Human Shaman,Theros Beyond Death,Rare,3,Red,True,True,True,True,b'Aleksi Briclot',0.5
+Storm's Wrath,Sorcery,None,Theros Beyond Death,Rare,4,Red,True,True,True,True,b'Yeong-Hao Han',0.48
+Tectonic Giant,Creature,Elemental Giant,Theros Beyond Death,Rare,4,Red,True,True,True,True,b'Slawomir Maniak',0.38
+Thrill of Possibility,Instant,None,Theros Beyond Death,Common,2,Red,True,True,True,True,b'Izzy',0.13
+The Triumph of Anax,Enchantment,Saga,Theros Beyond Death,Uncommon,3,Red,True,True,True,True,b'Chris Seaman',0.04
+Underworld Breach,Enchantment,None,Theros Beyond Death,Rare,2,Red,True,True,True,True,b'Lie Setiawan',2.37
+Underworld Fires,Sorcery,None,Theros Beyond Death,Uncommon,2,Red,True,True,True,True,b'Bayard Wu',0.05
+Underworld Rage-Hound,Creature,Elemental Hound,Theros Beyond Death,Common,2,Red,True,True,True,True,b'Tyler Walpole',0.05
+Wrap in Flames,Sorcery,None,Theros Beyond Death,Common,4,Red,True,True,True,True,b'Kari Christensen',0.04
+Arasta of the Endless Web,Legendary Enchantment Creature,Spider,Theros Beyond Death,Rare,4,Green,True,True,True,True,b'Sam Rowan',0.39
+The Binding of the Titans,Enchantment,Saga,Theros Beyond Death,Uncommon,2,Green,True,True,True,True,b'Adam Paquette',0.11
+Chainweb Aracnir,Creature,Spider,Theros Beyond Death,Uncommon,1,Green,True,True,True,True,b'Sam Rowan',0.11
+Destiny Spinner,Enchantment Creature,Human,Theros Beyond Death,Uncommon,2,Green,True,True,True,True,b'Livia Prima',0.63
+Dryad of the Ilysian Grove,Enchantment Creature,Nymph Dryad,Theros Beyond Death,Rare,3,Green,True,True,True,True,b'Scott Murphy',7.86
+The First Iroan Games,Enchantment,Saga,Theros Beyond Death,Rare,3,Green,True,True,True,True,b'Noah Bradley',0.24
+Gift of Strength,Instant,None,Theros Beyond Death,Common,2,Green,True,True,True,True,b'Winona Nelson',0.02
+Hydra's Growth,Enchantment,Aura,Theros Beyond Death,Uncommon,3,Green,True,True,True,True,b'Bayard Wu',0.63
+Hyrax Tower Scout,Creature,Human Scout,Theros Beyond Death,Common,3,Green,True,True,True,True,b'Micah Epstein',0.07
+Ilysian Caryatid,Creature,Plant,Theros Beyond Death,Common,2,Green,True,True,True,True,b'Winona Nelson',0.15
+Inspire Awe,Instant,None,Theros Beyond Death,Common,4,Green,True,True,True,True,b'Ekaterina Burmak',0.04
+Klothys's Design,Sorcery,None,Theros Beyond Death,Uncommon,6,Green,True,True,True,True,b'Lie Setiawan',0.08
+Loathsome Chimera,Creature,Chimera,Theros Beyond Death,Common,3,Green,True,True,True,True,b'Paul Scott Canavan',0.04
+Mantle of the Wolf,Enchantment,Aura,Theros Beyond Death,Rare,4,Green,True,True,True,True,b'Simon Dominic',0.24
+Moss Viper,Creature,Snake,Theros Beyond Death,Common,1,Green,True,True,True,True,b'Mike Bierek',0.07
+Mystic Repeal,Instant,None,Theros Beyond Death,Uncommon,1,Green,True,True,True,True,b'Tyler Walpole',0.12
+Nessian Boar,Creature,Boar,Theros Beyond Death,Rare,5,Green,True,True,True,True,b'Zoltan Boros',0.18
+Nessian Hornbeetle,Creature,Insect,Theros Beyond Death,Uncommon,2,Green,True,True,True,True,b'Jason Felix',0.08
+Nessian Wanderer,Creature,Satyr Scout,Theros Beyond Death,Uncommon,2,Green,True,True,True,True,b'Matt Stewart',0.13
+Nexus Wardens,Creature,Satyr Archer,Theros Beyond Death,Common,3,Green,True,True,True,True,b'Dan Scott',0.09
+"Nylea, Keen-Eyed",Legendary Enchantment Creature,God,Theros Beyond Death,Mythic Rare,4,Green,True,True,True,True,b'Chris Rahn',3.49
+Nylea's Forerunner,Enchantment Creature,Beast,Theros Beyond Death,Common,5,Green,True,True,True,True,b'Christopher Burdett',0.05
+Nylea's Huntmaster,Creature,Centaur Shaman,Theros Beyond Death,Common,4,Green,True,True,True,True,b'Winona Nelson',0.04
+Nylea's Intervention,Sorcery,None,Theros Beyond Death,Rare,3,Green,True,True,True,True,b'Zezhou Chen',0.6
+Nyx Herald,Enchantment Creature,Centaur Shaman,Theros Beyond Death,Uncommon,3,Green,True,True,True,True,b'Mark Zug',0.05
+Nyxbloom Ancient,Enchantment Creature,Elemental,Theros Beyond Death,Mythic Rare,7,Green,True,True,True,True,b'Filip Burburan',13.26
+Nyxborn Colossus,Enchantment Creature,Giant,Theros Beyond Death,Common,6,Green,True,True,True,True,b'Mathias Kollros',0.04
+Omen of the Hunt,Enchantment,None,Theros Beyond Death,Common,3,Green,True,True,True,True,b'Piotr Dura',0.12
+Pheres-Band Brawler,Creature,Centaur Warrior,Theros Beyond Death,Uncommon,6,Green,True,True,True,True,b'John Stanko',0.04
+Plummet,Instant,None,Theros Beyond Death,Common,2,Green,True,True,True,True,b'Bayard Wu',0.05
+Relentless Pursuit,Sorcery,None,Theros Beyond Death,Common,3,Green,True,True,True,True,b'Magali Villeneuve',0.06
+"Renata, Called to the Hunt",Legendary Enchantment Creature,Demigod,Theros Beyond Death,Uncommon,4,Green,True,True,True,True,b'Chris Rahn',0.17
+Return to Nature,Instant,None,Theros Beyond Death,Common,2,Green,True,True,True,True,b'Kieran Yanner',0.15
+Setessan Champion,Creature,Human Warrior,Theros Beyond Death,Rare,3,Green,True,True,True,True,b'Emrah Elmasli',1.42
+Setessan Petitioner,Creature,Human Druid,Theros Beyond Death,Uncommon,3,Green,True,True,True,True,b'Livia Prima',0.1
+Setessan Skirmisher,Creature,Human Warrior,Theros Beyond Death,Common,2,Green,True,True,True,True,b'Greg Staples',0.02
+Setessan Training,Enchantment,Aura,Theros Beyond Death,Common,2,Green,True,True,True,True,b'Scott Murphy',0.13
+Skola Grovedancer,Enchantment Creature,Satyr Druid,Theros Beyond Death,Common,2,Green,True,True,True,True,b'Josh Hass',0.07
+Voracious Typhon,Creature,Snake Beast,Theros Beyond Death,Common,4,Green,True,True,True,True,b'Yongjae Choi',0.04
+Warbriar Blessing,Enchantment,Aura,Theros Beyond Death,Common,2,Green,True,True,True,True,b'Michelle Parisi',0.04
+Wolfwillow Haven,Enchantment,Aura,Theros Beyond Death,Uncommon,2,Green,True,True,True,True,b'Jakub Kasper',0.2
+Acolyte of Affliction,Creature,Human Cleric,Theros Beyond Death,Uncommon,4,Gold,True,True,True,True,b'Chase Stone',0.09
+Allure of the Unknown,Sorcery,None,Theros Beyond Death,Rare,5,Gold,True,True,True,True,b'Seb McKinnon',0.2
+"Ashiok, Nightmare Muse",Legendary Planeswalker,Ashiok,Theros Beyond Death,Mythic Rare,5,Gold,True,True,True,True,b'Raymond Swanland',5.43
+"Atris, Oracle of Half-Truths",Legendary Creature,Human Advisor,Theros Beyond Death,Rare,4,Gold,True,True,True,True,b'Bastien L. Deharme',0.28
+Bronzehide Lion,Creature,Cat,Theros Beyond Death,Rare,2,Gold,True,True,True,True,b'Alayna Danner',0.43
+"Calix, Destiny's Hand",Legendary Planeswalker,Calix,Theros Beyond Death,Mythic Rare,4,Gold,True,True,True,True,b'Magali Villeneuve',2.35
+"Dalakos, Crafter of Wonders",Legendary Creature,Merfolk Artificer,Theros Beyond Death,Rare,3,Gold,True,True,True,True,b'Ryan Pancoast',0.23
+Devourer of Memory,Creature,Nightmare,Theros Beyond Death,Uncommon,2,Gold,True,True,True,True,b'Daarken',0.14
+Dream Trawler,Creature,Sphinx,Theros Beyond Death,Rare,6,Gold,True,True,True,True,b'Jesper Ejsing',1.15
+Enigmatic Incarnation,Enchantment,None,Theros Beyond Death,Rare,4,Gold,True,True,True,True,b'Pindurski',0.26
+Eutropia the Twice-Favored,Legendary Creature,Human Wizard,Theros Beyond Death,Uncommon,3,Gold,True,True,True,True,b'Sara Winters',0.14
+Gallia of the Endless Dance,Legendary Creature,Satyr,Theros Beyond Death,Rare,2,Gold,True,True,True,True,b'Johannes Voss',0.22
+Haktos the Unscarred,Legendary Creature,Human Warrior,Theros Beyond Death,Rare,4,Gold,True,True,True,True,b'Ryan Pancoast',0.22
+Hero of the Nyxborn,Enchantment Creature,Human Soldier,Theros Beyond Death,Uncommon,3,Gold,True,True,True,True,b'Victor Adame Minguez',0.08
+"Klothys, God of Destiny",Legendary Enchantment Creature,God,Theros Beyond Death,Mythic Rare,3,Gold,True,True,True,True,b'Magali Villeneuve',5.66
+"Kroxa, Titan of Death's Hunger",Legendary Creature,Elder Giant,Theros Beyond Death,Mythic Rare,2,Gold,True,True,True,True,b'Vincent Proce',19.56
+"Kunoros, Hound of Athreos",Legendary Creature,Hound,Theros Beyond Death,Rare,3,Gold,True,True,True,True,b'Zezhou Chen',0.54
+Mischievous Chimera,Enchantment Creature,Chimera,Theros Beyond Death,Uncommon,2,Gold,True,True,True,True,b'Antonio Jos\xc3\xa9 Manzanedo',0.09
+"Polukranos, Unchained",Legendary Creature,Zombie Hydra,Theros Beyond Death,Mythic Rare,4,Gold,True,True,True,True,b'Chris Rahn',2.37
+Rise to Glory,Sorcery,None,Theros Beyond Death,Uncommon,5,Gold,True,True,True,True,b'Howard Lyon',0.08
+"Siona, Captain of the Pyleas",Legendary Creature,Human Soldier,Theros Beyond Death,Uncommon,3,Gold,True,True,True,True,b'Chris Rallis',0.18
+Slaughter-Priest of Mogis,Creature,Minotaur Shaman,Theros Beyond Death,Uncommon,2,Gold,True,True,True,True,b'Steve Prescott',0.07
+Staggering Insight,Enchantment,Aura,Theros Beyond Death,Uncommon,2,Gold,True,True,True,True,b'Dmitry Burmak',0.28
+"Uro, Titan of Nature's Wrath",Legendary Creature,Elder Giant,Theros Beyond Death,Mythic Rare,3,Gold,True,True,True,True,b'Vincent Proce',42.06
+Warden of the Chained,Creature,Minotaur Warrior,Theros Beyond Death,Uncommon,3,Gold,True,True,True,True,b'Steve Prescott',0.06
+Altar of the Pantheon,Artifact,None,Theros Beyond Death,Common,3,Colorless,True,True,True,True,b'Jonas De Ro',0.1
+Bronze Sword,Artifact,Equipment,Theros Beyond Death,Common,1,Colorless,True,True,True,True,b'Kev Walker',0.05
+Entrancing Lyre,Artifact,None,Theros Beyond Death,Uncommon,3,Colorless,True,True,True,True,b'Yeong-Hao Han',0.05
+Mirror Shield,Artifact,Equipment,Theros Beyond Death,Uncommon,2,Colorless,True,True,True,True,b'Dan Scott',0.16
+Nyx Lotus,Legendary Artifact,None,Theros Beyond Death,Rare,4,Colorless,True,True,True,True,b'Raoul Vitale',3.71
+Shadowspear,Legendary Artifact,Equipment,Theros Beyond Death,Rare,1,Colorless,True,True,True,True,b'Yeong-Hao Han',5.42
+Soul-Guide Lantern,Artifact,None,Theros Beyond Death,Uncommon,1,Colorless,True,True,True,True,b'Cliff Childs',0.44
+Thaumaturge's Familiar,Artifact Creature,Bird,Theros Beyond Death,Common,3,Colorless,True,True,True,True,b'Andrea Radeck',0.02
+Thundering Chariot,Artifact,Vehicle,Theros Beyond Death,Uncommon,4,Colorless,True,True,True,True,b'Aaron Miller',0.08
+Traveler's Amulet,Artifact,None,Theros Beyond Death,Common,1,Colorless,True,True,True,True,b'Cliff Childs',0.06
+Wings of Hubris,Artifact,Equipment,Theros Beyond Death,Common,2,Colorless,True,True,True,True,b'Josh Hass',0.07
+Field of Ruin,Land,None,Theros Beyond Death,Uncommon,0,Colorless,True,True,True,True,b'Jung Park',0.44
+Labyrinth of Skophos,Land,None,Theros Beyond Death,Rare,0,Colorless,True,True,True,True,b'Jonas De Ro',0.44
+Temple of Abandon,Land,None,Theros Beyond Death,Rare,0,Colorless,True,True,True,True,b'Adam Paquette',0.79
+Temple of Deceit,Land,None,Theros Beyond Death,Rare,0,Colorless,True,True,True,True,b'Jonas De Ro',1.47
+Temple of Enlightenment,Land,None,Theros Beyond Death,Rare,0,Colorless,True,True,True,True,b'Piotr Dura',1.33
+Temple of Malice,Land,None,Theros Beyond Death,Rare,0,Colorless,True,True,True,True,b'Jonas De Ro',1.07
+Temple of Plenty,Land,None,Theros Beyond Death,Rare,0,Colorless,True,True,True,True,b'Chris Ostrowski',0.88
+Unknown Shores,Land,None,Theros Beyond Death,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.08
+Plains,Basic Land,Plains,Theros Beyond Death,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.45
+Island,Basic Land,Island,Theros Beyond Death,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.64
+Swamp,Basic Land,Swamp,Theros Beyond Death,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.68
+Mountain,Basic Land,Mountain,Theros Beyond Death,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.53
+Forest,Basic Land,Forest,Theros Beyond Death,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.72
+"Elspeth, Sun's Nemesis",Legendary Planeswalker,Elspeth,Theros Beyond Death,Mythic Rare,4,White,True,True,True,True,b'Chuck Lukacs',3.0
+"Ashiok, Nightmare Muse",Legendary Planeswalker,Ashiok,Theros Beyond Death,Mythic Rare,5,Gold,True,True,True,True,b'Chuck Lukacs',5.53
+"Calix, Destiny's Hand",Legendary Planeswalker,Calix,Theros Beyond Death,Mythic Rare,4,Gold,True,True,True,True,b'Chuck Lukacs',2.28
+"Daxos, Blessed by the Sun",Legendary Enchantment Creature,Demigod,Theros Beyond Death,Uncommon,2,White,True,True,True,True,b'Jason A. Engle',0.27
+"Heliod, Sun-Crowned",Legendary Enchantment Creature,God,Theros Beyond Death,Mythic Rare,3,White,True,True,True,True,b'Jason A. Engle',13.01
+"Callaphe, Beloved of the Sea",Legendary Enchantment Creature,Demigod,Theros Beyond Death,Uncommon,3,Blue,True,True,True,True,b'Jason A. Engle',0.18
+"Thassa, Deep-Dwelling",Legendary Enchantment Creature,God,Theros Beyond Death,Mythic Rare,4,Blue,True,True,True,True,b'Jason A. Engle',11.74
+"Erebos, Bleak-Hearted",Legendary Enchantment Creature,God,Theros Beyond Death,Mythic Rare,4,Black,True,True,True,True,b'Jason A. Engle',2.8
+"Tymaret, Chosen from Death",Legendary Enchantment Creature,Demigod,Theros Beyond Death,Uncommon,2,Black,True,True,True,True,b'Jason A. Engle',0.15
+"Anax, Hardened in the Forge",Legendary Enchantment Creature,Demigod,Theros Beyond Death,Uncommon,3,Red,True,True,True,True,b'Jason A. Engle',0.35
+"Purphoros, Bronze-Blooded",Legendary Enchantment Creature,God,Theros Beyond Death,Mythic Rare,5,Red,True,True,True,True,b'Jason A. Engle',2.44
+"Nylea, Keen-Eyed",Legendary Enchantment Creature,God,Theros Beyond Death,Mythic Rare,4,Green,True,True,True,True,b'Jason A. Engle',3.89
+"Renata, Called to the Hunt",Legendary Enchantment Creature,Demigod,Theros Beyond Death,Uncommon,4,Green,True,True,True,True,b'Jason A. Engle',0.25
+"Klothys, God of Destiny",Legendary Enchantment Creature,God,Theros Beyond Death,Mythic Rare,3,Gold,True,True,True,True,b'Jason A. Engle',5.87
+"Athreos, Shroud-Veiled",Legendary Enchantment Creature,God,Theros Beyond Death,Mythic Rare,6,Gold,True,True,True,False,b'Igor Kieryluk',3.27
+"Elspeth, Undaunted Hero",Legendary Planeswalker,Elspeth,Theros Beyond Death,Mythic Rare,5,White,True,True,True,False,b'Steven Belledin',0.43
+Eidolon of Inspiration,Enchantment Creature,Spirit,Theros Beyond Death,Uncommon,3,White,True,True,True,False,b'Bram Sels',0.21
+Elspeth's Devotee,Creature,Human Soldier,Theros Beyond Death,Rare,4,White,True,True,True,False,b'Caroline Gariba',0.21
+Sunlit Hoplite,Creature,Human Soldier,Theros Beyond Death,Common,2,White,True,True,True,False,b'Tomasz Jedruszek',0.18
+"Ashiok, Sculptor of Fears",Legendary Planeswalker,Ashiok,Theros Beyond Death,Mythic Rare,6,Gold,True,True,True,False,b'Daarken',0.99
+Swimmer in Nightmares,Creature,Nightmare Merfolk,Theros Beyond Death,Uncommon,3,Blue,True,True,True,False,b'Lucas Graciano',0.18
+Mindwrack Harpy,Enchantment Creature,Harpy,Theros Beyond Death,Common,4,Black,True,True,True,False,b'Deruchenko Alexander',0.23
+Ashiok's Forerunner,Creature,Human Wizard,Theros Beyond Death,Rare,5,Gold,True,True,True,False,b'Johannes Voss',0.2
+Plains,Basic Land,Plains,Theros Beyond Death,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.13
+Plains,Basic Land,Plains,Theros Beyond Death,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.14
+Island,Basic Land,Island,Theros Beyond Death,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.15
+Island,Basic Land,Island,Theros Beyond Death,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.16
+Swamp,Basic Land,Swamp,Theros Beyond Death,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.12
+Swamp,Basic Land,Swamp,Theros Beyond Death,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.12
+Mountain,Basic Land,Mountain,Theros Beyond Death,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.16
+Mountain,Basic Land,Mountain,Theros Beyond Death,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.15
+Forest,Basic Land,Forest,Theros Beyond Death,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.14
+Forest,Basic Land,Forest,Theros Beyond Death,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.14
+Grasping Giant,Creature,Giant,Theros Beyond Death,Rare,6,White,True,True,True,False,b'Jinho Bae',0.43
+Victory's Envoy,Creature,Human Cleric,Theros Beyond Death,Rare,5,White,True,True,True,False,b'Sara Winters',0.54
+Sphinx Mindbreaker,Creature,Sphinx,Theros Beyond Death,Rare,7,Blue,True,True,True,False,b'Pindurski',0.53
+Serpent of Yawning Depths,Enchantment Creature,Serpent,Theros Beyond Death,Rare,6,Blue,True,True,True,False,b'Tomasz Jedruszek',0.91
+Demon of Loathing,Creature,Demon,Theros Beyond Death,Rare,7,Black,True,True,True,False,b'Tomasz Jedruszek',0.5
+Underworld Sentinel,Creature,Skeleton Soldier,Theros Beyond Death,Rare,5,Black,True,True,True,False,b'Vincent Proce',0.63
+Deathbellow War Cry,Sorcery,None,Theros Beyond Death,Rare,8,Red,True,True,True,False,b'Josh Hass',0.5
+Terror of Mount Velus,Creature,Dragon,Theros Beyond Death,Rare,7,Red,True,True,True,False,b'Billy Christian',2.28
+Ironscale Hydra,Creature,Hydra,Theros Beyond Death,Rare,5,Green,True,True,True,False,b'Brian Valeza',3.06
+Treeshaker Chimera,Creature,Chimera,Theros Beyond Death,Rare,7,Green,True,True,True,False,b'Vincent Proce',0.45
+Archon of Sun's Grace,Creature,Archon,Theros Beyond Death,Rare,4,White,True,True,True,True,b'Matt Stewart',2.08
+Eidolon of Obstruction,Enchantment Creature,Spirit,Theros Beyond Death,Rare,2,White,True,True,True,True,b'Jason Rainville',0.44
+Heliod's Intervention,Instant,None,Theros Beyond Death,Rare,3,White,True,True,True,True,b'Daarken',3.24
+Idyllic Tutor,Sorcery,None,Theros Beyond Death,Rare,3,White,True,True,True,True,b'Jaime Jones',5.44
+Shatter the Sky,Sorcery,None,Theros Beyond Death,Rare,4,White,True,True,True,True,b'Bayard Wu',2.09
+"Taranika, Akroan Veteran",Legendary Creature,Human Soldier,Theros Beyond Death,Rare,3,White,True,True,True,True,b'Eric Deschamps',0.5
+Ashiok's Erasure,Enchantment,None,Theros Beyond Death,Rare,4,Blue,True,True,True,True,b'Zezhou Chen',0.53
+Nadir Kraken,Creature,Kraken,Theros Beyond Death,Rare,3,Blue,True,True,True,True,b'Dan Scott',2.35
+Protean Thaumaturge,Creature,Human Wizard,Theros Beyond Death,Rare,2,Blue,True,True,True,True,b'Izzy',0.49
+Thassa's Intervention,Instant,None,Theros Beyond Death,Rare,3,Blue,True,True,True,True,b'Zack Stella',1.47
+Thassa's Oracle,Creature,Merfolk Wizard,Theros Beyond Death,Rare,2,Blue,True,True,True,True,b'Jesper Ejsing',8.9
+"Thryx, the Sudden Storm",Legendary Creature,Elemental Giant,Theros Beyond Death,Rare,5,Blue,True,True,True,True,b'Mathias Kollros',1.36
+Wavebreak Hippocamp,Enchantment Creature,Horse Fish,Theros Beyond Death,Rare,3,Blue,True,True,True,True,b'Caio Monteiro',0.66
+"Aphemia, the Cacophony",Legendary Enchantment Creature,Harpy,Theros Beyond Death,Rare,2,Black,True,True,True,True,b'Lucas Graciano',0.64
+Eat to Extinction,Instant,None,Theros Beyond Death,Rare,4,Black,True,True,True,True,b'Vincent Proce',0.86
+Erebos's Intervention,Instant,None,Theros Beyond Death,Rare,2,Black,True,True,True,True,b'Mathias Kollros',0.83
+Gravebreaker Lamia,Enchantment Creature,Snake Lamia,Theros Beyond Death,Rare,5,Black,True,True,True,True,b'Lius Lasahido',1.04
+Nightmare Shepherd,Enchantment Creature,Demon,Theros Beyond Death,Rare,4,Black,True,True,True,True,b'Tyler Jacobson',2.01
+Treacherous Blessing,Enchantment,None,Theros Beyond Death,Rare,3,Black,True,True,True,True,b'Marco Teixeira',0.75
+Woe Strider,Creature,Horror,Theros Beyond Death,Rare,3,Black,True,True,True,True,b'John Thacker',1.37
+Ox of Agonas,Creature,Ox,Theros Beyond Death,Mythic Rare,5,Red,True,True,True,True,b'Lie Setiawan',5.78
+Phoenix of Ash,Creature,Phoenix,Theros Beyond Death,Rare,3,Red,True,True,True,True,b'Svetlin Velinov',0.87
+Purphoros's Intervention,Sorcery,None,Theros Beyond Death,Rare,2,Red,True,True,True,True,b'Aleksi Briclot',0.47
+Storm Herald,Creature,Human Shaman,Theros Beyond Death,Rare,3,Red,True,True,True,True,b'Aleksi Briclot',1.22
+Storm's Wrath,Sorcery,None,Theros Beyond Death,Rare,4,Red,True,True,True,True,b'Yeong-Hao Han',1.26
+Tectonic Giant,Creature,Elemental Giant,Theros Beyond Death,Rare,4,Red,True,True,True,True,b'Slawomir Maniak',1.09
+Underworld Breach,Enchantment,None,Theros Beyond Death,Rare,2,Red,True,True,True,True,b'Lie Setiawan',4.69
+Arasta of the Endless Web,Legendary Enchantment Creature,Spider,Theros Beyond Death,Rare,4,Green,True,True,True,True,b'Sam Rowan',1.2
+Dryad of the Ilysian Grove,Enchantment Creature,Nymph Dryad,Theros Beyond Death,Rare,3,Green,True,True,True,True,b'Scott Murphy',12.59
+Mantle of the Wolf,Enchantment,Aura,Theros Beyond Death,Rare,4,Green,True,True,True,True,b'Simon Dominic',0.46
+Nessian Boar,Creature,Boar,Theros Beyond Death,Rare,5,Green,True,True,True,True,b'Zoltan Boros',0.41
+Nylea's Intervention,Sorcery,None,Theros Beyond Death,Rare,3,Green,True,True,True,True,b'Zezhou Chen',1.51
+Nyxbloom Ancient,Enchantment Creature,Elemental,Theros Beyond Death,Mythic Rare,7,Green,True,True,True,True,b'Filip Burburan',19.73
+Setessan Champion,Creature,Human Warrior,Theros Beyond Death,Rare,3,Green,True,True,True,True,b'Emrah Elmasli',2.39
+Allure of the Unknown,Sorcery,None,Theros Beyond Death,Rare,5,Gold,True,True,True,True,b'Seb McKinnon',0.33
+"Atris, Oracle of Half-Truths",Legendary Creature,Human Advisor,Theros Beyond Death,Rare,4,Gold,True,True,True,True,b'Bastien L. Deharme',1.06
+Bronzehide Lion,Creature,Cat,Theros Beyond Death,Rare,2,Gold,True,True,True,True,b'Alayna Danner',1.04
+"Dalakos, Crafter of Wonders",Legendary Creature,Merfolk Artificer,Theros Beyond Death,Rare,3,Gold,True,True,True,True,b'Ryan Pancoast',0.81
+Dream Trawler,Creature,Sphinx,Theros Beyond Death,Rare,6,Gold,True,True,True,True,b'Jesper Ejsing',3.14
+Enigmatic Incarnation,Enchantment,None,Theros Beyond Death,Rare,4,Gold,True,True,True,True,b'Pindurski',0.78
+Gallia of the Endless Dance,Legendary Creature,Satyr,Theros Beyond Death,Rare,2,Gold,True,True,True,True,b'Johannes Voss',0.92
+Haktos the Unscarred,Legendary Creature,Human Warrior,Theros Beyond Death,Rare,4,Gold,True,True,True,True,b'Ryan Pancoast',0.52
+"Kroxa, Titan of Death's Hunger",Legendary Creature,Elder Giant,Theros Beyond Death,Mythic Rare,2,Gold,True,True,True,True,b'Vincent Proce',26.19
+"Kunoros, Hound of Athreos",Legendary Creature,Hound,Theros Beyond Death,Rare,3,Gold,True,True,True,True,b'Zezhou Chen',1.85
+"Polukranos, Unchained",Legendary Creature,Zombie Hydra,Theros Beyond Death,Mythic Rare,4,Gold,True,True,True,True,b'Chris Rahn',5.72
+"Uro, Titan of Nature's Wrath",Legendary Creature,Elder Giant,Theros Beyond Death,Mythic Rare,3,Gold,True,True,True,True,b'Vincent Proce',55.59
+Nyx Lotus,Legendary Artifact,None,Theros Beyond Death,Rare,4,Colorless,True,True,True,True,b'Raoul Vitale',7.24
+Shadowspear,Legendary Artifact,Equipment,Theros Beyond Death,Rare,1,Colorless,True,True,True,True,b'Yeong-Hao Han',9.16
+Labyrinth of Skophos,Land,None,Theros Beyond Death,Rare,0,Colorless,True,True,True,True,b'Jonas De Ro',0.95
+Temple of Abandon,Land,None,Theros Beyond Death,Rare,0,Colorless,True,True,True,True,b'Adam Paquette',1.95
+Temple of Deceit,Land,None,Theros Beyond Death,Rare,0,Colorless,True,True,True,True,b'Jonas De Ro',3.63
+Temple of Enlightenment,Land,None,Theros Beyond Death,Rare,0,Colorless,True,True,True,True,b'Piotr Dura',4.22
+Temple of Malice,Land,None,Theros Beyond Death,Rare,0,Colorless,True,True,True,True,b'Jonas De Ro',2.23
+Temple of Plenty,Land,None,Theros Beyond Death,Rare,0,Colorless,True,True,True,True,b'Chris Ostrowski',2.7
+Arasta of the Endless Web,Legendary Enchantment Creature,Spider,Theros Beyond Death,Rare,4,Green,True,True,True,True,b'Jesper Ejsing',0.51
+Alseid of Life's Bounty,Enchantment Creature,Nymph,Theros Beyond Death,Uncommon,1,White,True,True,True,True,b'Magali Villeneuve',0.43
+Thirst for Meaning,Instant,None,Theros Beyond Death,Common,3,Blue,True,True,True,True,b'Brian Valeza',0.3
+Gray Merchant of Asphodel,Creature,Zombie,Theros Beyond Death,Uncommon,5,Black,True,True,True,True,b'Scott Murphy',0.83
+Thrill of Possibility,Instant,None,Theros Beyond Death,Common,2,Red,True,True,True,True,b'Izzy',0.4
+Wolfwillow Haven,Enchantment,Aura,Theros Beyond Death,Uncommon,2,Green,True,True,True,True,b'Jakub Kasper',0.36

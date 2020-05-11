@@ -1,0 +1,146 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+"Akroma, Angel of Wrath",Legendary Creature,Angel,Legions,Rare,8,White,True,False,True,True,b'Ron Spears',3.15
+Akroma's Devoted,Creature,Human Cleric,Legions,Uncommon,4,White,False,False,True,False,b'Dave Dorman',0.18
+Aven Redeemer,Creature,Bird Cleric,Legions,Common,4,White,False,False,True,False,b'Tim Hildebrandt',0.07
+Aven Warhawk,Creature,Bird Soldier,Legions,Uncommon,5,White,False,False,True,False,b'Glen Angus',0.12
+Beacon of Destiny,Creature,Human Cleric,Legions,Rare,2,White,False,False,True,False,b'Tim Hildebrandt',0.31
+Celestial Gatekeeper,Creature,Bird Cleric,Legions,Rare,5,White,False,False,True,False,b'Christopher Moeller',0.7
+Cloudreach Cavalry,Creature,Human Soldier,Legions,Uncommon,2,White,False,False,True,False,b'Kev Walker',0.15
+Daru Mender,Creature,Human Cleric,Legions,Uncommon,1,White,False,False,True,False,b'Ben Thompson',0.12
+Daru Sanctifier,Creature,Human Cleric,Legions,Common,4,White,False,False,True,False,b'Tony Szczudlo',0.15
+Daru Stinger,Creature,Soldier,Legions,Common,4,White,False,False,True,False,b'Greg Staples',0.06
+Defender of the Order,Creature,Human Cleric,Legions,Rare,4,White,False,False,True,False,b'Darrell Riche',0.26
+Deftblade Elite,Creature,Human Soldier,Legions,Common,1,White,False,False,True,True,b'Alan Pollack',0.41
+Essence Sliver,Creature,Sliver,Legions,Rare,4,White,True,False,True,True,b'Glen Angus',3.44
+Gempalm Avenger,Creature,Human Soldier,Legions,Common,6,White,False,False,True,True,b'Tim Hildebrandt',0.07
+Glowrider,Creature,Human Cleric,Legions,Rare,3,White,False,False,True,False,b'Scott M. Fischer',1.06
+Liege of the Axe,Creature,Human Soldier,Legions,Uncommon,4,White,False,False,True,False,b'Christopher Moeller',0.06
+Lowland Tracker,Creature,Human Soldier,Legions,Common,5,White,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.04
+Planar Guide,Creature,Human Cleric,Legions,Rare,1,White,False,False,True,False,b'Eric Peterson',0.5
+Plated Sliver,Creature,Sliver,Legions,Common,1,White,False,False,True,False,b'Greg Staples',0.4
+Starlight Invoker,Creature,Human Cleric Mutant,Legions,Common,2,White,True,False,True,True,b'Glen Angus',0.06
+Stoic Champion,Creature,Human Soldier,Legions,Uncommon,2,White,False,False,True,True,b'Greg Hildebrandt',0.21
+Sunstrike Legionnaire,Creature,Human Soldier,Legions,Rare,2,White,False,False,True,False,b'Mark Zug',0.27
+Swooping Talon,Creature,Bird Soldier,Legions,Uncommon,6,White,False,False,True,False,b'Mark Zug',0.18
+Wall of Hope,Creature,Wall,Legions,Common,1,White,False,False,True,False,b'David Martin',0.35
+Ward Sliver,Creature,Sliver,Legions,Uncommon,5,White,False,False,True,False,b'Pete Venters',1.03
+Whipgrass Entangler,Creature,Human Cleric,Legions,Common,3,White,False,False,True,False,b'Ben Thompson',0.12
+White Knight,Creature,Human Knight,Legions,Uncommon,2,White,True,False,True,True,"b'Edward P. Beard, Jr.'",0.13
+Windborn Muse,Creature,Spirit,Legions,Rare,4,White,True,False,True,True,b'Adam Rex',3.96
+Wingbeat Warrior,Creature,Bird Soldier Warrior,Legions,Common,3,White,False,False,True,False,b'Kev Walker',0.05
+Aven Envoy,Creature,Bird Soldier,Legions,Common,1,Blue,False,False,True,False,b'Alex Horley-Orlandelli',0.06
+Cephalid Pathmage,Creature,Cephalid Wizard,Legions,Common,3,Blue,False,False,True,False,b'Alex Horley-Orlandelli',0.13
+Chromeshell Crab,Creature,Crab Beast,Legions,Rare,5,Blue,False,False,True,True,b'Ron Spencer',0.27
+Covert Operative,Creature,Human Wizard,Legions,Common,5,Blue,False,False,True,False,b'Kev Walker',0.12
+Crookclaw Elder,Creature,Bird Wizard,Legions,Uncommon,6,Blue,False,False,True,False,b'Ron Spencer',0.25
+Dermoplasm,Creature,Shapeshifter,Legions,Rare,3,Blue,False,False,True,False,b'John Avon',0.36
+Dreamborn Muse,Creature,Spirit,Legions,Rare,4,Blue,True,False,True,True,b'Kev Walker',1.43
+Echo Tracer,Creature,Human Wizard,Legions,Common,3,Blue,False,False,True,True,b'Scott M. Fischer',0.25
+Fugitive Wizard,Creature,Human Wizard,Legions,Common,1,Blue,True,False,True,True,b'Jim Nelson',0.04
+Gempalm Sorcerer,Creature,Human Wizard,Legions,Uncommon,3,Blue,False,False,True,False,b'Greg Hildebrandt',0.14
+Glintwing Invoker,Creature,Human Wizard Mutant,Legions,Common,5,Blue,False,False,True,False,b'Jim Nelson',0.08
+Keeneye Aven,Creature,Bird Soldier,Legions,Common,4,Blue,False,False,True,True,b'Greg Hildebrandt',0.1
+Keeper of the Nine Gales,Creature,Bird Wizard,Legions,Rare,3,Blue,False,False,True,False,b'Jim Nelson',0.61
+Master of the Veil,Creature,Human Wizard,Legions,Uncommon,4,Blue,False,False,True,False,b'Ron Spears',0.69
+Merchant of Secrets,Creature,Human Wizard,Legions,Common,3,Blue,True,False,True,True,b'Greg Hildebrandt',0.14
+Mistform Seaswift,Creature,Illusion,Legions,Common,4,Blue,False,False,True,False,b'Dany Orizio',0.12
+Mistform Sliver,Creature,Illusion Sliver,Legions,Common,2,Blue,False,False,True,False,b'Ben Thompson',0.11
+Mistform Ultimus,Legendary Creature,Illusion,Legions,Rare,4,Blue,True,False,True,True,b'Anthony S. Waters',0.28
+Mistform Wakecaster,Creature,Illusion,Legions,Uncommon,5,Blue,False,False,True,False,b'Glen Angus',0.18
+Primoc Escapee,Creature,Bird Beast,Legions,Uncommon,7,Blue,False,False,True,False,b'Tony Szczudlo',0.16
+Riptide Director,Creature,Human Wizard,Legions,Rare,4,Blue,False,False,True,False,b'Scott M. Fischer',1.56
+Riptide Mangler,Creature,Beast,Legions,Rare,2,Blue,False,False,True,False,b'Arnie Swekel',0.18
+Shifting Sliver,Creature,Sliver,Legions,Uncommon,4,Blue,False,False,True,False,b'Darrell Riche',2.31
+Synapse Sliver,Creature,Sliver,Legions,Rare,5,Blue,False,False,True,False,b'Thomas M. Baxa',12.48
+Voidmage Apprentice,Creature,Human Wizard,Legions,Common,2,Blue,False,False,True,True,b'Jim Nelson',0.47
+Wall of Deceit,Creature,Wall,Legions,Uncommon,2,Blue,False,False,True,True,b'John Avon',0.3
+Warped Researcher,Creature,Human Wizard Mutant,Legions,Uncommon,5,Blue,False,False,True,False,b'rk post',0.25
+Weaver of Lies,Creature,Beast,Legions,Rare,7,Blue,False,False,True,False,b'Luca Zontini',2.3
+Willbender,Creature,Human Wizard,Legions,Uncommon,2,Blue,True,False,True,True,b'Eric Peterson',0.22
+Aphetto Exterminator,Creature,Human Wizard,Legions,Uncommon,3,Black,False,False,True,False,b'Scott M. Fischer',0.15
+Bane of the Living,Creature,Insect,Legions,Rare,4,Black,False,False,True,True,b'Justin Sweet',0.3
+Blood Celebrant,Creature,Human Cleric,Legions,Common,1,Black,False,False,True,False,b'Ben Thompson',0.61
+Corpse Harvester,Creature,Zombie Wizard,Legions,Uncommon,5,Black,False,False,True,True,b'Mark Tedin',0.87
+Crypt Sliver,Creature,Sliver,Legions,Common,2,Black,False,False,True,True,"b'Edward P. Beard, Jr.'",0.79
+Dark Supplicant,Creature,Human Cleric,Legions,Uncommon,1,Black,False,False,True,False,b'Mark Zug',0.22
+Deathmark Prelate,Creature,Human Cleric,Legions,Uncommon,4,Black,False,False,True,False,b'Tony Szczudlo',0.14
+Drinker of Sorrow,Creature,Horror,Legions,Rare,3,Black,False,False,True,False,b'Carl Critchlow',0.16
+Dripping Dead,Creature,Zombie,Legions,Common,6,Black,False,False,True,False,b'Thomas M. Baxa',0.1
+Earthblighter,Creature,Human Cleric,Legions,Uncommon,2,Black,False,False,True,False,b'Alex Horley-Orlandelli',0.14
+Embalmed Brawler,Creature,Zombie,Legions,Common,3,Black,False,False,True,False,b'Justin Sweet',0.07
+Gempalm Polluter,Creature,Zombie,Legions,Common,6,Black,False,False,True,True,b'Dany Orizio',0.59
+Ghastly Remains,Creature,Zombie,Legions,Rare,3,Black,False,False,True,False,"b'Edward P. Beard, Jr.'",0.22
+Goblin Turncoat,Creature,Goblin Mercenary,Legions,Common,2,Black,False,False,True,False,b'Jim Nelson',0.07
+Graveborn Muse,Creature,Zombie Spirit,Legions,Rare,4,Black,True,False,True,True,b'Kev Walker',1.52
+Havoc Demon,Creature,Demon,Legions,Rare,7,Black,False,False,True,True,b'Thomas M. Baxa',0.28
+Hollow Specter,Creature,Specter,Legions,Rare,3,Black,False,False,True,False,b'rk post',0.29
+Infernal Caretaker,Creature,Human Cleric,Legions,Common,4,Black,False,False,True,False,b'Christopher Moeller',0.12
+Noxious Ghoul,Creature,Zombie,Legions,Uncommon,5,Black,False,False,True,True,b'Luca Zontini',1.17
+Phage the Untouchable,Legendary Creature,Avatar Minion,Legions,Rare,7,Black,True,False,True,True,b'Ron Spears',3.66
+Scion of Darkness,Creature,Avatar,Legions,Rare,8,Black,False,False,True,True,b'Mark Zug',1.32
+Skinthinner,Creature,Zombie,Legions,Common,2,Black,False,False,True,True,b'Dany Orizio',0.13
+Smokespew Invoker,Creature,Zombie Mutant,Legions,Common,3,Black,False,False,True,False,b'Thomas M. Baxa',0.06
+Sootfeather Flock,Creature,Bird,Legions,Common,5,Black,False,False,True,False,b'David Martin',0.04
+Spectral Sliver,Creature,Sliver Spirit,Legions,Uncommon,3,Black,False,False,True,True,b'Pete Venters',0.21
+Toxin Sliver,Creature,Sliver,Legions,Rare,4,Black,False,False,True,True,b'Lars Grant-West',5.96
+Vile Deacon,Creature,Human Cleric,Legions,Common,4,Black,False,False,True,False,b'Matthew D. Wilson',0.1
+Withered Wretch,Creature,Zombie Cleric,Legions,Uncommon,2,Black,True,False,True,True,b'Tim Hildebrandt',0.32
+Zombie Brute,Creature,Zombie,Legions,Uncommon,7,Black,False,False,True,False,b'Greg Hildebrandt',0.18
+Blade Sliver,Creature,Sliver,Legions,Uncommon,3,Red,False,False,True,True,b'David Martin',0.64
+Bloodstoke Howler,Creature,Beast,Legions,Common,6,Red,False,False,True,False,b'Christopher Moeller',0.11
+Clickslither,Creature,Insect,Legions,Rare,4,Red,False,False,True,True,b'Kev Walker',0.3
+Crested Craghorn,Creature,Goat Beast,Legions,Common,5,Red,False,False,True,False,b'Matt Cavotta',0.07
+Flamewave Invoker,Creature,Goblin Mutant,Legions,Common,3,Red,True,False,True,True,b'Dave Dorman',0.15
+Frenetic Raptor,Creature,Dinosaur Beast,Legions,Uncommon,6,Red,False,False,True,False,b'Daren Bader',0.12
+Gempalm Incinerator,Creature,Goblin,Legions,Uncommon,3,Red,False,False,True,True,b'Luca Zontini',0.6
+Goblin Assassin,Creature,Goblin Assassin,Legions,Uncommon,5,Red,False,False,True,False,b'Dave Dorman',0.78
+Goblin Clearcutter,Creature,Goblin,Legions,Uncommon,4,Red,False,False,True,False,b'Eric Peterson',0.15
+Goblin Dynamo,Creature,Goblin Mutant,Legions,Uncommon,7,Red,False,False,True,False,b'Ron Spencer',0.14
+Goblin Firebug,Creature,Goblin,Legions,Common,2,Red,False,False,True,False,b'Christopher Moeller',0.05
+Goblin Goon,Creature,Goblin Mutant,Legions,Rare,4,Red,False,False,True,True,b'Greg Staples',0.36
+Goblin Grappler,Creature,Goblin,Legions,Common,1,Red,False,False,True,True,b'Christopher Moeller',0.12
+Goblin Lookout,Creature,Goblin,Legions,Common,2,Red,False,False,True,False,b'Jim Nelson',0.45
+Hunter Sliver,Creature,Sliver,Legions,Common,2,Red,False,False,True,True,b'Kev Walker',0.29
+Imperial Hellkite,Creature,Dragon,Legions,Rare,7,Red,False,False,True,True,b'Matt Cavotta',0.32
+Kilnmouth Dragon,Creature,Dragon,Legions,Rare,7,Red,False,False,True,True,b'Carl Critchlow',0.86
+Lavaborn Muse,Creature,Spirit,Legions,Rare,4,Red,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.17
+Macetail Hystrodon,Creature,Beast,Legions,Common,7,Red,False,False,True,False,b'Daren Bader',0.09
+Magma Sliver,Creature,Sliver,Legions,Rare,4,Red,False,False,True,True,b'Wayne England',7.29
+Ridgetop Raptor,Creature,Dinosaur Beast,Legions,Uncommon,4,Red,False,False,True,False,b'Daren Bader',0.17
+Rockshard Elemental,Creature,Elemental,Legions,Rare,7,Red,False,False,True,False,b'Anthony S. Waters',0.21
+Shaleskin Plower,Creature,Beast,Legions,Common,4,Red,False,False,True,False,b'Daren Bader',0.09
+Skirk Alarmist,Creature,Human Wizard,Legions,Rare,2,Red,False,False,True,False,b'Justin Sweet',0.27
+Skirk Drill Sergeant,Creature,Goblin,Legions,Uncommon,2,Red,False,False,True,True,b'Alex Horley-Orlandelli',0.13
+Skirk Marauder,Creature,Goblin,Legions,Common,2,Red,False,False,True,True,b'Pete Venters',0.16
+Skirk Outrider,Creature,Goblin,Legions,Common,4,Red,False,False,True,False,b'Greg Staples',0.12
+Unstable Hulk,Creature,Goblin Mutant,Legions,Rare,3,Red,False,False,True,False,b'Ron Spencer',0.14
+Warbreak Trumpeter,Creature,Goblin,Legions,Uncommon,1,Red,False,False,True,False,b'Dany Orizio',0.18
+Berserk Murlodont,Creature,Beast,Legions,Common,5,Green,False,False,True,False,b'Arnie Swekel',0.09
+Branchsnap Lorian,Creature,Beast,Legions,Uncommon,3,Green,False,False,True,False,b'Heather Hudson',0.16
+Brontotherium,Creature,Beast,Legions,Uncommon,6,Green,False,False,True,False,b'Carl Critchlow',0.17
+Brood Sliver,Creature,Sliver,Legions,Rare,5,Green,False,False,True,True,b'Ron Spears',6.87
+Caller of the Claw,Creature,Elf,Legions,Rare,3,Green,False,False,True,True,b'Matt Cavotta',1.02
+Canopy Crawler,Creature,Beast,Legions,Uncommon,4,Green,False,False,True,False,b'Anthony S. Waters',0.25
+Defiant Elf,Creature,Elf,Legions,Common,1,Green,False,False,True,False,b'Pete Venters',0.13
+Elvish Soultiller,Creature,Elf Mutant,Legions,Rare,5,Green,False,False,True,False,b'Ron Spears',0.45
+Enormous Baloth,Creature,Beast,Legions,Uncommon,7,Green,True,False,True,True,b'Mark Tedin',0.11
+Feral Throwback,Creature,Beast,Legions,Rare,6,Green,False,False,True,True,b'Carl Critchlow',0.25
+Gempalm Strider,Creature,Elf,Legions,Uncommon,2,Green,False,False,True,True,b'Tim Hildebrandt',0.15
+Glowering Rogon,Creature,Beast,Legions,Common,6,Green,False,False,True,False,b'Kev Walker',0.04
+Hundroog,Creature,Beast,Legions,Common,7,Green,False,False,True,False,b'Wayne England',0.09
+Krosan Cloudscraper,Creature,Beast Mutant,Legions,Rare,10,Green,True,False,True,True,b'Ron Spears',0.5
+Krosan Vorine,Creature,Cat Beast,Legions,Common,4,Green,False,False,True,True,b'Carl Critchlow',0.12
+Nantuko Vigilante,Creature,Insect Druid Mutant,Legions,Common,4,Green,False,False,True,True,b'Alex Horley-Orlandelli',0.16
+Needleshot Gourna,Creature,Beast,Legions,Common,6,Green,False,False,True,False,"b'Edward P. Beard, Jr.'",0.07
+Patron of the Wild,Creature,Elf,Legions,Common,1,Green,False,False,True,False,b'Dave Dorman',0.1
+Primal Whisperer,Creature,Elf Soldier,Legions,Rare,5,Green,False,False,True,False,b'Greg Staples',2.24
+Quick Sliver,Creature,Sliver,Legions,Common,2,Green,False,False,True,True,b'John Avon',0.35
+Root Sliver,Creature,Sliver,Legions,Uncommon,4,Green,False,False,True,True,b'Matt Thompson',3.42
+Seedborn Muse,Creature,Spirit,Legions,Rare,5,Green,True,False,True,True,b'Adam Rex',8.52
+Stonewood Invoker,Creature,Elf Mutant,Legions,Common,2,Green,False,False,True,True,b'Eric Peterson',0.07
+Timberwatch Elf,Creature,Elf,Legions,Common,3,Green,False,False,True,True,b'Dave Dorman',0.54
+Totem Speaker,Creature,Elf Druid,Legions,Uncommon,5,Green,False,False,True,False,b'Darrell Riche',0.13
+Tribal Forcemage,Creature,Elf Wizard,Legions,Rare,2,Green,False,False,True,False,b'Greg Staples',0.3
+Vexing Beetle,Creature,Insect,Legions,Rare,5,Green,False,False,True,False,b'Matt Thompson',0.12
+Wirewood Channeler,Creature,Elf Druid,Legions,Uncommon,4,Green,False,False,True,True,b'Alan Pollack',1.47
+Wirewood Hivemaster,Creature,Elf,Legions,Uncommon,2,Green,False,False,True,True,b'Darrell Riche',0.21

@@ -1,0 +1,388 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Adaptive Shimmerer,Creature,Insect,Ikoria: Lair of Behemoths,Common,5,Colorless,True,True,True,True,b'Jason Felix',0.25
+Farfinder,Creature,Fox,Ikoria: Lair of Behemoths,Common,3,Colorless,True,True,True,True,b'Leesha Hannigan',0.2
+Mysterious Egg,Creature,Egg,Ikoria: Lair of Behemoths,Common,1,Colorless,True,True,True,True,b'Volkan Ba\xc7\xb5a',0.23
+Blade Banish,Instant,None,Ikoria: Lair of Behemoths,Common,4,White,True,True,True,True,b'Lie Setiawan',0.25
+Checkpoint Officer,Creature,Human Soldier,Ikoria: Lair of Behemoths,Common,2,White,True,True,True,True,b'Manuel Casta\xc3\xb1\xc3\xb3n',0.2
+Coordinated Charge,Instant,None,Ikoria: Lair of Behemoths,Common,5,White,True,True,True,True,b'Zoltan Boros',0.19
+Cubwarden,Creature,Cat,Ikoria: Lair of Behemoths,Rare,4,White,True,True,True,True,b'Kekai Kotaki',0.28
+Daysquad Marshal,Creature,Human Soldier,Ikoria: Lair of Behemoths,Common,4,White,True,True,True,True,b'Micah Epstein',0.19
+Divine Arrow,Instant,None,Ikoria: Lair of Behemoths,Common,2,White,True,True,True,True,b'Slawomir Maniak',0.18
+Drannith Healer,Creature,Human Cleric,Ikoria: Lair of Behemoths,Common,2,White,True,True,True,True,b'Scott Murphy',0.26
+Drannith Magistrate,Creature,Human Wizard,Ikoria: Lair of Behemoths,Rare,2,White,True,True,True,True,b'Kieran Yanner',5.85
+Fight as One,Instant,None,Ikoria: Lair of Behemoths,Uncommon,1,White,True,True,True,True,b'Bryan Sola',0.29
+Flourishing Fox,Creature,Fox,Ikoria: Lair of Behemoths,Uncommon,1,White,True,True,True,True,b'Ilse Gort',0.41
+Garrison Cat,Creature,Cat,Ikoria: Lair of Behemoths,Common,1,White,True,True,True,True,b'Sidharth Chaturvedi',0.23
+Helica Glider,Creature,Nightmare Squirrel,Ikoria: Lair of Behemoths,Common,3,White,True,True,True,True,b'Jehan Choo',0.27
+Huntmaster Liger,Creature,Cat,Ikoria: Lair of Behemoths,Uncommon,4,White,True,True,True,True,b'Leesha Hannigan',0.23
+Imposing Vantasaur,Creature,Dinosaur,Ikoria: Lair of Behemoths,Common,6,White,True,True,True,True,b'Jonathan Kuo',0.2
+Keensight Mentor,Creature,Human Cleric,Ikoria: Lair of Behemoths,Uncommon,3,White,True,True,True,True,b'Yongjae Choi',0.3
+Lavabrink Venturer,Creature,Human Soldier,Ikoria: Lair of Behemoths,Rare,3,White,True,True,True,True,b'Zoltan Boros',0.49
+Light of Hope,Instant,None,Ikoria: Lair of Behemoths,Common,1,White,True,True,True,True,b'Kimonas Theodossiou',0.21
+Luminous Broodmoth,Creature,Insect,Ikoria: Lair of Behemoths,Mythic Rare,4,White,True,True,True,True,b'Lie Setiawan',19.69
+Majestic Auricorn,Creature,Unicorn,Ikoria: Lair of Behemoths,Uncommon,5,White,True,True,True,True,b'Jonathan Kuo',0.32
+Maned Serval,Creature,Cat,Ikoria: Lair of Behemoths,Common,2,White,True,True,True,True,b'Jonathan Kuo',0.23
+Mythos of Snapdax,Sorcery,None,Ikoria: Lair of Behemoths,Rare,4,White,True,True,True,True,b'Seb McKinnon',0.47
+Pacifism,Enchantment,Aura,Ikoria: Lair of Behemoths,Common,2,White,True,True,True,True,b'Kev Walker',0.29
+Patagia Tiger,Creature,Cat,Ikoria: Lair of Behemoths,Common,5,White,True,True,True,True,b'Micah Epstein',0.22
+Perimeter Sergeant,Creature,Human Soldier,Ikoria: Lair of Behemoths,Common,3,White,True,True,True,True,b'Stepan Alekseev',0.21
+Sanctuary Lockdown,Enchantment,None,Ikoria: Lair of Behemoths,Uncommon,3,White,True,True,True,True,b'Lius Lasahido',0.25
+Savai Sabertooth,Creature,Cat,Ikoria: Lair of Behemoths,Common,2,White,True,True,True,True,b'Ilse Gort',0.33
+Snare Tactician,Creature,Human Soldier,Ikoria: Lair of Behemoths,Common,3,White,True,True,True,True,b'Micah Epstein',0.27
+Solid Footing,Enchantment,Aura,Ikoria: Lair of Behemoths,Common,1,White,True,True,True,True,b'Wisnu Tan',0.25
+Splendor Mare,Creature,Elk Unicorn,Ikoria: Lair of Behemoths,Uncommon,3,White,True,True,True,True,b'Lucas Graciano',0.23
+Spontaneous Flight,Instant,None,Ikoria: Lair of Behemoths,Common,3,White,True,True,True,True,b'Gabor Szikszai',0.23
+Stormwild Capridor,Creature,Bird Goat,Ikoria: Lair of Behemoths,Uncommon,3,White,True,True,True,True,b'Dmitry Burmak',0.32
+Swallow Whole,Sorcery,None,Ikoria: Lair of Behemoths,Uncommon,1,White,True,True,True,True,b'Svetlin Velinov',0.24
+Valiant Rescuer,Creature,Human Soldier,Ikoria: Lair of Behemoths,Uncommon,2,White,True,True,True,True,b'Bram Sels',0.26
+Vulpikeet,Creature,Fox Bird,Ikoria: Lair of Behemoths,Common,4,White,True,True,True,True,b'Leesha Hannigan',0.21
+Will of the All-Hunter,Instant,None,Ikoria: Lair of Behemoths,Uncommon,2,White,True,True,True,True,b'Viktor Titov',0.37
+Aegis Turtle,Creature,Turtle,Ikoria: Lair of Behemoths,Common,1,Blue,True,True,True,True,b'Milivoj \xc4\x86eran',0.21
+Anticipate,Instant,None,Ikoria: Lair of Behemoths,Common,2,Blue,True,True,True,True,b'Kieran Yanner',0.35
+Archipelagore,Creature,Leviathan,Ikoria: Lair of Behemoths,Uncommon,7,Blue,True,True,True,True,b'Svetlin Velinov',0.31
+Avian Oddity,Creature,Bird,Ikoria: Lair of Behemoths,Uncommon,4,Blue,True,True,True,True,b'Simon Dominic',0.38
+Boon of the Wish-Giver,Sorcery,None,Ikoria: Lair of Behemoths,Uncommon,6,Blue,True,True,True,True,b'Chris Rahn',0.29
+Capture Sphere,Enchantment,Aura,Ikoria: Lair of Behemoths,Common,4,Blue,True,True,True,True,b'Jakub Kasper',0.18
+Convolute,Instant,None,Ikoria: Lair of Behemoths,Common,3,Blue,True,True,True,True,b'Jason Rainville',0.23
+Crystacean,Creature,Crab,Ikoria: Lair of Behemoths,Common,4,Blue,True,True,True,True,b'Mathias Kollros',0.2
+Dreamtail Heron,Creature,Elemental Bird,Ikoria: Lair of Behemoths,Common,5,Blue,True,True,True,True,b'Caio Monteiro',0.23
+Escape Protocol,Enchantment,None,Ikoria: Lair of Behemoths,Uncommon,2,Blue,True,True,True,True,b'Deruchenko Alexander',0.3
+Essence Scatter,Instant,None,Ikoria: Lair of Behemoths,Common,2,Blue,True,True,True,True,b'Seb McKinnon',0.23
+Facet Reader,Creature,Human Wizard,Ikoria: Lair of Behemoths,Common,2,Blue,True,True,True,True,b'Matt Stewart',0.04
+Frost Lynx,Creature,Elemental Cat,Ikoria: Lair of Behemoths,Common,3,Blue,True,True,True,True,b'Ilse Gort',0.2
+Frostveil Ambush,Instant,None,Ikoria: Lair of Behemoths,Common,5,Blue,True,True,True,True,b'Johan Grenier',0.2
+Glimmerbell,Creature,Elemental Jellyfish,Ikoria: Lair of Behemoths,Common,2,Blue,True,True,True,True,b'Simon Dominic',0.2
+Gust of Wind,Sorcery,None,Ikoria: Lair of Behemoths,Common,4,Blue,True,True,True,True,b'Adam Paquette',0.24
+Hampering Snare,Instant,None,Ikoria: Lair of Behemoths,Common,2,Blue,True,True,True,True,b'Svetlin Velinov',0.25
+Keep Safe,Instant,None,Ikoria: Lair of Behemoths,Common,2,Blue,True,True,True,True,b'Ekaterina Burmak',0.24
+Mystic Subdual,Enchantment,Aura,Ikoria: Lair of Behemoths,Uncommon,2,Blue,True,True,True,True,b'Filip Burburan',0.48
+Mythos of Illuna,Sorcery,None,Ikoria: Lair of Behemoths,Rare,4,Blue,True,True,True,True,b'Seb McKinnon',0.62
+Neutralize,Instant,None,Ikoria: Lair of Behemoths,Uncommon,3,Blue,True,True,True,True,b'Yongjae Choi',0.45
+Of One Mind,Sorcery,None,Ikoria: Lair of Behemoths,Common,3,Blue,True,True,True,True,b'Matt Stewart',0.25
+Ominous Seas,Enchantment,None,Ikoria: Lair of Behemoths,Uncommon,2,Blue,True,True,True,True,b'Vincent Proce',0.66
+Phase Dolphin,Creature,Elemental Whale,Ikoria: Lair of Behemoths,Common,3,Blue,True,True,True,True,b'Lie Setiawan',0.18
+Pollywog Symbiote,Creature,Frog,Ikoria: Lair of Behemoths,Uncommon,2,Blue,True,True,True,True,b'Simon Dominic',0.26
+Pouncing Shoreshark,Creature,Shark Beast,Ikoria: Lair of Behemoths,Uncommon,5,Blue,True,True,True,True,b'Dan Scott',0.27
+Reconnaissance Mission,Enchantment,None,Ikoria: Lair of Behemoths,Uncommon,4,Blue,True,True,True,True,b'Johannes Voss',0.5
+Sea-Dasher Octopus,Creature,Octopus,Ikoria: Lair of Behemoths,Rare,3,Blue,True,True,True,True,b'Chris Seaman',5.85
+Shark Typhoon,Enchantment,None,Ikoria: Lair of Behemoths,Rare,6,Blue,True,True,True,True,b'Caio Monteiro',5.74
+Startling Development,Instant,None,Ikoria: Lair of Behemoths,Common,2,Blue,True,True,True,True,b'Simon Dominic',0.21
+Thieving Otter,Creature,Otter,Ikoria: Lair of Behemoths,Common,3,Blue,True,True,True,True,b'Jakub Kasper',0.23
+Voracious Greatshark,Creature,Shark,Ikoria: Lair of Behemoths,Rare,5,Blue,True,True,True,True,b'Mathias Kollros',0.68
+Wingfold Pteron,Creature,Dinosaur,Ikoria: Lair of Behemoths,Common,6,Blue,True,True,True,True,b'Johann Bodin',0.31
+Wingspan Mentor,Creature,Human Wizard,Ikoria: Lair of Behemoths,Uncommon,3,Blue,True,True,True,True,b'Sidharth Chaturvedi',0.39
+Bastion of Remembrance,Enchantment,None,Ikoria: Lair of Behemoths,Uncommon,3,Black,True,True,True,True,b'Volkan Ba\xc7\xb5a',0.6
+Blitz Leech,Creature,Leech,Ikoria: Lair of Behemoths,Common,6,Black,True,True,True,True,b'Nicholas Gregory',0.25
+Blood Curdle,Instant,None,Ikoria: Lair of Behemoths,Common,4,Black,True,True,True,True,b'Antonio Jos\xc3\xa9 Manzanedo',0.22
+Boot Nipper,Creature,Beast,Ikoria: Lair of Behemoths,Common,2,Black,True,True,True,True,b'Nicholas Gregory',0.21
+Bushmeat Poacher,Creature,Human Soldier,Ikoria: Lair of Behemoths,Common,4,Black,True,True,True,True,b'Randy Vargas',0.35
+Call of the Death-Dweller,Sorcery,None,Ikoria: Lair of Behemoths,Uncommon,3,Black,True,True,True,True,b'Vincent Proce',0.55
+Cavern Whisperer,Creature,Nightmare,Ikoria: Lair of Behemoths,Common,5,Black,True,True,True,True,b'Antonio Jos\xc3\xa9 Manzanedo',0.25
+Chittering Harvester,Creature,Nightmare,Ikoria: Lair of Behemoths,Uncommon,6,Black,True,True,True,True,b'Grzegorz Rutkowski',0.23
+Corpse Churn,Instant,None,Ikoria: Lair of Behemoths,Common,2,Black,True,True,True,True,b'Lars Grant-West',0.54
+Dark Bargain,Instant,None,Ikoria: Lair of Behemoths,Common,4,Black,True,True,True,True,b'Scott Murphy',0.23
+Dead Weight,Enchantment,Aura,Ikoria: Lair of Behemoths,Common,1,Black,True,True,True,True,b'Kev Walker',0.19
+Dirge Bat,Creature,Bat,Ikoria: Lair of Behemoths,Rare,4,Black,True,True,True,True,b'Paul Scott Canavan',0.72
+Durable Coilbug,Creature,Insect,Ikoria: Lair of Behemoths,Common,2,Black,True,True,True,True,b'Milivoj \xc4\x86eran',0.23
+Duskfang Mentor,Creature,Human Cleric,Ikoria: Lair of Behemoths,Uncommon,3,Black,True,True,True,True,b'Livia Prima',0.34
+Easy Prey,Instant,None,Ikoria: Lair of Behemoths,Uncommon,2,Black,True,True,True,True,b'Ekaterina Burmak',0.34
+Extinction Event,Sorcery,None,Ikoria: Lair of Behemoths,Rare,4,Black,True,True,True,True,b'Filip Burburan',0.55
+Gloom Pangolin,Creature,Nightmare Pangolin,Ikoria: Lair of Behemoths,Common,3,Black,True,True,True,True,b'YW Tang',0.34
+Grimdancer,Creature,Nightmare,Ikoria: Lair of Behemoths,Uncommon,3,Black,True,True,True,True,b'Randy Vargas',0.3
+Heartless Act,Instant,None,Ikoria: Lair of Behemoths,Uncommon,2,Black,True,True,True,True,b'Ryan Pancoast',2.14
+Hunted Nightmare,Creature,Nightmare,Ikoria: Lair of Behemoths,Rare,3,Black,True,True,True,True,b'Antonio Jos\xc3\xa9 Manzanedo',0.39
+Insatiable Hemophage,Creature,Nightmare,Ikoria: Lair of Behemoths,Uncommon,4,Black,True,True,True,True,b'Antonio Jos\xc3\xa9 Manzanedo',0.33
+Lurking Deadeye,Creature,Human Assassin,Ikoria: Lair of Behemoths,Common,4,Black,True,True,True,True,b'Livia Prima',0.22
+Memory Leak,Sorcery,None,Ikoria: Lair of Behemoths,Common,3,Black,True,True,True,True,b'Karl Kopinski',0.24
+Mutual Destruction,Sorcery,None,Ikoria: Lair of Behemoths,Common,1,Black,True,True,True,True,b'Pindurski',0.23
+Mythos of Nethroi,Instant,None,Ikoria: Lair of Behemoths,Rare,3,Black,True,True,True,True,b'Seb McKinnon',1.64
+Nightsquad Commando,Creature,Human Soldier,Ikoria: Lair of Behemoths,Common,3,Black,True,True,True,True,b'Evyn Fong',0.21
+Serrated Scorpion,Creature,Scorpion,Ikoria: Lair of Behemoths,Common,1,Black,True,True,True,True,b'Chris Seaman',0.21
+Suffocating Fumes,Instant,None,Ikoria: Lair of Behemoths,Common,3,Black,True,True,True,True,b'Anastasia Ovchinnikova',0.26
+Unbreakable Bond,Sorcery,None,Ikoria: Lair of Behemoths,Uncommon,5,Black,True,True,True,True,b'Randy Vargas',0.23
+Unexpected Fangs,Instant,None,Ikoria: Lair of Behemoths,Common,2,Black,True,True,True,True,b'Jesper Ejsing',0.21
+Unlikely Aid,Instant,None,Ikoria: Lair of Behemoths,Common,2,Black,True,True,True,True,b'Randy Vargas',0.25
+Void Beckoner,Creature,Nightmare Horror,Ikoria: Lair of Behemoths,Uncommon,8,Black,True,True,True,True,b'Daarken',0.27
+Whisper Squad,Creature,Human Soldier,Ikoria: Lair of Behemoths,Common,1,Black,True,True,True,True,b'Stepan Alekseev',0.18
+Zagoth Mamba,Creature,Nightmare Snake,Ikoria: Lair of Behemoths,Uncommon,1,Black,True,True,True,True,b'Yeong-Hao Han',0.23
+Blazing Volley,Sorcery,None,Ikoria: Lair of Behemoths,Common,1,Red,True,True,True,True,b'Heonhwa Choe',0.3
+Blisterspit Gremlin,Creature,Gremlin,Ikoria: Lair of Behemoths,Common,1,Red,True,True,True,True,b'Simon Dominic',0.21
+Blitz of the Thunder-Raptor,Instant,None,Ikoria: Lair of Behemoths,Uncommon,2,Red,True,True,True,True,b'Zack Stella',0.26
+Cathartic Reunion,Sorcery,None,Ikoria: Lair of Behemoths,Common,2,Red,True,True,True,True,b'Jakub Kasper',0.22
+Clash of Titans,Instant,None,Ikoria: Lair of Behemoths,Uncommon,5,Red,True,True,True,True,b'Viktor Titov',0.28
+Cloudpiercer,Creature,Dinosaur,Ikoria: Lair of Behemoths,Common,5,Red,True,True,True,True,b'Dan Scott',0.25
+Drannith Stinger,Creature,Human Wizard,Ikoria: Lair of Behemoths,Common,2,Red,True,True,True,True,b'Denman Rooke',0.31
+Everquill Phoenix,Creature,Phoenix,Ikoria: Lair of Behemoths,Rare,4,Red,True,True,True,True,b'Lie Setiawan',0.44
+Ferocious Tigorilla,Creature,Cat Ape,Ikoria: Lair of Behemoths,Common,4,Red,True,True,True,True,b'Antonio Jos\xc3\xa9 Manzanedo',0.21
+Fire Prophecy,Instant,None,Ikoria: Lair of Behemoths,Common,2,Red,True,True,True,True,b'Kieran Yanner',0.21
+Flame Spill,Instant,None,Ikoria: Lair of Behemoths,Uncommon,3,Red,True,True,True,True,b'Zoltan Boros',0.38
+Footfall Crater,Enchantment,Aura,Ikoria: Lair of Behemoths,Uncommon,1,Red,True,True,True,True,b'Jenn Ravenna Tran',0.42
+Forbidden Friendship,Sorcery,None,Ikoria: Lair of Behemoths,Common,2,Red,True,True,True,True,b'Jakub Kasper',0.26
+Frenzied Raptor,Creature,Dinosaur,Ikoria: Lair of Behemoths,Common,3,Red,True,True,True,True,b'Jonathan Kuo',0.22
+Frillscare Mentor,Creature,Human Warrior,Ikoria: Lair of Behemoths,Uncommon,3,Red,True,True,True,True,b'Jason A. Engle',0.82
+Go for Blood,Sorcery,None,Ikoria: Lair of Behemoths,Common,2,Red,True,True,True,True,b'Chris Rallis',0.2
+Heightened Reflexes,Instant,None,Ikoria: Lair of Behemoths,Common,1,Red,True,True,True,True,b'Caio Monteiro',0.23
+Lava Serpent,Creature,Elemental Serpent,Ikoria: Lair of Behemoths,Common,6,Red,True,True,True,True,b'Jason A. Engle',0.21
+"Lukka, Coppercoat Outcast",Legendary Planeswalker,Lukka,Ikoria: Lair of Behemoths,Mythic Rare,5,Red,True,True,True,True,b'Chris Rallis',9.67
+Momentum Rumbler,Creature,Dinosaur,Ikoria: Lair of Behemoths,Uncommon,4,Red,True,True,True,True,b'Andrey Kuzinskiy',0.3
+Mythos of Vadrok,Sorcery,None,Ikoria: Lair of Behemoths,Rare,4,Red,True,True,True,True,b'Seb McKinnon',0.3
+Porcuparrot,Creature,Bird Beast,Ikoria: Lair of Behemoths,Uncommon,4,Red,True,True,True,True,b'Chris Seaman',0.48
+Prickly Marmoset,Creature,Monkey,Ikoria: Lair of Behemoths,Common,3,Red,True,True,True,True,b'Simon Dominic',0.23
+Pyroceratops,Creature,Elemental Dinosaur,Ikoria: Lair of Behemoths,Common,4,Red,True,True,True,True,b'Jason A. Engle',0.22
+Raking Claws,Instant,None,Ikoria: Lair of Behemoths,Common,2,Red,True,True,True,True,b'Slawomir Maniak',0.2
+Reptilian Reflection,Enchantment,None,Ikoria: Lair of Behemoths,Uncommon,3,Red,True,True,True,True,b'Antonio Jos\xc3\xa9 Manzanedo',0.38
+Rooting Moloch,Creature,Lizard,Ikoria: Lair of Behemoths,Uncommon,5,Red,True,True,True,True,b'Andrey Kuzinskiy',0.25
+Rumbling Rockslide,Sorcery,None,Ikoria: Lair of Behemoths,Common,4,Red,True,True,True,True,b'Adam Paquette',0.25
+Sanctuary Smasher,Creature,Rhino Beast,Ikoria: Lair of Behemoths,Uncommon,6,Red,True,True,True,True,b'Mathias Kollros',0.23
+Shredded Sails,Instant,None,Ikoria: Lair of Behemoths,Common,2,Red,True,True,True,True,b'Titus Lunter',0.2
+Spelleater Wolverine,Creature,Wolverine,Ikoria: Lair of Behemoths,Common,3,Red,True,True,True,True,b'Uriah Voth',0.23
+Tentative Connection,Sorcery,None,Ikoria: Lair of Behemoths,Common,4,Red,True,True,True,True,b'Kieran Yanner',0.26
+Unpredictable Cyclone,Enchantment,None,Ikoria: Lair of Behemoths,Rare,5,Red,True,True,True,True,b'Noah Bradley',0.47
+Weaponize the Monsters,Enchantment,None,Ikoria: Lair of Behemoths,Uncommon,1,Red,True,True,True,True,b'Magali Villeneuve',0.24
+"Yidaro, Wandering Monster",Legendary Creature,Dinosaur Turtle,Ikoria: Lair of Behemoths,Rare,7,Red,True,True,True,True,b'Jesper Ejsing',2.62
+Adventurous Impulse,Sorcery,None,Ikoria: Lair of Behemoths,Common,1,Green,True,True,True,True,b'Victor Adame Minguez',0.22
+Almighty Brushwagg,Creature,Brushwagg,Ikoria: Lair of Behemoths,Common,1,Green,True,True,True,True,b'Dmitry Burmak',0.25
+Auspicious Starrix,Creature,Elk Beast,Ikoria: Lair of Behemoths,Uncommon,5,Green,True,True,True,True,b'Lucas Graciano',0.29
+Barrier Breach,Instant,None,Ikoria: Lair of Behemoths,Uncommon,3,Green,True,True,True,True,b'Mathias Kollros',0.33
+Bristling Boar,Creature,Boar,Ikoria: Lair of Behemoths,Common,4,Green,True,True,True,True,b'Zezhou Chen',0.02
+Charge of the Forever-Beast,Sorcery,None,Ikoria: Lair of Behemoths,Uncommon,3,Green,True,True,True,True,b'Filip Burburan',0.24
+Colossification,Enchantment,Aura,Ikoria: Lair of Behemoths,Rare,7,Green,True,True,True,True,b'Johan Grenier',0.46
+Essence Symbiote,Creature,Beast,Ikoria: Lair of Behemoths,Common,2,Green,True,True,True,True,b'Jason Felix',0.24
+Excavation Mole,Creature,Mole,Ikoria: Lair of Behemoths,Common,3,Green,True,True,True,True,b'Lars Grant-West',0.2
+Exuberant Wolfbear,Creature,Wolf Bear,Ikoria: Lair of Behemoths,Uncommon,4,Green,True,True,True,True,b'Jesper Ejsing',0.32
+Fertilid,Creature,Elemental,Ikoria: Lair of Behemoths,Common,3,Green,True,True,True,True,b'Nicholas Gregory',0.18
+Flycatcher Giraffid,Creature,Antelope Lizard,Ikoria: Lair of Behemoths,Common,5,Green,True,True,True,True,b'Dan Scott',0.19
+Fully Grown,Instant,None,Ikoria: Lair of Behemoths,Common,3,Green,True,True,True,True,b'Dmitry Burmak',0.23
+Gemrazer,Creature,Beast,Ikoria: Lair of Behemoths,Rare,4,Green,True,True,True,True,b'Svetlin Velinov',1.17
+Glowstone Recluse,Creature,Spider,Ikoria: Lair of Behemoths,Uncommon,3,Green,True,True,True,True,b'Yeong-Hao Han',0.24
+Greater Sandwurm,Creature,Wurm,Ikoria: Lair of Behemoths,Common,7,Green,True,True,True,True,b'Grzegorz Rutkowski',0.18
+Honey Mammoth,Creature,Elephant,Ikoria: Lair of Behemoths,Common,6,Green,True,True,True,True,b'Lars Grant-West',0.41
+Hornbash Mentor,Creature,Human Warrior,Ikoria: Lair of Behemoths,Uncommon,3,Green,True,True,True,True,b'Wisnu Tan',0.22
+Humble Naturalist,Creature,Human Druid,Ikoria: Lair of Behemoths,Common,2,Green,True,True,True,True,b'Matt Stewart',0.26
+Ivy Elemental,Creature,Elemental,Ikoria: Lair of Behemoths,Uncommon,2,Green,True,True,True,True,b'Uriah Voth',0.3
+"Kogla, the Titan Ape",Legendary Creature,Ape,Ikoria: Lair of Behemoths,Rare,6,Green,True,True,True,True,b'Chris Rahn',0.93
+Lead the Stampede,Sorcery,None,Ikoria: Lair of Behemoths,Uncommon,3,Green,True,True,True,True,b'Lius Lasahido',0.32
+Migration Path,Sorcery,None,Ikoria: Lair of Behemoths,Uncommon,4,Green,True,True,True,True,b'Grzegorz Rutkowski',1.03
+Migratory Greathorn,Creature,Beast,Ikoria: Lair of Behemoths,Common,4,Green,True,True,True,True,b'Filip Burburan',0.24
+Monstrous Step,Sorcery,None,Ikoria: Lair of Behemoths,Uncommon,5,Green,True,True,True,True,b'Chris Seaman',0.19
+Mosscoat Goriak,Creature,Beast,Ikoria: Lair of Behemoths,Common,3,Green,True,True,True,True,b'Dan Scott',0.04
+Mythos of Brokkos,Sorcery,None,Ikoria: Lair of Behemoths,Rare,4,Green,True,True,True,True,b'Seb McKinnon',0.34
+Plummet,Instant,None,Ikoria: Lair of Behemoths,Common,2,Green,True,True,True,True,b'Sidharth Chaturvedi',0.25
+Ram Through,Instant,None,Ikoria: Lair of Behemoths,Common,2,Green,True,True,True,True,b'Zoltan Boros',0.23
+Sudden Spinnerets,Instant,None,Ikoria: Lair of Behemoths,Common,1,Green,True,True,True,True,b'Nicholas Gregory',0.23
+Survivors' Bond,Sorcery,None,Ikoria: Lair of Behemoths,Common,2,Green,True,True,True,True,b'Randy Vargas',0.27
+Thwart the Enemy,Instant,None,Ikoria: Lair of Behemoths,Common,3,Green,True,True,True,True,b'Chris Rallis',0.19
+Titanoth Rex,Creature,Dinosaur Beast,Ikoria: Lair of Behemoths,Uncommon,9,Green,True,True,True,True,b'Svetlin Velinov',0.3
+"Vivien, Monsters' Advocate",Legendary Planeswalker,Vivien,Ikoria: Lair of Behemoths,Mythic Rare,5,Green,True,True,True,True,b'Lius Lasahido',13.78
+Wilt,Instant,None,Ikoria: Lair of Behemoths,Common,2,Green,True,True,True,True,b'Volkan Ba\xc7\xb5a',0.23
+Back for More,Instant,None,Ikoria: Lair of Behemoths,Uncommon,6,Gold,True,True,True,True,b'Daarken',0.25
+Boneyard Lurker,Creature,Nightmare Beast,Ikoria: Lair of Behemoths,Uncommon,4,Gold,True,True,True,True,b'Nils Hamm',0.37
+"Brokkos, Apex of Forever",Legendary Creature,Nightmare Beast Elemental,Ikoria: Lair of Behemoths,Mythic Rare,5,Gold,True,True,True,True,b'Filip Burburan',4.46
+Channeled Force,Instant,None,Ikoria: Lair of Behemoths,Uncommon,4,Gold,True,True,True,True,b'Randy Vargas',0.21
+"Chevill, Bane of Monsters",Legendary Creature,Human Rogue,Ikoria: Lair of Behemoths,Mythic Rare,2,Gold,True,True,True,True,b'Yongjae Choi',5.29
+Death's Oasis,Enchantment,None,Ikoria: Lair of Behemoths,Rare,3,Gold,True,True,True,True,b'Grzegorz Rutkowski',0.31
+Dire Tactics,Instant,None,Ikoria: Lair of Behemoths,Uncommon,2,Gold,True,True,True,True,b'Daarken',0.46
+Eerie Ultimatum,Sorcery,None,Ikoria: Lair of Behemoths,Rare,7,Gold,True,True,True,True,b'Jason A. Engle',1.29
+Emergent Ultimatum,Sorcery,None,Ikoria: Lair of Behemoths,Rare,7,Gold,True,True,True,True,b'Zack Stella',0.52
+Frondland Felidar,Creature,Cat Beast,Ikoria: Lair of Behemoths,Rare,4,Gold,True,True,True,True,b'Steve Prescott',0.27
+General Kudro of Drannith,Legendary Creature,Human Soldier,Ikoria: Lair of Behemoths,Mythic Rare,3,Gold,True,True,True,True,b'Ryan Pancoast',10.6
+General's Enforcer,Creature,Human Soldier,Ikoria: Lair of Behemoths,Uncommon,2,Gold,True,True,True,True,b'Wisnu Tan',0.29
+Genesis Ultimatum,Sorcery,None,Ikoria: Lair of Behemoths,Rare,7,Gold,True,True,True,True,b'Jason Rainville',0.45
+"Illuna, Apex of Wishes",Legendary Creature,Beast Elemental Dinosaur,Ikoria: Lair of Behemoths,Mythic Rare,5,Gold,True,True,True,True,b'Chris Rahn',6.84
+Inspired Ultimatum,Sorcery,None,Ikoria: Lair of Behemoths,Rare,7,Gold,True,True,True,True,b'Tyler Jacobson',0.44
+"Kinnan, Bonder Prodigy",Legendary Creature,Human Druid,Ikoria: Lair of Behemoths,Mythic Rare,2,Gold,True,True,True,True,b'Jason Rainville',17.27
+Labyrinth Raptor,Creature,Nightmare Dinosaur,Ikoria: Lair of Behemoths,Rare,2,Gold,True,True,True,True,b'Daarken',0.42
+Lore Drakkis,Creature,Lizard Beast,Ikoria: Lair of Behemoths,Uncommon,3,Gold,True,True,True,True,b'Lucas Graciano',0.27
+Narset of the Ancient Way,Legendary Planeswalker,Narset,Ikoria: Lair of Behemoths,Mythic Rare,4,Gold,True,True,True,True,b'Yongjae Choi',12.94
+Necropanther,Creature,Cat Nightmare,Ikoria: Lair of Behemoths,Uncommon,3,Gold,True,True,True,True,b'Jason A. Engle',0.28
+"Nethroi, Apex of Death",Legendary Creature,Cat Nightmare Beast,Ikoria: Lair of Behemoths,Mythic Rare,5,Gold,True,True,True,True,b'Slawomir Maniak',8.6
+Offspring's Revenge,Enchantment,None,Ikoria: Lair of Behemoths,Rare,5,Gold,True,True,True,True,b'Daarken',0.27
+Parcelbeast,Creature,Elemental Beast,Ikoria: Lair of Behemoths,Uncommon,4,Gold,True,True,True,True,b'Milivoj \xc4\x86eran',0.9
+Primal Empathy,Enchantment,None,Ikoria: Lair of Behemoths,Uncommon,3,Gold,True,True,True,True,b'Micah Epstein',0.35
+Quartzwood Crasher,Creature,Dinosaur Beast,Ikoria: Lair of Behemoths,Rare,5,Gold,True,True,True,True,b'Antonio Jos\xc3\xa9 Manzanedo',0.41
+Regal Leosaur,Creature,Dinosaur Cat,Ikoria: Lair of Behemoths,Uncommon,2,Gold,True,True,True,True,b'Ilse Gort',0.39
+"Rielle, the Everwise",Legendary Creature,Human Wizard,Ikoria: Lair of Behemoths,Mythic Rare,3,Gold,True,True,True,True,b'Yongjae Choi',12.97
+Ruinous Ultimatum,Sorcery,None,Ikoria: Lair of Behemoths,Rare,7,Gold,True,True,True,True,b'Chase Stone',1.44
+Savai Thundermane,Creature,Elemental Cat,Ikoria: Lair of Behemoths,Uncommon,2,Gold,True,True,True,True,b'Svetlin Velinov',0.24
+Skull Prophet,Creature,Human Druid,Ikoria: Lair of Behemoths,Uncommon,2,Gold,True,True,True,True,b'Nils Hamm',0.34
+Skycat Sovereign,Creature,Elemental Cat,Ikoria: Lair of Behemoths,Rare,2,Gold,True,True,True,True,b'Slawomir Maniak',0.36
+Slitherwisp,Creature,Elemental Nightmare,Ikoria: Lair of Behemoths,Rare,3,Gold,True,True,True,True,b'Yigit Koroglu',0.56
+"Snapdax, Apex of the Hunt",Legendary Creature,Dinosaur Cat Nightmare,Ikoria: Lair of Behemoths,Mythic Rare,4,Gold,True,True,True,True,b'Viktor Titov',3.27
+Song of Creation,Enchantment,None,Ikoria: Lair of Behemoths,Rare,4,Gold,True,True,True,True,b'Noah Bradley',2.93
+Sprite Dragon,Creature,Faerie Dragon,Ikoria: Lair of Behemoths,Uncommon,2,Gold,True,True,True,True,b'Gabor Szikszai',1.78
+Titans' Nest,Enchantment,None,Ikoria: Lair of Behemoths,Rare,4,Gold,True,True,True,True,b'Cliff Childs',0.56
+Trumpeting Gnarr,Creature,Beast,Ikoria: Lair of Behemoths,Uncommon,3,Gold,True,True,True,True,b'Aaron Miller',0.24
+"Vadrok, Apex of Thunder",Legendary Creature,Elemental Dinosaur Cat,Ikoria: Lair of Behemoths,Mythic Rare,3,Gold,True,True,True,True,b'Zack Stella',6.48
+Whirlwind of Thought,Enchantment,None,Ikoria: Lair of Behemoths,Rare,4,Gold,True,True,True,True,b'Bram Sels',0.71
+"Winota, Joiner of Forces",Legendary Creature,Human Warrior,Ikoria: Lair of Behemoths,Mythic Rare,4,Gold,True,True,True,True,b'Magali Villeneuve',10.21
+Zenith Flare,Instant,None,Ikoria: Lair of Behemoths,Uncommon,4,Gold,True,True,True,True,b'Jonas De Ro',0.27
+Alert Heedbonder,Creature,Human Scout,Ikoria: Lair of Behemoths,Uncommon,5,Gold,True,True,True,True,b'Randy Vargas',0.35
+Cunning Nightbonder,Creature,Human Rogue,Ikoria: Lair of Behemoths,Uncommon,4,Gold,True,True,True,True,b'Ekaterina Burmak',0.43
+Fiend Artisan,Creature,Nightmare,Ikoria: Lair of Behemoths,Mythic Rare,4,Gold,True,True,True,True,b'Yigit Koroglu',28.26
+"Gyruda, Doom of Depths",Legendary Creature,Demon Kraken,Ikoria: Lair of Behemoths,Rare,8,Gold,True,True,True,True,b'Tyler Jacobson',8.52
+"Jegantha, the Wellspring",Legendary Creature,Elemental Elk,Ikoria: Lair of Behemoths,Rare,6,Gold,True,True,True,True,b'Chris Rahn',1.26
+Jubilant Skybonder,Creature,Human Wizard,Ikoria: Lair of Behemoths,Uncommon,5,Gold,True,True,True,True,b'Jesper Ejsing',0.27
+"Kaheera, the Orphanguard",Legendary Creature,Cat Beast,Ikoria: Lair of Behemoths,Rare,5,Gold,True,True,True,True,b'Ryan Pancoast',1.59
+"Keruga, the Macrosage",Legendary Creature,Dinosaur Hippo,Ikoria: Lair of Behemoths,Rare,7,Gold,True,True,True,True,b'Dan Scott',0.95
+Lurrus of the Dream-Den,Legendary Creature,Cat Nightmare,Ikoria: Lair of Behemoths,Rare,5,Gold,True,True,True,True,b'Slawomir Maniak',18.4
+"Lutri, the Spellchaser",Legendary Creature,Elemental Otter,Ikoria: Lair of Behemoths,Rare,5,Gold,True,True,False,True,b'Lie Setiawan',0.91
+"Obosh, the Preypiercer",Legendary Creature,Hellion Horror,Ikoria: Lair of Behemoths,Rare,7,Gold,True,True,True,True,b'Daarken',1.6
+Proud Wildbonder,Creature,Human Warrior,Ikoria: Lair of Behemoths,Uncommon,6,Gold,True,True,True,True,b'Dmitry Burmak',0.27
+Sonorous Howlbonder,Creature,Human Warrior,Ikoria: Lair of Behemoths,Uncommon,5,Gold,True,True,True,True,b'Kimonas Theodossiou',0.29
+"Umori, the Collector",Legendary Creature,Ooze,Ikoria: Lair of Behemoths,Rare,6,Gold,True,True,True,True,b'Jehan Choo',1.19
+"Yorion, Sky Nomad",Legendary Creature,Bird Serpent,Ikoria: Lair of Behemoths,Rare,7,Gold,True,True,True,True,b'Steven Belledin',4.98
+"Zirda, the Dawnwaker",Legendary Creature,Elemental Fox,Ikoria: Lair of Behemoths,Rare,5,Gold,True,True,True,True,b'Jesper Ejsing',4.24
+Crystalline Giant,Artifact Creature,Giant,Ikoria: Lair of Behemoths,Rare,3,Colorless,True,True,True,True,b'Jason Rainville',0.77
+Indatha Crystal,Artifact,None,Ikoria: Lair of Behemoths,Uncommon,3,Colorless,True,True,True,True,b'Raoul Vitale',0.22
+Ketria Crystal,Artifact,None,Ikoria: Lair of Behemoths,Uncommon,3,Colorless,True,True,True,True,b'Yeong-Hao Han',0.24
+The Ozolith,Legendary Artifact,None,Ikoria: Lair of Behemoths,Rare,1,Colorless,True,True,True,True,b'Sam Burley',6.98
+Raugrin Crystal,Artifact,None,Ikoria: Lair of Behemoths,Uncommon,3,Colorless,True,True,True,True,b'Kirsten Zirngibl',0.3
+Savai Crystal,Artifact,None,Ikoria: Lair of Behemoths,Uncommon,3,Colorless,True,True,True,True,b'Daniel Ljunggren',0.34
+Sleeper Dart,Artifact,None,Ikoria: Lair of Behemoths,Common,2,Colorless,True,True,True,True,b'Sidharth Chaturvedi',0.21
+Springjaw Trap,Artifact,None,Ikoria: Lair of Behemoths,Common,1,Colorless,True,True,True,True,b'Zoltan Boros',0.22
+Zagoth Crystal,Artifact,None,Ikoria: Lair of Behemoths,Uncommon,3,Colorless,True,True,True,True,b'Raoul Vitale',0.3
+Bloodfell Caves,Land,None,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.21
+Blossoming Sands,Land,None,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.21
+Bonders' Enclave,Land,None,Ikoria: Lair of Behemoths,Rare,0,Colorless,True,True,True,True,b'Cliff Childs',0.49
+Dismal Backwater,Land,None,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Eytan Zana',0.21
+Evolving Wilds,Land,None,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.2
+Indatha Triome,Land,Plains Swamp Forest,Ikoria: Lair of Behemoths,Rare,0,Colorless,True,True,True,True,b'Noah Bradley',8.2
+Jungle Hollow,Land,None,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.23
+Ketria Triome,Land,Forest Island Mountain,Ikoria: Lair of Behemoths,Rare,0,Colorless,True,True,True,True,b'Sam Burley',9.32
+Raugrin Triome,Land,Island Mountain Plains,Ikoria: Lair of Behemoths,Rare,0,Colorless,True,True,True,True,b'Jonas De Ro',9.34
+Rugged Highlands,Land,None,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.2
+Savai Triome,Land,Mountain Plains Swamp,Ikoria: Lair of Behemoths,Rare,0,Colorless,True,True,True,True,b'Titus Lunter',8.61
+Scoured Barrens,Land,None,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Cliff Childs',0.2
+Swiftwater Cliffs,Land,None,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.21
+Thornwood Falls,Land,None,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.2
+Tranquil Cove,Land,None,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.21
+Wind-Scarred Crag,Land,None,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.2
+Zagoth Triome,Land,Swamp Forest Island,Ikoria: Lair of Behemoths,Rare,0,Colorless,True,True,True,True,b'Eytan Zana',8.37
+Plains,Basic Land,Plains,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Cliff Childs',0.33
+Plains,Basic Land,Plains,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Alayna Danner',0.33
+Plains,Basic Land,Plains,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Jesper Ejsing',0.33
+Island,Basic Land,Island,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Alayna Danner',0.31
+Island,Basic Land,Island,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Jesper Ejsing',0.46
+Island,Basic Land,Island,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Nick Southam',0.36
+Swamp,Basic Land,Swamp,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Alayna Danner',0.58
+Swamp,Basic Land,Swamp,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Jesper Ejsing',0.41
+Swamp,Basic Land,Swamp,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Svetlin Velinov',0.56
+Mountain,Basic Land,Mountain,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Alayna Danner',0.27
+Mountain,Basic Land,Mountain,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Jesper Ejsing',0.33
+Mountain,Basic Land,Mountain,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.33
+Forest,Basic Land,Forest,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Alayna Danner',0.58
+Forest,Basic Land,Forest,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Jesper Ejsing',0.56
+Forest,Basic Land,Forest,Ikoria: Lair of Behemoths,Common,0,Colorless,True,True,True,True,b'Yeong-Hao Han',0.46
+"Zilortha, Strength Incarnate",Legendary Creature,Dinosaur,Ikoria: Lair of Behemoths,Mythic Rare,5,Gold,True,True,True,False,b'Antonio Jos\xc3\xa9 Manzanedo',1.17
+"Lukka, Coppercoat Outcast",Legendary Planeswalker,Lukka,Ikoria: Lair of Behemoths,Mythic Rare,5,Red,True,True,True,True,b'Kieran Yanner',15.51
+"Vivien, Monsters' Advocate",Legendary Planeswalker,Vivien,Ikoria: Lair of Behemoths,Mythic Rare,5,Green,True,True,True,True,b'Kev Walker',19.03
+Narset of the Ancient Way,Legendary Planeswalker,Narset,Ikoria: Lair of Behemoths,Mythic Rare,4,Gold,True,True,True,True,b'Kev Walker',21.67
+Cubwarden,Creature,Cat,Ikoria: Lair of Behemoths,Rare,4,White,True,True,True,True,b'Denis Medri',1.58
+Huntmaster Liger,Creature,Cat,Ikoria: Lair of Behemoths,Uncommon,4,White,True,True,True,True,b'Steve Ellis',1.27
+Majestic Auricorn,Creature,Unicorn,Ikoria: Lair of Behemoths,Uncommon,5,White,True,True,True,True,b'Steve Ellis',1.38
+Vulpikeet,Creature,Fox Bird,Ikoria: Lair of Behemoths,Common,4,White,True,True,True,True,b'Justine Mara Andersen',0.6
+Archipelagore,Creature,Leviathan,Ikoria: Lair of Behemoths,Uncommon,7,Blue,True,True,True,True,b'Kev Walker',0.41
+Dreamtail Heron,Creature,Elemental Bird,Ikoria: Lair of Behemoths,Common,5,Blue,True,True,True,True,b'Tomasz Jedruszek',0.43
+Pouncing Shoreshark,Creature,Shark Beast,Ikoria: Lair of Behemoths,Uncommon,5,Blue,True,True,True,True,b'Daniel Warren Johnson',0.76
+Sea-Dasher Octopus,Creature,Octopus,Ikoria: Lair of Behemoths,Rare,3,Blue,True,True,True,True,b'Antonio Bravo',11.14
+Cavern Whisperer,Creature,Nightmare,Ikoria: Lair of Behemoths,Common,5,Black,True,True,True,True,b'Steve Ellis',0.85
+Chittering Harvester,Creature,Nightmare,Ikoria: Lair of Behemoths,Uncommon,6,Black,True,True,True,True,b'Carl Critchlow',1.07
+Dirge Bat,Creature,Bat,Ikoria: Lair of Behemoths,Rare,4,Black,True,True,True,True,b'Kev Walker',2.18
+Insatiable Hemophage,Creature,Nightmare,Ikoria: Lair of Behemoths,Uncommon,4,Black,True,True,True,True,b'Steve Ellis',0.78
+Cloudpiercer,Creature,Dinosaur,Ikoria: Lair of Behemoths,Common,5,Red,True,True,True,True,b'Steve Ellis',0.47
+Everquill Phoenix,Creature,Phoenix,Ikoria: Lair of Behemoths,Rare,4,Red,True,True,True,True,b'Daniel Warren Johnson',2.37
+Porcuparrot,Creature,Bird Beast,Ikoria: Lair of Behemoths,Uncommon,4,Red,True,True,True,True,b'Denis Medri',0.72
+Auspicious Starrix,Creature,Elk Beast,Ikoria: Lair of Behemoths,Uncommon,5,Green,True,True,True,True,b'Justine Mara Andersen',0.65
+Gemrazer,Creature,Beast,Ikoria: Lair of Behemoths,Rare,4,Green,True,True,True,True,b'Andrew Huerta',2.98
+Glowstone Recluse,Creature,Spider,Ikoria: Lair of Behemoths,Uncommon,3,Green,True,True,True,True,b'Denis Medri',0.51
+Migratory Greathorn,Creature,Beast,Ikoria: Lair of Behemoths,Common,4,Green,True,True,True,True,b'Kev Walker',0.58
+Boneyard Lurker,Creature,Nightmare Beast,Ikoria: Lair of Behemoths,Uncommon,4,Gold,True,True,True,True,b'Carl Critchlow',4.25
+"Brokkos, Apex of Forever",Legendary Creature,Nightmare Beast Elemental,Ikoria: Lair of Behemoths,Mythic Rare,5,Gold,True,True,True,True,b'Daniel Warren Johnson',11.51
+"Illuna, Apex of Wishes",Legendary Creature,Beast Elemental Dinosaur,Ikoria: Lair of Behemoths,Mythic Rare,5,Gold,True,True,True,True,b'Justine Mara Andersen',15.42
+Lore Drakkis,Creature,Lizard Beast,Ikoria: Lair of Behemoths,Uncommon,3,Gold,True,True,True,True,b'Andrew Huerta',3.21
+Necropanther,Creature,Cat Nightmare,Ikoria: Lair of Behemoths,Uncommon,3,Gold,True,True,True,True,b'Kev Walker',0.95
+"Nethroi, Apex of Death",Legendary Creature,Cat Nightmare Beast,Ikoria: Lair of Behemoths,Mythic Rare,5,Gold,True,True,True,True,b'Tomasz Jedruszek',14.57
+Parcelbeast,Creature,Elemental Beast,Ikoria: Lair of Behemoths,Uncommon,4,Gold,True,True,True,True,b'Justine Mara Andersen',3.04
+Regal Leosaur,Creature,Dinosaur Cat,Ikoria: Lair of Behemoths,Uncommon,2,Gold,True,True,True,True,b'Tomasz Jedruszek',1.33
+"Snapdax, Apex of the Hunt",Legendary Creature,Dinosaur Cat Nightmare,Ikoria: Lair of Behemoths,Mythic Rare,4,Gold,True,True,True,True,b'Andrew Huerta',10.13
+Trumpeting Gnarr,Creature,Beast,Ikoria: Lair of Behemoths,Uncommon,3,Gold,True,True,True,True,b'Justine Mara Andersen',0.65
+"Vadrok, Apex of Thunder",Legendary Creature,Elemental Dinosaur Cat,Ikoria: Lair of Behemoths,Mythic Rare,3,Gold,True,True,True,True,b'Tomasz Jedruszek',15.2
+Indatha Triome,Land,Plains Swamp Forest,Ikoria: Lair of Behemoths,Rare,0,Colorless,True,True,True,True,b'Robbie Trevino',16.24
+Ketria Triome,Land,Forest Island Mountain,Ikoria: Lair of Behemoths,Rare,0,Colorless,True,True,True,True,b'Robbie Trevino',16.15
+Raugrin Triome,Land,Island Mountain Plains,Ikoria: Lair of Behemoths,Rare,0,Colorless,True,True,True,True,b'Robbie Trevino',16.86
+Savai Triome,Land,Mountain Plains Swamp,Ikoria: Lair of Behemoths,Rare,0,Colorless,True,True,True,True,b'Robbie Trevino',18.13
+Zagoth Triome,Land,Swamp Forest Island,Ikoria: Lair of Behemoths,Rare,0,Colorless,True,True,True,True,b'Robbie Trevino',15.77
+Drannith Magistrate,Creature,Human Wizard,Ikoria: Lair of Behemoths,Rare,2,White,True,True,True,True,b'Kieran Yanner',19.09
+Lavabrink Venturer,Creature,Human Soldier,Ikoria: Lair of Behemoths,Rare,3,White,True,True,True,True,b'Zoltan Boros',9.49
+Luminous Broodmoth,Creature,Insect,Ikoria: Lair of Behemoths,Mythic Rare,4,White,True,True,True,True,b'Lie Setiawan',9.49
+Mythos of Snapdax,Sorcery,None,Ikoria: Lair of Behemoths,Rare,4,White,True,True,True,True,b'Seb McKinnon',7.89
+Mythos of Illuna,Sorcery,None,Ikoria: Lair of Behemoths,Rare,4,Blue,True,True,True,True,b'Seb McKinnon',11.83
+Shark Typhoon,Enchantment,None,Ikoria: Lair of Behemoths,Rare,6,Blue,True,True,True,True,b'Caio Monteiro',18.62
+Voracious Greatshark,Creature,Shark,Ikoria: Lair of Behemoths,Rare,5,Blue,True,True,True,True,b'Mathias Kollros',8.1
+Extinction Event,Sorcery,None,Ikoria: Lair of Behemoths,Rare,4,Black,True,True,True,True,b'Filip Burburan',7.49
+Hunted Nightmare,Creature,Nightmare,Ikoria: Lair of Behemoths,Rare,3,Black,True,True,True,True,b'Antonio Jos\xc3\xa9 Manzanedo',8.0
+Mythos of Nethroi,Instant,None,Ikoria: Lair of Behemoths,Rare,3,Black,True,True,True,True,b'Seb McKinnon',5.32
+Mythos of Vadrok,Sorcery,None,Ikoria: Lair of Behemoths,Rare,4,Red,True,True,True,True,b'Seb McKinnon',7.49
+Unpredictable Cyclone,Enchantment,None,Ikoria: Lair of Behemoths,Rare,5,Red,True,True,True,True,b'Noah Bradley',6.15
+"Yidaro, Wandering Monster",Legendary Creature,Dinosaur Turtle,Ikoria: Lair of Behemoths,Rare,7,Red,True,True,True,True,b'Jesper Ejsing',8.55
+Colossification,Enchantment,Aura,Ikoria: Lair of Behemoths,Rare,7,Green,True,True,True,True,b'Johan Grenier',5.75
+"Kogla, the Titan Ape",Legendary Creature,Ape,Ikoria: Lair of Behemoths,Rare,6,Green,True,True,True,True,b'Chris Rahn',11.44
+Mythos of Brokkos,Sorcery,None,Ikoria: Lair of Behemoths,Rare,4,Green,True,True,True,True,b'Seb McKinnon',7.62
+"Chevill, Bane of Monsters",Legendary Creature,Human Rogue,Ikoria: Lair of Behemoths,Mythic Rare,2,Gold,True,True,True,True,b'Yongjae Choi',24.24
+Death's Oasis,Enchantment,None,Ikoria: Lair of Behemoths,Rare,3,Gold,True,True,True,True,b'Grzegorz Rutkowski',9.61
+Eerie Ultimatum,Sorcery,None,Ikoria: Lair of Behemoths,Rare,7,Gold,True,True,True,True,b'Jason A. Engle',19.37
+Emergent Ultimatum,Sorcery,None,Ikoria: Lair of Behemoths,Rare,7,Gold,True,True,True,True,b'Zack Stella',8.14
+Frondland Felidar,Creature,Cat Beast,Ikoria: Lair of Behemoths,Rare,4,Gold,True,True,True,True,b'Steve Prescott',3.96
+General Kudro of Drannith,Legendary Creature,Human Soldier,Ikoria: Lair of Behemoths,Mythic Rare,3,Gold,True,True,True,True,b'Ryan Pancoast',23.97
+Genesis Ultimatum,Sorcery,None,Ikoria: Lair of Behemoths,Rare,7,Gold,True,True,True,True,b'Jason Rainville',21.66
+Inspired Ultimatum,Sorcery,None,Ikoria: Lair of Behemoths,Rare,7,Gold,True,True,True,True,b'Tyler Jacobson',14.99
+"Kinnan, Bonder Prodigy",Legendary Creature,Human Druid,Ikoria: Lair of Behemoths,Mythic Rare,2,Gold,True,True,True,True,b'Jason Rainville',40.78
+Labyrinth Raptor,Creature,Nightmare Dinosaur,Ikoria: Lair of Behemoths,Rare,2,Gold,True,True,True,True,b'Daarken',14.83
+Offspring's Revenge,Enchantment,None,Ikoria: Lair of Behemoths,Rare,5,Gold,True,True,True,True,b'Daarken',3.93
+Quartzwood Crasher,Creature,Dinosaur Beast,Ikoria: Lair of Behemoths,Rare,5,Gold,True,True,True,True,b'Antonio Jos\xc3\xa9 Manzanedo',7.91
+"Rielle, the Everwise",Legendary Creature,Human Wizard,Ikoria: Lair of Behemoths,Mythic Rare,3,Gold,True,True,True,True,b'Yongjae Choi',23.28
+Ruinous Ultimatum,Sorcery,None,Ikoria: Lair of Behemoths,Rare,7,Gold,True,True,True,True,b'Chase Stone',11.94
+Skycat Sovereign,Creature,Elemental Cat,Ikoria: Lair of Behemoths,Rare,2,Gold,True,True,True,True,b'Slawomir Maniak',8.19
+Slitherwisp,Creature,Elemental Nightmare,Ikoria: Lair of Behemoths,Rare,3,Gold,True,True,True,True,b'Yigit Koroglu',8.96
+Song of Creation,Enchantment,None,Ikoria: Lair of Behemoths,Rare,4,Gold,True,True,True,True,b'Noah Bradley',13.13
+Titans' Nest,Enchantment,None,Ikoria: Lair of Behemoths,Rare,4,Gold,True,True,True,True,b'Cliff Childs',14.45
+Whirlwind of Thought,Enchantment,None,Ikoria: Lair of Behemoths,Rare,4,Gold,True,True,True,True,b'Bram Sels',14.89
+"Winota, Joiner of Forces",Legendary Creature,Human Warrior,Ikoria: Lair of Behemoths,Mythic Rare,4,Gold,True,True,True,True,b'Magali Villeneuve',20.32
+Fiend Artisan,Creature,Nightmare,Ikoria: Lair of Behemoths,Mythic Rare,4,Gold,True,True,True,True,b'Yigit Koroglu',46.4
+"Gyruda, Doom of Depths",Legendary Creature,Demon Kraken,Ikoria: Lair of Behemoths,Rare,8,Gold,True,True,True,True,b'Tyler Jacobson',14.48
+"Jegantha, the Wellspring",Legendary Creature,Elemental Elk,Ikoria: Lair of Behemoths,Rare,6,Gold,True,True,True,True,b'Chris Rahn',12.59
+"Kaheera, the Orphanguard",Legendary Creature,Cat Beast,Ikoria: Lair of Behemoths,Rare,5,Gold,True,True,True,True,b'Ryan Pancoast',11.74
+"Keruga, the Macrosage",Legendary Creature,Dinosaur Hippo,Ikoria: Lair of Behemoths,Rare,7,Gold,True,True,True,True,b'Dan Scott',22.49
+Lurrus of the Dream-Den,Legendary Creature,Cat Nightmare,Ikoria: Lair of Behemoths,Rare,5,Gold,True,True,True,True,b'Slawomir Maniak',37.39
+"Lutri, the Spellchaser",Legendary Creature,Elemental Otter,Ikoria: Lair of Behemoths,Rare,5,Gold,True,True,False,True,b'Lie Setiawan',24.8
+"Obosh, the Preypiercer",Legendary Creature,Hellion Horror,Ikoria: Lair of Behemoths,Rare,7,Gold,True,True,True,True,b'Daarken',10.68
+"Umori, the Collector",Legendary Creature,Ooze,Ikoria: Lair of Behemoths,Rare,6,Gold,True,True,True,True,b'Jehan Choo',8.34
+"Yorion, Sky Nomad",Legendary Creature,Bird Serpent,Ikoria: Lair of Behemoths,Rare,7,Gold,True,True,True,True,b'Steven Belledin',15.79
+"Zirda, the Dawnwaker",Legendary Creature,Elemental Fox,Ikoria: Lair of Behemoths,Rare,5,Gold,True,True,True,True,b'Jesper Ejsing',20.29
+Crystalline Giant,Artifact Creature,Giant,Ikoria: Lair of Behemoths,Rare,3,Colorless,True,True,True,True,b'Jason Rainville',5.99
+The Ozolith,Legendary Artifact,None,Ikoria: Lair of Behemoths,Rare,1,Colorless,True,True,True,True,b'Sam Burley',26.41
+Bonders' Enclave,Land,None,Ikoria: Lair of Behemoths,Rare,0,Colorless,True,True,True,True,b'Cliff Childs',7.91
+Colossification,Enchantment,Aura,Ikoria: Lair of Behemoths,Rare,7,Green,True,True,True,True,b'Mathias Kollros',7.91
+Flourishing Fox,Creature,Fox,Ikoria: Lair of Behemoths,Uncommon,1,White,True,True,True,True,b'Ilse Gort',7.91
+Heartless Act,Instant,None,Ikoria: Lair of Behemoths,Uncommon,2,Black,True,True,True,True,b'Ryan Pancoast',7.91
+Forbidden Friendship,Sorcery,None,Ikoria: Lair of Behemoths,Common,2,Red,True,True,True,True,b'Jakub Kasper',7.91
+Migration Path,Sorcery,None,Ikoria: Lair of Behemoths,Uncommon,4,Green,True,True,True,True,b'Grzegorz Rutkowski',7.91
+Sprite Dragon,Creature,Faerie Dragon,Ikoria: Lair of Behemoths,Uncommon,2,Gold,True,True,True,True,b'Gabor Szikszai',7.91
+Huntmaster Liger,Creature,Cat,Ikoria: Lair of Behemoths,Uncommon,4,White,True,True,True,True,b'Slawomir Maniak',7.91
+Luminous Broodmoth,Creature,Insect,Ikoria: Lair of Behemoths,Mythic Rare,4,White,True,True,True,True,b'Nick Southam',7.91
+Pollywog Symbiote,Creature,Frog,Ikoria: Lair of Behemoths,Uncommon,2,Blue,True,True,True,True,b'Simon Dominic',7.91
+Void Beckoner,Creature,Nightmare Horror,Ikoria: Lair of Behemoths,Uncommon,8,Black,True,True,True,True,b'Zezhou Chen',7.91
+Everquill Phoenix,Creature,Phoenix,Ikoria: Lair of Behemoths,Rare,4,Red,True,True,True,True,b'JOZ',7.91
+"Yidaro, Wandering Monster",Legendary Creature,Dinosaur Turtle,Ikoria: Lair of Behemoths,Rare,7,Red,True,True,True,True,b'Yigit Koroglu',7.91
+Gemrazer,Creature,Beast,Ikoria: Lair of Behemoths,Rare,4,Green,True,True,True,True,b'Sam Rowan',7.91
+Titanoth Rex,Creature,Dinosaur Beast,Ikoria: Lair of Behemoths,Uncommon,9,Green,True,True,True,True,b'Lius Lasahido',7.91
+"Brokkos, Apex of Forever",Legendary Creature,Nightmare Beast Elemental,Ikoria: Lair of Behemoths,Mythic Rare,5,Gold,True,True,True,True,b'Svetlin Velinov',7.91
+"Illuna, Apex of Wishes",Legendary Creature,Beast Elemental Dinosaur,Ikoria: Lair of Behemoths,Mythic Rare,5,Gold,True,True,True,True,b'Nicholas Gregory',7.91
+"Nethroi, Apex of Death",Legendary Creature,Cat Nightmare Beast,Ikoria: Lair of Behemoths,Mythic Rare,5,Gold,True,True,True,True,b'Torstein Nordstrand',7.91
+"Snapdax, Apex of the Hunt",Legendary Creature,Dinosaur Cat Nightmare,Ikoria: Lair of Behemoths,Mythic Rare,4,Gold,True,True,True,True,b'YW Tang',7.91
+Sprite Dragon,Creature,Faerie Dragon,Ikoria: Lair of Behemoths,Uncommon,2,Gold,True,True,True,True,b'Simon Dominic',7.91
+"Vadrok, Apex of Thunder",Legendary Creature,Elemental Dinosaur Cat,Ikoria: Lair of Behemoths,Mythic Rare,3,Gold,True,True,True,True,b'Johann Bodin',7.91
+"Gyruda, Doom of Depths",Legendary Creature,Demon Kraken,Ikoria: Lair of Behemoths,Rare,8,Gold,True,True,True,True,b'Jesper Ejsing',7.91
+Mysterious Egg,Creature,Egg,Ikoria: Lair of Behemoths,Common,1,Colorless,True,True,True,True,b'\xe3\x83\xa8\xe3\x83\xad\xe3\x82\xa4\xe3\x82\xb3\xe3\x82\xa6\xe3\x82\xb8',7.91
+Dirge Bat,Creature,Bat,Ikoria: Lair of Behemoths,Rare,4,Black,True,True,True,True,b'\xe7\xbe\xbd\xe5\xb1\xb1\xe6\x99\x83\xe5\xb9\xb3',7.91
+Crystalline Giant,Artifact Creature,Giant,Ikoria: Lair of Behemoths,Rare,3,Colorless,True,True,True,True,b'Kotakan',7.91

@@ -1,0 +1,275 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Bane of Bala Ged,Creature,Eldrazi,Battle for Zendikar,Uncommon,7,Colorless,True,False,True,True,b'Chase Stone',0.48
+Blight Herder,Creature,Eldrazi Processor,Battle for Zendikar,Rare,5,Colorless,True,False,True,True,b'Todd Lockwood',0.18
+Breaker of Armies,Creature,Eldrazi,Battle for Zendikar,Uncommon,8,Colorless,True,False,True,True,b'Richard Wright',0.28
+Conduit of Ruin,Creature,Eldrazi,Battle for Zendikar,Rare,6,Colorless,True,False,True,True,b'Slawomir Maniak',1.38
+Deathless Behemoth,Creature,Eldrazi,Battle for Zendikar,Uncommon,6,Colorless,True,False,True,True,b'Jason Felix',0.1
+Desolation Twin,Creature,Eldrazi,Battle for Zendikar,Rare,1,Colorless,True,False,True,True,b'Jack Wang',0.43
+Eldrazi Devastator,Creature,Eldrazi,Battle for Zendikar,Common,8,Colorless,True,False,True,True,b'Joseph Meehan',0.17
+Endless One,Creature,Eldrazi,Battle for Zendikar,Rare,1,Colorless,True,False,True,True,b'Jason Felix',0.91
+Gruesome Slaughter,Sorcery,None,Battle for Zendikar,Rare,6,Colorless,True,False,True,True,b'Aleksi Briclot',0.19
+Kozilek's Channeler,Creature,Eldrazi,Battle for Zendikar,Common,5,Colorless,True,False,True,True,b'Jason Felix',0.21
+Oblivion Sower,Creature,Eldrazi,Battle for Zendikar,Mythic Rare,6,Colorless,True,False,True,True,b'Jaime Jones',1.79
+Ruin Processor,Creature,Eldrazi Processor,Battle for Zendikar,Common,7,Colorless,True,False,True,True,b'Slawomir Maniak',0.08
+Scour from Existence,Instant,None,Battle for Zendikar,Common,7,Colorless,True,False,True,True,b'Clint Cearley',0.18
+Titan's Presence,Instant,None,Battle for Zendikar,Uncommon,3,Colorless,True,False,True,True,b'Slawomir Maniak',0.27
+"Ulamog, the Ceaseless Hunger",Legendary Creature,Eldrazi,Battle for Zendikar,Mythic Rare,1,Colorless,True,False,True,True,b'Michael Komarck',38.85
+Ulamog's Despoiler,Creature,Eldrazi Processor,Battle for Zendikar,Uncommon,6,Colorless,True,False,True,True,b'Peter Mohrbacher',0.11
+Void Winnower,Creature,Eldrazi,Battle for Zendikar,Mythic Rare,9,Colorless,True,False,True,True,b'Chase Stone',6.5
+Angel of Renewal,Creature,Angel Ally,Battle for Zendikar,Uncommon,6,White,True,False,True,True,b'Todd Lockwood',0.11
+Angelic Gift,Enchantment,Aura,Battle for Zendikar,Common,2,White,True,True,True,True,b'Josu Hernaiz',0.08
+Cliffside Lookout,Creature,Kor Scout Ally,Battle for Zendikar,Common,1,White,True,False,True,True,b'Eric Deschamps',0.04
+Courier Griffin,Creature,Griffin,Battle for Zendikar,Common,4,White,True,False,True,True,b'Kieran Yanner',0.02
+Emeria Shepherd,Creature,Angel,Battle for Zendikar,Rare,7,White,True,False,True,True,b'Cynthia Sheppard',1.11
+Encircling Fissure,Instant,None,Battle for Zendikar,Uncommon,3,White,True,False,True,True,b'Igor Kieryluk',0.06
+Expedition Envoy,Creature,Human Scout Ally,Battle for Zendikar,Uncommon,1,White,True,False,True,True,b'David Palumbo',0.09
+Felidar Cub,Creature,Cat Beast,Battle for Zendikar,Common,2,White,True,False,True,True,b'Steve Prescott',0.12
+Felidar Sovereign,Creature,Cat Beast,Battle for Zendikar,Rare,6,White,True,False,True,True,b'Zoltan Boros',0.99
+Fortified Rampart,Creature,Wall,Battle for Zendikar,Common,2,White,True,False,True,True,b'David Gaillet',0.12
+Ghostly Sentinel,Creature,Kor Spirit,Battle for Zendikar,Common,5,White,True,False,True,True,b'Daarken',0.03
+"Gideon, Ally of Zendikar",Legendary Planeswalker,Gideon,Battle for Zendikar,Mythic Rare,4,White,True,False,True,True,b'Eric Deschamps',10.28
+Gideon's Reproach,Instant,None,Battle for Zendikar,Common,2,White,True,False,True,True,b'Dan Scott',0.04
+Hero of Goma Fada,Creature,Human Knight Ally,Battle for Zendikar,Rare,5,White,True,False,True,True,b'Lake Hurwitz',0.13
+Inspired Charge,Instant,None,Battle for Zendikar,Common,4,White,True,True,True,True,b'Willian Murai',0.03
+Kitesail Scout,Creature,Kor Scout,Battle for Zendikar,Common,1,White,True,False,True,True,b'Dan Scott',0.04
+Kor Bladewhirl,Creature,Kor Soldier Ally,Battle for Zendikar,Uncommon,2,White,True,False,True,True,b'Steven Belledin',0.1
+Kor Castigator,Creature,Kor Wizard Ally,Battle for Zendikar,Common,2,White,True,False,True,True,b'Greg Opalinski',0.04
+Kor Entanglers,Creature,Kor Soldier Ally,Battle for Zendikar,Uncommon,5,White,True,False,True,True,b'Jason Rainville',0.07
+Lantern Scout,Creature,Human Scout Ally,Battle for Zendikar,Rare,3,White,True,False,True,True,b'Steven Belledin',0.16
+Lithomancer's Focus,Instant,None,Battle for Zendikar,Common,1,White,True,False,True,True,b'Cynthia Sheppard',0.04
+Makindi Patrol,Creature,Human Knight Ally,Battle for Zendikar,Common,3,White,True,False,True,True,b'David Palumbo',0.07
+Ondu Greathorn,Creature,Beast,Battle for Zendikar,Common,4,White,True,False,True,True,b'Aaron Miller',0.03
+Ondu Rising,Sorcery,None,Battle for Zendikar,Uncommon,2,White,True,False,True,True,b'Igor Kieryluk',0.02
+Planar Outburst,Sorcery,None,Battle for Zendikar,Rare,5,White,True,False,True,True,b'Vincent Proce',0.25
+Quarantine Field,Enchantment,None,Battle for Zendikar,Mythic Rare,4,White,True,False,True,True,b'Daarken',0.5
+Retreat to Emeria,Enchantment,None,Battle for Zendikar,Uncommon,4,White,True,False,True,True,b'Kieran Yanner',0.17
+Roil's Retribution,Instant,None,Battle for Zendikar,Uncommon,5,White,True,False,True,True,b'Raymond Swanland',0.04
+Serene Steward,Creature,Human Cleric Ally,Battle for Zendikar,Uncommon,2,White,True,False,True,True,b'Magali Villeneuve',0.13
+Shadow Glider,Creature,Kor Soldier,Battle for Zendikar,Common,3,White,True,False,True,True,b'Steve Prescott',0.01
+Sheer Drop,Sorcery,None,Battle for Zendikar,Common,3,White,True,False,True,True,b'Clint Cearley',0.09
+Smite the Monstrous,Instant,None,Battle for Zendikar,Common,4,White,True,False,True,True,b'Jakub Kasper',0.01
+Stasis Snare,Enchantment,None,Battle for Zendikar,Uncommon,3,White,True,False,True,True,b'Jason Felix',0.27
+Stone Haven Medic,Creature,Kor Cleric,Battle for Zendikar,Common,2,White,True,False,True,True,b'Anna Steinbauer',0.03
+Tandem Tactics,Instant,None,Battle for Zendikar,Common,2,White,True,False,True,True,b'David Gaillet',0.04
+Unified Front,Sorcery,None,Battle for Zendikar,Uncommon,4,White,True,False,True,True,b'Dan Scott',0.07
+Adverse Conditions,Instant,None,Battle for Zendikar,Uncommon,4,Blue,True,False,True,True,b'Jason Rainville',0.07
+Benthic Infiltrator,Creature,Eldrazi Drone,Battle for Zendikar,Common,3,Blue,True,False,True,True,b'Mathias Kollros',0.1
+Cryptic Cruiser,Creature,Eldrazi Processor,Battle for Zendikar,Uncommon,4,Blue,True,False,True,True,b'Svetlin Velinov',0.06
+Drowner of Hope,Creature,Eldrazi,Battle for Zendikar,Rare,6,Blue,True,False,True,True,b'Tomasz Jedruszek',0.16
+Eldrazi Skyspawner,Creature,Eldrazi Drone,Battle for Zendikar,Common,3,Blue,True,False,True,True,b'Chase Stone',0.12
+Horribly Awry,Instant,None,Battle for Zendikar,Uncommon,2,Blue,True,False,True,True,b'Clint Cearley',0.09
+Incubator Drone,Creature,Eldrazi Drone,Battle for Zendikar,Common,4,Blue,True,False,True,True,b'Cynthia Sheppard',0.05
+Mist Intruder,Creature,Eldrazi Drone,Battle for Zendikar,Common,2,Blue,True,False,True,True,b'Jason Rainville',0.08
+Murk Strider,Creature,Eldrazi Processor,Battle for Zendikar,Common,4,Blue,True,False,True,True,b'Chase Stone',0.03
+Oracle of Dust,Creature,Eldrazi Processor,Battle for Zendikar,Common,5,Blue,True,False,True,True,b'Jason Rainville',0.03
+Ruination Guide,Creature,Eldrazi Drone,Battle for Zendikar,Uncommon,3,Blue,True,False,True,True,b'Mathias Kollros',0.13
+Salvage Drone,Creature,Eldrazi Drone,Battle for Zendikar,Common,1,Blue,True,False,True,True,b'Slawomir Maniak',0.08
+Spell Shrivel,Instant,None,Battle for Zendikar,Common,3,Blue,True,False,True,True,b'Jack Wang',0.09
+Tide Drifter,Creature,Eldrazi Drone,Battle for Zendikar,Uncommon,2,Blue,True,False,True,True,b'Daarken',0.12
+Ulamog's Reclaimer,Creature,Eldrazi Processor,Battle for Zendikar,Uncommon,5,Blue,True,False,True,True,b'Svetlin Velinov',0.08
+Anticipate,Instant,None,Battle for Zendikar,Common,2,Blue,True,True,True,True,b'Tyler Jacobson',0.08
+Brilliant Spectrum,Sorcery,None,Battle for Zendikar,Common,4,Blue,True,False,True,True,b'Winona Nelson',0.03
+Cloud Manta,Creature,Fish,Battle for Zendikar,Common,4,Blue,True,False,True,True,b'Mike Bierek',0.03
+Clutch of Currents,Sorcery,None,Battle for Zendikar,Common,1,Blue,True,False,True,True,b'Igor Kieryluk',0.07
+Coastal Discovery,Sorcery,None,Battle for Zendikar,Uncommon,4,Blue,True,False,True,True,b'Kieran Yanner',0.06
+Coralhelm Guide,Creature,Merfolk Scout Ally,Battle for Zendikar,Common,2,Blue,True,False,True,True,b'Viktor Titov',0.02
+Dampening Pulse,Enchantment,None,Battle for Zendikar,Uncommon,4,Blue,True,False,True,True,b'Johann Bodin',0.03
+Dispel,Instant,None,Battle for Zendikar,Common,1,Blue,True,False,True,True,b'Chase Stone',0.22
+Exert Influence,Sorcery,None,Battle for Zendikar,Rare,5,Blue,True,False,True,True,b'Magali Villeneuve',0.07
+Guardian of Tazeem,Creature,Sphinx,Battle for Zendikar,Rare,5,Blue,True,False,True,True,b'Zack Stella',0.15
+Halimar Tidecaller,Creature,Human Wizard Ally,Battle for Zendikar,Uncommon,3,Blue,True,False,True,True,b'Magali Villeneuve',0.11
+Part the Waterveil,Sorcery,None,Battle for Zendikar,Mythic Rare,6,Blue,True,False,True,True,b'Titus Lunter',1.46
+Prism Array,Enchantment,None,Battle for Zendikar,Rare,5,Blue,True,False,True,True,b'Philip Straub',0.11
+Retreat to Coralhelm,Enchantment,None,Battle for Zendikar,Uncommon,3,Blue,True,False,True,True,b'Kieran Yanner',0.24
+Roilmage's Trick,Instant,None,Battle for Zendikar,Common,4,Blue,True,False,True,True,b'Johann Bodin',0.02
+Rush of Ice,Sorcery,None,Battle for Zendikar,Common,1,Blue,True,False,True,True,b'Deruchenko Alexander',0.07
+Scatter to the Winds,Instant,None,Battle for Zendikar,Rare,3,Blue,True,False,True,True,b'Raymond Swanland',0.17
+Tightening Coils,Enchantment,Aura,Battle for Zendikar,Common,2,Blue,True,False,True,True,b'Tyler Jacobson',0.08
+Ugin's Insight,Sorcery,None,Battle for Zendikar,Rare,5,Blue,True,False,True,True,b'Tyler Jacobson',0.14
+Wave-Wing Elemental,Creature,Elemental,Battle for Zendikar,Common,6,Blue,True,False,True,True,b'John Severin Brassell',0.03
+Windrider Patrol,Creature,Merfolk Wizard,Battle for Zendikar,Uncommon,5,Blue,True,False,True,True,b'Svetlin Velinov',0.05
+Complete Disregard,Instant,None,Battle for Zendikar,Common,3,Black,True,False,True,True,b'Peter Mohrbacher',0.05
+Culling Drone,Creature,Eldrazi Drone,Battle for Zendikar,Common,2,Black,True,False,True,True,b'Alejandro Mirabal',0.06
+Dominator Drone,Creature,Eldrazi Drone,Battle for Zendikar,Common,3,Black,True,False,True,True,b'James Zapata',0.08
+Grave Birthing,Instant,None,Battle for Zendikar,Common,3,Black,True,False,True,True,b'Craig J Spearing',0.07
+Grip of Desolation,Instant,None,Battle for Zendikar,Uncommon,6,Black,True,False,True,True,b'Lius Lasahido',0.11
+Mind Raker,Creature,Eldrazi Processor,Battle for Zendikar,Common,4,Black,True,False,True,True,b'Lius Lasahido',0.04
+Silent Skimmer,Creature,Eldrazi Drone,Battle for Zendikar,Common,4,Black,True,False,True,True,b'Alejandro Mirabal',0.03
+Skitterskin,Creature,Eldrazi Drone,Battle for Zendikar,Uncommon,4,Black,True,False,True,True,b'Michael Komarck',0.06
+Sludge Crawler,Creature,Eldrazi Drone,Battle for Zendikar,Common,1,Black,True,False,True,True,b'Johann Bodin',0.11
+Smothering Abomination,Creature,Eldrazi,Battle for Zendikar,Rare,4,Black,True,False,True,True,b'Aleksi Briclot',0.59
+Swarm Surge,Sorcery,None,Battle for Zendikar,Common,3,Black,True,False,True,True,b'Svetlin Velinov',0.09
+Transgress the Mind,Sorcery,None,Battle for Zendikar,Uncommon,2,Black,True,False,True,True,b'Cynthia Sheppard',0.11
+Wasteland Strangler,Creature,Eldrazi Processor,Battle for Zendikar,Rare,3,Black,True,False,True,True,b'Jack Wang',0.29
+Altar's Reap,Instant,None,Battle for Zendikar,Common,2,Black,True,False,True,True,b'Tyler Jacobson',0.1
+Bloodbond Vampire,Creature,Vampire Shaman Ally,Battle for Zendikar,Uncommon,4,Black,True,False,True,True,b'Anna Steinbauer',0.19
+Bone Splinters,Sorcery,None,Battle for Zendikar,Common,1,Black,True,True,True,True,b'Deruchenko Alexander',0.05
+Carrier Thrall,Creature,Vampire,Battle for Zendikar,Uncommon,2,Black,True,False,True,True,b'Lius Lasahido',0.15
+Defiant Bloodlord,Creature,Vampire,Battle for Zendikar,Rare,7,Black,True,False,True,True,b'Craig J Spearing',0.39
+Demon's Grasp,Sorcery,None,Battle for Zendikar,Common,5,Black,True,False,True,True,b'David Gaillet',0.03
+"Drana, Liberator of Malakir",Legendary Creature,Vampire Ally,Battle for Zendikar,Mythic Rare,3,Black,True,False,True,True,b'Mike Bierek',6.39
+Dutiful Return,Sorcery,None,Battle for Zendikar,Common,4,Black,True,False,True,True,b'Anna Steinbauer',0.03
+Geyserfield Stalker,Creature,Elemental,Battle for Zendikar,Common,5,Black,True,False,True,True,b'Deruchenko Alexander',0.06
+Guul Draz Overseer,Creature,Vampire,Battle for Zendikar,Rare,6,Black,True,False,True,True,b'Karl Kopinski',0.18
+Hagra Sharpshooter,Creature,Human Assassin Ally,Battle for Zendikar,Uncommon,3,Black,True,False,True,True,b'Josu Hernaiz',0.03
+Kalastria Healer,Creature,Vampire Cleric Ally,Battle for Zendikar,Common,2,Black,True,False,True,True,b'Anthony Palumbo',0.12
+Kalastria Nightwatch,Creature,Vampire Warrior Ally,Battle for Zendikar,Common,5,Black,True,False,True,True,b'Jama Jurabaev',0.04
+Malakir Familiar,Creature,Bat,Battle for Zendikar,Uncommon,3,Black,True,False,True,True,b'Alejandro Mirabal',0.07
+Mire's Malice,Sorcery,None,Battle for Zendikar,Common,4,Black,True,False,True,True,b'Jakub Kasper',0.07
+Nirkana Assassin,Creature,Vampire Assassin Ally,Battle for Zendikar,Common,3,Black,True,False,True,True,b'Viktor Titov',0.04
+Ob Nixilis Reignited,Legendary Planeswalker,Nixilis,Battle for Zendikar,Mythic Rare,5,Black,True,False,True,True,b'Chris Rahn',0.62
+Painful Truths,Sorcery,None,Battle for Zendikar,Rare,3,Black,True,False,True,True,b'Winona Nelson',0.34
+Retreat to Hagra,Enchantment,None,Battle for Zendikar,Uncommon,3,Black,True,False,True,True,b'Kieran Yanner',0.19
+Rising Miasma,Sorcery,None,Battle for Zendikar,Uncommon,4,Black,True,False,True,True,b'Deruchenko Alexander',0.03
+Ruinous Path,Sorcery,None,Battle for Zendikar,Rare,3,Black,True,False,True,True,b'Jaime Jones',0.26
+Vampiric Rites,Enchantment,None,Battle for Zendikar,Uncommon,1,Black,True,False,True,True,b'Anastasia Ovchinnikova',0.26
+Voracious Null,Creature,Zombie,Battle for Zendikar,Common,3,Black,True,False,True,True,b'Karl Kopinski',0.03
+Zulaport Cutthroat,Creature,Human Rogue Ally,Battle for Zendikar,Uncommon,2,Black,True,False,True,True,b'Jason Rainville',0.95
+Barrage Tyrant,Creature,Eldrazi,Battle for Zendikar,Rare,5,Red,True,False,True,True,b'Chris Rallis',0.14
+Crumble to Dust,Sorcery,None,Battle for Zendikar,Uncommon,4,Red,True,False,True,True,b'James Paick',0.15
+Kozilek's Sentinel,Creature,Eldrazi Drone,Battle for Zendikar,Common,2,Red,True,False,True,True,b'Raymond Swanland',0.04
+Molten Nursery,Enchantment,None,Battle for Zendikar,Uncommon,3,Red,True,False,True,True,b'Raymond Swanland',0.12
+Nettle Drone,Creature,Eldrazi Drone,Battle for Zendikar,Common,3,Red,True,False,True,True,b'Clint Cearley',0.12
+Processor Assault,Sorcery,None,Battle for Zendikar,Uncommon,2,Red,True,False,True,True,b'Jama Jurabaev',0.05
+Serpentine Spike,Sorcery,None,Battle for Zendikar,Rare,7,Red,True,False,True,True,b'Jaime Jones',0.09
+Touch of the Void,Sorcery,None,Battle for Zendikar,Common,3,Red,True,False,True,True,b'David Gaillet',0.06
+Turn Against,Instant,None,Battle for Zendikar,Uncommon,5,Red,True,False,True,True,b'Chris Rallis',0.06
+Vestige of Emrakul,Creature,Eldrazi Drone,Battle for Zendikar,Common,4,Red,True,False,True,True,b'Tyler Jacobson',0.06
+Vile Aggregate,Creature,Eldrazi Drone,Battle for Zendikar,Uncommon,3,Red,True,False,True,True,b'Chris Rallis',0.12
+Akoum Firebird,Creature,Phoenix,Battle for Zendikar,Mythic Rare,4,Red,True,False,True,True,b'Chris Rahn',0.34
+Akoum Hellkite,Creature,Dragon,Battle for Zendikar,Rare,6,Red,True,False,True,True,b'Jaime Jones',0.17
+Akoum Stonewaker,Creature,Human Shaman,Battle for Zendikar,Uncommon,2,Red,True,False,True,True,b'Victor Adame Minguez',0.05
+Belligerent Whiptail,Creature,Wurm,Battle for Zendikar,Common,4,Red,True,False,True,True,b'Jakub Kasper',0.04
+Boiling Earth,Sorcery,None,Battle for Zendikar,Common,2,Red,True,False,True,True,b'Titus Lunter',0.02
+Chasm Guide,Creature,Goblin Scout Ally,Battle for Zendikar,Uncommon,4,Red,True,False,True,True,b'Johannes Voss',0.11
+Dragonmaster Outcast,Creature,Human Shaman,Battle for Zendikar,Mythic Rare,1,Red,True,False,True,True,b'Raymond Swanland',1.56
+Firemantle Mage,Creature,Human Shaman Ally,Battle for Zendikar,Uncommon,3,Red,True,False,True,True,b'Chris Rahn',0.12
+Goblin War Paint,Enchantment,Aura,Battle for Zendikar,Common,2,Red,True,False,True,True,b'Karl Kopinski',0.03
+Lavastep Raider,Creature,Goblin Warrior,Battle for Zendikar,Common,1,Red,True,False,True,True,b'Matt Stewart',0.04
+Makindi Sliderunner,Creature,Beast,Battle for Zendikar,Common,2,Red,True,False,True,True,b'Matt Stewart',0.03
+Ondu Champion,Creature,Minotaur Warrior Ally,Battle for Zendikar,Common,4,Red,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.1
+Outnumber,Instant,None,Battle for Zendikar,Common,1,Red,True,False,True,True,b'Tyler Jacobson',0.09
+Radiant Flames,Sorcery,None,Battle for Zendikar,Rare,3,Red,True,False,True,True,b'Slawomir Maniak',0.18
+Reckless Cohort,Creature,Human Warrior Ally,Battle for Zendikar,Common,2,Red,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.01
+Retreat to Valakut,Enchantment,None,Battle for Zendikar,Uncommon,3,Red,True,False,True,True,b'Kieran Yanner',0.09
+Rolling Thunder,Sorcery,None,Battle for Zendikar,Uncommon,3,Red,True,False,True,True,b'Yohann Schepacz',0.12
+Shatterskull Recruit,Creature,Giant Warrior Ally,Battle for Zendikar,Common,5,Red,True,False,True,True,b'David Palumbo',0.01
+Stonefury,Instant,None,Battle for Zendikar,Common,5,Red,True,False,True,True,b'Chris Rallis',0.03
+Sure Strike,Instant,None,Battle for Zendikar,Common,2,Red,True,True,True,True,b'Jakub Kasper',0.06
+Tunneling Geopede,Creature,Insect,Battle for Zendikar,Uncommon,3,Red,True,False,True,True,b'Tomasz Jedruszek',0.17
+Valakut Invoker,Creature,Human Shaman,Battle for Zendikar,Common,3,Red,True,False,True,True,b'Joseph Meehan',0.03
+Valakut Predator,Creature,Elemental,Battle for Zendikar,Common,3,Red,True,False,True,True,b'Kev Walker',0.04
+Volcanic Upheaval,Instant,None,Battle for Zendikar,Common,4,Red,True,False,True,True,b'Yeong-Hao Han',0.04
+"Zada, Hedron Grinder",Legendary Creature,Goblin Ally,Battle for Zendikar,Rare,4,Red,True,False,True,True,b'Chris Rallis',0.33
+Blisterpod,Creature,Eldrazi Drone,Battle for Zendikar,Common,1,Green,True,False,True,True,b'Ryan Barger',0.12
+Brood Monitor,Creature,Eldrazi Drone,Battle for Zendikar,Uncommon,6,Green,True,False,True,True,b'Izzy',0.12
+Call the Scions,Sorcery,None,Battle for Zendikar,Common,3,Green,True,False,True,True,b'Winona Nelson',0.07
+Eyeless Watcher,Creature,Eldrazi Drone,Battle for Zendikar,Common,4,Green,True,False,True,True,b'Yohann Schepacz',0.14
+From Beyond,Enchantment,None,Battle for Zendikar,Rare,4,Green,True,False,True,True,b'Mathias Kollros',0.55
+Unnatural Aggression,Instant,None,Battle for Zendikar,Common,3,Green,True,False,True,True,b'James Ryman',0.07
+Void Attendant,Creature,Eldrazi Processor,Battle for Zendikar,Uncommon,3,Green,True,False,True,True,b'Viktor Titov',0.11
+Beastcaller Savant,Creature,Elf Shaman Ally,Battle for Zendikar,Rare,2,Green,True,False,True,True,b'Anthony Palumbo',0.4
+Broodhunter Wurm,Creature,Wurm,Battle for Zendikar,Common,4,Green,True,False,True,True,b'Svetlin Velinov',0.04
+Earthen Arms,Sorcery,None,Battle for Zendikar,Common,2,Green,True,False,True,True,b'Dan Scott',0.05
+Giant Mantis,Creature,Insect,Battle for Zendikar,Common,4,Green,True,False,True,True,b'Lake Hurwitz',0.04
+Greenwarden of Murasa,Creature,Elemental,Battle for Zendikar,Mythic Rare,6,Green,True,False,True,True,b'Eric Deschamps',1.41
+Infuse with the Elements,Instant,None,Battle for Zendikar,Uncommon,4,Green,True,False,True,True,b'Daniel Ljunggren',0.03
+Jaddi Offshoot,Creature,Plant,Battle for Zendikar,Uncommon,1,Green,True,False,True,True,b'Daarken',0.16
+Lifespring Druid,Creature,Elf Druid,Battle for Zendikar,Common,3,Green,True,False,True,True,b'Willian Murai',0.06
+Murasa Ranger,Creature,Human Warrior,Battle for Zendikar,Uncommon,4,Green,True,False,True,True,b'Eric Deschamps',0.02
+Natural Connection,Instant,None,Battle for Zendikar,Common,3,Green,True,False,True,True,b'Wesley Burt',0.1
+Nissa's Renewal,Sorcery,None,Battle for Zendikar,Rare,6,Green,True,False,True,True,b'Lius Lasahido',0.27
+Oran-Rief Hydra,Creature,Hydra,Battle for Zendikar,Rare,6,Green,True,False,True,True,b'Chris Rahn',0.39
+Oran-Rief Invoker,Creature,Human Shaman,Battle for Zendikar,Common,2,Green,True,False,True,True,b'Anastasia Ovchinnikova',0.02
+Plated Crusher,Creature,Beast,Battle for Zendikar,Uncommon,7,Green,True,False,True,True,b'Jama Jurabaev',0.07
+Plummet,Instant,None,Battle for Zendikar,Common,2,Green,True,True,True,True,b'Aaron Miller',0.05
+Reclaiming Vines,Sorcery,None,Battle for Zendikar,Common,4,Green,True,False,True,True,b'Bastien L. Deharme',0.07
+Retreat to Kazandu,Enchantment,None,Battle for Zendikar,Uncommon,3,Green,True,False,True,True,b'Kieran Yanner',0.29
+Rot Shambler,Creature,Fungus,Battle for Zendikar,Uncommon,2,Green,True,False,True,True,b'Yeong-Hao Han',0.11
+Scythe Leopard,Creature,Cat,Battle for Zendikar,Uncommon,1,Green,True,False,True,True,b'Daniel Ljunggren',0.11
+Seek the Wilds,Sorcery,None,Battle for Zendikar,Common,2,Green,True,False,True,True,b'Anna Steinbauer',0.09
+Snapping Gnarlid,Creature,Beast,Battle for Zendikar,Common,2,Green,True,False,True,True,b'Kev Walker',0.05
+Swell of Growth,Instant,None,Battle for Zendikar,Common,2,Green,True,False,True,True,b'Magali Villeneuve',0.09
+Sylvan Scrying,Sorcery,None,Battle for Zendikar,Uncommon,2,Green,True,False,True,True,b'Daniel Ljunggren',0.49
+Tajuru Beastmaster,Creature,Elf Warrior Ally,Battle for Zendikar,Common,6,Green,True,False,True,True,b'Greg Opalinski',0.02
+Tajuru Stalwart,Creature,Elf Scout Ally,Battle for Zendikar,Common,3,Green,True,False,True,True,b'Wesley Burt',0.02
+Tajuru Warcaller,Creature,Elf Warrior Ally,Battle for Zendikar,Uncommon,5,Green,True,False,True,True,b'Anastasia Ovchinnikova',0.09
+Territorial Baloth,Creature,Beast,Battle for Zendikar,Common,5,Green,True,False,True,True,b'Matt Stewart',0.02
+Undergrowth Champion,Creature,Elemental,Battle for Zendikar,Mythic Rare,3,Green,True,False,True,True,b'Tyler Jacobson',1.28
+Woodland Wanderer,Creature,Elemental,Battle for Zendikar,Rare,4,Green,True,False,True,True,b'Vincent Proce',0.12
+Brood Butcher,Creature,Eldrazi Drone,Battle for Zendikar,Rare,5,Gold,True,False,True,True,b'Daarken',0.14
+Brutal Expulsion,Instant,None,Battle for Zendikar,Rare,4,Gold,True,False,True,True,b'Victor Adame Minguez',0.14
+Catacomb Sifter,Creature,Eldrazi Drone,Battle for Zendikar,Uncommon,3,Gold,True,False,True,True,b'Craig J Spearing',0.21
+Dust Stalker,Creature,Eldrazi,Battle for Zendikar,Rare,4,Gold,True,False,True,True,b'Clint Cearley',0.13
+Fathom Feeder,Creature,Eldrazi Drone,Battle for Zendikar,Rare,2,Gold,True,False,True,True,b'Clint Cearley',0.23
+Forerunner of Slaughter,Creature,Eldrazi Drone,Battle for Zendikar,Uncommon,2,Gold,True,False,True,True,b'James Zapata',0.14
+Herald of Kozilek,Creature,Eldrazi Drone,Battle for Zendikar,Uncommon,3,Gold,True,False,True,True,b'Johannes Voss',0.19
+Sire of Stagnation,Creature,Eldrazi,Battle for Zendikar,Mythic Rare,6,Gold,True,False,True,True,b'Tyler Jacobson',2.63
+Ulamog's Nullifier,Creature,Eldrazi Processor,Battle for Zendikar,Uncommon,4,Gold,True,False,True,True,b'Aleksi Briclot',0.13
+Angelic Captain,Creature,Angel Ally,Battle for Zendikar,Rare,5,Gold,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.14
+Bring to Light,Sorcery,None,Battle for Zendikar,Rare,5,Gold,True,False,True,True,b'Jonas De Ro',0.9
+Drana's Emissary,Creature,Vampire Cleric Ally,Battle for Zendikar,Uncommon,3,Gold,True,False,True,True,b'Karl Kopinski',0.27
+Grove Rumbler,Creature,Elemental,Battle for Zendikar,Uncommon,4,Gold,True,False,True,True,b'Greg Opalinski',0.07
+Grovetender Druids,Creature,Elf Druid Ally,Battle for Zendikar,Uncommon,4,Gold,True,False,True,True,b'Chase Stone',0.06
+"Kiora, Master of the Depths",Legendary Planeswalker,Kiora,Battle for Zendikar,Mythic Rare,4,Gold,True,False,True,True,b'Jason Chan',2.63
+March from the Tomb,Sorcery,None,Battle for Zendikar,Rare,5,Gold,True,False,True,True,b'Lake Hurwitz',0.12
+"Munda, Ambush Leader",Legendary Creature,Kor Ally,Battle for Zendikar,Rare,4,Gold,True,False,True,True,b'Johannes Voss',0.15
+"Noyan Dar, Roil Shaper",Legendary Creature,Merfolk Ally,Battle for Zendikar,Rare,5,Gold,True,False,True,True,b'Karl Kopinski',0.15
+"Omnath, Locus of Rage",Legendary Creature,Elemental,Battle for Zendikar,Mythic Rare,7,Gold,True,False,True,True,b'Brad Rigney',7.13
+Resolute Blademaster,Creature,Human Soldier Ally,Battle for Zendikar,Uncommon,5,Gold,True,False,True,True,b'Joseph Meehan',0.11
+Roil Spout,Sorcery,None,Battle for Zendikar,Uncommon,3,Gold,True,False,True,True,b'Igor Kieryluk',0.06
+Skyrider Elf,Creature,Elf Warrior Ally,Battle for Zendikar,Uncommon,3,Gold,True,False,True,True,b'Dan Scott',0.09
+Veteran Warleader,Creature,Human Soldier Ally,Battle for Zendikar,Rare,3,Gold,True,False,True,True,b'Josu Hernaiz',0.15
+Aligned Hedron Network,Artifact,None,Battle for Zendikar,Rare,4,Colorless,True,False,True,True,b'Richard Wright',0.18
+Hedron Archive,Artifact,None,Battle for Zendikar,Uncommon,4,Colorless,True,False,True,True,b'Craig J Spearing',0.62
+Hedron Blade,Artifact,Equipment,Battle for Zendikar,Common,1,Colorless,True,False,True,True,b'Zack Stella',0.09
+Pathway Arrows,Artifact,Equipment,Battle for Zendikar,Uncommon,1,Colorless,True,False,True,True,b'Kev Walker',0.11
+Pilgrim's Eye,Artifact Creature,Thopter,Battle for Zendikar,Uncommon,3,Colorless,True,False,True,True,b'Dan Scott',0.13
+Slab Hammer,Artifact,Equipment,Battle for Zendikar,Uncommon,2,Colorless,True,False,True,True,b'Joseph Meehan',0.04
+Ally Encampment,Land,None,Battle for Zendikar,Rare,0,Colorless,True,False,True,True,b'Jonas De Ro',0.26
+Blighted Cataract,Land,None,Battle for Zendikar,Uncommon,0,Colorless,True,False,True,True,b'Vincent Proce',0.14
+Blighted Fen,Land,None,Battle for Zendikar,Uncommon,0,Colorless,True,False,True,True,b'Jonas De Ro',0.12
+Blighted Gorge,Land,None,Battle for Zendikar,Uncommon,0,Colorless,True,False,True,True,b'Jung Park',0.1
+Blighted Steppe,Land,None,Battle for Zendikar,Uncommon,0,Colorless,True,False,True,True,b'Yeong-Hao Han',0.14
+Blighted Woodland,Land,None,Battle for Zendikar,Uncommon,0,Colorless,True,False,True,True,b'Jason Felix',0.75
+Canopy Vista,Land,Forest Plains,Battle for Zendikar,Rare,0,Colorless,True,False,True,True,b'Adam Paquette',3.05
+Cinder Glade,Land,Mountain Forest,Battle for Zendikar,Rare,0,Colorless,True,False,True,True,b'Adam Paquette',1.75
+Evolving Wilds,Land,None,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'Izzy',0.11
+Fertile Thicket,Land,None,Battle for Zendikar,Common,0,Colorless,True,False,True,True,b'Andreas Rocha',0.07
+Looming Spires,Land,None,Battle for Zendikar,Common,0,Colorless,True,False,True,True,b'Florian de Gesincourt',0.07
+Lumbering Falls,Land,None,Battle for Zendikar,Rare,0,Colorless,True,False,True,True,b'Titus Lunter',0.69
+Mortuary Mire,Land,None,Battle for Zendikar,Common,0,Colorless,True,False,True,True,b'James Paick',0.18
+Prairie Stream,Land,Plains Island,Battle for Zendikar,Rare,0,Colorless,True,False,True,True,b'Adam Paquette',1.35
+Sanctum of Ugin,Land,None,Battle for Zendikar,Rare,0,Colorless,True,False,True,True,b'James Paick',0.73
+Sandstone Bridge,Land,None,Battle for Zendikar,Common,0,Colorless,True,False,True,True,b'Cliff Childs',0.09
+Shambling Vent,Land,None,Battle for Zendikar,Rare,0,Colorless,True,False,True,True,b'Jung Park',0.67
+Shrine of the Forsaken Gods,Land,None,Battle for Zendikar,Rare,0,Colorless,True,False,True,True,b'Daniel Ljunggren',0.54
+Skyline Cascade,Land,None,Battle for Zendikar,Common,0,Colorless,True,False,True,True,b'Philip Straub',0.09
+Smoldering Marsh,Land,Swamp Mountain,Battle for Zendikar,Rare,0,Colorless,True,False,True,True,b'Adam Paquette',2.42
+Spawning Bed,Land,None,Battle for Zendikar,Uncommon,0,Colorless,True,False,True,True,b'Jason Felix',0.21
+Sunken Hollow,Land,Island Swamp,Battle for Zendikar,Rare,0,Colorless,True,False,True,True,b'Adam Paquette',1.89
+Plains,Basic Land,Plains,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'Noah Bradley',0.24
+Plains,Basic Land,Plains,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.27
+Plains,Basic Land,Plains,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.22
+Plains,Basic Land,Plains,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'Vincent Proce',0.23
+Plains,Basic Land,Plains,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'Tianhua X',0.19
+Island,Basic Land,Island,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'Noah Bradley',0.29
+Island,Basic Land,Island,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.26
+Island,Basic Land,Island,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.25
+Island,Basic Land,Island,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'Vincent Proce',0.26
+Island,Basic Land,Island,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'Tianhua X',0.3
+Swamp,Basic Land,Swamp,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'Noah Bradley',0.25
+Swamp,Basic Land,Swamp,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.24
+Swamp,Basic Land,Swamp,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.25
+Swamp,Basic Land,Swamp,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'Jung Park',0.32
+Swamp,Basic Land,Swamp,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'Tianhua X',0.23
+Mountain,Basic Land,Mountain,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'Noah Bradley',0.31
+Mountain,Basic Land,Mountain,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.27
+Mountain,Basic Land,Mountain,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'V\xc3\xa9ronique Meignaud',0.44
+Mountain,Basic Land,Mountain,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.31
+Mountain,Basic Land,Mountain,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'Tianhua X',0.26
+Forest,Basic Land,Forest,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'Noah Bradley',0.3
+Forest,Basic Land,Forest,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.32
+Forest,Basic Land,Forest,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.25
+Forest,Basic Land,Forest,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'Vincent Proce',0.33
+Forest,Basic Land,Forest,Battle for Zendikar,Common,0,Colorless,True,True,True,True,b'Tianhua X',0.34

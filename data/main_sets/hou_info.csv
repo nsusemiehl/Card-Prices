@@ -1,0 +1,210 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Act of Heroism,Instant,None,Hour of Devastation,Common,2,White,True,False,True,True,b'Magali Villeneuve',0.04
+Adorned Pouncer,Creature,Cat,Hour of Devastation,Rare,2,White,True,False,True,True,b'Slawomir Maniak',0.47
+Angel of Condemnation,Creature,Angel,Hour of Devastation,Rare,4,White,True,False,True,True,b'Slawomir Maniak',0.38
+Angel of the God-Pharaoh,Creature,Angel,Hour of Devastation,Uncommon,6,White,True,False,True,True,b'E. M. Gist',0.12
+Aven of Enduring Hope,Creature,Bird Cleric,Hour of Devastation,Common,5,White,True,False,True,True,b'James Ryman',0.02
+Crested Sunmare,Creature,Horse,Hour of Devastation,Mythic Rare,5,White,True,False,True,True,b'Lucas Graciano',4.77
+Dauntless Aven,Creature,Bird Warrior,Hour of Devastation,Common,3,White,True,False,True,True,b'Zack Stella',0.04
+Desert's Hold,Enchantment,Aura,Hour of Devastation,Uncommon,3,White,True,False,True,True,b'Sara Winters',0.04
+Disposal Mummy,Creature,Zombie Jackal,Hour of Devastation,Common,3,White,True,False,True,True,b'Gabor Szikszai',0.03
+"Djeru, With Eyes Open",Legendary Creature,Human Warrior,Hour of Devastation,Rare,5,White,True,False,True,True,b'Kieran Yanner',0.33
+Djeru's Renunciation,Instant,None,Hour of Devastation,Common,2,White,True,False,True,True,b'Kieran Yanner',0.08
+Dutiful Servants,Creature,Zombie,Hour of Devastation,Common,4,White,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.05
+Gideon's Defeat,Instant,None,Hour of Devastation,Uncommon,1,White,True,False,True,True,b'Kieran Yanner',0.06
+God-Pharaoh's Faithful,Creature,Human Wizard,Hour of Devastation,Common,1,White,True,False,True,True,b'Bastien L. Deharme',0.12
+Hour of Revelation,Sorcery,None,Hour of Devastation,Rare,6,White,True,False,True,True,b'Raymond Swanland',1.01
+Mummy Paramount,Creature,Zombie,Hour of Devastation,Common,2,White,True,False,True,True,b'Josu Hernaiz',0.03
+Oketra's Avenger,Creature,Human Warrior,Hour of Devastation,Common,2,White,True,False,True,True,b'Anthony Palumbo',0.03
+Oketra's Last Mercy,Sorcery,None,Hour of Devastation,Rare,3,White,True,False,True,True,b'Howard Lyon',0.18
+Overwhelming Splendor,Enchantment,Aura Curse,Hour of Devastation,Mythic Rare,8,White,True,False,True,True,b'Richard Wright',2.56
+Sandblast,Instant,None,Hour of Devastation,Common,3,White,True,False,True,True,b'Seb McKinnon',0.02
+Saving Grace,Enchantment,Aura,Hour of Devastation,Uncommon,2,White,True,False,True,True,b'McLean Kendree',0.07
+Solemnity,Enchantment,None,Hour of Devastation,Rare,3,White,True,False,True,True,b'Greg Opalinski',4.99
+Solitary Camel,Creature,Camel,Hour of Devastation,Common,3,White,True,False,True,True,b'Aaron Miller',0.01
+Steadfast Sentinel,Creature,Human Cleric,Hour of Devastation,Common,4,White,True,False,True,True,b'Karl Kopinski',0.01
+Steward of Solidarity,Creature,Human Warrior,Hour of Devastation,Uncommon,2,White,True,False,True,True,b'Sara Winters',0.07
+Sunscourge Champion,Creature,Human Wizard,Hour of Devastation,Uncommon,3,White,True,False,True,True,b'Josu Hernaiz',0.1
+Unconventional Tactics,Sorcery,None,Hour of Devastation,Uncommon,3,White,True,False,True,True,b'Jason Felix',0.04
+Vizier of the True,Creature,Human Cleric,Hour of Devastation,Uncommon,4,White,True,False,True,True,b'Ryan Alexander Lee',0.03
+Aerial Guide,Creature,Drake,Hour of Devastation,Common,3,Blue,True,False,True,True,b'Sidharth Chaturvedi',0.04
+Aven Reedstalker,Creature,Bird Warrior,Hour of Devastation,Common,4,Blue,True,False,True,True,b'Scott Murphy',0.04
+Champion of Wits,Creature,Naga Wizard,Hour of Devastation,Rare,3,Blue,True,False,True,True,b'Even Amundsen',0.53
+Countervailing Winds,Instant,None,Hour of Devastation,Common,3,Blue,True,False,True,True,b'Tyler Jacobson',0.14
+Cunning Survivor,Creature,Human Warrior,Hour of Devastation,Common,2,Blue,True,False,True,True,b'Zoltan Boros',0.06
+Eternal of Harsh Truths,Creature,Zombie Cleric,Hour of Devastation,Uncommon,3,Blue,True,False,True,True,b'Izzy',0.12
+Fraying Sanity,Enchantment,Aura Curse,Hour of Devastation,Rare,3,Blue,True,False,True,True,b'Ryan Alexander Lee',3.41
+Hour of Eternity,Sorcery,None,Hour of Devastation,Rare,5,Blue,True,False,True,True,b'Tyler Jacobson',0.13
+Imaginary Threats,Instant,None,Hour of Devastation,Uncommon,4,Blue,True,False,True,True,b'Magali Villeneuve',0.09
+Jace's Defeat,Instant,None,Hour of Devastation,Uncommon,2,Blue,True,False,True,True,b'Kieran Yanner',0.13
+Kefnet's Last Word,Sorcery,None,Hour of Devastation,Rare,4,Blue,True,False,True,True,b'Clint Cearley',0.16
+Nimble Obstructionist,Creature,Bird Wizard,Hour of Devastation,Rare,3,Blue,True,False,True,True,b'Shreya Shetty',1.14
+Ominous Sphinx,Creature,Sphinx,Hour of Devastation,Uncommon,5,Blue,True,False,True,True,b'Lars Grant-West',0.07
+Proven Combatant,Creature,Human Warrior,Hour of Devastation,Common,1,Blue,True,False,True,True,b'Clint Cearley',0.04
+Riddleform,Enchantment,None,Hour of Devastation,Uncommon,2,Blue,True,False,True,True,b'Steve Argyle',0.07
+Seer of the Last Tomorrow,Creature,Naga Cleric,Hour of Devastation,Common,3,Blue,True,False,True,True,b'Sara Winters',0.05
+Sinuous Striker,Creature,Naga Warrior,Hour of Devastation,Uncommon,3,Blue,True,False,True,True,b'Svetlin Velinov',0.04
+Spellweaver Eternal,Creature,Zombie Naga Wizard,Hour of Devastation,Common,2,Blue,True,False,True,True,b'Jason Felix',0.1
+Strategic Planning,Sorcery,None,Hour of Devastation,Common,2,Blue,True,False,True,True,b'Matt Stewart',0.24
+Striped Riverwinder,Creature,Serpent,Hour of Devastation,Common,7,Blue,True,False,True,True,b'Craig J Spearing',0.11
+Supreme Will,Instant,None,Hour of Devastation,Uncommon,3,Blue,True,False,True,True,b'Alayna Danner',0.14
+Swarm Intelligence,Enchantment,None,Hour of Devastation,Rare,7,Blue,True,False,True,True,b'Daniel Ljunggren',0.71
+Tragic Lesson,Instant,None,Hour of Devastation,Common,3,Blue,True,False,True,True,b'Joseph Meehan',0.13
+"Unesh, Criosphinx Sovereign",Legendary Creature,Sphinx,Hour of Devastation,Mythic Rare,6,Blue,True,False,True,True,b'Adrian Majkrzak',0.56
+Unquenchable Thirst,Enchantment,Aura,Hour of Devastation,Common,2,Blue,True,False,True,True,b'Jeremy Wilson',0.02
+Unsummon,Instant,None,Hour of Devastation,Common,1,Blue,True,True,True,True,b'Nils Hamm',0.07
+Vizier of the Anointed,Creature,Human Cleric,Hour of Devastation,Uncommon,4,Blue,True,False,True,True,b'Jakub Kasper',0.05
+Accursed Horde,Creature,Zombie,Hour of Devastation,Uncommon,4,Black,True,False,True,True,b'Victor Adame Minguez',0.07
+Ammit Eternal,Creature,Zombie Crocodile Demon,Hour of Devastation,Rare,3,Black,True,False,True,True,b'Mike Bierek',0.4
+Apocalypse Demon,Creature,Demon,Hour of Devastation,Rare,6,Black,True,False,True,True,b'Piotr Jab\xc5\x82o\xc5\x84ski',0.17
+Banewhip Punisher,Creature,Human Warrior,Hour of Devastation,Uncommon,3,Black,True,False,True,True,b'Scott Murphy',0.16
+Bontu's Last Reckoning,Sorcery,None,Hour of Devastation,Rare,3,Black,True,False,True,True,b'Victor Adame Minguez',0.97
+Carrion Screecher,Creature,Zombie Bird,Hour of Devastation,Common,4,Black,True,False,True,True,b'Tomasz Jedruszek',0.03
+Doomfall,Sorcery,None,Hour of Devastation,Uncommon,3,Black,True,False,True,True,b'Darek Zabrocki',0.11
+Dreamstealer,Creature,Human Wizard,Hour of Devastation,Rare,3,Black,True,False,True,True,b'Yongjae Choi',0.16
+Grisly Survivor,Creature,Minotaur Warrior,Hour of Devastation,Common,3,Black,True,False,True,True,b'Seb McKinnon',0.05
+Hour of Glory,Instant,None,Hour of Devastation,Rare,4,Black,True,False,True,True,b'Svetlin Velinov',0.13
+Khenra Eternal,Creature,Zombie Jackal Warrior,Hour of Devastation,Common,2,Black,True,False,True,True,b'Tomasz Jedruszek',0.09
+Lethal Sting,Sorcery,None,Hour of Devastation,Common,3,Black,True,False,True,True,b'Randy Vargas',0.07
+Liliana's Defeat,Sorcery,None,Hour of Devastation,Uncommon,1,Black,True,False,True,True,b'Kieran Yanner',0.11
+Lurching Rotbeast,Creature,Zombie Beast,Hour of Devastation,Common,4,Black,True,False,True,True,b'Jason A. Engle',0.07
+Marauding Boneslasher,Creature,Zombie Minotaur,Hour of Devastation,Common,3,Black,True,False,True,True,b'Victor Adame Minguez',0.02
+Merciless Eternal,Creature,Zombie Cleric,Hour of Devastation,Uncommon,3,Black,True,False,True,True,b'Mathias Kollros',0.07
+Moaning Wall,Creature,Zombie Wall,Hour of Devastation,Common,3,Black,True,False,True,True,b'Piotr Jab\xc5\x82o\xc5\x84ski',0.06
+"Razaketh, the Foulblooded",Legendary Creature,Demon,Hour of Devastation,Mythic Rare,8,Black,True,False,True,True,b'Chris Rallis',14.93
+Razaketh's Rite,Sorcery,None,Hour of Devastation,Uncommon,5,Black,True,False,True,True,b'Izzy',0.39
+Ruin Rat,Creature,Rat,Hour of Devastation,Common,2,Black,True,False,True,True,b'Shreya Shetty',0.09
+Scrounger of Souls,Creature,Horror,Hour of Devastation,Common,5,Black,True,False,True,True,b'Zezhou Chen',0.01
+Torment of Hailfire,Sorcery,None,Hour of Devastation,Rare,3,Black,True,False,True,True,b'Grzegorz Rutkowski',6.71
+Torment of Scarabs,Enchantment,Aura Curse,Hour of Devastation,Uncommon,4,Black,True,False,True,True,b'Bastien L. Deharme',0.36
+Torment of Venom,Instant,None,Hour of Devastation,Common,4,Black,True,False,True,True,b'Johann Bodin',0.05
+Vile Manifestation,Creature,Horror,Hour of Devastation,Uncommon,2,Black,True,False,True,True,b'Jason Felix',0.1
+Without Weakness,Instant,None,Hour of Devastation,Common,2,Black,True,False,True,True,b'Alex Konstad',0.05
+Wretched Camel,Creature,Zombie Camel,Hour of Devastation,Common,2,Black,True,False,True,True,b'Dan Scott',0.03
+Abrade,Instant,None,Hour of Devastation,Uncommon,2,Red,True,False,True,True,b'Jonas De Ro',1.07
+Blur of Blades,Instant,None,Hour of Devastation,Common,2,Red,True,False,True,True,b'Anna Steinbauer',0.03
+Burning-Fist Minotaur,Creature,Minotaur Wizard,Hour of Devastation,Uncommon,2,Red,True,False,True,True,b'Matt Stewart',0.1
+Chandra's Defeat,Instant,None,Hour of Devastation,Uncommon,1,Red,True,False,True,True,b'Kieran Yanner',0.08
+Chaos Maw,Creature,Hellion,Hour of Devastation,Rare,7,Red,True,False,True,True,b'Steve Argyle',0.18
+Crash Through,Sorcery,None,Hour of Devastation,Common,1,Red,True,False,True,True,b'Izzy',0.2
+Defiant Khenra,Creature,Jackal Warrior,Hour of Devastation,Common,2,Red,True,False,True,True,b'David Palumbo',0.05
+Earthshaker Khenra,Creature,Jackal Warrior,Hour of Devastation,Rare,2,Red,True,False,True,True,b'Jason A. Engle',0.4
+Fervent Paincaster,Creature,Human Wizard,Hour of Devastation,Uncommon,3,Red,True,False,True,True,b'Matt Stewart',0.04
+Firebrand Archer,Creature,Human Archer,Hour of Devastation,Common,2,Red,True,False,True,True,b'John Stanko',0.22
+Frontline Devastator,Creature,Zombie Minotaur Warrior,Hour of Devastation,Common,4,Red,True,False,True,True,b'Tommy Arnold',0.03
+Gilded Cerodon,Creature,Beast,Hour of Devastation,Common,5,Red,True,False,True,True,b'Matt Stewart',0.1
+Granitic Titan,Creature,Elemental,Hour of Devastation,Common,6,Red,True,False,True,True,b'Yohann Schepacz',0.06
+Hazoret's Undying Fury,Sorcery,None,Hour of Devastation,Rare,6,Red,True,False,True,True,b'Victor Adame Minguez',0.1
+Hour of Devastation,Sorcery,None,Hour of Devastation,Rare,5,Red,True,False,True,True,b'Simon Dominic',0.79
+Imminent Doom,Enchantment,None,Hour of Devastation,Rare,3,Red,True,False,True,True,b'Daniel Ljunggren',0.15
+Inferno Jet,Sorcery,None,Hour of Devastation,Uncommon,6,Red,True,False,True,True,b'Jakub Kasper',0.05
+Khenra Scrapper,Creature,Jackal Warrior,Hour of Devastation,Common,3,Red,True,False,True,True,b'Jesper Ejsing',0.02
+Kindled Fury,Instant,None,Hour of Devastation,Common,1,Red,True,False,True,True,b'Craig J Spearing',0.02
+Magmaroth,Creature,Elemental,Hour of Devastation,Uncommon,4,Red,True,False,True,True,b'Yeong-Hao Han',0.03
+Manticore Eternal,Creature,Zombie Manticore,Hour of Devastation,Uncommon,5,Red,True,False,True,True,b'Yeong-Hao Han',0.08
+"Neheb, the Eternal",Legendary Creature,Zombie Minotaur Warrior,Hour of Devastation,Mythic Rare,5,Red,True,False,True,True,b'Chris Rahn',8.26
+Open Fire,Instant,None,Hour of Devastation,Common,3,Red,True,False,True,True,b'Jason Kang',0.04
+Puncturing Blow,Sorcery,None,Hour of Devastation,Common,4,Red,True,False,True,True,b'Eric Deschamps',0.01
+Sand Strangler,Creature,Beast,Hour of Devastation,Uncommon,4,Red,True,False,True,True,b'Aaron Miller',0.03
+Thorned Moloch,Creature,Lizard,Hour of Devastation,Common,3,Red,True,False,True,True,b'James Paick',0.02
+Wildfire Eternal,Creature,Zombie Jackal Cleric,Hour of Devastation,Rare,4,Red,True,False,True,True,b'Magali Villeneuve',0.25
+Ambuscade,Instant,None,Hour of Devastation,Common,3,Green,True,False,True,True,b'Kev Walker',0.05
+Beneath the Sands,Sorcery,None,Hour of Devastation,Common,3,Green,True,False,True,True,b'Magali Villeneuve',0.11
+Bitterbow Sharpshooters,Creature,Jackal Archer,Hour of Devastation,Common,5,Green,True,False,True,True,b'Bram Sels',0.03
+Devotee of Strength,Creature,Naga Wizard,Hour of Devastation,Uncommon,3,Green,True,False,True,True,b'Yeong-Hao Han',0.03
+Dune Diviner,Creature,Naga Cleric,Hour of Devastation,Uncommon,3,Green,True,False,True,True,b'Min Yum',0.03
+Feral Prowler,Creature,Cat,Hour of Devastation,Common,2,Green,True,False,True,True,b'Ben Wootten',0.06
+Frilled Sandwalla,Creature,Lizard,Hour of Devastation,Common,1,Green,True,True,True,True,b'Zezhou Chen',0.02
+Gift of Strength,Instant,None,Hour of Devastation,Common,2,Green,True,True,True,True,b'Kieran Yanner',0.02
+Harrier Naga,Creature,Naga Warrior,Hour of Devastation,Common,3,Green,True,False,True,True,b'Filip Burburan',0.03
+Hope Tender,Creature,Human Druid,Hour of Devastation,Uncommon,2,Green,True,False,True,True,b'Magali Villeneuve',0.1
+Hour of Promise,Sorcery,None,Hour of Devastation,Rare,5,Green,True,False,True,True,b'Jonas De Ro',0.76
+Life Goes On,Instant,None,Hour of Devastation,Common,1,Green,True,False,True,True,b'Daarken',0.14
+Majestic Myriarch,Creature,Chimera,Hour of Devastation,Mythic Rare,5,Green,True,False,True,True,b'Randy Vargas',0.57
+Nissa's Defeat,Sorcery,None,Hour of Devastation,Uncommon,3,Green,True,False,True,True,b'Kieran Yanner',0.06
+Oasis Ritualist,Creature,Naga Druid,Hour of Devastation,Common,4,Green,True,False,True,True,b'Josu Hernaiz',0.04
+Overcome,Sorcery,None,Hour of Devastation,Uncommon,5,Green,True,True,True,True,b'Craig J Spearing',0.04
+Pride Sovereign,Creature,Cat,Hour of Devastation,Rare,3,Green,True,False,True,True,b'Ryan Yee',0.68
+Quarry Beetle,Creature,Insect,Hour of Devastation,Uncommon,5,Green,True,False,True,True,b'Mike Burns',0.05
+Rampaging Hippo,Creature,Hippo,Hour of Devastation,Common,6,Green,True,False,True,True,b'Aaron Miller',0.03
+Ramunap Excavator,Creature,Naga Cleric,Hour of Devastation,Rare,3,Green,True,False,True,True,b'Mark Behm',4.94
+Ramunap Hydra,Creature,Snake Hydra,Hour of Devastation,Rare,4,Green,True,False,True,True,b'Mike Burns',0.18
+Resilient Khenra,Creature,Jackal Wizard,Hour of Devastation,Rare,2,Green,True,False,True,True,b'Svetlin Velinov',0.14
+Rhonas's Last Stand,Sorcery,None,Hour of Devastation,Rare,2,Green,True,False,True,True,b'Winona Nelson',0.17
+Rhonas's Stalwart,Creature,Human Warrior,Hour of Devastation,Common,2,Green,True,False,True,True,b'Bram Sels',0.02
+Sidewinder Naga,Creature,Naga Warrior,Hour of Devastation,Common,3,Green,True,False,True,True,b'Victor Adame Minguez',0.03
+Sifter Wurm,Creature,Wurm,Hour of Devastation,Uncommon,7,Green,True,False,True,True,b'Filip Burburan',0.1
+Tenacious Hunter,Creature,Crocodile,Hour of Devastation,Uncommon,4,Green,True,False,True,True,b'Zezhou Chen',0.04
+Uncage the Menagerie,Sorcery,None,Hour of Devastation,Mythic Rare,3,Green,True,False,True,True,b'Simon Dominic',0.8
+Bloodwater Entity,Creature,Elemental,Hour of Devastation,Uncommon,3,Gold,True,False,True,True,b'Viktor Titov',0.17
+The Locust God,Legendary Creature,God,Hour of Devastation,Mythic Rare,6,Gold,True,False,True,True,b'Lius Lasahido',11.34
+"Nicol Bolas, God-Pharaoh",Legendary Planeswalker,Bolas,Hour of Devastation,Mythic Rare,7,Gold,True,False,True,True,b'Raymond Swanland',6.78
+Obelisk Spider,Creature,Spider,Hour of Devastation,Uncommon,3,Gold,True,False,True,True,b'YW Tang',0.3
+Resolute Survivors,Creature,Human Warrior,Hour of Devastation,Uncommon,3,Gold,True,False,True,True,b'David Palumbo',0.05
+River Hoopoe,Creature,Bird,Hour of Devastation,Uncommon,2,Gold,True,False,True,True,b'Ryan Pancoast',0.08
+"Samut, the Tested",Legendary Planeswalker,Samut,Hour of Devastation,Mythic Rare,4,Gold,True,False,True,True,b'Aleksi Briclot',0.81
+The Scarab God,Legendary Creature,God,Hour of Devastation,Mythic Rare,5,Gold,True,False,True,True,b'Lius Lasahido',23.98
+The Scorpion God,Legendary Creature,God,Hour of Devastation,Mythic Rare,5,Gold,True,False,True,True,b'Lius Lasahido',1.27
+Unraveling Mummy,Creature,Zombie,Hour of Devastation,Uncommon,3,Gold,True,False,True,True,b'Tomasz Jedruszek',0.09
+Farm,Instant,None,Hour of Devastation,Uncommon,3,White,True,False,True,True,b'Victor Adame Minguez',0.07
+Consign,Instant,None,Hour of Devastation,Uncommon,2,Blue,True,False,True,True,b'Sidharth Chaturvedi',0.18
+Claim,Sorcery,None,Hour of Devastation,Uncommon,1,Black,True,False,True,True,b'Jason Rainville',0.17
+Struggle,Instant,None,Hour of Devastation,Uncommon,3,Red,True,False,True,True,b'Eric Deschamps',0.11
+Appeal,Sorcery,None,Hour of Devastation,Uncommon,1,Green,True,False,True,True,b'Jason Rainville',0.07
+Leave,Instant,None,Hour of Devastation,Rare,2,White,True,False,True,True,b'Dan Scott',0.23
+Reason,Sorcery,None,Hour of Devastation,Rare,1,Blue,True,False,True,True,b'Daarken',0.15
+Grind,Sorcery,None,Hour of Devastation,Rare,2,Black,True,False,True,True,b'Josh Hass',0.17
+Refuse,Instant,None,Hour of Devastation,Rare,4,Red,True,False,True,True,b'Yongjae Choi',0.17
+Driven,Sorcery,None,Hour of Devastation,Rare,2,Green,True,False,True,True,b'Winona Nelson',0.48
+Abandoned Sarcophagus,Artifact,None,Hour of Devastation,Rare,3,Colorless,True,False,True,True,b'Daarken',0.33
+Crook of Condemnation,Artifact,None,Hour of Devastation,Uncommon,2,Colorless,True,False,True,True,b'Ben Maier',0.12
+Dagger of the Worthy,Artifact,Equipment,Hour of Devastation,Uncommon,2,Colorless,True,False,True,True,b'Tommy Arnold',0.05
+God-Pharaoh's Gift,Artifact,None,Hour of Devastation,Rare,7,Colorless,True,False,True,True,b'Titus Lunter',0.49
+Graven Abomination,Artifact Creature,Horror,Hour of Devastation,Common,3,Colorless,True,False,True,True,b'Igor Kieryluk',0.04
+Hollow One,Artifact Creature,Golem,Hour of Devastation,Rare,5,Colorless,True,False,True,True,b'Anthony Palumbo',0.78
+Manalith,Artifact,None,Hour of Devastation,Common,3,Colorless,True,False,True,True,b'Ryan Yee',0.12
+Mirage Mirror,Artifact,None,Hour of Devastation,Rare,3,Colorless,True,False,True,True,b'Craig J Spearing',4.02
+Sunset Pyramid,Artifact,None,Hour of Devastation,Uncommon,2,Colorless,True,False,True,True,b'Jonas De Ro',0.09
+Traveler's Amulet,Artifact,None,Hour of Devastation,Common,1,Colorless,True,True,True,True,b'Marco Nelor',0.09
+Wall of Forgotten Pharaohs,Artifact Creature,Wall,Hour of Devastation,Common,2,Colorless,True,False,True,True,b'Igor Kieryluk',0.03
+Crypt of the Eternals,Land,None,Hour of Devastation,Uncommon,0,Colorless,True,False,True,True,b'Titus Lunter',0.15
+Desert of the Fervent,Land,Desert,Hour of Devastation,Common,0,Colorless,True,False,True,True,b'Titus Lunter',0.17
+Desert of the Glorified,Land,Desert,Hour of Devastation,Common,0,Colorless,True,False,True,True,b'Jonas De Ro',0.16
+Desert of the Indomitable,Land,Desert,Hour of Devastation,Common,0,Colorless,True,False,True,True,b'James Paick',0.16
+Desert of the Mindful,Land,Desert,Hour of Devastation,Common,0,Colorless,True,False,True,True,b'Christine Choi',0.1
+Desert of the True,Land,Desert,Hour of Devastation,Common,0,Colorless,True,False,True,True,b'Jung Park',0.12
+Dunes of the Dead,Land,Desert,Hour of Devastation,Uncommon,0,Colorless,True,False,True,True,b'E. M. Gist',0.13
+Endless Sands,Land,Desert,Hour of Devastation,Rare,0,Colorless,True,False,True,True,b'Noah Bradley',0.35
+Hashep Oasis,Land,Desert,Hour of Devastation,Uncommon,0,Colorless,True,False,True,True,b'Jonas De Ro',0.25
+Hostile Desert,Land,Desert,Hour of Devastation,Rare,0,Colorless,True,False,True,True,b'Josh Hass',0.19
+Ifnir Deadlands,Land,Desert,Hour of Devastation,Uncommon,0,Colorless,True,False,True,True,b'Jonas De Ro',0.25
+Ipnu Rivulet,Land,Desert,Hour of Devastation,Uncommon,0,Colorless,True,False,True,True,b'James Paick',0.25
+Ramunap Ruins,Land,Desert,Hour of Devastation,Uncommon,0,Colorless,True,False,True,True,b'Florian de Gesincourt',1.25
+Scavenger Grounds,Land,Desert,Hour of Devastation,Rare,0,Colorless,True,False,True,True,b'Steven Belledin',1.97
+Shefet Dunes,Land,Desert,Hour of Devastation,Uncommon,0,Colorless,True,False,True,True,b'Yeong-Hao Han',0.29
+Survivors' Encampment,Land,Desert,Hour of Devastation,Common,0,Colorless,True,False,True,True,b'Jonas De Ro',0.15
+Plains,Basic Land,Plains,Hour of Devastation,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.26
+Island,Basic Land,Island,Hour of Devastation,Common,0,Colorless,True,True,True,True,b'Richard Wright',0.3
+Swamp,Basic Land,Swamp,Hour of Devastation,Common,0,Colorless,True,True,True,True,b'Clint Cearley',0.4
+Mountain,Basic Land,Mountain,Hour of Devastation,Common,0,Colorless,True,True,True,True,b'Florian de Gesincourt',0.28
+Forest,Basic Land,Forest,Hour of Devastation,Common,0,Colorless,True,True,True,True,b'Yeong-Hao Han',0.27
+Plains,Basic Land,Plains,Hour of Devastation,Common,0,Colorless,True,True,True,True,b'Lars Grant-West',0.06
+Plains,Basic Land,Plains,Hour of Devastation,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.07
+Island,Basic Land,Island,Hour of Devastation,Common,0,Colorless,True,True,True,True,b'Lucas Graciano',0.1
+Island,Basic Land,Island,Hour of Devastation,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.08
+Swamp,Basic Land,Swamp,Hour of Devastation,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.09
+Swamp,Basic Land,Swamp,Hour of Devastation,Common,0,Colorless,True,True,True,True,b'Mark Zug',0.08
+Mountain,Basic Land,Mountain,Hour of Devastation,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.08
+Mountain,Basic Land,Mountain,Hour of Devastation,Common,0,Colorless,True,True,True,True,b'Kev Walker',0.08
+Forest,Basic Land,Forest,Hour of Devastation,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.07
+Forest,Basic Land,Forest,Hour of Devastation,Common,0,Colorless,True,True,True,True,b'Mark Poole',0.09
+"Nissa, Genesis Mage",Legendary Planeswalker,Nissa,Hour of Devastation,Mythic Rare,7,Green,True,False,True,True,b'Chris Rallis',2.15
+Avid Reclaimer,Creature,Human Druid,Hour of Devastation,Uncommon,3,Green,True,False,True,True,b'Josu Hernaiz',0.16
+Brambleweft Behemoth,Creature,Elemental,Hour of Devastation,Common,6,Green,True,False,True,True,b'Florian de Gesincourt',0.11
+Nissa's Encouragement,Sorcery,None,Hour of Devastation,Rare,5,Green,True,False,True,True,b'Tommy Arnold',0.18
+Woodland Stream,Land,None,Hour of Devastation,Common,0,Colorless,True,False,True,True,b'Florian de Gesincourt',0.12
+"Nicol Bolas, the Deceiver",Legendary Planeswalker,Bolas,Hour of Devastation,Mythic Rare,8,Gold,True,False,True,True,b'Svetlin Velinov',4.66
+Wasp of the Bitter End,Creature,Insect Horror,Hour of Devastation,Uncommon,2,Black,True,False,True,True,b'Tomasz Jedruszek',0.13
+Zealot of the God-Pharaoh,Creature,Minotaur Archer,Hour of Devastation,Common,4,Red,True,False,True,True,b'Gabor Szikszai',0.1
+Visage of Bolas,Artifact,None,Hour of Devastation,Rare,4,Colorless,True,False,True,True,b'Titus Lunter',0.35
+Cinder Barrens,Land,None,Hour of Devastation,Common,0,Colorless,True,False,True,True,b'Titus Lunter',0.16

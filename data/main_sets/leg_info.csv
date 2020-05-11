@@ -1,0 +1,314 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Akron Legionnaire,Creature,Giant Soldier,Legends,Rare,8,White,False,False,True,True,b'Mark Poole',8.76
+Alabaster Potion,Instant,None,Legends,Common,3,White,False,False,True,True,b'Harold McNeill',0.25
+Amrou Kithkin,Creature,Kithkin,Legends,Common,2,White,False,False,True,True,b'Quinton Hoover',0.32
+Angelic Voices,Enchantment,None,Legends,Rare,4,White,False,False,True,True,b'Julie Baroh',9.83
+Cleanse,Sorcery,None,Legends,Rare,4,White,False,False,True,True,b'Phil Foglio',18.18
+Clergy of the Holy Nimbus,Creature,Human Cleric,Legends,Common,1,White,False,False,True,False,b'Daniel Gelon',0.38
+D'Avenant Archer,Creature,Human Soldier Archer,Legends,Common,3,White,False,False,True,True,b'Douglas Shuler',0.24
+Divine Intervention,Enchantment,None,Legends,Rare,8,White,False,False,True,True,b'Amy Weber',48.87
+Divine Offering,Instant,None,Legends,Common,2,White,True,False,True,True,b'Jeff A. Menges',0.93
+Divine Transformation,Enchantment,Aura,Legends,Rare,4,White,False,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',11.6
+Elder Land Wurm,Creature,Dragon Wurm,Legends,Rare,7,White,False,False,True,True,b'Quinton Hoover',8.64
+Enchanted Being,Creature,Human,Legends,Common,3,White,False,False,True,False,b'Douglas Shuler',0.25
+Equinox,Enchantment,Aura,Legends,Common,1,White,False,False,True,False,b'Susan Van Camp',1.18
+Fortified Area,Enchantment,None,Legends,Uncommon,3,White,False,False,True,True,b'Randy Asplund-Faith',1.24
+Glyph of Life,Instant,None,Legends,Common,1,White,False,False,True,False,b'Susan Van Camp',0.25
+Great Defender,Instant,None,Legends,Uncommon,1,White,False,False,True,False,b'Mark Poole',1.02
+Great Wall,Enchantment,None,Legends,Uncommon,3,White,False,False,True,False,b'Sandra Everingham',0.96
+Greater Realm of Preservation,Enchantment,None,Legends,Uncommon,2,White,False,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',3.32
+Heaven's Gate,Instant,None,Legends,Uncommon,1,White,False,False,True,False,b'Douglas Shuler',1.95
+Holy Day,Instant,None,Legends,Common,1,White,True,False,True,True,b'Justin Hampton',0.95
+Indestructible Aura,Instant,None,Legends,Common,1,White,False,False,True,True,b'Mark Poole',0.26
+Infinite Authority,Enchantment,Aura,Legends,Rare,3,White,False,False,True,False,b'Douglas Shuler',10.84
+Ivory Guardians,Creature,Giant Cleric,Legends,Uncommon,6,White,False,False,True,True,b'Melissa A. Benson',0.97
+Keepers of the Faith,Creature,Human Cleric,Legends,Common,3,White,False,False,True,True,b'Daniel Gelon',0.22
+Kismet,Enchantment,None,Legends,Uncommon,4,White,False,False,True,True,b'Kaja Foglio',9.31
+Land Tax,Enchantment,None,Legends,Uncommon,1,White,False,False,True,True,b'Brian Sn\xc3\xb5ddy',46.64
+Lifeblood,Enchantment,None,Legends,Rare,4,White,False,False,True,False,b'Mark Tedin',10.34
+Moat,Enchantment,None,Legends,Rare,4,White,False,False,True,True,b'Jeff A. Menges',49.68
+Osai Vultures,Creature,Bird,Legends,Common,2,White,False,False,True,True,b'Dan Frazier',0.3
+Petra Sphinx,Creature,Sphinx,Legends,Rare,5,White,False,False,True,True,b'Sandra Everingham',9.52
+Presence of the Master,Enchantment,None,Legends,Uncommon,4,White,False,False,True,True,b'Phil Foglio',5.75
+Rapid Fire,Instant,None,Legends,Rare,4,White,False,False,True,False,b'Justin Hampton',9.68
+Remove Enchantments,Instant,None,Legends,Common,1,White,False,False,True,False,b'Brian Sn\xc3\xb5ddy',2.17
+Righteous Avengers,Creature,Human Soldier,Legends,Uncommon,5,White,False,False,True,True,b'Heather Hudson',1.05
+Seeker,Enchantment,Aura,Legends,Uncommon,4,White,False,False,True,True,b'Mark Poole',1.0
+Shield Wall,Instant,None,Legends,Uncommon,2,White,False,False,True,True,b'Douglas Shuler',0.6
+Spirit Link,Enchantment,Aura,Legends,Uncommon,1,White,True,False,True,True,b'Kaja Foglio',9.78
+Spiritual Sanctuary,Enchantment,None,Legends,Rare,4,White,False,False,True,False,b'Amy Weber',12.22
+Thunder Spirit,Creature,Elemental Spirit,Legends,Rare,3,White,False,False,True,True,b'Randy Asplund-Faith',86.7
+Tundra Wolves,Creature,Wolf,Legends,Common,1,White,True,False,True,True,b'Quinton Hoover',0.72
+Visions,Sorcery,None,Legends,Uncommon,1,White,False,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',1.44
+Wall of Caltrops,Creature,Wall,Legends,Common,2,White,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.55
+Wall of Light,Creature,Wall,Legends,Uncommon,3,White,False,False,True,True,b'Richard Thomas',4.41
+Acid Rain,Sorcery,None,Legends,Rare,4,Blue,False,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',41.47
+Anti-Magic Aura,Enchantment,Aura,Legends,Common,3,Blue,False,False,True,True,b'Douglas Shuler',0.55
+Azure Drake,Creature,Drake,Legends,Uncommon,4,Blue,True,False,True,True,b'Dan Frazier',3.98
+Backfire,Enchantment,Aura,Legends,Uncommon,1,Blue,False,False,True,True,b'Brian Sn\xc3\xb5ddy',1.94
+Boomerang,Instant,None,Legends,Common,2,Blue,True,False,True,True,b'Brian Sn\xc3\xb5ddy',1.18
+Brine Hag,Creature,Hag,Legends,Uncommon,4,Blue,False,False,True,False,b'Quinton Hoover',1.34
+Devouring Deep,Creature,Fish,Legends,Common,3,Blue,False,False,True,False,b'Liz Danforth',0.23
+Dream Coat,Enchantment,Aura,Legends,Uncommon,1,Blue,False,False,True,False,b'Anthony S. Waters',1.42
+Elder Spawn,Creature,Spawn,Legends,Rare,7,Blue,False,False,True,False,b'Jesper Myrfors',6.33
+Enchantment Alteration,Instant,None,Legends,Common,1,Blue,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.4
+Energy Tap,Sorcery,None,Legends,Common,1,Blue,False,False,True,True,b'Daniel Gelon',0.39
+Field of Dreams,World Enchantment,None,Legends,Rare,1,Blue,False,False,True,True,b'Kaja Foglio',55.66
+Flash Counter,Instant,None,Legends,Common,2,Blue,True,False,True,True,b'Harold McNeill',0.59
+Flash Flood,Instant,None,Legends,Common,1,Blue,False,False,True,True,b'Tom W\xc3\xa4nerstrand',0.23
+Force Spike,Instant,None,Legends,Common,1,Blue,False,False,True,True,b'Bryon Wackwitz',1.06
+Gaseous Form,Enchantment,Aura,Legends,Common,3,Blue,False,False,True,True,b'Phil Foglio',0.28
+Glyph of Delusion,Instant,None,Legends,Common,1,Blue,False,False,True,False,b'Susan Van Camp',0.26
+In the Eye of Chaos,World Enchantment,None,Legends,Rare,3,Blue,False,False,True,True,b'Brian Sn\xc3\xb5ddy',72.82
+Invoke Prejudice,Enchantment,None,Legends,Rare,4,Blue,False,False,True,False,b'Harold McNeill',32.41
+Juxtapose,Sorcery,None,Legends,Rare,4,Blue,False,False,True,True,b'Justin Hampton',7.92
+Land Equilibrium,Enchantment,None,Legends,Rare,4,Blue,False,False,True,True,b'Jesper Myrfors',5.49
+Mana Drain,Instant,None,Legends,Uncommon,2,Blue,False,False,True,True,b'Mark Tedin',74.58
+Part Water,Sorcery,None,Legends,Uncommon,3,Blue,False,False,True,False,b'N\xc3\xa9N\xc3\xa9 Thomas',1.13
+Psionic Entity,Creature,Illusion,Legends,Rare,5,Blue,False,False,True,True,b'Justin Hampton',6.03
+Psychic Purge,Sorcery,None,Legends,Common,1,Blue,False,False,True,True,b'Susan Van Camp',1.97
+Puppet Master,Enchantment,Aura,Legends,Uncommon,3,Blue,False,False,True,True,b'Sandra Everingham',1.08
+Recall,Sorcery,None,Legends,Rare,3,Blue,False,False,True,True,b'Brian Sn\xc3\xb5ddy',49.18
+Relic Bind,Enchantment,Aura,Legends,Uncommon,3,Blue,False,False,True,True,b'Christopher Rush',1.13
+Remove Soul,Instant,None,Legends,Common,2,Blue,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.51
+Reset,Instant,None,Legends,Uncommon,2,Blue,False,False,True,True,b'Nicola Leonard',22.96
+Reverberation,Instant,None,Legends,Rare,4,Blue,False,False,True,False,b'Justin Hampton',11.2
+Sea Kings' Blessing,Instant,None,Legends,Uncommon,1,Blue,False,False,True,False,b'Randy Asplund-Faith',1.37
+Segovian Leviathan,Creature,Leviathan,Legends,Uncommon,5,Blue,False,False,True,True,b'Melissa A. Benson',0.69
+Silhouette,Instant,None,Legends,Uncommon,2,Blue,False,False,True,False,b'Kaja Foglio',1.22
+Spectral Cloak,Enchantment,Aura,Legends,Uncommon,2,Blue,False,False,True,False,b'Rob Alexander',3.39
+Telekinesis,Instant,None,Legends,Rare,2,Blue,False,False,True,True,b'Daniel Gelon',21.27
+Teleport,Instant,None,Legends,Rare,3,Blue,False,False,True,True,b'Douglas Shuler',6.58
+Time Elemental,Creature,Elemental,Legends,Rare,3,Blue,False,False,True,True,b'Amy Weber',27.24
+Undertow,Enchantment,None,Legends,Uncommon,3,Blue,False,False,True,False,b'Randy Asplund-Faith',0.97
+Venarian Gold,Enchantment,Aura,Legends,Common,3,Blue,False,False,True,False,b'Daniel Gelon',0.28
+Wall of Vapor,Creature,Wall,Legends,Common,4,Blue,False,False,True,True,b'Richard Thomas',0.26
+Wall of Wonder,Creature,Wall,Legends,Uncommon,4,Blue,False,False,True,True,b'Richard Thomas',1.77
+Zephyr Falcon,Creature,Bird,Legends,Common,2,Blue,False,False,True,True,b'Heather Hudson',0.27
+Abomination,Creature,Horror,Legends,Uncommon,5,Black,False,False,True,True,b'Mark Tedin',1.57
+All Hallow's Eve,Sorcery,None,Legends,Rare,4,Black,False,False,True,True,b'Christopher Rush',44.93
+Blight,Enchantment,Aura,Legends,Uncommon,2,Black,False,False,True,True,b'Pete Venters',5.11
+Carrion Ants,Creature,Insect,Legends,Rare,4,Black,False,False,True,True,b'Richard Thomas',9.69
+Chains of Mephistopheles,Enchantment,None,Legends,Rare,2,Black,False,False,True,True,b'Heather Hudson',89.99
+Cosmic Horror,Creature,Horror,Legends,Rare,6,Black,False,False,True,True,b'Jesper Myrfors',10.72
+Cyclopean Mummy,Creature,Zombie,Legends,Common,2,Black,False,False,True,True,"b'Edward P. Beard, Jr.'",0.23
+Darkness,Instant,None,Legends,Common,1,Black,True,False,True,True,b'Harold McNeill',6.81
+Demonic Torment,Enchantment,Aura,Legends,Uncommon,3,Black,False,False,True,True,b'Anson Maddocks',2.25
+Evil Eye of Orms-by-Gore,Creature,Eye,Legends,Uncommon,5,Black,True,False,True,True,b'Jesper Myrfors',2.26
+Fallen Angel,Creature,Angel,Legends,Uncommon,5,Black,True,False,True,True,b'Anson Maddocks',6.0
+Ghosts of the Damned,Creature,Spirit,Legends,Common,3,Black,False,False,True,True,"b'Edward P. Beard, Jr.'",0.23
+Giant Slug,Creature,Slug,Legends,Common,2,Black,False,False,True,True,b'Anson Maddocks',0.24
+Glyph of Doom,Instant,None,Legends,Common,1,Black,False,False,True,False,b'Susan Van Camp',0.26
+Greed,Enchantment,None,Legends,Rare,4,Black,False,False,True,True,b'Phil Foglio',32.36
+Headless Horseman,Creature,Zombie Knight,Legends,Common,3,Black,False,False,True,True,b'Quinton Hoover',0.91
+Hell Swarm,Instant,None,Legends,Common,1,Black,False,False,True,False,b'Christopher Rush',0.27
+Hell's Caretaker,Creature,Horror,Legends,Rare,4,Black,True,False,True,True,b'Sandra Everingham',21.55
+Hellfire,Sorcery,None,Legends,Rare,5,Black,False,False,True,True,b'Pete Venters',47.98
+Horror of Horrors,Enchantment,None,Legends,Uncommon,5,Black,True,False,True,True,b'Mark Tedin',1.26
+Imprison,Enchantment,Aura,Legends,Rare,1,Black,False,False,True,False,b'Christopher Rush',13.5
+Infernal Medusa,Creature,Gorgon,Legends,Uncommon,5,Black,False,False,True,False,b'Anson Maddocks',2.79
+Jovial Evil,Sorcery,None,Legends,Rare,3,Black,False,False,True,False,b'Christopher Rush',17.07
+Lesser Werewolf,Creature,Werewolf,Legends,Uncommon,4,Black,False,False,True,True,b'Quinton Hoover',2.22
+Lost Soul,Creature,Spirit Minion,Legends,Common,3,Black,False,False,True,True,b'Randy Asplund-Faith',0.26
+Mold Demon,Creature,Fungus Demon,Legends,Rare,7,Black,False,False,True,False,b'Jesper Myrfors',12.1
+Nether Void,World Enchantment,None,Legends,Rare,4,Black,False,False,True,True,b'Harold McNeill',33.99
+Pit Scorpion,Creature,Scorpion,Legends,Common,3,Black,False,False,True,True,b'Scott Kirschner',0.24
+Quagmire,Enchantment,None,Legends,Uncommon,3,Black,False,False,True,False,b'Dan Frazier',0.93
+Shimian Night Stalker,Creature,Nightstalker,Legends,Uncommon,5,Black,False,False,True,True,b'Jesper Myrfors',0.73
+Spirit Shackle,Enchantment,Aura,Legends,Common,2,Black,False,False,True,True,"b'Edward P. Beard, Jr.'",0.28
+Syphon Soul,Sorcery,None,Legends,Common,3,Black,False,False,True,True,b'Melissa A. Benson',0.29
+Takklemaggot,Enchantment,Aura,Legends,Uncommon,4,Black,False,False,True,True,b'Daniel Gelon',1.8
+The Abyss,World Enchantment,None,Legends,Rare,4,Black,False,False,True,True,b'Pete Venters',30.37
+The Wretched,Creature,Demon,Legends,Rare,5,Black,False,False,True,True,b'Christopher Rush',16.1
+Touch of Darkness,Instant,None,Legends,Uncommon,1,Black,False,False,True,False,b'Pete Venters',2.7
+Transmutation,Instant,None,Legends,Common,2,Black,False,False,True,True,b'Susan Van Camp',0.32
+Underworld Dreams,Enchantment,None,Legends,Uncommon,3,Black,True,True,True,True,b'Julie Baroh',51.77
+Vampire Bats,Creature,Bat,Legends,Common,1,Black,True,False,True,True,b'Anson Maddocks',0.26
+Walking Dead,Creature,Zombie,Legends,Common,2,Black,False,False,True,False,b'Dan Frazier',0.81
+Wall of Putrid Flesh,Creature,Wall,Legends,Uncommon,3,Black,False,False,True,False,b'Richard Thomas',1.3
+Wall of Shadows,Creature,Wall,Legends,Common,3,Black,False,False,True,True,b'Pete Venters',0.4
+Wall of Tombstones,Creature,Wall,Legends,Uncommon,2,Black,False,False,True,False,b'Dan Frazier',1.73
+Active Volcano,Instant,None,Legends,Common,1,Red,False,False,True,True,b'Justin Hampton',0.35
+Aerathi Berserker,Creature,Human Berserker,Legends,Uncommon,5,Red,False,False,True,False,b'Melissa A. Benson',1.73
+Backdraft,Instant,None,Legends,Uncommon,2,Red,False,False,True,False,b'Brian Sn\xc3\xb5ddy',1.11
+Beasts of Bogardan,Creature,Beast,Legends,Uncommon,5,Red,False,False,True,True,b'Daniel Gelon',0.84
+Blazing Effigy,Creature,Elemental,Legends,Common,2,Red,False,False,True,False,b'Susan Van Camp',0.26
+Blood Lust,Instant,None,Legends,Uncommon,2,Red,False,False,True,True,b'Anson Maddocks',6.07
+Caverns of Despair,World Enchantment,None,Legends,Rare,4,Red,False,False,True,False,b'Harold McNeill',25.51
+Chain Lightning,Sorcery,None,Legends,Common,1,Red,False,False,True,True,b'Sandra Everingham',6.55
+Crevasse,Enchantment,None,Legends,Uncommon,3,Red,False,False,True,False,b'Rob Alexander',0.89
+Crimson Kobolds,"Color Indicator: Red
+          Creature",Kobold,Legends,Common,0,Colorless,False,False,True,True,b'Anson Maddocks',0.86
+Crimson Manticore,Creature,Manticore,Legends,Rare,4,Red,False,False,True,True,b'Daniel Gelon',5.97
+Crookshank Kobolds,"Color Indicator: Red
+          Creature",Kobold,Legends,Common,0,Colorless,False,False,True,True,b'Christopher Rush',0.8
+Disharmony,Instant,None,Legends,Rare,3,Red,False,False,True,True,b'Bryon Wackwitz',17.68
+Dwarven Song,Instant,None,Legends,Uncommon,1,Red,False,False,True,False,b'Dan Frazier',1.15
+Eternal Warrior,Enchantment,Aura,Legends,Uncommon,1,Red,False,False,True,True,b'Anson Maddocks',0.87
+Falling Star,Sorcery,None,Legends,Rare,3,Red,False,False,False,False,b'Douglas Shuler',48.5
+Feint,Instant,None,Legends,Common,1,Red,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.27
+Firestorm Phoenix,Creature,Phoenix,Legends,Rare,6,Red,False,False,True,True,b'Jeff A. Menges',16.16
+Frost Giant,Creature,Giant,Legends,Uncommon,6,Red,False,False,True,True,b'Daniel Gelon',1.46
+Giant Strength,Enchantment,Aura,Legends,Common,2,Red,False,False,True,True,b'Justin Hampton',0.31
+Glyph of Destruction,Instant,None,Legends,Common,1,Red,False,False,True,False,b'Susan Van Camp',0.35
+Gravity Sphere,World Enchantment,None,Legends,Rare,3,Red,False,False,True,False,b'Brian Sn\xc3\xb5ddy',29.96
+Hyperion Blacksmith,Creature,Human Artificer,Legends,Uncommon,3,Red,False,False,True,False,b'Dan Frazier',1.27
+Immolation,Enchantment,Aura,Legends,Common,1,Red,False,False,True,True,b'Scott Kirschner',0.36
+Kobold Drill Sergeant,Creature,Kobold Soldier,Legends,Uncommon,2,Red,False,False,True,True,b'Julie Baroh',2.85
+Kobold Overlord,Creature,Kobold,Legends,Rare,2,Red,False,False,True,True,b'Julie Baroh',37.55
+Kobold Taskmaster,Creature,Kobold,Legends,Uncommon,2,Red,True,False,True,True,b'Randy Asplund-Faith',2.89
+Kobolds of Kher Keep,"Color Indicator: Red
+          Creature",Kobold,Legends,Common,0,Colorless,False,False,True,True,b'Julie Baroh',1.34
+Land's Edge,World Enchantment,None,Legends,Rare,3,Red,False,False,True,True,b'Brian Sn\xc3\xb5ddy',34.47
+Mountain Yeti,Creature,Yeti,Legends,Uncommon,4,Red,False,False,True,True,b'Dan Frazier',1.87
+Primordial Ooze,Creature,Ooze,Legends,Uncommon,1,Red,False,False,True,True,b'Sandra Everingham',0.94
+Pyrotechnics,Sorcery,None,Legends,Common,5,Red,True,False,True,True,b'Anson Maddocks',0.28
+Quarum Trench Gnomes,Creature,Gnome,Legends,Rare,4,Red,False,False,True,False,b'Dan Frazier',9.96
+Raging Bull,Creature,Ox,Legends,Common,3,Red,False,False,True,False,b'Randy Asplund-Faith',0.27
+Spinal Villain,Creature,Beast,Legends,Rare,3,Red,False,False,True,True,b'Anson Maddocks',23.2
+Storm World,World Enchantment,None,Legends,Rare,1,Red,False,False,True,True,b'Christopher Rush',33.36
+Tempest Efreet,Creature,Efreet,Legends,Rare,4,Red,False,False,False,True,b'N\xc3\xa9N\xc3\xa9 Thomas',18.18
+The Brute,Enchantment,Aura,Legends,Common,2,Red,False,False,True,True,b'Mark Poole',0.27
+Wall of Dust,Creature,Wall,Legends,Uncommon,3,Red,False,False,True,True,b'Richard Thomas',0.82
+Wall of Earth,Creature,Wall,Legends,Common,2,Red,False,False,True,False,b'Richard Thomas',0.28
+Wall of Heat,Creature,Wall,Legends,Common,3,Red,False,False,True,True,b'Richard Thomas',0.28
+Wall of Opposition,Creature,Wall,Legends,Rare,5,Red,False,False,True,True,b'Harold McNeill',4.98
+Winds of Change,Sorcery,None,Legends,Uncommon,1,Red,False,False,True,True,b'Justin Hampton',17.25
+Aisling Leprechaun,Creature,Faerie,Legends,Common,1,Green,False,False,True,True,b'Quinton Hoover',0.54
+Arboria,World Enchantment,None,Legends,Uncommon,4,Green,False,False,True,True,b'Daniel Gelon',8.91
+Avoid Fate,Instant,None,Legends,Common,1,Green,True,False,True,True,b'Phil Foglio',3.59
+Barbary Apes,Creature,Ape,Legends,Common,2,Green,False,False,True,False,b'Bryon Wackwitz',0.45
+Cat Warriors,Creature,Cat Warrior,Legends,Common,3,Green,False,False,True,True,b'Melissa A. Benson',0.26
+Cocoon,Enchantment,Aura,Legends,Uncommon,1,Green,False,False,True,True,b'Mark Tedin',0.72
+Concordant Crossroads,World Enchantment,None,Legends,Rare,1,Green,False,False,True,True,b'Amy Weber',84.4
+Craw Giant,Creature,Giant,Legends,Uncommon,7,Green,True,False,True,True,b'Christopher Rush',2.14
+Deadfall,Enchantment,None,Legends,Uncommon,3,Green,False,False,True,False,b'N\xc3\xa9N\xc3\xa9 Thomas',0.88
+Durkwood Boars,Creature,Boar,Legends,Common,5,Green,False,False,True,True,b'Mike Kimble',0.27
+Elven Riders,Creature,Elf,Legends,Rare,5,Green,True,False,True,True,b'Melissa A. Benson',9.85
+Emerald Dragonfly,Creature,Insect,Legends,Common,2,Green,False,False,True,True,b'Quinton Hoover',0.26
+Eureka,Sorcery,None,Legends,Rare,4,Green,False,False,True,True,b'Kaja Foglio',5.75
+Fire Sprites,Creature,Faerie,Legends,Common,2,Green,False,False,True,True,b'Julie Baroh',0.25
+Floral Spuzzem,Creature,Elemental,Legends,Uncommon,4,Green,False,False,True,False,b'Rob Alexander',1.85
+Giant Turtle,Creature,Turtle,Legends,Common,3,Green,False,False,True,False,b'Jeff A. Menges',0.28
+Glyph of Reincarnation,Instant,None,Legends,Common,1,Green,False,False,True,False,b'Susan Van Camp',0.26
+Hornet Cobra,Creature,Snake,Legends,Common,3,Green,False,False,True,False,b'Sandra Everingham',0.24
+Ichneumon Druid,Creature,Human Druid,Legends,Uncommon,3,Green,False,False,True,False,b'Melissa A. Benson',1.53
+Killer Bees,Creature,Insect,Legends,Rare,3,Green,False,False,True,True,b'Phil Foglio',22.5
+Living Plane,World Enchantment,None,Legends,Rare,4,Green,False,False,True,True,b'Bryon Wackwitz',28.43
+Master of the Hunt,Creature,Human,Legends,Rare,4,Green,False,False,True,False,b'Jeff A. Menges',33.31
+Moss Monster,Creature,Elemental,Legends,Common,5,Green,True,False,True,True,b'Jesper Myrfors',0.3
+Pixie Queen,Creature,Faerie,Legends,Rare,4,Green,False,False,True,False,b'Quinton Hoover',18.99
+Pradesh Gypsies,Creature,Human Nomad,Legends,Uncommon,3,Green,False,False,True,True,b'Quinton Hoover',0.85
+Rabid Wombat,Creature,Wombat,Legends,Uncommon,4,Green,False,False,True,True,b'Kaja Foglio',2.66
+Radjan Spirit,Creature,Spirit,Legends,Uncommon,4,Green,False,False,True,True,b'Christopher Rush',0.87
+Rebirth,Sorcery,None,Legends,Rare,6,Green,False,False,False,True,b'Mark Tedin',7.16
+Reincarnation,Instant,None,Legends,Uncommon,3,Green,False,False,True,True,"b'Edward P. Beard, Jr.'",2.5
+Revelation,World Enchantment,None,Legends,Rare,1,Green,False,False,True,True,b'Kaja Foglio',14.28
+Rust,Instant,None,Legends,Common,1,Green,False,False,True,False,b'Liz Danforth',0.25
+Shelkin Brownie,Creature,Ouphe,Legends,Common,2,Green,False,False,True,False,b'Douglas Shuler',0.3
+Storm Seeker,Instant,None,Legends,Uncommon,4,Green,False,False,True,True,b'Mark Poole',5.61
+Subdue,Instant,None,Legends,Common,1,Green,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.27
+Sylvan Library,Enchantment,None,Legends,Uncommon,2,Green,False,False,True,True,b'Harold McNeill',93.97
+Sylvan Paradise,Instant,None,Legends,Uncommon,1,Green,False,False,True,False,b'Randy Asplund-Faith',3.05
+Typhoon,Sorcery,None,Legends,Rare,3,Green,False,False,True,False,b'Anson Maddocks',11.29
+Untamed Wilds,Sorcery,None,Legends,Uncommon,3,Green,False,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',1.7
+Whirling Dervish,Creature,Human Monk,Legends,Uncommon,2,Green,True,False,True,True,b'Susan Van Camp',6.85
+Willow Satyr,Creature,Satyr,Legends,Rare,4,Green,False,False,True,True,b'Jeff A. Menges',47.15
+Winter Blast,Sorcery,None,Legends,Rare,2,Green,False,False,True,True,b'Kaja Foglio',8.67
+Wolverine Pack,Creature,Wolverine,Legends,Common,4,Green,False,False,True,True,b'Jeff A. Menges',0.25
+Wood Elemental,Creature,Elemental,Legends,Rare,4,Green,False,False,True,True,b'Brian Sn\xc3\xb5ddy',12.86
+Adun Oakenshield,Legendary Creature,Human Knight,Legends,Rare,3,Gold,False,False,True,True,b'Jeff A. Menges',47.6
+Angus Mackenzie,Legendary Creature,Human Cleric,Legends,Rare,3,Gold,False,False,True,True,b'Bryon Wackwitz',47.54
+Arcades Sabboth,Legendary Creature,Elder Dragon,Legends,Rare,8,Gold,False,False,True,True,"b'Edward P. Beard, Jr.'",19.55
+Axelrod Gunnarson,Legendary Creature,Giant,Legends,Rare,8,Gold,False,False,True,True,b'Scott Kirschner',9.74
+Ayesha Tanaka,Legendary Creature,Human Artificer,Legends,Rare,4,Gold,False,False,True,True,b'Bryon Wackwitz',7.89
+Barktooth Warbeard,Legendary Creature,Human Warrior,Legends,Uncommon,7,Gold,False,False,True,True,b'Andi Rusu',1.76
+Bartel Runeaxe,Legendary Creature,Giant Warrior,Legends,Rare,6,Gold,False,False,True,True,b'Andi Rusu',14.04
+Boris Devilboon,Legendary Creature,Zombie Wizard,Legends,Rare,5,Gold,False,False,True,True,b'Jesper Myrfors',11.41
+Chromium,Legendary Creature,Elder Dragon,Legends,Rare,8,Gold,False,False,True,True,"b'Edward P. Beard, Jr.'",22.89
+Dakkon Blackblade,Legendary Creature,Human Warrior,Legends,Rare,6,Gold,False,False,True,True,b'Richard Kane Ferguson',32.61
+Gabriel Angelfire,Legendary Creature,Angel,Legends,Rare,7,Gold,False,False,True,True,b'Daniel Gelon',9.22
+Gosta Dirk,Legendary Creature,Human Warrior,Legends,Rare,7,Gold,False,False,True,False,b'Richard Thomas',10.19
+Gwendlyn Di Corci,Legendary Creature,Human Rogue,Legends,Rare,4,Gold,False,False,True,True,b'Julie Baroh',83.74
+Halfdane,Legendary Creature,Shapeshifter,Legends,Rare,4,Gold,False,False,True,True,b'Melissa A. Benson',18.07
+Hazezon Tamar,Legendary Creature,Human Warrior,Legends,Rare,7,Gold,False,False,True,True,b'Richard Kane Ferguson',22.1
+Hunding Gjornersen,Legendary Creature,Human Warrior,Legends,Uncommon,6,Gold,False,False,True,True,b'Richard Thomas',1.75
+Jacques le Vert,Legendary Creature,Human Warrior,Legends,Rare,4,Gold,False,False,True,True,b'Andi Rusu',13.64
+Jasmine Boreal,Legendary Creature,Human,Legends,Uncommon,5,Gold,True,False,True,True,b'Richard Kane Ferguson',2.66
+Jedit Ojanen,Legendary Creature,Cat Warrior,Legends,Uncommon,7,Gold,False,False,True,True,b'Mark Poole',3.06
+Jerrard of the Closed Fist,Legendary Creature,Human Knight,Legends,Uncommon,6,Gold,False,False,True,True,b'Andi Rusu',1.93
+Johan,Legendary Creature,Human Wizard,Legends,Rare,6,Gold,False,False,True,True,b'Mark Tedin',10.23
+Kasimir the Lone Wolf,Legendary Creature,Human Warrior,Legends,Uncommon,6,Gold,False,False,True,False,b'Richard Kane Ferguson',1.86
+Kei Takahashi,Legendary Creature,Human Cleric,Legends,Rare,4,Gold,False,False,True,True,b'Scott Kirschner',6.98
+Lady Caleria,Legendary Creature,Elf Archer,Legends,Rare,7,Gold,False,False,True,True,b'Bryon Wackwitz',13.17
+Lady Evangela,Legendary Creature,Human Cleric,Legends,Rare,3,Gold,False,False,True,True,b'Mark Poole',37.6
+Lady Orca,Legendary Creature,Demon,Legends,Uncommon,7,Gold,False,False,True,True,b'Sandra Everingham',1.78
+Livonya Silone,Legendary Creature,Human Warrior,Legends,Rare,6,Gold,False,False,True,True,b'Richard Kane Ferguson',15.94
+Lord Magnus,Legendary Creature,Human Druid,Legends,Uncommon,6,Gold,False,False,True,False,b'Mark Tedin',2.4
+Marhault Elsdragon,Legendary Creature,Elf Warrior,Legends,Uncommon,6,Gold,False,False,True,True,b'Mark Poole',1.23
+Nebuchadnezzar,Legendary Creature,Human Wizard,Legends,Rare,5,Gold,False,False,True,True,b'Richard Kane Ferguson',14.89
+Nicol Bolas,Legendary Creature,Elder Dragon,Legends,Rare,8,Gold,True,False,True,True,"b'Edward P. Beard, Jr.'",60.49
+Palladia-Mors,Legendary Creature,Elder Dragon,Legends,Rare,8,Gold,False,False,True,True,"b'Edward P. Beard, Jr.'",18.6
+Pavel Maliki,Legendary Creature,Human,Legends,Uncommon,6,Gold,False,False,True,True,b'Andi Rusu',1.7
+Princess Lucrezia,Legendary Creature,Human Wizard,Legends,Uncommon,6,Gold,False,False,True,True,"b'Edward P. Beard, Jr.'",1.87
+Ragnar,Legendary Creature,Human Cleric,Legends,Rare,3,Gold,False,False,True,True,b'Melissa A. Benson',14.18
+Ramirez DePietro,Legendary Creature,Human Pirate,Legends,Uncommon,6,Gold,False,False,True,True,b'Phil Foglio',2.85
+Ramses Overdark,Legendary Creature,Human Assassin,Legends,Rare,6,Gold,False,False,True,True,b'Richard Kane Ferguson',17.47
+Rasputin Dreamweaver,Legendary Creature,Human Wizard,Legends,Rare,6,Gold,False,False,True,True,b'Andi Rusu',67.04
+Riven Turnbull,Legendary Creature,Human Advisor,Legends,Uncommon,7,Gold,False,False,True,True,b'Richard Kane Ferguson',1.8
+Rohgahh of Kher Keep,Legendary Creature,Kobold,Legends,Rare,6,Gold,False,False,True,True,"b'Edward P. Beard, Jr.'",18.8
+Rubinia Soulsinger,Legendary Creature,Faerie,Legends,Rare,5,Gold,False,False,True,True,b'Rob Alexander',13.71
+Sir Shandlar of Eberyn,Legendary Creature,Human Knight,Legends,Uncommon,6,Gold,False,False,True,True,b'Andi Rusu',1.93
+Sivitri Scarzam,Legendary Creature,Human,Legends,Uncommon,7,Gold,False,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',1.58
+Sol'kanar the Swamp King,Legendary Creature,Demon,Legends,Rare,5,Gold,True,False,True,True,b'Richard Kane Ferguson',24.65
+Stangg,Legendary Creature,Human Warrior,Legends,Rare,6,Gold,False,False,True,True,b'Mark Poole',6.76
+Sunastian Falconer,Legendary Creature,Human Shaman,Legends,Uncommon,5,Gold,False,False,True,True,b'Christopher Rush',3.31
+Tetsuo Umezawa,Legendary Creature,Human Archer,Legends,Rare,3,Gold,False,False,True,True,b'Julie Baroh',50.61
+The Lady of the Mountain,Legendary Creature,Giant,Legends,Uncommon,6,Gold,False,False,True,True,b'Richard Kane Ferguson',2.29
+Tobias Andrion,Legendary Creature,Human Advisor,Legends,Uncommon,5,Gold,False,False,True,True,b'Andi Rusu',0.97
+Tor Wauki,Legendary Creature,Human Archer,Legends,Uncommon,5,Gold,False,False,True,True,b'Randy Asplund-Faith',1.37
+Torsten Von Ursus,Legendary Creature,Human Soldier,Legends,Uncommon,6,Gold,False,False,True,True,b'Mark Poole',1.44
+Tuknir Deathlock,Legendary Creature,Human Wizard,Legends,Rare,4,Gold,False,False,True,True,b'Liz Danforth',12.28
+Ur-Drago,Legendary Creature,Elemental,Legends,Rare,7,Gold,False,False,True,False,b'Christopher Rush',10.67
+Vaevictis Asmadi,Legendary Creature,Elder Dragon,Legends,Rare,8,Gold,False,False,True,True,b'Andi Rusu',21.61
+Xira Arien,Legendary Creature,Insect Wizard,Legends,Rare,3,Gold,False,False,True,True,b'Melissa A. Benson',13.03
+Al-abara's Carpet,Artifact,None,Legends,Rare,5,Colorless,False,False,True,True,b'Kaja Foglio',21.33
+Alchor's Tomb,Artifact,None,Legends,Rare,4,Colorless,False,False,True,True,b'Jesper Myrfors',11.22
+Arena of the Ancients,Artifact,None,Legends,Rare,3,Colorless,False,False,True,True,b'Tom W\xc3\xa4nerstrand',12.55
+Black Mana Battery,Artifact,None,Legends,Uncommon,4,Colorless,False,False,True,True,b'Anson Maddocks',2.71
+Blue Mana Battery,Artifact,None,Legends,Uncommon,4,Colorless,False,False,True,True,b'Amy Weber',1.5
+Bronze Horse,Artifact Creature,Horse,Legends,Rare,7,Colorless,False,False,True,True,b'Mark Poole',7.69
+Forethought Amulet,Artifact,None,Legends,Rare,5,Colorless,False,False,True,False,b'Melissa A. Benson',10.04
+Gauntlets of Chaos,Artifact,None,Legends,Rare,5,Colorless,False,False,True,True,b'Dan Frazier',7.56
+Green Mana Battery,Artifact,None,Legends,Uncommon,4,Colorless,False,False,True,True,b'Christopher Rush',1.68
+Horn of Deafening,Artifact,None,Legends,Rare,4,Colorless,False,False,True,True,b'Dan Frazier',6.38
+Knowledge Vault,Artifact,None,Legends,Rare,4,Colorless,False,False,True,True,b'Amy Weber',12.65
+Kry Shield,Artifact,None,Legends,Uncommon,2,Colorless,False,False,True,False,b'Richard Thomas',0.93
+Life Chisel,Artifact,None,Legends,Uncommon,4,Colorless,False,False,True,True,b'Anthony S. Waters',1.66
+Life Matrix,Artifact,None,Legends,Rare,4,Colorless,False,False,True,False,b'Amy Weber',13.64
+Mana Matrix,Artifact,None,Legends,Rare,6,Colorless,False,False,True,True,b'Mark Tedin',25.55
+Marble Priest,Artifact Creature,Cleric,Legends,Uncommon,5,Colorless,False,False,True,False,b'Melissa A. Benson',1.07
+Mirror Universe,Artifact,None,Legends,Rare,6,Colorless,False,False,True,True,b'Phil Foglio',4.85
+North Star,Artifact,None,Legends,Rare,4,Colorless,False,False,True,False,b'Kaja Foglio',15.84
+Nova Pentacle,Artifact,None,Legends,Rare,4,Colorless,False,False,True,True,b'Richard Thomas',18.97
+Planar Gate,Artifact,None,Legends,Rare,6,Colorless,False,False,True,True,b'Melissa A. Benson',35.0
+Red Mana Battery,Artifact,None,Legends,Uncommon,4,Colorless,False,False,True,True,b'Mark Tedin',1.7
+Relic Barrier,Artifact,None,Legends,Uncommon,2,Colorless,True,False,True,True,b'Harold McNeill',6.01
+Ring of Immortals,Artifact,None,Legends,Rare,5,Colorless,False,False,True,False,b'Melissa A. Benson',15.49
+Sentinel,Artifact Creature,Shapeshifter,Legends,Rare,4,Colorless,False,False,True,True,b'Randy Asplund-Faith',5.75
+Serpent Generator,Artifact,None,Legends,Rare,6,Colorless,False,False,True,True,b'Mark Tedin',7.55
+Sword of the Ages,Artifact,None,Legends,Rare,6,Colorless,False,False,True,True,b'Dan Frazier',45.1
+Triassic Egg,Artifact,None,Legends,Rare,4,Colorless,False,False,True,True,b'Dan Frazier',8.67
+Voodoo Doll,Artifact,None,Legends,Rare,6,Colorless,False,False,True,True,b'Sandra Everingham',5.17
+White Mana Battery,Artifact,None,Legends,Uncommon,4,Colorless,False,False,True,True,b'Anthony S. Waters',1.79
+Adventurers' Guildhouse,Land,None,Legends,Uncommon,0,Colorless,False,False,True,False,b'Tom W\xc3\xa4nerstrand',3.55
+Cathedral of Serra,Land,None,Legends,Uncommon,0,Colorless,False,False,True,False,b'Mark Poole',5.0
+Hammerheim,Legendary Land,None,Legends,Uncommon,0,Colorless,False,False,True,True,b'Bryon Wackwitz',4.41
+Karakas,Legendary Land,None,Legends,Uncommon,0,Colorless,False,False,False,True,b'Nicola Leonard',41.53
+Mountain Stronghold,Land,None,Legends,Uncommon,0,Colorless,False,False,True,False,b'Tom W\xc3\xa4nerstrand',2.35
+Pendelhaven,Legendary Land,None,Legends,Uncommon,0,Colorless,True,False,True,True,b'Bryon Wackwitz',10.24
+Seafarer's Quay,Land,None,Legends,Uncommon,0,Colorless,False,False,True,False,b'Tom W\xc3\xa4nerstrand',2.32
+The Tabernacle at Pendrell Vale,Legendary Land,None,Legends,Rare,0,Colorless,False,False,True,True,b'Nicola Leonard',0.0
+Tolaria,Legendary Land,None,Legends,Uncommon,0,Colorless,False,False,True,False,b'Nicola Leonard',2.78
+Unholy Citadel,Land,None,Legends,Uncommon,0,Colorless,False,False,True,False,b'Mark Poole',2.23
+Urborg,Legendary Land,None,Legends,Uncommon,0,Colorless,False,False,True,True,b'Bryon Wackwitz',8.54

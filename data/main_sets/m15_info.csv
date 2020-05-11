@@ -1,0 +1,285 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Ajani Steadfast,Legendary Planeswalker,Ajani,Magic 2015,Mythic Rare,4,White,True,False,True,True,b'Chris Rahn',6.38
+Ajani's Pridemate,Creature,Cat Soldier,Magic 2015,Uncommon,2,White,True,True,True,True,b'Svetlin Velinov',0.16
+"Avacyn, Guardian Angel",Legendary Creature,Angel,Magic 2015,Rare,5,White,True,False,True,False,b'Winona Nelson',0.49
+Battle Mastery,Enchantment,Aura,Magic 2015,Uncommon,3,White,True,False,True,True,b'Zoltan Boros',0.13
+Boonweaver Giant,Creature,Giant Monk,Magic 2015,Uncommon,7,White,True,False,True,False,b'Adam Paquette',0.17
+Congregate,Instant,None,Magic 2015,Uncommon,4,White,True,False,True,True,b'Mark Zug',0.1
+Constricting Sliver,Creature,Sliver,Magic 2015,Uncommon,6,White,True,False,True,False,b'Karl Kopinski',0.44
+Dauntless River Marshal,Creature,Human Soldier,Magic 2015,Uncommon,2,White,True,False,True,False,b'Mark Winters',0.03
+Devouring Light,Instant,None,Magic 2015,Uncommon,3,White,True,False,True,True,b'Slawomir Maniak',0.11
+Divine Favor,Enchantment,Aura,Magic 2015,Common,2,White,True,False,True,True,b'Allen Williams',0.08
+Ephemeral Shields,Instant,None,Magic 2015,Common,2,White,True,False,True,True,b'Yohann Schepacz',0.12
+First Response,Enchantment,None,Magic 2015,Uncommon,4,White,True,False,True,False,b'Slawomir Maniak',0.11
+Geist of the Moors,Creature,Spirit,Magic 2015,Uncommon,3,White,True,False,True,True,b'Aaron Miller',0.04
+Heliod's Pilgrim,Creature,Human Cleric,Magic 2015,Common,3,White,True,True,True,True,b'Izzy',0.18
+Hushwing Gryff,Creature,Hippogriff,Magic 2015,Rare,3,White,True,False,True,True,b'John Severin Brassell',0.37
+Kinsbaile Skirmisher,Creature,Kithkin Soldier,Magic 2015,Common,2,White,True,False,True,True,b'Thomas Denmark',0.03
+Marked by Honor,Enchantment,Aura,Magic 2015,Common,4,White,True,False,True,True,b'David Palumbo',0.05
+Mass Calcify,Sorcery,None,Magic 2015,Rare,7,White,True,False,True,True,b'Brandon Kitkouski',0.72
+Meditation Puzzle,Instant,None,Magic 2015,Common,5,White,True,False,True,True,b'Mark Winters',0.03
+Midnight Guard,Creature,Human Soldier,Magic 2015,Common,3,White,True,False,True,True,b'Jason A. Engle',0.12
+Oppressive Rays,Enchantment,Aura,Magic 2015,Common,1,White,True,False,True,True,b'Mark Zug',0.11
+Oreskos Swiftclaw,Creature,Cat Warrior,Magic 2015,Common,2,White,True,False,True,True,b'James Ryman',0.07
+Paragon of New Dawns,Creature,Human Soldier,Magic 2015,Uncommon,4,White,True,False,True,False,b'John Stanko',0.15
+Pillar of Light,Instant,None,Magic 2015,Common,3,White,True,False,True,False,b'Erica Yang',0.08
+Preeminent Captain,Creature,Kithkin Soldier,Magic 2015,Rare,3,White,True,False,True,True,b'Greg Staples',0.46
+Raise the Alarm,Instant,None,Magic 2015,Common,2,White,True,True,True,True,b'Zoltan Boros',0.11
+Razorfoot Griffin,Creature,Griffin,Magic 2015,Common,4,White,True,False,True,True,b'Ben Thompson',0.02
+Resolute Archangel,Creature,Angel,Magic 2015,Rare,7,White,True,False,True,True,b'Anthony Palumbo',0.76
+Return to the Ranks,Sorcery,None,Magic 2015,Rare,3,White,True,False,True,False,b'Michael Komarck',1.31
+Sanctified Charge,Instant,None,Magic 2015,Common,5,White,True,False,True,False,b'Dave Kendall',0.03
+Selfless Cathar,Creature,Human Cleric,Magic 2015,Common,1,White,True,False,True,True,b'Slawomir Maniak',0.07
+Seraph of the Masses,Creature,Angel,Magic 2015,Uncommon,7,White,True,False,True,False,b'Zoltan Boros',0.12
+Solemn Offering,Sorcery,None,Magic 2015,Common,3,White,True,False,True,True,b'Sam Wood',0.04
+Soul of Theros,Creature,Avatar,Magic 2015,Mythic Rare,6,White,True,False,True,True,b'Zack Stella',0.43
+Soulmender,Creature,Human Cleric,Magic 2015,Common,1,White,True,True,True,True,b'James Ryman',0.07
+Spectra Ward,Enchantment,Aura,Magic 2015,Rare,5,White,True,False,True,False,b'Ryan Alexander Lee',0.97
+Spirit Bonds,Enchantment,None,Magic 2015,Rare,2,White,True,False,True,False,b'Willian Murai',0.39
+Sungrace Pegasus,Creature,Pegasus,Magic 2015,Common,2,White,True,False,True,False,b'Phill Simmer',0.13
+Tireless Missionaries,Creature,Human Cleric,Magic 2015,Common,5,White,True,False,True,True,b'Dave Kendall',0.04
+Triplicate Spirits,Sorcery,None,Magic 2015,Common,6,White,True,False,True,False,b'Izzy',0.12
+Wall of Essence,Creature,Wall,Magic 2015,Uncommon,2,White,True,False,True,True,b'Adam Rex',0.32
+Warden of the Beyond,Creature,Human Wizard,Magic 2015,Uncommon,3,White,True,False,True,False,b'Raymond Swanland',0.04
+Aeronaut Tinkerer,Creature,Human Artificer,Magic 2015,Common,3,Blue,True,False,True,True,b'Willian Murai',0.06
+Aetherspouts,Instant,None,Magic 2015,Rare,5,Blue,True,False,True,False,b'Dan Scott',0.77
+Amphin Pathmage,Creature,Salamander Wizard,Magic 2015,Common,4,Blue,True,False,True,True,b'Mark Winters',0.06
+Chasm Skulker,Creature,Squid Horror,Magic 2015,Rare,3,Blue,True,False,True,True,b'Jack Wang',2.42
+Chief Engineer,Creature,Vedalken Artificer,Magic 2015,Rare,2,Blue,True,False,True,True,b'Steven Belledin',0.63
+Chronostutter,Instant,None,Magic 2015,Common,6,Blue,True,False,True,True,b'Seb McKinnon',0.07
+Coral Barrier,Creature,Wall,Magic 2015,Common,3,Blue,True,False,True,False,b'Florian de Gesincourt',0.08
+Diffusion Sliver,Creature,Sliver,Magic 2015,Uncommon,2,Blue,True,False,True,False,b'Trevor Claxton',1.25
+Dissipate,Instant,None,Magic 2015,Uncommon,3,Blue,True,False,True,True,b'Tomasz Jedruszek',0.22
+Divination,Sorcery,None,Magic 2015,Common,3,Blue,True,False,True,True,b'Howard Lyon',0.09
+Encrust,Enchantment,Aura,Magic 2015,Common,3,Blue,True,False,True,True,b'Jason Felix',0.1
+Ensoul Artifact,Enchantment,Aura,Magic 2015,Uncommon,2,Blue,True,False,True,True,b'Jasper Sandner',2.41
+Frost Lynx,Creature,Elemental Cat,Magic 2015,Common,3,Blue,True,True,True,True,b'Izzy',0.04
+Fugitive Wizard,Creature,Human Wizard,Magic 2015,Common,1,Blue,True,False,True,True,b'Mark Zug',0.04
+Glacial Crasher,Creature,Elemental,Magic 2015,Common,6,Blue,True,False,True,True,b'Mark Winters',0.01
+Hydrosurge,Instant,None,Magic 2015,Common,1,Blue,True,False,True,True,b'Steve Prescott',0.04
+Illusory Angel,Creature,Angel Illusion,Magic 2015,Uncommon,3,Blue,True,False,True,True,b'Allen Williams',0.1
+Into the Void,Sorcery,None,Magic 2015,Uncommon,4,Blue,True,False,True,True,b'Daarken',0.03
+Invisibility,Enchantment,Aura,Magic 2015,Common,2,Blue,True,False,True,True,b'Pete Venters',0.1
+"Jace, the Living Guildpact",Legendary Planeswalker,Jace,Magic 2015,Mythic Rare,4,Blue,True,False,True,True,b'Chase Stone',1.17
+Jace's Ingenuity,Instant,None,Magic 2015,Uncommon,5,Blue,True,False,True,True,b'Igor Kieryluk',0.12
+"Jalira, Master Polymorphist",Legendary Creature,Human Wizard,Magic 2015,Rare,4,Blue,True,False,True,True,b'Steve Prescott',0.19
+Jorubai Murk Lurker,Creature,Leech,Magic 2015,Uncommon,3,Blue,True,False,True,False,b'Clint Cearley',0.05
+Kapsho Kitefins,Creature,Fish,Magic 2015,Uncommon,6,Blue,True,False,True,False,b'Ryan Yee',0.17
+Master of Predicaments,Creature,Sphinx,Magic 2015,Rare,5,Blue,True,False,True,False,b'Matt Stewart',0.23
+Mercurial Pretender,Creature,Shapeshifter,Magic 2015,Rare,5,Blue,True,False,True,True,b'Izzy',0.2
+Military Intelligence,Enchantment,None,Magic 2015,Uncommon,2,Blue,True,False,True,False,b'Craig J Spearing',0.19
+Mind Sculpt,Sorcery,None,Magic 2015,Common,2,Blue,True,False,True,True,b'Michael C. Hayes',0.18
+Negate,Instant,None,Magic 2015,Common,2,Blue,True,True,True,True,b'Jeremy Jarvis',0.09
+Nimbus of the Isles,Creature,Elemental,Magic 2015,Common,5,Blue,True,False,True,True,b'Cliff Childs',0.03
+Paragon of Gathering Mists,Creature,Human Wizard,Magic 2015,Uncommon,4,Blue,True,False,True,False,b'Michael C. Hayes',0.13
+Peel from Reality,Instant,None,Magic 2015,Common,2,Blue,True,False,True,True,b'Jason Felix',0.1
+Polymorphist's Jest,Instant,None,Magic 2015,Rare,3,Blue,True,False,True,True,b'Craig J Spearing',0.94
+Quickling,Creature,Faerie Rogue,Magic 2015,Uncommon,2,Blue,True,False,True,False,b'Clint Cearley',0.31
+Research Assistant,Creature,Human Wizard,Magic 2015,Common,2,Blue,True,False,True,False,b'Svetlin Velinov',0.11
+Soul of Ravnica,Creature,Avatar,Magic 2015,Mythic Rare,6,Blue,True,False,True,True,b'Stephan Martiniere',0.27
+Statute of Denial,Instant,None,Magic 2015,Common,4,Blue,True,False,True,False,b'Zoltan Boros',0.07
+Stormtide Leviathan,Creature,Leviathan,Magic 2015,Rare,8,Blue,True,False,True,True,b'Karl Kopinski',0.58
+Turn to Frog,Instant,None,Magic 2015,Uncommon,2,Blue,True,False,True,True,b'Warren Mahy',0.1
+Void Snare,Sorcery,None,Magic 2015,Common,1,Blue,True,False,True,False,b'Zack Stella',0.2
+Wall of Frost,Creature,Wall,Magic 2015,Uncommon,3,Blue,True,False,True,True,b'Mike Bierek',0.21
+Welkin Tern,Creature,Bird,Magic 2015,Common,2,Blue,True,False,True,True,b'Austin Hsu',0.01
+Accursed Spirit,Creature,Spirit,Magic 2015,Common,4,Black,True,False,True,True,b'Kev Walker',0.03
+Black Cat,Creature,Zombie Cat,Magic 2015,Common,2,Black,True,False,True,True,b'David Palumbo',0.09
+Blood Host,Creature,Vampire,Magic 2015,Uncommon,5,Black,True,False,True,False,b'Cynthia Sheppard',0.09
+Carrion Crow,Creature,Zombie Bird,Magic 2015,Common,3,Black,True,False,True,False,b'Aaron Miller',0.06
+Caustic Tar,Enchantment,Aura,Magic 2015,Uncommon,6,Black,True,False,True,True,b'Jung Park',0.09
+Child of Night,Creature,Vampire,Magic 2015,Common,2,Black,True,True,True,True,b'Ash Wood',0.04
+Covenant of Blood,Sorcery,None,Magic 2015,Common,7,Black,True,False,True,True,b'Seb McKinnon',0.04
+Crippling Blight,Enchantment,Aura,Magic 2015,Common,1,Black,True,False,True,True,b'Lucas Graciano',0.05
+Cruel Sadist,Creature,Human Assassin,Magic 2015,Rare,1,Black,True,False,True,False,b'Min Yum',0.14
+Endless Obedience,Sorcery,None,Magic 2015,Uncommon,6,Black,True,False,True,False,b'Karl Kopinski',0.14
+Eternal Thirst,Enchantment,Aura,Magic 2015,Common,2,Black,True,False,True,True,b'Clint Cearley',0.13
+Feast on the Fallen,Enchantment,None,Magic 2015,Uncommon,3,Black,True,False,True,False,b'Dave Kendall',0.21
+Festergloom,Sorcery,None,Magic 2015,Common,3,Black,True,False,True,True,b'Mathias Kollros',0.03
+Flesh to Dust,Instant,None,Magic 2015,Common,5,Black,True,False,True,True,b'Julie Dillon',0.02
+Gravedigger,Creature,Zombie,Magic 2015,Uncommon,4,Black,True,True,True,True,b'Dermot Power',0.06
+In Garruk's Wake,Sorcery,None,Magic 2015,Rare,9,Black,True,False,True,True,b'Chase Stone',0.9
+Indulgent Tormentor,Creature,Demon,Magic 2015,Rare,5,Black,True,False,True,True,b'Wesley Burt',0.4
+Leeching Sliver,Creature,Sliver,Magic 2015,Uncommon,2,Black,True,False,True,False,b'Svetlin Velinov',0.57
+Liliana Vess,Legendary Planeswalker,Liliana,Magic 2015,Mythic Rare,5,Black,True,False,True,True,b'Aleksi Briclot',6.12
+Mind Rot,Sorcery,None,Magic 2015,Common,3,Black,True,True,True,True,b'Steve Luke',0.05
+Necrobite,Instant,None,Magic 2015,Common,3,Black,True,False,True,True,b'Nils Hamm',0.1
+Necrogen Scudder,Creature,Horror,Magic 2015,Uncommon,3,Black,True,False,True,True,b'Raymond Swanland',0.03
+Necromancer's Assistant,Creature,Zombie,Magic 2015,Common,3,Black,True,False,True,False,b'Svetlin Velinov',0.07
+Necromancer's Stockpile,Enchantment,None,Magic 2015,Rare,2,Black,True,False,True,False,b'Seb McKinnon',0.31
+Nightfire Giant,Creature,Zombie Giant,Magic 2015,Uncommon,5,Black,True,False,True,False,b'Dave Kendall',0.09
+"Ob Nixilis, Unshackled",Legendary Creature,Demon,Magic 2015,Rare,6,Black,True,False,True,False,b'Karl Kopinski',4.2
+Paragon of Open Graves,Creature,Skeleton Warrior,Magic 2015,Uncommon,4,Black,True,False,True,False,b'Min Yum',0.23
+Rotfeaster Maggot,Creature,Insect,Magic 2015,Common,5,Black,True,False,True,True,b'Yeong-Hao Han',0.02
+Shadowcloak Vampire,Creature,Vampire,Magic 2015,Common,5,Black,True,False,True,True,b'Cynthia Sheppard',0.05
+Sign in Blood,Sorcery,None,Magic 2015,Common,2,Black,True,False,True,True,b'Howard Lyon',0.22
+Soul of Innistrad,Creature,Avatar,Magic 2015,Mythic Rare,6,Black,True,False,True,True,b'Adam Paquette',0.36
+Stab Wound,Enchantment,Aura,Magic 2015,Uncommon,3,Black,True,False,True,True,b'Scott Chou',0.08
+Stain the Mind,Sorcery,None,Magic 2015,Rare,5,Black,True,False,True,False,b'Jason Rainville',0.36
+Typhoid Rats,Creature,Rat,Magic 2015,Common,1,Black,True,False,True,True,b'Kev Walker',0.12
+Ulcerate,Instant,None,Magic 2015,Uncommon,1,Black,True,False,True,True,b'Johann Bodin',0.07
+Unmake the Graves,Instant,None,Magic 2015,Common,5,Black,True,False,True,False,b'Aaron Miller',0.08
+Wall of Limbs,Creature,Zombie Wall,Magic 2015,Uncommon,3,Black,True,False,True,False,b'Yeong-Hao Han',0.16
+Waste Not,Enchantment,None,Magic 2015,Rare,2,Black,True,False,True,True,b'Matt Stewart',7.33
+Witch's Familiar,Creature,Frog,Magic 2015,Common,3,Black,True,False,True,False,b'Jack Wang',0.1
+Xathrid Slyblade,Creature,Human Assassin,Magic 2015,Uncommon,3,Black,True,False,True,False,b'Steve Prescott',0.1
+Zof Shade,Creature,Shade,Magic 2015,Common,4,Black,True,False,True,True,b'Jason A. Engle',0.02
+Act on Impulse,Sorcery,None,Magic 2015,Uncommon,3,Red,True,False,True,True,b'Brad Rigney',0.12
+Aggressive Mining,Enchantment,None,Magic 2015,Rare,4,Red,True,False,True,False,b'Franz Vohwinkel',0.27
+Altac Bloodseeker,Creature,Human Berserker,Magic 2015,Uncommon,2,Red,True,False,True,False,b'Cynthia Sheppard',0.05
+Belligerent Sliver,Creature,Sliver,Magic 2015,Uncommon,3,Red,True,False,True,False,b'Raymond Swanland',0.35
+Blastfire Bolt,Instant,None,Magic 2015,Common,6,Red,True,False,True,True,b'Phill Simmer',0.04
+Borderland Marauder,Creature,Human Warrior,Magic 2015,Common,2,Red,True,False,True,True,b'Scott M. Fischer',0.04
+Brood Keeper,Creature,Human Shaman,Magic 2015,Uncommon,4,Red,True,False,True,False,b'Scott Murphy',0.08
+Burning Anger,Enchantment,Aura,Magic 2015,Rare,5,Red,True,False,True,False,b'Anthony Palumbo',0.25
+"Chandra, Pyromaster",Legendary Planeswalker,Chandra,Magic 2015,Mythic Rare,4,Red,True,False,True,True,b'Winona Nelson',1.09
+Circle of Flame,Enchantment,None,Magic 2015,Uncommon,2,Red,True,False,True,True,b'Jaime Jones',0.12
+Clear a Path,Sorcery,None,Magic 2015,Common,1,Red,True,False,True,True,b'Karl Kopinski',0.02
+Cone of Flame,Sorcery,None,Magic 2015,Uncommon,5,Red,True,False,True,True,b'Chippy',0.05
+Crowd's Favor,Instant,None,Magic 2015,Common,1,Red,True,False,True,True,b'Slawomir Maniak',0.07
+Crucible of Fire,Enchantment,None,Magic 2015,Rare,4,Red,True,False,True,True,b'Dominick Domingo',0.49
+Forge Devil,Creature,Devil,Magic 2015,Common,1,Red,True,False,True,True,b'Austin Hsu',0.03
+Foundry Street Denizen,Creature,Goblin Warrior,Magic 2015,Common,1,Red,True,False,True,True,b'Raoul Vitale',0.13
+Frenzied Goblin,Creature,Goblin Berserker,Magic 2015,Uncommon,1,Red,True,False,True,True,b'Carl Critchlow',0.12
+Generator Servant,Creature,Elemental,Magic 2015,Common,2,Red,True,False,True,True,b'Mathias Kollros',0.13
+Goblin Kaboomist,Creature,Goblin Warrior,Magic 2015,Rare,2,Red,True,False,True,False,b'Kev Walker',0.28
+Goblin Rabblemaster,Creature,Goblin Warrior,Magic 2015,Rare,3,Red,True,False,True,True,b'Svetlin Velinov',4.16
+Goblin Roughrider,Creature,Goblin Knight,Magic 2015,Common,3,Red,True,False,True,True,b'Jesper Ejsing',0.03
+Hammerhand,Enchantment,Aura,Magic 2015,Common,1,Red,True,False,True,True,b'Tomasz Jedruszek',0.08
+Heat Ray,Instant,None,Magic 2015,Uncommon,2,Red,True,False,True,True,b'Austin Hsu',0.05
+Hoarding Dragon,Creature,Dragon,Magic 2015,Rare,5,Red,True,False,True,True,b'Matt Cavotta',0.18
+Inferno Fist,Enchantment,Aura,Magic 2015,Common,2,Red,True,False,True,True,b'James Ryman',0.07
+Kird Chieftain,Creature,Ape,Magic 2015,Uncommon,4,Red,True,False,True,False,b'Lars Grant-West',0.11
+Krenko's Enforcer,Creature,Goblin Warrior,Magic 2015,Common,3,Red,True,False,True,True,b'Karl Kopinski',0.08
+"Kurkesh, Onakke Ancient",Legendary Creature,Ogre Spirit,Magic 2015,Rare,4,Red,True,False,True,False,b'Slawomir Maniak',0.29
+Lava Axe,Sorcery,None,Magic 2015,Common,5,Red,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.03
+Lightning Strike,Instant,None,Magic 2015,Common,2,Red,True,False,True,True,b'Adam Paquette',0.1
+Might Makes Right,Enchantment,None,Magic 2015,Uncommon,6,Red,True,False,True,False,b'Mark Winters',0.09
+Miner's Bane,Creature,Elemental,Magic 2015,Common,6,Red,True,False,True,True,b'Adam Paquette',0.04
+Paragon of Fierce Defiance,Creature,Human Warrior,Magic 2015,Uncommon,4,Red,True,False,True,False,b'Slawomir Maniak',0.15
+Rummaging Goblin,Creature,Goblin Rogue,Magic 2015,Common,3,Red,True,False,True,True,b'Karl Kopinski',0.07
+Scrapyard Mongrel,Creature,Hound,Magic 2015,Common,4,Red,True,False,True,False,b'Svetlin Velinov',0.06
+Shrapnel Blast,Instant,None,Magic 2015,Uncommon,2,Red,True,False,True,True,b'Hideaki Takamura',0.24
+Siege Dragon,Creature,Dragon,Magic 2015,Rare,7,Red,True,False,True,True,b'Karl Kopinski',0.33
+Soul of Shandalar,Creature,Avatar,Magic 2015,Mythic Rare,6,Red,True,False,True,False,b'Raymond Swanland',0.37
+Stoke the Flames,Instant,None,Magic 2015,Uncommon,4,Red,True,False,True,True,b'Ryan Barger',0.45
+Thundering Giant,Creature,Giant,Magic 2015,Common,5,Red,True,False,True,True,b'Mark Zug',0.05
+Torch Fiend,Creature,Devil,Magic 2015,Common,2,Red,True,False,True,True,b'Winona Nelson',0.08
+Wall of Fire,Creature,Wall,Magic 2015,Common,3,Red,True,False,True,True,b'Dan Dos Santos',0.05
+Ancient Silverback,Creature,Ape,Magic 2015,Uncommon,6,Green,True,False,True,True,b'Scott M. Fischer',0.04
+Back to Nature,Instant,None,Magic 2015,Uncommon,2,Green,True,False,True,True,b'Howard Lyon',0.22
+Carnivorous Moss-Beast,Creature,Plant Elemental Beast,Magic 2015,Common,6,Green,True,False,True,True,b'Filip Burburan',0.04
+Charging Rhino,Creature,Rhino,Magic 2015,Common,5,Green,True,False,True,True,b'Daren Bader',0.01
+Chord of Calling,Instant,None,Magic 2015,Rare,4,Green,True,False,True,True,b'Karl Kopinski',7.59
+Elvish Mystic,Creature,Elf Druid,Magic 2015,Common,1,Green,True,False,True,True,b'Wesley Burt',0.42
+Feral Incarnation,Sorcery,None,Magic 2015,Uncommon,9,Green,True,False,True,False,b'Eytan Zana',0.08
+Gather Courage,Instant,None,Magic 2015,Uncommon,1,Green,True,False,True,True,b'Brian Despain',0.04
+Genesis Hydra,Creature,Plant Hydra,Magic 2015,Rare,3,Green,True,False,True,True,b'Peter Mohrbacher',0.98
+Hornet Nest,Creature,Insect,Magic 2015,Rare,3,Green,True,False,True,True,b'Adam Paquette',1.02
+Hornet Queen,Creature,Insect,Magic 2015,Rare,7,Green,True,False,True,True,b'Martina Pilcerova',1.92
+Hunt the Weak,Sorcery,None,Magic 2015,Common,4,Green,True,False,True,True,b'Raoul Vitale',0.05
+Hunter's Ambush,Instant,None,Magic 2015,Common,3,Green,True,False,True,True,b'David Palumbo',0.05
+Invasive Species,Creature,Insect,Magic 2015,Common,3,Green,True,False,True,False,b'Christopher Moeller',0.07
+Kalonian Twingrove,Creature,Treefolk Warrior,Magic 2015,Rare,6,Green,True,False,True,False,b'Todd Lockwood',0.42
+Life's Legacy,Sorcery,None,Magic 2015,Rare,2,Green,True,False,True,False,b'Howard Lyon',0.95
+Living Totem,Creature,Plant Elemental,Magic 2015,Common,4,Green,True,False,True,False,b'Svetlin Velinov',0.02
+Naturalize,Instant,None,Magic 2015,Common,2,Green,True,False,True,True,b'Tim Hildebrandt',0.06
+Netcaster Spider,Creature,Spider,Magic 2015,Common,3,Green,True,True,True,True,b'Yohann Schepacz',0.05
+"Nissa, Worldwaker",Legendary Planeswalker,Nissa,Magic 2015,Mythic Rare,5,Green,True,False,True,True,b'Peter Mohrbacher',3.57
+Nissa's Expedition,Sorcery,None,Magic 2015,Uncommon,5,Green,True,False,True,False,b'Dan Scott',0.19
+Overwhelm,Sorcery,None,Magic 2015,Uncommon,7,Green,True,False,True,True,b'Wayne Reynolds',0.06
+Paragon of Eternal Wilds,Creature,Human Druid,Magic 2015,Uncommon,4,Green,True,False,True,False,b'Winona Nelson',0.12
+Phytotitan,Creature,Plant Elemental,Magic 2015,Rare,6,Green,True,False,True,True,b'Marco Nelor',0.37
+Plummet,Instant,None,Magic 2015,Common,2,Green,True,True,True,True,b'Pete Venters',0.1
+Ranger's Guile,Instant,None,Magic 2015,Common,1,Green,True,False,True,True,b'Steve Prescott',0.12
+Reclamation Sage,Creature,Elf Shaman,Magic 2015,Uncommon,3,Green,True,False,True,True,b'Christopher Moeller',0.43
+Restock,Sorcery,None,Magic 2015,Uncommon,5,Green,True,False,True,True,b'Daren Bader',0.2
+Roaring Primadox,Creature,Beast,Magic 2015,Uncommon,4,Green,True,False,True,True,b'James Ryman',0.07
+Runeclaw Bear,Creature,Bear,Magic 2015,Common,2,Green,True,False,True,True,b'Jesper Ejsing',0.11
+Satyr Wayfinder,Creature,Satyr,Magic 2015,Common,2,Green,True,False,True,True,b'Steve Prescott',0.21
+Shaman of Spring,Creature,Elf Shaman,Magic 2015,Common,4,Green,True,False,True,False,b'Johannes Voss',0.06
+Siege Wurm,Creature,Wurm,Magic 2015,Common,7,Green,True,True,True,True,b'Carl Critchlow',0.01
+Soul of Zendikar,Creature,Avatar,Magic 2015,Mythic Rare,6,Green,True,False,True,True,b'Vincent Proce',0.31
+Sunblade Elf,Creature,Elf Warrior,Magic 2015,Uncommon,1,Green,True,False,True,False,b'Lucas Graciano',0.13
+Titanic Growth,Instant,None,Magic 2015,Common,2,Green,True,True,True,True,b'Ryan Pancoast',0.04
+Undergrowth Scavenger,Creature,Fungus Horror,Magic 2015,Common,4,Green,True,False,True,False,b'Nils Hamm',0.15
+Venom Sliver,Creature,Sliver,Magic 2015,Uncommon,2,Green,True,False,True,True,b'Dave Kendall',1.63
+Verdant Haven,Enchantment,Aura,Magic 2015,Common,3,Green,True,False,True,True,b'Daniel Ljunggren',0.09
+Vineweft,Enchantment,Aura,Magic 2015,Common,1,Green,True,False,True,False,b'Lucas Graciano',0.02
+Wall of Mulch,Creature,Wall,Magic 2015,Uncommon,2,Green,True,False,True,True,b'Anthony S. Waters',0.22
+"Yisan, the Wanderer Bard",Legendary Creature,Human Rogue,Magic 2015,Rare,3,Green,True,False,True,False,b'Chase Stone',1.26
+"Garruk, Apex Predator",Legendary Planeswalker,Garruk,Magic 2015,Mythic Rare,7,Gold,True,False,True,True,b'Tyler Jacobson',7.95
+Sliver Hivelord,Legendary Creature,Sliver,Magic 2015,Mythic Rare,5,Gold,True,False,True,True,b'Aleksi Briclot',20.08
+Avarice Amulet,Artifact,Equipment,Magic 2015,Rare,4,Colorless,True,False,True,False,b'Steven Belledin',0.14
+Brawler's Plate,Artifact,Equipment,Magic 2015,Uncommon,3,Colorless,True,False,True,True,b'Jung Park',0.09
+Bronze Sable,Artifact Creature,Sable,Magic 2015,Common,2,Colorless,True,False,True,True,b'Jasper Sandner',0.07
+The Chain Veil,Legendary Artifact,None,Magic 2015,Mythic Rare,4,Colorless,True,False,True,False,b'Volkan Ba\xc7\xb5a',13.36
+Gargoyle Sentinel,Artifact Creature,Gargoyle,Magic 2015,Uncommon,3,Colorless,True,False,True,True,b'Drew Baker',0.04
+Grindclock,Artifact,None,Magic 2015,Rare,2,Colorless,True,False,True,True,b'Nils Hamm',0.25
+Haunted Plate Mail,Artifact,Equipment,Magic 2015,Rare,4,Colorless,True,False,True,True,b'Izzy',0.13
+Hot Soup,Artifact,Equipment,Magic 2015,Uncommon,1,Colorless,True,False,True,True,b'David Palumbo',0.22
+Juggernaut,Artifact Creature,Juggernaut,Magic 2015,Uncommon,4,Colorless,True,False,True,True,b'Kev Walker',0.04
+Meteorite,Artifact,None,Magic 2015,Uncommon,5,Colorless,True,False,True,True,b'Scott Murphy',0.06
+Obelisk of Urd,Artifact,None,Magic 2015,Rare,6,Colorless,True,False,True,False,b'John Severin Brassell',4.1
+Ornithopter,Artifact Creature,Thopter,Magic 2015,Common,0,Colorless,True,False,True,True,b'Franz Vohwinkel',0.19
+Perilous Vault,Artifact,None,Magic 2015,Mythic Rare,4,Colorless,True,False,True,False,b'Sam Burley',4.38
+Phyrexian Revoker,Artifact Creature,Horror,Magic 2015,Rare,2,Colorless,True,False,True,True,b'Kev Walker',1.58
+Profane Memento,Artifact,None,Magic 2015,Uncommon,1,Colorless,True,False,True,False,b'Franz Vohwinkel',0.28
+Rogue's Gloves,Artifact,Equipment,Magic 2015,Uncommon,2,Colorless,True,False,True,True,b'Cyril Van Der Haegen',0.15
+Sacred Armory,Artifact,None,Magic 2015,Uncommon,2,Colorless,True,False,True,False,b'Yeong-Hao Han',0.08
+Scuttling Doom Engine,Artifact Creature,Construct,Magic 2015,Rare,6,Colorless,True,False,True,True,b'Filip Burburan',0.19
+Shield of the Avatar,Artifact,Equipment,Magic 2015,Rare,1,Colorless,True,False,True,False,b'Volkan Ba\xc7\xb5a',0.17
+Soul of New Phyrexia,Artifact Creature,Avatar,Magic 2015,Mythic Rare,6,Colorless,True,False,True,True,b'Daarken',1.23
+Staff of the Death Magus,Artifact,None,Magic 2015,Uncommon,3,Colorless,True,False,True,True,b'Daniel Ljunggren',0.15
+Staff of the Flame Magus,Artifact,None,Magic 2015,Uncommon,3,Colorless,True,False,True,True,b'Daniel Ljunggren',0.08
+Staff of the Mind Magus,Artifact,None,Magic 2015,Uncommon,3,Colorless,True,False,True,True,b'Daniel Ljunggren',0.09
+Staff of the Sun Magus,Artifact,None,Magic 2015,Uncommon,3,Colorless,True,False,True,True,b'Daniel Ljunggren',0.12
+Staff of the Wild Magus,Artifact,None,Magic 2015,Uncommon,3,Colorless,True,False,True,True,b'Daniel Ljunggren',0.08
+Tormod's Crypt,Artifact,None,Magic 2015,Uncommon,0,Colorless,True,False,True,True,b'Lars Grant-West',0.88
+Tyrant's Machine,Artifact,None,Magic 2015,Common,2,Colorless,True,False,True,True,b'Yeong-Hao Han',0.03
+Will-Forged Golem,Artifact Creature,Golem,Magic 2015,Common,6,Colorless,True,False,True,False,b'Jason Felix',0.07
+Battlefield Forge,Land,None,Magic 2015,Rare,0,Colorless,True,False,True,True,b'Darrell Riche',1.95
+Caves of Koilos,Land,None,Magic 2015,Rare,0,Colorless,True,False,True,True,b'Jim Nelson',1.03
+Darksteel Citadel,Artifact Land,None,Magic 2015,Uncommon,0,Colorless,True,False,True,True,b'John Avon',0.5
+Evolving Wilds,Land,None,Magic 2015,Common,0,Colorless,True,True,True,True,b'Steven Belledin',0.1
+Llanowar Wastes,Land,None,Magic 2015,Rare,0,Colorless,True,False,True,True,b'Rob Alexander',1.16
+Radiant Fountain,Land,None,Magic 2015,Common,0,Colorless,True,False,True,True,b'Adam Paquette',0.29
+Shivan Reef,Land,None,Magic 2015,Rare,0,Colorless,True,False,True,True,b'Rob Alexander',3.25
+Sliver Hive,Land,None,Magic 2015,Rare,0,Colorless,True,False,True,False,b'Igor Kieryluk',8.28
+"Urborg, Tomb of Yawgmoth",Legendary Land,None,Magic 2015,Rare,0,Colorless,True,False,True,True,b'John Avon',21.72
+Yavimaya Coast,Land,None,Magic 2015,Rare,0,Colorless,True,False,True,True,b'Anthony S. Waters',1.85
+Plains,Basic Land,Plains,Magic 2015,Common,0,Colorless,True,True,True,True,b'John Avon',0.07
+Plains,Basic Land,Plains,Magic 2015,Common,0,Colorless,True,True,True,True,b'Nils Hamm',0.18
+Plains,Basic Land,Plains,Magic 2015,Common,0,Colorless,True,True,True,True,b'Howard Lyon',0.08
+Plains,Basic Land,Plains,Magic 2015,Common,0,Colorless,True,True,True,True,b'Andreas Rocha',0.07
+Island,Basic Land,Island,Magic 2015,Common,0,Colorless,True,True,True,True,b'Cliff Childs',0.09
+Island,Basic Land,Island,Magic 2015,Common,0,Colorless,True,True,True,True,b'Florian de Gesincourt',0.08
+Island,Basic Land,Island,Magic 2015,Common,0,Colorless,True,True,True,True,b'Peter Mohrbacher',0.09
+Island,Basic Land,Island,Magic 2015,Common,0,Colorless,True,True,True,True,b'Andreas Rocha',0.09
+Swamp,Basic Land,Swamp,Magic 2015,Common,0,Colorless,True,True,True,True,b'John Avon',0.08
+Swamp,Basic Land,Swamp,Magic 2015,Common,0,Colorless,True,True,True,True,b'Cliff Childs',0.08
+Swamp,Basic Land,Swamp,Magic 2015,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.19
+Swamp,Basic Land,Swamp,Magic 2015,Common,0,Colorless,True,True,True,True,b'Jung Park',0.1
+Mountain,Basic Land,Mountain,Magic 2015,Common,0,Colorless,True,True,True,True,b'Cliff Childs',0.07
+Mountain,Basic Land,Mountain,Magic 2015,Common,0,Colorless,True,True,True,True,b'Florian de Gesincourt',0.06
+Mountain,Basic Land,Mountain,Magic 2015,Common,0,Colorless,True,True,True,True,b'Nils Hamm',0.1
+Mountain,Basic Land,Mountain,Magic 2015,Common,0,Colorless,True,True,True,True,b'Karl Kopinski',0.07
+Forest,Basic Land,Forest,Magic 2015,Common,0,Colorless,True,True,True,True,b'John Avon',0.08
+Forest,Basic Land,Forest,Magic 2015,Common,0,Colorless,True,True,True,True,b'Steven Belledin',0.07
+Forest,Basic Land,Forest,Magic 2015,Common,0,Colorless,True,True,True,True,b'Noah Bradley',0.09
+Forest,Basic Land,Forest,Magic 2015,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.07
+Aegis Angel,Creature,Angel,Magic 2015,Rare,6,White,True,False,True,True,b'Aleksi Briclot',0.28
+Divine Verdict,Instant,None,Magic 2015,Common,4,White,True,False,True,True,b'Kev Walker',0.13
+Inspired Charge,Instant,None,Magic 2015,Common,4,White,True,True,True,True,b'Wayne Reynolds',0.04
+Serra Angel,Creature,Angel,Magic 2015,Uncommon,5,White,True,False,True,True,b'Greg Staples',0.1
+Cancel,Instant,None,Magic 2015,Common,3,Blue,True,False,True,True,b'David Palumbo',0.22
+Mahamoti Djinn,Creature,Djinn,Magic 2015,Rare,6,Blue,True,False,True,True,b'Greg Staples',0.1
+Nightmare,Creature,Nightmare Horse,Magic 2015,Rare,6,Black,True,False,True,True,b'Vance Kovacs',0.14
+Sengir Vampire,Creature,Vampire,Magic 2015,Uncommon,5,Black,True,False,True,True,b'Kev Walker',0.07
+Walking Corpse,Creature,Zombie,Magic 2015,Common,2,Black,True,True,True,True,b'Igor Kieryluk',0.03
+Furnace Whelp,Creature,Dragon,Magic 2015,Uncommon,4,Red,True,False,True,True,b'Matt Cavotta',0.11
+Seismic Strike,Instant,None,Magic 2015,Common,3,Red,True,False,True,True,b'Christopher Moeller',0.06
+Shivan Dragon,Creature,Dragon,Magic 2015,Rare,6,Red,True,True,True,True,b'Donato Giancola',0.12
+Centaur Courser,Creature,Centaur Warrior,Magic 2015,Common,3,Green,True,True,True,True,b'Vance Kovacs',0.04
+Garruk's Packleader,Creature,Beast,Magic 2015,Uncommon,5,Green,True,False,True,True,b'Nils Hamm',0.26
+Terra Stomper,Creature,Beast,Magic 2015,Rare,6,Green,True,False,True,True,b'Goran Josic',0.2

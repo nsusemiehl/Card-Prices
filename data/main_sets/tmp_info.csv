@@ -1,0 +1,351 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Advance Scout,Creature,Human Soldier Scout,Tempest,Common,2,White,False,False,True,True,b'Heather Hudson',0.09
+Angelic Protector,Creature,Angel,Tempest,Uncommon,4,White,False,False,True,True,b'DiTerlizzi',0.23
+Anoint,Instant,None,Tempest,Common,1,White,False,False,True,True,b'Eric David Anderson',0.06
+Armor Sliver,Creature,Sliver,Tempest,Uncommon,3,White,False,False,True,True,b'Scott Kirschner',0.27
+Armored Pegasus,Creature,Pegasus,Tempest,Common,2,White,False,False,True,True,b'Una Fricker',0.11
+Auratog,Creature,Atog,Tempest,Rare,2,White,True,False,True,True,b'Jeff Miracola',0.51
+Avenging Angel,Creature,Angel,Tempest,Rare,5,White,False,False,True,True,b'Matthew D. Wilson',0.6
+Circle of Protection: Black,Enchantment,None,Tempest,Common,2,White,True,False,True,True,b'Harold McNeill',0.13
+Circle of Protection: Blue,Enchantment,None,Tempest,Common,2,White,True,False,True,True,b'Harold McNeill',0.11
+Circle of Protection: Green,Enchantment,None,Tempest,Common,2,White,True,False,True,True,b'Harold McNeill',0.11
+Circle of Protection: Red,Enchantment,None,Tempest,Common,2,White,True,False,True,True,b'Harold McNeill',0.17
+Circle of Protection: Shadow,Enchantment,None,Tempest,Common,2,White,False,False,True,False,b'Harold McNeill',0.05
+Circle of Protection: White,Enchantment,None,Tempest,Common,2,White,True,False,True,True,b'Harold McNeill',0.19
+Clergy en-Vec,Creature,Human Cleric,Tempest,Common,2,White,False,False,True,False,b'Heather Hudson',0.06
+Cloudchaser Eagle,Creature,Bird,Tempest,Common,4,White,False,False,True,True,b'Una Fricker',0.1
+Disenchant,Instant,None,Tempest,Common,2,White,True,True,True,True,b'Allen Williams',0.13
+Elite Javelineer,Creature,Human Soldier,Tempest,Common,3,White,True,False,True,True,b'Mark Poole',0.07
+Field of Souls,Enchantment,None,Tempest,Rare,4,White,False,False,True,True,b'Richard Kane Ferguson',0.42
+Flickering Ward,Enchantment,Aura,Tempest,Uncommon,1,White,False,False,True,False,b'Greg Simanson',2.29
+Gallantry,Instant,None,Tempest,Uncommon,2,White,False,False,True,True,b'Douglas Shuler',0.12
+Gerrard's Battle Cry,Enchantment,None,Tempest,Rare,1,White,False,False,True,True,b'Val Mayerik',0.3
+Hanna's Custody,Enchantment,None,Tempest,Rare,3,White,False,False,True,False,b'DiTerlizzi',0.87
+Hero's Resolve,Enchantment,Aura,Tempest,Common,2,White,False,False,True,True,b'Pete Venters',0.11
+Humility,Enchantment,None,Tempest,Rare,4,White,False,False,True,True,b'Phil Foglio',18.81
+Invulnerability,Instant,None,Tempest,Uncommon,2,White,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.17
+Knight of Dawn,Creature,Human Knight,Tempest,Uncommon,3,White,False,False,True,True,b'Ron Spencer',0.22
+Light of Day,Enchantment,None,Tempest,Uncommon,4,White,False,False,True,True,b'Drew Tucker',0.28
+Marble Titan,Creature,Giant,Tempest,Rare,4,White,True,False,True,True,b'Brom',2.67
+Master Decoy,Creature,Human Soldier,Tempest,Common,2,White,True,False,True,True,b'Phil Foglio',0.07
+Mounted Archers,Creature,Human Soldier Archer,Tempest,Common,4,White,False,False,True,True,b'Kev Walker',0.08
+Oracle en-Vec,Creature,Human Wizard,Tempest,Rare,2,White,False,False,True,False,b'Dan Frazier',0.41
+Orim's Prayer,Enchantment,None,Tempest,Uncommon,3,White,False,False,True,False,b'Donato Giancola',0.4
+"Orim, Samite Healer",Legendary Creature,Human Cleric,Tempest,Rare,3,White,False,False,True,True,b'Kaja Foglio',1.2
+Pacifism,Enchantment,Aura,Tempest,Common,2,White,True,True,True,True,b'Adam Rex',0.14
+Pegasus Refuge,Enchantment,None,Tempest,Rare,4,White,False,False,True,False,b'Kev Walker',0.29
+Quickening Licid,Creature,Licid,Tempest,Uncommon,2,White,False,False,True,False,b'Andrew Robinson',0.12
+Repentance,Sorcery,None,Tempest,Uncommon,3,White,False,False,True,True,b'Ron Spencer',0.17
+Sacred Guide,Creature,Human Cleric,Tempest,Rare,1,White,False,False,True,False,b'Zina Saunders',2.43
+Safeguard,Enchantment,None,Tempest,Rare,5,White,False,False,True,False,b'Thomas M. Baxa',0.28
+Serene Offering,Instant,None,Tempest,Uncommon,2,White,False,False,True,False,b'Paolo Parente',0.16
+Soltari Crusader,Creature,Soltari Knight,Tempest,Uncommon,3,White,False,False,True,False,b'Randy Gallegos',0.2
+Soltari Emissary,Creature,Soltari Soldier,Tempest,Rare,2,White,False,False,True,True,b'Adam Rex',0.39
+Soltari Foot Soldier,Creature,Soltari Soldier,Tempest,Common,1,White,False,False,True,True,b'Janet Aulisio',0.18
+Soltari Lancer,Creature,Soltari Knight,Tempest,Common,3,White,False,False,True,True,b'Matthew D. Wilson',0.14
+Soltari Monk,Creature,Soltari Monk Cleric,Tempest,Uncommon,2,White,False,False,True,True,b'Janet Aulisio',0.3
+Soltari Priest,Creature,Soltari Cleric,Tempest,Uncommon,2,White,True,False,True,True,b'Janet Aulisio',0.22
+Soltari Trooper,Creature,Soltari Soldier,Tempest,Common,2,White,False,False,True,True,b'Kev Walker',0.14
+Spirit Mirror,Enchantment,None,Tempest,Rare,4,White,False,False,True,True,b'D. Alexander Gregory',0.51
+Staunch Defenders,Creature,Human Soldier,Tempest,Uncommon,5,White,True,False,True,True,b'Mark Poole',0.09
+Talon Sliver,Creature,Sliver,Tempest,Common,2,White,False,False,True,False,b'Mike Raabe',0.29
+Warmth,Enchantment,None,Tempest,Uncommon,2,White,False,False,True,True,b'Drew Tucker',0.21
+Winds of Rath,Sorcery,None,Tempest,Rare,5,White,False,False,True,True,b'Drew Tucker',1.24
+Worthy Cause,Instant,None,Tempest,Uncommon,1,White,False,False,True,False,b'John Matson',0.32
+Benthic Behemoth,Creature,Serpent,Tempest,Rare,8,Blue,False,False,True,True,b'Jim Nelson',0.53
+Capsize,Instant,None,Tempest,Common,3,Blue,False,False,True,True,b'Tom W\xc3\xa4nerstrand',1.15
+Chill,Enchantment,None,Tempest,Uncommon,2,Blue,False,False,True,True,b'Greg Simanson',0.34
+Counterspell,Instant,None,Tempest,Common,2,Blue,False,False,True,True,b'Stephen Daniele',1.07
+Dismiss,Instant,None,Tempest,Uncommon,4,Blue,False,False,True,True,b'Donato Giancola',0.22
+Dream Cache,Sorcery,None,Tempest,Common,3,Blue,False,False,True,True,b'Phil Foglio',0.14
+Duplicity,Enchantment,None,Tempest,Rare,5,Blue,False,False,True,False,b'Dan Frazier',0.2
+Ertai's Meddling,Instant,None,Tempest,Rare,2,Blue,False,False,True,False,b'Steve Luke',0.8
+Escaped Shapeshifter,Creature,Shapeshifter,Tempest,Rare,5,Blue,False,False,True,False,b'Douglas Shuler',0.57
+Fighting Drake,Creature,Drake,Tempest,Uncommon,4,Blue,True,False,True,True,b'DiTerlizzi',0.1
+Fylamarid,Creature,Squid Beast,Tempest,Uncommon,3,Blue,False,False,True,False,b'Una Fricker',0.13
+Gaseous Form,Enchantment,Aura,Tempest,Common,3,Blue,False,False,True,True,b'Roger Raupp',0.05
+Giant Crab,Creature,Crab,Tempest,Common,5,Blue,False,False,True,True,b'Tom Kyffin',0.13
+Horned Turtle,Creature,Turtle,Tempest,Common,3,Blue,True,False,True,True,b'DiTerlizzi',0.09
+Insight,Enchantment,None,Tempest,Uncommon,3,Blue,False,False,True,True,b'Ron Chironna',0.25
+Interdict,Instant,None,Tempest,Uncommon,2,Blue,False,False,True,False,b'Jeff Laubenstein',0.26
+Intuition,Instant,None,Tempest,Rare,3,Blue,False,False,True,True,b'April Lee',46.64
+Legacy's Allure,Enchantment,None,Tempest,Uncommon,2,Blue,False,False,True,True,b'Daren Bader',0.49
+Legerdemain,Sorcery,None,Tempest,Uncommon,4,Blue,False,False,True,True,b'Daren Bader',0.25
+Mana Severance,Sorcery,None,Tempest,Rare,2,Blue,False,False,True,False,b'Terese Nielsen',8.28
+Manta Riders,Creature,Merfolk,Tempest,Common,1,Blue,False,False,True,True,b'Kaja Foglio',0.07
+Mawcor,Creature,Beast,Tempest,Rare,5,Blue,False,False,True,True,b'John Matson',0.23
+Meditate,Instant,None,Tempest,Rare,3,Blue,False,False,True,True,b'Susan Van Camp',3.65
+Mnemonic Sliver,Creature,Sliver,Tempest,Uncommon,3,Blue,False,False,True,True,b'Randy Gallegos',0.24
+Power Sink,Instant,None,Tempest,Common,2,Blue,False,False,True,True,b'Jeff Miracola',0.15
+Precognition,Enchantment,None,Tempest,Rare,5,Blue,False,False,True,False,b'Jeff Miracola',0.24
+Propaganda,Enchantment,None,Tempest,Uncommon,3,Blue,False,False,True,True,b'Jeff Miracola',6.18
+Rootwater Diver,Creature,Merfolk,Tempest,Uncommon,1,Blue,False,False,True,False,b'Ron Spencer',0.21
+Rootwater Hunter,Creature,Merfolk,Tempest,Common,3,Blue,False,False,True,True,b'Brom',0.09
+Rootwater Matriarch,Creature,Merfolk,Tempest,Rare,4,Blue,True,False,True,True,b'Randy Gallegos',0.36
+Rootwater Shaman,Creature,Merfolk Shaman,Tempest,Rare,3,Blue,False,False,True,False,b'Paolo Parente',0.51
+Sea Monster,Creature,Serpent,Tempest,Common,6,Blue,True,False,True,True,b'Daniel Gelon',0.1
+Shadow Rift,Instant,None,Tempest,Common,1,Blue,False,False,True,True,b'Adam Rex',0.4
+Shimmering Wings,Enchantment,Aura,Tempest,Common,1,Blue,True,False,True,True,b'Steve Luke',0.12
+Skyshroud Condor,Creature,Bird,Tempest,Uncommon,2,Blue,False,False,True,False,b'Doug Chaffee',0.09
+Spell Blast,Instant,None,Tempest,Common,2,Blue,True,False,True,True,b'Steve Luke',0.06
+Steal Enchantment,Enchantment,Aura,Tempest,Uncommon,2,Blue,False,False,True,False,b'Hannibal King',3.98
+Stinging Licid,Creature,Licid,Tempest,Uncommon,2,Blue,False,False,True,False,b'Paolo Parente',0.09
+Thalakos Dreamsower,Creature,Thalakos Wizard,Tempest,Uncommon,3,Blue,False,False,True,False,b'Susan Van Camp',0.14
+Thalakos Mistfolk,Creature,Thalakos Illusion,Tempest,Common,3,Blue,False,False,True,False,b'Richard Kane Ferguson',0.08
+Thalakos Seer,Creature,Thalakos Wizard,Tempest,Common,2,Blue,False,False,True,True,b'Ron Spencer',0.31
+Thalakos Sentry,Creature,Thalakos Soldier,Tempest,Common,2,Blue,False,False,True,False,b'Andrew Robinson',0.1
+Time Ebb,Sorcery,None,Tempest,Common,3,Blue,True,False,True,True,b'Thomas M. Baxa',0.06
+Time Warp,Sorcery,None,Tempest,Rare,5,Blue,True,False,True,True,b'Pete Venters',13.41
+Tradewind Rider,Creature,Spirit,Tempest,Rare,4,Blue,False,False,True,True,b'John Matson',1.6
+Twitch,Instant,None,Tempest,Common,3,Blue,True,False,True,True,b'DiTerlizzi',0.11
+Unstable Shapeshifter,Creature,Shapeshifter,Tempest,Rare,4,Blue,False,False,True,False,b'Terese Nielsen',0.37
+Volrath's Curse,Enchantment,Aura,Tempest,Common,2,Blue,False,False,True,True,b'Daren Bader',0.14
+Whim of Volrath,Instant,None,Tempest,Rare,1,Blue,False,False,True,False,b'Anthony S. Waters',0.95
+Whispers of the Muse,Instant,None,Tempest,Uncommon,1,Blue,True,False,True,True,b'Quinton Hoover',0.31
+Wind Dancer,Creature,Faerie,Tempest,Uncommon,2,Blue,False,False,True,True,b'Susan Van Camp',0.13
+Wind Drake,Creature,Drake,Tempest,Common,3,Blue,True,False,True,True,b'Greg Simanson',0.07
+Winged Sliver,Creature,Sliver,Tempest,Common,2,Blue,False,False,True,True,b'Anthony S. Waters',0.48
+Abandon Hope,Sorcery,None,Tempest,Uncommon,3,Black,False,False,True,False,b'Alan Pollack',0.16
+Bellowing Fiend,Creature,Spirit,Tempest,Rare,5,Black,False,False,True,True,b'Jim Nelson',0.23
+Blood Pet,Creature,Thrull,Tempest,Common,1,Black,False,False,True,True,b'Brom',0.24
+Bounty Hunter,Creature,Human Archer Minion,Tempest,Rare,4,Black,False,False,True,False,b'Brian Sn\xc3\xb5ddy',5.06
+Carrionette,Creature,Skeleton,Tempest,Rare,2,Black,False,False,True,False,b'Pete Venters',0.3
+Clot Sliver,Creature,Sliver,Tempest,Common,2,Black,False,False,True,True,b'Jeff Laubenstein',0.21
+Coercion,Sorcery,None,Tempest,Common,3,Black,True,False,True,True,b'Pete Venters',0.09
+Coffin Queen,Creature,Zombie Wizard,Tempest,Rare,3,Black,False,False,True,True,b'Kaja Foglio',5.43
+Commander Greven il-Vec,Legendary Creature,Human Warrior,Tempest,Rare,6,Black,False,False,True,True,b'Kev Walker',1.01
+Corpse Dance,Instant,None,Tempest,Rare,3,Black,False,False,True,True,b'Brian Sn\xc3\xb5ddy',5.9
+Dark Banishing,Instant,None,Tempest,Common,3,Black,True,False,True,True,b'John Matson',0.1
+Dark Ritual,Instant,None,Tempest,Common,1,Black,False,False,True,True,"b'Ken Meyer, Jr.'",0.51
+Darkling Stalker,Creature,Shade Spirit,Tempest,Common,4,Black,False,False,True,False,b'Susan Van Camp',0.11
+Dauthi Embrace,Enchantment,None,Tempest,Uncommon,3,Black,False,False,True,False,b'Andrew Robinson',1.11
+Dauthi Ghoul,Creature,Dauthi Zombie,Tempest,Uncommon,2,Black,False,False,True,False,b'Tom Kyffin',0.28
+Dauthi Horror,Creature,Dauthi Horror,Tempest,Common,2,Black,False,False,True,True,b'Jeff Laubenstein',0.16
+Dauthi Marauder,Creature,Dauthi Minion,Tempest,Common,3,Black,False,False,True,True,b'Andrew Robinson',0.13
+Dauthi Mercenary,Creature,Dauthi Knight Mercenary,Tempest,Uncommon,3,Black,False,False,True,True,b'Matthew D. Wilson',0.26
+Dauthi Mindripper,Creature,Dauthi Minion,Tempest,Uncommon,4,Black,False,False,True,True,b'Allen Williams',0.2
+Dauthi Slayer,Creature,Dauthi Soldier,Tempest,Common,2,Black,True,False,True,True,b'Dermot Power',0.15
+Death Pits of Rath,Enchantment,None,Tempest,Rare,5,Black,True,False,True,True,b'Joel Biske',0.52
+Diabolic Edict,Instant,None,Tempest,Common,2,Black,True,False,True,True,b'Ron Spencer',0.4
+Disturbed Burial,Sorcery,None,Tempest,Common,2,Black,False,False,True,False,b'Heather Hudson',0.19
+Dread of Night,Enchantment,None,Tempest,Uncommon,1,Black,False,False,True,True,b'Richard Thomas',0.62
+Dregs of Sorrow,Sorcery,None,Tempest,Rare,3,Black,False,False,True,True,b'Thomas Gianni',0.36
+Endless Scream,Enchantment,Aura,Tempest,Common,2,Black,False,False,True,False,b'Joel Biske',0.15
+Enfeeblement,Enchantment,Aura,Tempest,Common,2,Black,True,False,True,True,b'D. Alexander Gregory',0.08
+Evincar's Justice,Sorcery,None,Tempest,Common,4,Black,False,False,True,True,b'Hannibal King',0.34
+Extinction,Sorcery,None,Tempest,Rare,5,Black,False,False,True,False,b'Una Fricker',0.68
+Fevered Convulsions,Enchantment,None,Tempest,Rare,2,Black,False,False,True,False,b'Jeff Miracola',0.57
+Gravedigger,Creature,Zombie,Tempest,Common,4,Black,True,True,True,True,b'Dermot Power',0.05
+Imps' Taunt,Instant,None,Tempest,Uncommon,2,Black,False,False,True,False,b'Colin MacNeil',0.14
+Kezzerdrix,Creature,Rabbit Beast,Tempest,Rare,4,Black,False,False,True,True,b'Matthew D. Wilson',0.32
+Knight of Dusk,Creature,Human Knight,Tempest,Uncommon,3,Black,True,False,True,True,b'Ron Spencer',0.22
+Leeching Licid,Creature,Licid,Tempest,Uncommon,2,Black,False,False,True,False,b'Joel Biske',0.17
+Living Death,Sorcery,None,Tempest,Rare,5,Black,False,False,True,True,b'Charles Gillespie',4.5
+Maddening Imp,Creature,Imp,Tempest,Rare,3,Black,False,False,True,False,b'Zina Saunders',1.53
+Marsh Lurker,Creature,Beast,Tempest,Common,4,Black,False,False,True,False,b'Tom Kyffin',0.07
+Mindwhip Sliver,Creature,Sliver,Tempest,Uncommon,3,Black,False,False,True,False,b'Jeff Miracola',0.29
+Minion of the Wastes,Creature,Minion,Tempest,Rare,6,Black,False,False,True,False,b'Scott Kirschner',0.35
+Perish,Sorcery,None,Tempest,Uncommon,3,Black,False,False,True,True,b'Rebecca Guay',0.3
+Pit Imp,Creature,Imp,Tempest,Common,1,Black,False,False,True,False,b'Phil Foglio',0.11
+Rain of Tears,Sorcery,None,Tempest,Uncommon,3,Black,True,False,True,True,b'Charles Gillespie',0.3
+Rats of Rath,Creature,Rat,Tempest,Common,2,Black,False,False,True,True,b'John Matson',0.14
+Reanimate,Sorcery,None,Tempest,Uncommon,1,Black,False,False,True,True,b'Robert Bliss',10.27
+Reckless Spite,Instant,None,Tempest,Uncommon,3,Black,False,False,True,True,b'Pete Venters',0.17
+Sadistic Glee,Enchantment,Aura,Tempest,Common,1,Black,False,False,True,True,b'Pete Venters',0.23
+Sarcomancy,Enchantment,None,Tempest,Rare,1,Black,False,False,True,True,b'Daren Bader',2.31
+Screeching Harpy,Creature,Harpy Beast,Tempest,Uncommon,4,Black,False,False,True,True,b'Una Fricker',0.09
+Servant of Volrath,Creature,Minion,Tempest,Common,3,Black,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.05
+Skyshroud Vampire,Creature,Vampire,Tempest,Uncommon,5,Black,False,False,True,True,b'Gary Leach',0.11
+Souldrinker,Creature,Spirit,Tempest,Uncommon,4,Black,False,False,True,True,b'Dermot Power',0.13
+Spinal Graft,Enchantment,Aura,Tempest,Common,2,Black,False,False,True,True,b'Ron Spencer',0.08
+Aftershock,Sorcery,None,Tempest,Common,4,Red,False,False,True,True,b'Hannibal King',0.19
+Ancient Runes,Enchantment,None,Tempest,Uncommon,3,Red,False,False,True,False,b'Susan Van Camp',0.2
+Apocalypse,Sorcery,None,Tempest,Rare,5,Red,False,False,True,False,b'Allen Williams',2.76
+Barbed Sliver,Creature,Sliver,Tempest,Uncommon,3,Red,False,False,True,True,b'Scott Kirschner',0.23
+Blood Frenzy,Instant,None,Tempest,Common,2,Red,False,False,True,False,b'Paolo Parente',0.11
+Boil,Instant,None,Tempest,Uncommon,4,Red,True,False,True,True,b'Jason Alexander Behnke',0.82
+Canyon Drake,Creature,Drake,Tempest,Rare,4,Red,False,False,True,False,b'Quinton Hoover',0.23
+Canyon Wildcat,Creature,Cat,Tempest,Common,2,Red,True,False,True,True,b'Gary Leach',0.07
+Chaotic Goo,Creature,Ooze,Tempest,Rare,4,Red,False,False,True,False,b'Allen Williams',1.27
+Crown of Flames,Enchantment,Aura,Tempest,Common,1,Red,False,False,True,True,"b""William O'Connor""",0.18
+Deadshot,Sorcery,None,Tempest,Rare,4,Red,False,False,True,True,b'Heather Hudson',0.24
+Enraging Licid,Creature,Licid,Tempest,Uncommon,2,Red,False,False,True,False,b'Doug Chaffee',0.1
+Firefly,Creature,Insect,Tempest,Uncommon,4,Red,False,False,True,False,b'Stephen Daniele',0.11
+Fireslinger,Creature,Human Wizard,Tempest,Common,2,Red,False,False,True,True,b'Jeff Reitz',0.14
+Flowstone Giant,Creature,Giant,Tempest,Common,4,Red,False,False,True,False,b'Joel Biske',0.07
+Flowstone Salamander,Creature,Salamander,Tempest,Uncommon,5,Red,False,False,True,False,b'Daniel Gelon',0.11
+Flowstone Wyvern,Creature,Drake,Tempest,Rare,5,Red,False,False,True,True,b'Stephen Daniele',0.24
+Furnace of Rath,Enchantment,None,Tempest,Rare,4,Red,True,False,True,True,b'John Matson',3.97
+Giant Strength,Enchantment,Aura,Tempest,Common,2,Red,False,False,True,True,b'Pete Venters',0.08
+Goblin Bombardment,Enchantment,None,Tempest,Uncommon,2,Red,False,False,True,True,b'Brian Sn\xc3\xb5ddy',6.34
+Hand to Hand,Enchantment,None,Tempest,Rare,3,Red,False,False,True,False,b'Carl Frank',0.28
+Havoc,Enchantment,None,Tempest,Uncommon,2,Red,False,False,True,False,b'Donato Giancola',0.14
+Heart Sliver,Creature,Sliver,Tempest,Common,2,Red,False,False,True,True,b'Ron Spencer',0.48
+Jackal Pup,Creature,Jackal,Tempest,Uncommon,1,Red,False,False,True,True,b'Susan Van Camp',0.23
+Kindle,Instant,None,Tempest,Common,2,Red,False,False,True,True,b'Donato Giancola',0.08
+Lightning Blast,Instant,None,Tempest,Common,4,Red,True,False,True,True,b'Richard Thomas',0.08
+Lightning Elemental,Creature,Elemental,Tempest,Common,4,Red,True,False,True,True,b'D. Alexander Gregory',0.08
+Lowland Giant,Creature,Giant,Tempest,Common,4,Red,False,False,True,True,b'Paolo Parente',0.06
+Magmasaur,Creature,Elemental Dinosaur,Tempest,Rare,5,Red,False,False,True,True,b'Daniel Gelon',0.32
+Mogg Conscripts,Creature,Goblin,Tempest,Common,1,Red,False,False,True,True,b'Pete Venters',0.37
+Mogg Fanatic,Creature,Goblin,Tempest,Common,1,Red,True,False,True,True,b'Brom',0.28
+Mogg Raider,Creature,Goblin,Tempest,Common,1,Red,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.31
+Mogg Squad,Creature,Goblin,Tempest,Uncommon,2,Red,False,False,True,False,b'Joel Biske',0.1
+No Quarter,Enchantment,None,Tempest,Rare,4,Red,False,False,True,False,b'Doug Chaffee',0.22
+Opportunist,Creature,Human Soldier,Tempest,Uncommon,3,Red,False,False,True,False,b'Dan Frazier',0.09
+Pallimud,Creature,Beast,Tempest,Rare,3,Red,False,False,True,False,b'Quinton Hoover',0.22
+Rathi Dragon,Creature,Dragon,Tempest,Rare,4,Red,True,False,True,True,b'Christopher Rush',0.37
+Renegade Warlord,Creature,Human Soldier,Tempest,Uncommon,5,Red,False,False,True,True,b'Ron Spencer',0.1
+Rolling Thunder,Sorcery,None,Tempest,Common,3,Red,True,False,True,True,b'Richard Thomas',0.25
+Sandstone Warrior,Creature,Human Soldier Warrior,Tempest,Common,4,Red,True,False,True,True,b'Stephen Daniele',0.09
+Scorched Earth,Sorcery,None,Tempest,Rare,2,Red,False,False,True,False,b'Nicola Leonard',0.44
+Searing Touch,Instant,None,Tempest,Uncommon,1,Red,False,False,True,True,b'D. Alexander Gregory',0.18
+Shadowstorm,Sorcery,None,Tempest,Uncommon,1,Red,False,False,True,True,b'Adam Rex',0.09
+Shatter,Instant,None,Tempest,Common,2,Red,True,False,True,True,b'Jason Alexander Behnke',0.06
+Shocker,Creature,Insect,Tempest,Rare,2,Red,False,False,True,False,b'Thomas M. Baxa',0.69
+Starke of Rath,Legendary Creature,Human Rogue,Tempest,Rare,3,Red,False,False,True,True,b'Dan Frazier',0.75
+Stone Rain,Sorcery,None,Tempest,Common,3,Red,True,False,True,True,b'Christopher Rush',0.13
+Stun,Instant,None,Tempest,Common,2,Red,True,False,True,True,b'Terese Nielsen',0.17
+Sudden Impact,Instant,None,Tempest,Uncommon,4,Red,True,False,True,True,b'Alan Pollack',0.09
+Tahngarth's Rage,Enchantment,Aura,Tempest,Uncommon,1,Red,False,False,True,False,b'Hannibal King',0.16
+Tooth and Claw,Enchantment,None,Tempest,Rare,4,Red,False,False,True,True,b'Val Mayerik',0.3
+Wall of Diffusion,Creature,Wall,Tempest,Common,2,Red,False,False,True,True,b'DiTerlizzi',0.06
+Wild Wurm,Creature,Wurm,Tempest,Uncommon,4,Red,False,False,True,False,b'Randy Elliott',0.15
+Aluren,Enchantment,None,Tempest,Rare,4,Green,False,False,True,True,b'April Lee',31.12
+Apes of Rath,Creature,Ape,Tempest,Uncommon,4,Green,False,False,True,False,b'Jeff Laubenstein',0.13
+Bayou Dragonfly,Creature,Insect,Tempest,Common,2,Green,False,False,True,False,b'DiTerlizzi',0.08
+Broken Fall,Enchantment,None,Tempest,Common,3,Green,False,False,True,True,b'Zina Saunders',0.16
+Canopy Spider,Creature,Spider,Tempest,Common,2,Green,True,True,True,True,b'Christopher Rush',0.08
+Charging Rhino,Creature,Rhino,Tempest,Uncommon,5,Green,True,False,True,True,b'Daren Bader',0.1
+Choke,Enchantment,None,Tempest,Uncommon,3,Green,True,False,True,True,b'Terese Nielsen',2.78
+Crazed Armodon,Creature,Elephant,Tempest,Rare,4,Green,False,False,True,False,b'Gary Leach',0.33
+Dirtcowl Wurm,Creature,Wurm,Tempest,Rare,5,Green,False,False,True,True,b'Dan Frazier',0.81
+Earthcraft,Enchantment,None,Tempest,Rare,2,Green,False,False,True,False,b'Randy Gallegos',56.26
+Eladamri's Vineyard,Enchantment,None,Tempest,Rare,1,Green,False,False,True,False,b'Ron Chironna',2.07
+"Eladamri, Lord of Leaves",Legendary Creature,Elf Warrior,Tempest,Rare,2,Green,False,False,True,False,b'Ron Chironna',15.3
+Elven Warhounds,Creature,Hound,Tempest,Rare,4,Green,False,False,True,False,b'Kev Walker',0.21
+Elvish Fury,Instant,None,Tempest,Common,1,Green,True,False,True,True,b'Quinton Hoover',0.06
+Flailing Drake,Creature,Drake,Tempest,Uncommon,4,Green,False,False,True,False,b'Heather Hudson',0.15
+Frog Tongue,Enchantment,Aura,Tempest,Common,1,Green,False,False,True,False,b'Phil Foglio',0.16
+Fugitive Druid,Creature,Human Druid,Tempest,Rare,4,Green,False,False,True,False,b'Quinton Hoover',0.26
+Harrow,Instant,None,Tempest,Uncommon,3,Green,True,False,True,True,b'Eric David Anderson',0.32
+Heartwood Dryad,Creature,Dryad,Tempest,Common,2,Green,False,False,True,True,b'Rebecca Guay',0.13
+Heartwood Giant,Creature,Giant,Tempest,Rare,5,Green,False,False,True,True,b'Randy Elliott',0.24
+Heartwood Treefolk,Creature,Treefolk,Tempest,Uncommon,4,Green,False,False,True,False,b'Daren Bader',0.21
+Horned Sliver,Creature,Sliver,Tempest,Uncommon,3,Green,False,False,True,True,b'Allen Williams',6.03
+Krakilin,Creature,Beast,Tempest,Uncommon,3,Green,False,False,True,True,b'Richard Kane Ferguson',0.26
+Mirri's Guile,Enchantment,None,Tempest,Rare,1,Green,False,False,True,True,b'Brom',20.52
+Mongrel Pack,Creature,Hound,Tempest,Rare,4,Green,False,False,True,False,b'Jeff Miracola',0.28
+Muscle Sliver,Creature,Sliver,Tempest,Common,2,Green,False,False,True,True,b'Richard Kane Ferguson',0.85
+Natural Spring,Sorcery,None,Tempest,Common,5,Green,True,False,True,True,b'Susan Van Camp',0.06
+Nature's Revolt,Enchantment,None,Tempest,Rare,5,Green,False,False,True,True,b'Donato Giancola',0.81
+Needle Storm,Sorcery,None,Tempest,Uncommon,3,Green,True,False,True,True,b'Val Mayerik',0.08
+Nurturing Licid,Creature,Licid,Tempest,Uncommon,2,Green,False,False,True,False,b'Mark Poole',0.11
+Overrun,Sorcery,None,Tempest,Uncommon,5,Green,True,False,True,True,b'Jeff Miracola',0.31
+Pincher Beetles,Creature,Insect,Tempest,Common,3,Green,True,False,True,True,b'Stephen Daniele',0.06
+Rampant Growth,Sorcery,None,Tempest,Common,2,Green,True,False,True,True,b'Tom Kyffin',0.38
+Reality Anchor,Instant,None,Tempest,Common,2,Green,False,False,True,True,b'Randy Gallegos',0.07
+Reap,Instant,None,Tempest,Uncommon,2,Green,False,False,True,False,b'Ron Chironna',5.19
+Recycle,Enchantment,None,Tempest,Rare,6,Green,False,False,True,True,b'Phil Foglio',1.64
+Respite,Instant,None,Tempest,Common,2,Green,False,False,True,True,b'Rebecca Guay',0.19
+Root Maze,Enchantment,None,Tempest,Rare,1,Green,True,False,True,True,b'Rebecca Guay',3.31
+Rootbreaker Wurm,Creature,Wurm,Tempest,Common,7,Green,True,False,True,True,b'Richard Kane Ferguson',0.08
+Rootwalla,Creature,Lizard,Tempest,Common,3,Green,True,False,True,True,b'Roger Raupp',0.06
+Scragnoth,Creature,Beast,Tempest,Uncommon,5,Green,True,False,True,True,b'Jeff Laubenstein',0.15
+Seeker of Skybreak,Creature,Elf,Tempest,Common,2,Green,False,False,True,True,b'Daren Bader',0.41
+Skyshroud Elf,Creature,Elf Druid,Tempest,Common,2,Green,False,False,True,True,b'Jeff Miracola',0.15
+Skyshroud Ranger,Creature,Elf,Tempest,Common,1,Green,True,False,True,True,b'Steve Luke',0.38
+Skyshroud Troll,Creature,Troll Giant,Tempest,Common,4,Green,False,False,True,True,b'Matthew D. Wilson',0.07
+Spike Drone,Creature,Spike Drone,Tempest,Common,1,Green,False,False,True,False,b'Charles Gillespie',0.11
+Storm Front,Enchantment,None,Tempest,Uncommon,1,Green,False,False,True,False,"b""William O'Connor""",0.19
+Trained Armodon,Creature,Elephant,Tempest,Common,3,Green,True,False,True,True,b'Gary Leach',0.07
+Tranquility,Sorcery,None,Tempest,Common,3,Green,False,False,True,True,b'Margaret Organ-Kean',0.09
+Trumpeting Armodon,Creature,Elephant,Tempest,Uncommon,4,Green,False,False,True,True,b'Gary Leach',0.14
+Verdant Force,Creature,Elemental,Tempest,Rare,8,Green,True,False,True,True,b'DiTerlizzi',0.93
+Verdigris,Instant,None,Tempest,Uncommon,3,Green,False,False,True,True,b'Zina Saunders',0.12
+Winter's Grasp,Sorcery,None,Tempest,Uncommon,3,Green,False,False,True,True,b'Tom W\xc3\xa4nerstrand',0.31
+Dracoplasm,Creature,Shapeshifter,Tempest,Rare,2,Gold,False,False,True,True,b'Andrew Robinson',0.31
+Lobotomy,Sorcery,None,Tempest,Uncommon,4,Gold,False,False,True,True,b'Thomas M. Baxa',0.1
+Ranger en-Vec,Creature,Human Soldier Archer,Tempest,Uncommon,3,Gold,False,False,True,True,b'Randy Elliott',0.12
+Segmented Wurm,Creature,Wurm,Tempest,Uncommon,5,Gold,False,False,True,True,b'Jeff Miracola',0.09
+"Selenia, Dark Angel",Legendary Creature,Angel,Tempest,Rare,5,Gold,False,False,True,True,b'Matthew D. Wilson',2.71
+Sky Spirit,Creature,Spirit,Tempest,Uncommon,3,Gold,False,False,True,True,b'Rebecca Guay',0.12
+Soltari Guerrillas,Creature,Soltari Soldier,Tempest,Rare,4,Gold,False,False,True,True,b'Val Mayerik',0.56
+Spontaneous Combustion,Instant,None,Tempest,Uncommon,3,Gold,False,False,True,True,b'Doug Chaffee',0.08
+Vhati il-Dal,Legendary Creature,Human Warrior,Tempest,Rare,4,Gold,True,False,True,True,b'Ron Spencer',1.87
+Wood Sage,Creature,Human Druid,Tempest,Rare,2,Gold,False,False,True,True,b'Paolo Parente',0.24
+Altar of Dementia,Artifact,None,Tempest,Rare,2,Colorless,True,False,True,True,b'Brom',6.44
+Booby Trap,Artifact,None,Tempest,Rare,6,Colorless,True,False,True,True,b'Doug Chaffee',0.33
+Bottle Gnomes,Artifact Creature,Gnome,Tempest,Uncommon,3,Colorless,True,False,True,True,b'Kaja Foglio',0.18
+Coiled Tinviper,Artifact Creature,Snake,Tempest,Common,3,Colorless,False,False,True,True,b'John Matson',0.1
+Cold Storage,Artifact,None,Tempest,Rare,4,Colorless,False,False,True,False,b'Greg Simanson',2.41
+Cursed Scroll,Artifact,None,Tempest,Rare,1,Colorless,False,False,True,True,b'D. Alexander Gregory',6.49
+Echo Chamber,Artifact,None,Tempest,Rare,4,Colorless,False,False,True,False,b'Donato Giancola',0.29
+Emerald Medallion,Artifact,None,Tempest,Rare,2,Colorless,False,False,True,True,b'Sue Ellen Brown',6.63
+Emmessi Tome,Artifact,None,Tempest,Rare,4,Colorless,False,False,True,True,b'Tom W\xc3\xa4nerstrand',0.23
+Energizer,Artifact Creature,Juggernaut,Tempest,Rare,4,Colorless,False,False,True,False,b'Val Mayerik',0.23
+Essence Bottle,Artifact,None,Tempest,Uncommon,2,Colorless,False,False,True,False,b'Donato Giancola',0.1
+Excavator,Artifact,None,Tempest,Uncommon,2,Colorless,False,False,True,False,b'Tom Kyffin',0.12
+Flowstone Sculpture,Artifact Creature,Shapeshifter,Tempest,Rare,6,Colorless,False,False,True,True,b'Hannibal King',0.27
+Fool's Tome,Artifact,None,Tempest,Rare,4,Colorless,False,False,True,False,b'Julie Baroh',0.23
+Grindstone,Artifact,None,Tempest,Rare,1,Colorless,False,False,True,True,b'Greg Simanson',16.91
+Helm of Possession,Artifact,None,Tempest,Rare,4,Colorless,False,False,True,False,b'Janet Aulisio',3.44
+Jet Medallion,Artifact,None,Tempest,Rare,2,Colorless,False,False,True,True,b'Sue Ellen Brown',18.24
+Jinxed Idol,Artifact,None,Tempest,Rare,2,Colorless,True,False,True,True,b'John Matson',0.34
+Lotus Petal,Artifact,None,Tempest,Common,0,Colorless,False,False,True,True,b'April Lee',8.45
+Magnetic Web,Artifact,None,Tempest,Rare,2,Colorless,False,False,True,False,b'Adam Rex',0.28
+Manakin,Artifact Creature,Construct,Tempest,Common,2,Colorless,False,False,True,True,b'Scott Kirschner',0.2
+Metallic Sliver,Artifact Creature,Sliver,Tempest,Common,1,Colorless,False,False,True,True,b'Allen Williams',0.25
+Mogg Cannon,Artifact,None,Tempest,Uncommon,2,Colorless,False,False,True,False,b'Mike Raabe',0.13
+Patchwork Gnomes,Artifact Creature,Gnome,Tempest,Uncommon,3,Colorless,False,False,True,True,b'Mike Raabe',0.08
+Pearl Medallion,Artifact,None,Tempest,Rare,2,Colorless,False,False,True,True,b'Sue Ellen Brown',7.7
+Phyrexian Grimoire,Artifact,None,Tempest,Rare,3,Colorless,False,False,True,False,b'Doug Chaffee',0.21
+Phyrexian Hulk,Artifact Creature,Golem,Tempest,Uncommon,6,Colorless,True,False,True,True,b'Matthew D. Wilson',0.11
+Phyrexian Splicer,Artifact,None,Tempest,Uncommon,2,Colorless,False,False,True,False,b'Brom',0.23
+Puppet Strings,Artifact,None,Tempest,Uncommon,3,Colorless,False,False,True,True,b'Scott Kirschner',0.83
+Ruby Medallion,Artifact,None,Tempest,Rare,2,Colorless,False,False,True,True,b'Sue Ellen Brown',9.0
+Sapphire Medallion,Artifact,None,Tempest,Rare,2,Colorless,False,False,True,True,b'Sue Ellen Brown',15.64
+Scalding Tongs,Artifact,None,Tempest,Rare,2,Colorless,False,False,True,False,b'Randy Gallegos',0.24
+Scroll Rack,Artifact,None,Tempest,Rare,2,Colorless,False,False,True,True,b'Heather Hudson',58.7
+Squee's Toy,Artifact,None,Tempest,Common,1,Colorless,False,False,True,False,b'Heather Hudson',0.1
+Static Orb,Artifact,None,Tempest,Rare,3,Colorless,False,False,True,True,b'Dermot Power',14.72
+Telethopter,Artifact Creature,Thopter,Tempest,Uncommon,4,Colorless,False,False,True,True,b'Thomas M. Baxa',0.11
+Thumbscrews,Artifact,None,Tempest,Rare,2,Colorless,False,False,True,False,b'Charles Gillespie',0.2
+Torture Chamber,Artifact,None,Tempest,Rare,3,Colorless,False,False,True,False,b'Thomas Gianni',0.22
+Watchdog,Artifact Creature,Hound,Tempest,Uncommon,3,Colorless,False,False,True,False,b'Richard Kane Ferguson',0.14
+Ancient Tomb,Land,None,Tempest,Uncommon,0,Colorless,False,False,True,True,b'Colin MacNeil',34.43
+Caldera Lake,Land,None,Tempest,Rare,0,Colorless,False,False,True,True,b'Allen Williams',1.27
+Cinder Marsh,Land,None,Tempest,Uncommon,0,Colorless,False,False,True,True,b'John Matson',0.2
+Ghost Town,Land,None,Tempest,Uncommon,0,Colorless,False,False,True,False,b'Tom W\xc3\xa4nerstrand',1.54
+Maze of Shadows,Land,None,Tempest,Uncommon,0,Colorless,False,False,True,True,b'D. Alexander Gregory',0.11
+Mogg Hollows,Land,None,Tempest,Uncommon,0,Colorless,False,False,True,True,b'Jeff Laubenstein',0.19
+Pine Barrens,Land,None,Tempest,Rare,0,Colorless,False,False,True,True,b'Rebecca Guay',0.79
+Reflecting Pool,Land,None,Tempest,Rare,0,Colorless,True,False,True,True,b'Adam Rex',14.82
+Rootwater Depths,Land,None,Tempest,Uncommon,0,Colorless,False,False,True,True,b'Roger Raupp',0.18
+Salt Flats,Land,None,Tempest,Rare,0,Colorless,False,False,True,True,b'Scott Kirschner',1.11
+Scabland,Land,None,Tempest,Rare,0,Colorless,False,False,True,True,b'Andrew Robinson',0.69
+Skyshroud Forest,Land,None,Tempest,Rare,0,Colorless,False,False,True,True,b'Roger Raupp',0.66
+Stalking Stones,Land,None,Tempest,Uncommon,0,Colorless,True,False,True,True,b'Stephen Daniele',0.18
+Thalakos Lowlands,Land,None,Tempest,Uncommon,0,Colorless,False,False,True,True,b'Jeff A. Menges',0.17
+Vec Townships,Land,None,Tempest,Uncommon,0,Colorless,False,False,True,True,b'Eric David Anderson',0.13
+Wasteland,Land,None,Tempest,Uncommon,0,Colorless,False,False,True,True,b'Una Fricker',29.65
+Plains,Basic Land,Plains,Tempest,Common,0,Colorless,True,True,True,True,b'Terese Nielsen',0.21
+Plains,Basic Land,Plains,Tempest,Common,0,Colorless,True,True,True,True,b'Terese Nielsen',0.25
+Plains,Basic Land,Plains,Tempest,Common,0,Colorless,True,True,True,True,b'Terese Nielsen',0.27
+Plains,Basic Land,Plains,Tempest,Common,0,Colorless,True,True,True,True,b'Terese Nielsen',0.32
+Island,Basic Land,Island,Tempest,Common,0,Colorless,True,True,True,True,b'Randy Gallegos',0.23
+Island,Basic Land,Island,Tempest,Common,0,Colorless,True,True,True,True,b'Randy Gallegos',0.21
+Island,Basic Land,Island,Tempest,Common,0,Colorless,True,True,True,True,b'Randy Gallegos',0.46
+Island,Basic Land,Island,Tempest,Common,0,Colorless,True,True,True,True,b'Randy Gallegos',0.28
+Swamp,Basic Land,Swamp,Tempest,Common,0,Colorless,True,True,True,True,b'Brom',0.2
+Swamp,Basic Land,Swamp,Tempest,Common,0,Colorless,True,True,True,True,b'Brom',0.24
+Swamp,Basic Land,Swamp,Tempest,Common,0,Colorless,True,True,True,True,b'Brom',0.24
+Swamp,Basic Land,Swamp,Tempest,Common,0,Colorless,True,True,True,True,b'Brom',0.22
+Mountain,Basic Land,Mountain,Tempest,Common,0,Colorless,True,True,True,True,b'Mark Poole',0.25
+Mountain,Basic Land,Mountain,Tempest,Common,0,Colorless,True,True,True,True,b'Mark Poole',0.21
+Mountain,Basic Land,Mountain,Tempest,Common,0,Colorless,True,True,True,True,b'Mark Poole',0.31
+Mountain,Basic Land,Mountain,Tempest,Common,0,Colorless,True,True,True,True,b'Mark Poole',0.27
+Forest,Basic Land,Forest,Tempest,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',0.38
+Forest,Basic Land,Forest,Tempest,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',0.42
+Forest,Basic Land,Forest,Tempest,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',0.49
+Forest,Basic Land,Forest,Tempest,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',0.31

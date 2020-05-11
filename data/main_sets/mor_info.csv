@@ -1,0 +1,151 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Ballyrush Banneret,Creature,Kithkin Soldier,Morningtide,Common,2,White,True,False,True,False,b'Ralph Horsley',0.23
+Battletide Alchemist,Creature,Kithkin Cleric,Morningtide,Rare,5,White,True,False,True,False,b'Steve Prescott',0.77
+Burrenton Bombardier,Creature,Kithkin Soldier,Morningtide,Common,3,White,True,False,True,True,b'Ron Spencer',0.05
+Burrenton Shield-Bearers,Creature,Kithkin Soldier,Morningtide,Common,5,White,True,False,True,False,b'Daren Bader',0.03
+Cenn's Tactician,Creature,Kithkin Soldier,Morningtide,Uncommon,1,White,True,False,True,True,b'Zoltan Boros',0.28
+Changeling Sentinel,Creature,Shapeshifter,Morningtide,Common,4,White,True,False,True,False,b'Chuck Lukacs',0.15
+Coordinated Barrage,Instant,None,Morningtide,Common,1,White,True,False,True,False,b'Franz Vohwinkel',0.12
+Daily Regimen,Enchantment,Aura,Morningtide,Uncommon,1,White,True,False,True,True,b'Warren Mahy',0.12
+Feudkiller's Verdict,Tribal Sorcery,Giant,Morningtide,Rare,6,White,True,False,True,True,b'Dan Scott',0.32
+Forfend,Instant,None,Morningtide,Common,2,White,True,False,True,False,b'Franz Vohwinkel',0.07
+Graceful Reprieve,Instant,None,Morningtide,Uncommon,2,White,True,False,True,True,"b""William O'Connor""",0.15
+Idyllic Tutor,Sorcery,None,Morningtide,Rare,3,White,True,True,True,True,b'Howard Lyon',27.28
+Indomitable Ancients,Creature,Treefolk Warrior,Morningtide,Rare,4,White,True,False,True,False,b'Pete Venters',3.26
+Kinsbaile Borderguard,Creature,Kithkin Soldier,Morningtide,Rare,3,White,True,False,True,False,b'Christopher Moeller',0.98
+Kinsbaile Cavalier,Creature,Kithkin Knight,Morningtide,Rare,4,White,True,False,True,True,b'Wayne Reynolds',8.56
+Kithkin Zephyrnaut,Creature,Kithkin Soldier,Morningtide,Common,3,White,True,False,True,False,b'Quinton Hoover',0.06
+Meadowboon,Creature,Elemental,Morningtide,Uncommon,4,White,True,False,True,True,b'Steven Belledin',0.1
+Mosquito Guard,Creature,Kithkin Soldier,Morningtide,Common,1,White,True,False,True,True,b'Randy Gallegos',0.08
+Order of the Golden Cricket,Creature,Kithkin Knight,Morningtide,Common,2,White,True,False,True,False,b'Mark Zug',0.09
+Preeminent Captain,Creature,Kithkin Soldier,Morningtide,Rare,3,White,True,False,True,True,b'Greg Staples',0.54
+Redeem the Lost,Instant,None,Morningtide,Uncommon,2,White,True,False,True,False,b'Scott M. Fischer',0.11
+Reveillark,Creature,Elemental,Morningtide,Rare,5,White,True,False,True,True,b'Jim Murray',1.89
+Shinewend,Creature,Elemental,Morningtide,Common,2,White,True,False,True,False,b'Terese Nielsen',0.15
+Stonehewer Giant,Creature,Giant Warrior,Morningtide,Rare,5,White,True,False,True,True,b'Steve Prescott',8.67
+Stonybrook Schoolmaster,Creature,Merfolk Wizard,Morningtide,Common,3,White,True,False,True,False,b'Quinton Hoover',0.23
+Swell of Courage,Instant,None,Morningtide,Uncommon,5,White,True,False,True,True,b'Jim Nelson',0.12
+Wandering Graybeard,Creature,Giant Wizard,Morningtide,Uncommon,5,White,True,False,True,False,b'Nils Hamm',0.13
+Weight of Conscience,Enchantment,Aura,Morningtide,Common,2,White,True,False,True,False,b'Heather Hudson',0.09
+Declaration of Naught,Enchantment,None,Morningtide,Rare,2,Blue,True,False,True,False,b'Rob Alexander',1.4
+Dewdrop Spy,Creature,Faerie Rogue,Morningtide,Common,3,Blue,True,False,True,False,b'Wayne England',0.11
+Disperse,Instant,None,Morningtide,Common,2,Blue,True,False,True,True,b'Steve Ellis',0.14
+Distant Melody,Sorcery,None,Morningtide,Common,4,Blue,True,False,True,True,b'Omar Rayyan',1.42
+Fencer Clique,Creature,Faerie Soldier,Morningtide,Common,4,Blue,True,False,True,False,"b""William O'Connor""",0.09
+Floodchaser,Creature,Elemental,Morningtide,Common,6,Blue,True,False,True,False,b'Eric Fortune',0.07
+Grimoire Thief,Creature,Merfolk Rogue,Morningtide,Rare,2,Blue,True,False,True,False,b'Randy Gallegos',1.26
+Ink Dissolver,Creature,Merfolk Wizard,Morningtide,Common,2,Blue,True,False,True,False,b'Brandon Dorman',0.15
+Inspired Sprite,Creature,Faerie Wizard,Morningtide,Uncommon,4,Blue,True,False,True,False,b'Michael Sutfin',0.16
+Knowledge Exploitation,Tribal Sorcery,Rogue,Morningtide,Rare,7,Blue,True,False,True,False,b'Darrell Riche',3.4
+Latchkey Faerie,Creature,Faerie Rogue,Morningtide,Common,4,Blue,True,False,True,True,b'Warren Mahy',0.11
+Merrow Witsniper,Creature,Merfolk Rogue,Morningtide,Common,1,Blue,True,False,True,False,b'Steve Prescott',0.09
+Mind Spring,Sorcery,None,Morningtide,Rare,3,Blue,True,False,True,True,b'Mark Zug',0.28
+Mothdust Changeling,Creature,Shapeshifter,Morningtide,Common,1,Blue,True,False,True,True,b'Shelly Wan',0.22
+Negate,Instant,None,Morningtide,Common,2,Blue,True,True,True,True,b'Jeremy Jarvis',0.2
+Nevermaker,Creature,Elemental,Morningtide,Uncommon,4,Blue,True,False,True,False,b'Chuck Lukacs',0.62
+Notorious Throng,Tribal Sorcery,Rogue,Morningtide,Rare,4,Blue,True,False,True,False,b'Thomas Denmark',7.24
+Research the Deep,Sorcery,None,Morningtide,Uncommon,2,Blue,True,False,True,False,b'Eric Fortune',0.14
+Sage of Fables,Creature,Merfolk Wizard,Morningtide,Uncommon,3,Blue,True,False,True,False,b'Shelly Wan',1.7
+Sage's Dousing,Tribal Instant,Wizard,Morningtide,Uncommon,3,Blue,True,False,True,False,b'Richard Sardinha',0.22
+Sigil Tracer,Creature,Merfolk Wizard,Morningtide,Rare,3,Blue,True,False,True,False,b'Dan Scott',4.0
+Slithermuse,Creature,Elemental,Morningtide,Rare,4,Blue,True,False,True,False,b'Steven Belledin',0.69
+Stonybrook Banneret,Creature,Merfolk Wizard,Morningtide,Common,2,Blue,True,False,True,False,b'Ralph Horsley',0.74
+Stream of Unconsciousness,Tribal Instant,Wizard,Morningtide,Common,1,Blue,True,False,True,False,b'Rebecca Guay',0.11
+Supreme Exemplar,Creature,Elemental,Morningtide,Rare,7,Blue,True,False,True,False,b'Mark Tedin',0.46
+Thieves' Fortune,Tribal Instant,Rogue,Morningtide,Uncommon,3,Blue,True,False,True,False,b'Zoltan Boros',0.25
+Vendilion Clique,Legendary Creature,Faerie Wizard,Morningtide,Rare,3,Blue,True,False,True,True,b'Michael Sutfin',16.41
+Waterspout Weavers,Creature,Merfolk Wizard,Morningtide,Uncommon,5,Blue,True,False,True,False,b'Eric Fortune',0.12
+Auntie's Snitch,Creature,Goblin Rogue,Morningtide,Rare,3,Black,True,False,True,True,b'Warren Mahy',0.21
+Bitterblossom,Tribal Enchantment,Faerie,Morningtide,Rare,2,Black,True,False,True,True,b'Rebecca Guay',34.11
+Blightsoil Druid,Creature,Elf Druid,Morningtide,Common,2,Black,True,False,True,True,b'Nils Hamm',0.07
+Earwig Squad,Creature,Goblin Rogue,Morningtide,Rare,5,Black,True,False,True,True,b'Warren Mahy',0.84
+Fendeep Summoner,Creature,Treefolk Shaman,Morningtide,Rare,5,Black,True,False,True,False,b'Jesper Ejsing',0.39
+Festercreep,Creature,Elemental,Morningtide,Common,2,Black,True,False,True,True,b'Jeff Easley',0.09
+Final-Sting Faerie,Creature,Faerie Assassin,Morningtide,Common,4,Black,True,False,True,False,b'Wayne Reynolds',0.13
+Frogtosser Banneret,Creature,Goblin Rogue,Morningtide,Common,2,Black,True,False,True,False,b'Ralph Horsley',0.3
+Maralen of the Mornsong,Legendary Creature,Elf Wizard,Morningtide,Rare,3,Black,True,False,True,False,b'Mark Zug',6.11
+Mind Shatter,Sorcery,None,Morningtide,Rare,3,Black,True,False,True,True,b'Michael Sutfin',0.28
+Moonglove Changeling,Creature,Shapeshifter,Morningtide,Common,3,Black,True,False,True,False,b'Wayne England',0.19
+Morsel Theft,Tribal Sorcery,Rogue,Morningtide,Common,4,Black,True,False,True,False,b'Darrell Riche',0.11
+Nightshade Schemers,Creature,Faerie Wizard,Morningtide,Uncommon,5,Black,True,False,True,False,b'Paolo Parente',0.15
+Noggin Whack,Tribal Sorcery,Rogue,Morningtide,Uncommon,4,Black,True,False,True,False,b'Alan Pollack',0.2
+Offalsnout,Creature,Elemental,Morningtide,Uncommon,3,Black,True,False,True,True,b'Alex Horley-Orlandelli',0.13
+Oona's Blackguard,Creature,Faerie Rogue,Morningtide,Uncommon,2,Black,True,False,True,True,b'Kev Walker',1.37
+Pack's Disdain,Instant,None,Morningtide,Common,2,Black,True,False,True,False,b'Pete Venters',0.12
+Prickly Boggart,Creature,Goblin Rogue,Morningtide,Common,1,Black,True,False,True,False,b'Jesper Ejsing',0.12
+Pulling Teeth,Sorcery,None,Morningtide,Common,2,Black,True,False,True,False,b'Jim Pavelec',0.06
+Revive the Fallen,Sorcery,None,Morningtide,Uncommon,2,Black,True,False,True,False,b'Steven Belledin',0.14
+Scarblade Elite,Creature,Elf Assassin,Morningtide,Rare,2,Black,True,False,True,False,b'Greg Staples',0.38
+Squeaking Pie Grubfellows,Creature,Goblin Shaman,Morningtide,Common,4,Black,True,False,True,False,b'Jim Pavelec',0.08
+Stenchskipper,Creature,Elemental,Morningtide,Rare,4,Black,True,False,True,False,b'Howard Lyon',0.26
+Stinkdrinker Bandit,Creature,Goblin Rogue,Morningtide,Uncommon,4,Black,True,False,True,False,b'Brandon Dorman',0.42
+Violet Pall,Tribal Instant,Faerie,Morningtide,Common,5,Black,True,False,True,False,b'Jeff Miracola',0.1
+Warren Weirding,Tribal Sorcery,Goblin,Morningtide,Uncommon,2,Black,True,False,True,True,b'Matt Cavotta',0.19
+Weed-Pruner Poplar,Creature,Treefolk Assassin,Morningtide,Common,5,Black,True,False,True,False,b'Jeff Miracola',0.09
+Weirding Shaman,Creature,Goblin Shaman,Morningtide,Rare,2,Black,True,False,True,False,b'Matt Cavotta',0.42
+Boldwyr Heavyweights,Creature,Giant Warrior,Morningtide,Rare,4,Red,True,False,True,False,b'Wayne Reynolds',0.44
+Boldwyr Intimidator,Creature,Giant Warrior,Morningtide,Uncommon,7,Red,True,False,True,True,b'Christopher Moeller',0.07
+Borderland Behemoth,Creature,Giant Warrior,Morningtide,Rare,7,Red,True,False,True,True,b'Jesper Ejsing',0.2
+Brighthearth Banneret,Creature,Elemental Warrior,Morningtide,Common,2,Red,True,False,True,False,b'Ralph Horsley',0.73
+Countryside Crusher,Creature,Giant Warrior,Morningtide,Rare,3,Red,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.82
+Fire Juggler,Creature,Goblin Shaman,Morningtide,Common,3,Red,True,False,True,False,b'Thomas Denmark',0.05
+Hostile Realm,Enchantment,Aura,Morningtide,Common,3,Red,True,False,True,False,b'John Avon',0.04
+Kindled Fury,Instant,None,Morningtide,Common,1,Red,True,False,True,True,b'Shelly Wan',0.01
+Lightning Crafter,Creature,Goblin Shaman,Morningtide,Rare,4,Red,True,False,True,False,b'Dan Scott',5.14
+Lunk Errant,Creature,Giant Warrior,Morningtide,Common,6,Red,True,False,True,False,b'Warren Mahy',0.02
+Mudbutton Clanger,Creature,Goblin Warrior,Morningtide,Common,1,Red,True,False,True,False,b'Larry MacDougall',0.04
+Pyroclast Consul,Creature,Elemental Shaman,Morningtide,Uncommon,5,Red,True,False,True,False,b'Christopher Moeller',0.08
+Rage Forger,Creature,Elemental Shaman,Morningtide,Uncommon,3,Red,True,False,True,False,b'Dominick Domingo',0.24
+Release the Ants,Instant,None,Morningtide,Uncommon,2,Red,True,False,True,True,b'Ron Spencer',0.16
+Rivals' Duel,Sorcery,None,Morningtide,Uncommon,4,Red,True,False,True,True,b'Zoltan Boros',0.05
+Roar of the Crowd,Sorcery,None,Morningtide,Common,4,Red,True,False,True,False,b'Dave Dorman',0.12
+Seething Pathblazer,Creature,Elemental Warrior,Morningtide,Common,3,Red,True,False,True,False,b'Steve Prescott',0.05
+Sensation Gorger,Creature,Goblin Shaman,Morningtide,Rare,3,Red,True,False,True,False,b'Matt Cavotta',2.49
+Shard Volley,Instant,None,Morningtide,Common,1,Red,True,False,True,False,b'Franz Vohwinkel',0.44
+Shared Animosity,Enchantment,None,Morningtide,Rare,3,Red,True,False,True,True,b'Chuck Lukacs',6.6
+Spitebellows,Creature,Elemental,Morningtide,Uncommon,6,Red,True,False,True,True,b'Larry MacDougall',0.14
+Stingmoggie,Creature,Elemental,Morningtide,Common,4,Red,True,False,True,False,b'Omar Rayyan',0.12
+Stomping Slabs,Sorcery,None,Morningtide,Uncommon,3,Red,True,False,True,False,b'Alex Horley-Orlandelli',0.11
+Sunflare Shaman,Creature,Elemental Shaman,Morningtide,Common,2,Red,True,False,True,False,b'Dave Dorman',0.12
+Taurean Mauler,Creature,Shapeshifter,Morningtide,Rare,3,Red,True,False,True,True,b'Dominick Domingo',2.36
+Titan's Revenge,Sorcery,None,Morningtide,Rare,3,Red,True,False,True,False,b'Christopher Moeller',0.2
+Vengeful Firebrand,Creature,Elemental Warrior,Morningtide,Rare,4,Red,True,False,True,True,"b""William O'Connor""",0.22
+War-Spike Changeling,Creature,Shapeshifter,Morningtide,Common,4,Red,True,False,True,True,b'Mark Poole',0.1
+Ambassador Oak,Creature,Treefolk Warrior,Morningtide,Common,4,Green,True,False,True,True,b'Steve Prescott',0.05
+Bosk Banneret,Creature,Treefolk Shaman,Morningtide,Common,2,Green,True,False,True,False,b'Ralph Horsley',0.15
+Bramblewood Paragon,Creature,Elf Warrior,Morningtide,Uncommon,2,Green,True,False,True,True,b'Jim Murray',1.62
+Chameleon Colossus,Creature,Shapeshifter,Morningtide,Rare,4,Green,True,False,True,True,b'Darrell Riche',3.2
+Cream of the Crop,Enchantment,None,Morningtide,Rare,2,Green,True,False,True,False,b'Howard Lyon',3.98
+Deglamer,Instant,None,Morningtide,Common,2,Green,True,False,True,False,b'Zoltan Boros',0.18
+Earthbrawn,Instant,None,Morningtide,Common,2,Green,True,False,True,False,b'Kev Walker',0.07
+Elvish Warrior,Creature,Elf Warrior,Morningtide,Common,2,Green,True,False,True,True,b'Kev Walker',0.07
+Everbark Shaman,Creature,Treefolk Shaman,Morningtide,Common,5,Green,True,False,True,False,b'Larry MacDougall',0.11
+Fertilid,Creature,Elemental,Morningtide,Common,3,Green,True,True,True,True,b'Wayne Reynolds',0.4
+Game-Trail Changeling,Creature,Shapeshifter,Morningtide,Common,5,Green,True,False,True,True,b'Martina Pilcerova',0.2
+Gilt-Leaf Archdruid,Creature,Elf Druid,Morningtide,Rare,5,Green,True,False,True,False,b'Steve Prescott',4.93
+Greatbow Doyen,Creature,Elf Archer,Morningtide,Rare,5,Green,True,False,True,False,b'Steven Belledin',0.6
+Heritage Druid,Creature,Elf Druid,Morningtide,Uncommon,1,Green,True,False,True,True,b'Larry MacDougall',4.01
+Hunting Triad,Tribal Sorcery,Elf,Morningtide,Uncommon,4,Green,True,False,True,True,b'Jim Nelson',0.17
+Leaf-Crowned Elder,Creature,Treefolk Shaman,Morningtide,Rare,4,Green,True,False,True,False,b'Wayne Reynolds',2.01
+Luminescent Rain,Instant,None,Morningtide,Common,3,Green,True,False,True,False,b'John Avon',0.23
+Lys Alana Bowmaster,Creature,Elf Archer,Morningtide,Common,3,Green,True,False,True,False,b'Dan Scott',0.13
+Orchard Warden,Creature,Treefolk Shaman,Morningtide,Uncommon,6,Green,True,False,True,False,b'Rebecca Guay',0.31
+Reach of Branches,Tribal Instant,Treefolk,Morningtide,Rare,5,Green,True,False,True,True,b'Scott Hampton',0.35
+Recross the Paths,Sorcery,None,Morningtide,Uncommon,3,Green,True,False,True,False,b'Greg Hildebrandt',0.42
+Reins of the Vinesteed,Enchantment,Aura,Morningtide,Common,4,Green,True,False,True,False,b'Jim Pavelec',0.09
+Rhys the Exiled,Legendary Creature,Elf Warrior,Morningtide,Rare,3,Green,True,False,True,False,b'Steve Prescott',1.6
+Scapeshift,Sorcery,None,Morningtide,Rare,4,Green,True,False,True,True,b'Fred Fields',14.92
+Unstoppable Ash,Creature,Treefolk Warrior,Morningtide,Rare,4,Green,True,False,True,False,b'Brian Sn\xc3\xb5ddy',1.15
+Walker of the Grove,Creature,Elemental,Morningtide,Uncommon,8,Green,True,False,True,True,b'Todd Lockwood',0.1
+Winnower Patrol,Creature,Elf Warrior,Morningtide,Common,3,Green,True,False,True,False,b'Eric Fortune',0.08
+Wolf-Skull Shaman,Creature,Elf Shaman,Morningtide,Uncommon,2,Green,True,False,True,False,b'Jim Murray',0.29
+Cloak and Dagger,Tribal Artifact,Rogue Equipment,Morningtide,Uncommon,2,Colorless,True,False,True,False,b'Daren Bader',0.82
+Diviner's Wand,Tribal Artifact,Wizard Equipment,Morningtide,Uncommon,3,Colorless,True,False,True,False,b'Wayne England',0.37
+Door of Destinies,Artifact,None,Morningtide,Rare,4,Colorless,True,False,True,True,b'Larry MacDougall',7.54
+Obsidian Battle-Axe,Tribal Artifact,Warrior Equipment,Morningtide,Uncommon,3,Colorless,True,False,True,True,b'Jeff Easley',0.3
+Thornbite Staff,Tribal Artifact,Shaman Equipment,Morningtide,Uncommon,2,Colorless,True,False,True,False,b'Jesper Ejsing',7.09
+Veteran's Armaments,Tribal Artifact,Soldier Equipment,Morningtide,Uncommon,2,Colorless,True,False,True,False,b'Alan Pollack',0.2
+Murmuring Bosk,Land,Forest,Morningtide,Rare,0,Colorless,True,False,True,True,b'John Avon',1.12
+Mutavault,Land,None,Morningtide,Rare,0,Colorless,True,False,True,True,b'Fred Fields',21.94
+Primal Beyond,Land,None,Morningtide,Rare,0,Colorless,True,False,True,False,b'Mark Tedin',7.76
+Rustic Clachan,Land,None,Morningtide,Rare,0,Colorless,True,False,True,True,b'Fred Fields',0.26

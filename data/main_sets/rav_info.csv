@@ -1,0 +1,307 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Auratouched Mage,Creature,Human Wizard,Ravnica: City of Guilds,Uncommon,6,White,True,False,True,True,b'Jeff Miracola',0.18
+Bathe in Light,Instant,None,Ravnica: City of Guilds,Uncommon,2,White,True,False,True,True,b'Alex Horley-Orlandelli',0.23
+Benevolent Ancestor,Creature,Spirit,Ravnica: City of Guilds,Common,3,White,True,False,True,True,b'Nick Percival',0.05
+Blazing Archon,Creature,Archon,Ravnica: City of Guilds,Rare,9,White,True,False,True,True,b'Zoltan Boros',1.96
+Boros Fury-Shield,Instant,None,Ravnica: City of Guilds,Common,3,White,True,False,True,True,b'Wayne England',0.12
+Caregiver,Creature,Human Cleric,Ravnica: City of Guilds,Common,1,White,True,False,True,True,b'William Simpson',0.05
+Chant of Vitu-Ghazi,Instant,None,Ravnica: City of Guilds,Uncommon,8,White,True,False,True,True,b'Stephen Tappin',0.17
+Concerted Effort,Enchantment,None,Ravnica: City of Guilds,Rare,4,White,True,False,True,True,b'Michael Sutfin',2.88
+Conclave Equenaut,Creature,Human Soldier,Ravnica: City of Guilds,Common,6,White,True,False,True,True,b'Terese Nielsen',0.07
+Conclave Phalanx,Creature,Human Soldier,Ravnica: City of Guilds,Uncommon,5,White,True,False,True,True,b'Wayne Reynolds',0.12
+Conclave's Blessing,Enchantment,Aura,Ravnica: City of Guilds,Common,4,White,True,False,True,True,b'Shishizaru',0.11
+Courier Hawk,Creature,Bird,Ravnica: City of Guilds,Common,2,White,True,False,True,True,b'Mark Poole',0.06
+Devouring Light,Instant,None,Ravnica: City of Guilds,Uncommon,3,White,True,False,True,True,b'Pete Venters',0.13
+Divebomber Griffin,Creature,Griffin,Ravnica: City of Guilds,Uncommon,5,White,True,False,True,True,b'Kev Walker',0.04
+Dromad Purebred,Creature,Camel Beast,Ravnica: City of Guilds,Common,5,White,True,False,True,True,b'Carl Critchlow',0.06
+Faith's Fetters,Enchantment,Aura,Ravnica: City of Guilds,Common,4,White,True,False,True,True,b'Chippy',0.11
+Festival of the Guildpact,Instant,None,Ravnica: City of Guilds,Uncommon,2,White,True,False,True,True,b'Alex Horley-Orlandelli',0.1
+Flickerform,Enchantment,Aura,Ravnica: City of Guilds,Rare,2,White,True,False,True,True,b'Ron Spears',0.78
+Gate Hound,Creature,Hound,Ravnica: City of Guilds,Common,3,White,True,False,True,True,b'Ralph Horsley',0.04
+Ghosts of the Innocent,Creature,Spirit,Ravnica: City of Guilds,Rare,7,White,True,False,True,True,b'Kev Walker',0.19
+Hour of Reckoning,Sorcery,None,Ravnica: City of Guilds,Rare,7,White,True,False,True,True,b'Randy Gallegos',1.12
+Hunted Lammasu,Creature,Lammasu,Ravnica: City of Guilds,Rare,4,White,True,False,True,True,b'Mark Zug',0.33
+Leave No Trace,Instant,None,Ravnica: City of Guilds,Common,2,White,True,False,True,True,b'Pat Lee',0.33
+Light of Sanction,Enchantment,None,Ravnica: City of Guilds,Rare,3,White,True,False,True,True,b'Michael Phillippi',0.3
+Loxodon Gatekeeper,Creature,Elephant Soldier,Ravnica: City of Guilds,Rare,4,White,True,False,True,True,b'Carl Critchlow',2.03
+Nightguard Patrol,Creature,Human Soldier,Ravnica: City of Guilds,Common,3,White,True,False,True,True,b'Dany Orizio',0.06
+Oathsworn Giant,Creature,Giant Soldier,Ravnica: City of Guilds,Uncommon,6,White,True,False,True,True,b'Daren Bader',0.88
+Sandsower,Creature,Spirit,Ravnica: City of Guilds,Uncommon,4,White,True,False,True,True,b'Kev Walker',0.07
+Screeching Griffin,Creature,Griffin,Ravnica: City of Guilds,Common,4,White,True,False,True,True,b'Tim Hildebrandt',0.06
+Seed Spark,Instant,None,Ravnica: City of Guilds,Uncommon,4,White,True,False,True,True,b'Jeff Miracola',0.17
+Suppression Field,Enchantment,None,Ravnica: City of Guilds,Uncommon,2,White,True,False,True,True,b'John Avon',1.2
+Three Dreams,Sorcery,None,Ravnica: City of Guilds,Rare,5,White,True,False,True,True,b'Shishizaru',1.55
+Twilight Drover,Creature,Spirit,Ravnica: City of Guilds,Rare,3,White,True,False,True,True,b'Dave Allsop',2.11
+Veteran Armorer,Creature,Human Soldier,Ravnica: City of Guilds,Common,2,White,True,False,True,True,b'Ralph Horsley',0.15
+Votary of the Conclave,Creature,Human Soldier,Ravnica: City of Guilds,Common,1,White,True,False,True,True,b'Alan Pollack',0.06
+Wojek Apothecary,Creature,Human Cleric,Ravnica: City of Guilds,Uncommon,4,White,True,False,True,True,b'Keith Garletts',0.16
+Wojek Siren,Instant,None,Ravnica: City of Guilds,Common,1,White,True,False,True,True,b'Zoltan Boros',0.07
+Belltower Sphinx,Creature,Sphinx,Ravnica: City of Guilds,Uncommon,5,Blue,True,False,True,True,b'Jim Nelson',0.07
+Cerulean Sphinx,Creature,Sphinx,Ravnica: City of Guilds,Rare,6,Blue,True,False,True,True,b'Jim Murray',0.19
+Compulsive Research,Sorcery,None,Ravnica: City of Guilds,Common,3,Blue,True,False,True,True,b'Michael Sutfin',0.17
+Convolute,Instant,None,Ravnica: City of Guilds,Common,3,Blue,True,True,True,True,b'Dany Orizio',0.08
+Copy Enchantment,Enchantment,None,Ravnica: City of Guilds,Rare,3,Blue,True,False,True,True,b'Joel Thomas',9.26
+Dizzy Spell,Instant,None,Ravnica: City of Guilds,Common,1,Blue,True,False,True,True,b'Christopher Moeller',0.24
+Drake Familiar,Creature,Drake,Ravnica: City of Guilds,Common,2,Blue,True,False,True,True,b'Darrell Riche',0.1
+Dream Leash,Enchantment,Aura,Ravnica: City of Guilds,Rare,5,Blue,True,False,True,True,b'Alex Horley-Orlandelli',0.28
+Drift of Phantasms,Creature,Spirit,Ravnica: City of Guilds,Common,3,Blue,True,False,True,True,b'Michael Phillippi',0.84
+Ethereal Usher,Creature,Spirit,Ravnica: City of Guilds,Uncommon,6,Blue,True,False,True,True,b'Mark A. Nelson',0.25
+Eye of the Storm,Enchantment,None,Ravnica: City of Guilds,Rare,7,Blue,True,False,True,True,b'Hideaki Takamura',2.01
+Flight of Fancy,Enchantment,Aura,Ravnica: City of Guilds,Common,4,Blue,True,False,True,True,b'Glen Angus',0.08
+Flow of Ideas,Sorcery,None,Ravnica: City of Guilds,Uncommon,6,Blue,True,False,True,True,b'Dan Scott',0.2
+Followed Footsteps,Enchantment,Aura,Ravnica: City of Guilds,Rare,5,Blue,True,False,True,True,b'Glen Angus',0.98
+Grayscaled Gharial,Creature,Crocodile,Ravnica: City of Guilds,Common,1,Blue,True,False,True,True,b'Chris Dien',0.1
+Grozoth,Creature,Leviathan,Ravnica: City of Guilds,Rare,9,Blue,True,False,True,True,b'Cyril Van Der Haegen',2.74
+Halcyon Glaze,Enchantment,None,Ravnica: City of Guilds,Uncommon,3,Blue,True,False,True,True,b'John Avon',0.09
+Hunted Phantasm,Creature,Spirit,Ravnica: City of Guilds,Rare,3,Blue,True,False,True,True,b'Justin Sweet',2.6
+Induce Paranoia,Instant,None,Ravnica: City of Guilds,Common,4,Blue,True,False,True,True,b'Jim Murray',0.17
+Lore Broker,Creature,Human Rogue,Ravnica: City of Guilds,Uncommon,2,Blue,True,False,True,True,b'Alan Pollack',0.49
+Mark of Eviction,Enchantment,Aura,Ravnica: City of Guilds,Uncommon,1,Blue,True,False,True,True,b'Tsutomu Kawade',0.13
+Mnemonic Nexus,Instant,None,Ravnica: City of Guilds,Uncommon,4,Blue,True,False,True,True,b'Stephen Tappin',0.12
+Muddle the Mixture,Instant,None,Ravnica: City of Guilds,Common,2,Blue,True,False,True,True,b'Luca Zontini',3.07
+Peel from Reality,Instant,None,Ravnica: City of Guilds,Common,2,Blue,True,False,True,True,b'Puddnhead',0.08
+Quickchange,Instant,None,Ravnica: City of Guilds,Common,2,Blue,True,False,True,True,b'Christopher Moeller',0.08
+Remand,Instant,None,Ravnica: City of Guilds,Uncommon,2,Blue,True,False,True,True,b'Mark A. Nelson',3.45
+Snapping Drake,Creature,Drake,Ravnica: City of Guilds,Common,4,Blue,True,True,True,True,b'Dave Dorman',0.04
+Spawnbroker,Creature,Human Wizard,Ravnica: City of Guilds,Rare,3,Blue,True,False,True,True,b'Wayne England',0.22
+Stasis Cell,Enchantment,Aura,Ravnica: City of Guilds,Common,5,Blue,True,False,True,True,b'Mark A. Nelson',0.03
+Surveilling Sprite,Creature,Faerie Rogue,Ravnica: City of Guilds,Common,2,Blue,True,False,True,True,b'Terese Nielsen',0.13
+Tattered Drake,Creature,Zombie Drake,Ravnica: City of Guilds,Common,5,Blue,True,False,True,True,b'Glenn Fabry',0.08
+Telling Time,Instant,None,Ravnica: City of Guilds,Uncommon,2,Blue,True,False,True,True,b'Scott M. Fischer',0.24
+Terraformer,Creature,Human Wizard,Ravnica: City of Guilds,Common,3,Blue,True,False,True,True,b'Luca Zontini',0.12
+Tidewater Minion,Creature,Elemental Minion,Ravnica: City of Guilds,Common,5,Blue,True,False,True,True,b'Tomas Giorello',0.16
+Tunnel Vision,Sorcery,None,Ravnica: City of Guilds,Rare,6,Blue,True,False,True,True,b'Dany Orizio',2.82
+Vedalken Dismisser,Creature,Vedalken Wizard,Ravnica: City of Guilds,Common,6,Blue,True,False,True,True,b'Dan Scott',0.06
+Vedalken Entrancer,Creature,Vedalken Wizard,Ravnica: City of Guilds,Common,4,Blue,True,False,True,True,b'Dan Scott',0.05
+Wizened Snitches,Creature,Faerie Rogue,Ravnica: City of Guilds,Uncommon,4,Blue,True,False,True,True,b'Greg Staples',0.12
+Zephyr Spirit,Creature,Spirit,Ravnica: City of Guilds,Common,6,Blue,True,False,True,True,b'Tomas Giorello',0.11
+Blood Funnel,Enchantment,None,Ravnica: City of Guilds,Rare,2,Black,True,False,True,True,b'Thomas M. Baxa',0.43
+Brainspoil,Sorcery,None,Ravnica: City of Guilds,Common,5,Black,True,False,True,True,b'Tomas Giorello',0.27
+Carrion Howler,Creature,Zombie Wolf,Ravnica: City of Guilds,Uncommon,4,Black,True,False,True,True,b'John Zeleznik',0.07
+Clinging Darkness,Enchantment,Aura,Ravnica: City of Guilds,Common,2,Black,True,False,True,True,b'Glen Angus',0.07
+Dark Confidant,Creature,Human Wizard,Ravnica: City of Guilds,Rare,2,Black,True,False,True,True,b'Ron Spears',43.33
+Darkblast,Instant,None,Ravnica: City of Guilds,Uncommon,1,Black,True,False,True,True,b'Randy Gallegos',0.73
+Dimir House Guard,Creature,Skeleton,Ravnica: City of Guilds,Common,4,Black,True,False,True,True,b'John Zeleznik',0.33
+Dimir Machinations,Sorcery,None,Ravnica: City of Guilds,Uncommon,3,Black,True,False,True,True,b'Greg Staples',0.97
+Disembowel,Instant,None,Ravnica: City of Guilds,Common,2,Black,True,False,True,True,b'Chengo McFlingers',0.11
+Empty the Catacombs,Sorcery,None,Ravnica: City of Guilds,Rare,4,Black,True,False,True,True,b'Mark A. Nelson',0.36
+Golgari Thug,Creature,Human Warrior,Ravnica: City of Guilds,Uncommon,2,Black,True,False,True,True,b'Kev Walker',1.58
+Helldozer,Creature,Zombie Giant,Ravnica: City of Guilds,Rare,6,Black,True,False,True,True,b'Zoltan Boros',1.75
+Hex,Sorcery,None,Ravnica: City of Guilds,Rare,6,Black,True,False,True,True,b'Michael Sutfin',0.45
+Hunted Horror,Creature,Horror,Ravnica: City of Guilds,Rare,2,Black,True,False,True,True,b'Paolo Parente',3.84
+Infectious Host,Creature,Zombie,Ravnica: City of Guilds,Common,3,Black,True,False,True,True,b'rk post',0.13
+Keening Banshee,Creature,Spirit,Ravnica: City of Guilds,Uncommon,4,Black,True,False,True,True,b'Robert Bliss',0.08
+Last Gasp,Instant,None,Ravnica: City of Guilds,Common,2,Black,True,False,True,True,b'Thomas M. Baxa',0.08
+Mausoleum Turnkey,Creature,Ogre Rogue,Ravnica: City of Guilds,Uncommon,4,Black,True,False,True,True,b'Darrell Riche',0.12
+Moonlight Bargain,Instant,None,Ravnica: City of Guilds,Rare,5,Black,True,False,True,True,b'Nick Percival',0.34
+Mortipede,Creature,Insect,Ravnica: City of Guilds,Common,4,Black,True,False,True,True,b'Dave Dorman',0.06
+Necromantic Thirst,Enchantment,Aura,Ravnica: City of Guilds,Common,4,Black,True,False,True,True,b'Brandon Kitkouski',0.07
+Necroplasm,Creature,Ooze,Ravnica: City of Guilds,Rare,3,Black,True,False,True,True,b'rk post',0.26
+Netherborn Phalanx,Creature,Horror,Ravnica: City of Guilds,Uncommon,6,Black,True,False,True,True,b'Christopher Rush',0.28
+Nightmare Void,Sorcery,None,Ravnica: City of Guilds,Uncommon,4,Black,True,False,True,True,b'Chippy',0.17
+Ribbons of Night,Sorcery,None,Ravnica: City of Guilds,Uncommon,5,Black,True,False,True,True,b'Ron Spears',0.1
+Roofstalker Wight,Creature,Zombie,Ravnica: City of Guilds,Common,2,Black,True,False,True,True,b'Puddnhead',0.07
+Sadistic Augermage,Creature,Human Wizard,Ravnica: City of Guilds,Common,3,Black,True,False,True,True,b'Nick Percival',0.04
+Sewerdreg,Creature,Spirit,Ravnica: City of Guilds,Common,5,Black,True,False,True,True,b'Joel Thomas',0.04
+Shred Memory,Instant,None,Ravnica: City of Guilds,Common,2,Black,True,False,True,True,b'Hideaki Takamura',0.65
+Sins of the Past,Sorcery,None,Ravnica: City of Guilds,Rare,6,Black,True,False,True,True,b'Jeremy Jarvis',0.21
+Stinkweed Imp,Creature,Imp,Ravnica: City of Guilds,Common,3,Black,True,False,True,True,"b'Edward P. Beard, Jr.'",0.65
+Strands of Undeath,Enchantment,Aura,Ravnica: City of Guilds,Common,4,Black,True,False,True,True,b'Dave Allsop',0.1
+Thoughtpicker Witch,Creature,Human Wizard,Ravnica: City of Guilds,Common,1,Black,True,False,True,True,b'Pete Venters',0.19
+Undercity Shade,Creature,Shade,Ravnica: City of Guilds,Uncommon,5,Black,True,False,True,True,b'Dana Knutson',0.08
+Vigor Mortis,Sorcery,None,Ravnica: City of Guilds,Uncommon,4,Black,True,False,True,True,b'Dan Scott',0.25
+Vindictive Mob,Creature,Human Berserker,Ravnica: City of Guilds,Uncommon,6,Black,True,False,True,True,b'Wayne Reynolds',0.03
+Woebringer Demon,Creature,Demon,Ravnica: City of Guilds,Rare,5,Black,True,False,True,True,b'Daren Bader',0.3
+Barbarian Riftcutter,Creature,Human Barbarian,Ravnica: City of Guilds,Common,5,Red,True,False,True,True,b'Carl Critchlow',0.04
+Blockbuster,Enchantment,None,Ravnica: City of Guilds,Uncommon,5,Red,True,False,True,True,b'Dave Dorman',0.09
+Breath of Fury,Enchantment,Aura,Ravnica: City of Guilds,Rare,4,Red,True,False,True,True,b'Kev Walker',1.47
+Char,Instant,None,Ravnica: City of Guilds,Rare,3,Red,True,False,True,True,b'Adam Rex',0.29
+Cleansing Beam,Instant,None,Ravnica: City of Guilds,Uncommon,5,Red,True,False,True,True,b'Pat Lee',0.06
+Coalhauler Swine,Creature,Boar Beast,Ravnica: City of Guilds,Common,6,Red,True,False,True,True,b'Daren Bader',0.1
+Dogpile,Instant,None,Ravnica: City of Guilds,Common,4,Red,True,False,True,True,b'Jeff Miracola',0.1
+Excruciator,Creature,Avatar,Ravnica: City of Guilds,Rare,8,Red,True,False,True,True,b'Paolo Parente',0.26
+Fiery Conclusion,Instant,None,Ravnica: City of Guilds,Common,2,Red,True,False,True,True,b'Paolo Parente',0.11
+Flame Fusillade,Sorcery,None,Ravnica: City of Guilds,Rare,4,Red,True,False,True,True,b'Dany Orizio',0.25
+Flash Conscription,Instant,None,Ravnica: City of Guilds,Uncommon,6,Red,True,False,True,True,b'Stephen Tappin',0.12
+Frenzied Goblin,Creature,Goblin Berserker,Ravnica: City of Guilds,Uncommon,1,Red,True,False,True,True,b'Carl Critchlow',0.21
+Galvanic Arc,Enchantment,Aura,Ravnica: City of Guilds,Common,3,Red,True,False,True,True,b'Michael Sutfin',0.1
+Goblin Fire Fiend,Creature,Goblin Berserker,Ravnica: City of Guilds,Common,4,Red,True,False,True,True,b'Paolo Parente',0.04
+Goblin Spelunkers,Creature,Goblin Warrior,Ravnica: City of Guilds,Common,3,Red,True,False,True,True,b'Glenn Fabry',0.03
+Greater Forgeling,Creature,Elemental,Ravnica: City of Guilds,Uncommon,5,Red,True,False,True,True,b'Marcelo Vignali',0.06
+Hammerfist Giant,Creature,Giant Warrior,Ravnica: City of Guilds,Rare,6,Red,True,False,True,True,b'Carl Critchlow',0.21
+Hunted Dragon,Creature,Dragon,Ravnica: City of Guilds,Rare,5,Red,True,False,True,True,b'Mark Zug',0.43
+Incite Hysteria,Sorcery,None,Ravnica: City of Guilds,Common,3,Red,True,False,True,True,b'Paolo Parente',0.04
+Indentured Oaf,Creature,Ogre Warrior,Ravnica: City of Guilds,Uncommon,4,Red,True,False,True,True,b'Glenn Fabry',0.06
+Instill Furor,Enchantment,Aura,Ravnica: City of Guilds,Uncommon,2,Red,True,False,True,True,b'Jim Nelson',0.06
+Mindmoil,Enchantment,None,Ravnica: City of Guilds,Rare,5,Red,True,False,True,True,b'Alex Horley-Orlandelli',3.18
+Molten Sentry,Creature,Elemental,Ravnica: City of Guilds,Rare,4,Red,True,False,True,True,b'Kev Walker',0.27
+Ordruun Commando,Creature,Minotaur Soldier,Ravnica: City of Guilds,Common,4,Red,True,False,True,True,b'Stephen Tappin',0.08
+Rain of Embers,Sorcery,None,Ravnica: City of Guilds,Common,2,Red,True,False,True,True,b'Tsutomu Kawade',0.07
+Reroute,Instant,None,Ravnica: City of Guilds,Uncommon,2,Red,True,False,True,True,b'Christopher Rush',0.14
+Sabertooth Alley Cat,Creature,Cat,Ravnica: City of Guilds,Common,3,Red,True,False,True,True,b'Carl Critchlow',0.04
+Seismic Spike,Sorcery,None,Ravnica: City of Guilds,Common,4,Red,True,False,True,True,b'John Avon',0.2
+Sell-Sword Brute,Creature,Human Mercenary,Ravnica: City of Guilds,Common,2,Red,True,False,True,True,b'Jeff Miracola',0.03
+Smash,Instant,None,Ravnica: City of Guilds,Common,3,Red,True,False,True,True,b'Paolo Parente',0.13
+Sparkmage Apprentice,Creature,Human Wizard,Ravnica: City of Guilds,Common,2,Red,True,False,True,True,b'Mark Poole',0.08
+Stoneshaker Shaman,Creature,Human Shaman,Ravnica: City of Guilds,Uncommon,3,Red,True,False,True,True,b'Jeff Miracola',0.26
+Surge of Zeal,Instant,None,Ravnica: City of Guilds,Common,1,Red,True,False,True,True,b'Justin Sweet',0.09
+Torpid Moloch,Creature,Lizard,Ravnica: City of Guilds,Common,1,Red,True,False,True,True,b'Paolo Parente',0.09
+Viashino Fangtail,Creature,Viashino Warrior,Ravnica: City of Guilds,Common,4,Red,True,False,True,True,b'Alex Horley-Orlandelli',0.11
+Viashino Slasher,Creature,Viashino Warrior,Ravnica: City of Guilds,Common,2,Red,True,False,True,True,b'Glenn Fabry',0.02
+Warp World,Sorcery,None,Ravnica: City of Guilds,Rare,8,Red,True,False,True,True,b'Ron Spencer',0.3
+War-Torch Goblin,Creature,Goblin Warrior,Ravnica: City of Guilds,Common,1,Red,True,False,True,True,b'Alex Horley-Orlandelli',0.06
+Wojek Embermage,Creature,Human Wizard,Ravnica: City of Guilds,Uncommon,4,Red,True,False,True,True,b'Luca Zontini',0.16
+Birds of Paradise,Creature,Bird,Ravnica: City of Guilds,Rare,1,Green,True,False,True,True,b'Marcelo Vignali',7.8
+Bramble Elemental,Creature,Elemental,Ravnica: City of Guilds,Common,5,Green,True,False,True,True,b'Tomas Giorello',0.11
+Carven Caryatid,Creature,Spirit,Ravnica: City of Guilds,Uncommon,3,Green,True,False,True,True,b'Jim Nelson',0.32
+Chord of Calling,Instant,None,Ravnica: City of Guilds,Rare,4,Green,True,False,True,True,b'Heather Hudson',9.53
+Civic Wayfinder,Creature,Elf Druid Warrior,Ravnica: City of Guilds,Common,3,Green,True,False,True,True,b'Cyril Van Der Haegen',0.11
+Doubling Season,Enchantment,None,Ravnica: City of Guilds,Rare,5,Green,True,False,True,True,b'Wayne Reynolds',50.16
+Dowsing Shaman,Creature,Centaur Shaman,Ravnica: City of Guilds,Uncommon,5,Green,True,False,True,True,b'Wayne Reynolds',0.15
+Dryad's Caress,Instant,None,Ravnica: City of Guilds,Common,6,Green,True,False,True,True,b'Randy Gallegos',0.1
+Elves of Deep Shadow,Creature,Elf Druid,Ravnica: City of Guilds,Common,1,Green,True,False,True,True,b'Justin Sweet',0.4
+Elvish Skysweeper,Creature,Elf Warrior,Ravnica: City of Guilds,Common,1,Green,True,False,True,True,b'Mark Tedin',0.12
+Farseek,Sorcery,None,Ravnica: City of Guilds,Common,2,Green,True,False,True,True,b'Martina Pilcerova',0.64
+Fists of Ironwood,Enchantment,Aura,Ravnica: City of Guilds,Common,2,Green,True,False,True,True,b'Glen Angus',0.16
+Gather Courage,Instant,None,Ravnica: City of Guilds,Common,1,Green,True,False,True,True,b'Brian Despain',0.08
+Golgari Brownscale,Creature,Lizard,Ravnica: City of Guilds,Common,3,Green,True,False,True,True,b'Carl Critchlow',0.26
+Golgari Grave-Troll,Creature,Troll Skeleton,Ravnica: City of Guilds,Rare,5,Green,False,False,True,True,b'Greg Hildebrandt',1.69
+Goliath Spider,Creature,Spider,Ravnica: City of Guilds,Uncommon,8,Green,True,False,True,True,b'Alan Pollack',0.23
+Greater Mossdog,Creature,Plant Hound,Ravnica: City of Guilds,Common,4,Green,True,False,True,True,b'Chippy',0.08
+Hunted Troll,Creature,Troll Warrior,Ravnica: City of Guilds,Rare,4,Green,True,False,True,True,b'Greg Staples',0.57
+Ivy Dancer,Creature,Dryad Shaman,Ravnica: City of Guilds,Uncommon,3,Green,True,False,True,True,b'Terese Nielsen',0.11
+Life from the Loam,Sorcery,None,Ravnica: City of Guilds,Rare,2,Green,True,False,True,True,b'Terese Nielsen',9.66
+Moldervine Cloak,Enchantment,Aura,Ravnica: City of Guilds,Uncommon,3,Green,True,False,True,True,b'Wayne England',0.19
+Nullmage Shepherd,Creature,Elf Shaman,Ravnica: City of Guilds,Uncommon,4,Green,True,False,True,True,b'Stephen Tappin',0.92
+Overwhelm,Sorcery,None,Ravnica: City of Guilds,Uncommon,7,Green,True,False,True,True,b'Wayne Reynolds',0.05
+Perilous Forays,Enchantment,None,Ravnica: City of Guilds,Uncommon,5,Green,True,False,True,True,b'Chris Dien',1.05
+Primordial Sage,Creature,Spirit,Ravnica: City of Guilds,Rare,6,Green,True,False,True,True,b'Justin Sweet',1.25
+Recollect,Sorcery,None,Ravnica: City of Guilds,Uncommon,3,Green,True,False,True,True,b'Pete Venters',0.15
+Rolling Spoil,Sorcery,None,Ravnica: City of Guilds,Uncommon,4,Green,True,False,True,True,b'Ron Spencer',0.07
+Root-Kin Ally,Creature,Elemental Warrior,Ravnica: City of Guilds,Uncommon,6,Green,True,False,True,True,b'Arnie Swekel',0.05
+Scatter the Seeds,Instant,None,Ravnica: City of Guilds,Common,5,Green,True,False,True,True,b'Rob Alexander',0.21
+Scion of the Wild,Creature,Avatar,Ravnica: City of Guilds,Rare,3,Green,True,False,True,True,b'Kev Walker',0.28
+Siege Wurm,Creature,Wurm,Ravnica: City of Guilds,Common,7,Green,True,True,True,True,b'Carl Critchlow',0.05
+Stone-Seeder Hierophant,Creature,Human Druid,Ravnica: City of Guilds,Common,4,Green,True,False,True,True,b'William Simpson',0.19
+Sundering Vitae,Instant,None,Ravnica: City of Guilds,Common,3,Green,True,False,True,True,b'Shishizaru',0.14
+Transluminant,Creature,Dryad Shaman,Ravnica: City of Guilds,Common,2,Green,True,False,True,True,b'Greg Hildebrandt',0.09
+Trophy Hunter,Creature,Human Archer,Ravnica: City of Guilds,Uncommon,3,Green,True,False,True,True,b'rk post',0.12
+Ursapine,Creature,Beast,Ravnica: City of Guilds,Rare,5,Green,True,False,True,True,b'Jim Murray',0.26
+Vinelasher Kudzu,Creature,Plant,Ravnica: City of Guilds,Rare,2,Green,True,False,True,True,b'Mark Tedin',0.3
+"Agrus Kos, Wojek Veteran",Legendary Creature,Human Soldier,Ravnica: City of Guilds,Rare,5,Gold,True,False,True,True,b'Donato Giancola',0.27
+Autochthon Wurm,Creature,Wurm,Ravnica: City of Guilds,Rare,6,Gold,True,False,True,True,b'Michael Phillippi',3.02
+Bloodbond March,Enchantment,None,Ravnica: City of Guilds,Rare,4,Gold,True,False,True,True,b'Jim Nelson',0.49
+Boros Swiftblade,Creature,Human Soldier,Ravnica: City of Guilds,Uncommon,2,Gold,True,False,True,True,b'Doug Chaffee',0.17
+Brightflame,Sorcery,None,Ravnica: City of Guilds,Rare,5,Gold,True,False,True,True,b'Dave Dorman',0.46
+Chorus of the Conclave,Legendary Creature,Dryad,Ravnica: City of Guilds,Rare,8,Gold,True,False,True,True,b'Brian Despain',0.29
+"Circu, Dimir Lobotomist",Legendary Creature,Human Wizard,Ravnica: City of Guilds,Rare,4,Gold,True,False,True,True,b'Cyril Van Der Haegen',0.77
+Clutch of the Undercity,Instant,None,Ravnica: City of Guilds,Uncommon,4,Gold,True,False,True,True,b'Pete Venters',0.34
+Congregation at Dawn,Instant,None,Ravnica: City of Guilds,Uncommon,3,Gold,True,False,True,True,b'Randy Gallegos',2.7
+Consult the Necrosages,Sorcery,None,Ravnica: City of Guilds,Common,3,Gold,True,False,True,True,b'Paolo Parente',0.12
+Dark Heart of the Wood,Enchantment,None,Ravnica: City of Guilds,Uncommon,2,Gold,True,False,True,True,b'Mark Tedin',0.13
+Dimir Cutpurse,Creature,Spirit,Ravnica: City of Guilds,Rare,3,Gold,True,False,True,True,b'Kev Walker',0.62
+Dimir Doppelganger,Creature,Shapeshifter,Ravnica: City of Guilds,Rare,3,Gold,True,False,True,True,b'Jim Murray',0.76
+Dimir Infiltrator,Creature,Spirit,Ravnica: City of Guilds,Common,2,Gold,True,False,True,True,b'Jim Nelson',0.31
+Drooling Groodion,Creature,Beast,Ravnica: City of Guilds,Uncommon,6,Gold,True,False,True,True,b'Kev Walker',0.09
+Firemane Angel,Creature,Angel,Ravnica: City of Guilds,Rare,6,Gold,True,False,True,True,b'Matt Cavotta',0.37
+Flame-Kin Zealot,Creature,Elemental Berserker,Ravnica: City of Guilds,Uncommon,4,Gold,True,False,True,True,b'Arnie Swekel',0.15
+Glare of Subdual,Enchantment,None,Ravnica: City of Guilds,Rare,4,Gold,True,False,True,True,b'Zoltan Boros',0.45
+Glimpse the Unthinkable,Sorcery,None,Ravnica: City of Guilds,Rare,2,Gold,True,False,True,True,b'Brandon Kitkouski',9.41
+Golgari Germination,Enchantment,None,Ravnica: City of Guilds,Uncommon,3,Gold,True,False,True,True,b'Thomas M. Baxa',0.26
+Golgari Rotwurm,Creature,Zombie Wurm,Ravnica: City of Guilds,Common,5,Gold,True,False,True,True,b'Wayne England',0.1
+Grave-Shell Scarab,Creature,Insect,Ravnica: City of Guilds,Rare,5,Gold,True,False,True,True,b'Pete Venters',0.31
+Guardian of Vitu-Ghazi,Creature,Elemental,Ravnica: City of Guilds,Common,8,Gold,True,False,True,True,b'Wayne Reynolds',0.07
+Lightning Helix,Instant,None,Ravnica: City of Guilds,Uncommon,2,Gold,True,False,True,True,b'Kev Walker',1.18
+Loxodon Hierarch,Creature,Elephant Cleric,Ravnica: City of Guilds,Rare,4,Gold,True,False,True,True,b'Kev Walker',0.57
+Mindleech Mass,Creature,Horror,Ravnica: City of Guilds,Rare,8,Gold,True,False,True,True,b'Kev Walker',1.09
+Moroii,Creature,Vampire,Ravnica: City of Guilds,Uncommon,4,Gold,True,False,True,True,b'Dan Scott',0.14
+Perplex,Instant,None,Ravnica: City of Guilds,Common,3,Gold,True,False,True,True,b'Tsutomu Kawade',0.84
+Phytohydra,Creature,Plant Hydra,Ravnica: City of Guilds,Rare,5,Gold,True,False,True,True,b'Jim Murray',1.57
+Pollenbright Wings,Enchantment,Aura,Ravnica: City of Guilds,Uncommon,6,Gold,True,False,True,True,b'Terese Nielsen',0.22
+Psychic Drain,Sorcery,None,Ravnica: City of Guilds,Uncommon,3,Gold,True,False,True,True,b'Nick Percival',0.42
+Putrefy,Instant,None,Ravnica: City of Guilds,Uncommon,3,Gold,True,False,True,True,b'Jim Nelson',0.28
+Rally the Righteous,Instant,None,Ravnica: City of Guilds,Common,3,Gold,True,False,True,True,b'Dan Scott',0.18
+"Razia, Boros Archangel",Legendary Creature,Angel,Ravnica: City of Guilds,Rare,8,Gold,True,False,True,True,b'Donato Giancola',0.68
+Razia's Purification,Sorcery,None,Ravnica: City of Guilds,Rare,6,Gold,True,False,True,True,b'Shishizaru',0.62
+"Savra, Queen of the Golgari",Legendary Creature,Elf Shaman,Ravnica: City of Guilds,Rare,4,Gold,True,False,True,True,b'Scott M. Fischer',0.8
+Searing Meditation,Enchantment,None,Ravnica: City of Guilds,Rare,3,Gold,True,False,True,True,b'Dave Dorman',0.26
+Seeds of Strength,Instant,None,Ravnica: City of Guilds,Common,2,Gold,True,False,True,True,b'Ralph Horsley',0.1
+Selesnya Evangel,Creature,Elf Shaman,Ravnica: City of Guilds,Common,2,Gold,True,False,True,True,b'Rob Alexander',0.18
+Selesnya Sagittars,Creature,Elf Archer,Ravnica: City of Guilds,Uncommon,5,Gold,True,False,True,True,"b'Edward P. Beard, Jr.'",0.13
+Shambling Shell,Creature,Plant Zombie,Ravnica: City of Guilds,Common,3,Gold,True,False,True,True,b'Joel Thomas',0.22
+Sisters of Stone Death,Legendary Creature,Gorgon,Ravnica: City of Guilds,Rare,8,Gold,True,False,True,True,b'Donato Giancola',0.99
+Skyknight Legionnaire,Creature,Human Knight,Ravnica: City of Guilds,Common,3,Gold,True,True,True,True,b'Jim Murray',0.1
+Sunhome Enforcer,Creature,Giant Soldier,Ravnica: City of Guilds,Uncommon,4,Gold,True,False,True,True,b'Greg Staples',0.15
+"Szadek, Lord of Secrets",Legendary Creature,Vampire,Ravnica: City of Guilds,Rare,7,Gold,True,False,True,True,b'Donato Giancola',0.63
+Thundersong Trumpeter,Creature,Human Soldier,Ravnica: City of Guilds,Common,2,Gold,True,False,True,True,b'Michael Sutfin',0.06
+Tolsimir Wolfblood,Legendary Creature,Elf Warrior,Ravnica: City of Guilds,Rare,6,Gold,True,False,True,True,b'Donato Giancola',1.38
+Twisted Justice,Sorcery,None,Ravnica: City of Guilds,Uncommon,6,Gold,True,False,True,True,b'Ralph Horsley',0.11
+Vulturous Zombie,Creature,Plant Zombie,Ravnica: City of Guilds,Rare,5,Gold,True,False,True,True,b'Greg Staples',0.35
+Watchwolf,Creature,Wolf,Ravnica: City of Guilds,Uncommon,2,Gold,True,False,True,True,b'Kev Walker',0.23
+Woodwraith Corrupter,Creature,Elemental Horror,Ravnica: City of Guilds,Rare,6,Gold,True,False,True,True,b'Greg Staples',0.21
+Woodwraith Strangler,Creature,Plant Zombie,Ravnica: City of Guilds,Common,4,Gold,True,False,True,True,b'Pat Lee',0.06
+Boros Guildmage,Creature,Human Wizard,Ravnica: City of Guilds,Uncommon,4,Gold,True,False,True,True,b'Paolo Parente',0.15
+Boros Recruit,Creature,Goblin Soldier,Ravnica: City of Guilds,Common,2,Gold,True,False,True,True,b'Keith Garletts',0.14
+Centaur Safeguard,Creature,Centaur Warrior,Ravnica: City of Guilds,Common,4,Gold,True,False,True,True,b'Glenn Fabry',0.03
+Dimir Guildmage,Creature,Human Wizard,Ravnica: City of Guilds,Uncommon,4,Gold,True,False,True,True,b'Adam Rex',0.11
+Gaze of the Gorgon,Instant,None,Ravnica: City of Guilds,Common,5,Gold,True,False,True,True,b'Stephen Tappin',0.13
+Gleancrawler,Creature,Insect Horror,Ravnica: City of Guilds,Rare,9,Gold,True,False,True,True,b'Dave Allsop',0.34
+Golgari Guildmage,Creature,Elf Shaman,Ravnica: City of Guilds,Uncommon,4,Gold,True,False,True,True,b'Zoltan Boros',0.14
+Lurking Informant,Creature,Human Rogue,Ravnica: City of Guilds,Common,3,Gold,True,False,True,True,b'Ron Spears',0.1
+Master Warcraft,Instant,None,Ravnica: City of Guilds,Rare,6,Gold,True,False,True,True,b'Zoltan Boros',0.63
+Privileged Position,Enchantment,None,Ravnica: City of Guilds,Rare,8,Gold,True,False,True,True,b'Wayne England',10.1
+Selesnya Guildmage,Creature,Elf Wizard,Ravnica: City of Guilds,Uncommon,4,Gold,True,False,True,True,b'Mark Zug',0.11
+Shadow of Doubt,Instant,None,Ravnica: City of Guilds,Rare,4,Gold,True,False,True,True,b'Greg Staples',4.54
+Bloodletter Quill,Artifact,None,Ravnica: City of Guilds,Rare,3,Colorless,True,False,True,True,b'Dan Scott',0.18
+Boros Signet,Artifact,None,Ravnica: City of Guilds,Common,2,Colorless,True,False,True,True,b'Greg Hildebrandt',0.95
+Bottled Cloister,Artifact,None,Ravnica: City of Guilds,Rare,4,Colorless,True,False,True,True,b'Luca Zontini',1.63
+Cloudstone Curio,Artifact,None,Ravnica: City of Guilds,Rare,3,Colorless,True,False,True,True,b'Heather Hudson',35.1
+Crown of Convergence,Artifact,None,Ravnica: City of Guilds,Rare,2,Colorless,True,False,True,True,b'Jen Page',0.21
+Cyclopean Snare,Artifact,None,Ravnica: City of Guilds,Uncommon,2,Colorless,True,False,True,True,b'Keith Garletts',0.11
+Dimir Signet,Artifact,None,Ravnica: City of Guilds,Common,2,Colorless,True,False,True,True,b'Greg Hildebrandt',1.63
+Glass Golem,Artifact Creature,Golem,Ravnica: City of Guilds,Uncommon,5,Colorless,True,False,True,True,b'Glen Angus',0.06
+Golgari Signet,Artifact,None,Ravnica: City of Guilds,Common,2,Colorless,True,False,True,True,b'Greg Hildebrandt',0.31
+Grifter's Blade,Artifact,Equipment,Ravnica: City of Guilds,Uncommon,3,Colorless,True,False,True,True,b'Alan Pollack',0.09
+Junktroller,Artifact Creature,Golem,Ravnica: City of Guilds,Uncommon,4,Colorless,True,True,True,True,b'Chippy',0.21
+Leashling,Artifact Creature,Hound,Ravnica: City of Guilds,Uncommon,6,Colorless,True,False,True,True,b'Carl Critchlow',0.12
+Nullstone Gargoyle,Artifact Creature,Gargoyle,Ravnica: City of Guilds,Rare,9,Colorless,True,False,True,True,b'Glenn Fabry',2.0
+Pariah's Shield,Artifact,Equipment,Ravnica: City of Guilds,Rare,5,Colorless,True,False,True,True,b'Doug Chaffee',3.87
+Peregrine Mask,Artifact,Equipment,Ravnica: City of Guilds,Uncommon,1,Colorless,True,False,True,True,"b'Edward P. Beard, Jr.'",0.16
+Plague Boiler,Artifact,None,Ravnica: City of Guilds,Rare,3,Colorless,True,False,True,True,b'Mark Tedin',0.29
+Selesnya Signet,Artifact,None,Ravnica: City of Guilds,Common,2,Colorless,True,False,True,True,b'Greg Hildebrandt',0.49
+Spectral Searchlight,Artifact,None,Ravnica: City of Guilds,Uncommon,3,Colorless,True,False,True,True,b'Martina Pilcerova',0.21
+Sunforger,Artifact,Equipment,Ravnica: City of Guilds,Rare,3,Colorless,True,False,True,True,b'Darrell Riche',2.81
+Terrarion,Artifact,None,Ravnica: City of Guilds,Common,1,Colorless,True,False,True,True,b'Luca Zontini',0.2
+Voyager Staff,Artifact,None,Ravnica: City of Guilds,Uncommon,1,Colorless,True,False,True,True,b'Tsutomu Kawade',0.29
+Boros Garrison,Land,None,Ravnica: City of Guilds,Common,0,Colorless,True,False,True,True,b'John Avon',0.26
+Dimir Aqueduct,Land,None,Ravnica: City of Guilds,Common,0,Colorless,True,False,True,True,b'John Avon',0.36
+"Duskmantle, House of Shadow",Land,None,Ravnica: City of Guilds,Uncommon,0,Colorless,True,False,True,True,b'Martina Pilcerova',0.23
+Golgari Rot Farm,Land,None,Ravnica: City of Guilds,Common,0,Colorless,True,False,True,True,b'John Avon',0.27
+Overgrown Tomb,Land,Swamp Forest,Ravnica: City of Guilds,Rare,0,Colorless,True,True,True,True,b'Rob Alexander',17.33
+Sacred Foundry,Land,Mountain Plains,Ravnica: City of Guilds,Rare,0,Colorless,True,True,True,True,b'Rob Alexander',15.84
+Selesnya Sanctuary,Land,None,Ravnica: City of Guilds,Common,0,Colorless,True,False,True,True,b'John Avon',0.23
+"Sunhome, Fortress of the Legion",Land,None,Ravnica: City of Guilds,Uncommon,0,Colorless,True,False,True,True,b'Martina Pilcerova',1.24
+"Svogthos, the Restless Tomb",Land,None,Ravnica: City of Guilds,Uncommon,0,Colorless,True,False,True,True,b'Martina Pilcerova',0.18
+Temple Garden,Land,Forest Plains,Ravnica: City of Guilds,Rare,0,Colorless,True,True,True,True,b'Rob Alexander',15.12
+"Vitu-Ghazi, the City-Tree",Land,None,Ravnica: City of Guilds,Uncommon,0,Colorless,True,False,True,True,b'Martina Pilcerova',0.14
+Watery Grave,Land,Island Swamp,Ravnica: City of Guilds,Rare,0,Colorless,True,True,True,True,b'Rob Alexander',19.71
+Plains,Basic Land,Plains,Ravnica: City of Guilds,Common,0,Colorless,True,True,True,True,b'Stephan Martiniere',0.19
+Plains,Basic Land,Plains,Ravnica: City of Guilds,Common,0,Colorless,True,True,True,True,b'Christopher Moeller',0.15
+Plains,Basic Land,Plains,Ravnica: City of Guilds,Common,0,Colorless,True,True,True,True,b'Anthony S. Waters',0.44
+Plains,Basic Land,Plains,Ravnica: City of Guilds,Common,0,Colorless,True,True,True,True,b'Richard Wright',0.19
+Island,Basic Land,Island,Ravnica: City of Guilds,Common,0,Colorless,True,True,True,True,b'Stephan Martiniere',0.23
+Island,Basic Land,Island,Ravnica: City of Guilds,Common,0,Colorless,True,True,True,True,b'Christopher Moeller',0.17
+Island,Basic Land,Island,Ravnica: City of Guilds,Common,0,Colorless,True,True,True,True,b'Anthony S. Waters',0.2
+Island,Basic Land,Island,Ravnica: City of Guilds,Common,0,Colorless,True,True,True,True,b'Richard Wright',0.19
+Swamp,Basic Land,Swamp,Ravnica: City of Guilds,Common,0,Colorless,True,True,True,True,b'Stephan Martiniere',0.18
+Swamp,Basic Land,Swamp,Ravnica: City of Guilds,Common,0,Colorless,True,True,True,True,b'Christopher Moeller',0.21
+Swamp,Basic Land,Swamp,Ravnica: City of Guilds,Common,0,Colorless,True,True,True,True,b'Anthony S. Waters',0.15
+Swamp,Basic Land,Swamp,Ravnica: City of Guilds,Common,0,Colorless,True,True,True,True,b'Richard Wright',0.12
+Mountain,Basic Land,Mountain,Ravnica: City of Guilds,Common,0,Colorless,True,True,True,True,b'Stephan Martiniere',0.19
+Mountain,Basic Land,Mountain,Ravnica: City of Guilds,Common,0,Colorless,True,True,True,True,b'Christopher Moeller',0.24
+Mountain,Basic Land,Mountain,Ravnica: City of Guilds,Common,0,Colorless,True,True,True,True,b'Anthony S. Waters',0.16
+Mountain,Basic Land,Mountain,Ravnica: City of Guilds,Common,0,Colorless,True,True,True,True,b'Richard Wright',0.15
+Forest,Basic Land,Forest,Ravnica: City of Guilds,Common,0,Colorless,True,True,True,True,b'Stephan Martiniere',0.21
+Forest,Basic Land,Forest,Ravnica: City of Guilds,Common,0,Colorless,True,True,True,True,b'Christopher Moeller',0.16
+Forest,Basic Land,Forest,Ravnica: City of Guilds,Common,0,Colorless,True,True,True,True,b'Anthony S. Waters',0.16
+Forest,Basic Land,Forest,Ravnica: City of Guilds,Common,0,Colorless,True,True,True,True,b'Richard Wright',0.15

@@ -1,0 +1,122 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+"Akroma, Angel of Wrath",Legendary Creature,Angel,Time Spiral Timeshifted,Rare,8,White,True,False,True,True,b'Ron Spears',3.14
+Auratog,Creature,Atog,Time Spiral Timeshifted,Rare,2,White,True,False,True,True,b'Jeff Miracola',0.53
+Celestial Dawn,Enchantment,None,Time Spiral Timeshifted,Rare,3,White,True,False,True,True,b'Liz Danforth',1.64
+Consecrate Land,Enchantment,Aura,Time Spiral Timeshifted,Rare,1,White,True,False,True,True,b'Jeff A. Menges',0.28
+Defiant Vanguard,Creature,Human Rebel,Time Spiral Timeshifted,Rare,3,White,True,False,True,True,b'Pete Venters',0.15
+Disenchant,Instant,None,Time Spiral Timeshifted,Rare,2,White,True,True,True,True,b'Amy Weber',1.11
+Enduring Renewal,Enchantment,None,Time Spiral Timeshifted,Rare,4,White,True,False,True,True,b'Harold McNeill',1.36
+Essence Sliver,Creature,Sliver,Time Spiral Timeshifted,Rare,4,White,True,False,True,True,b'Glen Angus',3.64
+Honorable Passage,Instant,None,Time Spiral Timeshifted,Rare,2,White,True,False,True,True,b'Jeff Miracola',0.15
+Icatian Javelineers,Creature,Human Soldier,Time Spiral Timeshifted,Rare,1,White,True,False,True,True,b'Scott Kirschner',0.12
+Moorish Cavalry,Creature,Human Knight,Time Spiral Timeshifted,Rare,4,White,True,False,True,True,b'Dameon Willich',0.12
+Resurrection,Sorcery,None,Time Spiral Timeshifted,Rare,4,White,True,False,True,True,b'Dan Frazier',0.24
+Sacred Mesa,Enchantment,None,Time Spiral Timeshifted,Rare,3,White,True,False,True,True,b'Margaret Organ-Kean',0.32
+Soltari Priest,Creature,Soltari Cleric,Time Spiral Timeshifted,Rare,2,White,True,False,True,True,b'Janet Aulisio',0.19
+Squire,Creature,Human Soldier,Time Spiral Timeshifted,Rare,2,White,True,False,True,True,b'Dennis Detwiller',0.16
+Valor,Creature,Incarnation,Time Spiral Timeshifted,Rare,4,White,True,False,True,True,b'Kev Walker',0.17
+Witch Hunter,Creature,Human Cleric,Time Spiral Timeshifted,Rare,4,White,True,False,True,True,b'Jesper Myrfors',0.2
+Zhalfirin Commander,Creature,Human Knight,Time Spiral Timeshifted,Rare,3,White,True,False,True,True,b'Stuart Griffin',0.15
+Dandân,Creature,Fish,Time Spiral Timeshifted,Rare,2,Blue,True,False,True,True,b'Drew Tucker',0.24
+Flying Men,Creature,Human,Time Spiral Timeshifted,Rare,1,Blue,True,False,True,True,b'Christopher Rush',1.6
+Ghost Ship,Creature,Spirit,Time Spiral Timeshifted,Rare,4,Blue,True,False,True,True,b'Tom W\xc3\xa4nerstrand',0.1
+Giant Oyster,Creature,Oyster,Time Spiral Timeshifted,Rare,4,Blue,True,False,True,True,b'Nicola Leonard',0.13
+Leviathan,Creature,Leviathan,Time Spiral Timeshifted,Rare,9,Blue,True,False,True,True,b'Mark Tedin',0.17
+Lord of Atlantis,Creature,Merfolk,Time Spiral Timeshifted,Rare,2,Blue,True,False,True,True,b'Melissa A. Benson',6.49
+Merfolk Assassin,Creature,Merfolk Assassin,Time Spiral Timeshifted,Rare,2,Blue,True,False,True,True,b'Dennis Detwiller',0.32
+Mistform Ultimus,Legendary Creature,Illusion,Time Spiral Timeshifted,Rare,4,Blue,True,False,True,True,b'Anthony S. Waters',0.21
+Ovinomancer,Creature,Human Wizard,Time Spiral Timeshifted,Rare,3,Blue,True,False,True,True,b'Kev Walker',0.16
+Pirate Ship,Creature,Human Pirate,Time Spiral Timeshifted,Rare,5,Blue,True,False,True,True,b'Tom W\xc3\xa4nerstrand',0.2
+Prodigal Sorcerer,Creature,Human Wizard,Time Spiral Timeshifted,Rare,3,Blue,True,False,True,True,b'Douglas Shuler',0.22
+Psionic Blast,Instant,None,Time Spiral Timeshifted,Rare,3,Blue,True,False,True,True,b'Douglas Shuler',4.52
+Sindbad,Creature,Human,Time Spiral Timeshifted,Rare,2,Blue,True,False,True,True,b'Julie Baroh',0.18
+Stormscape Familiar,Creature,Bird,Time Spiral Timeshifted,Rare,2,Blue,True,False,True,True,b'Heather Hudson',0.25
+Unstable Mutation,Enchantment,Aura,Time Spiral Timeshifted,Rare,1,Blue,True,False,True,True,b'Douglas Shuler',0.25
+Voidmage Prodigy,Creature,Human Wizard,Time Spiral Timeshifted,Rare,2,Blue,True,False,True,True,b'Christopher Moeller',2.46
+Whispers of the Muse,Instant,None,Time Spiral Timeshifted,Rare,1,Blue,True,False,True,True,b'Quinton Hoover',0.34
+Willbender,Creature,Human Wizard,Time Spiral Timeshifted,Rare,2,Blue,True,False,True,True,b'Eric Peterson',0.21
+Avatar of Woe,Creature,Avatar,Time Spiral Timeshifted,Rare,8,Black,True,False,True,True,b'rk post',1.88
+Bad Moon,Enchantment,None,Time Spiral Timeshifted,Rare,2,Black,True,False,True,True,b'Jesper Myrfors',1.74
+Conspiracy,Enchantment,None,Time Spiral Timeshifted,Rare,5,Black,True,False,True,True,b'Jeff Easley',8.63
+Darkness,Instant,None,Time Spiral Timeshifted,Rare,1,Black,True,False,True,True,b'Harold McNeill',6.6
+Dauthi Slayer,Creature,Dauthi Soldier,Time Spiral Timeshifted,Rare,2,Black,True,False,True,True,b'Dermot Power',0.22
+Evil Eye of Orms-by-Gore,Creature,Eye,Time Spiral Timeshifted,Rare,5,Black,True,False,True,True,b'Jesper Myrfors',0.16
+Faceless Butcher,Creature,Nightmare Horror,Time Spiral Timeshifted,Rare,4,Black,True,False,True,True,b'Daren Bader',0.24
+Funeral Charm,Instant,None,Time Spiral Timeshifted,Rare,1,Black,True,False,True,True,b'Greg Spalenka',0.59
+Sengir Autocrat,Creature,Human,Time Spiral Timeshifted,Rare,4,Black,True,False,True,True,b'David A. Cherry',0.25
+Shadow Guildmage,Creature,Human Wizard,Time Spiral Timeshifted,Rare,1,Black,True,False,True,True,b'Mike Kimble',0.24
+Soul Collector,Creature,Vampire,Time Spiral Timeshifted,Rare,5,Black,True,False,True,True,b'Matthew D. Wilson',0.4
+Stupor,Sorcery,None,Time Spiral Timeshifted,Rare,3,Black,True,False,True,True,b'Mike Kimble',0.31
+Swamp Mosquito,Creature,Insect,Time Spiral Timeshifted,Rare,2,Black,True,False,True,True,b'Nicola Leonard',0.28
+Twisted Abomination,Creature,Zombie Mutant,Time Spiral Timeshifted,Rare,6,Black,True,False,True,True,b'Daren Bader',0.13
+Uncle Istvan,Creature,Human,Time Spiral Timeshifted,Rare,4,Black,True,False,True,True,b'Daniel Gelon',0.26
+Undead Warchief,Creature,Zombie,Time Spiral Timeshifted,Rare,4,Black,True,False,True,True,b'Greg Hildebrandt',6.0
+Undertaker,Creature,Human Spellshaper,Time Spiral Timeshifted,Rare,2,Black,True,False,True,True,b'Jeff Easley',0.12
+Withered Wretch,Creature,Zombie Cleric,Time Spiral Timeshifted,Rare,2,Black,True,False,True,True,b'Tim Hildebrandt',0.47
+Avalanche Riders,Creature,Human Nomad,Time Spiral Timeshifted,Rare,4,Red,True,False,True,True,"b'Edward P. Beard, Jr.'",0.51
+Browbeat,Sorcery,None,Time Spiral Timeshifted,Rare,3,Red,True,False,True,True,b'Mark Tedin',0.46
+Desolation Giant,Creature,Giant,Time Spiral Timeshifted,Rare,4,Red,True,False,True,True,b'Alan Pollack',0.23
+Disintegrate,Sorcery,None,Time Spiral Timeshifted,Rare,2,Red,True,False,True,True,b'Anson Maddocks',0.24
+Dragon Whelp,Creature,Dragon,Time Spiral Timeshifted,Rare,4,Red,True,False,True,True,b'Amy Weber',0.21
+Dragonstorm,Sorcery,None,Time Spiral Timeshifted,Rare,9,Red,True,False,True,True,b'Kev Walker',1.27
+Eron the Relentless,Legendary Creature,Human Rogue,Time Spiral Timeshifted,Rare,5,Red,True,False,True,True,b'Christopher Rush',0.16
+Fiery Temper,Instant,None,Time Spiral Timeshifted,Rare,3,Red,True,False,True,True,b'Greg Hildebrandt',0.34
+Fire Whip,Enchantment,Aura,Time Spiral Timeshifted,Rare,2,Red,True,False,True,True,b'Jeff Miracola',0.2
+Goblin Snowman,Creature,Goblin,Time Spiral Timeshifted,Rare,4,Red,True,False,True,True,b'Daniel Gelon',0.21
+Kobold Taskmaster,Creature,Kobold,Time Spiral Timeshifted,Rare,2,Red,True,False,True,True,b'Randy Asplund-Faith',0.18
+Orcish Librarian,Creature,Orc,Time Spiral Timeshifted,Rare,2,Red,True,False,True,True,b'Phil Foglio',0.16
+Orgg,Creature,Orgg,Time Spiral Timeshifted,Rare,5,Red,True,False,True,True,b'Daniel Gelon',0.18
+Pandemonium,Enchantment,None,Time Spiral Timeshifted,Rare,4,Red,True,False,True,True,b'Pete Venters',1.24
+Suq'Ata Lancer,Creature,Human Knight,Time Spiral Timeshifted,Rare,3,Red,True,False,True,True,b'Jeff Miracola',0.16
+Tribal Flames,Sorcery,None,Time Spiral Timeshifted,Rare,2,Red,True,False,True,True,b'Tony Szczudlo',0.16
+Uthden Troll,Creature,Troll,Time Spiral Timeshifted,Rare,3,Red,True,False,True,True,b'Douglas Shuler',0.15
+Wildfire Emissary,Creature,Efreet,Time Spiral Timeshifted,Rare,4,Red,True,False,True,True,b'Richard Kane Ferguson',0.19
+Avoid Fate,Instant,None,Time Spiral Timeshifted,Rare,1,Green,True,False,True,True,b'Phil Foglio',2.53
+Call of the Herd,Sorcery,None,Time Spiral Timeshifted,Rare,3,Green,True,False,True,True,b'Carl Critchlow',0.39
+Cockatrice,Creature,Cockatrice,Time Spiral Timeshifted,Rare,5,Green,True,False,True,True,b'Dan Frazier',0.23
+Craw Giant,Creature,Giant,Time Spiral Timeshifted,Rare,7,Green,True,False,True,True,b'Christopher Rush',0.21
+Gaea's Blessing,Sorcery,None,Time Spiral Timeshifted,Rare,2,Green,True,False,True,True,b'Rebecca Guay',0.42
+Gaea's Liege,Creature,Avatar,Time Spiral Timeshifted,Rare,6,Green,True,False,True,True,b'Dameon Willich',0.23
+Hail Storm,Instant,None,Time Spiral Timeshifted,Rare,3,Green,True,False,True,True,b'Jeff A. Menges',0.13
+Hunting Moa,Creature,Bird Beast,Time Spiral Timeshifted,Rare,3,Green,True,False,True,True,b'DiTerlizzi',0.13
+"Jolrael, Empress of Beasts",Legendary Creature,Human Spellshaper,Time Spiral Timeshifted,Rare,5,Green,True,False,True,True,b'Matthew D. Wilson',0.39
+Krosan Cloudscraper,Creature,Beast Mutant,Time Spiral Timeshifted,Rare,10,Green,True,False,True,True,b'Ron Spears',0.4
+Scragnoth,Creature,Beast,Time Spiral Timeshifted,Rare,5,Green,True,False,True,True,b'Jeff Laubenstein',0.17
+Spike Feeder,Creature,Spike,Time Spiral Timeshifted,Rare,3,Green,True,False,True,True,b'Heather Hudson',1.76
+Spitting Slug,Creature,Slug,Time Spiral Timeshifted,Rare,3,Green,True,False,True,True,b'Anson Maddocks',0.12
+Thallid,Creature,Fungus,Time Spiral Timeshifted,Rare,1,Green,True,False,True,True,b'Ron Spencer',0.27
+Thornscape Battlemage,Creature,Elf Wizard,Time Spiral Timeshifted,Rare,3,Green,True,False,True,True,b'Matt Cavotta',0.15
+Verdeloth the Ancient,Legendary Creature,Treefolk,Time Spiral Timeshifted,Rare,6,Green,True,False,True,True,b'Daren Bader',1.28
+Wall of Roots,Creature,Plant Wall,Time Spiral Timeshifted,Rare,2,Green,True,False,True,True,b'John Matson',0.51
+Whirling Dervish,Creature,Human Monk,Time Spiral Timeshifted,Rare,2,Green,True,False,True,True,b'Susan Van Camp',0.18
+Coalition Victory,Sorcery,None,Time Spiral Timeshifted,Rare,8,Gold,True,False,False,True,b'Eric Peterson',0.51
+Fiery Justice,Sorcery,None,Time Spiral Timeshifted,Rare,3,Gold,True,False,True,True,b'Melissa A. Benson',0.32
+Jasmine Boreal,Legendary Creature,Human,Time Spiral Timeshifted,Rare,5,Gold,True,False,True,True,b'Richard Kane Ferguson',0.28
+Lightning Angel,Creature,Angel,Time Spiral Timeshifted,Rare,4,Gold,True,False,True,True,b'rk post',0.48
+Merieke Ri Berit,Legendary Creature,Human,Time Spiral Timeshifted,Rare,3,Gold,True,False,True,True,b'Heather Hudson',1.56
+Mystic Enforcer,Creature,Human Nomad Mystic,Time Spiral Timeshifted,Rare,4,Gold,True,False,True,True,b'Gary Ruddell',0.2
+Mystic Snake,Creature,Snake,Time Spiral Timeshifted,Rare,4,Gold,True,False,True,True,b'Daren Bader',0.88
+Nicol Bolas,Legendary Creature,Elder Dragon,Time Spiral Timeshifted,Rare,8,Gold,True,False,True,True,"b'Edward P. Beard, Jr.'",1.77
+Shadowmage Infiltrator,Creature,Human Wizard,Time Spiral Timeshifted,Rare,3,Gold,True,False,True,True,b'Rick Farrell',0.41
+Sol'kanar the Swamp King,Legendary Creature,Demon,Time Spiral Timeshifted,Rare,5,Gold,True,False,True,True,b'Richard Kane Ferguson',0.29
+Spined Sliver,Creature,Sliver,Time Spiral Timeshifted,Rare,2,Gold,True,False,True,True,b'Ron Spencer',0.3
+Stormbind,Enchantment,None,Time Spiral Timeshifted,Rare,3,Gold,True,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.19
+Teferi's Moat,Enchantment,None,Time Spiral Timeshifted,Rare,5,Gold,True,False,True,True,b'rk post',0.64
+Vhati il-Dal,Legendary Creature,Human Warrior,Time Spiral Timeshifted,Rare,4,Gold,True,False,True,True,b'Ron Spencer',1.4
+Void,Sorcery,None,Time Spiral Timeshifted,Rare,5,Gold,True,False,True,True,b'Kev Walker',0.23
+Assault,Sorcery,None,Time Spiral Timeshifted,Rare,1,Red,True,False,True,True,b'Ben Thompson',0.16
+Claws of Gix,Artifact,None,Time Spiral Timeshifted,Rare,0,Colorless,True,False,True,True,b'Henry G. Higginbotham',0.35
+Dodecapod,Artifact Creature,Golem,Time Spiral Timeshifted,Rare,4,Colorless,True,False,True,True,b'John Howe',0.17
+Feldon's Cane,Artifact,None,Time Spiral Timeshifted,Rare,1,Colorless,True,False,True,True,b'Mark Tedin',0.45
+Grinning Totem,Artifact,None,Time Spiral Timeshifted,Rare,4,Colorless,True,False,True,True,b'Donato Giancola',0.28
+Mindless Automaton,Artifact Creature,Construct,Time Spiral Timeshifted,Rare,4,Colorless,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.28
+Mirari,Legendary Artifact,None,Time Spiral Timeshifted,Rare,5,Colorless,True,False,True,True,b'Donato Giancola',0.63
+The Rack,Artifact,None,Time Spiral Timeshifted,Rare,1,Colorless,True,False,True,True,b'Richard Thomas',2.51
+Serrated Arrows,Artifact,None,Time Spiral Timeshifted,Rare,4,Colorless,True,False,True,True,b'David A. Cherry',1.33
+Tormod's Crypt,Artifact,None,Time Spiral Timeshifted,Rare,0,Colorless,True,False,True,True,b'Christopher Rush',3.37
+War Barge,Artifact,None,Time Spiral Timeshifted,Rare,4,Colorless,True,False,True,True,b'Tom W\xc3\xa4nerstrand',0.15
+Arena,Land,None,Time Spiral Timeshifted,Rare,0,Colorless,True,False,True,True,b'Rob Alexander',2.11
+Desert,Land,Desert,Time Spiral Timeshifted,Rare,0,Colorless,True,False,True,True,b'Jesper Myrfors',1.95
+Gemstone Mine,Land,None,Time Spiral Timeshifted,Rare,0,Colorless,True,False,True,True,b'Brom',11.17
+Pendelhaven,Legendary Land,None,Time Spiral Timeshifted,Rare,0,Colorless,True,False,True,True,b'Bryon Wackwitz',2.62
+Safe Haven,Land,None,Time Spiral Timeshifted,Rare,0,Colorless,True,False,True,True,b'Christopher Rush',0.35

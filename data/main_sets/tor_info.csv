@@ -1,0 +1,144 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Angel of Retribution,Creature,Angel,Torment,Rare,7,White,False,False,True,True,b'rk post',0.23
+Aven Trooper,Creature,Bird Soldier,Torment,Common,4,White,False,False,True,False,b'Greg Staples',0.07
+Cleansing Meditation,Sorcery,None,Torment,Uncommon,3,White,False,False,True,False,b'Ron Spears',1.26
+Equal Treatment,Instant,None,Torment,Uncommon,2,White,False,False,True,False,b'Greg Hildebrandt',0.2
+Floating Shield,Enchantment,Aura,Torment,Common,3,White,False,False,True,False,b'Keith Garletts',0.1
+Frantic Purification,Instant,None,Torment,Common,3,White,False,False,True,False,b'Mark Brill',0.08
+Hypochondria,Enchantment,None,Torment,Uncommon,2,White,False,False,True,False,b'Christopher Moeller',0.13
+Major Teroh,Legendary Creature,Bird Soldier,Torment,Rare,4,White,False,False,True,False,b'Daren Bader',0.38
+Militant Monk,Creature,Human Monk Cleric,Torment,Common,3,White,False,False,True,False,b'Mark Brill',0.01
+Morningtide,Sorcery,None,Torment,Rare,2,White,False,False,True,False,b'Tony Szczudlo',0.27
+Mystic Familiar,Creature,Bird,Torment,Common,2,White,False,False,True,False,"b'Edward P. Beard, Jr.'",0.07
+Pay No Heed,Instant,None,Torment,Common,1,White,True,False,True,True,b'Adam Rex',0.03
+Possessed Nomad,Creature,Human Nomad Horror,Torment,Rare,4,White,False,False,True,False,b'Eric Peterson',0.18
+Reborn Hero,Creature,Human Soldier,Torment,Rare,3,White,False,False,True,False,b'Gary Ruddell',0.24
+Spirit Flare,Instant,None,Torment,Common,4,White,False,False,True,False,b'rk post',0.07
+Stern Judge,Creature,Human Cleric,Torment,Uncommon,3,White,False,False,True,False,b'Matt Cavotta',0.14
+Strength of Isolation,Enchantment,Aura,Torment,Uncommon,2,White,False,False,True,False,b'Jerry Tiritilli',0.14
+Teroh's Faithful,Creature,Human Cleric,Torment,Common,4,White,False,False,True,True,b'Tim Hildebrandt',0.08
+Teroh's Vanguard,Creature,Human Nomad,Torment,Uncommon,4,White,False,False,True,False,b'Greg Hildebrandt',0.12
+Transcendence,Enchantment,None,Torment,Rare,6,White,False,False,True,False,b'Rebecca Guay',0.81
+Vengeful Dreams,Instant,None,Torment,Rare,2,White,False,False,True,True,b'Mark Tedin',0.25
+Alter Reality,Instant,None,Torment,Rare,2,Blue,False,False,True,False,b'Justin Sweet',0.41
+Ambassador Laquatus,Legendary Creature,Merfolk Wizard,Torment,Rare,3,Blue,True,False,True,True,b'Eric Peterson',0.85
+Aquamoeba,Creature,Elemental Beast,Torment,Common,2,Blue,False,False,True,True,b'Arnie Swekel',0.15
+Balshan Collaborator,Creature,Bird Soldier,Torment,Uncommon,4,Blue,False,False,True,False,b'DiTerlizzi',0.12
+Breakthrough,Sorcery,None,Torment,Uncommon,2,Blue,False,False,True,True,b'Gary Ruddell',0.31
+Cephalid Aristocrat,Creature,Cephalid Noble,Torment,Common,5,Blue,False,False,True,False,b'Rob Alexander',0.16
+Cephalid Illusionist,Creature,Cephalid Wizard,Torment,Uncommon,2,Blue,False,False,True,False,b'Pete Venters',0.81
+Cephalid Sage,Creature,Cephalid,Torment,Uncommon,4,Blue,False,False,True,True,b'Keith Garletts',0.12
+Cephalid Snitch,Creature,Cephalid Wizard,Torment,Common,2,Blue,False,False,True,False,b'Jerry Tiritilli',0.05
+Cephalid Vandal,Creature,Cephalid Rogue,Torment,Rare,2,Blue,False,False,True,False,b'Alex Horley-Orlandelli',0.18
+Churning Eddy,Sorcery,None,Torment,Common,4,Blue,False,False,True,False,b'Thomas M. Baxa',0.07
+Circular Logic,Instant,None,Torment,Uncommon,3,Blue,False,False,True,True,b'Anthony S. Waters',0.62
+Compulsion,Enchantment,None,Torment,Uncommon,2,Blue,False,False,True,True,b'Christopher Moeller',0.24
+Coral Net,Enchantment,Aura,Torment,Common,1,Blue,False,False,True,False,b'Roger Raupp',0.21
+Deep Analysis,Sorcery,None,Torment,Common,4,Blue,False,False,True,True,b'Daren Bader',0.24
+False Memories,Instant,None,Torment,Rare,2,Blue,False,False,True,False,b'Ron Spencer',0.18
+Ghostly Wings,Enchantment,Aura,Torment,Common,2,Blue,True,False,True,True,b'David Martin',0.08
+Hydromorph Guardian,Creature,Elemental,Torment,Common,3,Blue,False,False,True,False,b'Glen Angus',0.13
+Hydromorph Gull,Creature,Elemental Bird,Torment,Uncommon,5,Blue,False,False,True,False,b'Arnie Swekel',0.14
+Liquify,Instant,None,Torment,Common,3,Blue,False,False,True,False,b'Ron Spencer',0.07
+"Llawan, Cephalid Empress",Legendary Creature,Cephalid Noble,Torment,Rare,4,Blue,False,False,True,False,b'Mark Zug',1.11
+Obsessive Search,Instant,None,Torment,Common,1,Blue,False,False,True,True,b'Jim Nelson',0.21
+Plagiarize,Instant,None,Torment,Rare,4,Blue,True,False,True,True,b'Ben Thompson',0.23
+Possessed Aven,Creature,Bird Soldier Horror,Torment,Rare,4,Blue,False,False,True,False,b'Scott M. Fischer',0.19
+Retraced Image,Sorcery,None,Torment,Rare,1,Blue,False,False,True,False,b'Greg Staples',0.63
+Skywing Aven,Creature,Bird Soldier,Torment,Common,3,Blue,False,False,True,True,b'Matt Cavotta',0.15
+Stupefying Touch,Enchantment,Aura,Torment,Uncommon,2,Blue,False,False,True,True,b'Bradley Williams',0.13
+Turbulent Dreams,Sorcery,None,Torment,Rare,2,Blue,False,False,True,False,b'Wayne England',0.42
+Boneshard Slasher,Creature,Horror,Torment,Uncommon,2,Black,False,False,True,False,b'Ron Spencer',0.09
+Cabal Ritual,Instant,None,Torment,Common,2,Black,False,False,True,True,b'Greg Hildebrandt',2.75
+Cabal Surgeon,Creature,Human Minion,Torment,Common,4,Black,False,False,True,False,b'Donato Giancola',0.05
+Cabal Torturer,Creature,Human Minion,Torment,Common,3,Black,False,False,True,False,b'Pete Venters',0.17
+Carrion Rats,Creature,Rat,Torment,Common,1,Black,False,False,True,True,"b'Edward P. Beard, Jr.'",0.13
+Carrion Wurm,Creature,Zombie Wurm,Torment,Uncommon,5,Black,False,False,True,False,b'Glen Angus',0.18
+"Chainer, Dementia Master",Legendary Creature,Human Minion,Torment,Rare,5,Black,False,False,True,False,b'Mark Zug',6.63
+Chainer's Edict,Sorcery,None,Torment,Uncommon,2,Black,False,False,True,True,b'Ben Thompson',1.53
+Crippling Fatigue,Sorcery,None,Torment,Common,3,Black,False,False,True,True,b'Heather Hudson',0.11
+Dawn of the Dead,Enchantment,None,Torment,Rare,5,Black,False,False,True,False,b'Pete Venters',2.41
+Faceless Butcher,Creature,Nightmare Horror,Torment,Common,4,Black,True,False,True,True,b'Daren Bader',0.22
+Gloomdrifter,Creature,Zombie Minion,Torment,Uncommon,4,Black,False,False,True,False,b'Adam Rex',0.19
+Gravegouger,Creature,Nightmare Horror,Torment,Common,3,Black,False,False,True,False,b'Daren Bader',0.14
+Grotesque Hybrid,Creature,Zombie,Torment,Uncommon,5,Black,False,False,True,False,b'Terese Nielsen',0.17
+Hypnox,Creature,Nightmare Horror,Torment,Rare,11,Black,False,False,True,False,b'Greg Staples',0.6
+Ichorid,Creature,Horror,Torment,Rare,4,Black,False,False,True,True,b'rk post',1.08
+Insidious Dreams,Instant,None,Torment,Rare,4,Black,False,False,True,False,b'John Avon',11.74
+Laquatus's Champion,Creature,Nightmare Horror,Torment,Rare,6,Black,False,False,True,True,b'Greg Staples',0.52
+Last Laugh,Enchantment,None,Torment,Rare,4,Black,False,False,True,False,b'John Matson',0.45
+Mesmeric Fiend,Creature,Nightmare Horror,Torment,Common,2,Black,False,False,True,True,b'Dana Knutson',0.16
+Mind Sludge,Sorcery,None,Torment,Uncommon,5,Black,True,False,True,True,b'Eric Peterson',0.1
+Mortal Combat,Enchantment,None,Torment,Rare,4,Black,True,False,True,True,b'Mike Ploog',1.16
+Mortiphobia,Enchantment,None,Torment,Uncommon,3,Black,False,False,True,False,b'Christopher Moeller',0.13
+Mutilate,Sorcery,None,Torment,Rare,4,Black,True,False,True,True,b'Eric Peterson',1.03
+Nantuko Shade,Creature,Insect Shade,Torment,Rare,2,Black,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.63
+Organ Grinder,Creature,Zombie,Torment,Common,3,Black,False,False,True,False,b'Adam Rex',0.1
+Psychotic Haze,Instant,None,Torment,Common,4,Black,False,False,True,False,b'Alex Horley-Orlandelli',0.24
+Putrid Imp,Creature,Zombie Imp,Torment,Common,1,Black,False,False,True,True,b'Wayne England',0.35
+Rancid Earth,Sorcery,None,Torment,Common,3,Black,False,False,True,False,b'Ciruelo',0.37
+Restless Dreams,Sorcery,None,Torment,Common,1,Black,False,False,True,False,b'John Matson',0.21
+Sengir Vampire,Creature,Vampire,Torment,Rare,5,Black,True,False,True,True,b'Kev Walker',0.3
+Shade's Form,Enchantment,Aura,Torment,Common,3,Black,False,False,True,False,b'Clyde Caldwell',0.29
+Shambling Swarm,Creature,Horror,Torment,Rare,4,Black,False,False,True,False,b'Arnie Swekel',0.33
+Sickening Dreams,Sorcery,None,Torment,Uncommon,2,Black,False,False,True,True,b'Scott M. Fischer',0.24
+Slithery Stalker,Creature,Nightmare Horror,Torment,Uncommon,3,Black,False,False,True,False,b'John Avon',0.18
+Soul Scourge,Creature,Nightmare Horror,Torment,Common,5,Black,False,False,True,False,b'Carl Critchlow',0.05
+Strength of Lunacy,Enchantment,Aura,Torment,Uncommon,2,Black,False,False,True,False,b'Greg Hildebrandt',0.52
+Unhinge,Sorcery,None,Torment,Common,3,Black,False,False,True,False,b'Keith Garletts',0.08
+Waste Away,Instant,None,Torment,Common,5,Black,False,False,True,False,b'Alan Pollack',0.05
+Zombie Trailblazer,Creature,Zombie Scout,Torment,Uncommon,3,Black,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.64
+Accelerate,Instant,None,Torment,Common,2,Red,False,False,True,False,b'Gary Ruddell',1.79
+Balthor the Stout,Legendary Creature,Dwarf Barbarian,Torment,Rare,3,Red,False,False,True,False,b'Ron Spears',0.31
+Barbarian Outcast,Creature,Human Barbarian Beast,Torment,Common,2,Red,False,False,True,False,b'Mark Tedin',0.15
+Crackling Club,Enchantment,Aura,Torment,Common,1,Red,False,False,True,False,b'Mike Ploog',0.07
+Crazed Firecat,Creature,Elemental Cat,Torment,Uncommon,7,Red,False,False,True,False,b'Ron Spears',0.34
+Devastating Dreams,Sorcery,None,Torment,Rare,2,Red,False,False,True,False,b'Tony Szczudlo',0.51
+Enslaved Dwarf,Creature,Dwarf,Torment,Common,1,Red,False,False,True,False,b'Terese Nielsen',0.11
+Fiery Temper,Instant,None,Torment,Common,3,Red,True,False,True,True,b'Greg Hildebrandt',0.18
+Flaming Gambit,Instant,None,Torment,Uncommon,2,Red,False,False,True,False,b'Donato Giancola',0.11
+Flash of Defiance,Sorcery,None,Torment,Common,2,Red,False,False,True,False,b'Carl Critchlow',0.03
+Grim Lavamancer,Creature,Human Wizard,Torment,Rare,1,Red,True,False,True,True,b'Jim Nelson',6.08
+Hell-Bent Raider,Creature,Human Barbarian,Torment,Rare,3,Red,False,False,True,False,b'Mike Ploog',0.17
+Kamahl's Sledge,Sorcery,None,Torment,Common,7,Red,False,False,True,False,b'Don Hazeltine',0.03
+Longhorn Firebeast,Creature,Elemental Ox Beast,Torment,Common,3,Red,False,False,True,False,b'Glen Angus',0.15
+Overmaster,Sorcery,None,Torment,Rare,1,Red,False,False,True,False,b'Anthony S. Waters',1.45
+Pardic Arsonist,Creature,Human Barbarian,Torment,Uncommon,4,Red,False,False,True,False,b'rk post',0.15
+Pardic Collaborator,Creature,Human Barbarian,Torment,Uncommon,4,Red,False,False,True,False,b'Pete Venters',0.05
+Pardic Lancer,Creature,Human Barbarian,Torment,Common,5,Red,False,False,True,False,b'Justin Sweet',0.04
+Petradon,Creature,Nightmare Beast,Torment,Rare,8,Red,False,False,True,False,b'Jim Nelson',0.16
+Petravark,Creature,Nightmare Beast,Torment,Common,4,Red,False,False,True,False,b'Wayne England',0.08
+Pitchstone Wall,Creature,Wall,Torment,Uncommon,3,Red,False,False,True,False,b'David Martin',0.09
+Possessed Barbarian,Creature,Human Barbarian Horror,Torment,Rare,4,Red,False,False,True,False,b'Scott M. Fischer',0.2
+Pyromania,Enchantment,None,Torment,Uncommon,3,Red,False,False,True,False,b'Christopher Moeller',0.18
+Radiate,Instant,None,Torment,Rare,5,Red,False,False,True,False,b'Carl Critchlow',2.39
+Skullscorch,Sorcery,None,Torment,Rare,2,Red,False,False,True,False,b'Bradley Williams',0.32
+Sonic Seizure,Instant,None,Torment,Common,1,Red,False,False,True,False,b'Terese Nielsen',0.12
+Temporary Insanity,Instant,None,Torment,Uncommon,4,Red,False,False,True,True,b'Mark Romanoski',0.15
+Violent Eruption,Instant,None,Torment,Uncommon,4,Red,False,False,True,True,b'Bob Petillo',0.3
+Acorn Harvest,Sorcery,None,Torment,Common,4,Green,False,False,True,False,"b'Edward P. Beard, Jr.'",0.24
+Anurid Scavenger,Creature,Frog Beast,Torment,Uncommon,3,Green,False,False,True,False,b'Bob Petillo',0.13
+Arrogant Wurm,Creature,Wurm,Torment,Uncommon,5,Green,False,False,True,True,b'John Avon',0.56
+Basking Rootwalla,Creature,Lizard,Torment,Common,1,Green,False,False,True,True,b'Heather Hudson',0.21
+Centaur Chieftain,Creature,Centaur,Torment,Uncommon,4,Green,False,False,True,True,b'Justin Sweet',0.19
+Centaur Veteran,Creature,Centaur,Torment,Common,6,Green,False,False,True,False,b'Mark Zug',0.06
+Dwell on the Past,Sorcery,None,Torment,Uncommon,1,Green,False,False,True,False,b'Rebecca Guay',0.16
+Far Wanderings,Sorcery,None,Torment,Common,3,Green,False,False,True,True,b'Darrell Riche',0.34
+Gurzigost,Creature,Beast,Torment,Rare,5,Green,False,False,True,False,b'Scott M. Fischer',0.26
+Insist,Sorcery,None,Torment,Rare,1,Green,False,False,True,False,b'Franz Vohwinkel',0.42
+Invigorating Falls,Sorcery,None,Torment,Common,4,Green,False,False,True,False,b'Rebecca Guay',0.11
+Krosan Constrictor,Creature,Snake,Torment,Common,4,Green,False,False,True,False,b'Jim Nelson',0.09
+Krosan Restorer,Creature,Human Druid,Torment,Common,3,Green,False,False,True,False,b'Clyde Caldwell',0.45
+Nantuko Blightcutter,Creature,Insect Druid,Torment,Rare,3,Green,False,False,True,False,b'Matt Cavotta',0.21
+Nantuko Calmer,Creature,Insect Druid,Torment,Common,4,Green,False,False,True,False,b'Mark Romanoski',0.12
+Nantuko Cultivator,Creature,Insect Druid,Torment,Rare,4,Green,True,False,True,True,b'Darrell Riche',0.18
+Narcissism,Enchantment,None,Torment,Uncommon,3,Green,False,False,True,False,b'Christopher Moeller',0.14
+Nostalgic Dreams,Sorcery,None,Torment,Rare,2,Green,False,False,True,True,b'Darrell Riche',1.16
+Parallel Evolution,Sorcery,None,Torment,Rare,5,Green,False,False,True,False,b'Matt Cavotta',3.07
+Possessed Centaur,Creature,Centaur Horror,Torment,Rare,4,Green,False,False,True,False,b'Alex Horley-Orlandelli',0.25
+Seton's Scout,Creature,Centaur Druid Scout Archer,Torment,Uncommon,2,Green,False,False,True,True,b'Mark Romanoski',0.18
+Cabal Coffers,Land,None,Torment,Uncommon,0,Colorless,False,False,True,True,b'Don Hazeltine',53.08
+Tainted Field,Land,None,Torment,Uncommon,0,Colorless,False,False,True,True,b'Don Hazeltine',0.58
+Tainted Isle,Land,None,Torment,Uncommon,0,Colorless,False,False,True,True,b'Alan Pollack',2.72
+Tainted Peak,Land,None,Torment,Uncommon,0,Colorless,False,False,True,False,b'Tony Szczudlo',2.57
+Tainted Wood,Land,None,Torment,Uncommon,0,Colorless,False,False,True,True,b'Rob Alexander',1.17

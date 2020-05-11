@@ -1,0 +1,289 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Akroan Jailer,Creature,Human Soldier,Magic Origins,Common,1,White,True,False,True,False,b'Anastasia Ovchinnikova',0.06
+Ampryn Tactician,Creature,Human Soldier,Magic Origins,Common,4,White,True,False,True,False,b'Cynthia Sheppard',0.04
+Anointer of Champions,Creature,Human Cleric,Magic Origins,Uncommon,1,White,True,False,True,True,b'Anna Steinbauer',0.08
+Archangel of Tithes,Creature,Angel,Magic Origins,Mythic Rare,4,White,True,False,True,False,b'Cynthia Sheppard',9.33
+Auramancer,Creature,Human Wizard,Magic Origins,Common,3,White,True,False,True,True,b'Rebecca Guay',0.08
+Aven Battle Priest,Creature,Bird Cleric,Magic Origins,Common,6,White,True,False,True,True,b'John Severin Brassell',0.02
+Blessed Spirits,Creature,Spirit,Magic Origins,Uncommon,3,White,True,False,True,True,b'Anna Steinbauer',0.13
+Celestial Flare,Instant,None,Magic Origins,Common,2,White,True,False,True,True,b'Clint Cearley',0.08
+Charging Griffin,Creature,Griffin,Magic Origins,Common,4,White,True,False,True,True,b'Erica Yang',0.02
+Cleric of the Forward Order,Creature,Human Cleric,Magic Origins,Common,2,White,True,False,True,False,b'Chris Rallis',0.06
+Consul's Lieutenant,Creature,Human Soldier,Magic Origins,Uncommon,2,White,True,False,True,True,b'Daarken',0.11
+Enlightened Ascetic,Creature,Cat Monk,Magic Origins,Common,2,White,True,False,True,True,b'James Zapata',0.14
+Enshrouding Mist,Instant,None,Magic Origins,Common,1,White,True,False,True,False,b'Howard Lyon',0.04
+Gideon's Phalanx,Instant,None,Magic Origins,Rare,7,White,True,False,True,True,b'James Ryman',0.16
+Grasp of the Hieromancer,Enchantment,Aura,Magic Origins,Common,2,White,True,False,True,True,b'Igor Kieryluk',0.05
+Hallowed Moonlight,Instant,None,Magic Origins,Rare,2,White,True,False,True,False,b'Mike Bierek',0.31
+Healing Hands,Sorcery,None,Magic Origins,Common,3,White,True,False,True,True,b'Josu Hernaiz',0.08
+Heavy Infantry,Creature,Human Soldier,Magic Origins,Common,5,White,True,False,True,True,b'David Gaillet',0.02
+"Hixus, Prison Warden",Legendary Creature,Human Soldier,Magic Origins,Rare,5,White,True,False,True,True,b'Chris Rallis',0.14
+Knight of the Pilgrim's Road,Creature,Human Knight,Magic Origins,Common,3,White,True,False,True,False,b'David Gaillet',0.05
+Knight of the White Orchid,Creature,Human Knight,Magic Origins,Rare,2,White,True,False,True,True,b'Mark Zug',4.91
+Knightly Valor,Enchantment,Aura,Magic Origins,Uncommon,5,White,True,False,True,True,b'Matt Stewart',0.06
+"Kytheon, Hero of Akros",Legendary Creature,Human Soldier,Magic Origins,Mythic Rare,1,White,True,False,True,True,b'Willian Murai',3.14
+Kytheon's Irregulars,Creature,Human Soldier,Magic Origins,Rare,4,White,True,False,True,True,b'Mark Winters',0.11
+Kytheon's Tactics,Sorcery,None,Magic Origins,Common,3,White,True,False,True,False,b'Raymond Swanland',0.02
+Mighty Leap,Instant,None,Magic Origins,Common,2,White,True,False,True,True,b'rk post',0.03
+Murder Investigation,Enchantment,Aura,Magic Origins,Uncommon,2,White,True,False,True,True,b'Igor Kieryluk',0.12
+Patron of the Valiant,Creature,Angel,Magic Origins,Uncommon,5,White,True,False,True,True,b'Steve Argyle',0.08
+Relic Seeker,Creature,Human Soldier,Magic Origins,Rare,2,White,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.25
+Sentinel of the Eternal Watch,Creature,Giant Soldier,Magic Origins,Uncommon,6,White,True,False,True,False,b'Bastien L. Deharme',0.1
+Sigil of the Empty Throne,Enchantment,None,Magic Origins,Rare,5,White,True,False,True,True,b'Cyril Van Der Haegen',0.57
+Stalwart Aven,Creature,Bird Soldier,Magic Origins,Common,3,White,True,False,True,True,b'Scott Murphy',0.01
+Starfield of Nyx,Enchantment,None,Magic Origins,Mythic Rare,5,White,True,False,True,False,b'Tyler Jacobson',10.47
+Suppression Bonds,Enchantment,Aura,Magic Origins,Common,4,White,True,False,True,True,b'Chris Rallis',0.08
+Swift Reckoning,Sorcery,None,Magic Origins,Uncommon,2,White,True,False,True,True,b'Chris Rahn',0.06
+Topan Freeblade,Creature,Human Soldier,Magic Origins,Common,2,White,True,False,True,True,b'Johannes Voss',0.05
+Totem-Guide Hartebeest,Creature,Antelope,Magic Origins,Uncommon,5,White,True,False,True,True,b'John Avon',0.09
+Tragic Arrogance,Sorcery,None,Magic Origins,Rare,5,White,True,False,True,True,b'Winona Nelson',0.65
+Valor in Akros,Enchantment,None,Magic Origins,Uncommon,4,White,True,False,True,True,b'Igor Kieryluk',0.1
+Vryn Wingmare,Creature,Pegasus,Magic Origins,Rare,3,White,True,False,True,True,b'Seb McKinnon',0.35
+War Oracle,Creature,Human Cleric,Magic Origins,Uncommon,4,White,True,False,True,False,b'Steve Prescott',0.06
+Yoked Ox,Creature,Ox,Magic Origins,Common,1,White,True,True,True,True,b'Ryan Yee',0.08
+"Alhammarret, High Arbiter",Legendary Creature,Sphinx,Magic Origins,Rare,7,Blue,True,False,True,True,b'Richard Wright',0.19
+Anchor to the Aether,Sorcery,None,Magic Origins,Uncommon,3,Blue,True,False,True,False,b'Zoltan Boros',0.08
+Artificer's Epiphany,Instant,None,Magic Origins,Common,3,Blue,True,False,True,True,b'Kieran Yanner',0.05
+Aspiring Aeronaut,Creature,Human Artificer,Magic Origins,Common,4,Blue,True,False,True,False,b'Willian Murai',0.02
+Bone to Ash,Instant,None,Magic Origins,Common,4,Blue,True,True,True,True,b'Clint Cearley',0.04
+Calculated Dismissal,Instant,None,Magic Origins,Common,3,Blue,True,False,True,True,b'Karl Kopinski',0.07
+Clash of Wills,Instant,None,Magic Origins,Uncommon,2,Blue,True,False,True,True,b'Yan Li',0.11
+Claustrophobia,Enchantment,Aura,Magic Origins,Common,3,Blue,True,False,True,True,b'Ryan Pancoast',0.04
+Day's Undoing,Sorcery,None,Magic Origins,Mythic Rare,3,Blue,True,False,True,False,b'Jonas De Ro',4.0
+Deep-Sea Terror,Creature,Serpent,Magic Origins,Common,6,Blue,True,False,True,False,b'Marco Nelor',0.05
+Disciple of the Ring,Creature,Human Wizard,Magic Origins,Mythic Rare,5,Blue,True,False,True,False,b'Clint Cearley',0.51
+Disperse,Instant,None,Magic Origins,Common,2,Blue,True,False,True,True,b'Ryan Yee',0.07
+Displacement Wave,Sorcery,None,Magic Origins,Rare,3,Blue,True,False,True,False,b'Seb McKinnon',0.45
+Dreadwaters,Sorcery,None,Magic Origins,Common,4,Blue,True,False,True,True,b'Cliff Childs',0.06
+Faerie Miscreant,Creature,Faerie Rogue,Magic Origins,Common,1,Blue,True,True,True,True,b'Steven Belledin',0.13
+Harbinger of the Tides,Creature,Merfolk Wizard,Magic Origins,Rare,2,Blue,True,False,True,True,b'Svetlin Velinov',0.4
+Hydrolash,Instant,None,Magic Origins,Uncommon,3,Blue,True,False,True,True,b'Clint Cearley',0.08
+"Jace, Vryn's Prodigy",Legendary Creature,Human Wizard,Magic Origins,Mythic Rare,2,Blue,True,False,True,True,b'Jaime Jones',32.43
+Jace's Sanctum,Enchantment,None,Magic Origins,Rare,4,Blue,True,False,True,True,b'Adam Paquette',0.56
+Jhessian Thief,Creature,Human Rogue,Magic Origins,Uncommon,3,Blue,True,False,True,True,b'Miles Johnston',0.1
+Maritime Guard,Creature,Merfolk Soldier,Magic Origins,Common,2,Blue,True,False,True,True,b'Allen Williams',0.02
+Mizzium Meddler,Creature,Vedalken Wizard,Magic Origins,Rare,3,Blue,True,False,True,True,b'Johann Bodin',0.16
+Negate,Instant,None,Magic Origins,Common,2,Blue,True,True,True,True,b'Jeremy Jarvis',0.12
+Nivix Barrier,Creature,Illusion Wall,Magic Origins,Common,4,Blue,True,False,True,False,b'Mathias Kollros',0.05
+Psychic Rebuttal,Instant,None,Magic Origins,Uncommon,2,Blue,True,False,True,False,b'Todd Lockwood',0.11
+Ringwarden Owl,Creature,Bird,Magic Origins,Common,5,Blue,True,False,True,True,b'Titus Lunter',0.03
+Scrapskin Drake,Creature,Zombie Drake,Magic Origins,Common,3,Blue,True,False,True,True,b'Kev Walker',0.03
+Screeching Skaab,Creature,Zombie,Magic Origins,Common,2,Blue,True,False,True,True,b'Clint Cearley',0.03
+Send to Sleep,Instant,None,Magic Origins,Common,2,Blue,True,False,True,True,b'Cynthia Sheppard',0.06
+Separatist Voidmage,Creature,Human Wizard,Magic Origins,Common,4,Blue,True,False,True,False,b'Jason Rainville',0.09
+Sigiled Starfish,Creature,Starfish,Magic Origins,Uncommon,2,Blue,True,False,True,True,b'Nils Hamm',0.07
+Skaab Goliath,Creature,Zombie Giant,Magic Origins,Uncommon,6,Blue,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.06
+Soulblade Djinn,Creature,Djinn,Magic Origins,Rare,5,Blue,True,False,True,True,b'Viktor Titov',0.14
+Sphinx's Tutelage,Enchantment,None,Magic Origins,Uncommon,3,Blue,True,False,True,True,b'Slawomir Maniak',1.37
+Stratus Walk,Enchantment,Aura,Magic Origins,Common,2,Blue,True,False,True,True,b'Aaron Miller',0.04
+Talent of the Telepath,Sorcery,None,Magic Origins,Rare,4,Blue,True,False,True,True,b'Peter Mohrbacher',0.44
+Thopter Spy Network,Enchantment,None,Magic Origins,Rare,4,Blue,True,False,True,True,b'Jung Park',0.91
+Tower Geist,Creature,Spirit,Magic Origins,Uncommon,4,Blue,True,False,True,True,b'Izzy',0.07
+Turn to Frog,Instant,None,Magic Origins,Uncommon,2,Blue,True,False,True,True,b'Warren Mahy',0.09
+Watercourser,Creature,Elemental,Magic Origins,Common,3,Blue,True,False,True,True,b'Mathias Kollros',0.01
+Whirler Rogue,Creature,Human Rogue Artificer,Magic Origins,Uncommon,4,Blue,True,False,True,True,b'Winona Nelson',0.17
+Willbreaker,Creature,Human Wizard,Magic Origins,Rare,5,Blue,True,False,True,True,b'Dan Scott',0.79
+Blightcaster,Creature,Human Wizard,Magic Origins,Uncommon,4,Black,True,False,True,True,b'Winona Nelson',0.06
+Catacomb Slug,Creature,Slug,Magic Origins,Common,5,Black,True,False,True,True,b'Nils Hamm',0.02
+Consecrated by Blood,Enchantment,Aura,Magic Origins,Uncommon,4,Black,True,False,True,False,b'John Stanko',0.03
+Cruel Revival,Instant,None,Magic Origins,Uncommon,5,Black,True,False,True,True,b'Miles Johnston',0.09
+Dark Dabbling,Instant,None,Magic Origins,Common,3,Black,True,False,True,True,b'Bastien L. Deharme',0.06
+Dark Petition,Sorcery,None,Magic Origins,Rare,5,Black,True,False,True,True,b'Igor Kieryluk',2.91
+Deadbridge Shaman,Creature,Elf Shaman,Magic Origins,Common,3,Black,True,False,True,True,b'Nils Hamm',0.1
+Demonic Pact,Enchantment,None,Magic Origins,Mythic Rare,4,Black,True,False,True,False,b'Aleksi Briclot',1.17
+Despoiler of Souls,Creature,Horror,Magic Origins,Rare,2,Black,True,False,True,True,b'Greg Staples',0.09
+Erebos's Titan,Creature,Giant,Magic Origins,Mythic Rare,4,Black,True,False,True,False,b'Peter Mohrbacher',0.42
+Eyeblight Assassin,Creature,Elf Assassin,Magic Origins,Common,3,Black,True,False,True,True,b'Dan Scott',0.02
+Eyeblight Massacre,Sorcery,None,Magic Origins,Uncommon,4,Black,True,False,True,False,b'Igor Kieryluk',0.13
+Fetid Imp,Creature,Imp,Magic Origins,Common,2,Black,True,False,True,True,b'Nils Hamm',0.06
+Fleshbag Marauder,Creature,Zombie Warrior,Magic Origins,Uncommon,3,Black,True,False,True,True,b'Mark Zug',0.34
+Gilt-Leaf Winnower,Creature,Elf Warrior,Magic Origins,Rare,5,Black,True,False,True,True,b'Viktor Titov',0.16
+Gnarlroot Trapper,Creature,Elf Druid,Magic Origins,Uncommon,1,Black,True,False,True,False,b'Christopher Moeller',0.14
+Graveblade Marauder,Creature,Human Warrior,Magic Origins,Rare,3,Black,True,False,True,True,b'Jason Rainville',0.25
+Infernal Scarring,Enchantment,Aura,Magic Origins,Common,2,Black,True,False,True,True,b'Mike Bierek',0.1
+Infinite Obliteration,Sorcery,None,Magic Origins,Rare,3,Black,True,False,True,False,b'Yeong-Hao Han',0.28
+"Kothophed, Soul Hoarder",Legendary Creature,Demon,Magic Origins,Rare,6,Black,True,False,True,True,b'Jakub Kasper',0.33
+Languish,Sorcery,None,Magic Origins,Rare,4,Black,True,False,True,True,b'Jeff Simpson',1.41
+"Liliana, Heretical Healer",Legendary Creature,Human Cleric,Magic Origins,Mythic Rare,3,Black,True,False,True,True,b'Karla Ortiz',12.02
+Macabre Waltz,Sorcery,None,Magic Origins,Common,2,Black,True,False,True,True,b'Jim Murray',0.04
+Malakir Cullblade,Creature,Vampire Warrior,Magic Origins,Uncommon,2,Black,True,False,True,False,b'Igor Kieryluk',0.16
+Nantuko Husk,Creature,Zombie Insect,Magic Origins,Common,3,Black,True,False,True,True,b'Carl Critchlow',0.12
+Necromantic Summons,Sorcery,None,Magic Origins,Uncommon,5,Black,True,False,True,False,b'Ryan Yee',0.12
+Nightsnare,Sorcery,None,Magic Origins,Common,4,Black,True,False,True,False,b'Min Yum',0.05
+Priest of the Blood Rite,Creature,Human Cleric,Magic Origins,Rare,5,Black,True,False,True,True,b'David Palumbo',0.13
+Rabid Bloodsucker,Creature,Vampire,Magic Origins,Common,5,Black,True,False,True,True,b'Seb McKinnon',0.04
+Read the Bones,Sorcery,None,Magic Origins,Common,3,Black,True,False,True,True,b'Lars Grant-West',0.19
+Reave Soul,Sorcery,None,Magic Origins,Common,2,Black,True,True,True,True,b'David Palumbo',0.03
+Returned Centaur,Creature,Zombie Centaur,Magic Origins,Common,4,Black,True,False,True,True,b'Lucas Graciano',0.05
+Revenant,Creature,Spirit,Magic Origins,Uncommon,5,Black,True,False,True,True,b'Terese Nielsen',0.12
+Shadows of the Past,Enchantment,None,Magic Origins,Uncommon,2,Black,True,False,True,True,b'Ryan Yee',0.21
+Shambling Ghoul,Creature,Zombie,Magic Origins,Common,2,Black,True,False,True,True,b'Joseph Meehan',0.03
+Tainted Remedy,Enchantment,None,Magic Origins,Rare,3,Black,True,False,True,False,b'Izzy',1.88
+Thornbow Archer,Creature,Elf Archer,Magic Origins,Common,1,Black,True,False,True,True,b'Kev Walker',0.12
+Tormented Thoughts,Sorcery,None,Magic Origins,Uncommon,3,Black,True,False,True,True,b'Allen Williams',0.04
+Touch of Moonglove,Instant,None,Magic Origins,Common,1,Black,True,False,True,True,b'Scott Murphy',0.1
+Undead Servant,Creature,Zombie,Magic Origins,Common,4,Black,True,True,True,True,b'James Zapata',0.07
+Unholy Hunger,Instant,None,Magic Origins,Common,5,Black,True,False,True,True,b'Lius Lasahido',0.06
+Weight of the Underworld,Enchantment,Aura,Magic Origins,Common,4,Black,True,False,True,True,b'Wesley Burt',0.02
+Abbot of Keral Keep,Creature,Human Monk,Magic Origins,Rare,2,Red,True,False,True,True,b'Deruchenko Alexander',1.32
+Acolyte of the Inferno,Creature,Human Monk,Magic Origins,Uncommon,3,Red,True,False,True,False,b'Joseph Meehan',0.05
+Act of Treason,Sorcery,None,Magic Origins,Common,3,Red,True,True,True,True,b'Eric Deschamps',0.06
+Akroan Sergeant,Creature,Human Soldier,Magic Origins,Common,3,Red,True,False,True,True,b'Zack Stella',0.06
+Avaricious Dragon,Creature,Dragon,Magic Origins,Mythic Rare,4,Red,True,False,True,False,b'Chris Rahn',0.66
+Bellows Lizard,Creature,Lizard,Magic Origins,Common,1,Red,True,False,True,True,b'Jack Wang',0.06
+Boggart Brute,Creature,Goblin Warrior,Magic Origins,Common,3,Red,True,False,True,True,b'Igor Kieryluk',0.05
+Call of the Full Moon,Enchantment,Aura,Magic Origins,Uncommon,2,Red,True,False,True,False,b'Nils Hamm',0.05
+"Chandra, Fire of Kaladesh",Legendary Creature,Human Shaman,Magic Origins,Mythic Rare,3,Red,True,False,True,True,b'Eric Deschamps',2.35
+Chandra's Fury,Instant,None,Magic Origins,Common,5,Red,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.07
+Chandra's Ignition,Sorcery,None,Magic Origins,Rare,5,Red,True,False,True,True,b'Eric Deschamps',2.23
+Cobblebrute,Creature,Elemental,Magic Origins,Common,4,Red,True,False,True,True,b'Eytan Zana',0.02
+Demolish,Sorcery,None,Magic Origins,Common,4,Red,True,True,True,True,b'John Avon',0.05
+Dragon Fodder,Sorcery,None,Magic Origins,Common,2,Red,True,False,True,True,b'Jaime Jones',0.14
+Embermaw Hellion,Creature,Hellion,Magic Origins,Rare,5,Red,True,False,True,True,b'James Paick',0.33
+Enthralling Victor,Creature,Human Warrior,Magic Origins,Uncommon,4,Red,True,False,True,True,b'Winona Nelson',0.07
+Exquisite Firecraft,Sorcery,None,Magic Origins,Rare,3,Red,True,False,True,True,b'Chase Stone',1.09
+Fiery Conclusion,Instant,None,Magic Origins,Uncommon,2,Red,True,False,True,True,b'Paolo Parente',0.04
+Fiery Impulse,Instant,None,Magic Origins,Common,1,Red,True,False,True,False,b'Daarken',0.15
+Firefiend Elemental,Creature,Elemental,Magic Origins,Common,4,Red,True,False,True,False,b'Torstein Nordstrand',0.03
+Flameshadow Conjuring,Enchantment,None,Magic Origins,Rare,4,Red,True,False,True,False,b'Seb McKinnon',2.47
+Ghirapur Aether Grid,Enchantment,None,Magic Origins,Uncommon,3,Red,True,False,True,False,b'Cynthia Sheppard',0.23
+Ghirapur Gearcrafter,Creature,Human Artificer,Magic Origins,Common,3,Red,True,False,True,True,b'Victor Adame Minguez',0.09
+Goblin Glory Chaser,Creature,Goblin Warrior,Magic Origins,Uncommon,1,Red,True,False,True,True,b'Greg Staples',0.11
+Goblin Piledriver,Creature,Goblin Warrior,Magic Origins,Rare,2,Red,True,False,True,True,b'Matt Cavotta',1.32
+Infectious Bloodlust,Enchantment,Aura,Magic Origins,Common,2,Red,True,False,True,False,b'Zoltan Boros',0.02
+Lightning Javelin,Sorcery,None,Magic Origins,Common,4,Red,True,False,True,True,b'Seb McKinnon',0.04
+Mage-Ring Bully,Creature,Human Warrior,Magic Origins,Common,2,Red,True,False,True,False,b'Karl Kopinski',0.03
+Magmatic Insight,Sorcery,None,Magic Origins,Uncommon,1,Red,True,False,True,False,b'Ryan Barger',0.34
+Molten Vortex,Enchantment,None,Magic Origins,Rare,1,Red,True,False,True,False,b'Philip Straub',0.28
+Pia and Kiran Nalaar,Legendary Creature,Human Artificer,Magic Origins,Rare,4,Red,True,False,True,True,b'Eric Deschamps',0.33
+Prickleboar,Creature,Boar,Magic Origins,Common,5,Red,True,False,True,True,b'Jesper Ejsing',0.01
+Ravaging Blaze,Instant,None,Magic Origins,Uncommon,3,Red,True,False,True,False,b'Aleksi Briclot',0.14
+Scab-Clan Berserker,Creature,Human Berserker,Magic Origins,Rare,3,Red,True,False,True,True,b'Dave Kendall',0.76
+Seismic Elemental,Creature,Elemental,Magic Origins,Uncommon,5,Red,True,False,True,True,b'Jasper Sandner',0.06
+Skyraker Giant,Creature,Giant,Magic Origins,Uncommon,4,Red,True,False,True,False,b'Anastasia Ovchinnikova',0.05
+Smash to Smithereens,Instant,None,Magic Origins,Common,2,Red,True,False,True,True,b'Pete Venters',0.2
+Subterranean Scout,Creature,Goblin Scout,Magic Origins,Common,2,Red,True,False,True,False,b'Lucas Graciano',0.03
+Thopter Engineer,Creature,Human Artificer,Magic Origins,Uncommon,3,Red,True,False,True,True,b'Steve Prescott',0.13
+Titan's Strength,Instant,None,Magic Origins,Common,1,Red,True,False,True,True,b'Karl Kopinski',0.18
+Volcanic Rambler,Creature,Elemental,Magic Origins,Common,6,Red,True,False,True,False,b'Vincent Proce',0.01
+Aerial Volley,Instant,None,Magic Origins,Common,1,Green,True,False,True,False,b'Lake Hurwitz',0.09
+Animist's Awakening,Sorcery,None,Magic Origins,Rare,2,Green,True,False,True,True,b'Chris Rahn',0.98
+Caustic Caterpillar,Creature,Insect,Magic Origins,Common,1,Green,True,False,True,True,b'Jack Wang',0.32
+Conclave Naturalists,Creature,Dryad,Magic Origins,Uncommon,5,Green,True,False,True,True,b'Howard Lyon',0.09
+"Dwynen, Gilt-Leaf Daen",Legendary Creature,Elf Warrior,Magic Origins,Rare,4,Green,True,False,True,True,b'Johannes Voss',0.41
+Dwynen's Elite,Creature,Elf Warrior,Magic Origins,Uncommon,2,Green,True,False,True,True,b'Lius Lasahido',0.32
+Elemental Bond,Enchantment,None,Magic Origins,Uncommon,3,Green,True,False,True,True,b'David Gaillet',0.95
+Elvish Visionary,Creature,Elf Shaman,Magic Origins,Common,2,Green,True,False,True,True,b'D. Alexander Gregory',0.13
+Evolutionary Leap,Enchantment,None,Magic Origins,Rare,2,Green,True,False,True,True,b'Chris Rahn',0.98
+Gaea's Revenge,Creature,Elemental,Magic Origins,Rare,7,Green,True,False,True,True,b'Kekai Kotaki',0.27
+Gather the Pack,Sorcery,None,Magic Origins,Uncommon,2,Green,True,False,True,False,b'Igor Kieryluk',0.68
+The Great Aurora,Sorcery,None,Magic Origins,Mythic Rare,9,Green,True,False,True,False,b'Sam Burley',0.67
+Herald of the Pantheon,Creature,Centaur Shaman,Magic Origins,Rare,2,Green,True,False,True,True,b'Jason A. Engle',0.77
+Hitchclaw Recluse,Creature,Spider,Magic Origins,Common,3,Green,True,True,True,True,b'Jeff Simpson',0.06
+Honored Hierarch,Creature,Human Druid,Magic Origins,Rare,1,Green,True,False,True,True,b'Matt Stewart',0.18
+Joraga Invocation,Sorcery,None,Magic Origins,Uncommon,6,Green,True,False,True,False,b'Kieran Yanner',0.03
+Leaf Gilder,Creature,Elf Druid,Magic Origins,Common,2,Green,True,False,True,True,b'Quinton Hoover',0.05
+Llanowar Empath,Creature,Elf Shaman,Magic Origins,Common,4,Green,True,False,True,True,b'Warren Mahy',0.04
+Managorger Hydra,Creature,Hydra,Magic Origins,Rare,3,Green,True,False,True,True,b'Lucas Graciano',4.05
+Mantle of Webs,Enchantment,Aura,Magic Origins,Common,2,Green,True,False,True,True,b'Mathias Kollros',0.05
+Might of the Masses,Instant,None,Magic Origins,Common,1,Green,True,True,True,True,b'Johann Bodin',0.05
+"Nissa, Vastwood Seer",Legendary Creature,Elf Scout,Magic Origins,Mythic Rare,3,Green,True,False,True,True,b'Wesley Burt',10.4
+Nissa's Pilgrimage,Sorcery,None,Magic Origins,Common,3,Green,True,False,True,True,b'Matt Stewart',0.27
+Nissa's Revelation,Sorcery,None,Magic Origins,Rare,7,Green,True,False,True,True,b'Izzy',0.19
+Orchard Spirit,Creature,Spirit,Magic Origins,Common,3,Green,True,False,True,True,b'Howard Lyon',0.03
+Outland Colossus,Creature,Giant,Magic Origins,Rare,5,Green,True,False,True,True,b'Ryan Pancoast',0.13
+Pharika's Disciple,Creature,Centaur Warrior,Magic Origins,Common,4,Green,True,False,True,False,b'Karl Kopinski',0.09
+Reclaim,Instant,None,Magic Origins,Common,1,Green,True,False,True,True,b'Andrew Robinson',0.11
+Rhox Maulers,Creature,Rhino Soldier,Magic Origins,Common,5,Green,True,False,True,True,b'Zoltan Boros',0.05
+Skysnare Spider,Creature,Spider,Magic Origins,Uncommon,6,Green,True,False,True,False,b'Filip Burburan',0.14
+Somberwald Alpha,Creature,Wolf,Magic Origins,Uncommon,4,Green,True,False,True,False,b'Filip Burburan',0.14
+Sylvan Messenger,Creature,Elf,Magic Origins,Uncommon,4,Green,True,False,True,True,b'Anthony Palumbo',0.14
+Timberpack Wolf,Creature,Wolf,Magic Origins,Common,2,Green,True,False,True,True,b'John Avon',0.06
+Titanic Growth,Instant,None,Magic Origins,Common,2,Green,True,True,True,True,b'Ryan Pancoast',0.07
+Undercity Troll,Creature,Troll,Magic Origins,Uncommon,2,Green,True,False,True,True,b'Jason Felix',0.04
+Valeron Wardens,Creature,Human Monk,Magic Origins,Uncommon,3,Green,True,False,True,False,b'Howard Lyon',0.03
+Vastwood Gorger,Creature,Wurm,Magic Origins,Common,6,Green,True,False,True,True,b'Kieran Yanner',0.03
+Vine Snare,Instant,None,Magic Origins,Common,3,Green,True,False,True,False,b'Igor Kieryluk',0.05
+Wild Instincts,Sorcery,None,Magic Origins,Common,4,Green,True,False,True,False,b'Igor Kieryluk',0.07
+Woodland Bellower,Creature,Beast,Magic Origins,Mythic Rare,6,Green,True,False,True,False,b'Jasper Sandner',3.13
+Yeva's Forcemage,Creature,Elf Shaman,Magic Origins,Common,3,Green,True,False,True,True,b'Eric Deschamps',0.07
+Zendikar's Roil,Enchantment,None,Magic Origins,Uncommon,5,Green,True,False,True,True,b'Sam Burley',0.69
+Blazing Hellhound,Creature,Elemental Hound,Magic Origins,Uncommon,4,Gold,True,False,True,False,b'Eric Velhagen',0.06
+Blood-Cursed Knight,Creature,Vampire Knight,Magic Origins,Uncommon,3,Gold,True,False,True,False,b'Winona Nelson',0.13
+Bounding Krasis,Creature,Fish Lizard,Magic Origins,Uncommon,3,Gold,True,False,True,True,b'Jack Wang',0.27
+Citadel Castellan,Creature,Human Knight,Magic Origins,Uncommon,3,Gold,True,False,True,True,b'Anastasia Ovchinnikova',0.07
+Iroas's Champion,Creature,Human Soldier,Magic Origins,Uncommon,3,Gold,True,False,True,True,b'Marco Nelor',0.09
+Possessed Skaab,Creature,Zombie,Magic Origins,Uncommon,5,Gold,True,False,True,False,b'John Stanko',0.19
+Reclusive Artificer,Creature,Human Artificer,Magic Origins,Uncommon,4,Gold,True,False,True,True,b'Cynthia Sheppard',0.11
+Shaman of the Pack,Creature,Elf Shaman,Magic Origins,Uncommon,3,Gold,True,False,True,True,b'Dan Scott',0.28
+Thunderclap Wyvern,Creature,Drake,Magic Origins,Uncommon,4,Gold,True,False,True,True,b'Jason Felix',0.22
+Zendikar Incarnate,Creature,Elemental,Magic Origins,Uncommon,4,Gold,True,False,True,True,b'Lucas Graciano',0.12
+Alchemist's Vial,Artifact,None,Magic Origins,Common,2,Colorless,True,False,True,True,b'Lindsey Look',0.17
+Alhammarret's Archive,Legendary Artifact,None,Magic Origins,Mythic Rare,5,Colorless,True,False,True,True,b'Richard Wright',11.5
+Angel's Tomb,Artifact,None,Magic Origins,Uncommon,3,Colorless,True,False,True,True,b'Dan Scott',0.08
+Bonded Construct,Artifact Creature,Construct,Magic Origins,Common,1,Colorless,True,False,True,False,b'Craig J Spearing',0.08
+Brawler's Plate,Artifact,Equipment,Magic Origins,Uncommon,3,Colorless,True,False,True,True,b'Jung Park',0.08
+Chief of the Foundry,Artifact Creature,Construct,Magic Origins,Uncommon,3,Colorless,True,False,True,True,b'Daniel Ljunggren',0.13
+Gold-Forged Sentinel,Artifact Creature,Chimera,Magic Origins,Uncommon,6,Colorless,True,False,True,True,b'James Zapata',0.03
+Guardian Automaton,Artifact Creature,Construct,Magic Origins,Common,4,Colorless,True,False,True,False,b'Vincent Proce',0.03
+Guardians of Meletis,Artifact Creature,Golem,Magic Origins,Common,3,Colorless,True,False,True,True,b'Magali Villeneuve',0.07
+Hangarback Walker,Artifact Creature,Construct,Magic Origins,Rare,2,Colorless,True,False,True,True,b'Daarken',6.7
+Helm of the Gods,Artifact,Equipment,Magic Origins,Rare,1,Colorless,True,False,True,False,b'Anthony Palumbo',0.95
+Jayemdae Tome,Artifact,None,Magic Origins,Uncommon,4,Colorless,True,False,True,True,b'Donato Giancola',0.11
+Mage-Ring Responder,Artifact Creature,Golem,Magic Origins,Rare,7,Colorless,True,False,True,False,b'Adam Paquette',0.17
+Meteorite,Artifact,None,Magic Origins,Uncommon,5,Colorless,True,False,True,True,b'Scott Murphy',0.08
+Orbs of Warding,Artifact,None,Magic Origins,Rare,5,Colorless,True,False,True,False,b'Johann Bodin',0.6
+Prism Ring,Artifact,None,Magic Origins,Uncommon,1,Colorless,True,False,True,False,b'Daniel Ljunggren',0.26
+Pyromancer's Goggles,Legendary Artifact,None,Magic Origins,Mythic Rare,5,Colorless,True,False,True,False,b'James Paick',4.04
+Ramroller,Artifact Creature,Juggernaut,Magic Origins,Uncommon,3,Colorless,True,False,True,False,b'Craig J Spearing',0.07
+Runed Servitor,Artifact Creature,Construct,Magic Origins,Uncommon,2,Colorless,True,False,True,True,b'Mike Bierek',0.04
+Sigil of Valor,Artifact,Equipment,Magic Origins,Uncommon,2,Colorless,True,False,True,True,b'Dan Scott',0.16
+Sword of the Animist,Legendary Artifact,Equipment,Magic Origins,Rare,2,Colorless,True,False,True,True,b'Daniel Ljunggren',4.25
+Throwing Knife,Artifact,Equipment,Magic Origins,Uncommon,2,Colorless,True,False,True,False,b'Mathias Kollros',0.06
+Veteran's Sidearm,Artifact,Equipment,Magic Origins,Common,2,Colorless,True,False,True,False,b'Aaron Miller',0.03
+War Horn,Artifact,None,Magic Origins,Uncommon,3,Colorless,True,False,True,False,b'Lars Grant-West',0.08
+Battlefield Forge,Land,None,Magic Origins,Rare,0,Colorless,True,False,True,True,b'Darrell Riche',1.75
+Caves of Koilos,Land,None,Magic Origins,Rare,0,Colorless,True,False,True,True,b'Jim Nelson',0.96
+Evolving Wilds,Land,None,Magic Origins,Common,0,Colorless,True,True,True,True,b'Steven Belledin',0.1
+Foundry of the Consuls,Land,None,Magic Origins,Uncommon,0,Colorless,True,False,True,True,b'Sam Burley',0.12
+Llanowar Wastes,Land,None,Magic Origins,Rare,0,Colorless,True,False,True,True,b'Rob Alexander',1.05
+Mage-Ring Network,Land,None,Magic Origins,Uncommon,0,Colorless,True,False,True,True,b'Jung Park',0.26
+Rogue's Passage,Land,None,Magic Origins,Uncommon,0,Colorless,True,False,True,True,b'Christine Choi',0.53
+Shivan Reef,Land,None,Magic Origins,Rare,0,Colorless,True,False,True,True,b'Rob Alexander',3.46
+Yavimaya Coast,Land,None,Magic Origins,Rare,0,Colorless,True,False,True,True,b'Anthony S. Waters',1.79
+Plains,Basic Land,Plains,Magic Origins,Common,0,Colorless,True,True,True,True,b'Michael Komarck',0.08
+Plains,Basic Land,Plains,Magic Origins,Common,0,Colorless,True,True,True,True,b'Michael Komarck',0.09
+Plains,Basic Land,Plains,Magic Origins,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.12
+Plains,Basic Land,Plains,Magic Origins,Common,0,Colorless,True,True,True,True,b'Raoul Vitale',0.08
+Island,Basic Land,Island,Magic Origins,Common,0,Colorless,True,True,True,True,b'Jung Park',0.15
+Island,Basic Land,Island,Magic Origins,Common,0,Colorless,True,True,True,True,b'Jung Park',0.08
+Island,Basic Land,Island,Magic Origins,Common,0,Colorless,True,True,True,True,b'Richard Wright',0.11
+Island,Basic Land,Island,Magic Origins,Common,0,Colorless,True,True,True,True,b'Richard Wright',0.1
+Swamp,Basic Land,Swamp,Magic Origins,Common,0,Colorless,True,True,True,True,b'Larry Elmore',0.1
+Swamp,Basic Land,Swamp,Magic Origins,Common,0,Colorless,True,True,True,True,b'Dan Frazier',0.09
+Swamp,Basic Land,Swamp,Magic Origins,Common,0,Colorless,True,True,True,True,b'James Paick',0.09
+Swamp,Basic Land,Swamp,Magic Origins,Common,0,Colorless,True,True,True,True,b'Jung Park',0.08
+Mountain,Basic Land,Mountain,Magic Origins,Common,0,Colorless,True,True,True,True,b'Noah Bradley',0.07
+Mountain,Basic Land,Mountain,Magic Origins,Common,0,Colorless,True,True,True,True,b'Noah Bradley',0.06
+Mountain,Basic Land,Mountain,Magic Origins,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.06
+Mountain,Basic Land,Mountain,Magic Origins,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.07
+Forest,Basic Land,Forest,Magic Origins,Common,0,Colorless,True,True,True,True,b'John Avon',0.07
+Forest,Basic Land,Forest,Magic Origins,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.13
+Forest,Basic Land,Forest,Magic Origins,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.1
+Forest,Basic Land,Forest,Magic Origins,Common,0,Colorless,True,True,True,True,b'Vincent Proce',0.07
+Aegis Angel,Creature,Angel,Magic Origins,Rare,6,White,True,False,True,True,b'Aleksi Briclot',0.25
+Divine Verdict,Instant,None,Magic Origins,Common,4,White,True,False,True,True,b'Kev Walker',0.07
+Eagle of the Watch,Creature,Bird,Magic Origins,Common,3,White,True,False,True,True,b'Scott Murphy',0.09
+Serra Angel,Creature,Angel,Magic Origins,Uncommon,5,White,True,False,True,True,b'Greg Staples',0.24
+Into the Void,Sorcery,None,Magic Origins,Uncommon,4,Blue,True,False,True,True,b'Daarken',0.11
+Mahamoti Djinn,Creature,Djinn,Magic Origins,Rare,6,Blue,True,False,True,True,b'Greg Staples',0.12
+Weave Fate,Instant,None,Magic Origins,Common,4,Blue,True,False,True,True,b'Zack Stella',0.14
+Flesh to Dust,Instant,None,Magic Origins,Common,5,Black,True,False,True,True,b'Julie Dillon',0.12
+Mind Rot,Sorcery,None,Magic Origins,Common,3,Black,True,True,True,True,b'Steve Luke',0.24
+Nightmare,Creature,Nightmare Horse,Magic Origins,Rare,6,Black,True,False,True,True,b'Vance Kovacs',0.12
+Sengir Vampire,Creature,Vampire,Magic Origins,Uncommon,5,Black,True,False,True,True,b'Kev Walker',0.16
+Fiery Hellhound,Creature,Elemental Hound,Magic Origins,Common,3,Red,True,False,True,True,b'Ted Galaday',0.12
+Shivan Dragon,Creature,Dragon,Magic Origins,Rare,6,Red,True,True,True,True,b'Donato Giancola',0.14
+Plummet,Instant,None,Magic Origins,Common,2,Green,True,True,True,True,b'Pete Venters',0.16
+Prized Unicorn,Creature,Unicorn,Magic Origins,Uncommon,4,Green,True,True,True,True,b'Sam Wood',0.26
+Terra Stomper,Creature,Beast,Magic Origins,Rare,6,Green,True,False,True,True,b'Goran Josic',0.21

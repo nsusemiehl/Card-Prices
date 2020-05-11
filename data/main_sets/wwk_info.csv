@@ -1,0 +1,146 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Admonition Angel,Creature,Angel,Worldwake,Mythic Rare,6,White,True,False,True,False,b'Steve Argyle',4.6
+Apex Hawks,Creature,Bird,Worldwake,Common,3,White,True,False,True,True,b'David Palumbo',0.08
+Archon of Redemption,Creature,Archon,Worldwake,Rare,5,White,True,False,True,False,b'Steven Belledin',0.25
+Battle Hurda,Creature,Giant,Worldwake,Common,5,White,True,False,True,False,b'Christopher Moeller',0.05
+Fledgling Griffin,Creature,Griffin,Worldwake,Common,2,White,True,False,True,False,b'Christopher Moeller',0.06
+Guardian Zendikon,Enchantment,Aura,Worldwake,Common,3,White,True,False,True,True,b'John Avon',0.1
+Hada Freeblade,Creature,Human Soldier Ally,Worldwake,Uncommon,1,White,True,False,True,True,b'Cyril Van Der Haegen',0.34
+Iona's Judgment,Sorcery,None,Worldwake,Common,5,White,True,False,True,True,b'Mike Bierek',0.05
+Join the Ranks,Instant,None,Worldwake,Common,4,White,True,False,True,False,b'Kekai Kotaki',0.12
+Kitesail Apprentice,Creature,Kor Soldier,Worldwake,Common,1,White,True,False,True,False,b'Austin Hsu',0.14
+Kor Firewalker,Creature,Kor Soldier,Worldwake,Uncommon,2,White,True,False,True,True,b'Matt Stewart',0.4
+Lightkeeper of Emeria,Creature,Angel,Worldwake,Uncommon,4,White,True,False,True,True,b'James Ryman',0.2
+Loam Lion,Creature,Cat,Worldwake,Uncommon,1,White,True,False,True,True,b'Daniel Ljunggren',0.31
+Marsh Threader,Creature,Kor Scout,Worldwake,Common,2,White,True,False,True,False,b'David Palumbo',0.02
+Marshal's Anthem,Enchantment,None,Worldwake,Rare,4,White,True,False,True,True,b'Matt Stewart',0.36
+Perimeter Captain,Creature,Human Soldier,Worldwake,Uncommon,1,White,True,False,True,False,b'Steven Belledin',0.81
+Refraction Trap,Instant,Trap,Worldwake,Uncommon,4,White,True,False,True,False,b'Zoltan Boros',0.07
+Rest for the Weary,Instant,None,Worldwake,Common,2,White,True,False,True,False,b'James Paick',0.18
+Ruin Ghost,Creature,Spirit,Worldwake,Uncommon,2,White,True,False,True,False,b'Jason A. Engle',0.18
+Stoneforge Mystic,Creature,Kor Artificer,Worldwake,Rare,2,White,True,False,True,True,b'Mike Bierek',33.23
+Talus Paladin,Creature,Human Knight Ally,Worldwake,Rare,4,White,True,False,True,False,b'Svetlin Velinov',0.58
+Terra Eternal,Enchantment,None,Worldwake,Rare,3,White,True,False,True,False,b'Daniel Ljunggren',0.6
+Veteran's Reflexes,Instant,None,Worldwake,Common,1,White,True,False,True,True,b'Scott Chou',0.1
+Aether Tradewinds,Instant,None,Worldwake,Common,3,Blue,True,False,True,True,b'Kieran Yanner',0.06
+Calcite Snapper,Creature,Turtle,Worldwake,Common,3,Blue,True,False,True,False,b'David Palumbo',0.09
+Dispel,Instant,None,Worldwake,Common,1,Blue,True,False,True,True,b'Vance Kovacs',0.27
+Enclave Elite,Creature,Merfolk Soldier,Worldwake,Common,3,Blue,True,False,True,True,b'Igor Kieryluk',0.06
+Goliath Sphinx,Creature,Sphinx,Worldwake,Rare,7,Blue,True,False,True,False,b'Greg Staples',0.23
+Halimar Excavator,Creature,Human Wizard Ally,Worldwake,Common,2,Blue,True,False,True,False,b'Kev Walker',0.1
+Horizon Drake,Creature,Drake,Worldwake,Uncommon,3,Blue,True,False,True,False,b'Adi Granov',0.05
+"Jace, the Mind Sculptor",Legendary Planeswalker,Jace,Worldwake,Mythic Rare,4,Blue,True,False,True,True,b'Jason Chan',89.95
+Jwari Shapeshifter,Creature,Shapeshifter Ally,Worldwake,Rare,2,Blue,True,False,True,False,b'Kev Walker',0.63
+Mysteries of the Deep,Instant,None,Worldwake,Common,5,Blue,True,False,True,False,b'V\xc3\xa9ronique Meignaud',0.08
+Permafrost Trap,Instant,Trap,Worldwake,Uncommon,4,Blue,True,False,True,False,b'Howard Lyon',0.05
+Quest for Ula's Temple,Enchantment,None,Worldwake,Rare,1,Blue,True,False,True,False,b'Rob Alexander',4.23
+Sejiri Merfolk,Creature,Merfolk Soldier,Worldwake,Uncommon,2,Blue,True,False,True,False,b'Anthony Francisco',0.09
+Selective Memory,Sorcery,None,Worldwake,Rare,4,Blue,True,False,True,False,b'Chippy',0.21
+Spell Contortion,Instant,None,Worldwake,Uncommon,3,Blue,True,False,True,False,b'Wayne Reynolds',0.13
+Surrakar Banisher,Creature,Surrakar,Worldwake,Common,5,Blue,True,False,True,True,b'Matt Cavotta',0.02
+"Thada Adel, Acquisitor",Legendary Creature,Merfolk Rogue,Worldwake,Rare,3,Blue,True,False,True,False,b'Andrew Robinson',3.68
+Tideforce Elemental,Creature,Elemental,Worldwake,Uncommon,3,Blue,True,False,True,False,b'Donato Giancola',0.2
+Treasure Hunt,Sorcery,None,Worldwake,Common,2,Blue,True,False,True,True,b'Daren Bader',0.29
+Twitch,Instant,None,Worldwake,Common,3,Blue,True,False,True,True,b'Scott Chou',0.15
+Vapor Snare,Enchantment,Aura,Worldwake,Uncommon,5,Blue,True,False,True,False,b'Trevor Claxton',0.08
+Voyager Drake,Creature,Drake,Worldwake,Uncommon,4,Blue,True,False,True,False,b'Kieran Yanner',0.1
+Wind Zendikon,Enchantment,Aura,Worldwake,Common,1,Blue,True,False,True,False,b'Vincent Proce',0.1
+Abyssal Persecutor,Creature,Demon,Worldwake,Mythic Rare,4,Black,True,False,True,True,b'Chippy',0.81
+Agadeem Occultist,Creature,Human Shaman Ally,Worldwake,Rare,3,Black,True,False,True,False,b'Vance Kovacs',0.38
+"Anowon, the Ruin Sage",Legendary Creature,Vampire Shaman,Worldwake,Rare,5,Black,True,False,True,True,b'Dan Scott',1.13
+Bloodhusk Ritualist,Creature,Vampire Shaman,Worldwake,Uncommon,3,Black,True,False,True,True,b'Daarken',0.21
+Bojuka Brigand,Creature,Human Warrior Ally,Worldwake,Common,2,Black,True,False,True,False,b'Johann Bodin',0.09
+Brink of Disaster,Enchantment,Aura,Worldwake,Common,4,Black,True,False,True,True,b'Alex Horley-Orlandelli',0.06
+Butcher of Malakir,Creature,Vampire Warrior,Worldwake,Rare,7,Black,True,False,True,True,b'Jason Chan',0.6
+Caustic Crawler,Creature,Insect,Worldwake,Uncommon,5,Black,True,False,True,False,b'Raymond Swanland',0.11
+Corrupted Zendikon,Enchantment,Aura,Worldwake,Common,2,Black,True,False,True,False,b'John Avon',0.11
+Dead Reckoning,Sorcery,None,Worldwake,Common,3,Black,True,False,True,False,b'Svetlin Velinov',0.07
+Death's Shadow,Creature,Avatar,Worldwake,Rare,1,Black,True,False,True,True,b'Howard Lyon',8.34
+Jagwasp Swarm,Creature,Insect,Worldwake,Common,4,Black,True,False,True,False,b'Austin Hsu',0.01
+Kalastria Highborn,Creature,Vampire Shaman,Worldwake,Rare,2,Black,True,False,True,True,b'D. Alexander Gregory',2.81
+Mire's Toll,Sorcery,None,Worldwake,Common,1,Black,True,False,True,True,b'Alex Horley-Orlandelli',0.15
+Nemesis Trap,Instant,Trap,Worldwake,Uncommon,6,Black,True,False,True,True,b'Ryan Pancoast',0.06
+Pulse Tracker,Creature,Vampire Rogue,Worldwake,Common,1,Black,True,False,True,True,b'Andrew Robinson',0.19
+Quag Vampires,Creature,Vampire Rogue,Worldwake,Common,1,Black,True,False,True,True,b'Jason Felix',0.15
+Quest for the Nihil Stone,Enchantment,None,Worldwake,Rare,1,Black,True,False,True,False,b'Mike Bierek',1.85
+Ruthless Cullblade,Creature,Vampire Warrior,Worldwake,Common,2,Black,True,False,True,True,b'rk post',0.12
+Scrib Nibblers,Creature,Rat,Worldwake,Uncommon,3,Black,True,False,True,False,b'Daren Bader',0.17
+Shoreline Salvager,Creature,Surrakar,Worldwake,Uncommon,4,Black,True,False,True,False,b'Igor Kieryluk',0.03
+Smother,Instant,None,Worldwake,Uncommon,2,Black,True,False,True,True,b'Karl Kopinski',0.15
+Tomb Hex,Instant,None,Worldwake,Common,3,Black,True,False,True,False,b'Izzy',0.09
+Urge to Feed,Instant,None,Worldwake,Uncommon,2,Black,True,False,True,True,b'Johann Bodin',0.25
+Akoum Battlesinger,Creature,Human Berserker Ally,Worldwake,Common,2,Red,True,False,True,False,b'Adi Granov',0.13
+Bazaar Trader,Creature,Goblin,Worldwake,Rare,2,Red,True,False,True,False,b'Matt Cavotta',1.17
+Bull Rush,Instant,None,Worldwake,Common,1,Red,True,False,True,False,b'Christopher Moeller',0.02
+Chain Reaction,Sorcery,None,Worldwake,Rare,4,Red,True,False,True,True,b'Trevor Claxton',0.51
+Claws of Valakut,Enchantment,Aura,Worldwake,Common,3,Red,True,False,True,True,b'Igor Kieryluk',0.12
+Comet Storm,Instant,None,Worldwake,Mythic Rare,3,Red,True,False,True,True,b'Jung Park',0.98
+Cosi's Ravager,Creature,Elemental,Worldwake,Common,4,Red,True,False,True,True,b'Zoltan Boros',0.12
+Crusher Zendikon,Enchantment,Aura,Worldwake,Common,3,Red,True,False,True,False,b'Ryan Pancoast',0.07
+Cunning Sparkmage,Creature,Human Shaman,Worldwake,Uncommon,3,Red,True,False,True,True,b'Wayne Reynolds',0.17
+Deathforge Shaman,Creature,Ogre Shaman,Worldwake,Uncommon,5,Red,True,False,True,True,b'Dave Kendall',0.07
+Dragonmaster Outcast,Creature,Human Shaman,Worldwake,Mythic Rare,1,Red,True,False,True,True,b'Raymond Swanland',1.86
+Goblin Roughrider,Creature,Goblin Knight,Worldwake,Common,3,Red,True,False,True,True,b'Jesper Ejsing',0.06
+Grotag Thrasher,Creature,Lizard,Worldwake,Common,5,Red,True,False,True,False,b'Jesper Ejsing',0.03
+"Kazuul, Tyrant of the Cliffs",Legendary Creature,Ogre Warrior,Worldwake,Rare,5,Red,True,False,True,True,b'Paul Bonner',1.43
+Mordant Dragon,Creature,Dragon,Worldwake,Rare,6,Red,True,False,True,True,b'Scott Chou',0.34
+Quest for the Goblin Lord,Enchantment,None,Worldwake,Uncommon,1,Red,True,False,True,False,b'Jesper Ejsing',0.9
+Ricochet Trap,Instant,Trap,Worldwake,Uncommon,4,Red,True,False,True,False,b'Jaime Jones',0.37
+Roiling Terrain,Sorcery,None,Worldwake,Common,4,Red,True,False,True,False,b'Steve Prescott',0.21
+Rumbling Aftershocks,Enchantment,None,Worldwake,Uncommon,5,Red,True,False,True,False,b'Tomasz Jedruszek',0.04
+Searing Blaze,Instant,None,Worldwake,Common,2,Red,True,False,True,True,b'James Paick',0.75
+Skitter of Lizards,Creature,Lizard,Worldwake,Common,1,Red,True,False,True,True,b'Warren Mahy',0.06
+Slavering Nulls,Creature,Goblin Zombie,Worldwake,Uncommon,2,Red,True,False,True,True,b'Dave Kendall',0.1
+Stone Idol Trap,Instant,Trap,Worldwake,Rare,6,Red,True,False,True,False,b'Jung Park',0.13
+Tuktuk Scrapper,Creature,Goblin Artificer Ally,Worldwake,Uncommon,4,Red,True,False,True,False,b'Matt Cavotta',0.28
+Arbor Elf,Creature,Elf Druid,Worldwake,Common,1,Green,True,False,True,True,b'rk post',0.34
+Avenger of Zendikar,Creature,Elemental,Worldwake,Mythic Rare,7,Green,True,False,True,True,b'Zoltan Boros',8.88
+Bestial Menace,Sorcery,None,Worldwake,Uncommon,5,Green,True,False,True,True,b'Andrew Robinson',0.07
+Canopy Cover,Enchantment,Aura,Worldwake,Uncommon,2,Green,True,False,True,False,b'Igor Kieryluk',0.34
+Explore,Sorcery,None,Worldwake,Common,2,Green,True,False,True,True,b'John Avon',0.27
+Feral Contest,Sorcery,None,Worldwake,Common,4,Green,True,False,True,False,b'Daarken',0.07
+Gnarlid Pack,Creature,Beast,Worldwake,Common,2,Green,True,False,True,True,b'Johann Bodin',0.07
+Grappler Spider,Creature,Spider,Worldwake,Common,2,Green,True,False,True,False,b'Austin Hsu',0.11
+Graypelt Hunter,Creature,Human Warrior Ally,Worldwake,Common,4,Green,True,False,True,True,b'Svetlin Velinov',0.08
+Groundswell,Instant,None,Worldwake,Common,1,Green,True,False,True,True,b'Chris Rahn',0.69
+Harabaz Druid,Creature,Human Druid Ally,Worldwake,Rare,2,Green,True,False,True,False,b'Wayne Reynolds',1.47
+Joraga Warcaller,Creature,Elf Warrior,Worldwake,Rare,1,Green,True,False,True,True,b'Steven Belledin',2.79
+Leatherback Baloth,Creature,Beast,Worldwake,Uncommon,3,Green,True,False,True,True,b'Dave Kendall',0.37
+Nature's Claim,Instant,None,Worldwake,Common,1,Green,True,False,True,True,b'Daarken',0.37
+"Omnath, Locus of Mana",Legendary Creature,Elemental,Worldwake,Mythic Rare,3,Green,True,False,True,True,b'Mike Bierek',19.2
+Quest for Renewal,Enchantment,None,Worldwake,Uncommon,2,Green,True,False,True,False,b'Tomasz Jedruszek',1.29
+Slingbow Trap,Instant,Trap,Worldwake,Uncommon,4,Green,True,False,True,False,b'Daniel Ljunggren',0.02
+Snapping Creeper,Creature,Plant,Worldwake,Common,3,Green,True,False,True,False,b'Cyril Van Der Haegen',0.05
+Strength of the Tajuru,Instant,None,Worldwake,Rare,3,Green,True,False,True,True,b'Christopher Moeller',0.61
+Summit Apes,Creature,Ape,Worldwake,Uncommon,4,Green,True,False,True,False,b'V\xc3\xa9ronique Meignaud',0.08
+Terastodon,Creature,Elephant,Worldwake,Rare,8,Green,True,False,True,True,b'Lars Grant-West',0.74
+Vastwood Animist,Creature,Elf Shaman Ally,Worldwake,Uncommon,3,Green,True,False,True,False,b'Raymond Swanland',0.14
+Vastwood Zendikon,Enchantment,Aura,Worldwake,Common,5,Green,True,False,True,True,b'Rob Alexander',0.05
+Wolfbriar Elemental,Creature,Elemental,Worldwake,Rare,4,Green,True,False,True,True,b'Chippy',0.38
+Novablast Wurm,Creature,Wurm,Worldwake,Mythic Rare,7,Gold,True,False,True,False,b'Michael Komarck',1.79
+"Wrexial, the Risen Deep",Legendary Creature,Kraken,Worldwake,Mythic Rare,6,Gold,True,False,True,True,b'Eric Deschamps',2.34
+Amulet of Vigor,Artifact,None,Worldwake,Rare,1,Colorless,True,False,True,True,b'Warren Mahy',15.93
+Basilisk Collar,Artifact,Equipment,Worldwake,Rare,1,Colorless,True,False,True,True,b'Howard Lyon',5.55
+Everflowing Chalice,Artifact,None,Worldwake,Uncommon,0,Colorless,True,False,True,True,b'Steve Argyle',1.66
+Hammer of Ruin,Artifact,Equipment,Worldwake,Uncommon,2,Colorless,True,False,True,False,b'Vincent Proce',0.11
+Hedron Rover,Artifact Creature,Construct,Worldwake,Common,4,Colorless,True,False,True,False,b'Jason Felix',0.15
+Kitesail,Artifact,Equipment,Worldwake,Common,2,Colorless,True,False,True,True,b'Cyril Van Der Haegen',0.08
+Lodestone Golem,Artifact Creature,Golem,Worldwake,Rare,4,Colorless,True,False,True,True,b'Chris Rahn',0.58
+Pilgrim's Eye,Artifact Creature,Thopter,Worldwake,Common,3,Colorless,True,False,True,True,b'Dan Scott',0.13
+Razor Boomerang,Artifact,Equipment,Worldwake,Uncommon,3,Colorless,True,False,True,False,b'Franz Vohwinkel',0.17
+Seer's Sundial,Artifact,None,Worldwake,Rare,4,Colorless,True,False,True,True,b'Franz Vohwinkel',0.21
+Walking Atlas,Artifact Creature,Construct,Worldwake,Common,2,Colorless,True,False,True,False,b'Rob Alexander',0.45
+Bojuka Bog,Land,None,Worldwake,Common,0,Colorless,True,False,True,True,b'Howard Lyon',1.5
+Celestial Colonnade,Land,None,Worldwake,Rare,0,Colorless,True,False,True,True,b'Eric Deschamps',5.21
+Creeping Tar Pit,Land,None,Worldwake,Rare,0,Colorless,True,False,True,True,b'Jason Felix',3.16
+Dread Statuary,Land,None,Worldwake,Uncommon,0,Colorless,True,False,True,True,b'Jason A. Engle',0.14
+Eye of Ugin,Legendary Land,None,Worldwake,Mythic Rare,0,Colorless,False,False,True,True,b'James Paick',8.97
+Halimar Depths,Land,None,Worldwake,Common,0,Colorless,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.56
+Khalni Garden,Land,None,Worldwake,Common,0,Colorless,True,False,True,True,b'Ryan Pancoast',0.19
+Lavaclaw Reaches,Land,None,Worldwake,Rare,0,Colorless,True,False,True,True,b'V\xc3\xa9ronique Meignaud',0.8
+Quicksand,Land,None,Worldwake,Common,0,Colorless,True,False,True,True,b'Matt Stewart',0.13
+Raging Ravine,Land,None,Worldwake,Rare,0,Colorless,True,False,True,True,b'Todd Lockwood',2.58
+Sejiri Steppe,Land,None,Worldwake,Common,0,Colorless,True,False,True,True,b'Anthony Francisco',0.15
+Smoldering Spires,Land,None,Worldwake,Common,0,Colorless,True,False,True,True,b'Rob Alexander',0.09
+Stirring Wildwood,Land,None,Worldwake,Rare,0,Colorless,True,False,True,True,b'Eric Deschamps',0.52
+Tectonic Edge,Land,None,Worldwake,Uncommon,0,Colorless,True,False,True,True,b'Vincent Proce',0.85

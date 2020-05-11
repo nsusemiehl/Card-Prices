@@ -1,0 +1,203 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Abundant Maw,Creature,Eldrazi Leech,Eldritch Moon,Uncommon,8,Colorless,True,False,True,False,b'Greg Staples',0.12
+Decimator of the Provinces,Creature,Eldrazi Boar,Eldritch Moon,Mythic Rare,1,Colorless,True,False,True,True,b'Svetlin Velinov',1.54
+Distended Mindbender,Creature,Eldrazi Insect,Eldritch Moon,Rare,8,Colorless,True,False,True,True,b'Yohann Schepacz',0.3
+Drownyard Behemoth,Creature,Eldrazi Crab,Eldritch Moon,Uncommon,9,Colorless,True,False,True,False,b'Jason Kang',0.09
+Elder Deep-Fiend,Creature,Eldrazi Octopus,Eldritch Moon,Rare,8,Colorless,True,False,True,True,b'Jason Felix',1.06
+"Emrakul, the Promised End",Legendary Creature,Eldrazi,Eldritch Moon,Mythic Rare,2,Colorless,True,False,True,True,b'Jaime Jones',38.11
+Eternal Scourge,Creature,Eldrazi Horror,Eldritch Moon,Rare,3,Colorless,True,False,True,True,b'Winona Nelson',0.63
+It of the Horrid Swarm,Creature,Eldrazi Insect,Eldritch Moon,Common,8,Colorless,True,False,True,False,b'Jason Felix',0.04
+Lashweed Lurker,Creature,Eldrazi Horror,Eldritch Moon,Uncommon,8,Colorless,True,False,True,False,b'Igor Kieryluk',0.07
+Mockery of Nature,Creature,Eldrazi Beast,Eldritch Moon,Uncommon,9,Colorless,True,False,True,False,b'James Ryman',0.09
+Vexing Scuttler,Creature,Eldrazi Crab,Eldritch Moon,Uncommon,8,Colorless,True,False,True,False,b'James Paick',0.1
+Wretched Gryff,Creature,Eldrazi Hippogriff,Eldritch Moon,Common,7,Colorless,True,False,True,True,b'Darek Zabrocki',0.11
+Blessed Alliance,Instant,None,Eldritch Moon,Uncommon,2,White,True,False,True,False,b'Johann Bodin',0.43
+Borrowed Grace,Instant,None,Eldritch Moon,Common,3,White,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.05
+Choking Restraints,Enchantment,Aura,Eldritch Moon,Common,3,White,True,False,True,False,b'John Stanko',0.04
+Collective Effort,Sorcery,None,Eldritch Moon,Rare,3,White,True,False,True,True,b'Eric Deschamps',0.33
+Courageous Outrider,Creature,Human Scout,Eldritch Moon,Uncommon,4,White,True,False,True,False,b'Ryan Alexander Lee',0.05
+Dawn Gryff,Creature,Hippogriff,Eldritch Moon,Common,3,White,True,False,True,False,b'Christine Choi',0.03
+Deploy the Gatewatch,Sorcery,None,Eldritch Moon,Mythic Rare,6,White,True,False,True,True,b'Wesley Burt',0.77
+Desperate Sentry,Creature,Human Soldier,Eldritch Moon,Common,3,White,True,False,True,True,b'Mathias Kollros',0.05
+Drogskol Shieldmate,Creature,Spirit Soldier,Eldritch Moon,Uncommon,3,White,True,False,True,False,b'Nils Hamm',0.04
+Extricator of Sin,Creature,Human Cleric,Eldritch Moon,Uncommon,3,White,True,False,True,False,b'Craig J Spearing',0.1
+Faith Unbroken,Enchantment,Aura,Eldritch Moon,Uncommon,4,White,True,False,True,False,b'Kev Walker',0.1
+Faithbearer Paladin,Creature,Human Knight,Eldritch Moon,Common,5,White,True,False,True,True,b'Aaron Miller',0.03
+Fiend Binder,Creature,Human Soldier,Eldritch Moon,Common,4,White,True,False,True,True,b'David Gaillet',0.03
+Geist of the Lonely Vigil,Creature,Spirit Cleric,Eldritch Moon,Uncommon,2,White,True,False,True,False,b'Ryan Yee',0.05
+"Gisela, the Broken Blade",Legendary Creature,Angel Horror,Eldritch Moon,Mythic Rare,4,White,True,False,True,True,b'Clint Cearley',10.18
+Give No Ground,Instant,None,Eldritch Moon,Uncommon,4,White,True,False,True,False,b'Tyler Jacobson',0.07
+Guardian of Pilgrims,Creature,Spirit Cleric,Eldritch Moon,Common,2,White,True,False,True,False,b'Noah Bradley',0.04
+Ironclad Slayer,Creature,Human Warrior,Eldritch Moon,Common,3,White,True,False,True,False,b'Ryan Pancoast',0.09
+Ironwright's Cleansing,Sorcery,None,Eldritch Moon,Common,3,White,True,False,True,False,b'John Stanko',0.02
+Lone Rider,Creature,Human Knight,Eldritch Moon,Uncommon,2,White,True,False,True,False,b'Daarken',0.42
+Long Road Home,Instant,None,Eldritch Moon,Uncommon,2,White,True,False,True,True,b'Sidharth Chaturvedi',0.11
+Lunarch Mantle,Enchantment,Aura,Eldritch Moon,Common,2,White,True,False,True,True,b'Anastasia Ovchinnikova',0.03
+Peace of Mind,Enchantment,None,Eldritch Moon,Uncommon,2,White,True,False,True,True,b'Christopher Moeller',0.07
+Providence,Sorcery,None,Eldritch Moon,Rare,7,White,True,False,True,True,b'Zack Stella',0.08
+Repel the Abominable,Instant,None,Eldritch Moon,Uncommon,2,White,True,False,True,False,b'Dan Scott',0.13
+Sanctifier of Souls,Creature,Human Cleric,Eldritch Moon,Rare,4,White,True,False,True,True,b'Jesper Ejsing',0.07
+Selfless Spirit,Creature,Spirit Cleric,Eldritch Moon,Rare,2,White,True,False,True,True,b'Seb McKinnon',8.84
+Sigarda's Aid,Enchantment,None,Eldritch Moon,Rare,1,White,True,False,True,True,b'Howard Lyon',4.23
+Sigardian Priest,Creature,Human Cleric,Eldritch Moon,Common,2,White,True,False,True,False,b'Terese Nielsen',0.03
+Spectral Reserves,Sorcery,None,Eldritch Moon,Common,4,White,True,False,True,False,b'Seb McKinnon',0.04
+Steadfast Cathar,Creature,Human Soldier,Eldritch Moon,Common,2,White,True,False,True,False,b'Dan Scott',0.03
+Subjugator Angel,Creature,Angel,Eldritch Moon,Uncommon,6,White,True,False,True,True,b'Lius Lasahido',0.13
+"Thalia, Heretic Cathar",Legendary Creature,Human Soldier,Eldritch Moon,Rare,3,White,True,False,True,True,b'Magali Villeneuve',1.93
+Thalia's Lancers,Creature,Human Knight,Eldritch Moon,Rare,5,White,True,False,True,True,b'David Palumbo',0.46
+Thraben Standard Bearer,Creature,Human Soldier,Eldritch Moon,Common,1,White,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.03
+Advanced Stitchwing,Creature,Zombie Horror,Eldritch Moon,Uncommon,5,Blue,True,False,True,True,b'Johann Bodin',0.11
+Chilling Grasp,Instant,None,Eldritch Moon,Uncommon,3,Blue,True,False,True,False,b'Seb McKinnon',0.05
+Coax from the Blind Eternities,Sorcery,None,Eldritch Moon,Rare,3,Blue,True,False,True,True,b'Jaime Jones',0.19
+Contingency Plan,Sorcery,None,Eldritch Moon,Common,2,Blue,True,False,True,True,b'Ryan Yee',0.12
+Convolute,Instant,None,Eldritch Moon,Common,3,Blue,True,True,True,True,b'Viktor Titov',0.03
+Curious Homunculus,Creature,Homunculus,Eldritch Moon,Uncommon,2,Blue,True,False,True,False,b'Filip Burburan',0.33
+Displace,Instant,None,Eldritch Moon,Common,3,Blue,True,False,True,True,b'Clint Cearley',0.24
+Docent of Perfection,Creature,Insect Horror,Eldritch Moon,Rare,5,Blue,True,False,True,True,b'Nils Hamm',1.23
+Drag Under,Sorcery,None,Eldritch Moon,Common,3,Blue,True,False,True,True,b'Tianhua X',0.05
+Enlightened Maniac,Creature,Human,Eldritch Moon,Common,4,Blue,True,False,True,True,b'Jaime Jones',0.05
+Exultant Cultist,Creature,Human Wizard,Eldritch Moon,Common,3,Blue,True,False,True,False,b'Joseph Meehan',0.03
+Fogwalker,Creature,Spirit,Eldritch Moon,Common,2,Blue,True,False,True,True,b'Seb McKinnon',0.05
+Fortune's Favor,Instant,None,Eldritch Moon,Uncommon,4,Blue,True,False,True,True,b'Yohann Schepacz',0.08
+Geist of the Archives,Creature,Spirit,Eldritch Moon,Uncommon,3,Blue,True,False,True,False,b'Lake Hurwitz',0.2
+Grizzled Angler,Creature,Human,Eldritch Moon,Uncommon,3,Blue,True,False,True,False,b'Kev Walker',0.04
+Identity Thief,Creature,Shapeshifter,Eldritch Moon,Rare,4,Blue,True,False,True,True,b'Magali Villeneuve',0.18
+Imprisoned in the Moon,Enchantment,Aura,Eldritch Moon,Rare,3,Blue,True,False,True,True,b'Ryan Alexander Lee',2.65
+Ingenious Skaab,Creature,Zombie Horror,Eldritch Moon,Common,3,Blue,True,False,True,False,b'Jesper Ejsing',0.05
+Laboratory Brute,Creature,Zombie Horror,Eldritch Moon,Common,4,Blue,True,False,True,True,b'Yeong-Hao Han',0.03
+Lunar Force,Enchantment,None,Eldritch Moon,Uncommon,3,Blue,True,False,True,False,b'Eric Deschamps',0.14
+Mausoleum Wanderer,Creature,Spirit,Eldritch Moon,Rare,1,Blue,True,False,True,True,b'Kieran Yanner',2.45
+Mind's Dilation,Enchantment,None,Eldritch Moon,Mythic Rare,7,Blue,True,False,True,True,b'Iain McCaig',4.71
+Nebelgast Herald,Creature,Spirit,Eldritch Moon,Uncommon,3,Blue,True,False,True,False,b'Zezhou Chen',1.03
+Niblis of Frost,Creature,Spirit,Eldritch Moon,Rare,4,Blue,True,False,True,True,b'Josu Hernaiz',0.27
+Scour the Laboratory,Instant,None,Eldritch Moon,Uncommon,6,Blue,True,False,True,False,b'Greg Opalinski',0.05
+Spontaneous Mutation,Enchantment,Aura,Eldritch Moon,Common,1,Blue,True,False,True,False,b'Christopher Moeller',0.04
+Summary Dismissal,Instant,None,Eldritch Moon,Rare,4,Blue,True,False,True,True,b'Igor Kieryluk',0.38
+Take Inventory,Sorcery,None,Eldritch Moon,Common,2,Blue,True,False,True,False,b'Greg Staples',0.09
+Tattered Haunter,Creature,Spirit,Eldritch Moon,Common,2,Blue,True,False,True,False,b'Nils Hamm',0.03
+Turn Aside,Instant,None,Eldritch Moon,Common,1,Blue,True,False,True,True,b'Jaime Jones',0.15
+Unsubstantiate,Instant,None,Eldritch Moon,Uncommon,2,Blue,True,False,True,True,b'Victor Adame Minguez',0.25
+Wharf Infiltrator,Creature,Human Horror,Eldritch Moon,Rare,2,Blue,True,False,True,True,b'Daarken',0.23
+Boon of Emrakul,Enchantment,Aura,Eldritch Moon,Common,3,Black,True,False,True,True,b'Svetlin Velinov',0.02
+Borrowed Malevolence,Instant,None,Eldritch Moon,Common,1,Black,True,False,True,False,b'Volkan Ba\xc7\xb5a',0.02
+Cemetery Recruitment,Sorcery,None,Eldritch Moon,Common,2,Black,True,False,True,False,b'Kieran Yanner',0.12
+Certain Death,Sorcery,None,Eldritch Moon,Common,6,Black,True,False,True,True,b'Kev Walker',0.05
+Collective Brutality,Sorcery,None,Eldritch Moon,Rare,2,Black,True,False,True,True,b'Johann Bodin',5.41
+Cryptbreaker,Creature,Zombie,Eldritch Moon,Rare,1,Black,True,False,True,True,b'Darek Zabrocki',3.01
+Dark Salvation,Sorcery,None,Eldritch Moon,Rare,3,Black,True,False,True,True,b'Cynthia Sheppard',0.73
+Dusk Feaster,Creature,Vampire,Eldritch Moon,Uncommon,7,Black,True,False,True,False,b'Anastasia Ovchinnikova',0.05
+Gavony Unhallowed,Creature,Zombie,Eldritch Moon,Common,4,Black,True,False,True,True,b'Christopher Moeller',0.07
+Graf Harvest,Enchantment,None,Eldritch Moon,Uncommon,1,Black,True,False,True,False,b'Lake Hurwitz',0.19
+Graf Rats,Creature,Rat,Eldritch Moon,Common,2,Black,True,False,True,False,b'Jason Felix',0.1
+Haunted Dead,Creature,Zombie,Eldritch Moon,Uncommon,4,Black,True,False,True,False,b'Lake Hurwitz',0.28
+"Liliana, the Last Hope",Legendary Planeswalker,Liliana,Eldritch Moon,Mythic Rare,3,Black,True,False,True,True,b'Anna Steinbauer',31.37
+Liliana's Elite,Creature,Zombie,Eldritch Moon,Uncommon,3,Black,True,False,True,False,b'Deruchenko Alexander',0.09
+Markov Crusader,Creature,Vampire Knight,Eldritch Moon,Uncommon,5,Black,True,False,True,False,b'Johannes Voss',0.07
+Murder,Instant,None,Eldritch Moon,Uncommon,3,Black,True,True,True,True,b'Tyler Jacobson',0.11
+Noosegraf Mob,Creature,Zombie,Eldritch Moon,Rare,6,Black,True,False,True,True,b'Seb McKinnon',0.29
+Oath of Liliana,Legendary Enchantment,None,Eldritch Moon,Rare,3,Black,True,False,True,True,b'Wesley Burt',0.3
+Olivia's Dragoon,Creature,Vampire Berserker,Eldritch Moon,Common,2,Black,True,False,True,True,b'Chris Rallis',0.08
+Prying Questions,Sorcery,None,Eldritch Moon,Uncommon,3,Black,True,False,True,False,b'David Palumbo',0.05
+Rise from the Grave,Sorcery,None,Eldritch Moon,Uncommon,5,Black,True,False,True,True,b'Kieran Yanner',0.1
+Ruthless Disposal,Sorcery,None,Eldritch Moon,Uncommon,5,Black,True,False,True,False,b'Dave Kendall',0.07
+Skirsdag Supplicant,Creature,Human Cleric,Eldritch Moon,Common,3,Black,True,False,True,False,b'Anastasia Ovchinnikova',0.03
+Strange Augmentation,Enchantment,Aura,Eldritch Moon,Common,1,Black,True,False,True,False,b'Josu Hernaiz',0.02
+Stromkirk Condemned,Creature,Vampire Horror,Eldritch Moon,Rare,2,Black,True,False,True,True,b'Magali Villeneuve',0.35
+Succumb to Temptation,Instant,None,Eldritch Moon,Common,3,Black,True,False,True,False,b'Winona Nelson',0.14
+Thraben Foulbloods,Creature,Zombie Hound,Eldritch Moon,Common,3,Black,True,False,True,True,b'Deruchenko Alexander',0.02
+Tree of Perdition,Creature,Plant,Eldritch Moon,Mythic Rare,4,Black,True,False,True,True,b'Jung Park',5.57
+Vampire Cutthroat,Creature,Vampire Rogue,Eldritch Moon,Uncommon,1,Black,True,False,True,False,b'Matt Stewart',0.63
+Voldaren Pariah,Creature,Vampire Horror,Eldritch Moon,Rare,5,Black,True,False,True,True,b'James Ryman',1.75
+Wailing Ghoul,Creature,Zombie,Eldritch Moon,Common,2,Black,True,False,True,False,b'Svetlin Velinov',0.05
+Weirded Vampire,Creature,Vampire Horror,Eldritch Moon,Common,4,Black,True,False,True,True,b'David Gaillet',0.09
+Whispers of Emrakul,Sorcery,None,Eldritch Moon,Uncommon,2,Black,True,False,True,False,b'Jason Rainville',0.1
+Abandon Reason,Instant,None,Eldritch Moon,Uncommon,3,Red,True,False,True,False,b'Josh Hass',0.11
+Alchemist's Greeting,Sorcery,None,Eldritch Moon,Common,5,Red,True,False,True,True,b'Jakub Kasper',0.06
+Assembled Alphas,Creature,Wolf,Eldritch Moon,Rare,6,Red,True,False,True,True,b'Christopher Moeller',0.15
+Bedlam Reveler,Creature,Devil Horror,Eldritch Moon,Rare,8,Red,True,False,True,True,b'Jama Jurabaev',3.59
+Blood Mist,Enchantment,None,Eldritch Moon,Uncommon,4,Red,True,False,True,False,b'Joseph Meehan',0.19
+Bold Impaler,Creature,Vampire Knight,Eldritch Moon,Common,1,Red,True,False,True,False,b'Karl Kopinski',0.04
+Borrowed Hostility,Instant,None,Eldritch Moon,Common,1,Red,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.12
+Brazen Wolves,Creature,Wolf,Eldritch Moon,Common,3,Red,True,False,True,True,b'Nils Hamm',0.03
+Collective Defiance,Sorcery,None,Eldritch Moon,Rare,3,Red,True,False,True,True,b'Kieran Yanner',0.56
+Conduit of Storms,Creature,Werewolf Horror,Eldritch Moon,Uncommon,3,Red,True,False,True,False,b'Raymond Swanland',0.11
+Deranged Whelp,Creature,Wolf,Eldritch Moon,Uncommon,2,Red,True,False,True,False,b'Zoltan Boros',0.05
+Distemper of the Blood,Sorcery,None,Eldritch Moon,Common,2,Red,True,False,True,True,b'Ben Maier',0.1
+Falkenrath Reaver,Creature,Vampire,Eldritch Moon,Common,2,Red,True,False,True,True,b'Daarken',0.04
+Furyblade Vampire,Creature,Vampire Berserker,Eldritch Moon,Uncommon,2,Red,True,False,True,False,b'Lius Lasahido',0.14
+Galvanic Bombardment,Instant,None,Eldritch Moon,Common,1,Red,True,False,True,False,b'Terese Nielsen',0.07
+Harmless Offering,Sorcery,None,Eldritch Moon,Rare,3,Red,True,False,True,True,b'Howard Lyon',0.34
+Impetuous Devils,Creature,Devil,Eldritch Moon,Rare,4,Red,True,False,True,True,b'Filip Burburan',0.15
+Incendiary Flow,Sorcery,None,Eldritch Moon,Uncommon,2,Red,True,False,True,True,b'Raymond Swanland',0.12
+Insatiable Gorgers,Creature,Vampire Berserker,Eldritch Moon,Uncommon,4,Red,True,False,True,False,b'Nils Hamm',0.1
+Make Mischief,Sorcery,None,Eldritch Moon,Common,3,Red,True,False,True,False,b'Ben Maier',0.08
+Mirrorwing Dragon,Creature,Dragon,Eldritch Moon,Mythic Rare,5,Red,True,False,True,True,b'Min Yum',1.43
+Nahiri's Wrath,Sorcery,None,Eldritch Moon,Mythic Rare,3,Red,True,False,True,True,b'Chris Rahn',0.51
+Otherworldly Outburst,Instant,None,Eldritch Moon,Common,1,Red,True,False,True,False,b'Kieran Yanner',0.1
+Prophetic Ravings,Enchantment,Aura,Eldritch Moon,Common,1,Red,True,False,True,True,b'Lucas Graciano',0.05
+Savage Alliance,Instant,None,Eldritch Moon,Uncommon,3,Red,True,False,True,False,b'Johann Bodin',0.1
+Shreds of Sanity,Sorcery,None,Eldritch Moon,Uncommon,3,Red,True,False,True,False,b'Yeong-Hao Han',0.15
+Smoldering Werewolf,Creature,Werewolf Horror,Eldritch Moon,Uncommon,4,Red,True,False,True,False,b'Zack Stella',0.11
+Spreading Flames,Instant,None,Eldritch Moon,Uncommon,7,Red,True,False,True,False,b'Chase Stone',0.04
+Stensia Banquet,Sorcery,None,Eldritch Moon,Common,3,Red,True,False,True,False,b'Greg Opalinski',0.06
+Stensia Innkeeper,Creature,Vampire,Eldritch Moon,Common,4,Red,True,False,True,False,b'Winona Nelson',0.05
+Stromkirk Occultist,Creature,Vampire Horror,Eldritch Moon,Rare,3,Red,True,False,True,True,b'Magali Villeneuve',0.14
+Thermo-Alchemist,Creature,Human Shaman,Eldritch Moon,Common,2,Red,True,False,True,True,b'Raymond Swanland',0.22
+Vildin-Pack Outcast,Creature,Werewolf Horror,Eldritch Moon,Common,5,Red,True,False,True,False,b'Jose Cabrera',0.07
+Weaver of Lightning,Creature,Human Shaman,Eldritch Moon,Uncommon,3,Red,True,False,True,False,b'John Stanko',0.07
+Backwoods Survivalists,Creature,Human Warrior,Eldritch Moon,Common,4,Green,True,False,True,True,b'Chris Rallis',0.02
+Bloodbriar,Creature,Plant Elemental,Eldritch Moon,Common,3,Green,True,False,True,False,b'Tomasz Jedruszek',0.08
+Clear Shot,Instant,None,Eldritch Moon,Uncommon,3,Green,True,False,True,False,b'Craig J Spearing',0.09
+Crop Sigil,Enchantment,None,Eldritch Moon,Uncommon,1,Green,True,False,True,False,b'Titus Lunter',0.13
+Crossroads Consecrator,Creature,Human Cleric,Eldritch Moon,Common,1,Green,True,False,True,True,b'David Gaillet',0.02
+Eldritch Evolution,Sorcery,None,Eldritch Moon,Rare,3,Green,True,False,True,True,b'Jason Rainville',2.34
+Emrakul's Evangel,Creature,Human Horror,Eldritch Moon,Rare,3,Green,True,False,True,True,b'Jason Felix',0.14
+Emrakul's Influence,Enchantment,None,Eldritch Moon,Uncommon,4,Green,True,False,True,False,b'Ryan Alexander Lee',0.07
+Foul Emissary,Creature,Human Horror,Eldritch Moon,Uncommon,3,Green,True,False,True,False,b'Dan Scott',0.05
+Gnarlwood Dryad,Creature,Dryad Horror,Eldritch Moon,Uncommon,1,Green,True,False,True,False,b'Raymond Swanland',0.17
+Grapple with the Past,Instant,None,Eldritch Moon,Common,2,Green,True,False,True,True,b'Howard Lyon',0.19
+Hamlet Captain,Creature,Human Warrior,Eldritch Moon,Uncommon,2,Green,True,False,True,True,b'Wayne Reynolds',0.07
+"Ishkanah, Grafwidow",Legendary Creature,Spider,Eldritch Moon,Mythic Rare,5,Green,True,False,True,True,b'Christine Choi',2.51
+Kessig Prowler,Creature,Werewolf Horror,Eldritch Moon,Uncommon,1,Green,True,False,True,False,b'Slawomir Maniak',0.16
+Noose Constrictor,Creature,Snake,Eldritch Moon,Uncommon,2,Green,True,False,True,True,b'Igor Kieryluk',0.14
+Permeating Mass,Creature,Spirit,Eldritch Moon,Rare,1,Green,True,False,True,True,b'Joseph Meehan',0.34
+Prey Upon,Sorcery,None,Eldritch Moon,Common,1,Green,True,True,True,True,b'Dave Kendall',0.08
+Primal Druid,Creature,Human Druid,Eldritch Moon,Common,2,Green,True,False,True,False,b'Tomasz Jedruszek',0.11
+Shrill Howler,Creature,Werewolf Horror,Eldritch Moon,Uncommon,3,Green,True,False,True,False,b'Matt Stewart',0.12
+Somberwald Stag,Creature,Elk,Eldritch Moon,Uncommon,5,Green,True,False,True,False,b'Lake Hurwitz',0.15
+Spirit of the Hunt,Creature,Wolf Spirit,Eldritch Moon,Rare,3,Green,True,False,True,True,b'Bastien L. Deharme',0.34
+Splendid Reclamation,Sorcery,None,Eldritch Moon,Rare,4,Green,True,False,True,True,b'Wesley Burt',2.49
+Springsage Ritual,Instant,None,Eldritch Moon,Common,4,Green,True,False,True,False,b'Ben Maier',0.03
+Swift Spinner,Creature,Spider,Eldritch Moon,Common,4,Green,True,False,True,False,b'Nils Hamm',0.06
+Tangleclaw Werewolf,Creature,Werewolf Horror,Eldritch Moon,Uncommon,4,Green,True,False,True,False,b'Steven Belledin',0.13
+Ulvenwald Captive,Creature,Werewolf Horror,Eldritch Moon,Common,2,Green,True,False,True,False,b'Chris Rahn',0.18
+Ulvenwald Observer,Creature,Treefolk,Eldritch Moon,Rare,6,Green,True,False,True,True,b'Jaime Jones',0.21
+Waxing Moon,Instant,None,Eldritch Moon,Common,2,Green,True,False,True,False,b'Adam Paquette',0.11
+Wolfkin Bond,Enchantment,Aura,Eldritch Moon,Common,5,Green,True,True,True,True,b'Lindsey Look',0.04
+Woodcutter's Grit,Instant,None,Eldritch Moon,Common,3,Green,True,False,True,False,b'Anthony Palumbo',0.03
+Woodland Patrol,Creature,Human Scout,Eldritch Moon,Common,3,Green,True,False,True,False,b'James Ryman',0.02
+Bloodhall Priest,Creature,Vampire Cleric,Eldritch Moon,Rare,4,Gold,True,False,True,True,b'Mark Winters',0.18
+Campaign of Vengeance,Enchantment,None,Eldritch Moon,Uncommon,5,Gold,True,False,True,True,b'Igor Kieryluk',0.13
+Gisa and Geralf,Legendary Creature,Human Wizard,Eldritch Moon,Mythic Rare,4,Gold,True,False,True,True,b'Karla Ortiz',1.72
+Grim Flayer,Creature,Human Warrior,Eldritch Moon,Mythic Rare,2,Gold,True,False,True,True,b'Mathias Kollros',4.97
+Heron's Grace Champion,Creature,Human Knight,Eldritch Moon,Rare,4,Gold,True,False,True,True,b'Todd Lockwood',0.19
+Mercurial Geists,Creature,Spirit,Eldritch Moon,Uncommon,4,Gold,True,False,True,True,b'Lake Hurwitz',0.07
+Mournwillow,Creature,Plant Skeleton,Eldritch Moon,Uncommon,3,Gold,True,False,True,False,b'Jeff Simpson',0.07
+Ride Down,Instant,None,Eldritch Moon,Uncommon,2,Gold,True,False,True,True,b'David Gaillet',0.09
+Spell Queller,Creature,Spirit,Eldritch Moon,Rare,3,Gold,True,False,True,True,b'Adam Paquette',6.27
+"Tamiyo, Field Researcher",Legendary Planeswalker,Tamiyo,Eldritch Moon,Mythic Rare,4,Gold,True,False,True,True,b'Tianhua X',5.0
+Ulrich of the Krallenhorde,Legendary Creature,Human Werewolf,Eldritch Moon,Mythic Rare,5,Gold,True,False,True,True,b'Slawomir Maniak',0.82
+Cathar's Shield,Artifact,Equipment,Eldritch Moon,Common,0,Colorless,True,False,True,False,b'Mark Zug',0.13
+Cryptolith Fragment,Artifact,None,Eldritch Moon,Uncommon,3,Colorless,True,False,True,False,b'John Avon',0.25
+Cultist's Staff,Artifact,Equipment,Eldritch Moon,Common,2,Colorless,True,False,True,False,b'Adam Paquette',0.03
+Field Creeper,Artifact Creature,Scarecrow,Eldritch Moon,Common,2,Colorless,True,False,True,True,b'Anthony Palumbo',0.03
+Geist-Fueled Scarecrow,Artifact Creature,Scarecrow,Eldritch Moon,Uncommon,4,Colorless,True,False,True,False,b'Adam Paquette',0.11
+Lupine Prototype,Artifact Creature,Wolf Construct,Eldritch Moon,Rare,2,Colorless,True,False,True,True,b'Deruchenko Alexander',0.32
+Slayer's Cleaver,Artifact,Equipment,Eldritch Moon,Uncommon,3,Colorless,True,False,True,False,b'Daniel Ljunggren',0.03
+Soul Separator,Artifact,None,Eldritch Moon,Rare,3,Colorless,True,False,True,True,b'Daarken',0.11
+Stitcher's Graft,Artifact,Equipment,Eldritch Moon,Rare,1,Colorless,True,False,True,True,b'Josh Hass',0.1
+Terrarion,Artifact,None,Eldritch Moon,Common,1,Colorless,True,False,True,True,b'Titus Lunter',0.14
+Thirsting Axe,Artifact,Equipment,Eldritch Moon,Uncommon,3,Colorless,True,False,True,False,b'Bastien L. Deharme',0.03
+Geier Reach Sanitarium,Legendary Land,None,Eldritch Moon,Rare,0,Colorless,True,False,True,True,b'Cliff Childs',0.93
+Hanweir Battlements,Land,None,Eldritch Moon,Rare,0,Colorless,True,False,True,True,b'Vincent Proce',1.34
+Nephalia Academy,Land,None,Eldritch Moon,Uncommon,0,Colorless,True,False,True,False,b'Adam Paquette',0.19

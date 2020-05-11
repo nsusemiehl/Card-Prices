@@ -1,0 +1,168 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Abeyance,Instant,None,Weatherlight,Rare,2,White,False,False,True,True,b'Thomas Gianni',4.11
+Alabaster Dragon,Creature,Dragon,Weatherlight,Rare,6,White,False,False,True,True,b'Bob Eggleton',0.53
+Alms,Enchantment,None,Weatherlight,Common,1,White,False,False,True,False,b'Rog\xc3\xa9rio Vilela',0.12
+Angelic Renewal,Enchantment,None,Weatherlight,Common,2,White,False,False,True,True,b'Rebecca Guay',0.24
+Ardent Militia,Creature,Human Soldier,Weatherlight,Common,5,White,True,False,True,True,b'Zina Saunders',0.03
+Argivian Find,Instant,None,Weatherlight,Uncommon,1,White,False,False,True,False,b'Roger Raupp',0.84
+Aura of Silence,Enchantment,None,Weatherlight,Uncommon,3,White,True,False,True,True,b'D. Alexander Gregory',3.61
+Benalish Infantry,Creature,Human Soldier,Weatherlight,Common,3,White,False,False,True,False,b'Dan Frazier',0.08
+Benalish Knight,Creature,Human Knight,Weatherlight,Common,3,White,True,False,True,True,b'Zina Saunders',0.11
+Benalish Missionary,Creature,Human Cleric,Weatherlight,Common,1,White,False,False,True,False,b'Pete Venters',0.06
+Debt of Loyalty,Instant,None,Weatherlight,Rare,3,White,False,False,True,False,b'Pete Venters',6.15
+Duskrider Falcon,Creature,Bird,Weatherlight,Common,2,White,False,False,True,False,b'Cecil Fernando',0.12
+Empyrial Armor,Enchantment,Aura,Weatherlight,Common,3,White,False,False,True,True,b'D. Alexander Gregory',0.25
+Foriysian Brigade,Creature,Human Soldier,Weatherlight,Uncommon,4,White,False,False,True,False,b'Kev Walker',0.11
+Gerrard's Wisdom,Sorcery,None,Weatherlight,Uncommon,4,White,False,False,True,True,b'Heather Hudson',0.17
+Guided Strike,Instant,None,Weatherlight,Common,2,White,False,False,True,True,b'Gary Leach',0.12
+Heavy Ballista,Creature,Human Soldier,Weatherlight,Common,4,White,False,False,True,True,b'Ron Spencer',0.09
+Inner Sanctum,Enchantment,None,Weatherlight,Rare,3,White,False,False,True,False,b'D. Alexander Gregory',0.56
+Kithkin Armor,Enchantment,Aura,Weatherlight,Common,1,White,False,False,True,False,b'Charles Gillespie',0.14
+Master of Arms,Creature,Human Soldier,Weatherlight,Uncommon,3,White,False,False,True,False,b'Dan Frazier',0.08
+Mistmoon Griffin,Creature,Griffin,Weatherlight,Uncommon,4,White,False,False,True,True,b'David A. Cherry',0.26
+Peacekeeper,Creature,Human,Weatherlight,Rare,3,White,False,False,True,False,b'Donato Giancola',5.25
+Revered Unicorn,Creature,Unicorn,Weatherlight,Uncommon,2,White,False,False,True,False,b'David A. Cherry',0.21
+Serenity,Enchantment,None,Weatherlight,Rare,2,White,False,False,True,True,b'Cliff Nielsen',1.82
+Serra's Blessing,Enchantment,None,Weatherlight,Uncommon,2,White,True,False,True,True,b'Rebecca Guay',0.48
+Soul Shepherd,Creature,Human Cleric,Weatherlight,Common,2,White,False,False,True,False,b'John Coulthart',0.08
+Southern Paladin,Creature,Human Knight,Weatherlight,Rare,4,White,False,False,True,True,b'Douglas Shuler',0.28
+Tariff,Sorcery,None,Weatherlight,Rare,2,White,False,False,True,True,b'Kev Walker',0.27
+Volunteer Reserves,Creature,Human Soldier,Weatherlight,Uncommon,2,White,False,False,True,True,b'Kev Walker',0.08
+Abduction,Enchantment,Aura,Weatherlight,Uncommon,4,Blue,False,False,True,True,b'Colin MacNeil',0.19
+Abjure,Instant,None,Weatherlight,Common,1,Blue,False,False,True,False,b'Ted Naifeh',0.31
+Ancestral Knowledge,Enchantment,None,Weatherlight,Rare,2,Blue,False,False,True,False,b'Colin MacNeil',1.97
+Apathy,Enchantment,Aura,Weatherlight,Common,1,Blue,False,False,True,False,b'Phil Foglio',0.07
+Argivian Restoration,Sorcery,None,Weatherlight,Uncommon,4,Blue,False,False,True,True,b'Roger Raupp',0.27
+Avizoa,Creature,Jellyfish,Weatherlight,Rare,4,Blue,False,False,True,False,b'Paolo Parente',0.36
+Cloud Djinn,Creature,Djinn,Weatherlight,Uncommon,6,Blue,False,False,True,True,b'Mike Dringenberg',0.12
+Disrupt,Instant,None,Weatherlight,Common,1,Blue,False,False,True,True,b'Adam Rex',0.19
+Ertai's Familiar,Creature,Illusion,Weatherlight,Rare,2,Blue,False,False,True,False,b'Kipling West',0.44
+Flux,Sorcery,None,Weatherlight,Common,3,Blue,False,False,True,True,b'Richard Kane Ferguson',0.25
+Fog Elemental,Creature,Elemental,Weatherlight,Common,3,Blue,True,False,True,True,b'Jon J Muth',0.05
+Mana Chains,Enchantment,Aura,Weatherlight,Common,1,Blue,False,False,True,False,b'Bryan Talbot',0.13
+Manta Ray,Creature,Fish,Weatherlight,Common,3,Blue,False,False,True,False,b'Una Fricker',0.05
+Merfolk Traders,Creature,Merfolk,Weatherlight,Common,2,Blue,False,False,True,False,b'DiTerlizzi',0.16
+Noble Benefactor,Creature,Human Cleric,Weatherlight,Uncommon,3,Blue,False,False,True,False,b'DiTerlizzi',0.34
+Ophidian,Creature,Snake,Weatherlight,Common,3,Blue,False,False,True,True,b'Cliff Nielsen',0.16
+Paradigm Shift,Sorcery,None,Weatherlight,Rare,2,Blue,False,False,True,False,b'Cliff Nielsen',11.4
+Pendrell Mists,Enchantment,None,Weatherlight,Rare,4,Blue,False,False,True,False,b'Andrew Robinson',4.29
+Phantom Warrior,Creature,Illusion Warrior,Weatherlight,Uncommon,3,Blue,True,True,True,True,b'John Matson',0.1
+Phantom Wings,Enchantment,Aura,Weatherlight,Common,2,Blue,True,False,True,True,b'Una Fricker',0.1
+Psychic Vortex,Enchantment,None,Weatherlight,Rare,4,Blue,False,False,True,False,b'Steve Luke',0.95
+Relearn,Sorcery,None,Weatherlight,Uncommon,3,Blue,False,False,True,True,b'Zina Saunders',0.21
+Sage Owl,Creature,Bird,Weatherlight,Common,2,Blue,True,False,True,True,b'Mark Poole',0.15
+Teferi's Veil,Enchantment,None,Weatherlight,Uncommon,2,Blue,False,False,True,False,b'Brom',0.56
+Timid Drake,Creature,Drake,Weatherlight,Uncommon,3,Blue,False,False,True,True,b'Mike Dringenberg',0.11
+Tolarian Drake,Creature,Drake,Weatherlight,Common,3,Blue,False,False,True,False,b'Mark Harrison',0.08
+Tolarian Entrancer,Creature,Human Wizard,Weatherlight,Rare,2,Blue,False,False,True,False,b'Bryan Talbot',1.24
+Tolarian Serpent,Creature,Serpent,Weatherlight,Rare,7,Blue,False,False,True,False,b'Stuart Griffin',0.78
+Vodalian Illusionist,Creature,Merfolk Wizard,Weatherlight,Uncommon,3,Blue,False,False,True,False,b'John Matson',0.41
+Abyssal Gatekeeper,Creature,Horror,Weatherlight,Common,2,Black,False,False,True,True,b'Mark Tedin',0.25
+Agonizing Memories,Sorcery,None,Weatherlight,Uncommon,4,Black,True,False,True,True,b'Mike Dringenberg',0.1
+Barrow Ghoul,Creature,Zombie,Weatherlight,Common,2,Black,False,False,True,False,b'Bryan Talbot',0.08
+Bone Dancer,Creature,Zombie,Weatherlight,Rare,3,Black,False,False,True,False,b'Scott Kirschner',1.34
+Buried Alive,Sorcery,None,Weatherlight,Uncommon,3,Black,False,False,True,True,b'Brian Horton',1.59
+Circling Vultures,Creature,Bird,Weatherlight,Uncommon,1,Black,False,False,True,False,b'Una Fricker',0.13
+Coils of the Medusa,Enchantment,Aura,Weatherlight,Common,2,Black,False,False,True,False,b'Darbury Stenderu',0.1
+Doomsday,Sorcery,None,Weatherlight,Rare,3,Black,False,False,True,True,b'Adrian Smith',11.2
+Fatal Blow,Instant,None,Weatherlight,Common,1,Black,False,False,True,True,b'George Pratt',0.09
+Festering Evil,Enchantment,None,Weatherlight,Uncommon,5,Black,False,False,True,False,b'John Matson',0.19
+Fledgling Djinn,Creature,Djinn,Weatherlight,Common,2,Black,False,False,True,True,b'Thomas Gianni',0.09
+Gallowbraid,Legendary Creature,Horror,Weatherlight,Rare,5,Black,False,False,True,False,b'Carl Critchlow',0.37
+Haunting Misery,Sorcery,None,Weatherlight,Common,3,Black,False,False,True,False,b'Gary Leach',0.17
+Hidden Horror,Creature,Horror,Weatherlight,Uncommon,3,Black,True,False,True,True,b'Clint Langley',0.1
+Infernal Tribute,Enchantment,None,Weatherlight,Rare,3,Black,False,False,True,False,b'Terese Nielsen',1.65
+Mischievous Poltergeist,Creature,Spirit,Weatherlight,Uncommon,3,Black,False,False,True,True,b'DiTerlizzi',0.22
+Morinfen,Legendary Creature,Horror,Weatherlight,Rare,5,Black,False,False,True,False,b'Carl Critchlow',0.36
+Necratog,Creature,Atog,Weatherlight,Uncommon,3,Black,False,False,True,True,b'Bryan Talbot',0.17
+Odylic Wraith,Creature,Wraith,Weatherlight,Uncommon,4,Black,False,False,True,False,b'Ian Miller',0.15
+Razortooth Rats,Creature,Rat,Weatherlight,Common,3,Black,True,False,True,True,b'Brian Horton',0.11
+Shadow Rider,Creature,Knight,Weatherlight,Common,4,Black,False,False,True,False,b'Pete Venters',0.16
+Shattered Crypt,Sorcery,None,Weatherlight,Common,3,Black,False,False,True,False,b'Gary Leach',0.1
+Spinning Darkness,Instant,None,Weatherlight,Common,6,Black,False,False,True,False,b'John Coulthart',0.12
+Strands of Night,Enchantment,None,Weatherlight,Uncommon,4,Black,False,False,True,True,b'Patrick Kochakji',0.43
+Tendrils of Despair,Sorcery,None,Weatherlight,Common,1,Black,False,False,True,False,b'John Coulthart',0.13
+Urborg Justice,Instant,None,Weatherlight,Rare,2,Black,False,False,True,False,b'Gary Leach',1.52
+Urborg Stalker,Creature,Horror,Weatherlight,Rare,4,Black,False,False,True,False,b'Cliff Nielsen',0.36
+Wave of Terror,Enchantment,None,Weatherlight,Rare,3,Black,False,False,True,False,b'Adrian Smith',0.44
+Zombie Scavengers,Creature,Zombie,Weatherlight,Common,3,Black,False,False,True,False,b'Patrick Kochakji',0.04
+Aether Flash,Enchantment,None,Weatherlight,Uncommon,4,Red,False,False,True,True,b'Ron Spencer',0.62
+Betrothed of Fire,Enchantment,Aura,Weatherlight,Common,2,Red,False,False,True,False,b'Clint Langley',0.12
+Bloodrock Cyclops,Creature,Cyclops,Weatherlight,Common,3,Red,True,False,True,True,b'Tom W\xc3\xa4nerstrand',0.08
+Bogardan Firefiend,Creature,Elemental Spirit,Weatherlight,Common,3,Red,True,False,True,True,b'Terese Nielsen',0.07
+Boiling Blood,Instant,None,Weatherlight,Common,3,Red,False,False,True,False,b'Cliff Nielsen',0.23
+Cinder Giant,Creature,Giant,Weatherlight,Uncommon,4,Red,False,False,True,False,b'Rog\xc3\xa9rio Vilela',0.17
+Cinder Wall,Creature,Wall,Weatherlight,Common,1,Red,True,False,True,True,b'Randy Gallegos',0.06
+Cone of Flame,Sorcery,None,Weatherlight,Uncommon,5,Red,True,False,True,True,b'Ron Spencer',0.09
+Desperate Gambit,Instant,None,Weatherlight,Uncommon,1,Red,False,False,True,False,b'Pete Venters',0.27
+Dwarven Berserker,Creature,Dwarf Berserker,Weatherlight,Common,2,Red,False,False,True,False,b'Douglas Shuler',0.12
+Dwarven Thaumaturgist,Creature,Dwarf Shaman,Weatherlight,Rare,3,Red,False,False,True,True,b'Kipling West',0.75
+Fervor,Enchantment,None,Weatherlight,Rare,3,Red,True,False,True,True,b'Franz Vohwinkel',1.86
+Fire Whip,Enchantment,Aura,Weatherlight,Common,2,Red,True,False,True,True,b'Jeff Miracola',0.17
+Firestorm,Instant,None,Weatherlight,Rare,1,Red,False,False,True,True,b'Jeff Miracola',8.63
+Fit of Rage,Sorcery,None,Weatherlight,Common,2,Red,False,False,True,True,b'Douglas Shuler',0.08
+Goblin Bomb,Enchantment,None,Weatherlight,Rare,2,Red,False,False,True,False,b'Ron Spencer',5.71
+Goblin Grenadiers,Creature,Goblin,Weatherlight,Uncommon,4,Red,False,False,True,False,b'Dan Frazier',0.32
+Goblin Vandal,Creature,Goblin Rogue,Weatherlight,Common,1,Red,False,False,True,True,b'Franz Vohwinkel',0.14
+Heart of Bogardan,Enchantment,None,Weatherlight,Rare,4,Red,False,False,True,False,b'Terese Nielsen',0.51
+Heat Stroke,Enchantment,None,Weatherlight,Rare,3,Red,False,False,True,False,b'Andrew Robinson',1.69
+Hurloon Shaman,Creature,Minotaur Shaman,Weatherlight,Uncommon,3,Red,False,False,True,False,b'Scott M. Fischer',0.18
+Lava Hounds,Creature,Hound,Weatherlight,Uncommon,4,Red,True,False,True,True,b'Steve White',0.14
+Lava Storm,Instant,None,Weatherlight,Common,5,Red,False,False,True,False,b'Scott Kirschner',0.08
+Maraxus of Keld,Legendary Creature,Human Warrior,Weatherlight,Rare,6,Red,False,False,True,False,b'Adrian Smith',0.91
+Orcish Settlers,Creature,Orc,Weatherlight,Uncommon,2,Red,False,False,True,True,b'Pete Venters',0.51
+Roc Hatchling,Creature,Bird,Weatherlight,Uncommon,1,Red,False,False,True,False,b'Una Fricker',0.16
+Sawtooth Ogre,Creature,Ogre,Weatherlight,Common,4,Red,False,False,True,False,b'Brom',0.08
+Thunderbolt,Instant,None,Weatherlight,Common,2,Red,True,False,True,True,b'Dylan Martens',0.08
+Thundermare,Creature,Elemental Horse,Weatherlight,Rare,6,Red,True,False,True,True,b'Bob Eggleton',0.5
+Aboroth,Creature,Elemental,Weatherlight,Rare,6,Green,False,False,True,False,b'Brom',0.54
+Arctic Wolves,Creature,Wolf,Weatherlight,Uncommon,5,Green,False,False,True,False,b'Steve White',0.16
+Barishi,Creature,Elemental,Weatherlight,Uncommon,4,Green,False,False,True,False,b'Ted Naifeh',0.15
+Blossoming Wreath,Instant,None,Weatherlight,Common,1,Green,False,False,True,False,b'Brian Durfee',0.09
+Briar Shield,Enchantment,Aura,Weatherlight,Common,1,Green,False,False,True,False,b'Scott Kirschner',0.11
+Call of the Wild,Enchantment,None,Weatherlight,Rare,4,Green,True,False,True,True,b'Brom',0.36
+Choking Vines,Instant,None,Weatherlight,Common,2,Green,False,False,True,False,b'Ted Naifeh',0.11
+Dense Foliage,Enchantment,None,Weatherlight,Rare,3,Green,False,False,True,True,b'Alan Rabinowitz',0.63
+Downdraft,Enchantment,None,Weatherlight,Uncommon,3,Green,False,False,True,False,b'John Matson',0.1
+Fallow Wurm,Creature,Wurm,Weatherlight,Uncommon,3,Green,False,False,True,False,b'Stephen L. Walsh',0.15
+Familiar Ground,Enchantment,None,Weatherlight,Uncommon,3,Green,False,False,True,True,b'Jeff Miracola',0.14
+Fungus Elemental,Creature,Fungus Elemental,Weatherlight,Rare,4,Green,False,False,True,False,b'Scott M. Fischer',0.29
+Gaea's Blessing,Sorcery,None,Weatherlight,Uncommon,2,Green,True,False,True,True,b'Rebecca Guay',0.4
+Harvest Wurm,Creature,Wurm,Weatherlight,Common,2,Green,False,False,True,True,b'Stephen L. Walsh',0.14
+Liege of the Hollows,Creature,Spirit,Weatherlight,Rare,4,Green,False,False,True,False,b'Ron Spencer',2.08
+Llanowar Behemoth,Creature,Elemental,Weatherlight,Uncommon,5,Green,True,False,True,True,b'Hannibal King',0.11
+Llanowar Druid,Creature,Elf Druid,Weatherlight,Common,2,Green,False,False,True,False,b'Pete Venters',0.17
+Llanowar Sentinel,Creature,Elf,Weatherlight,Common,3,Green,True,False,True,True,b'Douglas Shuler',0.1
+Mwonvuli Ooze,Creature,Ooze,Weatherlight,Rare,1,Green,False,False,True,False,b'Zina Saunders',0.37
+Nature's Kiss,Enchantment,Aura,Weatherlight,Common,2,Green,False,False,True,False,b'Scott M. Fischer',0.04
+Nature's Resurgence,Sorcery,None,Weatherlight,Rare,4,Green,False,False,True,True,b'Scott M. Fischer',0.23
+Redwood Treefolk,Creature,Treefolk,Weatherlight,Common,5,Green,False,False,True,True,b'Phil Foglio',0.04
+Rogue Elephant,Creature,Elephant,Weatherlight,Common,1,Green,False,False,True,True,b'Steve White',0.17
+Striped Bears,Creature,Bear,Weatherlight,Common,4,Green,False,False,True,False,b'Una Fricker',0.32
+Sylvan Hierophant,Creature,Human Cleric,Weatherlight,Uncommon,2,Green,False,False,True,False,b'Brian Durfee',0.12
+Tranquil Grove,Enchantment,None,Weatherlight,Rare,2,Green,False,False,True,True,b'Dylan Martens',1.33
+Uktabi Efreet,Creature,Efreet,Weatherlight,Common,4,Green,False,False,True,False,b'Alan Rabinowitz',0.06
+Veteran Explorer,Creature,Human Soldier Scout,Weatherlight,Uncommon,1,Green,False,False,True,True,b'David A. Cherry',0.58
+Vitalize,Instant,None,Weatherlight,Common,1,Green,False,False,True,True,b'Pete Venters',0.37
+Bubble Matrix,Artifact,None,Weatherlight,Rare,4,Colorless,False,False,True,False,b'Brom',2.13
+Bösium Strip,Artifact,None,Weatherlight,Rare,3,Colorless,False,False,True,False,b'Steve Luke',2.0
+Chimeric Sphere,Artifact,None,Weatherlight,Uncommon,3,Colorless,False,False,True,False,b'Colin MacNeil',0.15
+Dingus Staff,Artifact,None,Weatherlight,Uncommon,4,Colorless,False,False,True,False,b'Richard Kane Ferguson',0.52
+Jabari's Banner,Artifact,None,Weatherlight,Uncommon,2,Colorless,False,False,True,False,b'Mark Harrison',0.09
+Jangling Automaton,Artifact Creature,Construct,Weatherlight,Common,3,Colorless,False,False,True,False,b'Adam Rex',0.05
+Mana Web,Artifact,None,Weatherlight,Rare,3,Colorless,False,False,True,False,b'Hannibal King',8.68
+Mind Stone,Artifact,None,Weatherlight,Common,2,Colorless,True,False,True,True,b'Adam Rex',1.12
+Null Rod,Artifact,None,Weatherlight,Rare,2,Colorless,False,False,True,True,b'Anson Maddocks',24.75
+Phyrexian Furnace,Artifact,None,Weatherlight,Uncommon,1,Colorless,False,False,True,True,b'George Pratt',0.34
+Serrated Biskelion,Artifact Creature,Construct,Weatherlight,Uncommon,3,Colorless,False,False,True,True,b'Ron Spencer',0.31
+Steel Golem,Artifact Creature,Golem,Weatherlight,Uncommon,3,Colorless,True,False,True,True,b'Donato Giancola',0.49
+Straw Golem,Artifact Creature,Golem,Weatherlight,Uncommon,1,Colorless,False,False,True,False,b'Bryan Talbot',0.12
+Thran Forge,Artifact,None,Weatherlight,Uncommon,3,Colorless,False,False,True,False,b'Mark Poole',0.23
+Thran Tome,Artifact,None,Weatherlight,Rare,4,Colorless,False,False,True,False,b'Donato Giancola',0.47
+Touchstone,Artifact,None,Weatherlight,Uncommon,2,Colorless,False,False,True,False,b'George Pratt',0.19
+Well of Knowledge,Artifact,None,Weatherlight,Rare,3,Colorless,False,False,True,False,b'D. Alexander Gregory',1.35
+Xanthic Statue,Artifact,None,Weatherlight,Rare,8,Colorless,False,False,True,False,b'Hannibal King',0.34
+Gemstone Mine,Land,None,Weatherlight,Uncommon,0,Colorless,True,False,True,True,b'Brom',12.02
+Lotus Vale,Land,None,Weatherlight,Rare,0,Colorless,False,False,True,False,b'John Avon',13.21
+Scorched Ruins,Land,None,Weatherlight,Rare,0,Colorless,False,False,True,False,b'John Avon',8.72
+Winding Canyons,Land,None,Weatherlight,Rare,0,Colorless,False,False,True,False,b'John Avon',14.55

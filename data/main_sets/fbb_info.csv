@@ -1,0 +1,307 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Animation de mur,Enchantment,Aura,Foreign Black Border,Rare,1,White,False,False,True,True,b'Dan Frazier',30.0
+Armaguedon,Sorcery,None,Foreign Black Border,Rare,4,White,False,False,True,True,b'Jesper Myrfors',40.99
+Balance,Sorcery,None,Foreign Black Border,Rare,2,White,False,False,False,True,b'Mark Poole',40.99
+Héroïne bénaliane,Creature,Human Soldier,Foreign Black Border,Common,1,White,False,False,True,True,b'Douglas Shuler',40.99
+Rune de garde noire,Enchantment,Aura,Foreign Black Border,Uncommon,1,White,False,False,True,True,b'Dan Frazier',40.99
+Bénédiction,Enchantment,Aura,Foreign Black Border,Rare,2,White,True,False,True,True,b'Julie Baroh',40.99
+Rune de garde bleue,Enchantment,Aura,Foreign Black Border,Uncommon,1,White,False,False,True,True,b'Dan Frazier',40.99
+Château fort,Enchantment,None,Foreign Black Border,Uncommon,4,White,False,False,True,True,b'Dameon Willich',40.99
+Cercle de protection : noir,Enchantment,None,Foreign Black Border,Common,2,White,True,False,True,True,b'Jesper Myrfors',40.99
+Cercle de protection : bleu,Enchantment,None,Foreign Black Border,Common,2,White,True,False,True,True,b'Dameon Willich',40.99
+Cercle de protection : vert,Enchantment,None,Foreign Black Border,Common,2,White,True,False,True,True,b'Sandra Everingham',40.99
+Cercle de protection : rouge,Enchantment,None,Foreign Black Border,Common,2,White,True,False,True,True,b'Mark Tedin',40.99
+Cercle de protection : blanc,Enchantment,None,Foreign Black Border,Common,2,White,True,False,True,True,b'Douglas Shuler',40.99
+Conversion,Enchantment,None,Foreign Black Border,Uncommon,4,White,False,False,True,True,b'Jesper Myrfors',40.99
+Croisade,Enchantment,None,Foreign Black Border,Rare,2,White,False,False,True,True,b'Mark Poole',11.0
+Survie,Instant,None,Foreign Black Border,Common,1,White,False,False,True,True,b'Mark Poole',11.0
+Désenchantement,Instant,None,Foreign Black Border,Common,2,White,True,True,True,True,b'Amy Weber',7.0
+OEil pour OEil,Instant,None,Foreign Black Border,Rare,2,White,False,False,True,True,b'Mark Poole',7.0
+Ferme,Enchantment,Aura,Foreign Black Border,Rare,3,White,False,False,True,True,b'Mark Poole',7.0
+Rune de garde verte,Enchantment,Aura,Foreign Black Border,Uncommon,1,White,False,False,True,True,b'Dan Frazier',7.0
+Ange gardien,Instant,None,Foreign Black Border,Common,2,White,False,False,True,True,b'Anson Maddocks',7.0
+Onguent de soins,Instant,None,Foreign Black Border,Common,1,White,True,False,True,True,b'Dan Frazier',7.0
+Armure sacrée,Enchantment,Aura,Foreign Black Border,Common,1,White,False,False,True,True,b'Melissa A. Benson',7.0
+Force sacrée,Enchantment,Aura,Foreign Black Border,Common,1,White,True,False,True,True,b'Anson Maddocks',1.99
+Ile sanctuaire,Enchantment,None,Foreign Black Border,Rare,2,White,False,False,True,True,b'Mark Poole',1.99
+Karma,Enchantment,None,Foreign Black Border,Uncommon,4,White,True,False,True,True,b'Richard Thomas',1.99
+Lance,Enchantment,Aura,Foreign Black Border,Uncommon,1,White,False,False,True,True,b'Rob Alexander',1.99
+Pégase de Mesa,Creature,Pegasus,Foreign Black Border,Common,2,White,False,False,True,True,b'Melissa A. Benson',0.74
+Paladin du nord,Creature,Human Knight,Foreign Black Border,Rare,4,White,False,False,True,True,b'Douglas Shuler',0.74
+Licorne nacrée,Creature,Unicorn,Foreign Black Border,Common,3,White,False,False,True,True,b'Cornelius Brudi',2.0
+Incarnation personnelle,Creature,Avatar Incarnation,Foreign Black Border,Rare,6,White,False,False,True,True,b'Kev Brockschmidt',8.99
+Voile de pureté,Instant,None,Foreign Black Border,Rare,1,White,False,False,True,True,b'Sandra Everingham',8.99
+Rune de garde rouge,Enchantment,Aura,Foreign Black Border,Uncommon,1,White,False,False,True,True,b'Dan Frazier',8.99
+Résurrection,Sorcery,None,Foreign Black Border,Uncommon,4,White,True,False,True,True,b'Dan Frazier',3.99
+Inversion des dégâts,Instant,None,Foreign Black Border,Rare,3,White,True,False,True,True,b'Dameon Willich',3.99
+Inversion de polarité,Instant,None,Foreign Black Border,Uncommon,2,White,False,False,True,True,b'Justin Hampton',3.99
+Droiture,Instant,None,Foreign Black Border,Rare,1,White,True,True,True,True,b'Douglas Shuler',3.99
+Guérisseur sanctif,Creature,Human Cleric,Foreign Black Border,Common,2,White,True,False,True,True,b'Tom W\xc3\xa4nerstrand',3.99
+Lions des savanes,Creature,Cat,Foreign Black Border,Rare,1,White,True,False,True,True,b'Daniel Gelon',14.99
+Ange de Serra,Creature,Angel,Foreign Black Border,Uncommon,5,White,True,False,True,True,b'Douglas Shuler',30.0
+Retour au pays,Instant,None,Foreign Black Border,Uncommon,1,White,False,False,True,True,b'Jeff A. Menges',36.66
+Garde du corps émérite,Creature,Human,Foreign Black Border,Rare,5,White,False,False,True,True,b'Douglas Shuler',36.66
+Mur d'épées,Creature,Wall,Foreign Black Border,Uncommon,4,White,True,False,True,True,b'Mark Tedin',36.66
+Chevalier blanc,Creature,Human Knight,Foreign Black Border,Uncommon,2,White,True,False,True,True,b'Daniel Gelon',36.66
+Rune de garde blanche,Enchantment,Aura,Foreign Black Border,Uncommon,1,White,False,False,True,True,b'Dan Frazier',36.66
+Colère de Dieu,Sorcery,None,Foreign Black Border,Rare,4,White,True,False,True,True,b'Quinton Hoover',22.0
+Elémental d'air,Creature,Elemental,Foreign Black Border,Uncommon,5,Blue,True,True,True,True,b'Richard Thomas',22.0
+Animation d'artefact,Enchantment,Aura,Foreign Black Border,Uncommon,4,Blue,False,False,True,True,b'Douglas Shuler',2.0
+Salve élémentaire bleue,Instant,None,Foreign Black Border,Common,1,Blue,False,False,True,True,b'Richard Thomas',3.6
+Geyser cérébral,Sorcery,None,Foreign Black Border,Rare,3,Blue,False,False,True,True,b'Mark Tedin',39.89
+Clone,Creature,Shapeshifter,Foreign Black Border,Uncommon,4,Blue,True,False,True,True,b'Julie Baroh',8.97
+Contrôle magique,Enchantment,Aura,Foreign Black Border,Uncommon,4,Blue,False,False,True,True,b'Dameon Willich',8.0
+Copie d'artefact,Enchantment,None,Foreign Black Border,Rare,2,Blue,False,False,True,True,b'Amy Weber',79.95
+Contresort,Instant,None,Foreign Black Border,Uncommon,2,Blue,False,False,True,True,b'Mark Poole',35.97
+Lien animal,Enchantment,Aura,Foreign Black Border,Common,2,Blue,False,False,True,True,b'Anson Maddocks',35.97
+Drain d'énergie,Sorcery,None,Foreign Black Border,Rare,2,Blue,False,False,True,True,b'Douglas Shuler',35.97
+Reflux d'énergie,Enchantment,None,Foreign Black Border,Uncommon,3,Blue,False,False,True,True,b'Kaja Foglio',5.0
+Rétroaction,Enchantment,Aura,Foreign Black Border,Uncommon,3,Blue,False,False,True,True,b'Quinton Hoover',5.0
+Vol,Enchantment,Aura,Foreign Black Border,Common,1,Blue,True,False,True,True,b'Anson Maddocks',5.0
+Rappel selon Hurkyl,Instant,None,Foreign Black Border,Rare,2,Blue,True,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',5.0
+Ile-poisson Seyidna yûnûs,Creature,Fish,Foreign Black Border,Rare,7,Blue,False,False,True,True,b'Jesper Myrfors',5.0
+Saut,Instant,None,Foreign Black Border,Common,1,Blue,True,False,True,True,b'Mark Poole',5.0
+Ponction vitale,Enchantment,None,Foreign Black Border,Uncommon,2,Blue,False,False,True,True,b'Anson Maddocks',5.0
+Seigneur de l'Atlantide,Creature,Merfolk,Foreign Black Border,Rare,2,Blue,True,False,True,True,b'Melissa A. Benson',5.0
+Rature magique,Instant,None,Foreign Black Border,Rare,1,Blue,False,False,True,True,b'Julie Baroh',8.0
+Djinn mahâmot,Creature,Djinn,Foreign Black Border,Rare,6,Blue,True,False,True,True,b'Dan Frazier',8.0
+Pénurie de mana,Instant,None,Foreign Black Border,Rare,3,Blue,False,False,True,True,b'Dameon Willich',14.5
+Ondins du Trident nacré,Creature,Merfolk,Foreign Black Border,Common,1,Blue,True,False,True,True,b'Jeff A. Menges',14.5
+Forces phantasmatiques,Creature,Illusion,Foreign Black Border,Uncommon,4,Blue,False,False,True,True,b'Mark Poole',14.5
+Terrain fantasmatique,Enchantment,Aura,Foreign Black Border,Common,2,Blue,False,False,True,True,b'Dameon Willich',14.5
+Monstre fantomatique,Creature,Illusion,Foreign Black Border,Uncommon,4,Blue,False,False,True,True,b'Jesper Myrfors',14.5
+Navire pirate,Creature,Human Pirate,Foreign Black Border,Rare,5,Blue,True,False,True,True,b'Tom W\xc3\xa4nerstrand',14.5
+Fuite d'énergie,Enchantment,Aura,Foreign Black Border,Common,2,Blue,False,False,True,True,b'Drew Tucker',14.5
+Siphon d'énergie,Instant,None,Foreign Black Border,Common,2,Blue,False,False,True,True,b'Richard Thomas',2.5
+Sorcier sybarite,Creature,Human Wizard,Foreign Black Border,Common,3,Blue,True,False,True,True,b'Douglas Shuler',2.5
+Venin psychique,Enchantment,Aura,Foreign Black Border,Common,2,Blue,False,False,True,True,b'Brian Sn\xc3\xb5ddy',2.5
+Reconstruction,Sorcery,None,Foreign Black Border,Common,1,Blue,False,False,True,True,b'Anson Maddocks',2.5
+Grand serpent de mer,Creature,Serpent,Foreign Black Border,Common,6,Blue,False,False,True,True,b'Jeff A. Menges',2.5
+Efrit de Serendib,Creature,Efreet,Foreign Black Border,Rare,3,Blue,False,False,True,True,b'Anson Maddocks',57.3
+Chant des sirènes,Instant,None,Foreign Black Border,Uncommon,1,Blue,False,False,True,True,b'Anson Maddocks',3.49
+Tricherie mentale,Instant,None,Foreign Black Border,Rare,1,Blue,False,False,True,True,b'Mark Poole',3.49
+Salve d'antimagie,Instant,None,Foreign Black Border,Common,2,Blue,True,False,True,True,b'Brian Sn\xc3\xb5ddy',3.49
+Stase,Enchantment,None,Foreign Black Border,Rare,2,Blue,False,False,True,True,b'Fay Jones',44.99
+Vol d'artefact,Enchantment,Aura,Foreign Black Border,Uncommon,4,Blue,True,False,True,True,b'Amy Weber',44.99
+Voile de pensées,Instant,None,Foreign Black Border,Rare,1,Blue,False,False,True,True,b'Mark Poole',44.99
+Mutation instable,Enchantment,Aura,Foreign Black Border,Common,1,Blue,True,False,True,True,b'Douglas Shuler',44.99
+Désinvocation,Instant,None,Foreign Black Border,Common,1,Blue,True,True,True,True,b'Douglas Shuler',44.99
+Mutaforme Vesuvano,Creature,Shapeshifter,Foreign Black Border,Rare,5,Blue,False,False,True,True,b'Quinton Hoover',29.95
+Eruption volcanique,Sorcery,None,Foreign Black Border,Rare,4,Blue,False,False,True,True,b'Douglas Shuler',29.95
+Mur d'air,Creature,Wall,Foreign Black Border,Uncommon,3,Blue,True,False,True,True,b'Richard Thomas',29.95
+Mur d'eau,Creature,Wall,Foreign Black Border,Uncommon,3,Blue,False,False,True,True,b'Richard Thomas',29.95
+Elémental d'eau,Creature,Elemental,Foreign Black Border,Uncommon,5,Blue,False,False,True,True,b'Jeff A. Menges',29.95
+Animation des morts,Enchantment,Aura,Foreign Black Border,Uncommon,2,Black,False,False,True,True,b'Anson Maddocks',30.0
+Lune blafarde,Enchantment,None,Foreign Black Border,Rare,2,Black,True,False,True,True,b'Jesper Myrfors',30.0
+Chevalier noir,Creature,Human Knight,Foreign Black Border,Uncommon,2,Black,True,False,True,True,b'Jeff A. Menges',4.99
+Apparition des marécages,Creature,Wraith,Foreign Black Border,Uncommon,4,Black,True,False,True,True,b'Jeff A. Menges',4.99
+Contrat avec les enfers,Sorcery,None,Foreign Black Border,Rare,1,Black,False,False,False,True,b'Douglas Shuler',4.99
+Terrain maudit,Enchantment,Aura,Foreign Black Border,Uncommon,4,Black,False,False,True,True,b'Jesper Myrfors',4.99
+Messe noire,Instant,None,Foreign Black Border,Common,1,Black,False,False,True,True,b'Sandra Everingham',10.0
+Pacte ténébreux,Sorcery,None,Foreign Black Border,Rare,3,Black,False,False,False,True,b'Quinton Hoover',10.0
+Poigne de mort,Enchantment,None,Foreign Black Border,Uncommon,2,Black,False,False,True,True,b'Anson Maddocks',10.0
+Voile de mort,Instant,None,Foreign Black Border,Rare,1,Black,False,False,True,True,b'Sandra Everingham',10.0
+Avocat diabolique,Sorcery,None,Foreign Black Border,Rare,3,Black,False,False,False,True,b'Daniel Gelon',9.99
+Hordes démoniaques,Creature,Demon,Foreign Black Border,Rare,6,Black,False,False,True,True,b'Jesper Myrfors',12.95
+Précepteur diabolique,Sorcery,None,Foreign Black Border,Uncommon,2,Black,False,False,True,True,b'Douglas Shuler',76.0
+Drain de vie,Sorcery,None,Foreign Black Border,Common,3,Black,False,False,True,True,b'Douglas Shuler',5.0
+Squelettes serviles,Creature,Skeleton,Foreign Black Border,Common,2,Black,True,False,True,True,b'Sandra Everingham',5.0
+El-hajjâj,Creature,Human Wizard,Foreign Black Border,Rare,3,Black,False,False,True,True,b'Dameon Willich',5.0
+Pillards de l'erg,Creature,Human Warrior,Foreign Black Border,Common,2,Black,False,False,True,True,b'Dameon Willich',5.0
+Présence malveillante,Enchantment,Aura,Foreign Black Border,Uncommon,1,Black,True,False,True,True,b'Sandra Everingham',1.5
+Peur,Enchantment,Aura,Foreign Black Border,Common,2,Black,True,False,True,True,b'Mark Poole',1.5
+Ombre glaciale,Creature,Shade,Foreign Black Border,Common,3,Black,False,False,True,True,b'Douglas Shuler',1.5
+Langueur,Enchantment,None,Foreign Black Border,Uncommon,3,Black,False,False,True,True,b'Dan Frazier',1.5
+Rugissement de l'au-delà,Instant,None,Foreign Black Border,Common,2,Black,False,False,True,True,b'Mark Poole',0.65
+Spectre hypnotiseur,Creature,Specter,Foreign Black Border,Uncommon,3,Black,True,False,True,True,b'Douglas Shuler',26.99
+Seigneur de l'abîme,Creature,Demon,Foreign Black Border,Rare,7,Black,True,False,True,True,b'Mark Tedin',26.99
+Convulsion cérébrale,Sorcery,None,Foreign Black Border,Rare,2,Black,False,False,True,True,b'Julie Baroh',38.0
+Mânes infernaux,Creature,Spirit,Foreign Black Border,Rare,2,Black,False,False,True,True,b'Christopher Rush',38.0
+Diablotin provocateur,Creature,Imp,Foreign Black Border,Uncommon,3,Black,False,False,True,True,b'Quinton Hoover',38.0
+Cheval de cauchemar,Creature,Nightmare Horse,Foreign Black Border,Rare,6,Black,True,False,True,True,b'Melissa A. Benson',12.0
+Paralysie,Enchantment,Aura,Foreign Black Border,Common,1,Black,False,False,True,True,b'Anson Maddocks',3.99
+Peste,Enchantment,None,Foreign Black Border,Common,4,Black,False,False,True,True,b'Jesper Myrfors',2.62
+Rats de la peste,Creature,Rat,Foreign Black Border,Common,3,Black,False,False,True,True,b'Anson Maddocks',2.62
+Exhumation,Sorcery,None,Foreign Black Border,Common,1,Black,True,False,True,True,b'Jeff A. Menges',2.62
+Assassin royal,Creature,Human Assassin,Foreign Black Border,Rare,3,Black,True,False,True,True,b'Tom W\xc3\xa4nerstrand',18.0
+Sacrifice,Instant,None,Foreign Black Border,Uncommon,1,Black,False,False,True,True,b'Dan Frazier',18.0
+Zombies dévastateurs,Creature,Zombie,Foreign Black Border,Common,3,Black,True,False,True,True,b'Jesper Myrfors',18.0
+Goule nécrophage,Creature,Zombie,Foreign Black Border,Uncommon,4,Black,False,False,True,True,b'Jeff A. Menges',18.0
+Vampire sengien,Creature,Vampire,Foreign Black Border,Uncommon,5,Black,True,False,True,True,b'Anson Maddocks',5.0
+Simulacre,Instant,None,Foreign Black Border,Uncommon,2,Black,False,False,True,True,b'Mark Poole',5.0
+Reine sorcière,Creature,Human Wizard,Foreign Black Border,Rare,3,Black,False,False,True,True,b'Kaja Foglio',5.0
+Terreur,Instant,None,Foreign Black Border,Common,2,Black,True,False,True,True,b'Ron Spencer',2.0
+Force impie,Enchantment,Aura,Foreign Black Border,Common,1,Black,True,False,True,True,b'Douglas Shuler',4.0
+Mur d'ossements,Creature,Skeleton Wall,Foreign Black Border,Uncommon,3,Black,True,False,True,True,b'Anson Maddocks',4.0
+Distorsion d'artefact,Enchantment,Aura,Foreign Black Border,Rare,2,Black,False,False,True,True,b'Amy Weber',4.99
+Faiblesse,Enchantment,Aura,Foreign Black Border,Common,1,Black,True,False,True,True,b'Douglas Shuler',1.0
+Feu follet,Creature,Spirit,Foreign Black Border,Rare,1,Black,True,False,True,True,b'Jesper Myrfors',15.0
+Maître des zombies,Creature,Zombie,Foreign Black Border,Rare,3,Black,False,False,True,True,b'Jeff A. Menges',15.0
+Atog,Creature,Atog,Foreign Black Border,Common,2,Red,True,False,True,True,b'Jesper Myrfors',2.99
+Fouisseur,Enchantment,Aura,Foreign Black Border,Uncommon,1,Red,False,False,True,True,b'Mark Poole',4.0
+Voile de chaos,Instant,None,Foreign Black Border,Rare,1,Red,False,False,True,True,b'Dameon Willich',4.0
+Désintégration,Sorcery,None,Foreign Black Border,Common,2,Red,True,False,True,True,b'Anson Maddocks',0.99
+Dragonnet,Creature,Dragon,Foreign Black Border,Uncommon,4,Red,True,False,True,True,b'Amy Weber',3.97
+Guerriers nains,Creature,Dwarf Warrior,Foreign Black Border,Common,3,Red,False,False,True,True,b'Douglas Shuler',3.97
+Forgeur d'armes nain,Creature,Dwarf Artificer,Foreign Black Border,Uncommon,2,Red,False,False,True,True,b'Mark Poole',3.97
+Élémental de terre,Creature,Elemental,Foreign Black Border,Uncommon,5,Red,True,False,True,True,b'Dan Frazier',3.97
+Entrave chtonienne,Enchantment,Aura,Foreign Black Border,Common,1,Red,False,False,True,True,b'Quinton Hoover',2.99
+Tremblement de terre,Sorcery,None,Foreign Black Border,Rare,2,Red,True,False,True,True,b'Dan Frazier',2.99
+Élémental de feu,Creature,Elemental,Foreign Black Border,Uncommon,5,Red,True,True,True,True,b'Melissa A. Benson',5.0
+Boule de feu,Sorcery,None,Foreign Black Border,Common,2,Red,True,False,True,True,b'Mark Tedin',7.5
+Souffle ardent,Enchantment,Aura,Foreign Black Border,Common,1,Red,True,False,True,True,b'Dan Frazier',7.5
+Feu de brousse,Sorcery,None,Foreign Black Border,Uncommon,4,Red,True,False,True,True,b'Dameon Willich',7.5
+Fourche,Instant,None,Foreign Black Border,Rare,2,Red,False,False,True,True,b'Amy Weber',40.0
+Aérostiers gobelins,Creature,Goblin Warrior,Foreign Black Border,Uncommon,1,Red,True,False,True,True,b'Andi Rusu',1.25
+Roi des gobelins,Creature,Goblin,Foreign Black Border,Rare,3,Red,True,False,True,True,b'Jesper Myrfors',2.0
+Gargouille de granit,Creature,Gargoyle,Foreign Black Border,Rare,3,Red,False,False,True,True,b'Christopher Rush',9.5
+Ogre gris,Creature,Ogre,Foreign Black Border,Common,3,Red,False,False,True,True,b'Dan Frazier',9.5
+Géant des collines,Creature,Giant,Foreign Black Border,Common,4,Red,True,False,True,True,b'Dan Frazier',9.5
+Minotaure de l'Hurloon,Creature,Minotaur,Foreign Black Border,Common,3,Red,False,False,True,True,b'Anson Maddocks',9.5
+Seigneur de guerre kelde,Creature,Human Barbarian,Foreign Black Border,Uncommon,4,Red,False,False,True,True,b'Kev Brockschmidt',4.99
+Gorille beringeï,Creature,Ape,Foreign Black Border,Common,1,Red,True,False,True,True,"b'Ken Meyer, Jr.'",4.99
+Foudre,Instant,None,Foreign Black Border,Common,1,Red,True,False,True,True,b'Christopher Rush',38.97
+Montagne magnétique,Enchantment,None,Foreign Black Border,Rare,3,Red,False,False,True,True,b'Susan Van Camp',2.99
+Flamboiement de mana,Enchantment,None,Foreign Black Border,Rare,3,Red,False,False,True,True,b'Christopher Rush',14.0
+Barbelures de mana,Enchantment,None,Foreign Black Border,Rare,4,Red,True,False,True,True,b'Christopher Rush',14.0
+Djinn mijaëne,Creature,Djinn,Foreign Black Border,Rare,3,Red,False,False,True,True,b'Susan Van Camp',14.0
+Pillards gobelins de Mons,Creature,Goblin,Foreign Black Border,Common,1,Red,False,False,True,True,b'Jeff A. Menges',14.0
+Artillerie orque,Creature,Orc Warrior,Foreign Black Border,Uncommon,3,Red,True,False,True,True,b'Anson Maddocks',14.0
+Oriflamme orque,Enchantment,None,Foreign Black Border,Uncommon,4,Red,False,False,True,True,b'Dan Frazier',14.0
+Surtension,Enchantment,None,Foreign Black Border,Rare,2,Red,False,False,True,True,b'Douglas Shuler',14.0
+Salve élémentaire rouge,Instant,None,Foreign Black Border,Common,1,Red,False,False,True,True,b'Richard Thomas',9.95
+Rokh des Hauts de Kher,Creature,Bird,Foreign Black Border,Rare,4,Red,False,False,True,True,b'Andi Rusu',1.0
+Hydre de pierre,Creature,Hydra,Foreign Black Border,Rare,3,Red,False,False,True,True,b'Jeff A. Menges',13.5
+Troll fangeux,Creature,Troll,Foreign Black Border,Rare,3,Red,False,False,True,True,b'Dan Frazier',30.49
+Fracasser,Instant,None,Foreign Black Border,Common,2,Red,True,False,True,True,b'Amy Weber',30.49
+Tempête fracassante,Sorcery,None,Foreign Black Border,Uncommon,4,Red,True,False,True,True,b'Mark Poole',1.0
+Dragon Shîvan,Creature,Dragon,Foreign Black Border,Rare,6,Red,True,True,True,True,b'Melissa A. Benson',1.0
+Fumée,Enchantment,None,Foreign Black Border,Rare,2,Red,False,False,True,True,b'Jesper Myrfors',25.0
+Géant de pierre,Creature,Giant,Foreign Black Border,Uncommon,4,Red,True,False,True,True,b'Dameon Willich',25.0
+Pluie de pierres,Sorcery,None,Foreign Black Border,Common,3,Red,True,False,True,True,b'Daniel Gelon',4.0
+Tunnel,Instant,None,Foreign Black Border,Uncommon,1,Red,False,False,True,True,b'Dan Frazier',4.0
+Troll d'Uthden,Creature,Troll,Foreign Black Border,Uncommon,3,Red,True,False,True,True,b'Douglas Shuler',4.0
+Mur de feu,Creature,Wall,Foreign Black Border,Uncommon,3,Red,True,False,True,True,b'Richard Thomas',4.0
+Mur de pierre,Creature,Wall,Foreign Black Border,Uncommon,3,Red,True,False,True,True,b'Dan Frazier',4.0
+Roue de la fortune,Sorcery,None,Foreign Black Border,Rare,3,Red,False,False,True,True,b'Daniel Gelon',34.38
+Aspect du loup,Enchantment,Aura,Foreign Black Border,Rare,2,Green,False,False,True,True,b'Jeff A. Menges',34.38
+Oiseaux de paradis,Creature,Bird,Foreign Black Border,Rare,1,Green,True,False,True,True,b'Mark Poole',34.38
+Transfert,Sorcery,None,Foreign Black Border,Uncommon,2,Green,False,False,False,True,b'Richard Thomas',5.0
+Cocatrix,Creature,Cockatrice,Foreign Black Border,Rare,5,Green,True,False,True,True,b'Dan Frazier',5.0
+Guivre vorace,Creature,Wurm,Foreign Black Border,Common,6,Green,True,False,True,True,b'Daniel Gelon',5.0
+Désagrégation,Instant,None,Foreign Black Border,Uncommon,1,Green,False,False,True,True,b'Jesper Myrfors',5.0
+Tornade du désert,Sorcery,None,Foreign Black Border,Uncommon,6,Green,False,False,True,True,b'Susan Van Camp',5.0
+Archers elfes,Creature,Elf Archer,Foreign Black Border,Rare,2,Green,False,False,True,True,b'Anson Maddocks',5.0
+Enchaînements,Enchantment,None,Foreign Black Border,Rare,1,Green,False,False,False,True,b'Mark Poole',55.0
+Brouillard,Instant,None,Foreign Black Border,Common,1,Green,True,False,True,True,b'Jesper Myrfors',4.99
+Force de la Nature,Creature,Elemental,Foreign Black Border,Rare,6,Green,True,False,True,True,b'Douglas Shuler',4.99
+Fongosaure,Creature,Fungus Dinosaur,Foreign Black Border,Rare,4,Green,True,False,True,True,b'Daniel Gelon',4.99
+Noble féal de Gaïa,Creature,Avatar,Foreign Black Border,Rare,6,Green,True,False,True,True,b'Dameon Willich',4.99
+Croissance gigantesque,Instant,None,Foreign Black Border,Common,1,Green,True,True,True,True,b'Sandra Everingham',2.59
+Araignée géante,Creature,Spider,Foreign Black Border,Common,4,Green,True,False,True,True,b'Sandra Everingham',2.59
+Grizzlis,Creature,Bear,Foreign Black Border,Common,2,Green,True,False,True,True,b'Jeff A. Menges',2.59
+Ouragan,Sorcery,None,Foreign Black Border,Uncommon,2,Green,True,False,True,True,b'Dameon Willich',2.59
+Vivacité,Enchantment,Aura,Foreign Black Border,Uncommon,1,Green,False,False,True,True,b'Dameon Willich',10.99
+Sylvins de Ferracine,Creature,Treefolk,Foreign Black Border,Common,5,Green,False,False,True,True,b'Jesper Myrfors',10.99
+Kudzu,Enchantment,Aura,Foreign Black Border,Rare,3,Green,False,False,True,True,b'Mark Poole',9.99
+Druide des leys,Creature,Human Druid,Foreign Black Border,Uncommon,3,Green,True,False,True,True,b'Sandra Everingham',2.0
+Force de vie,Enchantment,None,Foreign Black Border,Uncommon,2,Green,False,False,True,True,b'Dameon Willich',2.0
+Voile de vie,Instant,None,Foreign Black Border,Rare,1,Green,False,False,True,True,b'Amy Weber',2.0
+Artefact vivant,Enchantment,Aura,Foreign Black Border,Rare,1,Green,False,False,True,True,b'Anson Maddocks',2.0
+Terres vivantes,Enchantment,None,Foreign Black Border,Rare,4,Green,False,False,True,True,b'Jesper Myrfors',2.0
+Elfes de Llanowar,Creature,Elf Druid,Foreign Black Border,Common,1,Green,True,False,True,True,b'Anson Maddocks',9.4
+Leurre,Enchantment,Aura,Foreign Black Border,Uncommon,3,Green,True,False,True,True,b'Anson Maddocks',9.4
+Régénération,Enchantment,Aura,Foreign Black Border,Common,2,Green,True,False,True,True,b'Quinton Hoover',9.4
+Réapparition,Sorcery,None,Foreign Black Border,Uncommon,2,Green,True,False,True,True,b'Dameon Willich',10.97
+Farfadets de la scrutaie,Creature,Faerie,Foreign Black Border,Common,1,Green,False,False,True,True,b'Amy Weber',10.97
+Dryades de Shanod,Creature,Nymph Dryad,Foreign Black Border,Common,1,Green,False,False,True,True,b'Anson Maddocks',10.97
+Source de vie,Sorcery,None,Foreign Black Border,Common,2,Green,True,False,True,True,b'Mark Poole',10.97
+Basilic des halliers,Creature,Basilisk,Foreign Black Border,Uncommon,5,Green,False,False,True,True,b'Dan Frazier',10.97
+Loups des forêts,Creature,Wolf,Foreign Black Border,Rare,1,Green,False,False,True,True,b'Melissa A. Benson',10.97
+Chanson de Titania,Enchantment,None,Foreign Black Border,Rare,4,Green,False,False,True,True,b'Kerstin Kaman',5.99
+Tranquilité,Sorcery,None,Foreign Black Border,Common,3,Green,False,False,True,True,b'Douglas Shuler',5.99
+Tsunami,Sorcery,None,Foreign Black Border,Uncommon,4,Green,False,False,True,True,b'Richard Thomas',5.99
+Enchanteresse verduralde,Creature,Human Druid,Foreign Black Border,Rare,3,Green,True,False,True,True,b'Kev Brockschmidt',14.99
+Mur de ronces,Creature,Plant Wall,Foreign Black Border,Uncommon,3,Green,False,False,True,True,b'Anson Maddocks',14.99
+Mur de glace,Creature,Wall,Foreign Black Border,Uncommon,3,Green,False,False,True,True,b'Richard Thomas',3.99
+Mur de bois,Creature,Wall,Foreign Black Border,Common,1,Green,True,False,True,True,b'Mark Tedin',3.99
+Errance,Enchantment,Aura,Foreign Black Border,Uncommon,3,Green,False,False,True,True,b'Cornelius Brudi',3.99
+Mammouth de guerre,Creature,Elephant,Foreign Black Border,Common,4,Green,False,False,True,True,b'Jeff A. Menges',3.99
+Tisseur de toile,Enchantment,Aura,Foreign Black Border,Rare,1,Green,True,False,True,True,b'Rob Alexander',3.99
+Végétation luxuriante,Enchantment,Aura,Foreign Black Border,Common,1,Green,False,False,True,True,b'Mark Poole',4.06
+Lampe d'aladdin,Artifact,None,Foreign Black Border,Rare,1,Colorless,False,False,True,True,b'Mark Tedin',4.06
+Anneau d'Aladdin,Artifact,None,Foreign Black Border,Rare,8,Colorless,True,False,True,True,b'Dan Frazier',3.5
+Ankh de Mishra,Artifact,None,Foreign Black Border,Rare,2,Colorless,False,False,True,True,b'Amy Weber',12.73
+Horloge de l'Armaguedon,Artifact,None,Foreign Black Border,Rare,6,Colorless,False,False,True,True,b'Amy Weber',12.73
+Monolithe de basalte,Artifact,None,Foreign Black Border,Uncommon,3,Colorless,False,False,True,True,b'Jesper Myrfors',30.0
+Etau de supplice,Artifact,None,Foreign Black Border,Uncommon,1,Colorless,False,False,True,True,b'Richard Thomas',30.0
+Bouteille de Salomon,Artifact,None,Foreign Black Border,Rare,4,Colorless,False,False,True,True,b'Jesper Myrfors',30.0
+Homme d'airain,Artifact Creature,Construct,Foreign Black Border,Uncommon,1,Colorless,False,False,True,True,b'Christopher Rush',30.0
+Prisme céleste,Artifact,None,Foreign Black Border,Uncommon,3,Colorless,False,False,True,True,b'Amy Weber',30.0
+Bête mécanique,Artifact Creature,Beast,Foreign Black Border,Rare,6,Colorless,False,False,True,True,b'Drew Tucker',30.0
+Conservateur,Artifact,None,Foreign Black Border,Uncommon,4,Colorless,False,False,True,True,b'Amy Weber',30.0
+Baguette de cristal,Artifact,None,Foreign Black Border,Uncommon,1,Colorless,True,False,True,True,b'Amy Weber',30.0
+Cimeterre dansant,Artifact Creature,Spirit,Foreign Black Border,Rare,4,Colorless,True,False,True,True,b'Anson Maddocks',4.51
+OEuf de Dingus,Artifact,None,Foreign Black Border,Rare,4,Colorless,True,False,True,True,b'Dan Frazier',4.51
+Sceptre de dislocation,Artifact,None,Foreign Black Border,Rare,3,Colorless,True,False,True,True,b'Dan Frazier',29.95
+Dragon-machine,Artifact Creature,Construct,Foreign Black Border,Rare,3,Colorless,False,False,True,True,b'Anson Maddocks',29.95
+Cheval d'ébène,Artifact,None,Foreign Black Border,Rare,3,Colorless,False,False,True,True,b'Dameon Willich',29.95
+Tapis volant,Artifact,None,Foreign Black Border,Rare,4,Colorless,True,False,True,True,b'Mark Tedin',29.95
+Lunettes d'Urza,Artifact,None,Foreign Black Border,Uncommon,1,Colorless,False,False,True,True,b'Douglas Shuler',29.95
+Heaume de Chatzuk,Artifact,None,Foreign Black Border,Rare,1,Colorless,False,False,True,True,b'Mark Tedin',29.95
+Mine rugissante,Artifact,None,Foreign Black Border,Rare,2,Colorless,True,False,True,True,b'Mark Poole',29.95
+Etoile de fer,Artifact,None,Foreign Black Border,Uncommon,1,Colorless,True,False,True,True,b'Dan Frazier',29.95
+Coupe d'ivoire,Artifact,None,Foreign Black Border,Uncommon,1,Colorless,True,False,True,True,b'Anson Maddocks',3.99
+Tour d'ivoire,Artifact,None,Foreign Black Border,Rare,1,Colorless,False,False,True,True,b'Margaret Organ-Kean',3.99
+Monolithe de jade,Artifact,None,Foreign Black Border,Rare,4,Colorless,False,False,True,True,b'Anson Maddocks',3.97
+Anneau de Jouder,Artifact,None,Foreign Black Border,Rare,6,Colorless,False,False,True,True,b'Dan Frazier',3.97
+Fontes de Jouder,Artifact,None,Foreign Black Border,Rare,2,Colorless,False,False,True,True,b'Dameon Willich',3.97
+Grimoire de Jayemdae,Artifact,None,Foreign Black Border,Rare,4,Colorless,True,False,True,True,b'Mark Tedin',3.97
+Djaggernaut,Artifact Creature,Juggernaut,Foreign Black Border,Uncommon,4,Colorless,True,False,True,True,b'Dan Frazier',9.0
+Cloche de Kormus,Artifact,None,Foreign Black Border,Rare,4,Colorless,False,False,True,True,b'Christopher Rush',9.0
+Bibliothèque de Leng,Artifact,None,Foreign Black Border,Uncommon,1,Colorless,False,False,True,True,b'Daniel Gelon',11.99
+Mur vivant,Artifact Creature,Wall,Foreign Black Border,Uncommon,4,Colorless,False,False,True,True,b'Anson Maddocks',3.5
+Arche de mana,Artifact,None,Foreign Black Border,Rare,1,Colorless,False,False,True,True,b'Mark Tedin',86.49
+Pierre de soumission,Artifact,None,Foreign Black Border,Rare,1,Colorless,False,False,True,True,b'Quinton Hoover',28.99
+Meule,Artifact,None,Foreign Black Border,Rare,2,Colorless,True,False,True,True,b'Kaja Foglio',28.99
+Machine de guerre de Mishra,Artifact Creature,Juggernaut,Foreign Black Border,Rare,7,Colorless,False,False,True,True,b'Amy Weber',28.99
+Disque de Nevinyrral,Artifact,None,Foreign Black Border,Rare,4,Colorless,False,False,True,True,b'Mark Tedin',41.5
+Golem d'obsianite,Artifact Creature,Golem,Foreign Black Border,Uncommon,6,Colorless,False,False,True,True,b'Jesper Myrfors',41.5
+Onulet,Artifact Creature,Construct,Foreign Black Border,Rare,3,Colorless,False,False,True,True,b'Anson Maddocks',41.5
+Ornithoptère,Artifact Creature,Thopter,Foreign Black Border,Uncommon,0,Colorless,True,False,True,True,b'Amy Weber',41.5
+Argile primordiale,Artifact Creature,Shapeshifter,Foreign Black Border,Rare,4,Colorless,True,False,True,True,b'Kaja Foglio',41.5
+Lance-roquettes,Artifact,None,Foreign Black Border,Rare,4,Colorless,False,False,True,True,b'Pete Venters',41.5
+Baguette de ruine,Artifact,None,Foreign Black Border,Uncommon,4,Colorless,True,False,True,True,b'Christopher Rush',41.5
+Anneau solaire,Artifact,None,Foreign Black Border,Uncommon,1,Colorless,False,False,True,True,b'Mark Tedin',58.79
+Rets des âmes,Artifact,None,Foreign Black Border,Uncommon,1,Colorless,False,False,True,True,b'Dameon Willich',58.79
+Lunettes solaires d'Urza,Artifact,None,Foreign Black Border,Rare,3,Colorless,False,False,True,True,b'Dan Frazier',58.79
+L'Essaim,Artifact,None,Foreign Black Border,Rare,5,Colorless,True,False,True,True,b'Sandra Everingham',58.79
+Chevalet de torture,Artifact,None,Foreign Black Border,Uncommon,1,Colorless,True,False,True,True,b'Richard Thomas',6.45
+Trône d'os,Artifact,None,Foreign Black Border,Uncommon,1,Colorless,True,False,True,True,b'Anson Maddocks',6.45
+Orbe de l'hiver,Artifact,None,Foreign Black Border,Rare,2,Colorless,False,False,True,True,b'Mark Tedin',30.96
+Sphère de bois,Artifact,None,Foreign Black Border,Uncommon,1,Colorless,True,False,True,True,b'Mark Tedin',30.96
+Désolation,Land,Swamp Mountain,Foreign Black Border,Rare,0,Colorless,False,False,True,True,b'Rob Alexander',30.96
+Bayou,Land,Swamp Forest,Foreign Black Border,Rare,0,Colorless,False,False,True,True,b'Jesper Myrfors',30.96
+Plateau,Land,Mountain Plains,Foreign Black Border,Rare,0,Colorless,False,False,True,True,b'Cornelius Brudi',20.0
+Savane,Land,Forest Plains,Foreign Black Border,Rare,0,Colorless,False,False,True,True,b'Rob Alexander',20.0
+Brousse,Land,Plains Swamp,Foreign Black Border,Rare,0,Colorless,False,False,True,True,b'Jesper Myrfors',20.0
+Taïga,Land,Mountain Forest,Foreign Black Border,Rare,0,Colorless,False,False,True,True,b'Rob Alexander',29.99
+Ile tropicale,Land,Forest Island,Foreign Black Border,Rare,0,Colorless,False,False,True,True,b'Jesper Myrfors',29.99
+Toundra,Land,Plains Island,Foreign Black Border,Rare,0,Colorless,False,False,True,True,b'Jesper Myrfors',25.99
+Mer sous-terraine,Land,Island Swamp,Foreign Black Border,Rare,0,Colorless,False,False,True,True,b'Rob Alexander',25.99
+Ile volcanique,Land,Island Mountain,Foreign Black Border,Rare,0,Colorless,False,False,True,True,b'Brian Sn\xc3\xb5ddy',25.99
+Plaine,Basic Land,Plains,Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Jesper Myrfors',25.99
+Plaine,Basic Land,Plains,Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Jesper Myrfors',25.99
+Plaine,Basic Land,Plains,Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Jesper Myrfors',25.99
+Ile,Basic Land,Island,Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Mark Poole',25.99
+Ile,Basic Land,Island,Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Mark Poole',25.99
+Ile,Basic Land,Island,Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Mark Poole',25.99
+Marais,Basic Land,Swamp,Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Dan Frazier',25.99
+Marais,Basic Land,Swamp,Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Dan Frazier',25.99
+Marais,Basic Land,Swamp,Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Dan Frazier',25.99
+Montagne,Basic Land,Mountain,Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',25.99
+Montagne,Basic Land,Mountain,Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',25.99
+Montagne,Basic Land,Mountain,Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',25.99
+Forêt,Basic Land,Forest,Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Christopher Rush',25.99
+Forêt,Basic Land,Forest,Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Christopher Rush',25.99
+Forêt,Basic Land,Forest,Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Christopher Rush',25.99

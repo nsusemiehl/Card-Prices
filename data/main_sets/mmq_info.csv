@@ -1,0 +1,351 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Afterlife,Instant,None,Mercadian Masques,Uncommon,3,White,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.12
+Alabaster Wall,Creature,Wall,Mercadian Masques,Common,3,White,False,False,True,False,b'Randy Gallegos',0.13
+Armistice,Enchantment,None,Mercadian Masques,Rare,3,White,False,False,True,True,b'Dan Frazier',0.12
+Arrest,Enchantment,Aura,Mercadian Masques,Uncommon,3,White,True,False,True,True,b'Dan Frazier',0.23
+Ballista Squad,Creature,Human Rebel,Mercadian Masques,Uncommon,4,White,True,False,True,True,b'Matthew D. Wilson',0.14
+Charm Peddler,Creature,Human Spellshaper,Mercadian Masques,Common,1,White,False,False,True,False,b'John Matson',0.04
+Charmed Griffin,Creature,Griffin,Mercadian Masques,Uncommon,4,White,False,False,True,False,b'Ray Lago',0.17
+Cho-Arrim Alchemist,Creature,Human Spellshaper,Mercadian Masques,Rare,1,White,False,False,True,False,b'Scott M. Fischer',0.23
+Cho-Arrim Bruiser,Creature,Ogre Rebel,Mercadian Masques,Rare,6,White,False,False,True,False,b'Paolo Parente',0.22
+Cho-Arrim Legate,Creature,Human Soldier,Mercadian Masques,Uncommon,3,White,False,False,True,False,b'rk post',0.15
+"Cho-Manno, Revolutionary",Legendary Creature,Human Rebel,Mercadian Masques,Rare,4,White,True,False,True,True,b'Greg Hildebrandt',0.47
+Cho-Manno's Blessing,Enchantment,Aura,Mercadian Masques,Common,2,White,False,False,True,False,b'John Matson',0.51
+Common Cause,Enchantment,None,Mercadian Masques,Rare,3,White,False,False,True,False,b'John Matson',0.24
+Cornered Market,Enchantment,None,Mercadian Masques,Rare,3,White,False,False,True,False,"b'Edward P. Beard, Jr.'",0.24
+Crackdown,Enchantment,None,Mercadian Masques,Rare,3,White,False,False,True,False,b'Rebecca Guay',6.03
+Crossbow Infantry,Creature,Human Soldier Archer,Mercadian Masques,Common,2,White,True,False,True,True,b'Greg Hildebrandt',0.07
+Devout Witness,Creature,Human Spellshaper,Mercadian Masques,Common,3,White,False,False,True,True,b'Don Hazeltine',0.09
+Disenchant,Instant,None,Mercadian Masques,Common,2,White,True,True,True,True,b'Adam Rex',0.15
+Fountain Watch,Creature,Human Cleric,Mercadian Masques,Rare,5,White,False,False,True,False,b'Jeff Miracola',3.68
+Fresh Volunteers,Creature,Human Rebel,Mercadian Masques,Common,2,White,False,False,True,False,b'Jeff Miracola',0.07
+Honor the Fallen,Instant,None,Mercadian Masques,Rare,2,White,False,False,True,False,b'Terese Nielsen',0.58
+Ignoble Soldier,Creature,Human Soldier,Mercadian Masques,Uncommon,3,White,False,False,True,False,b'Mark Romanoski',0.08
+Inviolability,Enchantment,Aura,Mercadian Masques,Common,2,White,False,False,True,False,b'DiTerlizzi',0.15
+Ivory Mask,Enchantment,None,Mercadian Masques,Rare,4,White,True,False,True,True,b'Glen Angus',0.71
+Jhovall Queen,Creature,Cat Rebel,Mercadian Masques,Rare,6,White,False,False,True,False,b'Michael Sutfin',0.34
+Jhovall Rider,Creature,Human Rebel,Mercadian Masques,Uncommon,5,White,False,False,True,False,b'Scott M. Fischer',0.07
+Last Breath,Instant,None,Mercadian Masques,Uncommon,2,White,True,False,True,True,b'DiTerlizzi',0.16
+Moment of Silence,Instant,None,Mercadian Masques,Common,1,White,False,False,True,False,b'Christopher Moeller',0.14
+Moonlit Wake,Enchantment,None,Mercadian Masques,Uncommon,3,White,False,False,True,False,b'Greg Hildebrandt',0.3
+Muzzle,Enchantment,Aura,Mercadian Masques,Common,2,White,False,False,True,False,b'Matt Cavotta',0.08
+Nightwind Glider,Creature,Human Rebel,Mercadian Masques,Common,3,White,False,False,True,False,b'Randy Gallegos',0.13
+Noble Purpose,Enchantment,None,Mercadian Masques,Uncommon,5,White,True,False,True,True,b'Kev Walker',0.39
+Orim's Cure,Instant,None,Mercadian Masques,Common,2,White,False,False,True,False,b'Don Hazeltine',0.07
+Pious Warrior,Creature,Human Rebel Warrior,Mercadian Masques,Common,4,White,False,False,True,False,b'Jeff Miracola',0.09
+Ramosian Captain,Creature,Human Rebel,Mercadian Masques,Uncommon,3,White,False,False,True,False,b'Matthew D. Wilson',0.19
+Ramosian Commander,Creature,Human Rebel,Mercadian Masques,Uncommon,4,White,False,False,True,False,b'Scott Hampton',0.16
+Ramosian Lieutenant,Creature,Human Rebel,Mercadian Masques,Common,2,White,False,False,True,False,b'Alan Pollack',0.08
+Ramosian Rally,Instant,None,Mercadian Masques,Common,4,White,False,False,True,False,b'Christopher Moeller',0.24
+Ramosian Sergeant,Creature,Human Rebel,Mercadian Masques,Common,1,White,False,False,True,False,b'Don Hazeltine',0.23
+Ramosian Sky Marshal,Creature,Human Rebel,Mercadian Masques,Rare,5,White,False,False,True,False,b'Matt Cavotta',0.34
+Rappelling Scouts,Creature,Human Rebel Scout,Mercadian Masques,Rare,4,White,False,False,True,False,b'Nelson DeCastro',0.24
+Renounce,Instant,None,Mercadian Masques,Uncommon,2,White,False,False,True,False,b'Carl Critchlow',0.15
+Revered Elder,Creature,Human Cleric,Mercadian Masques,Common,3,White,False,False,True,False,b'Donato Giancola',0.06
+Reverent Mantra,Instant,None,Mercadian Masques,Rare,4,White,False,False,True,False,b'Rebecca Guay',0.41
+Righteous Aura,Enchantment,None,Mercadian Masques,Uncommon,2,White,False,False,True,True,b'Pete Venters',0.29
+Righteous Indignation,Enchantment,None,Mercadian Masques,Uncommon,3,White,False,False,True,False,b'Val Mayerik',0.08
+Security Detail,Enchantment,None,Mercadian Masques,Rare,4,White,False,False,True,False,b'Val Mayerik',0.19
+Soothing Balm,Instant,None,Mercadian Masques,Common,2,White,False,False,True,False,b'Scott M. Fischer',0.08
+Spiritual Focus,Enchantment,None,Mercadian Masques,Rare,2,White,False,False,True,False,b'Andrew Goldhawk',0.3
+Steadfast Guard,Creature,Human Rebel,Mercadian Masques,Common,2,White,True,False,True,True,b'Adam Rex',0.06
+Story Circle,Enchantment,None,Mercadian Masques,Uncommon,3,White,True,False,True,True,b'Bradley Williams',0.46
+Task Force,Creature,Human Rebel,Mercadian Masques,Common,3,White,False,False,True,False,b'Gary Ruddell',0.2
+Thermal Glider,Creature,Human Rebel,Mercadian Masques,Common,3,White,False,False,True,False,b'Mark Zug',0.11
+Tonic Peddler,Creature,Human Spellshaper,Mercadian Masques,Uncommon,2,White,False,False,True,False,b'Adam Rex',0.19
+Trap Runner,Creature,Human Soldier,Mercadian Masques,Uncommon,4,White,False,False,True,False,b'Ron Spencer',0.16
+Wave of Reckoning,Sorcery,None,Mercadian Masques,Rare,5,White,False,False,True,True,b'Bradley Williams',2.9
+Wishmonger,Creature,Unicorn Monger,Mercadian Masques,Uncommon,4,White,False,False,True,False,b'Heather Hudson',0.25
+Aerial Caravan,Creature,Human Soldier,Mercadian Masques,Rare,6,Blue,False,False,True,False,b'DiTerlizzi',0.19
+Balloon Peddler,Creature,Human Spellshaper,Mercadian Masques,Common,3,Blue,False,False,True,False,b'Paolo Parente',0.04
+Blockade Runner,Creature,Merfolk,Mercadian Masques,Common,4,Blue,False,False,True,False,b'Carl Critchlow',0.07
+Brainstorm,Instant,None,Mercadian Masques,Common,1,Blue,False,False,True,True,b'DiTerlizzi',1.24
+Bribery,Sorcery,None,Mercadian Masques,Rare,5,Blue,True,False,True,True,b'Andrew Robinson',18.61
+Buoyancy,Enchantment,Aura,Mercadian Masques,Common,2,Blue,False,False,True,False,b'Jeff Miracola',0.06
+Chambered Nautilus,Creature,Nautilus Beast,Mercadian Masques,Uncommon,3,Blue,False,False,True,False,b'John Matson',0.14
+Chameleon Spirit,Creature,Illusion Spirit,Mercadian Masques,Uncommon,4,Blue,False,False,True,False,b'Bradley Williams',0.2
+Charisma,Enchantment,Aura,Mercadian Masques,Rare,3,Blue,False,False,True,False,b'Terese Nielsen',2.21
+Cloud Sprite,Creature,Faerie,Mercadian Masques,Common,1,Blue,True,False,True,True,b'Mark Zug',0.18
+Coastal Piracy,Enchantment,None,Mercadian Masques,Uncommon,4,Blue,True,False,True,True,b'Matthew D. Wilson',4.44
+Counterspell,Instant,None,Mercadian Masques,Common,2,Blue,False,False,True,True,b'Gao Yan',1.33
+Cowardice,Enchantment,None,Mercadian Masques,Rare,5,Blue,True,False,True,True,b'Scott M. Fischer',0.34
+Customs Depot,Enchantment,None,Mercadian Masques,Uncommon,2,Blue,False,False,True,False,b'Scott M. Fischer',0.15
+Darting Merfolk,Creature,Merfolk,Mercadian Masques,Common,2,Blue,False,False,True,True,b'Sam Wood',0.1
+Dehydration,Enchantment,Aura,Mercadian Masques,Common,4,Blue,True,False,True,True,b'Val Mayerik',0.05
+Diplomatic Escort,Creature,Human Spellshaper,Mercadian Masques,Uncommon,2,Blue,False,False,True,False,b'Rebecca Guay',0.23
+Diplomatic Immunity,Enchantment,Aura,Mercadian Masques,Common,2,Blue,False,False,True,False,b'Terese Nielsen',0.87
+Drake Hatchling,Creature,Drake,Mercadian Masques,Common,3,Blue,False,False,True,False,b'Bradley Williams',0.04
+Embargo,Enchantment,None,Mercadian Masques,Rare,4,Blue,False,False,True,False,b'Nelson DeCastro',0.64
+Energy Flux,Enchantment,None,Mercadian Masques,Uncommon,3,Blue,False,False,True,True,b'Qiao Dafu',0.27
+Extravagant Spirit,Creature,Spirit,Mercadian Masques,Rare,4,Blue,False,False,True,False,"b'Edward P. Beard, Jr.'",0.27
+False Demise,Enchantment,Aura,Mercadian Masques,Uncommon,3,Blue,False,False,True,True,b'Pat Morrissey',0.22
+Glowing Anemone,Creature,Jellyfish Beast,Mercadian Masques,Uncommon,4,Blue,False,False,True,False,b'Pete Venters',0.17
+Gush,Instant,None,Mercadian Masques,Common,5,Blue,False,False,True,True,b'Kev Walker',0.93
+High Seas,Enchantment,None,Mercadian Masques,Uncommon,3,Blue,False,False,True,False,b'Massimilano Frezzato',0.16
+Hoodwink,Instant,None,Mercadian Masques,Common,2,Blue,False,False,True,True,b'Arnie Swekel',0.2
+Indentured Djinn,Creature,Djinn,Mercadian Masques,Uncommon,3,Blue,False,False,True,False,b'Val Mayerik',0.38
+Karn's Touch,Instant,None,Mercadian Masques,Rare,2,Blue,False,False,True,False,b'Alan Pollack',0.26
+Misdirection,Instant,None,Mercadian Masques,Rare,5,Blue,False,False,True,True,b'Paolo Parente',2.34
+Misstep,Sorcery,None,Mercadian Masques,Common,2,Blue,False,False,True,False,b'Kev Walker',0.09
+Overtaker,Creature,Merfolk Spellshaper,Mercadian Masques,Rare,2,Blue,False,False,True,True,b'Clyde Caldwell',0.35
+Port Inspector,Creature,Human,Mercadian Masques,Common,2,Blue,False,False,True,False,b'Dan Frazier',0.06
+Rishadan Airship,Creature,Human Pirate,Mercadian Masques,Common,3,Blue,False,False,True,False,b'Kev Walker',0.14
+Rishadan Brigand,Creature,Human Pirate,Mercadian Masques,Rare,5,Blue,False,False,True,False,b'Scott Hampton',1.89
+Rishadan Cutpurse,Creature,Human Pirate,Mercadian Masques,Common,3,Blue,False,False,True,False,b'Christopher Moeller',0.32
+Rishadan Footpad,Creature,Human Pirate,Mercadian Masques,Uncommon,4,Blue,False,False,True,True,b'Adam Rex',0.87
+Sailmonger,Creature,Human Monger,Mercadian Masques,Uncommon,4,Blue,False,False,True,False,b'Michael Sutfin',0.14
+Sand Squid,Creature,Squid Beast,Mercadian Masques,Rare,4,Blue,False,False,True,False,b'Kev Walker',0.26
+Saprazzan Bailiff,Creature,Merfolk,Mercadian Masques,Rare,5,Blue,False,False,True,False,b'Ron Spencer',0.27
+Saprazzan Breaker,Creature,Beast,Mercadian Masques,Uncommon,5,Blue,False,False,True,False,b'Pete Venters',0.07
+Saprazzan Heir,Creature,Merfolk,Mercadian Masques,Rare,2,Blue,False,False,True,False,b'Terese Nielsen',0.8
+Saprazzan Legate,Creature,Merfolk Soldier,Mercadian Masques,Uncommon,4,Blue,False,False,True,False,b'Andrew Goldhawk',0.09
+Saprazzan Outrigger,Creature,Merfolk,Mercadian Masques,Common,4,Blue,False,False,True,False,b'Doug Chaffee',0.08
+Saprazzan Raider,Creature,Merfolk,Mercadian Masques,Common,3,Blue,False,False,True,False,b'Jeff Miracola',0.05
+Shoving Match,Instant,None,Mercadian Masques,Uncommon,3,Blue,False,False,True,False,b'Dave Dorman',0.21
+Soothsaying,Enchantment,None,Mercadian Masques,Uncommon,1,Blue,False,False,True,True,b'Pat Morrissey',4.32
+Squeeze,Enchantment,None,Mercadian Masques,Rare,4,Blue,False,False,True,False,b'DiTerlizzi',0.3
+Statecraft,Enchantment,None,Mercadian Masques,Rare,4,Blue,False,False,True,False,b'Mike Ploog',2.48
+Stinging Barrier,Creature,Wall,Mercadian Masques,Common,4,Blue,False,False,True,False,b'Pat Morrissey',0.19
+Thwart,Instant,None,Mercadian Masques,Uncommon,4,Blue,False,False,True,True,b'Christopher Moeller',0.77
+Tidal Bore,Instant,None,Mercadian Masques,Common,2,Blue,False,False,True,False,b'Frank Kelly Freas',0.12
+Tidal Kraken,Creature,Kraken,Mercadian Masques,Rare,8,Blue,True,False,True,True,b'Christopher Moeller',0.73
+Timid Drake,Creature,Drake,Mercadian Masques,Uncommon,3,Blue,False,False,True,True,"b'Edward P. Beard, Jr.'",0.09
+Trade Routes,Enchantment,None,Mercadian Masques,Rare,2,Blue,True,False,True,True,b'Matt Cavotta',4.96
+War Tax,Enchantment,None,Mercadian Masques,Uncommon,3,Blue,False,False,True,False,b'Greg Hildebrandt',0.77
+Waterfront Bouncer,Creature,Merfolk Spellshaper,Mercadian Masques,Common,2,Blue,False,False,True,True,b'Paolo Parente',0.15
+Alley Grifters,Creature,Human Mercenary,Mercadian Masques,Common,3,Black,False,False,True,False,b'Paolo Parente',0.13
+Black Market,Enchantment,None,Mercadian Masques,Rare,5,Black,False,False,True,True,b'Jeff Easley',8.25
+Bog Smugglers,Creature,Human Mercenary,Mercadian Masques,Common,3,Black,False,False,True,False,b'Mike Ploog',0.04
+Bog Witch,Creature,Human Spellshaper,Mercadian Masques,Common,3,Black,False,False,True,True,b'Gao Yan',0.21
+Cackling Witch,Creature,Human Spellshaper,Mercadian Masques,Uncommon,2,Black,False,False,True,False,b'Brian Despain',0.1
+Cateran Brute,Creature,Horror Mercenary,Mercadian Masques,Common,3,Black,False,False,True,False,"b'Edward P. Beard, Jr.'",0.08
+Cateran Enforcer,Creature,Horror Mercenary,Mercadian Masques,Uncommon,5,Black,False,False,True,False,b'Mike Ploog',0.2
+Cateran Kidnappers,Creature,Human Mercenary,Mercadian Masques,Uncommon,4,Black,False,False,True,False,b'Carl Critchlow',0.14
+Cateran Overlord,Creature,Horror Mercenary,Mercadian Masques,Rare,7,Black,False,False,True,False,b'Michael Sutfin',0.27
+Cateran Persuader,Creature,Human Mercenary,Mercadian Masques,Common,2,Black,False,False,True,False,b'Carl Critchlow',0.06
+Cateran Slaver,Creature,Horror Mercenary,Mercadian Masques,Rare,6,Black,False,False,True,False,b'Carl Critchlow',0.35
+Cateran Summons,Sorcery,None,Mercadian Masques,Uncommon,1,Black,False,False,True,False,b'Alan Pollack',0.19
+Conspiracy,Enchantment,None,Mercadian Masques,Rare,5,Black,True,False,True,True,b'Jeff Easley',9.02
+Corrupt Official,Creature,Human Minion,Mercadian Masques,Rare,5,Black,False,False,True,False,b'Greg Hildebrandt',0.25
+Dark Ritual,Instant,None,Mercadian Masques,Common,1,Black,False,False,True,True,b'Rebecca Guay',0.68
+Deathgazer,Creature,Lizard,Mercadian Masques,Uncommon,4,Black,True,False,True,True,b'Donato Giancola',0.07
+Deepwood Ghoul,Creature,Zombie,Mercadian Masques,Common,3,Black,True,False,True,True,b'Alan Pollack',0.09
+Deepwood Legate,Creature,Shade,Mercadian Masques,Uncommon,4,Black,False,False,True,False,b'Pete Venters',0.15
+Delraich,Creature,Horror,Mercadian Masques,Rare,7,Black,False,False,True,False,b'Todd Lockwood',0.46
+Enslaved Horror,Creature,Horror,Mercadian Masques,Uncommon,4,Black,False,False,True,False,b'Mike Ploog',0.17
+Extortion,Sorcery,None,Mercadian Masques,Rare,5,Black,False,False,True,False,b'Pete Venters',0.23
+Forced March,Sorcery,None,Mercadian Masques,Rare,4,Black,False,False,True,False,b'Greg Hildebrandt',0.6
+Ghoul's Feast,Instant,None,Mercadian Masques,Uncommon,2,Black,False,False,True,True,b'Alan Pollack',0.05
+Haunted Crossroads,Enchantment,None,Mercadian Masques,Uncommon,3,Black,False,False,True,False,b'Carl Critchlow',1.83
+Highway Robber,Creature,Human Mercenary,Mercadian Masques,Common,4,Black,True,False,True,True,b'Kev Walker',0.05
+Instigator,Creature,Human Spellshaper,Mercadian Masques,Rare,2,Black,False,False,True,False,b'Fred Fields',0.21
+Insubordination,Enchantment,Aura,Mercadian Masques,Common,2,Black,False,False,True,False,b'Andrew Goldhawk',0.04
+Intimidation,Enchantment,None,Mercadian Masques,Uncommon,5,Black,False,False,True,False,b'Terese Nielsen',0.23
+Larceny,Enchantment,None,Mercadian Masques,Uncommon,5,Black,True,False,True,True,b'Dave Dorman',0.28
+Liability,Enchantment,None,Mercadian Masques,Rare,3,Black,False,False,True,False,b'Christopher Moeller',0.37
+Maggot Therapy,Enchantment,Aura,Mercadian Masques,Common,3,Black,False,False,True,False,b'Jeff Easley',0.05
+Midnight Ritual,Sorcery,None,Mercadian Masques,Rare,3,Black,True,False,True,True,b'Jeff Easley',0.19
+Misshapen Fiend,Creature,Horror Mercenary,Mercadian Masques,Common,2,Black,False,False,True,False,b'Adam Rex',0.04
+Molting Harpy,Creature,Harpy Mercenary,Mercadian Masques,Uncommon,1,Black,False,False,True,False,b'Jeff Laubenstein',0.05
+Nether Spirit,Creature,Spirit,Mercadian Masques,Rare,3,Black,True,False,True,True,b'Alan Pollack',0.81
+Notorious Assassin,Creature,Human Spellshaper Assassin,Mercadian Masques,Rare,4,Black,False,False,True,False,b'Heather Hudson',0.3
+Pretender's Claim,Enchantment,Aura,Mercadian Masques,Uncommon,2,Black,False,False,True,False,b'Greg Hildebrandt',0.11
+Primeval Shambler,Creature,Horror Mercenary,Mercadian Masques,Uncommon,5,Black,True,False,True,True,b'Chippy',0.15
+Putrefaction,Enchantment,None,Mercadian Masques,Uncommon,5,Black,False,False,True,False,b'DiTerlizzi',0.2
+Quagmire Lamprey,Creature,Fish,Mercadian Masques,Uncommon,3,Black,False,False,True,False,b'Glen Angus',0.15
+Rain of Tears,Sorcery,None,Mercadian Masques,Uncommon,3,Black,True,False,True,True,"b'Edward P. Beard, Jr.'",0.29
+Rampart Crawler,Creature,Lizard Mercenary,Mercadian Masques,Common,1,Black,False,False,True,False,b'Pete Venters',0.09
+Rouse,Instant,None,Mercadian Masques,Common,2,Black,False,False,True,False,b'Dave Dorman',0.15
+Scandalmonger,Creature,Boar Monger,Mercadian Masques,Uncommon,4,Black,False,False,True,False,b'Matt Cavotta',0.15
+Sever Soul,Sorcery,None,Mercadian Masques,Common,5,Black,True,False,True,True,b'Jeff Easley',0.05
+Silent Assassin,Creature,Human Mercenary Assassin,Mercadian Masques,Rare,2,Black,False,False,True,False,b'rk post',0.3
+Skulking Fugitive,Creature,Horror Mercenary,Mercadian Masques,Common,3,Black,False,False,True,False,b'Scott M. Fischer',0.05
+Snuff Out,Instant,None,Mercadian Masques,Common,4,Black,False,False,True,True,b'Mike Ploog',1.12
+Soul Channeling,Enchantment,Aura,Mercadian Masques,Common,3,Black,False,False,True,False,b'DiTerlizzi',0.22
+Specter's Wail,Sorcery,None,Mercadian Masques,Common,2,Black,False,False,True,False,b'Randy Gallegos',0.11
+Strongarm Thug,Creature,Human Mercenary,Mercadian Masques,Uncommon,3,Black,False,False,True,False,b'Rebecca Guay',0.14
+Thrashing Wumpus,Creature,Beast,Mercadian Masques,Rare,5,Black,False,False,True,False,b'Jeff Miracola',0.46
+Undertaker,Creature,Human Spellshaper,Mercadian Masques,Common,2,Black,True,False,True,True,b'Jeff Easley',0.16
+Unmask,Sorcery,None,Mercadian Masques,Rare,4,Black,False,False,True,True,b'rk post',12.46
+Unnatural Hunger,Enchantment,Aura,Mercadian Masques,Rare,5,Black,False,False,True,False,b'Jeff Miracola',0.27
+Vendetta,Instant,None,Mercadian Masques,Common,1,Black,True,False,True,True,b'Dan Frazier',0.2
+Wall of Distortion,Creature,Wall,Mercadian Masques,Common,4,Black,False,False,True,False,b'Mark Tedin',0.08
+Arms Dealer,Creature,Goblin Rogue,Mercadian Masques,Uncommon,3,Red,True,False,True,True,b'Luca Zontini',0.17
+Battle Rampart,Creature,Wall,Mercadian Masques,Common,3,Red,True,False,True,True,b'Ron Spencer',0.12
+Battle Squadron,Creature,Goblin,Mercadian Masques,Rare,5,Red,False,False,True,True,b'Mark Tedin',0.27
+Blaster Mage,Creature,Human Spellshaper,Mercadian Masques,Common,3,Red,False,False,True,False,b'George Pratt',0.06
+Blood Hound,Creature,Hound,Mercadian Masques,Rare,3,Red,False,False,True,False,b'Bradley Williams',0.28
+Blood Oath,Instant,None,Mercadian Masques,Rare,4,Red,False,False,True,True,b'Mike Ploog',0.25
+Brawl,Instant,None,Mercadian Masques,Rare,5,Red,False,False,True,False,"b'Edward P. Beard, Jr.'",0.19
+Cave Sense,Enchantment,Aura,Mercadian Masques,Common,2,Red,False,False,True,False,b'Mark Romanoski',0.08
+Cave-In,Sorcery,None,Mercadian Masques,Rare,5,Red,False,False,True,False,b'Mark Tedin',0.58
+Cavern Crawler,Creature,Insect,Mercadian Masques,Common,3,Red,False,False,True,False,b'Pete Venters',0.09
+Ceremonial Guard,Creature,Human Soldier,Mercadian Masques,Common,3,Red,False,False,True,False,b'Daren Bader',0.05
+Cinder Elemental,Creature,Elemental,Mercadian Masques,Uncommon,4,Red,True,False,True,True,b'Greg Staples',0.15
+Close Quarters,Enchantment,None,Mercadian Masques,Uncommon,4,Red,False,False,True,False,b'Ron Spencer',0.15
+Crag Saurian,Creature,Lizard,Mercadian Masques,Rare,3,Red,False,False,True,False,b'Matthew D. Wilson',0.24
+Crash,Instant,None,Mercadian Masques,Common,3,Red,False,False,True,False,b'Doug Chaffee',0.15
+Flailing Manticore,Creature,Manticore,Mercadian Masques,Rare,4,Red,False,False,True,False,b'Roger Raupp',0.18
+Flailing Ogre,Creature,Ogre,Mercadian Masques,Uncommon,3,Red,False,False,True,False,b'Daniel R. Horne',0.14
+Flailing Soldier,Creature,Human Soldier,Mercadian Masques,Common,1,Red,False,False,True,False,b'Dany Orizio',0.07
+Flaming Sword,Enchantment,Aura,Mercadian Masques,Common,2,Red,False,False,True,False,b'Randy Gallegos',0.09
+Furious Assault,Enchantment,None,Mercadian Masques,Common,3,Red,False,False,True,False,b'Greg Staples',0.11
+Gerrard's Irregulars,Creature,Human Soldier,Mercadian Masques,Common,5,Red,False,False,True,False,b'Eric Peterson',0.03
+Hammer Mage,Creature,Human Spellshaper,Mercadian Masques,Uncommon,2,Red,False,False,True,False,b'Rebecca Guay',0.47
+Hired Giant,Creature,Giant,Mercadian Masques,Uncommon,4,Red,False,False,True,False,b'Ben Thompson',0.14
+Kris Mage,Creature,Human Spellshaper,Mercadian Masques,Common,1,Red,False,False,True,False,b'Matthew D. Wilson',0.13
+Kyren Glider,Creature,Goblin,Mercadian Masques,Common,2,Red,False,False,True,False,b'Daren Bader',0.05
+Kyren Legate,Creature,Goblin,Mercadian Masques,Uncommon,2,Red,False,False,True,False,b'Dave Dorman',0.19
+Kyren Negotiations,Enchantment,None,Mercadian Masques,Uncommon,4,Red,False,False,True,False,b'Scott Hampton',0.47
+Kyren Sniper,Creature,Goblin,Mercadian Masques,Common,3,Red,False,False,True,False,b'Carl Critchlow',0.05
+Lava Runner,Creature,Lizard,Mercadian Masques,Rare,3,Red,False,False,True,False,b'Donato Giancola',0.18
+Lightning Hounds,Creature,Hound,Mercadian Masques,Common,4,Red,False,False,True,True,b'Andrew Robinson',0.08
+Lithophage,Creature,Insect,Mercadian Masques,Rare,5,Red,False,False,True,True,b'Mike Ploog',0.15
+Lunge,Instant,None,Mercadian Masques,Common,3,Red,False,False,True,False,b'Dan Frazier',0.05
+Magistrate's Veto,Enchantment,None,Mercadian Masques,Uncommon,3,Red,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.1
+Mercadia's Downfall,Instant,None,Mercadian Masques,Uncommon,3,Red,False,False,True,False,b'Pete Venters',0.24
+Ogre Taskmaster,Creature,Ogre,Mercadian Masques,Uncommon,4,Red,True,False,True,True,b'Dany Orizio',0.15
+Pulverize,Sorcery,None,Mercadian Masques,Rare,6,Red,False,False,True,False,b'Scott M. Fischer',0.55
+Puppet's Verdict,Instant,None,Mercadian Masques,Rare,3,Red,False,False,True,False,"b'Edward P. Beard, Jr.'",4.77
+Robber Fly,Creature,Insect,Mercadian Masques,Uncommon,3,Red,False,False,True,False,b'John Matson',0.21
+Rock Badger,Creature,Badger Beast,Mercadian Masques,Uncommon,5,Red,True,False,True,True,b'Heather Hudson',0.08
+Seismic Mage,Creature,Human Spellshaper,Mercadian Masques,Rare,4,Red,False,False,True,False,b'Pete Venters',0.31
+Shock Troops,Creature,Human Soldier,Mercadian Masques,Common,4,Red,True,False,True,True,b'Jeff Miracola',0.05
+Sizzle,Sorcery,None,Mercadian Masques,Common,3,Red,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.14
+"Squee, Goblin Nabob",Legendary Creature,Goblin,Mercadian Masques,Rare,3,Red,True,False,True,True,b'David Monette',3.12
+Stone Rain,Sorcery,None,Mercadian Masques,Common,3,Red,True,False,True,True,b'Ben Thompson',0.15
+Tectonic Break,Sorcery,None,Mercadian Masques,Rare,3,Red,False,False,True,False,b'Rebecca Guay',2.48
+Territorial Dispute,Enchantment,None,Mercadian Masques,Rare,6,Red,False,False,True,False,b'Mike Ploog',0.23
+Thieves' Auction,Sorcery,None,Mercadian Masques,Rare,7,Red,True,False,True,True,b'Kevin Murphy',2.35
+Thunderclap,Instant,None,Mercadian Masques,Common,3,Red,False,False,True,False,b'Tom W\xc3\xa4nerstrand',0.14
+Tremor,Sorcery,None,Mercadian Masques,Common,1,Red,True,False,True,True,b'Mark Romanoski',0.05
+Two-Headed Dragon,Creature,Dragon,Mercadian Masques,Rare,6,Red,True,False,True,True,b'Sam Wood',0.64
+Uphill Battle,Enchantment,None,Mercadian Masques,Uncommon,3,Red,False,False,True,False,b'Pete Venters',0.25
+Volcanic Wind,Sorcery,None,Mercadian Masques,Uncommon,6,Red,False,False,True,False,b'Rebecca Guay',0.18
+War Cadence,Enchantment,None,Mercadian Masques,Uncommon,3,Red,False,False,True,True,b'John Matson',0.41
+Warmonger,Creature,Minotaur Monger,Mercadian Masques,Uncommon,4,Red,False,False,True,True,b'Heather Hudson',0.27
+Warpath,Instant,None,Mercadian Masques,Uncommon,4,Red,False,False,True,False,b'Paolo Parente',0.12
+Wild Jhovall,Creature,Cat,Mercadian Masques,Common,4,Red,False,False,True,False,b'Daren Bader',0.06
+Word of Blasting,Instant,None,Mercadian Masques,Uncommon,2,Red,False,False,True,True,b'Eric Peterson',0.1
+Ancestral Mask,Enchantment,Aura,Mercadian Masques,Common,3,Green,False,False,True,True,b'Massimilano Frezzato',1.61
+Bifurcate,Sorcery,None,Mercadian Masques,Rare,4,Green,False,False,True,False,b'John Matson',0.41
+Boa Constrictor,Creature,Snake,Mercadian Masques,Uncommon,5,Green,False,False,True,False,b'Carl Critchlow',0.11
+Briar Patch,Enchantment,None,Mercadian Masques,Uncommon,3,Green,False,False,True,False,b'Rebecca Guay',0.25
+Caller of the Hunt,Creature,Human,Mercadian Masques,Rare,3,Green,False,False,True,False,b'Clyde Caldwell',0.5
+Caustic Wasps,Creature,Insect,Mercadian Masques,Uncommon,3,Green,False,False,True,False,b'Glen Angus',0.15
+Clear the Land,Sorcery,None,Mercadian Masques,Rare,3,Green,False,False,True,False,b'Bradley Williams',0.48
+Collective Unconscious,Sorcery,None,Mercadian Masques,Rare,6,Green,True,False,True,True,b'Andrew Goldhawk',1.16
+Dawnstrider,Creature,Dryad Spellshaper,Mercadian Masques,Rare,2,Green,False,False,True,False,b'rk post',1.33
+Deadly Insect,Creature,Insect,Mercadian Masques,Common,5,Green,False,False,True,True,b'Randy Gallegos',0.06
+Deepwood Drummer,Creature,Human Spellshaper,Mercadian Masques,Common,2,Green,False,False,True,False,b'Ron Spears',0.05
+Deepwood Elder,Creature,Dryad Spellshaper,Mercadian Masques,Rare,2,Green,False,False,True,False,b'Greg Hildebrandt',0.36
+Deepwood Tantiv,Creature,Beast,Mercadian Masques,Uncommon,5,Green,False,False,True,False,b'Joel Biske',0.08
+Deepwood Wolverine,Creature,Wolverine,Mercadian Masques,Common,1,Green,False,False,True,False,b'Ray Lago',0.05
+Desert Twister,Sorcery,None,Mercadian Masques,Uncommon,6,Green,False,False,True,True,b'Kevin Murphy',0.18
+Erithizon,Creature,Beast,Mercadian Masques,Rare,4,Green,False,False,True,False,b'Scott M. Fischer',0.17
+Ferocity,Enchantment,Aura,Mercadian Masques,Common,2,Green,False,False,True,False,b'Pete Venters',0.12
+Food Chain,Enchantment,None,Mercadian Masques,Rare,3,Green,False,False,True,True,b'Val Mayerik',46.25
+Foster,Enchantment,None,Mercadian Masques,Rare,4,Green,False,False,True,True,b'Carl Critchlow',0.32
+Game Preserve,Enchantment,None,Mercadian Masques,Rare,3,Green,False,False,True,False,b'Luca Zontini',0.23
+Giant Caterpillar,Creature,Insect,Mercadian Masques,Common,4,Green,False,False,True,True,b'Arnie Swekel',0.04
+Groundskeeper,Creature,Human Druid,Mercadian Masques,Uncommon,1,Green,True,False,True,True,b'Alan Rabinowitz',0.36
+Horned Troll,Creature,Troll,Mercadian Masques,Common,3,Green,True,False,True,True,b'Heather Hudson',0.06
+Howling Wolf,Creature,Wolf,Mercadian Masques,Common,4,Green,False,False,True,True,b'Heather Hudson',0.15
+Hunted Wumpus,Creature,Beast,Mercadian Masques,Uncommon,4,Green,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.25
+Invigorate,Instant,None,Mercadian Masques,Common,3,Green,False,False,True,True,b'Dan Frazier',0.28
+Land Grant,Sorcery,None,Mercadian Masques,Common,2,Green,False,False,True,False,b'D. Alexander Gregory',0.45
+Ley Line,Enchantment,None,Mercadian Masques,Uncommon,4,Green,False,False,True,False,b'Terese Nielsen',0.16
+Lumbering Satyr,Creature,Satyr Beast,Mercadian Masques,Uncommon,4,Green,False,False,True,False,b'Alan Pollack',0.18
+Lure,Enchantment,Aura,Mercadian Masques,Uncommon,3,Green,True,False,True,True,b'DiTerlizzi',0.13
+Megatherium,Creature,Beast,Mercadian Masques,Rare,3,Green,False,False,True,False,b'Paolo Parente',0.24
+Natural Affinity,Instant,None,Mercadian Masques,Rare,3,Green,True,False,True,True,b'Pete Venters',0.68
+Pangosaur,Creature,Dinosaur,Mercadian Masques,Rare,4,Green,False,False,True,False,b'Mark Tedin',0.21
+Revive,Sorcery,None,Mercadian Masques,Uncommon,2,Green,True,False,True,True,b'Matthew D. Wilson',0.16
+Rushwood Dryad,Creature,Dryad,Mercadian Masques,Common,2,Green,True,False,True,True,b'Todd Lockwood',0.03
+Rushwood Elemental,Creature,Elemental,Mercadian Masques,Rare,5,Green,False,False,True,False,b'Hannibal King',0.55
+Rushwood Herbalist,Creature,Human Spellshaper,Mercadian Masques,Common,3,Green,False,False,True,False,b'Terese Nielsen',0.07
+Rushwood Legate,Creature,Dryad,Mercadian Masques,Uncommon,3,Green,False,False,True,False,b'Mark Romanoski',0.23
+Saber Ants,Creature,Insect,Mercadian Masques,Uncommon,4,Green,False,False,True,False,b'Greg Staples',0.38
+Sacred Prey,Creature,Horse,Mercadian Masques,Common,1,Green,False,False,True,False,b'Rebecca Guay',0.09
+Silverglade Elemental,Creature,Elemental,Mercadian Masques,Common,5,Green,False,False,True,True,b'Chippy',0.12
+Silverglade Pathfinder,Creature,Dryad Spellshaper,Mercadian Masques,Uncommon,2,Green,False,False,True,False,b'rk post',0.31
+Snake Pit,Enchantment,None,Mercadian Masques,Uncommon,4,Green,False,False,True,False,b'Carl Critchlow',0.38
+Snorting Gahr,Creature,Rhino Beast,Mercadian Masques,Common,4,Green,False,False,True,False,b'Andrew Goldhawk',0.05
+Spidersilk Armor,Enchantment,None,Mercadian Masques,Common,3,Green,False,False,True,True,b'Scott Hampton',1.56
+Spontaneous Generation,Sorcery,None,Mercadian Masques,Rare,4,Green,False,False,True,False,b'Alan Pollack',0.73
+Squall,Sorcery,None,Mercadian Masques,Common,3,Green,False,False,True,True,b'Val Mayerik',0.04
+Squallmonger,Creature,Monger,Mercadian Masques,Uncommon,4,Green,False,False,True,True,b'Heather Hudson',0.15
+Stamina,Enchantment,Aura,Mercadian Masques,Uncommon,3,Green,False,False,True,False,b'Paolo Parente',0.16
+Sustenance,Enchantment,None,Mercadian Masques,Uncommon,2,Green,False,False,True,False,b'Qiao Dafu',0.17
+Tiger Claws,Enchantment,Aura,Mercadian Masques,Common,3,Green,False,False,True,False,b'Adam Rex',0.11
+Tranquility,Sorcery,None,Mercadian Masques,Common,3,Green,False,False,True,True,b'Heather Hudson',0.11
+Venomous Breath,Instant,None,Mercadian Masques,Uncommon,4,Green,False,False,True,True,b'DiTerlizzi',0.06
+Venomous Dragonfly,Creature,Insect,Mercadian Masques,Common,4,Green,False,False,True,False,b'Tom W\xc3\xa4nerstrand',0.08
+Vernal Equinox,Enchantment,None,Mercadian Masques,Rare,4,Green,False,False,True,False,b'Rebecca Guay',2.1
+Vine Dryad,Creature,Dryad,Mercadian Masques,Rare,4,Green,False,False,True,False,b'Jeff Laubenstein',0.32
+Vine Trellis,Creature,Plant Wall,Mercadian Masques,Common,2,Green,True,False,True,True,b'DiTerlizzi',0.23
+Assembly Hall,Artifact,None,Mercadian Masques,Rare,5,Colorless,False,False,True,False,b'Val Mayerik',0.21
+Barbed Wire,Artifact,None,Mercadian Masques,Uncommon,3,Colorless,False,False,True,False,b'Ron Spencer',0.21
+Bargaining Table,Artifact,None,Mercadian Masques,Rare,5,Colorless,False,False,True,False,b'Scott M. Fischer',0.37
+Credit Voucher,Artifact,None,Mercadian Masques,Uncommon,2,Colorless,False,False,True,False,b'D. Alexander Gregory',1.2
+Crenellated Wall,Artifact Creature,Wall,Mercadian Masques,Uncommon,4,Colorless,False,False,True,True,b'Arnie Swekel',0.66
+Crooked Scales,Artifact,None,Mercadian Masques,Rare,4,Colorless,False,False,True,False,b'Ron Spears',0.75
+Crumbling Sanctuary,Artifact,None,Mercadian Masques,Rare,5,Colorless,False,False,True,True,b'Randy Gallegos',0.4
+Distorting Lens,Artifact,None,Mercadian Masques,Rare,2,Colorless,True,False,True,True,b'Glen Angus',0.44
+Eye of Ramos,Artifact,None,Mercadian Masques,Rare,3,Colorless,False,False,True,False,b'David Martin',0.93
+General's Regalia,Artifact,None,Mercadian Masques,Rare,3,Colorless,False,False,True,False,b'David Monette',0.36
+Heart of Ramos,Artifact,None,Mercadian Masques,Rare,3,Colorless,False,False,True,True,b'David Martin',1.12
+Henge Guardian,Artifact Creature,Dragon Wurm,Mercadian Masques,Uncommon,5,Colorless,False,False,True,True,b'Chippy',0.26
+Horn of Plenty,Artifact,None,Mercadian Masques,Rare,6,Colorless,False,False,True,False,b'Brian Despain',0.36
+Horn of Ramos,Artifact,None,Mercadian Masques,Rare,3,Colorless,False,False,True,False,b'David Martin',0.42
+Iron Lance,Artifact,None,Mercadian Masques,Uncommon,2,Colorless,False,False,True,False,b'Scott M. Fischer',0.18
+Jeweled Torque,Artifact,None,Mercadian Masques,Uncommon,2,Colorless,False,False,True,False,b'Mark Zug',0.1
+Kyren Archive,Artifact,None,Mercadian Masques,Rare,3,Colorless,False,False,True,False,b'Roger Raupp',0.24
+Kyren Toy,Artifact,None,Mercadian Masques,Rare,3,Colorless,False,False,True,False,b'Arnie Swekel',0.38
+Magistrate's Scepter,Artifact,None,Mercadian Masques,Rare,3,Colorless,True,False,True,True,b'Adam Rex',0.99
+Mercadian Atlas,Artifact,None,Mercadian Masques,Rare,5,Colorless,False,False,True,False,b'Dan Frazier',0.37
+Mercadian Lift,Artifact,None,Mercadian Masques,Rare,2,Colorless,False,False,True,False,b'Gary Ruddell',0.32
+Monkey Cage,Artifact,None,Mercadian Masques,Rare,5,Colorless,False,False,True,False,b'Carl Critchlow',0.41
+Panacea,Artifact,None,Mercadian Masques,Uncommon,4,Colorless,False,False,True,False,b'Donato Giancola',0.13
+Power Matrix,Artifact,None,Mercadian Masques,Rare,4,Colorless,False,False,True,False,b'Alan Pollack',3.04
+Puffer Extract,Artifact,None,Mercadian Masques,Uncommon,5,Colorless,False,False,True,False,b'Heather Hudson',0.12
+Rishadan Pawnshop,Artifact,None,Mercadian Masques,Rare,2,Colorless,False,False,True,False,b'Joel Biske',0.29
+Skull of Ramos,Artifact,None,Mercadian Masques,Rare,3,Colorless,False,False,True,False,b'David Martin',1.38
+Tooth of Ramos,Artifact,None,Mercadian Masques,Rare,3,Colorless,False,False,True,False,b'David Martin',0.44
+Toymaker,Artifact Creature,Spellshaper,Mercadian Masques,Uncommon,2,Colorless,False,False,True,False,b'Frank Kelly Freas',0.2
+Worry Beads,Artifact,None,Mercadian Masques,Rare,3,Colorless,False,False,True,False,b'rk post',0.28
+Dust Bowl,Land,None,Mercadian Masques,Rare,0,Colorless,False,False,True,True,b'Ben Thompson',10.1
+Fountain of Cho,Land,None,Mercadian Masques,Uncommon,0,Colorless,False,False,True,False,b'Scott Hampton',0.32
+Henge of Ramos,Land,None,Mercadian Masques,Uncommon,0,Colorless,False,False,True,False,"b'Edward P. Beard, Jr.'",0.18
+Hickory Woodlot,Land,None,Mercadian Masques,Common,0,Colorless,False,False,True,False,b'Sean McConnell',0.31
+High Market,Land,None,Mercadian Masques,Rare,0,Colorless,False,False,True,True,b'Carl Critchlow',5.28
+Mercadian Bazaar,Land,None,Mercadian Masques,Uncommon,0,Colorless,False,False,True,False,b'Terese Nielsen',0.32
+Peat Bog,Land,None,Mercadian Masques,Common,0,Colorless,False,False,True,False,b'Val Mayerik',0.53
+Remote Farm,Land,None,Mercadian Masques,Common,0,Colorless,False,False,True,False,b'Rob Alexander',0.21
+Rishadan Port,Land,None,Mercadian Masques,Rare,0,Colorless,False,False,True,True,b'Jerry Tiritilli',25.92
+Rushwood Grove,Land,None,Mercadian Masques,Uncommon,0,Colorless,False,False,True,False,b'George Pratt',0.34
+Sandstone Needle,Land,None,Mercadian Masques,Common,0,Colorless,False,False,True,False,b'Alan Rabinowitz',0.33
+Saprazzan Cove,Land,None,Mercadian Masques,Uncommon,0,Colorless,False,False,True,False,b'Rebecca Guay',0.57
+Saprazzan Skerry,Land,None,Mercadian Masques,Common,0,Colorless,False,False,True,True,b'Pat Morrissey',0.3
+Subterranean Hangar,Land,None,Mercadian Masques,Uncommon,0,Colorless,False,False,True,False,b'Matt Cavotta',0.34
+Tower of the Magistrate,Land,None,Mercadian Masques,Rare,0,Colorless,False,False,True,False,b'Thomas Gianni',2.78
+Plains,Basic Land,Plains,Mercadian Masques,Common,0,Colorless,True,True,True,True,b'Terry Springer',0.27
+Plains,Basic Land,Plains,Mercadian Masques,Common,0,Colorless,True,True,True,True,b'Scott Bailey',0.19
+Plains,Basic Land,Plains,Mercadian Masques,Common,0,Colorless,True,True,True,True,b'Dana Knutson',0.19
+Plains,Basic Land,Plains,Mercadian Masques,Common,0,Colorless,True,True,True,True,"b'Edward P. Beard, Jr.'",0.26
+Island,Basic Land,Island,Mercadian Masques,Common,0,Colorless,True,True,True,True,b'Terry Springer',0.3
+Island,Basic Land,Island,Mercadian Masques,Common,0,Colorless,True,True,True,True,b'Scott Bailey',0.35
+Island,Basic Land,Island,Mercadian Masques,Common,0,Colorless,True,True,True,True,b'Scott Bailey',0.3
+Island,Basic Land,Island,Mercadian Masques,Common,0,Colorless,True,True,True,True,b'Tony Szczudlo',0.52
+Swamp,Basic Land,Swamp,Mercadian Masques,Common,0,Colorless,True,True,True,True,b'Jeff Easley',0.33
+Swamp,Basic Land,Swamp,Mercadian Masques,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.26
+Swamp,Basic Land,Swamp,Mercadian Masques,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.3
+Swamp,Basic Land,Swamp,Mercadian Masques,Common,0,Colorless,True,True,True,True,b'Terry Springer',0.47
+Mountain,Basic Land,Mountain,Mercadian Masques,Common,0,Colorless,True,True,True,True,b'Terry Springer',0.23
+Mountain,Basic Land,Mountain,Mercadian Masques,Common,0,Colorless,True,True,True,True,b'Scott Bailey',0.22
+Mountain,Basic Land,Mountain,Mercadian Masques,Common,0,Colorless,True,True,True,True,b'Dana Knutson',0.24
+Mountain,Basic Land,Mountain,Mercadian Masques,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.58
+Forest,Basic Land,Forest,Mercadian Masques,Common,0,Colorless,True,True,True,True,b'Donato Giancola',0.43
+Forest,Basic Land,Forest,Mercadian Masques,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.23
+Forest,Basic Land,Forest,Mercadian Masques,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.42
+Forest,Basic Land,Forest,Mercadian Masques,Common,0,Colorless,True,True,True,True,b'Terry Springer',0.46

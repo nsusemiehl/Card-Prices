@@ -1,0 +1,345 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Aerial Assault,Sorcery,None,Core Set 2020,Common,3,White,True,True,True,True,b'Dan Scott',0.04
+"Ajani, Strength of the Pride",Legendary Planeswalker,Ajani,Core Set 2020,Mythic Rare,4,White,True,True,True,True,b'Chris Rallis',10.36
+Ancestral Blade,Artifact,Equipment,Core Set 2020,Uncommon,2,White,True,True,True,True,b'Scott Murphy',0.08
+Angel of Vitality,Creature,Angel,Core Set 2020,Uncommon,3,White,True,True,True,True,b'Johannes Voss',0.29
+Angelic Gift,Enchantment,Aura,Core Set 2020,Common,2,White,True,True,True,True,b'Josu Hernaiz',0.08
+Apostle of Purifying Light,Creature,Human Cleric,Core Set 2020,Uncommon,2,White,True,True,True,True,b'Bastien L. Deharme',0.23
+Battalion Foot Soldier,Creature,Human Soldier,Core Set 2020,Common,3,White,True,True,True,True,b'Cristi Balanescu',0.05
+Bishop of Wings,Creature,Human Cleric,Core Set 2020,Rare,2,White,True,True,True,True,b'Matt Stewart',0.48
+Brought Back,Instant,None,Core Set 2020,Rare,2,White,True,True,True,True,b'Mitchell Malloy',0.53
+Cavalier of Dawn,Creature,Elemental Knight,Core Set 2020,Mythic Rare,5,White,True,True,True,True,b'Daarken',2.9
+Dawning Angel,Creature,Angel,Core Set 2020,Common,5,White,True,True,True,True,b'Yongjae Choi',0.05
+Daybreak Chaplain,Creature,Human Cleric,Core Set 2020,Common,2,White,True,True,True,True,b'Volkan Ba\xc7\xb5a',0.02
+Devout Decree,Sorcery,None,Core Set 2020,Uncommon,2,White,True,True,True,True,b'Zoltan Boros',0.21
+Disenchant,Instant,None,Core Set 2020,Common,2,White,True,True,True,True,b'Victor Adame Minguez',0.12
+Eternal Isolation,Sorcery,None,Core Set 2020,Uncommon,2,White,True,True,True,True,b'Johan Grenier',0.06
+Fencing Ace,Creature,Human Soldier,Core Set 2020,Uncommon,2,White,True,True,True,True,b'David Rapoza',0.06
+Gauntlets of Light,Enchantment,Aura,Core Set 2020,Uncommon,3,White,True,True,True,True,b'Ekaterina Burmak',0.08
+Glaring Aegis,Enchantment,Aura,Core Set 2020,Common,1,White,True,True,True,True,b'Anthony Palumbo',0.05
+Gods Willing,Instant,None,Core Set 2020,Uncommon,1,White,True,True,True,True,b'Mark Winters',0.18
+Griffin Protector,Creature,Griffin,Core Set 2020,Common,4,White,True,True,True,True,b'Christopher Moeller',0.03
+Griffin Sentinel,Creature,Griffin,Core Set 2020,Common,3,White,True,True,True,True,b'Warren Mahy',0.03
+Hanged Executioner,Creature,Spirit,Core Set 2020,Rare,3,White,True,True,True,True,b'Johann Bodin',0.37
+Herald of the Sun,Creature,Angel,Core Set 2020,Uncommon,6,White,True,True,True,True,b'Micah Epstein',0.05
+Inspired Charge,Instant,None,Core Set 2020,Common,4,White,True,True,True,True,b'Wayne Reynolds',0.04
+Inspiring Captain,Creature,Human Knight,Core Set 2020,Common,4,White,True,True,True,True,b'Ben Maier',0.03
+Leyline of Sanctity,Enchantment,None,Core Set 2020,Rare,4,White,True,True,True,True,b'Noah Bradley',2.15
+Loxodon Lifechanter,Creature,Elephant Cleric,Core Set 2020,Rare,6,White,True,True,True,True,b'Nicholas Gregory',0.14
+Loyal Pegasus,Creature,Pegasus,Core Set 2020,Uncommon,1,White,True,True,True,True,b'John Severin Brassell',0.09
+Master Splicer,Creature,Human Artificer,Core Set 2020,Uncommon,4,White,True,True,True,True,b'Chippy',0.06
+Moment of Heroism,Instant,None,Core Set 2020,Common,2,White,True,True,True,True,b'Christopher Moeller',0.06
+Moorland Inquisitor,Creature,Human Soldier,Core Set 2020,Common,2,White,True,True,True,True,b'David Palumbo',0.02
+Pacifism,Enchantment,Aura,Core Set 2020,Common,2,White,True,True,True,True,b'Jesper Ejsing',0.06
+Planar Cleansing,Sorcery,None,Core Set 2020,Rare,6,White,True,True,True,True,b'Michael Komarck',0.24
+Raise the Alarm,Instant,None,Core Set 2020,Common,2,White,True,True,True,True,b'Zoltan Boros',0.11
+Rule of Law,Enchantment,None,Core Set 2020,Uncommon,3,White,True,True,True,True,b'Scott M. Fischer',0.17
+"Sephara, Sky's Blade",Legendary Creature,Angel,Core Set 2020,Rare,7,White,True,True,True,True,b'Livia Prima',0.65
+Soulmender,Creature,Human Cleric,Core Set 2020,Common,1,White,True,True,True,True,b'James Ryman',0.03
+Squad Captain,Creature,Human Soldier,Core Set 2020,Common,5,White,True,True,True,True,b'Cristi Balanescu',0.03
+Starfield Mystic,Creature,Human Cleric,Core Set 2020,Rare,2,White,True,True,True,True,b'Eric Deschamps',1.04
+Steadfast Sentry,Creature,Human Soldier,Core Set 2020,Common,3,White,True,True,True,True,b'Bram Sels',0.03
+Yoked Ox,Creature,Ox,Core Set 2020,Common,1,White,True,True,True,True,b'Ryan Yee',0.04
+Aether Gust,Instant,None,Core Set 2020,Uncommon,2,Blue,True,True,True,True,b'Tomasz Jedruszek',0.46
+Agent of Treachery,Creature,Human Rogue,Core Set 2020,Rare,7,Blue,True,True,True,True,b'Igor Kieryluk',7.83
+Air Elemental,Creature,Elemental,Core Set 2020,Uncommon,5,Blue,True,True,True,True,b'Tomasz Jedruszek',0.03
+Anticipate,Instant,None,Core Set 2020,Common,2,Blue,True,True,True,True,b'Tyler Jacobson',0.09
+"Atemsis, All-Seeing",Legendary Creature,Sphinx,Core Set 2020,Rare,6,Blue,True,True,True,True,b'Ryan Pancoast',0.25
+Befuddle,Instant,None,Core Set 2020,Common,3,Blue,True,True,True,True,b'Svetlin Velinov',0.03
+Bone to Ash,Instant,None,Core Set 2020,Common,4,Blue,True,True,True,True,b'Clint Cearley',0.03
+Boreal Elemental,Creature,Elemental,Core Set 2020,Common,5,Blue,True,True,True,True,b'Victor Adame Minguez',0.03
+Brineborn Cutthroat,Creature,Merfolk Pirate,Core Set 2020,Uncommon,2,Blue,True,True,True,True,b'Caio Monteiro',0.17
+Captivating Gyre,Sorcery,None,Core Set 2020,Uncommon,6,Blue,True,True,True,True,b'Anthony Palumbo',0.05
+Cavalier of Gales,Creature,Elemental Knight,Core Set 2020,Mythic Rare,5,Blue,True,True,True,True,b'Viktor Titov',3.33
+Cerulean Drake,Creature,Drake,Core Set 2020,Uncommon,2,Blue,True,True,True,True,b'Daniel Ljunggren',0.19
+Cloudkin Seer,Creature,Elemental Wizard,Core Set 2020,Common,3,Blue,True,True,True,True,b'Anastasia Ovchinnikova',0.13
+Convolute,Instant,None,Core Set 2020,Common,3,Blue,True,True,True,True,b'Viktor Titov',0.06
+Drawn from Dreams,Sorcery,None,Core Set 2020,Rare,4,Blue,True,True,True,True,b'Chris Seaman',0.29
+Dungeon Geists,Creature,Spirit,Core Set 2020,Rare,4,Blue,True,True,True,True,b'Nils Hamm',0.19
+Faerie Miscreant,Creature,Faerie Rogue,Core Set 2020,Common,1,Blue,True,True,True,True,b'Steven Belledin',0.1
+Flood of Tears,Sorcery,None,Core Set 2020,Rare,6,Blue,True,True,True,True,b'Adam Paquette',0.83
+Fortress Crab,Creature,Crab,Core Set 2020,Common,4,Blue,True,True,True,True,b'Vincent Proce',0.04
+Frilled Sea Serpent,Creature,Serpent,Core Set 2020,Common,6,Blue,True,True,True,True,b'Steven Belledin',0.02
+Frost Lynx,Creature,Elemental Cat,Core Set 2020,Common,3,Blue,True,True,True,True,b'Izzy',0.04
+Hard Cover,Enchantment,Aura,Core Set 2020,Uncommon,1,Blue,True,True,True,True,b'Pindurski',0.05
+Leyline of Anticipation,Enchantment,None,Core Set 2020,Rare,4,Blue,True,True,True,True,b'Noah Bradley',4.68
+Masterful Replication,Instant,None,Core Set 2020,Rare,6,Blue,True,True,True,True,b'Victor Adame Minguez',0.19
+Metropolis Sprite,Creature,Faerie Rogue,Core Set 2020,Common,2,Blue,True,True,True,True,b'Scott Chou',0.04
+Moat Piranhas,Creature,Fish,Core Set 2020,Common,2,Blue,True,True,True,True,b'Rudy Siswanto',0.03
+"Mu Yanling, Sky Dancer",Legendary Planeswalker,Yanling,Core Set 2020,Mythic Rare,3,Blue,True,True,True,True,b'G-host Lee',2.08
+Negate,Instant,None,Core Set 2020,Common,2,Blue,True,True,True,True,b'Magali Villeneuve',0.12
+Octoprophet,Creature,Octopus,Core Set 2020,Common,4,Blue,True,True,True,True,b'Grzegorz Rutkowski',0.07
+Portal of Sanctuary,Artifact,None,Core Set 2020,Uncommon,3,Blue,True,True,True,True,b'Randy Vargas',0.1
+Renowned Weaponsmith,Creature,Human Artificer,Core Set 2020,Uncommon,2,Blue,True,True,True,True,b'Eric Deschamps',0.08
+Sage's Row Denizen,Creature,Vedalken Wizard,Core Set 2020,Common,3,Blue,True,True,True,True,b'Svetlin Velinov',0.04
+Scholar of the Ages,Creature,Human Wizard,Core Set 2020,Uncommon,7,Blue,True,True,True,True,b'Micah Epstein',0.12
+Sleep Paralysis,Enchantment,Aura,Core Set 2020,Common,4,Blue,True,True,True,True,b'Josu Hernaiz',0.03
+Spectral Sailor,Creature,Spirit Pirate,Core Set 2020,Uncommon,1,Blue,True,True,True,True,b'Cristi Balanescu',0.3
+Tale's End,Instant,None,Core Set 2020,Rare,2,Blue,True,True,True,True,b'Randy Vargas',0.64
+Unsummon,Instant,None,Core Set 2020,Common,1,Blue,True,True,True,True,b'Izzy',0.11
+Warden of Evos Isle,Creature,Bird Wizard,Core Set 2020,Uncommon,3,Blue,True,True,True,True,b'Nils Hamm',0.14
+Winged Words,Sorcery,None,Core Set 2020,Common,3,Blue,True,True,True,True,b'Chris Seaman',0.12
+Yarok's Wavecrasher,Creature,Elemental,Core Set 2020,Uncommon,4,Blue,True,True,True,True,b'Randy Vargas',0.1
+Zephyr Charge,Enchantment,None,Core Set 2020,Common,2,Blue,True,True,True,True,b'Steve Prescott',0.02
+Agonizing Syphon,Sorcery,None,Core Set 2020,Common,4,Black,True,True,True,True,b'Seb McKinnon',0.05
+Audacious Thief,Creature,Human Rogue,Core Set 2020,Common,3,Black,True,True,True,True,b'Dmitry Burmak',0.06
+Barony Vampire,Creature,Vampire,Core Set 2020,Common,3,Black,True,True,True,True,b'Daarken',0.05
+Bladebrand,Instant,None,Core Set 2020,Common,2,Black,True,True,True,True,b'Winona Nelson',0.05
+Blightbeetle,Creature,Insect,Core Set 2020,Uncommon,2,Black,True,True,True,True,b'Jason Kang',0.16
+Blood Burglar,Creature,Vampire Rogue,Core Set 2020,Common,2,Black,True,True,True,True,b'Cristi Balanescu',0.06
+Blood for Bones,Sorcery,None,Core Set 2020,Uncommon,4,Black,True,True,True,True,b'Seb McKinnon',0.27
+Bloodsoaked Altar,Artifact,None,Core Set 2020,Uncommon,6,Black,True,True,True,True,b'Sidharth Chaturvedi',0.09
+Bloodthirsty Aerialist,Creature,Vampire Rogue,Core Set 2020,Uncommon,3,Black,True,True,True,True,b'Igor Kieryluk',0.3
+Bone Splinters,Sorcery,None,Core Set 2020,Common,1,Black,True,True,True,True,b'Cole Eastburn',0.07
+Boneclad Necromancer,Creature,Human Wizard,Core Set 2020,Common,5,Black,True,True,True,True,b'Robbie Trevino',0.04
+Cavalier of Night,Creature,Elemental Knight,Core Set 2020,Mythic Rare,5,Black,True,True,True,True,b'Viktor Titov',4.11
+Disfigure,Instant,None,Core Set 2020,Uncommon,1,Black,True,True,True,True,b'Justin Sweet',0.12
+Dread Presence,Creature,Nightmare,Core Set 2020,Rare,4,Black,True,True,True,True,b'Anthony Palumbo',0.81
+Duress,Sorcery,None,Core Set 2020,Common,1,Black,True,True,True,True,b'Steven Belledin',0.07
+Embodiment of Agonies,Creature,Demon,Core Set 2020,Rare,3,Black,True,True,True,True,b'Igor Kieryluk',0.33
+Epicure of Blood,Creature,Vampire,Core Set 2020,Common,5,Black,True,True,True,True,b'Anna Steinbauer',0.04
+Fathom Fleet Cutthroat,Creature,Human Pirate,Core Set 2020,Common,4,Black,True,True,True,True,b'Josu Hernaiz',0.04
+Feral Abomination,Creature,Thrull,Core Set 2020,Common,6,Black,True,True,True,True,b'Darek Zabrocki',0.03
+Gorging Vulture,Creature,Bird,Core Set 2020,Common,3,Black,True,True,True,True,b'Caio Monteiro',0.07
+Gravedigger,Creature,Zombie,Core Set 2020,Uncommon,4,Black,True,True,True,True,b'Tony Foti',0.06
+Gruesome Scourger,Creature,Orc Warrior,Core Set 2020,Uncommon,5,Black,True,True,True,True,b'Karl Kopinski',0.05
+Knight of the Ebon Legion,Creature,Vampire Knight,Core Set 2020,Rare,1,Black,True,True,True,True,b'Alex Konstad',1.38
+Legion's End,Sorcery,None,Core Set 2020,Rare,2,Black,True,True,True,True,b'David Palumbo',0.92
+Leyline of the Void,Enchantment,None,Core Set 2020,Rare,4,Black,True,True,True,True,b'Noah Bradley',8.74
+Mind Rot,Sorcery,None,Core Set 2020,Common,3,Black,True,True,True,True,b'Seb McKinnon',0.07
+Murder,Instant,None,Core Set 2020,Common,3,Black,True,True,True,True,b'Allen Williams',0.09
+Noxious Grasp,Instant,None,Core Set 2020,Uncommon,2,Black,True,True,True,True,b'Tomasz Jedruszek',0.23
+Rotting Regisaur,Creature,Zombie Dinosaur,Core Set 2020,Rare,3,Black,True,True,True,True,b'Randy Vargas',2.67
+Sanitarium Skeleton,Creature,Skeleton,Core Set 2020,Common,1,Black,True,True,True,True,b'Kev Walker',0.07
+Scheming Symmetry,Sorcery,None,Core Set 2020,Rare,1,Black,True,True,True,True,b'Seb McKinnon',2.16
+Sorcerer of the Fang,Creature,Human Wizard,Core Set 2020,Common,2,Black,True,True,True,True,b'Caio Monteiro',0.03
+"Sorin, Imperious Bloodlord",Legendary Planeswalker,Sorin,Core Set 2020,Mythic Rare,3,Black,True,True,True,True,b'Chase Stone',8.65
+Soul Salvage,Sorcery,None,Core Set 2020,Common,3,Black,True,True,True,True,b'Daarken',0.03
+Thought Distortion,Sorcery,None,Core Set 2020,Uncommon,6,Black,True,True,True,True,b'David Palumbo',0.15
+Undead Servant,Creature,Zombie,Core Set 2020,Common,4,Black,True,True,True,True,b'James Zapata',0.04
+Unholy Indenture,Enchantment,Aura,Core Set 2020,Common,3,Black,True,True,True,True,b'Seb McKinnon',0.06
+Vampire of the Dire Moon,Creature,Vampire,Core Set 2020,Uncommon,1,Black,True,True,True,True,b'Anna Podedworna',0.58
+Vengeful Warchief,Creature,Orc Warrior,Core Set 2020,Uncommon,5,Black,True,True,True,True,b'Karl Kopinski',0.03
+"Vilis, Broker of Blood",Legendary Creature,Demon,Core Set 2020,Rare,8,Black,True,True,True,True,b'Tyler Jacobson',1.51
+Yarok's Fenlurker,Creature,Horror,Core Set 2020,Uncommon,2,Black,True,True,True,True,b'Daarken',0.45
+Act of Treason,Sorcery,None,Core Set 2020,Common,3,Red,True,True,True,True,b'Eric Deschamps',0.06
+Cavalier of Flame,Creature,Elemental Knight,Core Set 2020,Mythic Rare,5,Red,True,True,True,True,b'Wesley Burt',6.89
+"Chandra, Acolyte of Flame",Legendary Planeswalker,Chandra,Core Set 2020,Rare,3,Red,True,True,True,True,b'Anna Steinbauer',0.83
+"Chandra, Awakened Inferno",Legendary Planeswalker,Chandra,Core Set 2020,Mythic Rare,6,Red,True,True,True,True,b'Chris Rahn',10.81
+"Chandra, Novice Pyromancer",Legendary Planeswalker,Chandra,Core Set 2020,Uncommon,4,Red,True,True,True,True,b'Anna Steinbauer',0.22
+Chandra's Embercat,Creature,Elemental Cat,Core Set 2020,Common,2,Red,True,True,True,True,b'Johan Grenier',0.07
+Chandra's Outrage,Instant,None,Core Set 2020,Common,4,Red,True,True,True,True,b'Christopher Moeller',0.05
+Chandra's Regulator,Legendary Artifact,None,Core Set 2020,Rare,2,Red,True,True,True,True,b'Eric Deschamps',0.26
+Chandra's Spitfire,Creature,Elemental,Core Set 2020,Uncommon,3,Red,True,True,True,True,b'Chris Rallis',0.19
+Daggersail Aeronaut,Creature,Goblin,Core Set 2020,Common,4,Red,True,True,True,True,b'Zoltan Boros',0.04
+Destructive Digger,Creature,Goblin,Core Set 2020,Common,3,Red,True,True,True,True,b'Zoltan Boros',0.03
+Dragon Mage,Creature,Dragon Wizard,Core Set 2020,Uncommon,7,Red,True,True,True,True,b'Matthew D. Wilson',0.16
+"Drakuseth, Maw of Flames",Legendary Creature,Dragon,Core Set 2020,Rare,7,Red,True,True,True,True,b'Grzegorz Rutkowski',1.04
+Ember Hauler,Creature,Goblin,Core Set 2020,Uncommon,2,Red,True,True,True,True,b'Steve Prescott',0.08
+Fire Elemental,Creature,Elemental,Core Set 2020,Common,5,Red,True,True,True,True,b'Joe Slucher',0.03
+Flame Sweep,Instant,None,Core Set 2020,Uncommon,3,Red,True,True,True,True,b'Viktor Titov',0.27
+Fry,Instant,None,Core Set 2020,Uncommon,2,Red,True,True,True,True,b'Tomasz Jedruszek',0.25
+Glint-Horn Buccaneer,Creature,Minotaur Pirate,Core Set 2020,Rare,3,Red,True,True,True,True,b'Zack Stella',0.45
+Goblin Bird-Grabber,Creature,Goblin,Core Set 2020,Common,2,Red,True,True,True,True,b'Anna Podedworna',0.03
+Goblin Ringleader,Creature,Goblin,Core Set 2020,Uncommon,4,Red,True,True,True,True,b'Gabor Szikszai',0.15
+Goblin Smuggler,Creature,Goblin Rogue,Core Set 2020,Common,3,Red,True,True,True,True,b'Dan Scott',0.05
+Infuriate,Instant,None,Core Set 2020,Common,1,Red,True,True,True,True,b'Caio Monteiro',0.06
+Keldon Raider,Creature,Human Warrior,Core Set 2020,Common,4,Red,True,True,True,True,b'Chris Seaman',0.03
+Lavakin Brawler,Creature,Elemental Warrior,Core Set 2020,Common,4,Red,True,True,True,True,b'Victor Adame Minguez',0.07
+Leyline of Combustion,Enchantment,None,Core Set 2020,Rare,4,Red,True,True,True,True,b'Noah Bradley',0.41
+Maniacal Rage,Enchantment,Aura,Core Set 2020,Common,2,Red,True,True,True,True,b'Heonhwa Choe',0.02
+Marauding Raptor,Creature,Dinosaur,Core Set 2020,Rare,2,Red,True,True,True,True,b'Bayard Wu',0.73
+Mask of Immolation,Artifact,Equipment,Core Set 2020,Uncommon,2,Red,True,True,True,True,b'Igor Kieryluk',0.08
+Pack Mastiff,Creature,Hound,Core Set 2020,Common,2,Red,True,True,True,True,b'Svetlin Velinov',0.02
+Rapacious Dragon,Creature,Dragon,Core Set 2020,Uncommon,5,Red,True,True,True,True,b'Johan Grenier',0.11
+Reckless Air Strike,Sorcery,None,Core Set 2020,Common,1,Red,True,True,True,True,b'Jakub Kasper',0.04
+Reduce to Ashes,Sorcery,None,Core Set 2020,Common,5,Red,True,True,True,True,b'Jason A. Engle',0.02
+Repeated Reverberation,Instant,None,Core Set 2020,Rare,4,Red,True,True,True,True,b'Izzy',0.38
+Ripscale Predator,Creature,Dinosaur,Core Set 2020,Common,6,Red,True,True,True,True,b'Volkan Ba\xc7\xb5a',0.05
+Scampering Scorcher,Creature,Elemental,Core Set 2020,Uncommon,4,Red,True,True,True,True,b'Zoltan Boros',0.16
+Scorch Spitter,Creature,Elemental Lizard,Core Set 2020,Common,1,Red,True,True,True,True,b'Johan Grenier',0.17
+Shock,Instant,None,Core Set 2020,Common,1,Red,True,True,True,True,b'Jason Rainville',0.11
+Tectonic Rift,Sorcery,None,Core Set 2020,Common,4,Red,True,True,True,True,b'John Avon',0.04
+Thunderkin Awakener,Creature,Elemental Shaman,Core Set 2020,Rare,2,Red,True,True,True,True,b'Yongjae Choi',0.48
+Uncaged Fury,Instant,None,Core Set 2020,Uncommon,3,Red,True,True,True,True,b'Jason Kang',0.06
+Unchained Berserker,Creature,Human Berserker,Core Set 2020,Uncommon,2,Red,True,True,True,True,b'Bram Sels',0.14
+Barkhide Troll,Creature,Troll,Core Set 2020,Uncommon,2,Green,True,True,True,True,b'Grzegorz Rutkowski',0.13
+Brightwood Tracker,Creature,Elf Scout,Core Set 2020,Common,4,Green,True,True,True,True,b'Johannes Voss',0.03
+Cavalier of Thorns,Creature,Elemental Knight,Core Set 2020,Mythic Rare,5,Green,True,True,True,True,b'Jehan Choo',5.51
+Centaur Courser,Creature,Centaur Warrior,Core Set 2020,Common,3,Green,True,True,True,True,b'Vance Kovacs',0.02
+Elvish Reclaimer,Creature,Elf Warrior,Core Set 2020,Rare,1,Green,True,True,True,True,b'Victor Adame Minguez',1.18
+Feral Invocation,Enchantment,Aura,Core Set 2020,Common,3,Green,True,True,True,True,b'Mathias Kollros',0.03
+Ferocious Pup,Creature,Wolf,Core Set 2020,Common,3,Green,True,True,True,True,b'Rudy Siswanto',0.07
+"Gargos, Vicious Watcher",Legendary Creature,Hydra,Core Set 2020,Rare,6,Green,True,True,True,True,b'Mathias Kollros',0.83
+Gift of Paradise,Enchantment,Aura,Core Set 2020,Common,3,Green,True,True,True,True,b'Ryan Pancoast',0.09
+Greenwood Sentinel,Creature,Elf Scout,Core Set 2020,Common,2,Green,True,True,True,True,b'Johann Bodin',0.04
+Growth Cycle,Instant,None,Core Set 2020,Common,2,Green,True,True,True,True,b'Svetlin Velinov',0.03
+Healer of the Glade,Creature,Elemental,Core Set 2020,Common,1,Green,True,True,True,True,b'Daarken',0.11
+Howling Giant,Creature,Giant Druid,Core Set 2020,Uncommon,7,Green,True,True,True,True,b'Grzegorz Rutkowski',0.1
+Leafkin Druid,Creature,Elemental Druid,Core Set 2020,Common,2,Green,True,True,True,True,b'Filip Burburan',0.15
+Leyline of Abundance,Enchantment,None,Core Set 2020,Rare,4,Green,True,True,True,True,b'Noah Bradley',1.01
+Loaming Shaman,Creature,Centaur Shaman,Core Set 2020,Uncommon,3,Green,True,True,True,True,b'Carl Critchlow',0.13
+Mammoth Spider,Creature,Spider,Core Set 2020,Common,5,Green,True,True,True,True,b'Lars Grant-West',0.05
+Might of the Masses,Instant,None,Core Set 2020,Uncommon,1,Green,True,True,True,True,b'Johann Bodin',0.09
+Natural End,Instant,None,Core Set 2020,Common,3,Green,True,True,True,True,b'Scott Chou',0.05
+Netcaster Spider,Creature,Spider,Core Set 2020,Common,3,Green,True,True,True,True,b'Yohann Schepacz',0.04
+Nightpack Ambusher,Creature,Wolf,Core Set 2020,Rare,4,Green,True,True,True,True,b'Dan Scott',0.49
+Overcome,Sorcery,None,Core Set 2020,Uncommon,5,Green,True,True,True,True,b'Craig J Spearing',0.03
+Overgrowth Elemental,Creature,Elemental,Core Set 2020,Uncommon,3,Green,True,True,True,True,b'Mathias Kollros',0.13
+Plummet,Instant,None,Core Set 2020,Common,2,Green,True,True,True,True,b'Filip Burburan',0.04
+Pulse of Murasa,Instant,None,Core Set 2020,Uncommon,3,Green,True,True,True,True,b'Matt Stewart',0.1
+Rabid Bite,Sorcery,None,Core Set 2020,Common,2,Green,True,True,True,True,b'Karl Kopinski',0.06
+Season of Growth,Enchantment,None,Core Set 2020,Uncommon,2,Green,True,True,True,True,b'Randy Vargas',0.58
+Sedge Scorpion,Creature,Scorpion,Core Set 2020,Common,1,Green,True,True,True,True,b'John Stanko',0.04
+Shared Summons,Instant,None,Core Set 2020,Rare,5,Green,True,True,True,True,b'Aaron Miller',1.25
+Shifting Ceratops,Creature,Dinosaur,Core Set 2020,Rare,4,Green,True,True,True,True,b'Izzy',0.52
+Silverback Shaman,Creature,Ape Shaman,Core Set 2020,Common,5,Green,True,True,True,True,b'Mathias Kollros',0.03
+Thicket Crasher,Creature,Elemental Rhino,Core Set 2020,Common,4,Green,True,True,True,True,b'Mathias Kollros',0.1
+Thrashing Brontodon,Creature,Dinosaur,Core Set 2020,Uncommon,3,Green,True,True,True,True,b'Jakub Kasper',0.15
+Veil of Summer,Instant,None,Core Set 2020,Uncommon,1,Green,True,False,True,True,b'Lake Hurwitz',5.27
+"Vivien, Arkbow Ranger",Legendary Planeswalker,Vivien,Core Set 2020,Mythic Rare,4,Green,True,True,True,True,b'Yongjae Choi',6.7
+Voracious Hydra,Creature,Hydra,Core Set 2020,Rare,3,Green,True,True,True,True,b'Wayne Reynolds',4.14
+Vorstclaw,Creature,Elemental Horror,Core Set 2020,Common,6,Green,True,True,True,True,b'Lucas Graciano',0.02
+Wakeroot Elemental,Creature,Elemental,Core Set 2020,Rare,6,Green,True,True,True,True,b'Filip Burburan',0.15
+Wolfkin Bond,Enchantment,Aura,Core Set 2020,Common,5,Green,True,True,True,True,b'Lindsey Look',0.03
+Wolfrider's Saddle,Artifact,Equipment,Core Set 2020,Uncommon,4,Green,True,True,True,True,b'Raoul Vitale',0.08
+Woodland Champion,Creature,Elf Scout,Core Set 2020,Uncommon,2,Green,True,True,True,True,b'Randy Vargas',0.1
+Corpse Knight,Creature,Zombie Knight,Core Set 2020,Uncommon,2,Gold,True,True,True,True,b'Karl Kopinski',0.25
+Creeping Trailblazer,Creature,Elemental,Core Set 2020,Uncommon,2,Gold,True,True,True,True,b'Johan Grenier',0.15
+Empyrean Eagle,Creature,Bird Spirit,Core Set 2020,Uncommon,3,Gold,True,True,True,True,b'Jason A. Engle',0.41
+Ironroot Warlord,Creature,Treefolk Soldier,Core Set 2020,Uncommon,3,Gold,True,True,True,True,b'Filip Burburan',0.08
+"Kaalia, Zenith Seeker",Legendary Creature,Human Cleric,Core Set 2020,Mythic Rare,3,Gold,True,True,True,True,b'Yongjae Choi',1.4
+"Kethis, the Hidden Hand",Legendary Creature,Elf Advisor,Core Set 2020,Mythic Rare,3,Gold,True,True,True,True,b'Yongjae Choi',1.57
+"Kykar, Wind's Fury",Legendary Creature,Bird Wizard,Core Set 2020,Mythic Rare,4,Gold,True,True,True,True,b'G-host Lee',1.98
+Lightning Stormkin,Creature,Elemental Wizard,Core Set 2020,Uncommon,2,Gold,True,True,True,True,b'Rudy Siswanto',0.12
+Moldervine Reclamation,Enchantment,None,Core Set 2020,Uncommon,5,Gold,True,True,True,True,b'Antonio Jos\xc3\xa9 Manzanedo',0.22
+Ogre Siegebreaker,Creature,Ogre Berserker,Core Set 2020,Uncommon,4,Gold,True,True,True,True,b'Zoltan Boros',0.07
+"Omnath, Locus of the Roil",Legendary Creature,Elemental,Core Set 2020,Mythic Rare,4,Gold,True,True,True,True,b'Lius Lasahido',3.45
+Risen Reef,Creature,Elemental,Core Set 2020,Uncommon,3,Gold,True,True,True,True,b'Johan Grenier',0.42
+Skyknight Vanguard,Creature,Human Knight,Core Set 2020,Uncommon,2,Gold,True,True,True,True,b'Bayard Wu',0.15
+Tomebound Lich,Creature,Zombie Wizard,Core Set 2020,Uncommon,3,Gold,True,True,True,True,b'Cristi Balanescu',0.18
+"Yarok, the Desecrated",Legendary Creature,Elemental Horror,Core Set 2020,Mythic Rare,5,Gold,True,True,True,True,b'Daarken',6.7
+Anvilwrought Raptor,Artifact Creature,Bird,Core Set 2020,Common,4,Colorless,True,True,True,True,b'James Zapata',0.04
+Bag of Holding,Artifact,None,Core Set 2020,Rare,1,Colorless,True,True,True,True,b'Dmitry Burmak',0.35
+Colossus Hammer,Artifact,Equipment,Core Set 2020,Uncommon,1,Colorless,True,True,True,True,b'Dmitry Burmak',0.3
+Diamond Knight,Artifact Creature,Knight,Core Set 2020,Uncommon,3,Colorless,True,True,True,True,b'Alayna Danner',0.15
+Diviner's Lockbox,Artifact,None,Core Set 2020,Uncommon,4,Colorless,True,True,True,True,b'Lake Hurwitz',0.03
+"Golos, Tireless Pilgrim",Legendary Artifact Creature,Scout,Core Set 2020,Rare,5,Colorless,True,True,True,True,b'Joseph Meehan',2.43
+Grafdigger's Cage,Artifact,None,Core Set 2020,Rare,1,Colorless,True,True,True,True,b'Daniel Ljunggren',1.54
+Heart-Piercer Bow,Artifact,Equipment,Core Set 2020,Common,2,Colorless,True,True,True,True,b'Franz Vohwinkel',0.03
+Icon of Ancestry,Artifact,None,Core Set 2020,Rare,3,Colorless,True,True,True,True,b'Chris Seaman',1.26
+Manifold Key,Artifact,None,Core Set 2020,Uncommon,1,Colorless,True,True,True,True,b'Lake Hurwitz',0.4
+Marauder's Axe,Artifact,Equipment,Core Set 2020,Common,2,Colorless,True,True,True,True,b'Mitchell Malloy',0.03
+Meteor Golem,Artifact Creature,Golem,Core Set 2020,Uncommon,7,Colorless,True,True,True,True,b'Lake Hurwitz',0.14
+Mystic Forge,Artifact,None,Core Set 2020,Rare,4,Colorless,True,True,True,True,b'Titus Lunter',3.0
+Pattern Matcher,Artifact Creature,Golem,Core Set 2020,Uncommon,4,Colorless,True,True,True,True,b'Jesper Ejsing',0.09
+Prismite,Artifact Creature,Golem,Core Set 2020,Common,2,Colorless,True,True,True,True,b'Alayna Danner',0.03
+Retributive Wand,Artifact,None,Core Set 2020,Uncommon,3,Colorless,True,True,True,True,b'Zezhou Chen',0.1
+Salvager of Ruin,Artifact Creature,Construct,Core Set 2020,Uncommon,3,Colorless,True,True,True,True,b'James Paick',0.11
+Scuttlemutt,Artifact Creature,Scarecrow,Core Set 2020,Uncommon,3,Colorless,True,True,True,True,b'Jeremy Jarvis',0.12
+Steel Overseer,Artifact Creature,Construct,Core Set 2020,Rare,2,Colorless,True,True,True,True,b'Chris Rahn',1.96
+Stone Golem,Artifact Creature,Golem,Core Set 2020,Common,5,Colorless,True,True,True,True,b'Martina Pilcerova',0.02
+Vial of Dragonfire,Artifact,None,Core Set 2020,Common,2,Colorless,True,True,True,True,b'Franz Vohwinkel',0.05
+Bloodfell Caves,Land,None,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.11
+Blossoming Sands,Land,None,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.1
+Cryptic Caves,Land,None,Core Set 2020,Uncommon,0,Colorless,True,True,True,True,b'Sung Choi',0.17
+Dismal Backwater,Land,None,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.14
+Evolving Wilds,Land,None,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Steven Belledin',0.14
+Field of the Dead,Land,None,Core Set 2020,Rare,0,Colorless,True,False,True,True,b'Kev Walker',6.14
+Jungle Hollow,Land,None,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Eytan Zana',0.12
+Lotus Field,Land,None,Core Set 2020,Rare,0,Colorless,True,True,True,True,b'John Avon',5.4
+Rugged Highlands,Land,None,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Eytan Zana',0.11
+Scoured Barrens,Land,None,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Eytan Zana',0.12
+Swiftwater Cliffs,Land,None,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Eytan Zana',0.11
+Temple of Epiphany,Land,None,Core Set 2020,Rare,0,Colorless,True,True,True,True,b'Adam Paquette',1.2
+Temple of Malady,Land,None,Core Set 2020,Rare,0,Colorless,True,True,True,True,b'Titus Lunter',0.65
+Temple of Mystery,Land,None,Core Set 2020,Rare,0,Colorless,True,True,True,True,b'Piotr Dura',0.81
+Temple of Silence,Land,None,Core Set 2020,Rare,0,Colorless,True,True,True,True,b'Adam Paquette',1.3
+Temple of Triumph,Land,None,Core Set 2020,Rare,0,Colorless,True,True,True,True,b'Piotr Dura',0.72
+Thornwood Falls,Land,None,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Eytan Zana',0.11
+Tranquil Cove,Land,None,Core Set 2020,Common,0,Colorless,True,True,True,True,b'John Avon',0.11
+Wind-Scarred Crag,Land,None,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Eytan Zana',0.09
+Plains,Basic Land,Plains,Core Set 2020,Common,0,Colorless,True,True,True,True,b'John Avon',0.14
+Plains,Basic Land,Plains,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Zoltan Boros',0.06
+Plains,Basic Land,Plains,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Nils Hamm',0.07
+Plains,Basic Land,Plains,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Andreas Rocha',0.07
+Island,Basic Land,Island,Core Set 2020,Common,0,Colorless,True,True,True,True,b'John Avon',0.26
+Island,Basic Land,Island,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Babyson Chen',0.08
+Island,Basic Land,Island,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Cliff Childs',0.1
+Island,Basic Land,Island,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Andreas Rocha',0.09
+Swamp,Basic Land,Swamp,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Mike Bierek',0.33
+Swamp,Basic Land,Swamp,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Cliff Childs',0.1
+Swamp,Basic Land,Swamp,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.09
+Swamp,Basic Land,Swamp,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.09
+Mountain,Basic Land,Mountain,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.22
+Mountain,Basic Land,Mountain,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Karl Kopinski',0.09
+Mountain,Basic Land,Mountain,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.07
+Mountain,Basic Land,Mountain,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Andreas Rocha',0.09
+Forest,Basic Land,Forest,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Volkan Ba\xc7\xb5a',0.25
+Forest,Basic Land,Forest,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Steven Belledin',0.08
+Forest,Basic Land,Forest,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Jim Nelson',0.08
+Forest,Basic Land,Forest,Core Set 2020,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.07
+"Rienne, Angel of Rebirth",Legendary Creature,Angel,Core Set 2020,Mythic Rare,5,Gold,True,True,True,True,b'Kieran Yanner',0.7
+"Ajani, Inspiring Leader",Legendary Planeswalker,Ajani,Core Set 2020,Mythic Rare,6,White,True,True,True,False,b'Yongjae Choi',4.62
+Goldmane Griffin,Creature,Griffin,Core Set 2020,Rare,5,White,True,True,True,False,b'Paul Scott Canavan',0.33
+Savannah Sage,Creature,Cat Cleric,Core Set 2020,Common,2,White,True,True,True,False,b'Bayard Wu',0.16
+Twinblade Paladin,Creature,Human Knight,Core Set 2020,Uncommon,4,White,True,True,True,False,b'Jana Schirmer',3.81
+"Mu Yanling, Celestial Wind",Legendary Planeswalker,Yanling,Core Set 2020,Mythic Rare,6,Blue,True,True,True,False,b'Yongjae Choi',1.89
+Celestial Messenger,Creature,Bird Spirit,Core Set 2020,Common,4,Blue,True,True,True,False,b'Daniel Ljunggren',0.18
+Waterkin Shaman,Creature,Elemental Shaman,Core Set 2020,Uncommon,2,Blue,True,True,True,False,b'Yeong-Hao Han',0.14
+Yanling's Harbinger,Creature,Bird,Core Set 2020,Rare,5,Blue,True,True,True,False,b'Zezhou Chen',0.23
+"Sorin, Vampire Lord",Legendary Planeswalker,Sorin,Core Set 2020,Mythic Rare,6,Black,True,True,True,False,b'Chris Rallis',4.37
+Savage Gorger,Creature,Vampire,Core Set 2020,Common,3,Black,True,True,True,False,b'Antonio Jos\xc3\xa9 Manzanedo',0.23
+Sorin's Guide,Creature,Vampire,Core Set 2020,Rare,5,Black,True,True,True,False,b'Jason Rainville',0.32
+Thirsting Bloodlord,Creature,Vampire,Core Set 2020,Uncommon,4,Black,True,True,True,False,b'Joseph Meehan',2.44
+"Chandra, Flame's Fury",Legendary Planeswalker,Chandra,Core Set 2020,Mythic Rare,6,Red,True,True,True,False,b'Magali Villeneuve',4.73
+Chandra's Flame Wave,Sorcery,None,Core Set 2020,Rare,5,Red,True,True,True,False,b'Paul Scott Canavan',0.34
+Pyroclastic Elemental,Creature,Elemental,Core Set 2020,Uncommon,5,Red,True,True,True,False,b'Svetlin Velinov',0.17
+Wildfire Elemental,Creature,Elemental,Core Set 2020,Common,4,Red,True,True,True,False,b'Svetlin Velinov',0.23
+"Vivien, Nature's Avenger",Legendary Planeswalker,Vivien,Core Set 2020,Mythic Rare,6,Green,True,True,True,False,b'Chris Rallis',3.11
+Ethereal Elk,Creature,Elk Spirit,Core Set 2020,Rare,5,Green,True,True,True,False,b'Jason Felix',0.26
+Gnarlback Rhino,Creature,Rhino,Core Set 2020,Uncommon,4,Green,True,True,True,False,b'YW Tang',0.41
+Vivien's Crocodile,Creature,Crocodile Spirit,Core Set 2020,Common,3,Green,True,True,True,False,b'Bayard Wu',0.11
+Angelic Guardian,Creature,Angel,Core Set 2020,Rare,6,White,True,True,True,True,b'Sara Winters',4.9
+Bastion Enforcer,Creature,Dwarf Soldier,Core Set 2020,Common,3,White,True,True,True,True,b'Matt Stewart',0.29
+Concordia Pegasus,Creature,Pegasus,Core Set 2020,Common,2,White,True,True,True,True,b'Chris Rahn',0.18
+Haazda Officer,Creature,Human Soldier,Core Set 2020,Common,3,White,True,True,True,True,b'Aaron Miller',0.1
+Impassioned Orator,Creature,Human Cleric,Core Set 2020,Common,2,White,True,True,True,True,b'Mark Zug',0.21
+Imperial Outrider,Creature,Human Knight,Core Set 2020,Common,4,White,True,True,True,False,b'Scott Murphy',1.53
+Ironclad Krovod,Creature,Beast,Core Set 2020,Common,4,White,True,True,True,True,b'Sam Rowan',0.9
+Prowling Caracal,Creature,Cat,Core Set 2020,Common,2,White,True,True,True,True,b'Jonathan Kuo',0.11
+Serra's Guardian,Creature,Angel,Core Set 2020,Rare,6,White,True,True,True,True,b'Magali Villeneuve',0.29
+Show of Valor,Instant,None,Core Set 2020,Common,2,White,True,True,True,True,b'Micah Epstein',0.31
+Siege Mastodon,Creature,Elephant,Core Set 2020,Common,5,White,True,True,True,True,b'Matt Cavotta',1.28
+Take Vengeance,Sorcery,None,Core Set 2020,Common,2,White,True,True,True,True,b'Randy Vargas',0.56
+Trusted Pegasus,Creature,Pegasus,Core Set 2020,Common,3,White,True,True,True,True,b'Chris Rahn',0.18
+Coral Merfolk,Creature,Merfolk,Core Set 2020,Common,2,Blue,True,True,True,True,b'Lie Setiawan',0.97
+Phantom Warrior,Creature,Illusion Warrior,Core Set 2020,Common,3,Blue,True,True,True,True,b'Anna Podedworna',2.4
+Riddlemaster Sphinx,Creature,Sphinx,Core Set 2020,Rare,6,Blue,True,True,True,True,b'Ryan Yee',0.18
+Snapping Drake,Creature,Drake,Core Set 2020,Common,4,Blue,True,True,True,True,b'Todd Lockwood',0.83
+Bartizan Bats,Creature,Bat,Core Set 2020,Common,4,Black,True,True,True,True,b'Nils Hamm',0.24
+Bogstomper,Creature,Beast,Core Set 2020,Common,6,Black,True,True,True,True,b'Jason Felix',1.67
+Dark Remedy,Instant,None,Core Set 2020,Common,2,Black,True,True,True,False,b'Svetlin Velinov',0.18
+Disentomb,Sorcery,None,Core Set 2020,Common,1,Black,True,True,True,True,b'Johann Bodin',1.46
+Gravewaker,Creature,Bird Spirit,Core Set 2020,Rare,6,Black,True,True,True,True,b'Daniel Ljunggren',0.18
+Skeleton Archer,Creature,Skeleton Archer,Core Set 2020,Common,4,Black,True,True,True,True,b'Randy Vargas',0.78
+Sorin's Thirst,Instant,None,Core Set 2020,Common,2,Black,True,True,True,True,b'Karl Kopinski',0.12
+Vampire Opportunist,Creature,Vampire,Core Set 2020,Common,2,Black,True,True,True,True,b'Jason Rainville',0.1
+Walking Corpse,Creature,Zombie,Core Set 2020,Common,2,Black,True,True,True,True,b'Igor Kieryluk',0.26
+Engulfing Eruption,Sorcery,None,Core Set 2020,Common,4,Red,True,True,True,False,b'Sidharth Chaturvedi',0.32
+Fearless Halberdier,Creature,Human Warrior,Core Set 2020,Common,3,Red,True,True,True,True,b'Suzanne Helmigh',0.1
+Goblin Assailant,Creature,Goblin Warrior,Core Set 2020,Common,2,Red,True,True,True,True,b'Jesper Ejsing',0.1
+Hostile Minotaur,Creature,Minotaur,Core Set 2020,Common,4,Red,True,True,True,True,b'Joe Slucher',0.57
+Immortal Phoenix,Creature,Phoenix,Core Set 2020,Rare,6,Red,True,True,True,True,b'Daarken',1.37
+Nimble Birdsticker,Creature,Goblin,Core Set 2020,Common,3,Red,True,True,True,False,b'Anna Podedworna',1.23
+Rubblebelt Recluse,Creature,Ogre Berserker,Core Set 2020,Common,5,Red,True,True,True,True,b'Zoltan Boros',1.53
+Shivan Dragon,Creature,Dragon,Core Set 2020,Rare,6,Red,True,True,True,True,b'Donato Giancola',0.19
+Volcanic Dragon,Creature,Dragon,Core Set 2020,Uncommon,6,Red,True,True,True,True,b'Chris Rahn',2.71
+Aggressive Mammoth,Creature,Elephant,Core Set 2020,Rare,6,Green,True,True,True,True,b'Filip Burburan',0.31
+Bristling Boar,Creature,Boar,Core Set 2020,Common,4,Green,True,True,True,True,b'Svetlin Velinov',2.22
+Canopy Spider,Creature,Spider,Core Set 2020,Common,2,Green,True,True,True,True,b'Christopher Rush',0.66
+Frilled Sandwalla,Creature,Lizard,Core Set 2020,Common,1,Green,True,True,True,True,b'Zezhou Chen',1.32
+Oakenform,Enchantment,Aura,Core Set 2020,Common,3,Green,True,True,True,True,b'Wayne Reynolds',1.31
+Prized Unicorn,Creature,Unicorn,Core Set 2020,Common,4,Green,True,True,True,True,b'Rudy Siswanto',1.53
+Titanic Growth,Instant,None,Core Set 2020,Common,2,Green,True,True,True,True,b'Ryan Pancoast',0.08
+Woodland Mystic,Creature,Elf Druid,Core Set 2020,Common,2,Green,True,True,True,False,b'Uriah Voth',2.92

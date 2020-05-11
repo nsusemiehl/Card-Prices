@@ -1,0 +1,144 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Academy Rector,Creature,Human Cleric,Urza's Destiny,Rare,4,White,False,False,True,True,b'Heather Hudson',36.58
+Archery Training,Enchantment,Aura,Urza's Destiny,Uncommon,1,White,False,False,True,False,b'Mark Brill',0.23
+Capashen Knight,Creature,Human Knight,Urza's Destiny,Common,2,White,True,False,True,True,b'Kev Walker',0.13
+Capashen Standard,Enchantment,Aura,Urza's Destiny,Common,1,White,False,False,True,False,b'Todd Lockwood',0.2
+Capashen Templar,Creature,Human Knight,Urza's Destiny,Common,3,White,False,False,True,False,b'Todd Lockwood',0.1
+False Prophet,Creature,Human Cleric,Urza's Destiny,Rare,4,White,False,False,True,True,b'Eric Peterson',0.61
+Fend Off,Instant,None,Urza's Destiny,Common,2,White,False,False,True,False,b'Paolo Parente',0.09
+Field Surgeon,Creature,Human Cleric,Urza's Destiny,Common,2,White,False,False,True,False,b'Heather Hudson',0.14
+Flicker,Sorcery,None,Urza's Destiny,Rare,2,White,False,False,True,False,b'Douglas Shuler',0.77
+Jasmine Seer,Creature,Human Wizard,Urza's Destiny,Uncommon,4,White,False,False,True,False,b'Donato Giancola',0.11
+Mask of Law and Grace,Enchantment,Aura,Urza's Destiny,Common,1,White,False,False,True,False,b'Kev Walker',0.18
+Master Healer,Creature,Human Cleric,Urza's Destiny,Rare,5,White,True,False,True,True,b'Adam Rex',0.17
+Opalescence,Enchantment,None,Urza's Destiny,Rare,4,White,False,False,True,True,b'John Avon',8.24
+Reliquary Monk,Creature,Human Monk Cleric,Urza's Destiny,Common,3,White,False,False,True,False,b'Thomas M. Baxa',0.14
+Replenish,Sorcery,None,Urza's Destiny,Rare,4,White,False,False,True,True,b'Jim Nelson',36.99
+Sanctimony,Enchantment,None,Urza's Destiny,Uncommon,2,White,True,False,True,True,b'Mark Brill',0.11
+Scent of Jasmine,Instant,None,Urza's Destiny,Common,1,White,False,False,True,False,b'Douglas Shuler',0.13
+Scour,Instant,None,Urza's Destiny,Uncommon,4,White,True,False,True,True,b'Eric Peterson',0.14
+Serra Advocate,Creature,Angel,Urza's Destiny,Uncommon,4,White,False,False,True,True,b'Scott Hampton',0.15
+Solidarity,Instant,None,Urza's Destiny,Common,4,White,True,False,True,True,b'John Zeleznik',0.15
+Tethered Griffin,Creature,Griffin,Urza's Destiny,Rare,1,White,False,False,True,False,b'Matthew D. Wilson',0.42
+Tormented Angel,Creature,Angel,Urza's Destiny,Common,4,White,False,False,True,False,b'Greg Hildebrandt',0.13
+Voice of Duty,Creature,Angel,Urza's Destiny,Uncommon,4,White,False,False,True,False,b'Mark Zug',0.2
+Voice of Reason,Creature,Angel,Urza's Destiny,Uncommon,4,White,False,False,True,False,b'Ray Lago',0.23
+Wall of Glare,Creature,Wall,Urza's Destiny,Common,2,White,False,False,True,False,b'Patrick Ho',0.67
+Aura Thief,Creature,Illusion,Urza's Destiny,Rare,4,Blue,False,False,True,False,b'Ron Spears',4.83
+Blizzard Elemental,Creature,Elemental,Urza's Destiny,Rare,7,Blue,False,False,True,True,b'Thomas M. Baxa',0.2
+Brine Seer,Creature,Human Wizard,Urza's Destiny,Uncommon,4,Blue,False,False,True,False,b'Donato Giancola',0.21
+Bubbling Beebles,Creature,Beeble,Urza's Destiny,Common,5,Blue,False,False,True,False,b'Jeff Miracola',0.1
+Disappear,Enchantment,Aura,Urza's Destiny,Uncommon,4,Blue,False,False,True,False,"b'Edward P. Beard, Jr.'",0.16
+Donate,Sorcery,None,Urza's Destiny,Rare,3,Blue,False,False,True,False,b'Jeff Miracola',2.53
+Fatigue,Sorcery,None,Urza's Destiny,Common,2,Blue,False,False,True,False,b'Jeff Miracola',0.09
+Fledgling Osprey,Creature,Bird,Urza's Destiny,Common,1,Blue,False,False,True,False,b'Heather Hudson',0.08
+Illuminated Wings,Enchantment,Aura,Urza's Destiny,Common,2,Blue,False,False,True,False,b'Jim Nelson',0.09
+Iridescent Drake,Creature,Drake,Urza's Destiny,Uncommon,4,Blue,False,False,True,True,b'Jim Nelson',0.2
+Kingfisher,Creature,Bird,Urza's Destiny,Common,4,Blue,False,False,True,False,"b'Edward P. Beard, Jr.'",0.1
+Mental Discipline,Enchantment,None,Urza's Destiny,Common,3,Blue,False,False,True,False,"b'Edward P. Beard, Jr.'",0.14
+Metathran Elite,Creature,Metathran Soldier,Urza's Destiny,Uncommon,3,Blue,False,False,True,False,b'Jim Nelson',0.12
+Metathran Soldier,Creature,Metathran Soldier,Urza's Destiny,Common,2,Blue,False,False,True,False,b'Paolo Parente',0.14
+Opposition,Enchantment,None,Urza's Destiny,Rare,4,Blue,False,False,True,True,b'Todd Lockwood',4.83
+Private Research,Enchantment,Aura,Urza's Destiny,Uncommon,1,Blue,False,False,True,False,b'Scott M. Fischer',0.21
+Quash,Instant,None,Urza's Destiny,Uncommon,4,Blue,True,False,True,True,b'Don Hazeltine',0.12
+"Rayne, Academy Chancellor",Legendary Creature,Human Wizard,Urza's Destiny,Rare,3,Blue,False,False,True,False,b'Matthew D. Wilson',0.88
+Rescue,Instant,None,Urza's Destiny,Common,1,Blue,True,False,True,True,b'Greg Staples',0.14
+Scent of Brine,Instant,None,Urza's Destiny,Common,2,Blue,False,False,True,False,b'Greg Staples',0.15
+Sigil of Sleep,Enchantment,Aura,Urza's Destiny,Common,1,Blue,False,False,True,True,b'Greg Hildebrandt',0.28
+Telepathic Spies,Creature,Human Wizard,Urza's Destiny,Common,3,Blue,False,False,True,True,b'Thomas M. Baxa',0.09
+Temporal Adept,Creature,Human Wizard,Urza's Destiny,Rare,3,Blue,True,False,True,True,b'Heather Hudson',0.45
+Thieving Magpie,Creature,Bird,Urza's Destiny,Uncommon,4,Blue,True,False,True,True,b'Una Fricker',0.17
+Treachery,Enchantment,Aura,Urza's Destiny,Rare,5,Blue,False,False,True,False,b'Matthew D. Wilson',24.07
+Apprentice Necromancer,Creature,Zombie Wizard,Urza's Destiny,Rare,2,Black,False,False,True,True,b'Pete Venters',0.82
+Attrition,Enchantment,None,Urza's Destiny,Rare,3,Black,False,False,True,True,b'Scott M. Fischer',5.94
+Body Snatcher,Creature,Minion,Urza's Destiny,Rare,4,Black,False,False,True,False,b'Mark Zug',1.77
+Bubbling Muck,Sorcery,None,Urza's Destiny,Common,1,Black,False,False,True,False,b'Greg Hildebrandt',1.44
+Carnival of Souls,Enchantment,None,Urza's Destiny,Rare,2,Black,False,False,True,False,b'Brian Sn\xc3\xb5ddy',2.45
+Chime of Night,Enchantment,Aura,Urza's Destiny,Common,2,Black,False,False,True,False,b'Pete Venters',0.13
+Disease Carriers,Creature,Rat,Urza's Destiny,Common,4,Black,False,False,True,False,b'Chippy',0.11
+Dying Wail,Enchantment,Aura,Urza's Destiny,Common,2,Black,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.09
+Encroach,Sorcery,None,Urza's Destiny,Uncommon,1,Black,False,False,True,False,b'rk post',0.22
+Eradicate,Sorcery,None,Urza's Destiny,Uncommon,4,Black,True,False,True,True,b'Kev Walker',0.18
+Festering Wound,Enchantment,Aura,Urza's Destiny,Uncommon,2,Black,False,False,True,False,b'Chippy',0.25
+Lurking Jackals,Enchantment,None,Urza's Destiny,Uncommon,1,Black,False,False,True,False,b'Greg Staples',0.13
+Nightshade Seer,Creature,Human Wizard,Urza's Destiny,Uncommon,4,Black,False,False,True,False,b'Donato Giancola',0.12
+Phyrexian Monitor,Creature,Skeleton,Urza's Destiny,Common,4,Black,False,False,True,False,b'Carl Critchlow',0.11
+Phyrexian Negator,Creature,Horror,Urza's Destiny,Rare,3,Black,False,False,True,True,b'John Zeleznik',1.51
+Plague Dogs,Creature,Zombie Hound,Urza's Destiny,Uncommon,5,Black,False,False,True,False,b'Chippy',0.19
+Rapid Decay,Instant,None,Urza's Destiny,Rare,2,Black,False,False,True,True,b'Chippy',0.26
+Ravenous Rats,Creature,Rat,Urza's Destiny,Common,2,Black,True,False,True,True,b'Carl Critchlow',0.16
+Scent of Nightshade,Instant,None,Urza's Destiny,Common,2,Black,False,False,True,False,b'John Avon',0.1
+Skittering Horror,Creature,Horror,Urza's Destiny,Common,3,Black,False,False,True,True,b'Mark Zug',0.1
+Slinking Skirge,Creature,Imp,Urza's Destiny,Common,4,Black,False,False,True,False,b'Ron Spencer',0.1
+Soul Feast,Sorcery,None,Urza's Destiny,Uncommon,5,Black,True,False,True,True,b'Ray Lago',0.13
+Squirming Mass,Creature,Horror,Urza's Destiny,Common,2,Black,False,False,True,False,b'Ron Spencer',0.1
+Twisted Experiment,Enchantment,Aura,Urza's Destiny,Common,2,Black,False,False,True,False,b'rk post',0.09
+Yawgmoth's Bargain,Enchantment,None,Urza's Destiny,Rare,6,Black,False,False,False,True,b'Michael Sutfin',3.87
+Aether Sting,Enchantment,None,Urza's Destiny,Uncommon,4,Red,False,False,True,False,b'Pete Venters',0.34
+Bloodshot Cyclops,Creature,Cyclops Giant,Urza's Destiny,Rare,6,Red,True,False,True,True,b'Ray Lago',0.4
+Cinder Seer,Creature,Human Wizard,Urza's Destiny,Uncommon,4,Red,False,False,True,False,b'Donato Giancola',0.1
+Colos Yearling,Creature,Goat Beast,Urza's Destiny,Common,3,Red,False,False,True,False,b'Patrick Ho',0.09
+Covetous Dragon,Creature,Dragon,Urza's Destiny,Rare,5,Red,False,False,True,True,b'rk post',1.44
+Flame Jet,Sorcery,None,Urza's Destiny,Common,2,Red,False,False,True,False,b'John Avon',0.17
+Goblin Berserker,Creature,Goblin Berserker,Urza's Destiny,Uncommon,4,Red,False,False,True,False,b'Christopher Rush',0.2
+Goblin Festival,Enchantment,None,Urza's Destiny,Rare,2,Red,False,False,True,False,b'Jeff Laubenstein',0.44
+Goblin Gardener,Creature,Goblin,Urza's Destiny,Common,4,Red,False,False,True,True,b'Dan Frazier',0.24
+Goblin Marshal,Creature,Goblin Warrior,Urza's Destiny,Rare,6,Red,False,False,True,False,b'DiTerlizzi',0.74
+Goblin Masons,Creature,Goblin,Urza's Destiny,Common,2,Red,False,False,True,False,b'DiTerlizzi',0.1
+Hulking Ogre,Creature,Ogre,Urza's Destiny,Common,3,Red,False,False,True,True,b'Greg Hildebrandt',0.11
+Impatience,Enchantment,None,Urza's Destiny,Rare,3,Red,False,False,True,True,b'Mark Brill',0.28
+Incendiary,Enchantment,Aura,Urza's Destiny,Uncommon,1,Red,False,False,True,False,b'Jeff Laubenstein',0.17
+Keldon Champion,Creature,Human Barbarian,Urza's Destiny,Uncommon,4,Red,False,False,True,True,b'Mark Tedin',0.11
+Keldon Vandals,Creature,Human Rogue,Urza's Destiny,Common,3,Red,False,False,True,True,b'Greg Staples',0.13
+Landslide,Sorcery,None,Urza's Destiny,Uncommon,1,Red,False,False,True,False,b'Jeff Laubenstein',0.15
+Mark of Fury,Enchantment,Aura,Urza's Destiny,Common,1,Red,False,False,True,False,b'Thomas M. Baxa',0.18
+Reckless Abandon,Sorcery,None,Urza's Destiny,Common,1,Red,False,False,True,True,b'Ron Spears',0.21
+Repercussion,Enchantment,None,Urza's Destiny,Rare,3,Red,False,False,True,False,b'Michael Sutfin',12.49
+Scent of Cinder,Sorcery,None,Urza's Destiny,Common,2,Red,False,False,True,True,b'Marc Fishman',0.09
+Sowing Salt,Sorcery,None,Urza's Destiny,Uncommon,4,Red,True,False,True,True,b'Todd Lockwood',0.17
+Trumpet Blast,Instant,None,Urza's Destiny,Common,3,Red,True,False,True,True,b'Carl Critchlow',0.09
+Wake of Destruction,Sorcery,None,Urza's Destiny,Rare,6,Red,False,False,True,False,b'Todd Lockwood',3.57
+Wild Colos,Creature,Goat Beast,Urza's Destiny,Common,3,Red,False,False,True,False,b'Marc Fishman',0.1
+Ancient Silverback,Creature,Ape,Urza's Destiny,Rare,6,Green,True,False,True,True,b'Paolo Parente',0.2
+Compost,Enchantment,None,Urza's Destiny,Uncommon,2,Green,False,False,True,True,b'Douglas Shuler',0.35
+Elvish Lookout,Creature,Elf,Urza's Destiny,Common,1,Green,False,False,True,False,b'Greg Hildebrandt',0.1
+Elvish Piper,Creature,Elf Shaman,Urza's Destiny,Rare,4,Green,True,False,True,True,b'Scott M. Fischer',3.23
+Emperor Crocodile,Creature,Crocodile,Urza's Destiny,Rare,4,Green,True,False,True,True,b'Kev Walker',0.29
+Gamekeeper,Creature,Elf,Urza's Destiny,Uncommon,4,Green,False,False,True,True,b'Scott Hampton',0.18
+Goliath Beetle,Creature,Insect,Urza's Destiny,Common,3,Green,False,False,True,False,b'Don Hazeltine',0.08
+Heart Warden,Creature,Elf Druid,Urza's Destiny,Common,2,Green,False,False,True,False,b'Adam Rex',0.23
+Hunting Moa,Creature,Bird Beast,Urza's Destiny,Uncommon,3,Green,True,False,True,True,b'DiTerlizzi',0.12
+Ivy Seer,Creature,Elf Wizard,Urza's Destiny,Uncommon,4,Green,False,False,True,False,b'Donato Giancola',0.13
+Magnify,Instant,None,Urza's Destiny,Common,1,Green,False,False,True,False,b'Michael Sutfin',0.18
+Marker Beetles,Creature,Insect,Urza's Destiny,Common,3,Green,False,False,True,False,b'Ron Spencer',0.07
+Momentum,Enchantment,Aura,Urza's Destiny,Uncommon,3,Green,False,False,True,False,b'Carl Critchlow',0.11
+Multani's Decree,Sorcery,None,Urza's Destiny,Common,4,Green,False,False,True,False,b'Eric Peterson',0.16
+Pattern of Rebirth,Enchantment,Aura,Urza's Destiny,Rare,4,Green,False,False,True,True,b'Mark Brill',1.81
+Plated Spider,Creature,Spider,Urza's Destiny,Common,5,Green,False,False,True,True,b'Ron Spencer',0.13
+Plow Under,Sorcery,None,Urza's Destiny,Rare,5,Green,True,False,True,True,"b'Edward P. Beard, Jr.'",2.05
+"Rofellos, Llanowar Emissary",Legendary Creature,Elf Druid,Urza's Destiny,Rare,2,Green,False,False,False,True,b'Michael Sutfin',17.43
+Rofellos's Gift,Sorcery,None,Urza's Destiny,Common,1,Green,False,False,True,False,b'Pete Venters',0.22
+Scent of Ivy,Instant,None,Urza's Destiny,Common,1,Green,False,False,True,False,b'John Avon',0.18
+Splinter,Sorcery,None,Urza's Destiny,Uncommon,4,Green,True,False,True,True,b'Daren Bader',0.36
+Taunting Elf,Creature,Elf,Urza's Destiny,Common,1,Green,False,False,True,True,b'Scott M. Fischer',0.18
+Thorn Elemental,Creature,Elemental,Urza's Destiny,Rare,7,Green,True,False,True,True,b'rk post',0.51
+Yavimaya Elder,Creature,Human Druid,Urza's Destiny,Common,3,Green,False,False,True,True,b'Ray Lago',0.51
+Yavimaya Enchantress,Creature,Human Druid,Urza's Destiny,Uncommon,3,Green,True,False,True,True,b'Matthew D. Wilson',0.26
+Braidwood Cup,Artifact,None,Urza's Destiny,Uncommon,3,Colorless,False,False,True,False,b'Greg Hildebrandt',0.2
+Braidwood Sextant,Artifact,None,Urza's Destiny,Uncommon,1,Colorless,False,False,True,False,b'Don Hazeltine',0.21
+Brass Secretary,Artifact Creature,Construct,Urza's Destiny,Uncommon,3,Colorless,False,False,True,False,b'DiTerlizzi',0.15
+Caltrops,Artifact,None,Urza's Destiny,Uncommon,3,Colorless,False,False,True,True,b'Jeff Laubenstein',0.49
+Extruder,Artifact Creature,Juggernaut,Urza's Destiny,Uncommon,4,Colorless,False,False,True,False,b'Mark Tedin',0.16
+Fodder Cannon,Artifact,None,Urza's Destiny,Uncommon,4,Colorless,True,False,True,True,b'DiTerlizzi',0.1
+Junk Diver,Artifact Creature,Bird,Urza's Destiny,Rare,3,Colorless,False,False,True,True,b'Eric Peterson',1.15
+Mantis Engine,Artifact Creature,Insect,Urza's Destiny,Uncommon,5,Colorless,True,False,True,True,b'John Zeleznik',0.12
+Masticore,Artifact Creature,Masticore,Urza's Destiny,Rare,4,Colorless,False,False,True,True,b'Paolo Parente',2.32
+Metalworker,Artifact Creature,Construct,Urza's Destiny,Rare,3,Colorless,False,False,True,True,b'Don Hazeltine',44.04
+Powder Keg,Artifact,None,Urza's Destiny,Rare,2,Colorless,False,False,True,True,b'Dan Frazier',1.99
+Scrying Glass,Artifact,None,Urza's Destiny,Rare,2,Colorless,False,False,True,False,b'Patrick Ho',0.24
+Storage Matrix,Artifact,None,Urza's Destiny,Rare,3,Colorless,True,False,True,True,b'Patrick Ho',2.36
+Thran Dynamo,Artifact,None,Urza's Destiny,Uncommon,4,Colorless,False,False,True,True,b'Ron Spears',5.06
+Thran Foundry,Artifact,None,Urza's Destiny,Uncommon,1,Colorless,False,False,True,True,b'John Zeleznik',0.2
+Thran Golem,Artifact Creature,Golem,Urza's Destiny,Rare,5,Colorless,True,False,True,True,b'Ron Spears',0.3
+Urza's Incubator,Artifact,None,Urza's Destiny,Rare,3,Colorless,False,False,True,True,b'Pete Venters',15.09
+Yavimaya Hollow,Legendary Land,None,Urza's Destiny,Rare,0,Colorless,False,False,True,True,b'Douglas Shuler',28.12

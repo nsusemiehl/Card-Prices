@@ -1,0 +1,274 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Angel of Grace,Creature,Angel,Ravnica Allegiance,Mythic Rare,5,White,True,True,True,False,b'Ryan Yee',0.72
+Angelic Exaltation,Enchantment,None,Ravnica Allegiance,Uncommon,4,White,True,True,True,False,b'John Severin Brassell',0.16
+Archway Angel,Creature,Angel,Ravnica Allegiance,Uncommon,6,White,True,True,True,False,b'Milivoj \xc4\x86eran',0.13
+Arrester's Zeal,Instant,None,Ravnica Allegiance,Common,1,White,True,True,True,True,b'Izzy',0.06
+Bring to Trial,Sorcery,None,Ravnica Allegiance,Common,3,White,True,True,True,False,b'Victor Adame Minguez',0.03
+Civic Stalwart,Creature,Elephant Soldier,Ravnica Allegiance,Common,4,White,True,True,True,False,b'Gabor Szikszai',0.03
+Concordia Pegasus,Creature,Pegasus,Ravnica Allegiance,Common,2,White,True,True,True,True,b'Chris Rahn',0.03
+Expose to Daylight,Instant,None,Ravnica Allegiance,Common,3,White,True,True,True,False,b'Daniel Ljunggren',0.02
+Forbidding Spirit,Creature,Spirit Cleric,Ravnica Allegiance,Uncommon,3,White,True,True,True,False,b'Ryan Yee',0.09
+Haazda Officer,Creature,Human Soldier,Ravnica Allegiance,Common,3,White,True,True,True,True,b'Aaron Miller',0.02
+Hero of Precinct One,Creature,Human Warrior,Ravnica Allegiance,Rare,2,White,True,True,True,True,b'Bram Sels',0.56
+Impassioned Orator,Creature,Human Cleric,Ravnica Allegiance,Common,2,White,True,True,True,True,b'Mark Zug',0.12
+Justiciar's Portal,Instant,None,Ravnica Allegiance,Common,2,White,True,True,True,False,b'Micah Epstein',0.04
+Knight of Sorrows,Creature,Human Knight,Ravnica Allegiance,Common,5,White,True,True,True,True,b'Zezhou Chen',0.03
+Lumbering Battlement,Creature,Beast,Ravnica Allegiance,Rare,5,White,True,True,True,True,b'Simon Dominic',0.15
+Ministrant of Obligation,Creature,Human Cleric,Ravnica Allegiance,Uncommon,3,White,True,True,True,False,b'Bastien L. Deharme',0.2
+Prowling Caracal,Creature,Cat,Ravnica Allegiance,Common,2,White,True,True,True,True,b'Jonathan Kuo',0.03
+Rally to Battle,Instant,None,Ravnica Allegiance,Uncommon,4,White,True,True,True,False,b'Ben Wootten',0.04
+Resolute Watchdog,Creature,Hound,Ravnica Allegiance,Uncommon,1,White,True,True,True,False,b'Milivoj \xc4\x86eran',0.11
+Sentinel's Mark,Enchantment,Aura,Ravnica Allegiance,Uncommon,2,White,True,True,True,False,b'Zezhou Chen',0.13
+Sky Tether,Enchantment,Aura,Ravnica Allegiance,Uncommon,1,White,True,True,True,False,b'Zezhou Chen',0.11
+Smothering Tithe,Enchantment,None,Ravnica Allegiance,Rare,4,White,True,True,True,True,b'Mark Behm',14.11
+Spirit of the Spires,Creature,Spirit,Ravnica Allegiance,Uncommon,4,White,True,True,True,False,b'Yeong-Hao Han',0.06
+Summary Judgment,Instant,None,Ravnica Allegiance,Common,2,White,True,True,True,False,b'Deruchenko Alexander',0.05
+Syndicate Messenger,Creature,Bird,Ravnica Allegiance,Common,4,White,True,True,True,False,b'Viktor Titov',0.03
+Tenth District Veteran,Creature,Human Soldier,Ravnica Allegiance,Common,3,White,True,True,True,False,b'Volkan Ba\xc7\xb5a',0.03
+Tithe Taker,Creature,Human Soldier,Ravnica Allegiance,Rare,2,White,True,True,True,True,b'Aaron Miller',0.66
+Twilight Panther,Creature,Cat Spirit,Ravnica Allegiance,Common,1,White,True,True,True,False,b'Uriah Voth',0.05
+Unbreakable Formation,Instant,None,Ravnica Allegiance,Rare,3,White,True,True,True,True,b'Matt Stewart',1.73
+Watchful Giant,Creature,Giant Soldier,Ravnica Allegiance,Common,6,White,True,True,True,False,b'Grzegorz Rutkowski',0.02
+Arrester's Admonition,Instant,None,Ravnica Allegiance,Common,3,Blue,True,True,True,False,b'Lucas Graciano',0.09
+Benthic Biomancer,Creature,Merfolk Wizard Mutant,Ravnica Allegiance,Rare,1,Blue,True,True,True,True,b'Daarken',0.53
+Chillbringer,Creature,Elemental,Ravnica Allegiance,Common,5,Blue,True,True,True,True,b'Eytan Zana',0.05
+Clear the Mind,Sorcery,None,Ravnica Allegiance,Common,3,Blue,True,True,True,True,b'David Palumbo',0.14
+Code of Constraint,Instant,None,Ravnica Allegiance,Uncommon,3,Blue,True,True,True,False,b'Ekaterina Burmak',0.04
+Coral Commando,Creature,Merfolk Warrior,Ravnica Allegiance,Common,3,Blue,True,True,True,False,b'Alex Konstad',0.03
+Essence Capture,Instant,None,Ravnica Allegiance,Uncommon,2,Blue,True,True,True,False,b'Mathias Kollros',0.27
+Eyes Everywhere,Enchantment,None,Ravnica Allegiance,Uncommon,3,Blue,True,True,True,False,b'Nils Hamm',0.09
+Faerie Duelist,Creature,Faerie Rogue,Ravnica Allegiance,Common,2,Blue,True,True,True,False,b'Yongjae Choi',0.08
+Gateway Sneak,Creature,Vedalken Rogue,Ravnica Allegiance,Uncommon,3,Blue,True,True,True,False,b'Matt Stewart',0.08
+Humongulus,Creature,Homunculus,Ravnica Allegiance,Common,5,Blue,True,True,True,True,b'Jesper Ejsing',0.04
+Mass Manipulation,Sorcery,None,Ravnica Allegiance,Rare,6,Blue,True,True,True,True,b'Anthony Palumbo',0.48
+Mesmerizing Benthid,Creature,Octopus,Ravnica Allegiance,Mythic Rare,5,Blue,True,True,True,False,b'Kev Walker',0.59
+Persistent Petitioners,Creature,Human Advisor,Ravnica Allegiance,Common,2,Blue,True,True,True,False,b'Jason Rainville',0.8
+Precognitive Perception,Instant,None,Ravnica Allegiance,Rare,5,Blue,True,True,True,True,b'Chris Rallis',0.21
+Prying Eyes,Instant,None,Ravnica Allegiance,Common,6,Blue,True,True,True,False,b'Magali Villeneuve',0.03
+Pteramander,Creature,Salamander Drake,Ravnica Allegiance,Uncommon,1,Blue,True,True,True,True,b'Simon Dominic',0.41
+Quench,Instant,None,Ravnica Allegiance,Common,2,Blue,True,True,True,False,b'Jason Rainville',0.12
+Sage's Row Savant,Creature,Vedalken Wizard,Ravnica Allegiance,Common,2,Blue,True,True,True,False,b'Bastien L. Deharme',0.02
+Senate Courier,Creature,Bird,Ravnica Allegiance,Common,3,Blue,True,True,True,False,b'Johann Bodin',0.02
+Shimmer of Possibility,Sorcery,None,Ravnica Allegiance,Common,2,Blue,True,True,True,False,b'Volkan Ba\xc7\xb5a',0.14
+Skatewing Spy,Creature,Vedalken Rogue Mutant,Ravnica Allegiance,Uncommon,4,Blue,True,True,True,False,b'Grzegorz Rutkowski',0.13
+Skitter Eel,Creature,Fish Crab,Ravnica Allegiance,Common,4,Blue,True,True,True,True,b'Mathias Kollros',0.06
+Slimebind,Enchantment,Aura,Ravnica Allegiance,Common,2,Blue,True,True,True,False,b'Mark Behm',0.02
+Sphinx of Foresight,Creature,Sphinx,Ravnica Allegiance,Rare,4,Blue,True,True,True,True,b'Titus Lunter',0.63
+Swirling Torrent,Sorcery,None,Ravnica Allegiance,Uncommon,6,Blue,True,True,True,False,b'Ben Wootten',0.04
+Thought Collapse,Instant,None,Ravnica Allegiance,Common,3,Blue,True,True,True,True,b'Sara Winters',0.19
+Verity Circle,Enchantment,None,Ravnica Allegiance,Rare,3,Blue,True,True,True,False,b'Volkan Ba\xc7\xb5a',0.33
+Wall of Lost Thoughts,Creature,Wall,Ravnica Allegiance,Uncommon,2,Blue,True,True,True,False,b'Adam Paquette',0.54
+Windstorm Drake,Creature,Drake,Ravnica Allegiance,Uncommon,5,Blue,True,True,True,False,b'Daarken',0.06
+Awaken the Erstwhile,Sorcery,None,Ravnica Allegiance,Rare,5,Black,True,True,True,True,b'Jason A. Engle',0.23
+Bankrupt in Blood,Sorcery,None,Ravnica Allegiance,Uncommon,2,Black,True,True,True,False,b'Seb McKinnon',0.14
+Blade Juggler,Creature,Human Rogue,Ravnica Allegiance,Common,5,Black,True,True,True,False,b'Dmitry Burmak',0.03
+Bladebrand,Instant,None,Ravnica Allegiance,Common,2,Black,True,True,True,True,b'Winona Nelson',0.04
+Bloodmist Infiltrator,Creature,Vampire,Ravnica Allegiance,Uncommon,3,Black,True,True,True,False,b'Mitchell Malloy',0.07
+Carrion Imp,Creature,Imp,Ravnica Allegiance,Common,4,Black,True,True,True,True,b'Kev Walker',0.02
+Catacomb Crocodile,Creature,Crocodile,Ravnica Allegiance,Common,5,Black,True,True,True,True,b'Nils Hamm',0.02
+Clear the Stage,Instant,None,Ravnica Allegiance,Uncommon,5,Black,True,True,True,False,b'Lucas Graciano',0.03
+Consign to the Pit,Sorcery,None,Ravnica Allegiance,Common,6,Black,True,True,True,False,b'Colin Boyer',0.02
+Cry of the Carnarium,Sorcery,None,Ravnica Allegiance,Uncommon,3,Black,True,True,True,False,b'Johann Bodin',0.24
+Dead Revels,Sorcery,None,Ravnica Allegiance,Common,4,Black,True,True,True,False,b'David Palumbo',0.05
+Debtors' Transport,Creature,Thrull,Ravnica Allegiance,Common,6,Black,True,True,True,False,b'Jakub Kasper',0.03
+Drill Bit,Sorcery,None,Ravnica Allegiance,Uncommon,3,Black,True,True,True,False,b'Sidharth Chaturvedi',0.23
+Font of Agonies,Enchantment,None,Ravnica Allegiance,Rare,1,Black,True,True,True,True,b'Jason A. Engle',0.34
+Grotesque Demise,Instant,None,Ravnica Allegiance,Common,3,Black,True,True,True,False,b'Ben Wootten',0.02
+Gutterbones,Creature,Skeleton Warrior,Ravnica Allegiance,Rare,1,Black,True,True,True,True,b'Grzegorz Rutkowski',1.87
+Ill-Gotten Inheritance,Enchantment,None,Ravnica Allegiance,Common,4,Black,True,True,True,False,b'Winona Nelson',0.11
+Noxious Groodion,Creature,Beast,Ravnica Allegiance,Common,3,Black,True,True,True,False,b'Simon Dominic',0.02
+Orzhov Enforcer,Creature,Human Rogue,Ravnica Allegiance,Uncommon,2,Black,True,True,True,False,b'Matt Stewart',0.21
+Orzhov Racketeers,Creature,Human Rogue,Ravnica Allegiance,Uncommon,5,Black,True,True,True,False,b'David Palumbo',0.04
+Pestilent Spirit,Creature,Spirit,Ravnica Allegiance,Rare,3,Black,True,True,True,False,b'Anastasia Ovchinnikova',0.4
+Plague Wight,Creature,Zombie,Ravnica Allegiance,Common,2,Black,True,True,True,True,b'Tomasz Jedruszek',0.02
+Priest of Forgotten Gods,Creature,Human Cleric,Ravnica Allegiance,Rare,2,Black,True,True,True,True,b'Zack Stella',0.74
+Rakdos Trumpeter,Creature,Human Shaman,Ravnica Allegiance,Common,2,Black,True,True,True,False,b'Eric Deschamps',0.02
+Spawn of Mayhem,Creature,Demon,Ravnica Allegiance,Mythic Rare,4,Black,True,True,True,False,b'Victor Adame Minguez',2.35
+Spire Mangler,Creature,Insect,Ravnica Allegiance,Uncommon,3,Black,True,True,True,False,b'Tomasz Jedruszek',0.04
+Thirsting Shade,Creature,Shade,Ravnica Allegiance,Common,1,Black,True,True,True,False,b'Seb McKinnon',0.03
+Undercity Scavenger,Creature,Ogre Warrior,Ravnica Allegiance,Common,4,Black,True,True,True,False,b'Tomasz Jedruszek',0.03
+Undercity's Embrace,Instant,None,Ravnica Allegiance,Common,3,Black,True,True,True,True,b'Tyler Walpole',0.04
+Vindictive Vampire,Creature,Vampire,Ravnica Allegiance,Uncommon,4,Black,True,True,True,False,b'Randy Gallegos',0.19
+Act of Treason,Sorcery,None,Ravnica Allegiance,Common,3,Red,True,True,True,True,b'Scott Murphy',0.07
+Amplifire,Creature,Elemental,Ravnica Allegiance,Rare,4,Red,True,True,True,True,b'Dan Scott',0.12
+Burn Bright,Instant,None,Ravnica Allegiance,Common,3,Red,True,True,True,False,b'Scott Murphy',0.03
+Burning-Tree Vandal,Creature,Human Rogue,Ravnica Allegiance,Common,3,Red,True,True,True,False,b'Aaron Miller',0.05
+Cavalcade of Calamity,Enchantment,None,Ravnica Allegiance,Uncommon,2,Red,True,True,True,False,b'Jonas De Ro',0.26
+Clamor Shaman,Creature,Goblin Shaman,Ravnica Allegiance,Uncommon,3,Red,True,True,True,False,b'Tomasz Jedruszek',0.08
+Dagger Caster,Creature,Viashino Rogue,Ravnica Allegiance,Uncommon,4,Red,True,True,True,False,b'Viktor Titov',0.09
+Deface,Sorcery,None,Ravnica Allegiance,Common,1,Red,True,True,True,False,b'Sidharth Chaturvedi',0.02
+Electrodominance,Instant,None,Ravnica Allegiance,Rare,3,Red,True,True,True,True,b'Dmitry Burmak',1.12
+Feral Maaka,Creature,Cat,Ravnica Allegiance,Common,2,Red,True,True,True,False,b'Jonathan Kuo',0.03
+Flames of the Raze-Boar,Instant,None,Ravnica Allegiance,Uncommon,6,Red,True,True,True,False,b'Jason A. Engle',0.04
+Gates Ablaze,Sorcery,None,Ravnica Allegiance,Uncommon,3,Red,True,True,True,False,b'Eytan Zana',0.2
+Ghor-Clan Wrecker,Creature,Human Warrior,Ravnica Allegiance,Common,4,Red,True,True,True,False,b'David Palumbo',0.01
+Goblin Gathering,Sorcery,None,Ravnica Allegiance,Common,3,Red,True,True,True,False,b'Svetlin Velinov',0.08
+Gravel-Hide Goblin,Creature,Goblin Shaman,Ravnica Allegiance,Common,2,Red,True,True,True,False,b'Jonathan Kuo',0.02
+Immolation Shaman,Creature,Viashino Shaman,Ravnica Allegiance,Rare,2,Red,True,True,True,True,b'Svetlin Velinov',0.2
+Light Up the Stage,Sorcery,None,Ravnica Allegiance,Uncommon,3,Red,True,True,True,True,b'Dmitry Burmak',0.53
+Mirror March,Enchantment,None,Ravnica Allegiance,Rare,6,Red,True,True,True,True,b'Johannes Voss',0.43
+Rix Maadi Reveler,Creature,Human Shaman,Ravnica Allegiance,Rare,2,Red,True,True,True,True,b'Sara Winters',0.27
+Rubble Reading,Sorcery,None,Ravnica Allegiance,Common,4,Red,True,True,True,False,b'Aaron Miller',0.05
+Rubblebelt Recluse,Creature,Ogre Berserker,Ravnica Allegiance,Common,5,Red,True,True,True,True,b'Zoltan Boros',0.02
+Rumbling Ruin,Creature,Elemental,Ravnica Allegiance,Uncommon,6,Red,True,True,True,False,b'Jakub Kasper',0.04
+Scorchmark,Instant,None,Ravnica Allegiance,Common,2,Red,True,True,True,False,b'Jason Felix',0.02
+Skarrgan Hellkite,Creature,Dragon,Ravnica Allegiance,Mythic Rare,5,Red,True,True,True,True,b'Svetlin Velinov',1.22
+Skewer the Critics,Sorcery,None,Ravnica Allegiance,Common,3,Red,True,True,True,False,b'Heonhwa Choe',0.37
+Smelt-Ward Ignus,Creature,Elemental,Ravnica Allegiance,Uncommon,2,Red,True,True,True,False,b'Jehan Choo',0.05
+Spear Spewer,Creature,Goblin Warrior,Ravnica Allegiance,Common,1,Red,True,True,True,False,b'Carl Critchlow',0.09
+Spikewheel Acrobat,Creature,Human Rogue,Ravnica Allegiance,Common,4,Red,True,True,True,False,b'Deruchenko Alexander',0.02
+Storm Strike,Instant,None,Ravnica Allegiance,Common,1,Red,True,True,True,False,b'Dmitry Burmak',0.04
+Tin Street Dodger,Creature,Goblin Rogue,Ravnica Allegiance,Uncommon,1,Red,True,True,True,False,b'Yeong-Hao Han',0.16
+Axebane Beast,Creature,Beast,Ravnica Allegiance,Common,4,Green,True,True,True,False,b'Sam Rowan',0.02
+Biogenic Ooze,Creature,Ooze,Ravnica Allegiance,Mythic Rare,5,Green,True,True,True,True,b'Lake Hurwitz',1.83
+Biogenic Upgrade,Sorcery,None,Ravnica Allegiance,Uncommon,6,Green,True,True,True,False,b'Tomasz Jedruszek',0.19
+End-Raze Forerunners,Creature,Boar,Ravnica Allegiance,Rare,8,Green,True,True,True,True,b'Mathias Kollros',0.42
+Enraged Ceratok,Creature,Rhino,Ravnica Allegiance,Uncommon,4,Green,True,True,True,False,b'Lars Grant-West',0.03
+Gatebreaker Ram,Creature,Sheep,Ravnica Allegiance,Uncommon,3,Green,True,True,True,False,b'Even Amundsen',0.19
+Gift of Strength,Instant,None,Ravnica Allegiance,Common,2,Green,True,True,True,True,b'Lius Lasahido',0.02
+Growth-Chamber Guardian,Creature,Elf Crab Warrior,Ravnica Allegiance,Rare,2,Green,True,True,True,True,b'Bram Sels',0.32
+Gruul Beastmaster,Creature,Human Shaman,Ravnica Allegiance,Uncommon,4,Green,True,True,True,False,b'Kimonas Theodossiou',0.04
+Guardian Project,Enchantment,None,Ravnica Allegiance,Rare,4,Green,True,True,True,True,b'Chris Rallis',4.8
+Incubation Druid,Creature,Elf Druid,Ravnica Allegiance,Rare,2,Green,True,True,True,True,b'Daniel Ljunggren',1.03
+Mammoth Spider,Creature,Spider,Ravnica Allegiance,Common,5,Green,True,True,True,True,b'Jehan Choo',0.02
+Open the Gates,Sorcery,None,Ravnica Allegiance,Common,1,Green,True,True,True,False,b'John Thacker',0.14
+Rampage of the Clans,Instant,None,Ravnica Allegiance,Rare,4,Green,True,True,True,True,b'Sidharth Chaturvedi',0.27
+Rampaging Rendhorn,Creature,Beast,Ravnica Allegiance,Common,5,Green,True,True,True,False,b'Ben Wootten',0.02
+Regenesis,Instant,None,Ravnica Allegiance,Uncommon,5,Green,True,True,True,False,b'James Paick',0.05
+Root Snare,Instant,None,Ravnica Allegiance,Common,2,Green,True,True,True,True,b'Craig J Spearing',0.07
+Sagittars' Volley,Instant,None,Ravnica Allegiance,Common,3,Green,True,True,True,False,b'Dan Scott',0.02
+Saruli Caretaker,Creature,Dryad,Ravnica Allegiance,Common,1,Green,True,True,True,False,b'Howard Lyon',0.1
+Sauroform Hybrid,Creature,Human Lizard Warrior,Ravnica Allegiance,Common,2,Green,True,True,True,False,b'Nils Hamm',0.02
+Silhana Wayfinder,Creature,Elf Scout,Ravnica Allegiance,Uncommon,2,Green,True,True,True,False,b'Suzanne Helmigh',0.06
+Steeple Creeper,Creature,Frog Snake,Ravnica Allegiance,Common,3,Green,True,True,True,False,b'Svetlin Velinov',0.03
+Stony Strength,Instant,None,Ravnica Allegiance,Common,1,Green,True,True,True,False,b'Chris Seaman',0.11
+Sylvan Brushstrider,Creature,Beast,Ravnica Allegiance,Common,3,Green,True,True,True,False,b'Dan Scott',0.02
+Territorial Boar,Creature,Boar,Ravnica Allegiance,Common,2,Green,True,True,True,False,b'Dan Scott',0.02
+Titanic Brawl,Instant,None,Ravnica Allegiance,Common,2,Green,True,True,True,False,b'Svetlin Velinov',0.09
+Tower Defense,Instant,None,Ravnica Allegiance,Uncommon,2,Green,True,True,True,True,b'Craig J Spearing',0.16
+Trollbred Guardian,Creature,Troll Frog Warrior,Ravnica Allegiance,Uncommon,5,Green,True,True,True,False,b'Mathias Kollros',0.1
+Wilderness Reclamation,Enchantment,None,Ravnica Allegiance,Uncommon,4,Green,True,True,True,True,b'Tyler Walpole',2.81
+Wrecking Beast,Creature,Beast,Ravnica Allegiance,Common,7,Green,True,True,True,False,b'Izzy',0.03
+Absorb,Instant,None,Ravnica Allegiance,Rare,3,Gold,True,True,True,True,b'Izzy',1.52
+Aeromunculus,Creature,Homunculus Mutant,Ravnica Allegiance,Common,3,Gold,True,True,True,False,b'Simon Dominic',0.03
+Applied Biomancy,Instant,None,Ravnica Allegiance,Common,2,Gold,True,True,True,False,b'Sidharth Chaturvedi',0.03
+Azorius Knight-Arbiter,Creature,Human Knight,Ravnica Allegiance,Common,5,Gold,True,True,True,False,b'Even Amundsen',0.05
+Azorius Skyguard,Creature,Human Knight,Ravnica Allegiance,Uncommon,6,Gold,True,True,True,False,b'Gabor Szikszai',0.07
+Basilica Bell-Haunt,Creature,Spirit,Ravnica Allegiance,Uncommon,4,Gold,True,True,True,False,b'Yeong-Hao Han',0.16
+Bedevil,Instant,None,Ravnica Allegiance,Rare,3,Gold,True,True,True,True,b'Seb McKinnon',2.42
+Biomancer's Familiar,Creature,Mutant,Ravnica Allegiance,Rare,2,Gold,True,True,True,True,b'Izzy',0.4
+Bolrac-Clan Crusher,Creature,Ogre Warrior,Ravnica Allegiance,Uncommon,5,Gold,True,True,True,False,b'Craig J Spearing',0.07
+Captive Audience,Enchantment,None,Ravnica Allegiance,Mythic Rare,7,Gold,True,True,True,False,b'Dmitry Burmak',1.05
+Cindervines,Enchantment,None,Ravnica Allegiance,Rare,2,Gold,True,True,True,True,b'Mark Behm',1.26
+Clan Guildmage,Creature,Human Shaman,Ravnica Allegiance,Uncommon,2,Gold,True,True,True,False,b'Tomasz Jedruszek',0.07
+Combine Guildmage,Creature,Merfolk Wizard,Ravnica Allegiance,Uncommon,2,Gold,True,True,True,False,b'Yeong-Hao Han',0.13
+Cult Guildmage,Creature,Human Shaman,Ravnica Allegiance,Uncommon,2,Gold,True,True,True,False,b'Victor Adame Minguez',0.07
+Deputy of Detention,Creature,Vedalken Wizard,Ravnica Allegiance,Rare,3,Gold,True,True,True,True,b'G-host Lee',1.97
+"Domri, Chaos Bringer",Legendary Planeswalker,Domri,Ravnica Allegiance,Mythic Rare,4,Gold,True,True,True,True,b'Zack Stella',1.24
+"Dovin, Grand Arbiter",Legendary Planeswalker,Dovin,Ravnica Allegiance,Mythic Rare,3,Gold,True,True,True,False,b'Kieran Yanner',1.15
+Dovin's Acuity,Enchantment,None,Ravnica Allegiance,Uncommon,3,Gold,True,True,True,False,b'Bastien L. Deharme',0.14
+Emergency Powers,Instant,None,Ravnica Allegiance,Mythic Rare,7,Gold,True,True,True,True,b'Chris Rallis',0.61
+Ethereal Absolution,Enchantment,None,Ravnica Allegiance,Rare,6,Gold,True,True,True,True,b'Eric Deschamps',0.48
+Final Payment,Instant,None,Ravnica Allegiance,Common,2,Gold,True,True,True,False,b'Victor Adame Minguez',0.1
+Fireblade Artist,Creature,Human Shaman,Ravnica Allegiance,Uncommon,2,Gold,True,True,True,False,b'Steve Argyle',0.15
+Frenzied Arynx,Creature,Cat Beast,Ravnica Allegiance,Common,4,Gold,True,True,True,False,b'Filip Burburan',0.05
+Frilled Mystic,Creature,Elf Lizard Wizard,Ravnica Allegiance,Uncommon,4,Gold,True,True,True,False,b'Randy Vargas',0.22
+Galloping Lizrog,Creature,Frog Lizard,Ravnica Allegiance,Uncommon,5,Gold,True,True,True,False,b'Lius Lasahido',0.13
+Get the Point,Instant,None,Ravnica Allegiance,Common,5,Gold,True,True,True,False,b'Steve Argyle',0.04
+Grasping Thrull,Creature,Thrull,Ravnica Allegiance,Common,5,Gold,True,True,True,False,b'Seb McKinnon',0.04
+Growth Spiral,Instant,None,Ravnica Allegiance,Common,2,Gold,True,True,True,True,b'Seb McKinnon',0.3
+Gruul Spellbreaker,Creature,Ogre Warrior,Ravnica Allegiance,Rare,3,Gold,True,True,True,True,b'Zoltan Boros',1.01
+Gyre Engineer,Creature,Vedalken Wizard,Ravnica Allegiance,Uncommon,3,Gold,True,True,True,False,b'Anthony Palumbo',0.16
+Hackrobat,Creature,Human Rogue,Ravnica Allegiance,Uncommon,3,Gold,True,True,True,False,b'Simon Dominic',0.08
+High Alert,Enchantment,None,Ravnica Allegiance,Uncommon,3,Gold,True,True,True,False,b'Daarken',0.24
+Hydroid Krasis,Creature,Jellyfish Hydra Beast,Ravnica Allegiance,Mythic Rare,3,Gold,True,True,True,True,b'Jason Felix',17.22
+Imperious Oligarch,Creature,Human Cleric,Ravnica Allegiance,Common,2,Gold,True,True,True,False,b'Johannes Voss',0.08
+"Judith, the Scourge Diva",Legendary Creature,Human Shaman,Ravnica Allegiance,Rare,3,Gold,True,True,True,True,b'Wesley Burt',0.43
+"Kaya, Orzhov Usurper",Legendary Planeswalker,Kaya,Ravnica Allegiance,Mythic Rare,3,Gold,True,True,True,True,b'Yongjae Choi',3.18
+Kaya's Wrath,Sorcery,None,Ravnica Allegiance,Rare,4,Gold,True,True,True,True,b'Victor Adame Minguez',0.95
+Knight of the Last Breath,Creature,Giant Knight,Ravnica Allegiance,Uncommon,7,Gold,True,True,True,False,b'Milivoj \xc4\x86eran',0.06
+"Lavinia, Azorius Renegade",Legendary Creature,Human Soldier,Ravnica Allegiance,Rare,2,Gold,True,True,True,True,b'Steven Belledin',0.55
+Lawmage's Binding,Enchantment,Aura,Ravnica Allegiance,Common,3,Gold,True,True,True,True,b'Mark Behm',0.08
+Macabre Mockery,Instant,None,Ravnica Allegiance,Uncommon,4,Gold,True,True,True,False,b'Deruchenko Alexander',0.08
+Mortify,Instant,None,Ravnica Allegiance,Uncommon,3,Gold,True,True,True,True,b'Anthony Palumbo',0.21
+Nikya of the Old Ways,Legendary Creature,Centaur Druid,Ravnica Allegiance,Rare,5,Gold,True,True,True,True,b'Ryan Pancoast',0.31
+Pitiless Pontiff,Creature,Vampire Cleric,Ravnica Allegiance,Uncommon,2,Gold,True,True,True,False,b'Yongjae Choi',0.17
+Prime Speaker Vannifar,Legendary Creature,Elf Ooze Wizard,Ravnica Allegiance,Mythic Rare,4,Gold,True,True,True,False,b'Kieran Yanner',2.4
+Rafter Demon,Creature,Demon,Ravnica Allegiance,Common,4,Gold,True,True,True,False,b'Slawomir Maniak',0.04
+Rakdos Firewheeler,Creature,Human Rogue,Ravnica Allegiance,Uncommon,4,Gold,True,True,True,True,b'Slawomir Maniak',0.1
+Rakdos Roustabout,Creature,Ogre Warrior,Ravnica Allegiance,Common,3,Gold,True,True,True,False,b'Lucas Graciano',0.05
+"Rakdos, the Showstopper",Legendary Creature,Demon,Ravnica Allegiance,Mythic Rare,6,Gold,True,True,True,True,b'Viktor Titov',0.7
+Ravager Wurm,Creature,Wurm,Ravnica Allegiance,Mythic Rare,6,Gold,True,True,True,True,b'Svetlin Velinov',0.57
+Rhythm of the Wild,Enchantment,None,Ravnica Allegiance,Uncommon,3,Gold,True,True,True,False,b'Tomasz Jedruszek',1.06
+Rubblebelt Runner,Creature,Viashino Warrior,Ravnica Allegiance,Common,3,Gold,True,True,True,False,b'Deruchenko Alexander',0.03
+Savage Smash,Sorcery,None,Ravnica Allegiance,Common,3,Gold,True,True,True,False,b'Zoltan Boros',0.03
+Senate Guildmage,Creature,Human Wizard,Ravnica Allegiance,Uncommon,2,Gold,True,True,True,False,b'G-host Lee',0.08
+Seraph of the Scales,Creature,Angel,Ravnica Allegiance,Mythic Rare,4,Gold,True,True,True,True,b'Magali Villeneuve',1.67
+Sharktocrab,Creature,Shark Octopus Crab,Ravnica Allegiance,Uncommon,4,Gold,True,True,True,False,b'Jehan Choo',0.1
+Simic Ascendancy,Enchantment,None,Ravnica Allegiance,Rare,2,Gold,True,True,True,True,b'Izzy',0.94
+Sphinx of New Prahv,Creature,Sphinx,Ravnica Allegiance,Uncommon,4,Gold,True,True,True,False,b'Sara Winters',0.09
+Sphinx's Insight,Instant,None,Ravnica Allegiance,Common,4,Gold,True,True,True,False,b'Scott Murphy',0.07
+Sunder Shaman,Creature,Giant Shaman,Ravnica Allegiance,Uncommon,4,Gold,True,True,True,False,b'Jason Rainville',0.16
+Syndicate Guildmage,Creature,Human Cleric,Ravnica Allegiance,Uncommon,2,Gold,True,True,True,False,b'Josh Hass',0.04
+Teysa Karlov,Legendary Creature,Human Advisor,Ravnica Allegiance,Rare,4,Gold,True,True,True,True,b'Magali Villeneuve',1.04
+Theater of Horrors,Enchantment,None,Ravnica Allegiance,Rare,3,Gold,True,True,True,True,b'Daarken',0.31
+"Zegana, Utopian Speaker",Legendary Creature,Merfolk Wizard,Ravnica Allegiance,Rare,4,Gold,True,True,True,True,b'Slawomir Maniak',0.35
+Zhur-Taa Goblin,Creature,Goblin Berserker,Ravnica Allegiance,Uncommon,2,Gold,True,True,True,False,b'Wayne Reynolds',0.17
+Footlight Fiend,Creature,Devil,Ravnica Allegiance,Common,2,Gold,True,True,True,False,b'Deruchenko Alexander',0.14
+Rubble Slinger,Creature,Human Warrior,Ravnica Allegiance,Common,4,Gold,True,True,True,False,b'Livia Prima',0.02
+Scuttlegator,Creature,Crab Turtle Crocodile,Ravnica Allegiance,Common,8,Gold,True,True,True,False,b'Jehan Choo',0.04
+Senate Griffin,Creature,Griffin,Ravnica Allegiance,Common,6,Gold,True,True,True,False,b'Lucas Graciano',0.04
+Vizkopa Vampire,Creature,Vampire,Ravnica Allegiance,Common,4,Gold,True,True,True,False,b'Winona Nelson',0.03
+Bedeck,Instant,None,Ravnica Allegiance,Rare,4,Gold,True,True,True,True,b'Randy Vargas',0.16
+Carnival,Instant,None,Ravnica Allegiance,Uncommon,2,Gold,True,True,True,False,b'Zoltan Boros',0.09
+Collision,Instant,None,Ravnica Allegiance,Uncommon,3,Gold,True,True,True,False,b'Jason Rainville',0.21
+Consecrate,Instant,None,Ravnica Allegiance,Uncommon,3,Gold,True,True,True,True,b'Igor Kieryluk',0.14
+Depose,Instant,None,Ravnica Allegiance,Uncommon,3,Gold,True,True,True,False,b'Sara Winters',0.14
+Incubation,Sorcery,None,Ravnica Allegiance,Uncommon,2,Gold,True,True,True,False,b'Mike Bierek',0.17
+Repudiate,Instant,None,Ravnica Allegiance,Rare,4,Gold,True,True,True,False,b'Victor Adame Minguez',0.36
+Revival,Sorcery,None,Ravnica Allegiance,Rare,4,Gold,True,True,True,False,b'Paul Scott Canavan',0.52
+Thrash,Instant,None,Ravnica Allegiance,Rare,4,Gold,True,True,True,False,b'Winona Nelson',0.31
+Warrant,Instant,None,Ravnica Allegiance,Rare,4,Gold,True,True,True,False,b'Matt Stewart',0.18
+Azorius Locket,Artifact,None,Ravnica Allegiance,Common,3,Colorless,True,True,True,True,b'Craig J Spearing',0.12
+Gate Colossus,Artifact Creature,Construct,Ravnica Allegiance,Uncommon,8,Colorless,True,True,True,True,b'Izzy',0.17
+Glass of the Guildpact,Artifact,None,Ravnica Allegiance,Rare,2,Colorless,True,True,True,False,b'Dimitar Marinski',0.23
+Gruul Locket,Artifact,None,Ravnica Allegiance,Common,3,Colorless,True,True,True,False,b'Kev Walker',0.08
+Junktroller,Artifact Creature,Golem,Ravnica Allegiance,Uncommon,4,Colorless,True,True,True,True,b'Chris Seaman',0.1
+Orzhov Locket,Artifact,None,Ravnica Allegiance,Common,3,Colorless,True,True,True,False,b'Volkan Ba\xc7\xb5a',0.1
+Rakdos Locket,Artifact,None,Ravnica Allegiance,Common,3,Colorless,True,True,True,True,b'Sung Choi',0.11
+Scrabbling Claws,Artifact,None,Ravnica Allegiance,Uncommon,1,Colorless,True,True,True,True,b'James Paick',0.1
+Screaming Shield,Artifact,Equipment,Ravnica Allegiance,Uncommon,1,Colorless,True,True,True,False,b'Titus Lunter',0.06
+Simic Locket,Artifact,None,Ravnica Allegiance,Common,3,Colorless,True,True,True,True,b'Yeong-Hao Han',0.07
+Sphinx of the Guildpact,Artifact Creature,Sphinx,Ravnica Allegiance,Uncommon,7,Colorless,True,True,True,False,b'Milivoj \xc4\x86eran',0.08
+Tome of the Guildpact,Artifact,None,Ravnica Allegiance,Rare,5,Colorless,True,True,True,False,b'Randy Gallegos',0.26
+Azorius Guildgate,Land,Gate,Ravnica Allegiance,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.09
+Azorius Guildgate,Land,Gate,Ravnica Allegiance,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.09
+Blood Crypt,Land,Swamp Mountain,Ravnica Allegiance,Rare,0,Colorless,True,True,True,True,b'Adam Paquette',15.6
+Breeding Pool,Land,Forest Island,Ravnica Allegiance,Rare,0,Colorless,True,True,True,True,b'Jenn Ravenna Tran',26.33
+Gateway Plaza,Land,Gate,Ravnica Allegiance,Common,0,Colorless,True,True,True,True,b'Jedd Chevrier',0.16
+Godless Shrine,Land,Plains Swamp,Ravnica Allegiance,Rare,0,Colorless,True,True,True,True,b'Jenn Ravenna Tran',8.21
+Gruul Guildgate,Land,Gate,Ravnica Allegiance,Common,0,Colorless,True,True,True,True,b'Alexander Forssberg',0.09
+Gruul Guildgate,Land,Gate,Ravnica Allegiance,Common,0,Colorless,True,True,True,True,b'Alexander Forssberg',0.07
+Hallowed Fountain,Land,Plains Island,Ravnica Allegiance,Rare,0,Colorless,True,True,True,True,b'Jedd Chevrier',8.47
+Orzhov Guildgate,Land,Gate,Ravnica Allegiance,Common,0,Colorless,True,True,True,True,b'Cliff Childs',0.09
+Orzhov Guildgate,Land,Gate,Ravnica Allegiance,Common,0,Colorless,True,True,True,True,b'Cliff Childs',0.12
+Plaza of Harmony,Land,None,Ravnica Allegiance,Rare,0,Colorless,True,True,True,True,b'Jedd Chevrier',0.44
+Rakdos Guildgate,Land,Gate,Ravnica Allegiance,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.09
+Rakdos Guildgate,Land,Gate,Ravnica Allegiance,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.06
+Simic Guildgate,Land,Gate,Ravnica Allegiance,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.1
+Simic Guildgate,Land,Gate,Ravnica Allegiance,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.11
+Stomping Ground,Land,Mountain Forest,Ravnica Allegiance,Rare,0,Colorless,True,True,True,True,b'James Paick',7.84
+Plains,Basic Land,Plains,Ravnica Allegiance,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.15
+Island,Basic Land,Island,Ravnica Allegiance,Common,0,Colorless,True,True,True,True,b'Eytan Zana',0.38
+Swamp,Basic Land,Swamp,Ravnica Allegiance,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.39
+Mountain,Basic Land,Mountain,Ravnica Allegiance,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.22
+Forest,Basic Land,Forest,Ravnica Allegiance,Common,0,Colorless,True,True,True,True,b'Eytan Zana',0.43
+"Dovin, Architect of Law",Legendary Planeswalker,Dovin,Ravnica Allegiance,Mythic Rare,6,Gold,True,True,True,False,b'Kieran Yanner',1.44
+Elite Arrester,Creature,Human Soldier,Ravnica Allegiance,Common,1,White,True,True,True,False,b'Randy Vargas',0.11
+Dovin's Dismissal,Instant,None,Ravnica Allegiance,Rare,4,Gold,True,True,True,False,b'Kieran Yanner',0.22
+Dovin's Automaton,Artifact Creature,Homunculus,Ravnica Allegiance,Uncommon,4,Colorless,True,True,True,False,b'Adam Paquette',0.09
+"Domri, City Smasher",Legendary Planeswalker,Domri,Ravnica Allegiance,Mythic Rare,6,Gold,True,True,True,False,b'Eric Deschamps',0.94
+Ragefire,Sorcery,None,Ravnica Allegiance,Common,2,Red,True,True,True,False,b'Randy Vargas',0.08
+Charging War Boar,Creature,Boar,Ravnica Allegiance,Uncommon,3,Gold,True,True,True,False,b'Izzy',0.2
+Domri's Nodorog,Creature,Beast,Ravnica Allegiance,Rare,5,Gold,True,True,True,False,b'Svetlin Velinov',0.19
+The Haunt of Hightower,Legendary Creature,Vampire,Ravnica Allegiance,Mythic Rare,6,Black,True,True,True,True,b'Lius Lasahido',2.93

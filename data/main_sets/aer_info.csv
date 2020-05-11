@@ -1,0 +1,195 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Aerial Modification,Enchantment,Aura,Aether Revolt,Uncommon,5,White,True,False,True,False,b'Jung Park',0.08
+Aeronaut Admiral,Creature,Human Pilot,Aether Revolt,Uncommon,4,White,True,False,True,False,b'E. M. Gist',0.07
+Aether Inspector,Creature,Dwarf Artificer,Aether Revolt,Common,4,White,True,False,True,False,b'Sidharth Chaturvedi',0.04
+Aethergeode Miner,Creature,Dwarf Scout,Aether Revolt,Rare,2,White,True,False,True,True,b'Winona Nelson',0.13
+Airdrop Aeronauts,Creature,Dwarf Scout,Aether Revolt,Uncommon,5,White,True,False,True,False,b'Greg Opalinski',0.03
+Alley Evasion,Instant,None,Aether Revolt,Common,1,White,True,False,True,True,b'Scott Murphy',0.06
+Audacious Infiltrator,Creature,Dwarf Rogue,Aether Revolt,Common,2,White,True,False,True,False,b'Jakub Kasper',0.04
+Bastion Enforcer,Creature,Dwarf Soldier,Aether Revolt,Common,3,White,True,True,True,True,b'Matt Stewart',0.05
+Call for Unity,Enchantment,None,Aether Revolt,Rare,5,White,True,False,True,True,b'John Severin Brassell',0.23
+Caught in the Brights,Enchantment,Aura,Aether Revolt,Common,3,White,True,False,True,True,b'Kieran Yanner',0.06
+Consulate Crackdown,Enchantment,None,Aether Revolt,Rare,5,White,True,False,True,True,b'Jonas De Ro',0.19
+Conviction,Enchantment,Aura,Aether Revolt,Common,2,White,True,False,True,True,b'John Stanko',0.04
+Countless Gears Renegade,Creature,Dwarf Artificer,Aether Revolt,Common,2,White,True,False,True,True,b'Dan Scott',0.04
+Dawnfeather Eagle,Creature,Bird,Aether Revolt,Common,5,White,True,False,True,True,b'Sidharth Chaturvedi',0.04
+Deadeye Harpooner,Creature,Dwarf Warrior,Aether Revolt,Uncommon,3,White,True,False,True,False,b'Ryan Pancoast',0.07
+Decommission,Instant,None,Aether Revolt,Common,3,White,True,False,True,True,b'Josh Hass',0.07
+Deft Dismissal,Instant,None,Aether Revolt,Uncommon,4,White,True,False,True,False,b'Izzy',0.03
+Exquisite Archangel,Creature,Angel,Aether Revolt,Mythic Rare,7,White,True,False,True,True,b'Brad Rigney',1.44
+Felidar Guardian,Creature,Cat Beast,Aether Revolt,Uncommon,4,White,True,False,True,True,b'Jakub Kasper',0.54
+Ghirapur Osprey,Creature,Bird,Aether Revolt,Common,3,White,True,False,True,False,b'Zezhou Chen',0.05
+Restoration Specialist,Creature,Dwarf Artificer,Aether Revolt,Uncommon,2,White,True,False,True,False,b'David Palumbo',0.17
+Solemn Recruit,Creature,Dwarf Warrior,Aether Revolt,Rare,3,White,True,False,True,True,b'Eric Deschamps',0.13
+"Sram, Senior Edificer",Legendary Creature,Dwarf Advisor,Aether Revolt,Rare,2,White,True,False,True,True,b'Chris Rahn',5.04
+Sram's Expertise,Sorcery,None,Aether Revolt,Rare,4,White,True,False,True,True,b'Kieran Yanner',0.29
+Thopter Arrest,Enchantment,None,Aether Revolt,Uncommon,3,White,True,False,True,False,b'Kieran Yanner',0.09
+Aether Swooper,Creature,Vedalken Artificer,Aether Revolt,Common,2,Blue,True,False,True,False,b'James Ryman',0.05
+Aethertide Whale,Creature,Whale,Aether Revolt,Rare,6,Blue,True,False,True,True,b'Steven Belledin',0.14
+"Baral, Chief of Compliance",Legendary Creature,Human Wizard,Aether Revolt,Rare,2,Blue,True,False,True,True,b'Wesley Burt',5.23
+Baral's Expertise,Sorcery,None,Aether Revolt,Rare,5,Blue,True,False,True,True,b'Todd Lockwood',0.38
+Bastion Inventor,Creature,Vedalken Artificer,Aether Revolt,Common,6,Blue,True,False,True,True,b'Tony Foti',0.05
+Disallow,Instant,None,Aether Revolt,Rare,3,Blue,True,False,True,True,b'Min Yum',4.61
+Dispersal Technician,Creature,Vedalken Artificer,Aether Revolt,Common,5,Blue,True,False,True,False,b'Scott Murphy',0.04
+Efficient Construction,Enchantment,None,Aether Revolt,Uncommon,4,Blue,True,False,True,False,b'Jonas De Ro',0.39
+Hinterland Drake,Creature,Drake,Aether Revolt,Common,3,Blue,True,False,True,True,b'Lake Hurwitz',0.02
+Ice Over,Enchantment,Aura,Aether Revolt,Common,2,Blue,True,False,True,False,b'Sidharth Chaturvedi',0.04
+Illusionist's Stratagem,Instant,None,Aether Revolt,Uncommon,4,Blue,True,False,True,False,b'Svetlin Velinov',0.24
+Leave in the Dust,Instant,None,Aether Revolt,Common,4,Blue,True,False,True,False,b'Vincent Proce',0.03
+Mechanized Production,Enchantment,Aura,Aether Revolt,Mythic Rare,4,Blue,True,False,True,True,b'Adam Paquette',4.03
+Metallic Rebuke,Instant,None,Aether Revolt,Common,3,Blue,True,False,True,True,b'Eric Deschamps',0.21
+Negate,Instant,None,Aether Revolt,Common,2,Blue,True,True,True,True,b'Zack Stella',0.12
+Quicksmith Spy,Creature,Human Artificer,Aether Revolt,Rare,4,Blue,True,False,True,True,b'Ryan Alexander Lee',0.12
+Reverse Engineer,Sorcery,None,Aether Revolt,Uncommon,5,Blue,True,False,True,True,b'Chase Stone',0.09
+Salvage Scuttler,Creature,Crab,Aether Revolt,Uncommon,5,Blue,True,False,True,False,b'Tony Foti',0.04
+Shielded Aether Thief,Creature,Vedalken Rogue,Aether Revolt,Uncommon,2,Blue,True,False,True,False,b'Lake Hurwitz',0.09
+Shipwreck Moray,Creature,Fish,Aether Revolt,Common,4,Blue,True,False,True,False,b'Mike Bierek',0.03
+Skyship Plunderer,Creature,Human Pirate,Aether Revolt,Uncommon,2,Blue,True,False,True,False,b'Slawomir Maniak',0.1
+Take into Custody,Instant,None,Aether Revolt,Common,1,Blue,True,False,True,False,b'David Palumbo',0.04
+Trophy Mage,Creature,Human Wizard,Aether Revolt,Uncommon,3,Blue,True,False,True,True,b'Anna Steinbauer',0.27
+Whir of Invention,Instant,None,Aether Revolt,Rare,4,Blue,True,False,True,True,b'Christine Choi',1.75
+Wind-Kin Raiders,Creature,Human Artificer,Aether Revolt,Uncommon,6,Blue,True,False,True,True,b'Shreya Shetty',0.04
+Aether Poisoner,Creature,Human Artificer,Aether Revolt,Common,2,Black,True,False,True,False,b'Yongjae Choi',0.05
+Alley Strangler,Creature,Aetherborn Rogue,Aether Revolt,Common,3,Black,True,False,True,True,b'Efflam Mercier',0.03
+Battle at the Bridge,Sorcery,None,Aether Revolt,Rare,2,Black,True,False,True,True,b'Chris Rallis',0.32
+Cruel Finality,Instant,None,Aether Revolt,Common,3,Black,True,False,True,False,b'Svetlin Velinov',0.02
+Daring Demolition,Sorcery,None,Aether Revolt,Common,4,Black,True,False,True,True,b'Svetlin Velinov',0.03
+Defiant Salvager,Creature,Aetherborn Artificer,Aether Revolt,Common,3,Black,True,False,True,False,b'Volkan Ba\xc7\xb5a',0.05
+Fatal Push,Instant,None,Aether Revolt,Uncommon,1,Black,True,False,True,True,b'Eric Deschamps',3.17
+Fen Hauler,Creature,Insect,Aether Revolt,Common,7,Black,True,False,True,True,b'Sidharth Chaturvedi',0.02
+Foundry Hornet,Creature,Insect,Aether Revolt,Uncommon,4,Black,True,False,True,False,b'Christopher Moeller',0.04
+Fourth Bridge Prowler,Creature,Human Rogue,Aether Revolt,Common,1,Black,True,False,True,False,b'John Silva',0.06
+Gifted Aetherborn,Creature,Aetherborn Vampire,Aether Revolt,Uncommon,2,Black,True,False,True,True,b'Ryan Yee',1.34
+Glint-Sleeve Siphoner,Creature,Human Rogue,Aether Revolt,Rare,2,Black,True,False,True,True,b'Greg Opalinski',0.28
+Gonti's Machinations,Enchantment,None,Aether Revolt,Uncommon,1,Black,True,False,True,False,b'Daarken',0.14
+Herald of Anguish,Creature,Demon,Aether Revolt,Mythic Rare,7,Black,True,False,True,True,b'Vincent Proce',0.85
+Ironclad Revolutionary,Creature,Aetherborn Artificer,Aether Revolt,Uncommon,6,Black,True,False,True,False,b'Eric Deschamps',0.03
+Midnight Entourage,Creature,Aetherborn Rogue,Aether Revolt,Rare,4,Black,True,False,True,True,b'Lius Lasahido',0.11
+Night Market Aeronaut,Creature,Aetherborn Warrior,Aether Revolt,Common,4,Black,True,False,True,False,b'Tyler Jacobson',0.05
+Perilous Predicament,Instant,None,Aether Revolt,Uncommon,5,Black,True,False,True,False,b'Ryan Alexander Lee',0.03
+Renegade's Getaway,Instant,None,Aether Revolt,Common,3,Black,True,False,True,True,b'Ryan Yee',0.03
+Resourceful Return,Sorcery,None,Aether Revolt,Common,2,Black,True,False,True,False,b'Titus Lunter',0.05
+Secret Salvage,Sorcery,None,Aether Revolt,Rare,5,Black,True,False,True,True,b'Tommy Arnold',0.22
+Sly Requisitioner,Creature,Human Artificer,Aether Revolt,Uncommon,5,Black,True,False,True,False,b'Dan Scott',0.12
+Vengeful Rebel,Creature,Aetherborn Warrior,Aether Revolt,Uncommon,3,Black,True,False,True,False,b'Tomasz Jedruszek',0.05
+"Yahenni, Undying Partisan",Legendary Creature,Aetherborn Vampire,Aether Revolt,Rare,3,Black,True,False,True,True,b'Lius Lasahido',3.52
+Yahenni's Expertise,Sorcery,None,Aether Revolt,Rare,4,Black,True,False,True,True,b'Daarken',0.35
+Aether Chaser,Creature,Human Artificer,Aether Revolt,Common,2,Red,True,False,True,False,b'Jason Rainville',0.06
+Chandra's Revolution,Sorcery,None,Aether Revolt,Common,4,Red,True,False,True,True,b'Clint Cearley',0.07
+Destructive Tampering,Sorcery,None,Aether Revolt,Common,3,Red,True,False,True,True,b'Titus Lunter',0.02
+Embraal Gear-Smasher,Creature,Human Warrior,Aether Revolt,Common,3,Red,True,False,True,False,b'Joseph Meehan',0.05
+Enraged Giant,Creature,Giant,Aether Revolt,Uncommon,6,Red,True,False,True,False,b'Anthony Palumbo',0.04
+Freejam Regent,Creature,Dragon,Aether Revolt,Rare,6,Red,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.11
+Frontline Rebel,Creature,Human Warrior,Aether Revolt,Common,3,Red,True,False,True,True,b'Winona Nelson',0.04
+Gremlin Infestation,Enchantment,Aura,Aether Revolt,Uncommon,4,Red,True,False,True,False,b'Slawomir Maniak',0.04
+Hungry Flames,Instant,None,Aether Revolt,Uncommon,3,Red,True,False,True,False,b'Izzy',0.08
+Indomitable Creativity,Sorcery,None,Aether Revolt,Mythic Rare,4,Red,True,False,True,True,b'Deruchenko Alexander',1.42
+Invigorated Rampage,Instant,None,Aether Revolt,Uncommon,2,Red,True,False,True,False,b'Craig J Spearing',0.49
+"Kari Zev, Skyship Raider",Legendary Creature,Human Pirate,Aether Revolt,Rare,2,Red,True,False,True,True,b'Brad Rigney',0.27
+Kari Zev's Expertise,Sorcery,None,Aether Revolt,Rare,3,Red,True,False,True,True,b'Jason Rainville',0.37
+Lathnu Sailback,Creature,Lizard,Aether Revolt,Common,5,Red,True,False,True,False,b'Christopher Burdett',0.03
+Lightning Runner,Creature,Human Warrior,Aether Revolt,Mythic Rare,5,Red,True,False,True,True,b'Raymond Swanland',0.41
+Pia's Revolution,Enchantment,None,Aether Revolt,Rare,3,Red,True,False,True,True,b'Clint Cearley',0.3
+Precise Strike,Instant,None,Aether Revolt,Common,1,Red,True,False,True,False,b'Tyler Jacobson',0.04
+Quicksmith Rebel,Creature,Human Artificer,Aether Revolt,Rare,4,Red,True,False,True,True,b'Kieran Yanner',0.11
+Ravenous Intruder,Creature,Gremlin,Aether Revolt,Uncommon,2,Red,True,False,True,False,b'Mathias Kollros',0.06
+Reckless Racer,Creature,Human Pilot,Aether Revolt,Uncommon,3,Red,True,False,True,False,b'Viktor Titov',0.1
+Release the Gremlins,Sorcery,None,Aether Revolt,Rare,3,Red,True,False,True,True,b'Izzy',0.22
+Scrapper Champion,Creature,Human Artificer,Aether Revolt,Uncommon,4,Red,True,False,True,False,b'Magali Villeneuve',0.06
+Shock,Instant,None,Aether Revolt,Common,1,Red,True,True,True,True,b'Jason Rainville',0.08
+Siege Modification,Enchantment,Aura,Aether Revolt,Uncommon,3,Red,True,False,True,False,b'Sung Choi',0.11
+Sweatworks Brawler,Creature,Human Artificer,Aether Revolt,Common,4,Red,True,False,True,True,b'Zack Stella',0.02
+Wrangle,Sorcery,None,Aether Revolt,Common,2,Red,True,False,True,True,b'Jason Rainville',0.11
+Aether Herder,Creature,Elf Artificer Druid,Aether Revolt,Common,4,Green,True,False,True,False,b'Victor Adame Minguez',0.03
+Aetherstream Leopard,Creature,Cat,Aether Revolt,Common,3,Green,True,False,True,False,b'Winona Nelson',0.06
+Aetherwind Basker,Creature,Lizard,Aether Revolt,Mythic Rare,7,Green,True,False,True,True,b'Svetlin Velinov',0.38
+Aid from the Cowl,Enchantment,None,Aether Revolt,Rare,5,Green,True,False,True,True,b'Viktor Titov',0.24
+Druid of the Cowl,Creature,Elf Druid,Aether Revolt,Common,2,Green,True,False,True,True,b'Magali Villeneuve',0.08
+Greenbelt Rampager,Creature,Elephant,Aether Revolt,Rare,1,Green,True,False,True,True,b'Filip Burburan',0.35
+Greenwheel Liberator,Creature,Elf Warrior,Aether Revolt,Rare,2,Green,True,False,True,True,b'Todd Lockwood',0.14
+Heroic Intervention,Instant,None,Aether Revolt,Rare,2,Green,True,False,True,True,b'James Ryman',15.38
+Hidden Herbalists,Creature,Human Druid,Aether Revolt,Uncommon,2,Green,True,False,True,False,b'Bastien L. Deharme',0.14
+Highspire Infusion,Instant,None,Aether Revolt,Common,2,Green,True,False,True,False,b'Anna Steinbauer',0.05
+Lifecraft Awakening,Instant,None,Aether Revolt,Uncommon,2,Green,True,False,True,False,b'Raoul Vitale',0.04
+Lifecraft Cavalry,Creature,Elf Warrior,Aether Revolt,Common,5,Green,True,False,True,False,b'Svetlin Velinov',0.03
+Lifecrafter's Gift,Instant,None,Aether Revolt,Uncommon,4,Green,True,False,True,False,b'Winona Nelson',0.08
+Maulfist Revolutionary,Creature,Human Warrior,Aether Revolt,Uncommon,3,Green,True,False,True,False,b'Scott Murphy',0.08
+Monstrous Onslaught,Sorcery,None,Aether Revolt,Uncommon,5,Green,True,False,True,False,b'Slawomir Maniak',0.09
+Narnam Renegade,Creature,Elf Warrior,Aether Revolt,Uncommon,1,Green,True,False,True,False,b'Greg Opalinski',0.2
+Natural Obsolescence,Instant,None,Aether Revolt,Common,2,Green,True,False,True,False,b'Eytan Zana',0.04
+Peema Aether-Seer,Creature,Elf Druid,Aether Revolt,Uncommon,4,Green,True,False,True,False,b'Howard Lyon',0.07
+Prey Upon,Sorcery,None,Aether Revolt,Common,1,Green,True,True,True,True,b'Ryan Pancoast',0.09
+Ridgescale Tusker,Creature,Pangolin Beast,Aether Revolt,Uncommon,5,Green,True,False,True,False,b'Winona Nelson',0.14
+"Rishkar, Peema Renegade",Legendary Creature,Elf Druid,Aether Revolt,Rare,3,Green,True,False,True,True,b'Todd Lockwood',0.75
+Rishkar's Expertise,Sorcery,None,Aether Revolt,Rare,6,Green,True,False,True,True,b'Magali Villeneuve',5.47
+Scrounging Bandar,Creature,Cat Monkey,Aether Revolt,Common,2,Green,True,False,True,False,b'Shreya Shetty',0.09
+Silkweaver Elite,Creature,Elf Archer,Aether Revolt,Common,3,Green,True,False,True,True,b'Magali Villeneuve',0.03
+Unbridled Growth,Enchantment,Aura,Aether Revolt,Common,1,Green,True,False,True,False,b'Ryan Pancoast',0.12
+Ajani Unyielding,Legendary Planeswalker,Ajani,Aether Revolt,Mythic Rare,6,Gold,True,False,True,True,b'Kieran Yanner',1.9
+Dark Intimations,Sorcery,None,Aether Revolt,Rare,5,Gold,True,False,True,True,b'Chase Stone',0.33
+Hidden Stockpile,Enchantment,None,Aether Revolt,Uncommon,2,Gold,True,False,True,True,b'Darek Zabrocki',0.2
+Maverick Thopterist,Creature,Human Artificer,Aether Revolt,Uncommon,5,Gold,True,False,True,True,b'Zack Stella',0.09
+Oath of Ajani,Legendary Enchantment,None,Aether Revolt,Rare,2,Gold,True,False,True,True,b'Wesley Burt',0.57
+Outland Boar,Creature,Boar,Aether Revolt,Uncommon,4,Gold,True,False,True,False,b'Winona Nelson',0.04
+Renegade Rallier,Creature,Human Warrior,Aether Revolt,Uncommon,3,Gold,True,False,True,True,b'Kieran Yanner',0.16
+Renegade Wheelsmith,Creature,Dwarf Pilot,Aether Revolt,Uncommon,3,Gold,True,False,True,False,b'Darek Zabrocki',0.11
+Rogue Refiner,Creature,Human Rogue,Aether Revolt,Uncommon,3,Gold,True,False,True,False,b'Victor Adame Minguez',0.24
+Spire Patrol,Creature,Human Soldier,Aether Revolt,Uncommon,4,Gold,True,False,True,False,b'Dan Scott',0.04
+Tezzeret the Schemer,Legendary Planeswalker,Tezzeret,Aether Revolt,Mythic Rare,4,Gold,True,False,True,True,b'Ryan Alexander Lee',0.89
+Tezzeret's Touch,Enchantment,Aura,Aether Revolt,Uncommon,3,Gold,True,False,True,False,b'Chris Rallis',0.12
+Weldfast Engineer,Creature,Human Artificer,Aether Revolt,Uncommon,3,Gold,True,False,True,False,b'Sara Winters',0.04
+Winding Constrictor,Creature,Snake,Aether Revolt,Uncommon,2,Gold,True,False,True,True,b'Izzy',0.44
+Aegis Automaton,Artifact Creature,Construct,Aether Revolt,Common,2,Colorless,True,False,True,False,b'Kieran Yanner',0.04
+Aethersphere Harvester,Artifact,Vehicle,Aether Revolt,Rare,3,Colorless,True,False,True,True,b'Christine Choi',0.39
+Augmenting Automaton,Artifact Creature,Construct,Aether Revolt,Common,1,Colorless,True,False,True,False,b'Jason Rainville',0.04
+Barricade Breaker,Artifact Creature,Juggernaut,Aether Revolt,Uncommon,7,Colorless,True,False,True,False,b'Karl Kopinski',0.09
+Cogwork Assembler,Artifact Creature,Assembly-Worker,Aether Revolt,Uncommon,3,Colorless,True,False,True,False,b'Joseph Meehan',0.12
+Consulate Dreadnought,Artifact,Vehicle,Aether Revolt,Uncommon,1,Colorless,True,False,True,True,b'Cliff Childs',0.18
+Consulate Turret,Artifact,None,Aether Revolt,Common,3,Colorless,True,False,True,False,b'Eric Deschamps',0.07
+Crackdown Construct,Artifact Creature,Construct,Aether Revolt,Uncommon,4,Colorless,True,False,True,False,b'Johannes Voss',0.09
+Daredevil Dragster,Artifact,Vehicle,Aether Revolt,Uncommon,3,Colorless,True,False,True,False,b'Titus Lunter',0.1
+Filigree Crawler,Artifact Creature,Insect,Aether Revolt,Common,4,Colorless,True,False,True,False,b'James Paick',0.02
+Foundry Assembler,Artifact Creature,Assembly-Worker,Aether Revolt,Common,5,Colorless,True,False,True,False,b'Karl Kopinski',0.06
+Gonti's Aether Heart,Legendary Artifact,None,Aether Revolt,Mythic Rare,6,Colorless,True,False,True,True,b'Vincent Proce',0.52
+Heart of Kiran,Legendary Artifact,Vehicle,Aether Revolt,Mythic Rare,2,Colorless,True,False,True,True,b'Jaime Jones',1.02
+Hope of Ghirapur,Legendary Artifact Creature,Thopter,Aether Revolt,Rare,1,Colorless,True,False,True,True,b'Lius Lasahido',1.59
+Implement of Combustion,Artifact,None,Aether Revolt,Common,1,Colorless,True,False,True,False,b'Efflam Mercier',0.08
+Implement of Examination,Artifact,None,Aether Revolt,Common,3,Colorless,True,False,True,False,b'Darek Zabrocki',0.09
+Implement of Ferocity,Artifact,None,Aether Revolt,Common,1,Colorless,True,False,True,False,b'Jason Kang',0.1
+Implement of Improvement,Artifact,None,Aether Revolt,Common,1,Colorless,True,False,True,False,b'Kieran Yanner',0.1
+Implement of Malice,Artifact,None,Aether Revolt,Common,2,Colorless,True,False,True,True,b'Titus Lunter',0.05
+Inspiring Statuary,Artifact,None,Aether Revolt,Rare,3,Colorless,True,False,True,True,b'Kirsten Zirngibl',0.7
+Irontread Crusher,Artifact,Vehicle,Aether Revolt,Common,4,Colorless,True,False,True,True,b'Jason A. Engle',0.09
+Lifecrafter's Bestiary,Artifact,None,Aether Revolt,Rare,3,Colorless,True,False,True,True,b'Izzy',1.92
+Merchant's Dockhand,Artifact Creature,Construct,Aether Revolt,Rare,1,Colorless,True,False,True,True,b'Christine Choi',0.15
+Metallic Mimic,Artifact Creature,Shapeshifter,Aether Revolt,Rare,2,Colorless,True,False,True,True,b'Zack Stella',7.63
+Mobile Garrison,Artifact,Vehicle,Aether Revolt,Common,3,Colorless,True,False,True,False,b'Cliff Childs',0.1
+Night Market Guard,Artifact Creature,Construct,Aether Revolt,Common,3,Colorless,True,False,True,True,b'Steve Argyle',0.03
+Ornithopter,Artifact Creature,Thopter,Aether Revolt,Uncommon,0,Colorless,True,False,True,True,b'Mathias Kollros',0.27
+Pacification Array,Artifact,None,Aether Revolt,Uncommon,1,Colorless,True,False,True,False,b'Joseph Meehan',0.1
+Paradox Engine,Legendary Artifact,None,Aether Revolt,Mythic Rare,5,Colorless,True,False,False,True,b'Christine Choi',5.02
+Peacewalker Colossus,Artifact,Vehicle,Aether Revolt,Rare,3,Colorless,True,False,True,True,b'Vincent Proce',0.25
+Planar Bridge,Legendary Artifact,None,Aether Revolt,Mythic Rare,6,Colorless,True,False,True,True,b'Chase Stone',4.37
+Prizefighter Construct,Artifact Creature,Construct,Aether Revolt,Common,5,Colorless,True,False,True,False,b'Daniel Ljunggren',0.07
+Renegade Map,Artifact,None,Aether Revolt,Common,1,Colorless,True,False,True,True,b'Lake Hurwitz',0.2
+Reservoir Walker,Artifact Creature,Construct,Aether Revolt,Common,5,Colorless,True,False,True,False,b'Johann Bodin',0.04
+Scrap Trawler,Artifact Creature,Construct,Aether Revolt,Rare,3,Colorless,True,False,True,True,b'Daarken',0.81
+Servo Schematic,Artifact,None,Aether Revolt,Uncommon,2,Colorless,True,False,True,False,b'Titus Lunter',0.15
+Treasure Keeper,Artifact Creature,Construct,Aether Revolt,Uncommon,4,Colorless,True,False,True,True,b'James Paick',0.12
+Universal Solvent,Artifact,None,Aether Revolt,Common,1,Colorless,True,False,True,True,b'Christopher Moeller',0.06
+Untethered Express,Artifact,Vehicle,Aether Revolt,Uncommon,4,Colorless,True,False,True,False,b'James Ryman',0.14
+Verdant Automaton,Artifact Creature,Construct,Aether Revolt,Common,2,Colorless,True,False,True,False,b'Ryan Alexander Lee',0.06
+Walking Ballista,Artifact Creature,Construct,Aether Revolt,Rare,2,Colorless,True,False,True,True,b'Daniel Ljunggren',27.25
+Watchful Automaton,Artifact Creature,Construct,Aether Revolt,Common,3,Colorless,True,False,True,False,b'Eric Deschamps',0.04
+Welder Automaton,Artifact Creature,Construct,Aether Revolt,Common,2,Colorless,True,False,True,True,b'Victor Adame Minguez',0.06
+Spire of Industry,Land,None,Aether Revolt,Rare,0,Colorless,True,False,True,True,b'John Avon',1.17
+"Ajani, Valiant Protector",Legendary Planeswalker,Ajani,Aether Revolt,Mythic Rare,6,Gold,True,False,True,False,b'Anna Steinbauer',1.39
+Inspiring Roar,Sorcery,None,Aether Revolt,Common,4,White,True,False,True,False,b'Chris Rahn',0.11
+Ajani's Comrade,Creature,Elf Soldier,Aether Revolt,Uncommon,2,Green,True,False,True,False,b'James Ryman',0.16
+Ajani's Aid,Enchantment,None,Aether Revolt,Rare,4,Gold,True,False,True,False,b'Terese Nielsen',0.17
+Tranquil Expanse,Land,None,Aether Revolt,Common,0,Colorless,True,False,True,True,b'Sam Burley',0.12
+"Tezzeret, Master of Metal",Legendary Planeswalker,Tezzeret,Aether Revolt,Mythic Rare,6,Gold,True,False,True,False,b'Tyler Jacobson',1.18
+Tezzeret's Betrayal,Sorcery,None,Aether Revolt,Rare,5,Gold,True,False,True,False,b'Tyler Jacobson',0.15
+Pendulum of Patterns,Artifact,None,Aether Revolt,Common,2,Colorless,True,False,True,True,b'Raoul Vitale',0.1
+Tezzeret's Simulacrum,Artifact Creature,Golem,Aether Revolt,Uncommon,3,Colorless,True,False,True,False,b'Craig J Spearing',0.13
+Submerged Boneyard,Land,None,Aether Revolt,Common,0,Colorless,True,False,True,True,b'Christine Choi',0.19

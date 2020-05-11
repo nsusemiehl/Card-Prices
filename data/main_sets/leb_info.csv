@@ -1,0 +1,303 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Animate Wall,Enchantment,Aura,Limited Edition Beta,Rare,1,White,False,False,True,True,b'Dan Frazier',61.77
+Armageddon,Sorcery,None,Limited Edition Beta,Rare,4,White,False,False,True,True,b'Jesper Myrfors',44.4
+Balance,Sorcery,None,Limited Edition Beta,Rare,2,White,False,False,False,True,b'Mark Poole',32.18
+Benalish Hero,Creature,Human Soldier,Limited Edition Beta,Common,1,White,False,False,True,True,b'Douglas Shuler',4.99
+Black Ward,Enchantment,Aura,Limited Edition Beta,Uncommon,1,White,False,False,True,True,b'Dan Frazier',5.65
+Blaze of Glory,Instant,None,Limited Edition Beta,Rare,1,White,False,False,True,True,b'Richard Thomas',70.72
+Blessing,Enchantment,Aura,Limited Edition Beta,Rare,2,White,True,False,True,True,b'Julie Baroh',38.89
+Blue Ward,Enchantment,Aura,Limited Edition Beta,Uncommon,1,White,False,False,True,True,b'Dan Frazier',5.56
+Castle,Enchantment,None,Limited Edition Beta,Uncommon,4,White,False,False,True,True,b'Dameon Willich',13.99
+Circle of Protection: Black,Enchantment,None,Limited Edition Beta,Common,2,White,True,False,True,True,b'Jesper Myrfors',9.1
+Circle of Protection: Blue,Enchantment,None,Limited Edition Beta,Common,2,White,True,False,True,True,b'Dameon Willich',6.57
+Circle of Protection: Green,Enchantment,None,Limited Edition Beta,Common,2,White,True,False,True,True,b'Sandra Everingham',5.69
+Circle of Protection: Red,Enchantment,None,Limited Edition Beta,Common,2,White,True,False,True,True,b'Mark Tedin',10.15
+Circle of Protection: White,Enchantment,None,Limited Edition Beta,Common,2,White,True,False,True,True,b'Douglas Shuler',3.46
+Consecrate Land,Enchantment,Aura,Limited Edition Beta,Uncommon,1,White,True,False,True,True,b'Jeff A. Menges',6.7
+Conversion,Enchantment,None,Limited Edition Beta,Uncommon,4,White,False,False,True,True,b'Jesper Myrfors',6.26
+Crusade,Enchantment,None,Limited Edition Beta,Rare,2,White,False,False,True,True,b'Mark Poole',20.06
+Death Ward,Instant,None,Limited Edition Beta,Common,1,White,False,False,True,True,b'Mark Poole',2.61
+Disenchant,Instant,None,Limited Edition Beta,Common,2,White,True,True,True,True,b'Amy Weber',33.05
+Farmstead,Enchantment,Aura,Limited Edition Beta,Rare,3,White,False,False,True,True,b'Mark Poole',68.99
+Green Ward,Enchantment,Aura,Limited Edition Beta,Uncommon,1,White,False,False,True,True,b'Dan Frazier',5.5
+Guardian Angel,Instant,None,Limited Edition Beta,Common,2,White,False,False,True,True,b'Anson Maddocks',3.62
+Healing Salve,Instant,None,Limited Edition Beta,Common,1,White,True,False,True,True,b'Dan Frazier',5.03
+Holy Armor,Enchantment,Aura,Limited Edition Beta,Common,1,White,False,False,True,True,b'Melissa A. Benson',3.75
+Holy Strength,Enchantment,Aura,Limited Edition Beta,Common,1,White,True,False,True,True,b'Anson Maddocks',5.15
+Island Sanctuary,Enchantment,None,Limited Edition Beta,Rare,2,White,False,False,True,True,b'Mark Poole',30.09
+Karma,Enchantment,None,Limited Edition Beta,Uncommon,4,White,True,False,True,True,b'Richard Thomas',28.09
+Lance,Enchantment,Aura,Limited Edition Beta,Uncommon,1,White,False,False,True,True,b'Rob Alexander',4.69
+Mesa Pegasus,Creature,Pegasus,Limited Edition Beta,Common,2,White,False,False,True,True,b'Melissa A. Benson',5.25
+Northern Paladin,Creature,Human Knight,Limited Edition Beta,Rare,4,White,False,False,True,True,b'Douglas Shuler',89.0
+Pearled Unicorn,Creature,Unicorn,Limited Edition Beta,Common,3,White,False,False,True,True,b'Cornelius Brudi',3.05
+Personal Incarnation,Creature,Avatar Incarnation,Limited Edition Beta,Rare,6,White,False,False,True,True,b'Kev Brockschmidt',56.54
+Purelace,Instant,None,Limited Edition Beta,Rare,1,White,False,False,True,True,b'Sandra Everingham',29.49
+Red Ward,Enchantment,Aura,Limited Edition Beta,Uncommon,1,White,False,False,True,True,b'Dan Frazier',11.07
+Resurrection,Sorcery,None,Limited Edition Beta,Uncommon,4,White,True,False,True,True,b'Dan Frazier',6.87
+Reverse Damage,Instant,None,Limited Edition Beta,Rare,3,White,True,False,True,True,b'Dameon Willich',46.44
+Righteousness,Instant,None,Limited Edition Beta,Rare,1,White,True,True,True,True,b'Douglas Shuler',0.98
+Samite Healer,Creature,Human Cleric,Limited Edition Beta,Common,2,White,True,False,True,True,b'Tom W\xc3\xa4nerstrand',1.92
+Savannah Lions,Creature,Cat,Limited Edition Beta,Rare,1,White,True,False,True,True,b'Daniel Gelon',65.98
+Serra Angel,Creature,Angel,Limited Edition Beta,Uncommon,5,White,True,False,True,True,b'Douglas Shuler',99.99
+Swords to Plowshares,Instant,None,Limited Edition Beta,Uncommon,1,White,False,False,True,True,b'Jeff A. Menges',3.53
+Veteran Bodyguard,Creature,Human,Limited Edition Beta,Rare,5,White,False,False,True,True,b'Douglas Shuler',39.99
+Wall of Swords,Creature,Wall,Limited Edition Beta,Uncommon,4,White,True,False,True,True,b'Mark Tedin',8.53
+White Knight,Creature,Human Knight,Limited Edition Beta,Uncommon,2,White,True,False,True,True,b'Daniel Gelon',0.09
+White Ward,Enchantment,Aura,Limited Edition Beta,Uncommon,1,White,False,False,True,True,b'Dan Frazier',8.69
+Wrath of God,Sorcery,None,Limited Edition Beta,Rare,4,White,True,False,True,True,b'Quinton Hoover',24.98
+Air Elemental,Creature,Elemental,Limited Edition Beta,Uncommon,5,Blue,True,True,True,True,b'Richard Thomas',10.02
+Ancestral Recall,Instant,None,Limited Edition Beta,Rare,1,Blue,False,False,False,True,b'Mark Poole',46.57
+Animate Artifact,Enchantment,Aura,Limited Edition Beta,Uncommon,4,Blue,False,False,True,True,b'Douglas Shuler',13.0
+Blue Elemental Blast,Instant,None,Limited Edition Beta,Common,1,Blue,False,False,True,True,b'Richard Thomas',24.41
+Braingeyser,Sorcery,None,Limited Edition Beta,Rare,3,Blue,False,False,True,True,b'Mark Tedin',29.99
+Clone,Creature,Shapeshifter,Limited Edition Beta,Uncommon,4,Blue,True,False,True,True,b'Julie Baroh',38.35
+Control Magic,Enchantment,Aura,Limited Edition Beta,Uncommon,4,Blue,False,False,True,True,b'Dameon Willich',85.48
+Copy Artifact,Enchantment,None,Limited Edition Beta,Rare,2,Blue,False,False,True,True,b'Amy Weber',96.23
+Counterspell,Instant,None,Limited Edition Beta,Uncommon,2,Blue,False,False,True,True,b'Mark Poole',47.66
+Creature Bond,Enchantment,Aura,Limited Edition Beta,Common,2,Blue,False,False,True,True,b'Anson Maddocks',8.99
+Drain Power,Sorcery,None,Limited Edition Beta,Rare,2,Blue,False,False,True,True,b'Douglas Shuler',49.99
+Feedback,Enchantment,Aura,Limited Edition Beta,Uncommon,3,Blue,False,False,True,True,b'Quinton Hoover',6.11
+Flight,Enchantment,Aura,Limited Edition Beta,Common,1,Blue,True,False,True,True,b'Anson Maddocks',5.75
+Invisibility,Enchantment,Aura,Limited Edition Beta,Common,2,Blue,True,False,True,True,b'Anson Maddocks',2.38
+Jump,Instant,None,Limited Edition Beta,Common,1,Blue,True,False,True,True,b'Mark Poole',5.19
+Lifetap,Enchantment,None,Limited Edition Beta,Uncommon,2,Blue,False,False,True,True,b'Anson Maddocks',16.38
+Lord of Atlantis,Creature,Merfolk,Limited Edition Beta,Rare,2,Blue,True,False,True,True,b'Melissa A. Benson',71.08
+Magical Hack,Instant,None,Limited Edition Beta,Rare,1,Blue,False,False,True,True,b'Julie Baroh',64.82
+Mahamoti Djinn,Creature,Djinn,Limited Edition Beta,Rare,6,Blue,True,False,True,True,b'Dan Frazier',99.99
+Mana Short,Instant,None,Limited Edition Beta,Rare,3,Blue,False,False,True,True,b'Dameon Willich',51.63
+Merfolk of the Pearl Trident,Creature,Merfolk,Limited Edition Beta,Common,1,Blue,True,False,True,True,b'Jeff A. Menges',3.14
+Phantasmal Forces,Creature,Illusion,Limited Edition Beta,Uncommon,4,Blue,False,False,True,True,b'Mark Poole',6.36
+Phantasmal Terrain,Enchantment,Aura,Limited Edition Beta,Common,2,Blue,False,False,True,True,b'Dameon Willich',2.21
+Phantom Monster,Creature,Illusion,Limited Edition Beta,Uncommon,4,Blue,False,False,True,True,b'Jesper Myrfors',7.36
+Pirate Ship,Creature,Human Pirate,Limited Edition Beta,Rare,5,Blue,True,False,True,True,b'Tom W\xc3\xa4nerstrand',39.89
+Power Leak,Enchantment,Aura,Limited Edition Beta,Common,2,Blue,False,False,True,True,b'Drew Tucker',3.49
+Power Sink,Instant,None,Limited Edition Beta,Common,2,Blue,False,False,True,True,b'Richard Thomas',12.75
+Prodigal Sorcerer,Creature,Human Wizard,Limited Edition Beta,Common,3,Blue,True,False,True,True,b'Douglas Shuler',10.14
+Psionic Blast,Instant,None,Limited Edition Beta,Uncommon,3,Blue,True,False,True,True,b'Douglas Shuler',7.47
+Psychic Venom,Enchantment,Aura,Limited Edition Beta,Common,2,Blue,False,False,True,True,b'Brian Sn\xc3\xb5ddy',4.43
+Sea Serpent,Creature,Serpent,Limited Edition Beta,Common,6,Blue,False,False,True,True,b'Jeff A. Menges',7.5
+Siren's Call,Instant,None,Limited Edition Beta,Uncommon,1,Blue,False,False,True,True,b'Anson Maddocks',5.88
+Sleight of Mind,Instant,None,Limited Edition Beta,Rare,1,Blue,False,False,True,True,b'Mark Poole',94.99
+Spell Blast,Instant,None,Limited Edition Beta,Common,2,Blue,True,False,True,True,b'Brian Sn\xc3\xb5ddy',4.8
+Stasis,Enchantment,None,Limited Edition Beta,Rare,2,Blue,False,False,True,True,b'Fay Jones',55.64
+Steal Artifact,Enchantment,Aura,Limited Edition Beta,Uncommon,4,Blue,True,False,True,True,b'Amy Weber',9.28
+Thoughtlace,Instant,None,Limited Edition Beta,Rare,1,Blue,False,False,True,True,b'Mark Poole',39.0
+Time Walk,Sorcery,None,Limited Edition Beta,Rare,2,Blue,False,False,False,True,b'Amy Weber',55.04
+Timetwister,Sorcery,None,Limited Edition Beta,Rare,3,Blue,False,False,True,True,b'Mark Tedin',99.99
+Twiddle,Instant,None,Limited Edition Beta,Common,1,Blue,True,False,True,True,b'Rob Alexander',11.16
+Unsummon,Instant,None,Limited Edition Beta,Common,1,Blue,True,True,True,True,b'Douglas Shuler',12.57
+Vesuvan Doppelganger,Creature,Shapeshifter,Limited Edition Beta,Rare,5,Blue,False,False,True,True,b'Quinton Hoover',29.99
+Volcanic Eruption,Sorcery,None,Limited Edition Beta,Rare,4,Blue,False,False,True,True,b'Douglas Shuler',50.0
+Wall of Air,Creature,Wall,Limited Edition Beta,Uncommon,3,Blue,True,False,True,True,b'Richard Thomas',5.88
+Wall of Water,Creature,Wall,Limited Edition Beta,Uncommon,3,Blue,False,False,True,True,b'Richard Thomas',4.61
+Water Elemental,Creature,Elemental,Limited Edition Beta,Uncommon,5,Blue,False,False,True,True,b'Jeff A. Menges',6.77
+Animate Dead,Enchantment,Aura,Limited Edition Beta,Uncommon,2,Black,False,False,True,True,b'Anson Maddocks',34.99
+Bad Moon,Enchantment,None,Limited Edition Beta,Rare,2,Black,True,False,True,True,b'Jesper Myrfors',13.42
+Black Knight,Creature,Human Knight,Limited Edition Beta,Uncommon,2,Black,True,False,True,True,b'Jeff A. Menges',49.94
+Bog Wraith,Creature,Wraith,Limited Edition Beta,Uncommon,4,Black,True,False,True,True,b'Jeff A. Menges',10.14
+Contract from Below,Sorcery,None,Limited Edition Beta,Rare,1,Black,False,False,False,True,b'Douglas Shuler',20.0
+Cursed Land,Enchantment,Aura,Limited Edition Beta,Uncommon,4,Black,False,False,True,True,b'Jesper Myrfors',12.69
+Dark Ritual,Instant,None,Limited Edition Beta,Common,1,Black,False,False,True,True,b'Sandra Everingham',70.09
+Darkpact,Sorcery,None,Limited Edition Beta,Rare,3,Black,False,False,False,True,b'Quinton Hoover',4.93
+Deathgrip,Enchantment,None,Limited Edition Beta,Uncommon,2,Black,False,False,True,True,b'Anson Maddocks',7.57
+Deathlace,Instant,None,Limited Edition Beta,Rare,1,Black,False,False,True,True,b'Sandra Everingham',59.99
+Demonic Attorney,Sorcery,None,Limited Edition Beta,Rare,3,Black,False,False,False,True,b'Daniel Gelon',9.78
+Demonic Hordes,Creature,Demon,Limited Edition Beta,Rare,6,Black,False,False,True,True,b'Jesper Myrfors',11.99
+Demonic Tutor,Sorcery,None,Limited Edition Beta,Uncommon,2,Black,False,False,True,True,b'Douglas Shuler',20.09
+Drain Life,Sorcery,None,Limited Edition Beta,Common,3,Black,False,False,True,True,b'Douglas Shuler',10.59
+Drudge Skeletons,Creature,Skeleton,Limited Edition Beta,Common,2,Black,True,False,True,True,b'Sandra Everingham',9.0
+Evil Presence,Enchantment,Aura,Limited Edition Beta,Uncommon,1,Black,True,False,True,True,b'Sandra Everingham',7.32
+Fear,Enchantment,Aura,Limited Edition Beta,Common,2,Black,True,False,True,True,b'Mark Poole',4.5
+Frozen Shade,Creature,Shade,Limited Edition Beta,Common,3,Black,False,False,True,True,b'Douglas Shuler',2.19
+Gloom,Enchantment,None,Limited Edition Beta,Uncommon,3,Black,False,False,True,True,b'Dan Frazier',45.24
+Howl from Beyond,Instant,None,Limited Edition Beta,Common,2,Black,False,False,True,True,b'Mark Poole',6.0
+Hypnotic Specter,Creature,Specter,Limited Edition Beta,Uncommon,3,Black,True,False,True,True,b'Douglas Shuler',42.78
+Lich,Enchantment,None,Limited Edition Beta,Rare,4,Black,False,False,True,True,b'Daniel Gelon',2.45
+Lord of the Pit,Creature,Demon,Limited Edition Beta,Rare,7,Black,True,False,True,True,b'Mark Tedin',99.99
+Mind Twist,Sorcery,None,Limited Edition Beta,Rare,2,Black,False,False,True,True,b'Julie Baroh',99.99
+Nether Shadow,Creature,Spirit,Limited Edition Beta,Rare,2,Black,False,False,True,True,b'Christopher Rush',59.99
+Nettling Imp,Creature,Imp,Limited Edition Beta,Uncommon,3,Black,False,False,True,True,b'Quinton Hoover',17.09
+Nightmare,Creature,Nightmare Horse,Limited Edition Beta,Rare,6,Black,True,False,True,True,b'Melissa A. Benson',89.24
+Paralyze,Enchantment,Aura,Limited Edition Beta,Common,1,Black,False,False,True,True,b'Anson Maddocks',8.16
+Pestilence,Enchantment,None,Limited Edition Beta,Common,4,Black,False,False,True,True,b'Jesper Myrfors',12.06
+Plague Rats,Creature,Rat,Limited Edition Beta,Common,3,Black,False,False,True,True,b'Anson Maddocks',4.94
+Raise Dead,Sorcery,None,Limited Edition Beta,Common,1,Black,True,False,True,True,b'Jeff A. Menges',5.99
+Royal Assassin,Creature,Human Assassin,Limited Edition Beta,Rare,3,Black,True,False,True,True,b'Tom W\xc3\xa4nerstrand',69.99
+Sacrifice,Instant,None,Limited Edition Beta,Uncommon,1,Black,False,False,True,True,b'Dan Frazier',21.56
+Scathe Zombies,Creature,Zombie,Limited Edition Beta,Common,3,Black,True,False,True,True,b'Jesper Myrfors',5.95
+Scavenging Ghoul,Creature,Zombie,Limited Edition Beta,Uncommon,4,Black,False,False,True,True,b'Jeff A. Menges',9.99
+Sengir Vampire,Creature,Vampire,Limited Edition Beta,Uncommon,5,Black,True,False,True,True,b'Anson Maddocks',96.09
+Simulacrum,Instant,None,Limited Edition Beta,Uncommon,2,Black,False,False,True,True,b'Mark Poole',11.89
+Sinkhole,Sorcery,None,Limited Edition Beta,Common,2,Black,False,False,True,True,b'Sandra Everingham',55.09
+Terror,Instant,None,Limited Edition Beta,Common,2,Black,True,False,True,True,b'Ron Spencer',14.49
+Unholy Strength,Enchantment,Aura,Limited Edition Beta,Common,1,Black,True,False,True,True,b'Douglas Shuler',9.99
+Wall of Bone,Creature,Skeleton Wall,Limited Edition Beta,Uncommon,3,Black,True,False,True,True,b'Anson Maddocks',8.09
+Warp Artifact,Enchantment,Aura,Limited Edition Beta,Rare,2,Black,False,False,True,True,b'Amy Weber',66.14
+Weakness,Enchantment,Aura,Limited Edition Beta,Common,1,Black,True,False,True,True,b'Douglas Shuler',6.38
+Will-o'-the-Wisp,Creature,Spirit,Limited Edition Beta,Rare,1,Black,True,False,True,True,b'Jesper Myrfors',80.41
+Word of Command,Instant,None,Limited Edition Beta,Rare,2,Black,False,False,True,True,b'Jesper Myrfors',69.99
+Zombie Master,Creature,Zombie,Limited Edition Beta,Rare,3,Black,False,False,True,True,b'Jeff A. Menges',89.99
+Burrowing,Enchantment,Aura,Limited Edition Beta,Uncommon,1,Red,False,False,True,True,b'Mark Poole',4.16
+Chaoslace,Instant,None,Limited Edition Beta,Rare,1,Red,False,False,True,True,b'Dameon Willich',28.58
+Disintegrate,Sorcery,None,Limited Edition Beta,Common,2,Red,True,False,True,True,b'Anson Maddocks',9.48
+Dragon Whelp,Creature,Dragon,Limited Edition Beta,Uncommon,4,Red,True,False,True,True,b'Amy Weber',90.0
+Dwarven Demolition Team,Creature,Dwarf,Limited Edition Beta,Uncommon,3,Red,True,False,True,True,b'Kev Brockschmidt',15.08
+Dwarven Warriors,Creature,Dwarf Warrior,Limited Edition Beta,Common,3,Red,False,False,True,True,b'Douglas Shuler',4.7
+Earth Elemental,Creature,Elemental,Limited Edition Beta,Uncommon,5,Red,True,False,True,True,b'Dan Frazier',4.2
+Earthbind,Enchantment,Aura,Limited Edition Beta,Common,1,Red,False,False,True,True,b'Quinton Hoover',12.13
+Earthquake,Sorcery,None,Limited Edition Beta,Rare,2,Red,True,False,True,True,b'Dan Frazier',13.06
+False Orders,Instant,None,Limited Edition Beta,Common,1,Red,False,False,True,True,b'Anson Maddocks',7.31
+Fire Elemental,Creature,Elemental,Limited Edition Beta,Uncommon,5,Red,True,True,True,True,b'Melissa A. Benson',14.92
+Fireball,Sorcery,None,Limited Edition Beta,Common,2,Red,True,False,True,True,b'Mark Tedin',32.72
+Firebreathing,Enchantment,Aura,Limited Edition Beta,Common,1,Red,True,False,True,True,b'Dan Frazier',4.1
+Flashfires,Sorcery,None,Limited Edition Beta,Uncommon,4,Red,True,False,True,True,b'Dameon Willich',8.52
+Fork,Instant,None,Limited Edition Beta,Rare,2,Red,False,False,True,True,b'Amy Weber',99.99
+Goblin Balloon Brigade,Creature,Goblin Warrior,Limited Edition Beta,Uncommon,1,Red,True,False,True,True,b'Andi Rusu',33.98
+Goblin King,Creature,Goblin,Limited Edition Beta,Rare,3,Red,True,False,True,True,b'Jesper Myrfors',65.0
+Granite Gargoyle,Creature,Gargoyle,Limited Edition Beta,Rare,3,Red,False,False,True,True,b'Christopher Rush',90.0
+Gray Ogre,Creature,Ogre,Limited Edition Beta,Common,3,Red,False,False,True,True,b'Dan Frazier',3.07
+Hill Giant,Creature,Giant,Limited Edition Beta,Common,4,Red,True,False,True,True,b'Dan Frazier',4.92
+Hurloon Minotaur,Creature,Minotaur,Limited Edition Beta,Common,3,Red,False,False,True,True,b'Anson Maddocks',5.0
+Ironclaw Orcs,Creature,Orc,Limited Edition Beta,Common,2,Red,False,False,True,True,b'Anson Maddocks',3.93
+Keldon Warlord,Creature,Human Barbarian,Limited Edition Beta,Uncommon,4,Red,False,False,True,True,b'Kev Brockschmidt',20.81
+Lightning Bolt,Instant,None,Limited Edition Beta,Common,1,Red,True,False,True,True,b'Christopher Rush',73.66
+Mana Flare,Enchantment,None,Limited Edition Beta,Rare,3,Red,False,False,True,True,b'Christopher Rush',31.79
+Manabarbs,Enchantment,None,Limited Edition Beta,Rare,4,Red,True,False,True,True,b'Christopher Rush',56.49
+Mons's Goblin Raiders,Creature,Goblin,Limited Edition Beta,Common,1,Red,False,False,True,True,b'Jeff A. Menges',2.49
+Orcish Artillery,Creature,Orc Warrior,Limited Edition Beta,Uncommon,3,Red,True,False,True,True,b'Anson Maddocks',8.9
+Orcish Oriflamme,Enchantment,None,Limited Edition Beta,Uncommon,4,Red,False,False,True,True,b'Dan Frazier',10.0
+Power Surge,Enchantment,None,Limited Edition Beta,Rare,2,Red,False,False,True,True,b'Douglas Shuler',69.99
+Raging River,Enchantment,None,Limited Edition Beta,Rare,2,Red,False,False,True,True,b'Sandra Everingham',50.05
+Red Elemental Blast,Instant,None,Limited Edition Beta,Common,1,Red,False,False,True,True,b'Richard Thomas',40.45
+Roc of Kher Ridges,Creature,Bird,Limited Edition Beta,Rare,4,Red,False,False,True,True,b'Andi Rusu',7.0
+Rock Hydra,Creature,Hydra,Limited Edition Beta,Rare,3,Red,False,False,True,True,b'Jeff A. Menges',72.62
+Sedge Troll,Creature,Troll,Limited Edition Beta,Rare,3,Red,False,False,True,True,b'Dan Frazier',70.0
+Shatter,Instant,None,Limited Edition Beta,Common,2,Red,True,False,True,True,b'Amy Weber',10.59
+Shivan Dragon,Creature,Dragon,Limited Edition Beta,Rare,6,Red,True,True,True,True,b'Melissa A. Benson',52.46
+Smoke,Enchantment,None,Limited Edition Beta,Rare,2,Red,False,False,True,True,b'Jesper Myrfors',83.34
+Stone Giant,Creature,Giant,Limited Edition Beta,Uncommon,4,Red,True,False,True,True,b'Dameon Willich',7.59
+Stone Rain,Sorcery,None,Limited Edition Beta,Common,3,Red,True,False,True,True,b'Daniel Gelon',15.09
+Tunnel,Instant,None,Limited Edition Beta,Uncommon,1,Red,False,False,True,True,b'Dan Frazier',7.12
+Two-Headed Giant of Foriys,Creature,Giant,Limited Edition Beta,Rare,5,Red,False,False,True,True,b'Anson Maddocks',50.0
+Uthden Troll,Creature,Troll,Limited Edition Beta,Uncommon,3,Red,True,False,True,True,b'Douglas Shuler',9.75
+Wall of Fire,Creature,Wall,Limited Edition Beta,Uncommon,3,Red,True,False,True,True,b'Richard Thomas',9.31
+Wall of Stone,Creature,Wall,Limited Edition Beta,Uncommon,3,Red,True,False,True,True,b'Dan Frazier',12.53
+Wheel of Fortune,Sorcery,None,Limited Edition Beta,Rare,3,Red,False,False,True,True,b'Daniel Gelon',50.0
+Aspect of Wolf,Enchantment,Aura,Limited Edition Beta,Rare,2,Green,False,False,True,True,b'Jeff A. Menges',89.15
+Berserk,Instant,None,Limited Edition Beta,Uncommon,1,Green,False,False,True,True,b'Dan Frazier',80.98
+Birds of Paradise,Creature,Bird,Limited Edition Beta,Rare,1,Green,True,False,True,True,b'Mark Poole',83.09
+Camouflage,Instant,None,Limited Edition Beta,Uncommon,1,Green,False,False,True,True,b'Jesper Myrfors',11.28
+Channel,Sorcery,None,Limited Edition Beta,Uncommon,2,Green,False,False,False,True,b'Richard Thomas',30.8
+Cockatrice,Creature,Cockatrice,Limited Edition Beta,Rare,5,Green,True,False,True,True,b'Dan Frazier',19.99
+Craw Wurm,Creature,Wurm,Limited Edition Beta,Common,6,Green,True,False,True,True,b'Daniel Gelon',9.54
+Elvish Archers,Creature,Elf Archer,Limited Edition Beta,Rare,2,Green,False,False,True,True,b'Anson Maddocks',85.93
+Fastbond,Enchantment,None,Limited Edition Beta,Rare,1,Green,False,False,False,True,b'Mark Poole',16.0
+Fog,Instant,None,Limited Edition Beta,Common,1,Green,True,False,True,True,b'Jesper Myrfors',8.95
+Force of Nature,Creature,Elemental,Limited Edition Beta,Rare,6,Green,True,False,True,True,b'Douglas Shuler',54.04
+Fungusaur,Creature,Fungus Dinosaur,Limited Edition Beta,Rare,4,Green,True,False,True,True,b'Daniel Gelon',95.99
+Gaea's Liege,Creature,Avatar,Limited Edition Beta,Rare,6,Green,True,False,True,True,b'Dameon Willich',99.0
+Giant Growth,Instant,None,Limited Edition Beta,Common,1,Green,True,True,True,True,b'Sandra Everingham',22.6
+Giant Spider,Creature,Spider,Limited Edition Beta,Common,4,Green,True,False,True,True,b'Sandra Everingham',7.13
+Grizzly Bears,Creature,Bear,Limited Edition Beta,Common,2,Green,True,False,True,True,b'Jeff A. Menges',14.0
+Hurricane,Sorcery,None,Limited Edition Beta,Uncommon,2,Green,True,False,True,True,b'Dameon Willich',39.99
+Ice Storm,Sorcery,None,Limited Edition Beta,Uncommon,3,Green,False,False,True,True,b'Dan Frazier',65.0
+Instill Energy,Enchantment,Aura,Limited Edition Beta,Uncommon,1,Green,False,False,True,True,b'Dameon Willich',20.3
+Ironroot Treefolk,Creature,Treefolk,Limited Edition Beta,Common,5,Green,False,False,True,True,b'Jesper Myrfors',5.95
+Kudzu,Enchantment,Aura,Limited Edition Beta,Rare,3,Green,False,False,True,True,b'Mark Poole',95.0
+Ley Druid,Creature,Human Druid,Limited Edition Beta,Uncommon,3,Green,True,False,True,True,b'Sandra Everingham',10.87
+Lifeforce,Enchantment,None,Limited Edition Beta,Uncommon,2,Green,False,False,True,True,b'Dameon Willich',25.5
+Lifelace,Instant,None,Limited Edition Beta,Rare,1,Green,False,False,True,True,b'Amy Weber',35.69
+Living Artifact,Enchantment,Aura,Limited Edition Beta,Rare,1,Green,False,False,True,True,b'Anson Maddocks',51.38
+Living Lands,Enchantment,None,Limited Edition Beta,Rare,4,Green,False,False,True,True,b'Jesper Myrfors',11.78
+Llanowar Elves,Creature,Elf Druid,Limited Edition Beta,Common,1,Green,True,False,True,True,b'Anson Maddocks',59.05
+Lure,Enchantment,Aura,Limited Edition Beta,Uncommon,3,Green,True,False,True,True,b'Anson Maddocks',7.09
+Natural Selection,Instant,None,Limited Edition Beta,Rare,1,Green,False,False,True,True,b'Mark Poole',30.0
+Regeneration,Enchantment,Aura,Limited Edition Beta,Common,2,Green,True,False,True,True,b'Quinton Hoover',2.49
+Regrowth,Sorcery,None,Limited Edition Beta,Uncommon,2,Green,True,False,True,True,b'Dameon Willich',76.02
+Scryb Sprites,Creature,Faerie,Limited Edition Beta,Common,1,Green,False,False,True,True,b'Amy Weber',7.38
+Shanodin Dryads,Creature,Nymph Dryad,Limited Edition Beta,Common,1,Green,False,False,True,True,b'Anson Maddocks',5.01
+Stream of Life,Sorcery,None,Limited Edition Beta,Common,2,Green,True,False,True,True,b'Mark Poole',5.33
+Thicket Basilisk,Creature,Basilisk,Limited Edition Beta,Uncommon,5,Green,False,False,True,True,b'Dan Frazier',11.09
+Timber Wolves,Creature,Wolf,Limited Edition Beta,Rare,1,Green,False,False,True,True,b'Melissa A. Benson',39.0
+Tranquility,Sorcery,None,Limited Edition Beta,Common,3,Green,False,False,True,True,b'Douglas Shuler',4.6
+Tsunami,Sorcery,None,Limited Edition Beta,Uncommon,4,Green,False,False,True,True,b'Richard Thomas',13.4
+Verduran Enchantress,Creature,Human Druid,Limited Edition Beta,Rare,3,Green,True,False,True,True,b'Kev Brockschmidt',49.99
+Wall of Brambles,Creature,Plant Wall,Limited Edition Beta,Uncommon,3,Green,False,False,True,True,b'Anson Maddocks',9.54
+Wall of Ice,Creature,Wall,Limited Edition Beta,Uncommon,3,Green,False,False,True,True,b'Richard Thomas',9.53
+Wall of Wood,Creature,Wall,Limited Edition Beta,Common,1,Green,True,False,True,True,b'Mark Tedin',7.49
+Wanderlust,Enchantment,Aura,Limited Edition Beta,Uncommon,3,Green,False,False,True,True,b'Cornelius Brudi',8.8
+War Mammoth,Creature,Elephant,Limited Edition Beta,Common,4,Green,False,False,True,True,b'Jeff A. Menges',4.33
+Web,Enchantment,Aura,Limited Edition Beta,Rare,1,Green,True,False,True,True,b'Rob Alexander',35.0
+Wild Growth,Enchantment,Aura,Limited Edition Beta,Common,1,Green,False,False,True,True,b'Mark Poole',15.27
+Ankh of Mishra,Artifact,None,Limited Edition Beta,Rare,2,Colorless,False,False,True,True,b'Amy Weber',27.92
+Basalt Monolith,Artifact,None,Limited Edition Beta,Uncommon,3,Colorless,False,False,True,True,b'Jesper Myrfors',94.98
+Black Lotus,Artifact,None,Limited Edition Beta,Rare,0,Colorless,False,False,False,True,b'Christopher Rush',0.0
+Black Vise,Artifact,None,Limited Edition Beta,Uncommon,1,Colorless,False,False,True,True,b'Richard Thomas',95.0
+Celestial Prism,Artifact,None,Limited Edition Beta,Uncommon,3,Colorless,False,False,True,True,b'Amy Weber',8.1
+Chaos Orb,Artifact,None,Limited Edition Beta,Rare,2,Colorless,False,False,False,True,b'Mark Tedin',97.7
+Clockwork Beast,Artifact Creature,Beast,Limited Edition Beta,Rare,6,Colorless,False,False,True,True,b'Drew Tucker',98.99
+Conservator,Artifact,None,Limited Edition Beta,Uncommon,4,Colorless,False,False,True,True,b'Amy Weber',6.68
+Copper Tablet,Artifact,None,Limited Edition Beta,Uncommon,2,Colorless,False,False,True,True,b'Amy Weber',22.35
+Crystal Rod,Artifact,None,Limited Edition Beta,Uncommon,1,Colorless,True,False,True,True,b'Amy Weber',8.79
+Cyclopean Tomb,Artifact,None,Limited Edition Beta,Rare,4,Colorless,False,False,True,True,b'Anson Maddocks',37.49
+Dingus Egg,Artifact,None,Limited Edition Beta,Rare,4,Colorless,True,False,True,True,b'Dan Frazier',46.99
+Disrupting Scepter,Artifact,None,Limited Edition Beta,Rare,3,Colorless,True,False,True,True,b'Dan Frazier',82.5
+Forcefield,Artifact,None,Limited Edition Beta,Rare,3,Colorless,False,False,True,True,b'Dan Frazier',90.31
+Gauntlet of Might,Artifact,None,Limited Edition Beta,Rare,4,Colorless,False,False,True,True,b'Christopher Rush',16.5
+Glasses of Urza,Artifact,None,Limited Edition Beta,Uncommon,1,Colorless,False,False,True,True,b'Douglas Shuler',23.99
+Helm of Chatzuk,Artifact,None,Limited Edition Beta,Rare,1,Colorless,False,False,True,True,b'Mark Tedin',44.02
+Howling Mine,Artifact,None,Limited Edition Beta,Rare,2,Colorless,True,False,True,True,b'Mark Poole',32.58
+Icy Manipulator,Artifact,None,Limited Edition Beta,Uncommon,4,Colorless,True,False,True,True,b'Douglas Shuler',59.99
+Illusionary Mask,Artifact,None,Limited Edition Beta,Rare,2,Colorless,False,False,True,True,b'Amy Weber',75.04
+Iron Star,Artifact,None,Limited Edition Beta,Uncommon,1,Colorless,True,False,True,True,b'Dan Frazier',19.79
+Ivory Cup,Artifact,None,Limited Edition Beta,Uncommon,1,Colorless,True,False,True,True,b'Anson Maddocks',3.62
+Jade Monolith,Artifact,None,Limited Edition Beta,Rare,4,Colorless,False,False,True,True,b'Anson Maddocks',54.6
+Jade Statue,Artifact,None,Limited Edition Beta,Uncommon,4,Colorless,True,False,True,True,b'Dan Frazier',26.96
+Jayemdae Tome,Artifact,None,Limited Edition Beta,Rare,4,Colorless,True,False,True,True,b'Mark Tedin',99.99
+Juggernaut,Artifact Creature,Juggernaut,Limited Edition Beta,Uncommon,4,Colorless,True,False,True,True,b'Dan Frazier',65.53
+Kormus Bell,Artifact,None,Limited Edition Beta,Rare,4,Colorless,False,False,True,True,b'Christopher Rush',52.99
+Library of Leng,Artifact,None,Limited Edition Beta,Uncommon,1,Colorless,False,False,True,True,b'Daniel Gelon',54.71
+Living Wall,Artifact Creature,Wall,Limited Edition Beta,Uncommon,4,Colorless,False,False,True,True,b'Anson Maddocks',20.01
+Mana Vault,Artifact,None,Limited Edition Beta,Rare,1,Colorless,False,False,True,True,b'Mark Tedin',19.44
+Meekstone,Artifact,None,Limited Edition Beta,Rare,1,Colorless,False,False,True,True,b'Quinton Hoover',73.15
+Mox Emerald,Artifact,None,Limited Edition Beta,Rare,0,Colorless,False,False,False,True,b'Dan Frazier',88.57
+Mox Jet,Artifact,None,Limited Edition Beta,Rare,0,Colorless,False,False,False,True,b'Dan Frazier',5.98
+Mox Pearl,Artifact,None,Limited Edition Beta,Rare,0,Colorless,False,False,False,True,b'Dan Frazier',0.59
+Mox Ruby,Artifact,None,Limited Edition Beta,Rare,0,Colorless,False,False,False,True,b'Dan Frazier',47.59
+Mox Sapphire,Artifact,None,Limited Edition Beta,Rare,0,Colorless,False,False,False,True,b'Dan Frazier',0.0
+Nevinyrral's Disk,Artifact,None,Limited Edition Beta,Rare,4,Colorless,False,False,True,True,b'Mark Tedin',39.97
+Obsianus Golem,Artifact Creature,Golem,Limited Edition Beta,Uncommon,6,Colorless,False,False,True,True,b'Jesper Myrfors',21.99
+Rod of Ruin,Artifact,None,Limited Edition Beta,Uncommon,4,Colorless,True,False,True,True,b'Christopher Rush',11.09
+Sol Ring,Artifact,None,Limited Edition Beta,Uncommon,1,Colorless,False,False,True,True,b'Mark Tedin',79.99
+Soul Net,Artifact,None,Limited Edition Beta,Uncommon,1,Colorless,False,False,True,True,b'Dameon Willich',8.42
+Sunglasses of Urza,Artifact,None,Limited Edition Beta,Rare,3,Colorless,False,False,True,True,b'Dan Frazier',24.0
+The Hive,Artifact,None,Limited Edition Beta,Rare,5,Colorless,True,False,True,True,b'Sandra Everingham',36.99
+Throne of Bone,Artifact,None,Limited Edition Beta,Uncommon,1,Colorless,True,False,True,True,b'Anson Maddocks',6.49
+Time Vault,Artifact,None,Limited Edition Beta,Rare,2,Colorless,False,False,False,True,b'Mark Tedin',97.07
+Winter Orb,Artifact,None,Limited Edition Beta,Rare,2,Colorless,False,False,True,True,b'Mark Tedin',77.52
+Wooden Sphere,Artifact,None,Limited Edition Beta,Uncommon,1,Colorless,True,False,True,True,b'Mark Tedin',7.38
+Badlands,Land,Swamp Mountain,Limited Edition Beta,Rare,0,Colorless,False,False,True,True,b'Rob Alexander',37.06
+Bayou,Land,Swamp Forest,Limited Edition Beta,Rare,0,Colorless,False,False,True,True,b'Jesper Myrfors',80.0
+Plateau,Land,Mountain Plains,Limited Edition Beta,Rare,0,Colorless,False,False,True,True,b'Drew Tucker',0.0
+Savannah,Land,Forest Plains,Limited Edition Beta,Rare,0,Colorless,False,False,True,True,b'Rob Alexander',49.63
+Scrubland,Land,Plains Swamp,Limited Edition Beta,Rare,0,Colorless,False,False,True,True,b'Jesper Myrfors',81.33
+Taiga,Land,Mountain Forest,Limited Edition Beta,Rare,0,Colorless,False,False,True,True,b'Rob Alexander',37.55
+Tropical Island,Land,Forest Island,Limited Edition Beta,Rare,0,Colorless,False,False,True,True,b'Jesper Myrfors',75.0
+Tundra,Land,Plains Island,Limited Edition Beta,Rare,0,Colorless,False,False,True,True,b'Jesper Myrfors',37.97
+Underground Sea,Land,Island Swamp,Limited Edition Beta,Rare,0,Colorless,False,False,True,True,b'Rob Alexander',90.75
+Volcanic Island,Land,Island Mountain,Limited Edition Beta,Rare,0,Colorless,False,False,True,True,b'Brian Sn\xc3\xb5ddy',12.61
+Plains,Basic Land,Plains,Limited Edition Beta,Common,0,Colorless,True,True,True,True,b'Jesper Myrfors',12.97
+Plains,Basic Land,Plains,Limited Edition Beta,Common,0,Colorless,True,True,True,True,b'Jesper Myrfors',12.33
+Plains,Basic Land,Plains,Limited Edition Beta,Common,0,Colorless,True,True,True,True,b'Jesper Myrfors',13.19
+Island,Basic Land,Island,Limited Edition Beta,Common,0,Colorless,True,True,True,True,b'Mark Poole',33.5
+Island,Basic Land,Island,Limited Edition Beta,Common,0,Colorless,True,True,True,True,b'Mark Poole',14.53
+Island,Basic Land,Island,Limited Edition Beta,Common,0,Colorless,True,True,True,True,b'Mark Poole',20.39
+Swamp,Basic Land,Swamp,Limited Edition Beta,Common,0,Colorless,True,True,True,True,b'Dan Frazier',16.67
+Swamp,Basic Land,Swamp,Limited Edition Beta,Common,0,Colorless,True,True,True,True,b'Dan Frazier',15.43
+Swamp,Basic Land,Swamp,Limited Edition Beta,Common,0,Colorless,True,True,True,True,b'Dan Frazier',22.1
+Mountain,Basic Land,Mountain,Limited Edition Beta,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',14.45
+Mountain,Basic Land,Mountain,Limited Edition Beta,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',15.33
+Mountain,Basic Land,Mountain,Limited Edition Beta,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',16.76
+Forest,Basic Land,Forest,Limited Edition Beta,Common,0,Colorless,True,True,True,True,b'Christopher Rush',15.5
+Forest,Basic Land,Forest,Limited Edition Beta,Common,0,Colorless,True,True,True,True,b'Christopher Rush',18.83
+Forest,Basic Land,Forest,Limited Edition Beta,Common,0,Colorless,True,True,True,True,b'Christopher Rush',16.18

@@ -1,0 +1,275 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Acrobatic Maneuver,Instant,None,Kaladesh,Common,3,White,True,False,True,True,b'Winona Nelson',0.11
+Aerial Responder,Creature,Dwarf Soldier,Kaladesh,Uncommon,3,White,True,False,True,True,b'Raoul Vitale',0.13
+Aetherstorm Roc,Creature,Bird,Kaladesh,Rare,4,White,True,False,True,True,b'Scott Murphy',0.11
+Angel of Invention,Creature,Angel,Kaladesh,Mythic Rare,5,White,True,False,True,True,b'Volkan Ba\xc7\xb5a',2.07
+Authority of the Consuls,Enchantment,None,Kaladesh,Rare,1,White,True,False,True,True,b'Lake Hurwitz',4.12
+Aviary Mechanic,Creature,Dwarf Artificer,Kaladesh,Common,2,White,True,False,True,False,b'Mark Zug',0.1
+Built to Last,Instant,None,Kaladesh,Common,1,White,True,False,True,True,b'Svetlin Velinov',0.07
+Captured by the Consulate,Enchantment,Aura,Kaladesh,Rare,4,White,True,False,True,True,b'Tyler Jacobson',0.14
+Cataclysmic Gearhulk,Artifact Creature,Construct,Kaladesh,Mythic Rare,5,White,True,False,True,True,b'Victor Adame Minguez',0.73
+Consulate Surveillance,Enchantment,None,Kaladesh,Uncommon,4,White,True,False,True,False,b'Daniel Ljunggren',0.04
+Consul's Shieldguard,Creature,Dwarf Soldier,Kaladesh,Uncommon,4,White,True,False,True,False,b'David Gaillet',0.04
+Eddytrail Hawk,Creature,Bird,Kaladesh,Common,2,White,True,False,True,True,b'James Paick',0.03
+Fairgrounds Warden,Creature,Dwarf Soldier,Kaladesh,Uncommon,3,White,True,False,True,False,b'Izzy',0.1
+Fragmentize,Sorcery,None,Kaladesh,Common,1,White,True,False,True,True,b'Jason Felix',0.16
+Fumigate,Sorcery,None,Kaladesh,Rare,5,White,True,False,True,True,b'Svetlin Velinov',1.11
+Gearshift Ace,Creature,Dwarf Pilot,Kaladesh,Uncommon,2,White,True,False,True,False,b'Winona Nelson',0.08
+Glint-Sleeve Artisan,Creature,Dwarf Artificer,Kaladesh,Common,3,White,True,False,True,True,b'Ryan Pancoast',0.04
+Herald of the Fair,Creature,Human,Kaladesh,Common,3,White,True,False,True,False,b'Steven Belledin',0.03
+Impeccable Timing,Instant,None,Kaladesh,Common,2,White,True,False,True,True,b'Chris Rallis',0.01
+Inspired Charge,Instant,None,Kaladesh,Common,4,White,True,True,True,True,b'Deruchenko Alexander',0.02
+Master Trinketeer,Creature,Dwarf Artificer,Kaladesh,Rare,3,White,True,False,True,True,b'Matt Stewart',0.2
+Ninth Bridge Patrol,Creature,Dwarf Soldier,Kaladesh,Common,2,White,True,False,True,True,b'Ryan Alexander Lee',0.04
+Pressure Point,Instant,None,Kaladesh,Common,2,White,True,False,True,True,b'Jakub Kasper',0.02
+Propeller Pioneer,Creature,Human Artificer,Kaladesh,Common,4,White,True,False,True,False,b'Winona Nelson',0.02
+Refurbish,Sorcery,None,Kaladesh,Uncommon,4,White,True,False,True,True,b'Johann Bodin',0.14
+Revoke Privileges,Enchantment,Aura,Kaladesh,Common,3,White,True,False,True,False,b'James Ryman',0.02
+Servo Exhibition,Sorcery,None,Kaladesh,Uncommon,2,White,True,False,True,True,b'Sara Winters',0.09
+Skyswirl Harrier,Creature,Bird,Kaladesh,Common,5,White,True,False,True,False,b'John Severin Brassell',0.01
+Skywhaler's Shot,Instant,None,Kaladesh,Uncommon,3,White,True,False,True,False,b'Chris Rallis',0.07
+Tasseled Dromedary,Creature,Camel,Kaladesh,Common,1,White,True,False,True,False,b'Raoul Vitale',0.03
+Thriving Ibex,Creature,Goat,Kaladesh,Common,4,White,True,False,True,False,b'Sidharth Chaturvedi',0.03
+Toolcraft Exemplar,Creature,Dwarf Artificer,Kaladesh,Rare,1,White,True,False,True,True,b'Zezhou Chen',0.14
+Trusty Companion,Creature,Hyena,Kaladesh,Uncommon,2,White,True,False,True,False,b'Jakub Kasper',0.03
+Visionary Augmenter,Creature,Dwarf Artificer,Kaladesh,Uncommon,4,White,True,False,True,False,b'James Paick',0.06
+Wispweaver Angel,Creature,Angel,Kaladesh,Uncommon,6,White,True,False,True,False,b'James Ryman',0.14
+Aether Meltdown,Enchantment,Aura,Kaladesh,Uncommon,2,Blue,True,False,True,False,b'Jason Felix',0.06
+Aether Theorist,Creature,Vedalken Rogue,Kaladesh,Common,2,Blue,True,False,True,False,b'Lucas Graciano',0.03
+Aether Tradewinds,Instant,None,Kaladesh,Common,3,Blue,True,False,True,True,b'Lius Lasahido',0.05
+Aethersquall Ancient,Creature,Leviathan,Kaladesh,Rare,7,Blue,True,False,True,True,b'Sam Burley',0.21
+Ceremonious Rejection,Instant,None,Kaladesh,Uncommon,1,Blue,True,False,True,False,b'Chris Rahn',0.43
+Confiscation Coup,Sorcery,None,Kaladesh,Rare,5,Blue,True,False,True,True,b'Joseph Meehan',0.13
+Curio Vendor,Creature,Vedalken,Kaladesh,Common,2,Blue,True,False,True,True,b'Igor Kieryluk',0.05
+Disappearing Act,Instant,None,Kaladesh,Uncommon,3,Blue,True,False,True,False,b'Anthony Palumbo',0.09
+Dramatic Reversal,Instant,None,Kaladesh,Common,2,Blue,True,False,True,True,b'Eric Deschamps',0.41
+Era of Innovation,Enchantment,None,Kaladesh,Uncommon,2,Blue,True,False,True,False,b'Jason Rainville',0.09
+Experimental Aviator,Creature,Human Artificer,Kaladesh,Uncommon,5,Blue,True,False,True,False,b'Jesper Ejsing',0.06
+Failed Inspection,Instant,None,Kaladesh,Common,4,Blue,True,False,True,True,b'Matt Stewart',0.03
+Gearseeker Serpent,Creature,Serpent,Kaladesh,Common,7,Blue,True,False,True,False,b'Filip Burburan',0.13
+Glimmer of Genius,Instant,None,Kaladesh,Uncommon,4,Blue,True,False,True,False,b'Tommy Arnold',0.09
+Glint-Nest Crane,Creature,Bird,Kaladesh,Uncommon,2,Blue,True,False,True,False,b'Christopher Moeller',0.12
+Hightide Hermit,Creature,Crab,Kaladesh,Common,5,Blue,True,False,True,True,b'Jason Kang',0.04
+Insidious Will,Instant,None,Kaladesh,Rare,4,Blue,True,False,True,True,b'Anthony Palumbo',0.54
+Janjeet Sentry,Creature,Vedalken Soldier,Kaladesh,Uncommon,3,Blue,True,False,True,False,b'Dan Scott',0.03
+Long-Finned Skywhale,Creature,Whale,Kaladesh,Uncommon,4,Blue,True,False,True,False,b'Cliff Childs',0.03
+Malfunction,Enchantment,Aura,Kaladesh,Common,4,Blue,True,False,True,False,b'Izzy',0.03
+Metallurgic Summonings,Enchantment,None,Kaladesh,Mythic Rare,5,Blue,True,False,True,True,b'Kieran Yanner',1.9
+Minister of Inquiries,Creature,Vedalken Advisor,Kaladesh,Uncommon,1,Blue,True,False,True,False,b'Dan Scott',0.11
+Nimble Innovator,Creature,Vedalken Artificer,Kaladesh,Common,4,Blue,True,False,True,False,b'Slawomir Maniak',0.02
+"Padeem, Consul of Innovation",Legendary Creature,Vedalken Artificer,Kaladesh,Rare,4,Blue,True,False,True,True,b'Matt Stewart',1.12
+Paradoxical Outcome,Instant,None,Kaladesh,Rare,4,Blue,True,False,True,True,b'Nils Hamm',0.86
+Revolutionary Rebuff,Instant,None,Kaladesh,Common,2,Blue,True,False,True,False,b'Zack Stella',0.02
+Saheeli's Artistry,Sorcery,None,Kaladesh,Rare,6,Blue,True,False,True,True,b'Kieran Yanner',0.18
+Select for Inspection,Instant,None,Kaladesh,Common,1,Blue,True,False,True,False,b'James Paick',0.07
+Shrewd Negotiation,Sorcery,None,Kaladesh,Uncommon,5,Blue,True,False,True,False,b'Slawomir Maniak',0.02
+Tezzeret's Ambition,Sorcery,None,Kaladesh,Common,5,Blue,True,False,True,False,b'Tyler Jacobson',0.04
+Thriving Turtle,Creature,Turtle,Kaladesh,Common,1,Blue,True,False,True,False,b'Jeff Simpson',0.06
+Torrential Gearhulk,Artifact Creature,Construct,Kaladesh,Mythic Rare,6,Blue,True,False,True,True,b'Svetlin Velinov',4.46
+Vedalken Blademaster,Creature,Vedalken Soldier,Kaladesh,Common,3,Blue,True,False,True,False,b'Lake Hurwitz',0.03
+Weldfast Wingsmith,Creature,Human Artificer,Kaladesh,Common,4,Blue,True,False,True,True,b'Dan Scott',0.01
+Wind Drake,Creature,Drake,Kaladesh,Common,3,Blue,True,False,True,True,b'Todd Lockwood',0.02
+Aetherborn Marauder,Creature,Aetherborn Rogue,Kaladesh,Uncommon,4,Black,True,False,True,False,b'Kieran Yanner',0.1
+Ambitious Aetherborn,Creature,Aetherborn Artificer,Kaladesh,Common,5,Black,True,False,True,True,b'Josu Hernaiz',0.04
+Demon of Dark Schemes,Creature,Demon,Kaladesh,Mythic Rare,6,Black,True,False,True,True,b'Daarken',0.91
+Dhund Operative,Creature,Human Rogue,Kaladesh,Common,2,Black,True,False,True,False,b'Magali Villeneuve',0.03
+Diabolic Tutor,Sorcery,None,Kaladesh,Uncommon,4,Black,True,False,True,True,b'Mark Winters',0.63
+Die Young,Sorcery,None,Kaladesh,Common,2,Black,True,False,True,True,b'Ryan Yee',0.02
+Dukhara Scavenger,Creature,Crocodile,Kaladesh,Common,6,Black,True,False,True,True,b'Sidharth Chaturvedi',0.02
+Eliminate the Competition,Sorcery,None,Kaladesh,Rare,5,Black,True,False,True,True,b'Joseph Meehan',0.17
+Embraal Bruiser,Creature,Human Warrior,Kaladesh,Uncommon,2,Black,True,False,True,False,b'Sidharth Chaturvedi',0.02
+Essence Extraction,Instant,None,Kaladesh,Uncommon,3,Black,True,False,True,True,b'Min Yum',0.07
+Fortuitous Find,Sorcery,None,Kaladesh,Common,3,Black,True,False,True,False,b'Tomasz Jedruszek',0.08
+Foundry Screecher,Creature,Bat,Kaladesh,Common,3,Black,True,False,True,False,b'Dan Scott',0.01
+Fretwork Colony,Creature,Insect,Kaladesh,Uncommon,2,Black,True,False,True,True,b'Christopher Burdett',0.04
+"Gonti, Lord of Luxury",Legendary Creature,Aetherborn Rogue,Kaladesh,Rare,4,Black,True,False,True,True,b'Daarken',0.56
+Harsh Scrutiny,Sorcery,None,Kaladesh,Uncommon,1,Black,True,False,True,False,b'Vincent Proce',0.15
+Lawless Broker,Creature,Aetherborn Rogue,Kaladesh,Common,3,Black,True,False,True,True,b'Darek Zabrocki',0.05
+Live Fast,Sorcery,None,Kaladesh,Common,3,Black,True,False,True,False,b'Ryan Yee',0.07
+Lost Legacy,Sorcery,None,Kaladesh,Rare,3,Black,True,False,True,True,b'Greg Opalinski',0.43
+Make Obsolete,Instant,None,Kaladesh,Uncommon,3,Black,True,False,True,False,b'Darek Zabrocki',0.05
+Marionette Master,Creature,Human Artificer,Kaladesh,Rare,6,Black,True,False,True,True,b'James Ryman',0.31
+Maulfist Squad,Creature,Human Artificer,Kaladesh,Common,4,Black,True,False,True,False,b'Matt Stewart',0.03
+Midnight Oil,Enchantment,None,Kaladesh,Rare,4,Black,True,False,True,True,b'Daniel Ljunggren',0.09
+Mind Rot,Sorcery,None,Kaladesh,Common,3,Black,True,True,True,True,b'Seb McKinnon',0.03
+Morbid Curiosity,Sorcery,None,Kaladesh,Uncommon,3,Black,True,False,True,True,b'Kieran Yanner',0.07
+Night Market Lookout,Creature,Human Rogue,Kaladesh,Common,1,Black,True,False,True,False,b'Nils Hamm',0.14
+Noxious Gearhulk,Artifact Creature,Construct,Kaladesh,Mythic Rare,6,Black,True,False,True,True,b'Lius Lasahido',3.98
+Ovalchase Daredevil,Creature,Human Pilot,Kaladesh,Uncommon,4,Black,True,False,True,False,b'Winona Nelson',0.08
+Prakhata Club Security,Creature,Aetherborn Warrior,Kaladesh,Common,4,Black,True,False,True,True,b'Igor Kieryluk',0.02
+Rush of Vitality,Instant,None,Kaladesh,Common,2,Black,True,False,True,False,b'Lindsey Look',0.11
+Subtle Strike,Instant,None,Kaladesh,Common,2,Black,True,False,True,True,b'David Palumbo',0.05
+Syndicate Trafficker,Creature,Aetherborn Rogue,Kaladesh,Rare,2,Black,True,False,True,True,b'Tony Foti',0.13
+Thriving Rats,Creature,Rat,Kaladesh,Common,2,Black,True,False,True,False,b'Tom Babbey',0.04
+Tidy Conclusion,Instant,None,Kaladesh,Common,5,Black,True,False,True,True,b'Bastien L. Deharme',0.02
+Underhanded Designs,Enchantment,None,Kaladesh,Uncommon,2,Black,True,False,True,False,b'Anastasia Ovchinnikova',0.07
+Weaponcraft Enthusiast,Creature,Aetherborn Artificer,Kaladesh,Uncommon,3,Black,True,False,True,False,b'Mike Bierek',0.18
+Aethertorch Renegade,Creature,Human Rogue,Kaladesh,Uncommon,3,Red,True,False,True,False,b'Johann Bodin',0.05
+Brazen Scourge,Creature,Gremlin,Kaladesh,Uncommon,3,Red,True,False,True,True,b'Kev Walker',0.03
+Built to Smash,Instant,None,Kaladesh,Common,1,Red,True,False,True,True,b'Svetlin Velinov',0.12
+Cathartic Reunion,Sorcery,None,Kaladesh,Common,2,Red,True,True,True,True,b'Howard Lyon',0.32
+"Chandra, Torch of Defiance",Legendary Planeswalker,Chandra,Kaladesh,Mythic Rare,4,Red,True,False,True,True,b'Magali Villeneuve',13.49
+Chandra's Pyrohelix,Instant,None,Kaladesh,Common,2,Red,True,True,True,True,b'Kieran Yanner',0.06
+Combustible Gearhulk,Artifact Creature,Construct,Kaladesh,Mythic Rare,6,Red,True,False,True,True,b'Daarken',3.3
+Demolish,Sorcery,None,Kaladesh,Common,4,Red,True,True,True,True,b'Steven Belledin',0.05
+Fateful Showdown,Instant,None,Kaladesh,Rare,4,Red,True,False,True,True,b'Chris Rallis',0.24
+Furious Reprisal,Sorcery,None,Kaladesh,Uncommon,4,Red,True,False,True,False,b'Svetlin Velinov',0.03
+Giant Spectacle,Enchantment,Aura,Kaladesh,Common,2,Red,True,False,True,True,b'Johann Bodin',0.03
+Harnessed Lightning,Instant,None,Kaladesh,Uncommon,2,Red,True,False,True,False,b'Chris Rallis',0.27
+Hijack,Sorcery,None,Kaladesh,Common,3,Red,True,False,True,True,b'Victor Adame Minguez',0.07
+Incendiary Sabotage,Instant,None,Kaladesh,Uncommon,4,Red,True,False,True,False,b'Ben Maier',0.04
+Inventor's Apprentice,Creature,Human Artificer,Kaladesh,Uncommon,1,Red,True,False,True,False,b'Ryan Pancoast',0.07
+Lathnu Hellion,Creature,Hellion,Kaladesh,Rare,3,Red,True,False,True,True,b'Lars Grant-West',0.11
+Madcap Experiment,Sorcery,None,Kaladesh,Rare,4,Red,True,False,True,True,b'Joseph Meehan',0.19
+Maulfist Doorbuster,Creature,Human Warrior,Kaladesh,Uncommon,4,Red,True,False,True,False,b'Josh Hass',0.03
+Pia Nalaar,Legendary Creature,Human Artificer,Kaladesh,Rare,3,Red,True,False,True,True,b'Tyler Jacobson',0.18
+Quicksmith Genius,Creature,Human Artificer,Kaladesh,Uncommon,3,Red,True,False,True,False,b'David Gaillet',0.13
+Reckless Fireweaver,Creature,Human Artificer,Kaladesh,Common,2,Red,True,False,True,True,b'Deruchenko Alexander',0.13
+Renegade Tactics,Sorcery,None,Kaladesh,Common,1,Red,True,False,True,True,b'Yeong-Hao Han',0.16
+Ruinous Gremlin,Creature,Gremlin,Kaladesh,Common,1,Red,True,False,True,True,b'Steve Prescott',0.01
+Salivating Gremlins,Creature,Gremlin,Kaladesh,Common,3,Red,True,False,True,True,b'Christopher Burdett',0.03
+Skyship Stalker,Creature,Dragon,Kaladesh,Rare,4,Red,True,False,True,True,b'Chris Rahn',0.14
+Spark of Creativity,Sorcery,None,Kaladesh,Uncommon,1,Red,True,False,True,False,b'Johann Bodin',0.09
+Speedway Fanatic,Creature,Human Pilot,Kaladesh,Uncommon,2,Red,True,False,True,False,b'Slawomir Maniak',0.07
+Spireside Infiltrator,Creature,Human Rogue,Kaladesh,Common,3,Red,True,False,True,False,b'Deruchenko Alexander',0.03
+Spontaneous Artist,Creature,Human Rogue,Kaladesh,Common,4,Red,True,False,True,False,b'Viktor Titov',0.04
+Start Your Engines,Sorcery,None,Kaladesh,Uncommon,4,Red,True,False,True,False,b'Darek Zabrocki',0.08
+Territorial Gorger,Creature,Gremlin,Kaladesh,Rare,4,Red,True,False,True,True,b'Lius Lasahido',0.12
+Terror of the Fairgrounds,Creature,Gremlin,Kaladesh,Common,4,Red,True,False,True,False,b'Filip Burburan',0.03
+Thriving Grubs,Creature,Gremlin,Kaladesh,Common,2,Red,True,False,True,False,b'Steve Prescott',0.04
+Wayward Giant,Creature,Giant,Kaladesh,Common,5,Red,True,False,True,True,b'Filip Burburan',0.03
+Welding Sparks,Instant,None,Kaladesh,Common,3,Red,True,False,True,True,b'Raymond Swanland',0.03
+Appetite for the Unnatural,Instant,None,Kaladesh,Common,3,Green,True,False,True,False,b'Zoltan Boros',0.05
+Arborback Stomper,Creature,Beast,Kaladesh,Uncommon,5,Green,True,False,True,False,b'Dan Scott',0.06
+Architect of the Untamed,Creature,Elf Artificer Druid,Kaladesh,Rare,3,Green,True,False,True,True,b'Sara Winters',0.15
+Armorcraft Judge,Creature,Elf Artificer,Kaladesh,Uncommon,4,Green,True,False,True,False,b'David Palumbo',0.15
+Attune with Aether,Sorcery,None,Kaladesh,Common,1,Green,True,False,True,False,b'Wesley Burt',0.18
+Blossoming Defense,Instant,None,Kaladesh,Uncommon,1,Green,True,False,True,False,b'Anastasia Ovchinnikova',0.45
+Bristling Hydra,Creature,Hydra,Kaladesh,Rare,4,Green,True,False,True,True,b'Chris Rahn',0.24
+Commencement of Festivities,Instant,None,Kaladesh,Common,2,Green,True,False,True,False,b'Zack Stella',0.04
+Cowl Prowler,Creature,Wurm,Kaladesh,Common,6,Green,True,False,True,True,b'Tomasz Jedruszek',0.03
+Creeping Mold,Sorcery,None,Kaladesh,Uncommon,4,Green,True,False,True,True,b'Cliff Childs',0.06
+Cultivator of Blades,Creature,Elf Artificer,Kaladesh,Rare,5,Green,True,False,True,True,b'Bastien L. Deharme',0.25
+Dubious Challenge,Sorcery,None,Kaladesh,Rare,4,Green,True,False,True,True,b'Scott Murphy',0.16
+Durable Handicraft,Enchantment,None,Kaladesh,Uncommon,2,Green,True,False,True,False,b'Raoul Vitale',0.13
+Elegant Edgecrafters,Creature,Elf Artificer,Kaladesh,Uncommon,6,Green,True,False,True,False,b'Sean Sevestre',0.05
+Fairgrounds Trumpeter,Creature,Elephant,Kaladesh,Uncommon,3,Green,True,False,True,False,b'Jesper Ejsing',0.06
+Ghirapur Guide,Creature,Elf Scout,Kaladesh,Uncommon,3,Green,True,False,True,True,b'Scott Murphy',0.04
+Highspire Artisan,Creature,Elf Artificer,Kaladesh,Common,3,Green,True,False,True,False,b'Anna Steinbauer',0.04
+Hunt the Weak,Sorcery,None,Kaladesh,Common,4,Green,True,False,True,True,b'Raoul Vitale',0.03
+Kujar Seedsculptor,Creature,Elf Druid,Kaladesh,Common,2,Green,True,False,True,True,b'Anna Steinbauer',0.03
+Larger Than Life,Sorcery,None,Kaladesh,Common,2,Green,True,False,True,True,b'Jaime Jones',0.16
+Longtusk Cub,Creature,Cat,Kaladesh,Uncommon,2,Green,True,False,True,False,b'Zoltan Boros',0.09
+Nature's Way,Sorcery,None,Kaladesh,Uncommon,2,Green,True,False,True,True,b'Zack Stella',0.12
+"Nissa, Vital Force",Legendary Planeswalker,Nissa,Kaladesh,Mythic Rare,5,Green,True,False,True,True,b'Clint Cearley',3.69
+Ornamental Courage,Instant,None,Kaladesh,Common,1,Green,True,False,True,False,b'Anthony Palumbo',0.08
+"Oviya Pashiri, Sage Lifecrafter",Legendary Creature,Human Artificer,Kaladesh,Rare,1,Green,True,False,True,True,b'Magali Villeneuve',0.27
+Peema Outrider,Creature,Elf Artificer,Kaladesh,Common,4,Green,True,False,True,True,b'Craig J Spearing',0.03
+Riparian Tiger,Creature,Cat,Kaladesh,Common,5,Green,True,False,True,True,b'Igor Kieryluk',0.06
+Sage of Shaila's Claim,Creature,Elf Druid,Kaladesh,Common,2,Green,True,False,True,False,b'Howard Lyon',0.05
+Servant of the Conduit,Creature,Elf Druid,Kaladesh,Uncommon,2,Green,True,False,True,False,b'Magali Villeneuve',0.23
+Take Down,Sorcery,None,Kaladesh,Common,1,Green,True,False,True,True,b'Izzy',0.03
+Thriving Rhino,Creature,Rhino,Kaladesh,Common,3,Green,True,False,True,False,b'Matt Stewart',0.02
+Verdurous Gearhulk,Artifact Creature,Construct,Kaladesh,Mythic Rare,5,Green,True,False,True,True,b'Jaime Jones',0.79
+Wild Wanderer,Creature,Elf Druid,Kaladesh,Common,4,Green,True,False,True,False,b'Sidharth Chaturvedi',0.07
+Wildest Dreams,Sorcery,None,Kaladesh,Rare,3,Green,True,False,True,True,b'Daniel Ljunggren',0.35
+Wily Bandar,Creature,Cat Monkey,Kaladesh,Common,1,Green,True,False,True,False,b'Yeong-Hao Han',0.06
+Cloudblazer,Creature,Human Scout,Kaladesh,Uncommon,5,Gold,True,False,True,True,b'Dan Scott',0.21
+Contraband Kingpin,Creature,Aetherborn Rogue,Kaladesh,Uncommon,2,Gold,True,False,True,True,b'Anna Steinbauer',0.08
+"Depala, Pilot Exemplar",Legendary Creature,Dwarf Pilot,Kaladesh,Rare,3,Gold,True,False,True,True,b'Greg Opalinski',0.2
+Dovin Baan,Legendary Planeswalker,Dovin,Kaladesh,Mythic Rare,4,Gold,True,False,True,True,b'Tyler Jacobson',0.92
+Empyreal Voyager,Creature,Vedalken Scout,Kaladesh,Uncommon,3,Gold,True,False,True,False,b'David Gaillet',0.04
+Engineered Might,Sorcery,None,Kaladesh,Uncommon,5,Gold,True,False,True,True,b'Lake Hurwitz',0.02
+Hazardous Conditions,Sorcery,None,Kaladesh,Uncommon,4,Gold,True,False,True,False,b'Anastasia Ovchinnikova',0.02
+"Kambal, Consul of Allocation",Legendary Creature,Human Advisor,Kaladesh,Rare,3,Gold,True,False,True,True,b'Vincent Proce',1.49
+"Rashmi, Eternities Crafter",Legendary Creature,Elf Druid,Kaladesh,Mythic Rare,4,Gold,True,False,True,True,b'Magali Villeneuve',1.07
+Restoration Gearsmith,Creature,Human Artificer,Kaladesh,Uncommon,4,Gold,True,False,True,False,b'John Severin Brassell',0.06
+Saheeli Rai,Legendary Planeswalker,Saheeli,Kaladesh,Mythic Rare,3,Gold,True,False,True,True,b'Willian Murai',1.99
+Unlicensed Disintegration,Instant,None,Kaladesh,Uncommon,3,Gold,True,False,True,True,b'Izzy',0.1
+Veteran Motorist,Creature,Dwarf Pilot,Kaladesh,Uncommon,2,Gold,True,False,True,False,b'Christopher Moeller',0.09
+Voltaic Brawler,Creature,Human Warrior,Kaladesh,Uncommon,2,Gold,True,False,True,False,b'Raymond Swanland',0.2
+Whirler Virtuoso,Creature,Vedalken Artificer,Kaladesh,Uncommon,3,Gold,True,False,True,False,b'Lake Hurwitz',0.12
+Accomplished Automaton,Artifact Creature,Construct,Kaladesh,Common,7,Colorless,True,False,True,False,b'Daarken',0.06
+Aetherflux Reservoir,Artifact,None,Kaladesh,Rare,4,Colorless,True,False,True,True,b'Cliff Childs',6.51
+Aetherworks Marvel,Legendary Artifact,None,Kaladesh,Mythic Rare,4,Colorless,True,False,True,True,b'James Paick',0.9
+Animation Module,Artifact,None,Kaladesh,Rare,1,Colorless,True,False,True,True,b'Aaron Miller',0.85
+Aradara Express,Artifact,Vehicle,Kaladesh,Common,5,Colorless,True,False,True,False,b'Adam Paquette',0.09
+Ballista Charger,Artifact,Vehicle,Kaladesh,Uncommon,5,Colorless,True,False,True,False,b'Sung Choi',0.08
+Bastion Mastodon,Artifact Creature,Elephant,Kaladesh,Common,5,Colorless,True,False,True,False,b'Victor Adame Minguez',0.03
+Bomat Bazaar Barge,Artifact,Vehicle,Kaladesh,Uncommon,4,Colorless,True,False,True,True,b'Christine Choi',0.09
+Bomat Courier,Artifact Creature,Construct,Kaladesh,Rare,1,Colorless,True,False,True,True,b'Craig J Spearing',0.49
+Chief of the Foundry,Artifact Creature,Construct,Kaladesh,Uncommon,3,Colorless,True,False,True,True,b'Daniel Ljunggren',0.16
+Cogworker's Puzzleknot,Artifact,None,Kaladesh,Common,2,Colorless,True,False,True,False,b'Cliff Childs',0.05
+Consulate Skygate,Artifact Creature,Wall,Kaladesh,Common,2,Colorless,True,False,True,True,b'John Avon',0.07
+Cultivator's Caravan,Artifact,Vehicle,Kaladesh,Rare,3,Colorless,True,False,True,True,b'Mark Zug',0.32
+Deadlock Trap,Artifact,None,Kaladesh,Rare,3,Colorless,True,False,True,True,b'Jason Rainville',0.13
+Decoction Module,Artifact,None,Kaladesh,Uncommon,2,Colorless,True,False,True,False,b'Aaron Miller',0.12
+Demolition Stomper,Artifact,Vehicle,Kaladesh,Uncommon,6,Colorless,True,False,True,False,b'James Paick',0.1
+Dukhara Peafowl,Artifact Creature,Bird,Kaladesh,Common,4,Colorless,True,False,True,False,b'Craig J Spearing',0.01
+Dynavolt Tower,Artifact,None,Kaladesh,Rare,3,Colorless,True,False,True,True,b'Titus Lunter',0.21
+Eager Construct,Artifact Creature,Construct,Kaladesh,Common,2,Colorless,True,False,True,True,b'Craig J Spearing',0.03
+Electrostatic Pummeler,Artifact Creature,Construct,Kaladesh,Rare,3,Colorless,True,False,True,True,b'Slawomir Maniak',0.25
+Fabrication Module,Artifact,None,Kaladesh,Uncommon,3,Colorless,True,False,True,False,b'Aaron Miller',0.11
+Filigree Familiar,Artifact Creature,Fox,Kaladesh,Uncommon,3,Colorless,True,False,True,True,b'Izzy',0.1
+Fireforger's Puzzleknot,Artifact,None,Kaladesh,Common,2,Colorless,True,False,True,False,b'Zezhou Chen',0.03
+Fleetwheel Cruiser,Artifact,Vehicle,Kaladesh,Rare,4,Colorless,True,False,True,True,b'Sung Choi',0.22
+Foundry Inspector,Artifact Creature,Construct,Kaladesh,Uncommon,3,Colorless,True,False,True,True,b'Jason A. Engle',0.85
+Ghirapur Orrery,Artifact,None,Kaladesh,Rare,4,Colorless,True,False,True,True,b'Kirsten Zirngibl',0.52
+Glassblower's Puzzleknot,Artifact,None,Kaladesh,Common,2,Colorless,True,False,True,False,b'Kieran Yanner',0.07
+Inventor's Goggles,Artifact,Equipment,Kaladesh,Common,1,Colorless,True,False,True,True,b'Jason Felix',0.03
+Iron League Steed,Artifact Creature,Construct,Kaladesh,Uncommon,4,Colorless,True,False,True,False,b'Darek Zabrocki',0.04
+Key to the City,Artifact,None,Kaladesh,Rare,2,Colorless,True,False,True,True,b'Sean Murray',0.31
+Metalspinner's Puzzleknot,Artifact,None,Kaladesh,Common,2,Colorless,True,False,True,False,b'Vincent Proce',0.08
+Metalwork Colossus,Artifact Creature,Construct,Kaladesh,Rare,2,Colorless,True,False,True,True,b'Jaime Jones',0.69
+Multiform Wonder,Artifact Creature,Construct,Kaladesh,Rare,5,Colorless,True,False,True,True,b'Daarken',0.09
+Narnam Cobra,Artifact Creature,Snake,Kaladesh,Common,2,Colorless,True,False,True,False,b'Christopher Burdett',0.03
+Ovalchase Dragster,Artifact,Vehicle,Kaladesh,Uncommon,4,Colorless,True,False,True,False,b'Victor Adame Minguez',0.1
+Panharmonicon,Artifact,None,Kaladesh,Rare,4,Colorless,True,False,True,True,b'Volkan Ba\xc7\xb5a',8.39
+Perpetual Timepiece,Artifact,None,Kaladesh,Uncommon,2,Colorless,True,False,True,False,b'Cliff Childs',0.33
+Prakhata Pillar-Bug,Artifact Creature,Insect,Kaladesh,Common,3,Colorless,True,False,True,False,b'Jason Felix',0.06
+Prophetic Prism,Artifact,None,Kaladesh,Common,2,Colorless,True,False,True,True,b'Noah Bradley',0.16
+Renegade Freighter,Artifact,Vehicle,Kaladesh,Common,3,Colorless,True,False,True,False,b'Izzy',0.09
+Scrapheap Scrounger,Artifact Creature,Construct,Kaladesh,Rare,2,Colorless,True,False,True,True,b'Jason A. Engle',0.34
+Self-Assembler,Artifact Creature,Assembly-Worker,Kaladesh,Common,5,Colorless,True,False,True,True,b'Noah Bradley',0.05
+Sky Skiff,Artifact,Vehicle,Kaladesh,Common,2,Colorless,True,False,True,False,b'Richard Wright',0.07
+"Skysovereign, Consul Flagship",Legendary Artifact,Vehicle,Kaladesh,Mythic Rare,5,Colorless,True,False,True,True,b'Jung Park',0.79
+Smuggler's Copter,Artifact,Vehicle,Kaladesh,Rare,2,Colorless,True,False,True,True,b'Florian de Gesincourt',1.73
+Snare Thopter,Artifact Creature,Thopter,Kaladesh,Uncommon,4,Colorless,True,False,True,True,b'John Avon',0.04
+Torch Gauntlet,Artifact,Equipment,Kaladesh,Common,2,Colorless,True,False,True,False,b'Igor Kieryluk',0.02
+Weldfast Monitor,Artifact Creature,Lizard,Kaladesh,Common,3,Colorless,True,False,True,False,b'Jakub Kasper',0.03
+Whirlermaker,Artifact,None,Kaladesh,Uncommon,3,Colorless,True,False,True,False,b'Victor Adame Minguez',0.11
+Woodweaver's Puzzleknot,Artifact,None,Kaladesh,Common,2,Colorless,True,False,True,False,b'Volkan Ba\xc7\xb5a',0.1
+Workshop Assistant,Artifact Creature,Construct,Kaladesh,Common,3,Colorless,True,False,True,False,b'Victor Adame Minguez',0.12
+Aether Hub,Land,None,Kaladesh,Uncommon,0,Colorless,True,False,True,True,b'Sam Burley',0.32
+Blooming Marsh,Land,None,Kaladesh,Rare,0,Colorless,True,False,True,True,b'Adam Paquette',6.0
+Botanical Sanctum,Land,None,Kaladesh,Rare,0,Colorless,True,False,True,True,b'Christine Choi',7.82
+Concealed Courtyard,Land,None,Kaladesh,Rare,0,Colorless,True,False,True,True,b'Jung Park',3.44
+Inspiring Vantage,Land,None,Kaladesh,Rare,0,Colorless,True,False,True,True,b'Jonas De Ro',3.19
+Inventors' Fair,Legendary Land,None,Kaladesh,Rare,0,Colorless,True,False,True,True,b'Jonas De Ro',3.91
+Sequestered Stash,Land,None,Kaladesh,Uncommon,0,Colorless,True,False,True,False,b'Yeong-Hao Han',0.14
+Spirebluff Canal,Land,None,Kaladesh,Rare,0,Colorless,True,False,True,True,b'Adam Paquette',6.61
+Plains,Basic Land,Plains,Kaladesh,Common,0,Colorless,True,True,True,True,b'John Avon',0.07
+Plains,Basic Land,Plains,Kaladesh,Common,0,Colorless,True,True,True,True,b'John Avon',0.06
+Plains,Basic Land,Plains,Kaladesh,Common,0,Colorless,True,True,True,True,b'Clint Cearley',0.07
+Island,Basic Land,Island,Kaladesh,Common,0,Colorless,True,True,True,True,b'Yeong-Hao Han',0.07
+Island,Basic Land,Island,Kaladesh,Common,0,Colorless,True,True,True,True,b'Yeong-Hao Han',0.09
+Island,Basic Land,Island,Kaladesh,Common,0,Colorless,True,True,True,True,b'Johannes Voss',0.11
+Swamp,Basic Land,Swamp,Kaladesh,Common,0,Colorless,True,True,True,True,b'James Paick',0.08
+Swamp,Basic Land,Swamp,Kaladesh,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.08
+Swamp,Basic Land,Swamp,Kaladesh,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.09
+Mountain,Basic Land,Mountain,Kaladesh,Common,0,Colorless,True,True,True,True,b'Richard Wright',0.07
+Mountain,Basic Land,Mountain,Kaladesh,Common,0,Colorless,True,True,True,True,b'Eytan Zana',0.07
+Mountain,Basic Land,Mountain,Kaladesh,Common,0,Colorless,True,True,True,True,b'Eytan Zana',0.08
+Forest,Basic Land,Forest,Kaladesh,Common,0,Colorless,True,True,True,True,b'Christine Choi',0.08
+Forest,Basic Land,Forest,Kaladesh,Common,0,Colorless,True,True,True,True,b'Christine Choi',0.07
+Forest,Basic Land,Forest,Kaladesh,Common,0,Colorless,True,True,True,True,b'Chase Stone',0.06
+"Chandra, Pyrogenius",Legendary Planeswalker,Chandra,Kaladesh,Mythic Rare,6,Red,True,False,True,False,b'Jason Rainville',0.83
+Flame Lash,Instant,None,Kaladesh,Common,4,Red,True,False,True,False,b'Viktor Titov',0.16
+Liberating Combustion,Sorcery,None,Kaladesh,Rare,5,Red,True,False,True,False,b'Lius Lasahido',0.13
+Renegade Firebrand,Creature,Human Warrior,Kaladesh,Uncommon,3,Red,True,False,True,False,b'John Stanko',0.09
+Stone Quarry,Land,None,Kaladesh,Common,0,Colorless,True,False,True,True,b'Efflam Mercier',0.11
+"Nissa, Nature's Artisan",Legendary Planeswalker,Nissa,Kaladesh,Mythic Rare,6,Green,True,False,True,False,b'Willian Murai',1.18
+Guardian of the Great Conduit,Creature,Elemental,Kaladesh,Uncommon,4,Green,True,False,True,False,b'Christine Choi',0.09
+Terrain Elemental,Creature,Elemental,Kaladesh,Common,2,Green,True,False,True,True,b'Magali Villeneuve',0.09
+Verdant Crescendo,Sorcery,None,Kaladesh,Rare,4,Green,True,False,True,False,b'Zack Stella',0.15
+Woodland Stream,Land,None,Kaladesh,Common,0,Colorless,True,False,True,True,b'Efflam Mercier',0.12

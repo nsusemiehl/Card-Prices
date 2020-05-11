@@ -1,0 +1,166 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Abuna's Chant,Instant,None,Fifth Dawn,Common,4,White,True,False,True,False,b'John Matson',0.05
+Armed Response,Instant,None,Fifth Dawn,Common,3,White,True,False,True,False,b'Doug Chaffee',0.08
+Auriok Champion,Creature,Human Cleric,Fifth Dawn,Rare,2,White,True,False,True,True,b'Michael Sutfin',11.43
+Auriok Salvagers,Creature,Human Soldier,Fifth Dawn,Uncommon,4,White,True,False,True,True,b'Randy Gallegos',0.26
+Auriok Windwalker,Creature,Human Wizard,Fifth Dawn,Rare,4,White,True,False,True,False,b'Jeremy Jarvis',0.34
+Beacon of Immortality,Instant,None,Fifth Dawn,Rare,6,White,True,False,True,True,b'Rob Alexander',2.56
+Bringer of the White Dawn,Creature,Bringer,Fifth Dawn,Rare,9,White,True,False,True,False,b'Kev Walker',1.44
+Circle of Protection: Artifacts,Enchantment,None,Fifth Dawn,Uncommon,2,White,True,False,True,True,b'Terese Nielsen',0.16
+Leonin Squire,Creature,Cat Soldier,Fifth Dawn,Common,2,White,True,False,True,False,b'Pete Venters',0.13
+Loxodon Anchorite,Creature,Elephant Cleric,Fifth Dawn,Common,4,White,True,False,True,False,b'Jim Nelson',0.1
+Loxodon Stalwart,Creature,Elephant Soldier,Fifth Dawn,Uncommon,5,White,True,False,True,True,b'Paolo Parente',0.12
+Raksha Golden Cub,Legendary Creature,Cat Soldier,Fifth Dawn,Rare,7,White,True,False,True,True,b'Pete Venters',0.57
+Retaliate,Instant,None,Fifth Dawn,Rare,4,White,True,False,True,False,b'Vance Kovacs',0.37
+Roar of Reclamation,Sorcery,None,Fifth Dawn,Rare,7,White,True,False,True,False,b'Justin Sweet',0.43
+Skyhunter Prowler,Creature,Cat Knight,Fifth Dawn,Common,3,White,True,False,True,True,b'Vance Kovacs',0.08
+Skyhunter Skirmisher,Creature,Cat Knight,Fifth Dawn,Uncommon,3,White,True,False,True,True,b'Greg Staples',0.19
+Stand Firm,Instant,None,Fifth Dawn,Common,1,White,True,False,True,True,b'Matt Cavotta',0.1
+Stasis Cocoon,Enchantment,Aura,Fifth Dawn,Common,2,White,True,False,True,False,b'Kev Walker',0.09
+Steelshaper's Gift,Sorcery,None,Fifth Dawn,Uncommon,1,White,True,False,True,True,b'Greg Hildebrandt',8.5
+Vanquish,Instant,None,Fifth Dawn,Uncommon,3,White,True,False,True,False,b'Carl Critchlow',0.07
+Acquire,Sorcery,None,Fifth Dawn,Rare,5,Blue,True,False,True,True,b'Daren Bader',2.15
+Advanced Hoverguard,Creature,Drone,Fifth Dawn,Common,4,Blue,True,False,True,False,b'Scott M. Fischer',0.04
+Artificer's Intuition,Enchantment,None,Fifth Dawn,Rare,2,Blue,True,False,True,False,b'Wayne England',2.33
+Beacon of Tomorrows,Sorcery,None,Fifth Dawn,Rare,8,Blue,True,False,True,True,b'Jeremy Jarvis',3.09
+Blinkmoth Infusion,Instant,None,Fifth Dawn,Rare,4,Blue,True,False,True,False,b'Alan Pollack',0.87
+Bringer of the Blue Dawn,Creature,Bringer,Fifth Dawn,Rare,9,Blue,True,False,True,False,b'Greg Staples',3.89
+Condescend,Instant,None,Fifth Dawn,Common,2,Blue,True,False,True,True,b'Ron Spears',0.36
+Disruption Aura,Enchantment,Aura,Fifth Dawn,Uncommon,3,Blue,True,False,True,False,b'Ron Spears',0.1
+Early Frost,Instant,None,Fifth Dawn,Common,2,Blue,True,False,True,False,b'Ben Thompson',0.14
+Eyes of the Watcher,Enchantment,None,Fifth Dawn,Uncommon,3,Blue,True,False,True,False,b'Ron Spears',0.26
+Fold into Aether,Instant,None,Fifth Dawn,Uncommon,4,Blue,True,False,True,False,b'Anthony S. Waters',0.2
+Hoverguard Sweepers,Creature,Drone,Fifth Dawn,Rare,8,Blue,True,False,True,True,b'Mark A. Nelson',0.18
+Into Thin Air,Instant,None,Fifth Dawn,Common,6,Blue,True,False,True,False,b'Ittoku',0.06
+Plasma Elemental,Creature,Elemental,Fifth Dawn,Uncommon,6,Blue,True,False,True,False,b'Kev Walker',0.12
+Qumulox,Creature,Beast,Fifth Dawn,Uncommon,8,Blue,True,False,True,True,b'Carl Critchlow',0.1
+Serum Visions,Sorcery,None,Fifth Dawn,Common,1,Blue,True,False,True,True,b'Ben Thompson',1.59
+Spectral Shift,Instant,None,Fifth Dawn,Rare,2,Blue,True,False,True,False,b'John Avon',0.34
+Thought Courier,Creature,Human Wizard,Fifth Dawn,Common,2,Blue,True,False,True,True,b'Stephen Tappin',0.16
+Trinket Mage,Creature,Human Wizard,Fifth Dawn,Common,3,Blue,True,False,True,True,b'Mark A. Nelson',0.27
+Vedalken Mastermind,Creature,Vedalken Wizard,Fifth Dawn,Uncommon,2,Blue,True,False,True,True,b'Darrell Riche',0.41
+Beacon of Unrest,Sorcery,None,Fifth Dawn,Rare,5,Black,True,False,True,True,b'Alan Pollack',1.6
+Blind Creeper,Creature,Zombie Beast,Fifth Dawn,Common,2,Black,True,False,True,True,b'Carl Critchlow',0.09
+Bringer of the Black Dawn,Creature,Bringer,Fifth Dawn,Rare,9,Black,True,False,True,True,b'Carl Critchlow',4.83
+Cackling Imp,Creature,Imp,Fifth Dawn,Common,4,Black,True,False,True,True,b'Matt Thompson',0.05
+Desecration Elemental,Creature,Elemental,Fifth Dawn,Rare,4,Black,True,False,True,True,b'Pete Venters',0.19
+Devour in Shadow,Instant,None,Fifth Dawn,Uncommon,2,Black,True,False,True,False,b'Thomas M. Baxa',0.2
+Dross Crocodile,Creature,Zombie Crocodile,Fifth Dawn,Common,4,Black,True,False,True,True,"b'Edward P. Beard, Jr.'",0.06
+Ebon Drake,Creature,Drake,Fifth Dawn,Uncommon,3,Black,True,False,True,False,b'Pete Venters',0.12
+Endless Whispers,Enchantment,None,Fifth Dawn,Rare,4,Black,True,False,True,False,b'Carl Critchlow',1.67
+Fill with Fright,Sorcery,None,Fifth Dawn,Common,4,Black,True,False,True,True,b'Luca Zontini',0.1
+Fleshgrafter,Creature,Human Warrior,Fifth Dawn,Common,3,Black,True,False,True,False,b'Jim Murray',0.07
+Lose Hope,Instant,None,Fifth Dawn,Common,1,Black,True,False,True,False,b'Matt Cavotta',0.09
+Mephidross Vampire,Creature,Vampire,Fifth Dawn,Rare,6,Black,True,False,True,False,b'Matthew D. Wilson',3.24
+Moriok Rigger,Creature,Human Rogue Rigger,Fifth Dawn,Rare,3,Black,True,False,True,False,b'Wayne England',0.26
+Night's Whisper,Sorcery,None,Fifth Dawn,Uncommon,2,Black,True,False,True,True,b'David Martin',1.89
+Nim Grotesque,Creature,Zombie,Fifth Dawn,Uncommon,7,Black,True,False,True,False,b'Anthony S. Waters',0.14
+Plunge into Darkness,Instant,None,Fifth Dawn,Rare,2,Black,True,False,True,False,b'Justin Sweet',4.96
+Relentless Rats,Creature,Rat,Fifth Dawn,Uncommon,3,Black,True,False,True,True,b'Thomas M. Baxa',1.56
+Shattered Dreams,Sorcery,None,Fifth Dawn,Uncommon,1,Black,True,False,True,False,b'Greg Staples',0.12
+Vicious Betrayal,Sorcery,None,Fifth Dawn,Common,5,Black,True,False,True,False,b'Tomas Giorello',0.22
+Beacon of Destruction,Instant,None,Fifth Dawn,Rare,5,Red,True,False,True,True,b'Greg Hildebrandt',0.32
+Bringer of the Red Dawn,Creature,Bringer,Fifth Dawn,Rare,9,Red,True,False,True,False,b'Christopher Moeller',1.38
+Cosmic Larva,Creature,Beast,Fifth Dawn,Rare,3,Red,True,False,True,False,b'Jeff Easley',0.19
+Feedback Bolt,Instant,None,Fifth Dawn,Uncommon,5,Red,True,False,True,False,b'Ron Spencer',0.16
+Furnace Whelp,Creature,Dragon,Fifth Dawn,Uncommon,4,Red,True,False,True,True,b'Matt Cavotta',0.11
+Goblin Brawler,Creature,Goblin Warrior,Fifth Dawn,Common,3,Red,True,False,True,False,b'Heather Hudson',0.11
+Granulate,Sorcery,None,Fifth Dawn,Rare,4,Red,True,False,True,False,b'Brian Sn\xc3\xb5ddy',0.28
+Ion Storm,Enchantment,None,Fifth Dawn,Rare,3,Red,True,False,True,False,b'Michael Sutfin',0.24
+Iron-Barb Hellion,Creature,Hellion Beast,Fifth Dawn,Uncommon,6,Red,True,False,True,True,b'Doug Chaffee',0.11
+Krark-Clan Engineers,Creature,Goblin Artificer,Fifth Dawn,Uncommon,4,Red,True,False,True,False,b'Pete Venters',0.1
+Krark-Clan Ogre,Creature,Ogre,Fifth Dawn,Common,5,Red,True,False,True,False,b'Paolo Parente',0.02
+Magma Giant,Creature,Giant,Fifth Dawn,Rare,7,Red,True,False,True,True,b'Nottsuo',0.2
+Magma Jet,Instant,None,Fifth Dawn,Uncommon,2,Red,True,False,True,True,b'Justin Sweet',0.19
+Magnetic Theft,Instant,None,Fifth Dawn,Uncommon,1,Red,True,False,True,False,b'Dave Dorman',1.98
+Mana Geyser,Sorcery,None,Fifth Dawn,Common,5,Red,True,False,True,True,b'Martina Pilcerova',0.72
+Rain of Rust,Instant,None,Fifth Dawn,Common,5,Red,True,False,True,False,b'Tim Hildebrandt',0.04
+Reversal of Fortune,Sorcery,None,Fifth Dawn,Rare,6,Red,True,False,True,False,b'Greg Hildebrandt',0.42
+Screaming Fury,Sorcery,None,Fifth Dawn,Common,3,Red,True,False,True,False,"b'Edward P. Beard, Jr.'",0.14
+Spark Elemental,Creature,Elemental,Fifth Dawn,Common,1,Red,True,False,True,True,b'John Avon',0.42
+Vulshok Sorcerer,Creature,Human Shaman,Fifth Dawn,Common,3,Red,True,False,True,True,b'rk post',0.18
+All Suns' Dawn,Sorcery,None,Fifth Dawn,Rare,5,Green,True,False,True,True,b'Glen Angus',0.42
+Beacon of Creation,Sorcery,None,Fifth Dawn,Rare,4,Green,True,False,True,False,b'Mark Tedin',2.94
+Bringer of the Green Dawn,Creature,Bringer,Fifth Dawn,Rare,9,Green,True,False,True,False,b'Jim Murray',1.15
+Channel the Suns,Sorcery,None,Fifth Dawn,Uncommon,4,Green,True,False,True,False,b'Rob Alexander',0.4
+Dawn's Reflection,Enchantment,Aura,Fifth Dawn,Common,4,Green,True,False,True,True,b'John Avon',0.16
+Eternal Witness,Creature,Human Shaman,Fifth Dawn,Uncommon,3,Green,True,False,True,True,b'Terese Nielsen',4.88
+Fangren Pathcutter,Creature,Beast,Fifth Dawn,Uncommon,6,Green,True,False,True,True,b'Rob Alexander',0.12
+Ferocious Charge,Instant,None,Fifth Dawn,Common,3,Green,True,False,True,False,b'Anthony S. Waters',0.09
+Joiner Adept,Creature,Elf Druid,Fifth Dawn,Rare,2,Green,True,False,True,True,b'Christopher Rush',2.18
+Ouphe Vandals,Creature,Ouphe Rogue,Fifth Dawn,Uncommon,3,Green,True,False,True,False,b'Thomas M. Baxa',0.18
+Rite of Passage,Enchantment,None,Fifth Dawn,Rare,3,Green,True,False,True,False,b'Kev Walker',1.35
+Rude Awakening,Sorcery,None,Fifth Dawn,Rare,5,Green,True,False,True,True,b'Ittoku',0.48
+Sylvok Explorer,Creature,Human Druid,Fifth Dawn,Common,2,Green,True,False,True,True,b'Wayne England',0.08
+Tangle Asp,Creature,Snake,Fifth Dawn,Common,2,Green,True,False,True,False,b'Daren Bader',0.13
+Tel-Jilad Justice,Instant,None,Fifth Dawn,Uncommon,2,Green,True,False,True,False,b'Alex Horley-Orlandelli',0.21
+Tel-Jilad Lifebreather,Creature,Troll Shaman,Fifth Dawn,Common,5,Green,True,False,True,False,b'Jim Nelson',0.06
+Tornado Elemental,Creature,Elemental,Fifth Dawn,Rare,7,Green,True,False,True,True,b'Alex Horley-Orlandelli',0.47
+Tyrranax,Creature,Dinosaur Beast,Fifth Dawn,Common,6,Green,True,False,True,False,b'Carl Critchlow',0.08
+Viridian Lorebearers,Creature,Elf Shaman,Fifth Dawn,Uncommon,4,Green,True,False,True,False,b'Darrell Riche',0.13
+Viridian Scout,Creature,Elf Warrior Scout,Fifth Dawn,Common,4,Green,True,False,True,True,b'Daren Bader',0.03
+Anodet Lurker,Artifact Creature,Construct,Fifth Dawn,Common,5,Colorless,True,False,True,False,b'Jeff Easley',0.12
+Arachnoid,Artifact Creature,Spider,Fifth Dawn,Uncommon,6,Colorless,True,False,True,False,b'Greg Staples',0.14
+Arcbound Wanderer,Artifact Creature,Golem,Fifth Dawn,Uncommon,6,Colorless,True,False,True,True,b'Christopher Moeller',0.15
+Avarice Totem,Artifact,None,Fifth Dawn,Uncommon,1,Colorless,True,False,True,False,b'Ben Thompson',0.26
+Baton of Courage,Artifact,None,Fifth Dawn,Common,3,Colorless,True,False,True,False,b'Heather Hudson',0.05
+Battered Golem,Artifact Creature,Golem,Fifth Dawn,Common,3,Colorless,True,False,True,False,b'Carl Critchlow',0.24
+Blasting Station,Artifact,None,Fifth Dawn,Uncommon,3,Colorless,True,False,True,True,b'Stephen Tappin',6.89
+Chimeric Coils,Artifact,None,Fifth Dawn,Uncommon,1,Colorless,True,False,True,False,b'Michael Sutfin',0.13
+Clearwater Goblet,Artifact,None,Fifth Dawn,Rare,5,Colorless,True,False,True,False,b'Dany Orizio',0.69
+Clock of Omens,Artifact,None,Fifth Dawn,Uncommon,4,Colorless,True,False,True,True,b'Alex Horley-Orlandelli',0.32
+Composite Golem,Artifact Creature,Golem,Fifth Dawn,Uncommon,6,Colorless,True,False,True,True,b'Mark Tedin',0.31
+Conjurer's Bauble,Artifact,None,Fifth Dawn,Common,1,Colorless,True,False,True,False,b'Darrell Riche',0.28
+Cranial Plating,Artifact,Equipment,Fifth Dawn,Common,2,Colorless,True,False,True,True,b'Adam Rex',0.51
+Crucible of Worlds,Artifact,None,Fifth Dawn,Rare,3,Colorless,True,False,True,True,b'Ron Spencer',21.08
+Door to Nothingness,Artifact,None,Fifth Dawn,Rare,5,Colorless,True,False,True,True,b'Puddnhead',1.23
+Doubling Cube,Artifact,None,Fifth Dawn,Rare,2,Colorless,True,False,True,True,b'Mark Tedin',19.12
+Energy Chamber,Artifact,None,Fifth Dawn,Uncommon,2,Colorless,True,False,True,True,b'Kev Walker',0.59
+Engineered Explosives,Artifact,None,Fifth Dawn,Rare,1,Colorless,True,False,True,True,b'Ron Spears',14.3
+Ensouled Scimitar,Artifact,Equipment,Fifth Dawn,Uncommon,3,Colorless,True,False,True,False,"b'Edward P. Beard, Jr.'",0.2
+Eon Hub,Artifact,None,Fifth Dawn,Rare,5,Colorless,True,False,True,False,b'Daren Bader',1.09
+Etched Oracle,Artifact Creature,Wizard,Fifth Dawn,Uncommon,4,Colorless,True,False,True,True,b'Matt Cavotta',0.12
+Ferropede,Artifact Creature,Insect,Fifth Dawn,Uncommon,3,Colorless,True,False,True,False,b'Jeff Easley',0.24
+Fist of Suns,Artifact,None,Fifth Dawn,Rare,3,Colorless,True,False,True,True,b'Arnie Swekel',5.08
+Gemstone Array,Artifact,None,Fifth Dawn,Uncommon,4,Colorless,True,False,True,False,b'Ittoku',1.19
+Goblin Cannon,Artifact,None,Fifth Dawn,Uncommon,4,Colorless,True,False,True,False,b'Doug Chaffee',0.2
+Grafted Wargear,Artifact,Equipment,Fifth Dawn,Uncommon,3,Colorless,True,False,True,False,b'Alex Horley-Orlandelli',1.34
+Grinding Station,Artifact,None,Fifth Dawn,Uncommon,2,Colorless,True,False,True,False,b'Greg Staples',11.83
+Guardian Idol,Artifact,None,Fifth Dawn,Uncommon,2,Colorless,True,False,True,True,"b'Edward P. Beard, Jr.'",0.49
+Healer's Headdress,Artifact,Equipment,Fifth Dawn,Common,2,Colorless,True,False,True,False,b'Carl Critchlow',0.04
+Heliophial,Artifact,None,Fifth Dawn,Common,5,Colorless,True,False,True,False,b'Wayne England',0.06
+Helm of Kaldra,Legendary Artifact,Equipment,Fifth Dawn,Rare,3,Colorless,True,False,True,True,b'Donato Giancola',5.54
+Horned Helm,Artifact,Equipment,Fifth Dawn,Common,2,Colorless,True,False,True,False,b'Martina Pilcerova',0.12
+Infused Arrows,Artifact,None,Fifth Dawn,Uncommon,4,Colorless,True,False,True,False,b'Stephen Tappin',0.12
+Krark-Clan Ironworks,Artifact,None,Fifth Dawn,Uncommon,4,Colorless,False,False,True,True,b'Tim Hildebrandt',10.22
+Lantern of Insight,Artifact,None,Fifth Dawn,Uncommon,1,Colorless,True,False,True,True,b'Tim Hildebrandt',1.33
+Lunar Avenger,Artifact Creature,Golem,Fifth Dawn,Uncommon,7,Colorless,True,False,True,False,b'Paolo Parente',0.11
+Mycosynth Golem,Artifact Creature,Golem,Fifth Dawn,Rare,2,Colorless,True,False,True,False,b'Paolo Parente',17.79
+Myr Quadropod,Artifact Creature,Myr,Fifth Dawn,Common,4,Colorless,True,False,True,False,b'Christopher Rush',0.09
+Myr Servitor,Artifact Creature,Myr,Fifth Dawn,Common,1,Colorless,True,False,True,True,b'John Matson',0.16
+Neurok Stealthsuit,Artifact,Equipment,Fifth Dawn,Common,2,Colorless,True,False,True,True,b'Francis Tsai',0.91
+Opaline Bracers,Artifact,Equipment,Fifth Dawn,Common,4,Colorless,True,False,True,False,b'Anthony S. Waters',0.13
+Paradise Mantle,Artifact,Equipment,Fifth Dawn,Uncommon,0,Colorless,True,False,True,True,b'Greg Hildebrandt',2.74
+Pentad Prism,Artifact,None,Fifth Dawn,Common,2,Colorless,True,False,True,True,b'David Martin',0.42
+Possessed Portal,Artifact,None,Fifth Dawn,Rare,8,Colorless,True,False,True,False,b'Tony Szczudlo',2.45
+Razorgrass Screen,Artifact Creature,Wall,Fifth Dawn,Common,1,Colorless,True,False,True,False,b'Tony Szczudlo',0.1
+Razormane Masticore,Artifact Creature,Masticore,Fifth Dawn,Rare,5,Colorless,True,False,True,True,b'Jim Murray',0.25
+Relic Barrier,Artifact,None,Fifth Dawn,Uncommon,2,Colorless,True,False,True,True,b'Nottsuo',0.15
+Salvaging Station,Artifact,None,Fifth Dawn,Rare,6,Colorless,True,False,True,False,b'Greg Staples',0.62
+Sawtooth Thresher,Artifact Creature,Construct,Fifth Dawn,Common,6,Colorless,True,False,True,False,b'Alan Pollack',0.03
+Silent Arbiter,Artifact Creature,Construct,Fifth Dawn,Rare,4,Colorless,True,False,True,True,b'Mark Zug',4.38
+Skullcage,Artifact,None,Fifth Dawn,Uncommon,4,Colorless,True,False,True,True,b'Ron Spencer',0.24
+Skyreach Manta,Artifact Creature,Fish,Fifth Dawn,Common,5,Colorless,True,False,True,True,b'Christopher Moeller',0.05
+Solarion,Artifact Creature,Construct,Fifth Dawn,Rare,7,Colorless,True,False,True,False,b'Jim Murray',0.41
+Sparring Collar,Artifact,Equipment,Fifth Dawn,Common,2,Colorless,True,False,True,False,b'Christopher Moeller',0.1
+Spinal Parasite,Artifact Creature,Insect,Fifth Dawn,Uncommon,5,Colorless,True,False,True,False,b'Cyril Van Der Haegen',0.12
+Staff of Domination,Artifact,None,Fifth Dawn,Rare,3,Colorless,True,False,True,True,b'Ben Thompson',37.52
+Summoner's Egg,Artifact Creature,Egg,Fifth Dawn,Rare,4,Colorless,True,False,True,False,b'Jim Nelson',2.78
+Summoning Station,Artifact,None,Fifth Dawn,Rare,7,Colorless,True,False,True,False,b'Stephen Tappin',1.3
+Suncrusher,Artifact Creature,Construct,Fifth Dawn,Rare,9,Colorless,True,False,True,False,b'Dave Dorman',0.17
+Suntouched Myr,Artifact Creature,Myr,Fifth Dawn,Common,3,Colorless,True,False,True,True,b'Greg Hildebrandt',0.15
+Synod Centurion,Artifact Creature,Construct,Fifth Dawn,Uncommon,4,Colorless,True,False,True,True,b'Kev Walker',0.14
+Thermal Navigator,Artifact Creature,Construct,Fifth Dawn,Common,3,Colorless,True,False,True,False,b'Jim Murray',0.11
+Vedalken Orrery,Artifact,None,Fifth Dawn,Rare,4,Colorless,True,False,True,True,b'John Avon',30.07
+Vedalken Shackles,Artifact,None,Fifth Dawn,Rare,3,Colorless,True,False,True,True,b'Mark Zug',6.1
+Wayfarer's Bauble,Artifact,None,Fifth Dawn,Common,1,Colorless,True,False,True,True,b'Darrell Riche',2.04

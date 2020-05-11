@@ -1,0 +1,154 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Aven Riftwatcher,Creature,Bird Rebel Soldier,Planar Chaos,Common,3,White,True,False,True,True,b'Don Hazeltine',0.14
+"Crovax, Ascendant Hero",Legendary Creature,Human Noble,Planar Chaos,Rare,6,White,True,False,True,False,b'Pete Venters',1.18
+Dawn Charm,Instant,None,Planar Chaos,Common,2,White,True,False,True,True,b'John Avon',0.61
+Dust Elemental,Creature,Elemental,Planar Chaos,Rare,4,White,True,False,True,False,b'rk post',0.4
+Ghost Tactician,Creature,Spirit Spellshaper,Planar Chaos,Common,5,White,True,False,True,False,b'Zoltan Boros',0.04
+Magus of the Tabernacle,Creature,Human Wizard,Planar Chaos,Rare,4,White,True,False,True,False,b'Randy Gallegos',0.55
+Mantle of Leadership,Enchantment,Aura,Planar Chaos,Uncommon,2,White,True,False,True,False,b'Thomas M. Baxa',0.18
+Pallid Mycoderm,Creature,Fungus,Planar Chaos,Common,4,White,True,False,True,True,b'Jim Nelson',0.16
+Poultice Sliver,Creature,Sliver,Planar Chaos,Common,3,White,True,False,True,False,b'Randy Gallegos',0.21
+Rebuff the Wicked,Instant,None,Planar Chaos,Uncommon,1,White,True,False,True,False,b'Stephen Tappin',2.5
+Retether,Sorcery,None,Planar Chaos,Rare,4,White,True,False,True,False,b'Dan Scott',4.77
+Saltblast,Sorcery,None,Planar Chaos,Uncommon,5,White,True,False,True,True,b'Paolo Parente',0.1
+Saltfield Recluse,Creature,Human Rebel Cleric,Planar Chaos,Common,3,White,True,False,True,True,b'Brian Despain',0.08
+Serra's Boon,Enchantment,Aura,Planar Chaos,Uncommon,3,White,True,False,True,True,b'Steven Belledin',0.24
+Stonecloaker,Creature,Gargoyle,Planar Chaos,Uncommon,3,White,True,False,True,True,b'Tomas Giorello',0.28
+Stormfront Riders,Creature,Human Soldier,Planar Chaos,Uncommon,5,White,True,False,True,True,b'Wayne Reynolds',0.19
+Voidstone Gargoyle,Creature,Gargoyle,Planar Chaos,Rare,5,White,True,False,True,False,b'Terese Nielsen',0.23
+Whitemane Lion,Creature,Cat,Planar Chaos,Common,2,White,True,False,True,True,b'Zoltan Boros',0.15
+Calciderm,Creature,Beast,Planar Chaos,Uncommon,4,White,True,False,True,True,b'Dave Kendall',0.12
+Malach of the Dawn,Creature,Angel,Planar Chaos,Uncommon,4,White,True,False,True,False,b'Steve Prescott',0.14
+Mana Tithe,Instant,None,Planar Chaos,Common,1,White,True,False,True,True,b'Martina Pilcerova',0.99
+Mesa Enchantress,Creature,Human Druid,Planar Chaos,Rare,3,White,True,False,True,True,b'Randy Gallegos',0.59
+Mycologist,Creature,Human Druid,Planar Chaos,Uncommon,2,White,True,False,True,False,b'Kev Walker',0.23
+Porphyry Nodes,Enchantment,None,Planar Chaos,Rare,1,White,True,False,True,False,b'Alan Pollack',2.26
+Revered Dead,Creature,Spirit Soldier,Planar Chaos,Common,2,White,True,False,True,False,b'Ron Spears',0.09
+Sinew Sliver,Creature,Sliver,Planar Chaos,Common,2,White,True,False,True,True,b'Steven Belledin',2.51
+Sunlance,Sorcery,None,Planar Chaos,Common,1,White,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.15
+Aquamorph Entity,Creature,Shapeshifter,Planar Chaos,Common,4,Blue,True,False,True,True,b'Brian Despain',0.06
+Auramancer's Guise,Enchantment,Aura,Planar Chaos,Uncommon,4,Blue,True,False,True,False,b'Greg Staples',0.85
+Body Double,Creature,Shapeshifter,Planar Chaos,Rare,5,Blue,True,False,True,True,b'Steve Prescott',1.01
+"Braids, Conjurer Adept",Legendary Creature,Human Wizard,Planar Chaos,Rare,4,Blue,True,False,True,False,b'Zoltan Boros',3.24
+Chronozoa,Creature,Illusion,Planar Chaos,Rare,4,Blue,True,False,True,False,b'James Wong',0.83
+Dismal Failure,Instant,None,Planar Chaos,Uncommon,4,Blue,True,False,True,False,b'Dan Scott',0.23
+Dreamscape Artist,Creature,Human Spellshaper,Planar Chaos,Common,2,Blue,True,False,True,True,b'Jim Murray',0.23
+Erratic Mutation,Instant,None,Planar Chaos,Common,3,Blue,True,False,True,True,b'Zoltan Boros',0.06
+Jodah's Avenger,Creature,Shapeshifter,Planar Chaos,Uncommon,6,Blue,True,False,True,False,b'Pete Venters',0.22
+Magus of the Bazaar,Creature,Human Wizard,Planar Chaos,Rare,2,Blue,True,False,True,True,b'Rob Alexander',0.42
+Pongify,Instant,None,Planar Chaos,Uncommon,1,Blue,True,False,True,True,b'Heather Hudson',3.59
+Reality Acid,Enchantment,Aura,Planar Chaos,Common,3,Blue,True,False,True,False,b'James Wong',0.43
+Shaper Parasite,Creature,Illusion,Planar Chaos,Common,3,Blue,True,False,True,True,b'rk post',0.08
+Spellshift,Instant,None,Planar Chaos,Rare,4,Blue,True,False,True,False,b'Stephen Tappin',0.28
+Synchronous Sliver,Creature,Sliver,Planar Chaos,Common,5,Blue,True,False,True,False,b'E. M. Gist',0.22
+Tidewalker,Creature,Elemental,Planar Chaos,Uncommon,3,Blue,True,False,True,False,b'Dave Kendall',0.08
+Timebender,Creature,Human Wizard,Planar Chaos,Uncommon,1,Blue,True,False,True,False,b'Zoltan Boros',0.29
+Venarian Glimmer,Instant,None,Planar Chaos,Uncommon,2,Blue,True,False,True,False,b'John Avon',0.12
+Wistful Thinking,Sorcery,None,Planar Chaos,Common,3,Blue,True,False,True,False,b'Brian Despain',0.13
+Frozen Aether,Enchantment,None,Planar Chaos,Uncommon,4,Blue,True,False,True,True,b'Dan Dos Santos',2.14
+Gossamer Phantasm,Creature,Illusion,Planar Chaos,Common,2,Blue,True,False,True,False,b'Jon Foster',0.06
+Merfolk Thaumaturgist,Creature,Merfolk Wizard,Planar Chaos,Common,3,Blue,True,False,True,False,b'Steve Prescott',0.12
+Ovinize,Instant,None,Planar Chaos,Uncommon,2,Blue,True,False,True,False,b'Terese Nielsen',0.22
+Piracy Charm,Instant,None,Planar Chaos,Common,1,Blue,True,False,True,False,b'John Avon',0.22
+Primal Plasma,Creature,Elemental Shapeshifter,Planar Chaos,Common,4,Blue,True,False,True,True,b'Luca Zontini',0.08
+Riptide Pilferer,Creature,Merfolk Rogue,Planar Chaos,Uncommon,2,Blue,True,False,True,False,b'Steve Prescott',0.2
+Serendib Sorcerer,Creature,Human Wizard,Planar Chaos,Rare,3,Blue,True,False,True,True,b'Dan Scott',0.29
+Serra Sphinx,Creature,Sphinx,Planar Chaos,Rare,5,Blue,True,False,True,False,b'Daren Bader',0.32
+Big Game Hunter,Creature,Human Rebel Assassin,Planar Chaos,Uncommon,3,Black,True,False,True,True,b'Carl Critchlow',0.55
+Blightspeaker,Creature,Human Rebel Cleric,Planar Chaos,Common,2,Black,True,False,True,True,b'Ron Spears',0.14
+Brain Gorgers,Creature,Zombie,Planar Chaos,Common,4,Black,True,False,True,False,b'Kev Walker',0.2
+Circle of Affliction,Enchantment,None,Planar Chaos,Uncommon,2,Black,True,False,True,False,b'Rob Alexander',0.21
+Cradle to Grave,Instant,None,Planar Chaos,Common,2,Black,True,False,True,False,b'Dave Kendall',0.08
+Dash Hopes,Instant,None,Planar Chaos,Common,2,Black,True,False,True,False,b'Zoltan Boros',0.64
+Deadly Grub,Creature,Insect,Planar Chaos,Common,3,Black,True,False,True,False,b'E. M. Gist',0.07
+Enslave,Enchantment,Aura,Planar Chaos,Uncommon,6,Black,True,False,True,True,b'Zoltan Boros',0.09
+Extirpate,Instant,None,Planar Chaos,Rare,1,Black,True,False,True,True,b'Jon Foster',4.68
+Imp's Mischief,Instant,None,Planar Chaos,Rare,2,Black,True,False,True,False,b'Thomas M. Baxa',8.68
+Magus of the Coffers,Creature,Human Wizard,Planar Chaos,Rare,5,Black,True,False,True,True,b'Don Hazeltine',3.56
+Midnight Charm,Instant,None,Planar Chaos,Common,1,Black,True,False,True,False,b'John Avon',0.12
+Mirri the Cursed,Legendary Creature,Vampire Cat,Planar Chaos,Rare,4,Black,True,False,True,False,b'Kev Walker',1.57
+Muck Drubb,Creature,Beast,Planar Chaos,Uncommon,5,Black,True,False,True,False,b'Jim Nelson',0.89
+Phantasmagorian,Creature,Horror,Planar Chaos,Uncommon,7,Black,True,False,True,False,b'Steve Ellis',0.37
+Ridged Kusite,Creature,Horror Spellshaper,Planar Chaos,Common,1,Black,True,False,True,False,b'rk post',0.07
+Spitting Sliver,Creature,Sliver,Planar Chaos,Common,5,Black,True,False,True,False,b'Steve Ellis',0.19
+Temporal Extortion,Sorcery,None,Planar Chaos,Rare,4,Black,True,False,True,False,b'Steven Belledin',8.32
+Treacherous Urge,Instant,None,Planar Chaos,Uncommon,5,Black,True,False,True,False,b'Steven Belledin',0.23
+Waning Wurm,Creature,Zombie Wurm,Planar Chaos,Uncommon,4,Black,True,False,True,False,b'Alan Pollack',0.14
+Bog Serpent,Creature,Serpent,Planar Chaos,Common,6,Black,True,False,True,False,b'Thomas M. Baxa',0.08
+Damnation,Sorcery,None,Planar Chaos,Rare,4,Black,True,False,True,True,b'Kev Walker',30.94
+Dunerider Outlaw,Creature,Human Rebel Rogue,Planar Chaos,Uncommon,2,Black,True,False,True,False,b'Alan Pollack',0.12
+Kor Dirge,Instant,None,Planar Chaos,Uncommon,3,Black,True,False,True,False,b'Alex Horley-Orlandelli',0.08
+Melancholy,Enchantment,Aura,Planar Chaos,Common,3,Black,True,False,True,False,b'Lars Grant-West',0.08
+Null Profusion,Enchantment,None,Planar Chaos,Rare,6,Black,True,False,True,False,b'Kev Walker',0.35
+Rathi Trapper,Creature,Human Rebel Rogue,Planar Chaos,Common,2,Black,True,False,True,True,b'Pete Venters',0.07
+Shrouded Lore,Sorcery,None,Planar Chaos,Uncommon,1,Black,True,False,True,True,b'Kev Walker',0.2
+Vampiric Link,Enchantment,Aura,Planar Chaos,Common,1,Black,True,False,True,False,b'Kev Walker',0.34
+Aether Membrane,Creature,Wall,Planar Chaos,Uncommon,3,Red,True,False,True,True,b'Zoltan Boros',0.69
+"Akroma, Angel of Fury",Legendary Creature,Angel,Planar Chaos,Rare,8,Red,True,False,True,True,b'Daren Bader',1.45
+Battering Sliver,Creature,Sliver,Planar Chaos,Common,6,Red,True,False,True,False,b'Greg Staples',0.27
+Dust Corona,Enchantment,Aura,Planar Chaos,Common,1,Red,True,False,True,False,b'Luca Zontini',0.17
+Fatal Frenzy,Instant,None,Planar Chaos,Rare,3,Red,True,False,True,False,b'Steve Ellis',0.4
+Firefright Mage,Creature,Goblin Spellshaper,Planar Chaos,Common,1,Red,True,False,True,False,b'Greg Staples',0.1
+Fury Charm,Instant,None,Planar Chaos,Common,2,Red,True,False,True,True,b'John Avon',0.11
+Hammerheim Deadeye,Creature,Giant Warrior,Planar Chaos,Uncommon,4,Red,True,False,True,True,b'Carl Critchlow',0.05
+Keldon Marauders,Creature,Human Warrior,Planar Chaos,Common,2,Red,True,False,True,True,b'Alex Horley-Orlandelli',0.22
+Lavacore Elemental,Creature,Elemental,Planar Chaos,Uncommon,3,Red,True,False,True,False,b'E. M. Gist',0.13
+Magus of the Arena,Creature,Human Wizard,Planar Chaos,Rare,6,Red,True,False,True,True,b'Thomas M. Baxa',0.17
+Needlepeak Spider,Creature,Spider,Planar Chaos,Common,4,Red,True,False,True,False,b'Dany Orizio',0.1
+Stingscourger,Creature,Goblin Warrior,Planar Chaos,Common,2,Red,True,False,True,True,b'Wayne Reynolds',0.16
+Sulfur Elemental,Creature,Elemental,Planar Chaos,Uncommon,3,Red,True,False,True,False,b'Dave Kendall',0.56
+Timecrafting,Instant,None,Planar Chaos,Uncommon,2,Red,True,False,True,False,b'Volkan Ba\xc7\xb5a',0.41
+Torchling,Creature,Shapeshifter,Planar Chaos,Rare,5,Red,True,False,True,True,b'rk post',0.29
+Volcano Hellion,Creature,Hellion,Planar Chaos,Rare,4,Red,True,False,True,False,b'Wayne Reynolds',0.62
+Boom,Sorcery,None,Planar Chaos,Rare,2,Red,True,False,True,False,b'John Avon',2.45
+Dead,Instant,None,Planar Chaos,Common,1,Red,True,False,True,False,b'Tomas Giorello',0.18
+Rough,Sorcery,None,Planar Chaos,Uncommon,2,Red,True,False,True,True,b'Luca Zontini',0.23
+Blood Knight,Creature,Human Knight,Planar Chaos,Uncommon,2,Red,True,False,True,True,b'Matt Cavotta',0.27
+Brute Force,Instant,None,Planar Chaos,Common,1,Red,True,False,True,True,b'Wayne Reynolds',0.23
+Molten Firebird,Creature,Phoenix,Planar Chaos,Rare,5,Red,True,False,True,False,b'Christopher Moeller',0.13
+Prodigal Pyromancer,Creature,Human Wizard,Planar Chaos,Common,3,Red,True,False,True,True,b'Jeremy Jarvis',0.1
+Pyrohemia,Enchantment,None,Planar Chaos,Uncommon,4,Red,True,False,True,True,b'Stephen Tappin',3.09
+Reckless Wurm,Creature,Wurm,Planar Chaos,Uncommon,5,Red,True,False,True,True,b'Greg Staples',0.19
+Shivan Wumpus,Creature,Beast,Planar Chaos,Rare,4,Red,True,False,True,False,b'Ron Spears',0.64
+Simian Spirit Guide,Creature,Ape Spirit,Planar Chaos,Common,3,Red,True,False,True,True,b'Dave DeVries',2.08
+Skirk Shaman,Creature,Goblin Shaman,Planar Chaos,Common,3,Red,True,False,True,True,b'Chippy',0.08
+Ana Battlemage,Creature,Human Wizard,Planar Chaos,Uncommon,3,Green,True,False,True,False,b'Jim Nelson',0.15
+Citanul Woodreaders,Creature,Human Druid,Planar Chaos,Common,3,Green,True,False,True,True,b'Steven Belledin',0.09
+Deadwood Treefolk,Creature,Treefolk,Planar Chaos,Uncommon,6,Green,True,False,True,True,b'Don Hazeltine',0.24
+Evolution Charm,Instant,None,Planar Chaos,Common,2,Green,True,False,True,True,b'John Avon',0.21
+Hunting Wilds,Sorcery,None,Planar Chaos,Uncommon,4,Green,True,False,True,True,b'Steve Ellis',0.29
+Jedit Ojanen of Efrava,Legendary Creature,Cat Warrior,Planar Chaos,Rare,6,Green,True,False,True,True,b'Carl Critchlow',0.44
+Kavu Predator,Creature,Kavu,Planar Chaos,Uncommon,2,Green,True,False,True,True,b'Dan Scott',0.18
+Life and Limb,Enchantment,None,Planar Chaos,Rare,4,Green,True,False,True,False,b'Jim Nelson',2.27
+Magus of the Library,Creature,Human Wizard,Planar Chaos,Rare,2,Green,True,False,True,False,b'Wayne Reynolds',0.35
+Mire Boa,Creature,Snake,Planar Chaos,Common,2,Green,True,False,True,False,b'Greg Hildebrandt',0.17
+Pouncing Wurm,Creature,Wurm,Planar Chaos,Uncommon,4,Green,True,False,True,False,"b""William O'Connor""",0.21
+Psychotrope Thallid,Creature,Fungus,Planar Chaos,Uncommon,3,Green,True,False,True,False,b'Dave Kendall',1.73
+Reflex Sliver,Creature,Sliver,Planar Chaos,Common,4,Green,True,False,True,False,b'Luca Zontini',0.23
+Sophic Centaur,Creature,Centaur Spellshaper,Planar Chaos,Uncommon,4,Green,True,False,True,False,b'Dan Dos Santos',0.04
+Timbermare,Creature,Elemental Horse,Planar Chaos,Rare,4,Green,True,False,True,False,b'Dan Dos Santos',0.33
+Uktabi Drake,Creature,Drake,Planar Chaos,Common,1,Green,True,False,True,False,b'Matt Cavotta',0.07
+Utopia Vow,Enchantment,Aura,Planar Chaos,Common,2,Green,True,False,True,False,b'Heather Hudson',0.16
+Vitaspore Thallid,Creature,Fungus,Planar Chaos,Common,2,Green,True,False,True,False,b'Christopher Moeller',0.21
+Wild Pair,Enchantment,None,Planar Chaos,Rare,6,Green,True,False,True,True,b'Mark Brill',2.57
+Essence Warden,Creature,Elf Shaman,Planar Chaos,Common,1,Green,True,False,True,True,b'Terese Nielsen',0.69
+Fa'adiyah Seer,Creature,Human Shaman,Planar Chaos,Common,2,Green,True,False,True,False,b'Heather Hudson',0.12
+Gaea's Anthem,Enchantment,None,Planar Chaos,Rare,3,Green,True,False,True,True,b'Greg Staples',0.45
+Groundbreaker,Creature,Elemental,Planar Chaos,Rare,3,Green,True,False,True,True,b'Matt Cavotta',2.71
+Harmonize,Sorcery,None,Planar Chaos,Uncommon,4,Green,True,False,True,True,b'Rob Alexander',0.88
+Healing Leaves,Instant,None,Planar Chaos,Common,1,Green,True,False,True,False,b'Michael Sutfin',0.11
+Hedge Troll,Creature,Troll Cleric,Planar Chaos,Uncommon,3,Green,True,False,True,True,b'Paolo Parente',0.14
+Keen Sense,Enchantment,Aura,Planar Chaos,Uncommon,1,Green,True,False,True,False,b'Jim Nelson',2.82
+Seal of Primordium,Enchantment,None,Planar Chaos,Common,2,Green,True,False,True,True,b'Christopher Moeller',0.3
+Cautery Sliver,Creature,Sliver,Planar Chaos,Uncommon,2,Gold,True,False,True,False,b'Dany Orizio',0.33
+Darkheart Sliver,Creature,Sliver,Planar Chaos,Uncommon,2,Gold,True,False,True,False,b'rk post',1.63
+Dormant Sliver,Creature,Sliver,Planar Chaos,Uncommon,4,Gold,True,False,True,False,b'Lars Grant-West',1.5
+Frenetic Sliver,Creature,Sliver,Planar Chaos,Uncommon,3,Gold,True,False,True,False,b'Luca Zontini',0.89
+"Intet, the Dreamer",Legendary Creature,Dragon,Planar Chaos,Rare,6,Gold,True,False,True,True,b'Dan Scott',0.79
+Necrotic Sliver,Creature,Sliver,Planar Chaos,Uncommon,3,Gold,True,False,True,True,b'Dave Allsop',5.11
+"Numot, the Devastator",Legendary Creature,Dragon,Planar Chaos,Rare,6,Gold,True,False,True,True,b'Dan Dos Santos',1.67
+"Oros, the Avenger",Legendary Creature,Dragon,Planar Chaos,Rare,6,Gold,True,False,True,True,b'Daren Bader',0.41
+"Radha, Heir to Keld",Legendary Creature,Elf Warrior,Planar Chaos,Rare,2,Gold,True,False,True,True,b'Jim Murray',1.06
+"Teneb, the Harvester",Legendary Creature,Dragon,Planar Chaos,Rare,6,Gold,True,False,True,True,b'Zoltan Boros',0.95
+"Vorosh, the Hunter",Legendary Creature,Dragon,Planar Chaos,Rare,6,Gold,True,False,True,True,b'Mark Zug',0.98
+"Urborg, Tomb of Yawgmoth",Legendary Land,None,Planar Chaos,Rare,0,Colorless,True,False,True,True,b'John Avon',23.85

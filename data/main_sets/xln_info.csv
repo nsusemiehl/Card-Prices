@@ -1,0 +1,290 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Adanto Vanguard,Creature,Vampire Soldier,Ixalan,Uncommon,2,White,True,False,True,True,b'Anna Steinbauer',0.22
+Ashes of the Abhorrent,Enchantment,None,Ixalan,Rare,2,White,True,False,True,True,b'Daarken',0.41
+Axis of Mortality,Enchantment,None,Ixalan,Mythic Rare,6,White,True,False,True,True,b'Bastien L. Deharme',0.55
+Bellowing Aegisaur,Creature,Dinosaur,Ixalan,Uncommon,6,White,True,False,True,False,b'Craig J Spearing',0.11
+Bishop of Rebirth,Creature,Vampire Cleric,Ixalan,Rare,5,White,True,False,True,True,b'Tommy Arnold',0.38
+Bishop's Soldier,Creature,Vampire Soldier,Ixalan,Common,2,White,True,False,True,False,b'Scott Murphy',0.11
+Bright Reprisal,Instant,None,Ixalan,Uncommon,5,White,True,False,True,True,b'Ryan Alexander Lee',0.03
+Demystify,Instant,None,Ixalan,Common,1,White,True,False,True,True,b'Igor Kieryluk',0.09
+Duskborne Skymarcher,Creature,Vampire Cleric,Ixalan,Uncommon,1,White,True,False,True,False,b'Seb McKinnon',0.12
+Emissary of Sunrise,Creature,Human Cleric,Ixalan,Uncommon,3,White,True,False,True,False,b'Deruchenko Alexander',0.07
+Encampment Keeper,Creature,Hound,Ixalan,Common,1,White,True,False,True,True,b'Craig J Spearing',0.05
+Glorifier of Dusk,Creature,Vampire Soldier,Ixalan,Uncommon,5,White,True,False,True,False,b'Viktor Titov',0.05
+Goring Ceratops,Creature,Dinosaur,Ixalan,Rare,7,White,True,False,True,True,b'Zezhou Chen',0.31
+Imperial Aerosaur,Creature,Dinosaur,Ixalan,Uncommon,4,White,True,False,True,False,b'Jesper Ejsing',0.1
+Imperial Lancer,Creature,Human Knight,Ixalan,Uncommon,1,White,True,False,True,False,b'Viktor Titov',0.07
+Inspiring Cleric,Creature,Vampire Cleric,Ixalan,Uncommon,3,White,True,False,True,False,b'Randy Gallegos',0.07
+Ixalan's Binding,Enchantment,None,Ixalan,Uncommon,4,White,True,False,True,False,b'Chase Stone',0.32
+Kinjalli's Caller,Creature,Human Cleric,Ixalan,Common,1,White,True,False,True,False,b'Sara Winters',0.13
+Kinjalli's Sunwing,Creature,Dinosaur,Ixalan,Rare,3,White,True,False,True,True,b'Simon Dominic',0.8
+Legion Conquistador,Creature,Vampire Soldier,Ixalan,Common,3,White,True,False,True,True,b'Sidharth Chaturvedi',0.06
+Legion's Judgment,Sorcery,None,Ixalan,Common,3,White,True,False,True,False,b'Lucas Graciano',0.07
+Legion's Landing,Legendary Enchantment,None,Ixalan,Rare,1,White,True,False,True,True,b'Svetlin Velinov',1.82
+Looming Altisaur,Creature,Dinosaur,Ixalan,Common,4,White,True,False,True,True,b'Lars Grant-West',0.08
+"Mavren Fein, Dusk Apostle",Legendary Creature,Vampire Cleric,Ixalan,Rare,3,White,True,False,True,True,b'Daarken',0.47
+Paladin of the Bloodstained,Creature,Vampire Knight,Ixalan,Common,4,White,True,False,True,True,b'Bastien L. Deharme',0.09
+Pious Interdiction,Enchantment,Aura,Ixalan,Common,4,White,True,False,True,False,b'Lake Hurwitz',0.03
+Priest of the Wakening Sun,Creature,Human Cleric,Ixalan,Rare,1,White,True,False,True,True,b'Bastien L. Deharme',0.28
+Pterodon Knight,Creature,Human Knight,Ixalan,Common,4,White,True,False,True,False,b'Anthony Palumbo',0.05
+Queen's Commission,Sorcery,None,Ixalan,Common,3,White,True,False,True,False,b'Mark Behm',0.08
+Rallying Roar,Instant,None,Ixalan,Uncommon,3,White,True,False,True,False,b'John Stanko',0.08
+Raptor Companion,Creature,Dinosaur,Ixalan,Common,2,White,True,False,True,True,b'Slawomir Maniak',0.03
+Ritual of Rejuvenation,Instant,None,Ixalan,Common,3,White,True,False,True,False,b'Bastien L. Deharme',0.11
+Sanguine Sacrament,Instant,None,Ixalan,Rare,3,White,True,False,True,True,b'Bastien L. Deharme',0.23
+Settle the Wreckage,Instant,None,Ixalan,Rare,4,White,True,False,True,True,b'Dimitar Marinski',2.87
+Sheltering Light,Instant,None,Ixalan,Uncommon,1,White,True,False,True,False,b'Gabor Szikszai',0.31
+Shining Aerosaur,Creature,Dinosaur,Ixalan,Common,5,White,True,False,True,True,b'Dan Scott',0.04
+Skyblade of the Legion,Creature,Vampire Soldier,Ixalan,Common,2,White,True,False,True,False,b'Daarken',0.04
+Slash of Talons,Instant,None,Ixalan,Common,1,White,True,False,True,True,b'Magali Villeneuve',0.02
+Steadfast Armasaur,Creature,Dinosaur,Ixalan,Uncommon,4,White,True,False,True,False,b'Greg Opalinski',0.06
+Sunrise Seeker,Creature,Human Scout,Ixalan,Common,5,White,True,False,True,True,b'Filip Burburan',0.01
+Territorial Hammerskull,Creature,Dinosaur,Ixalan,Common,3,White,True,False,True,True,b'Lars Grant-West',0.1
+Tocatli Honor Guard,Creature,Human Soldier,Ixalan,Rare,2,White,True,False,True,True,b'Sara Winters',0.38
+Vampire's Zeal,Instant,None,Ixalan,Common,1,White,True,False,True,False,b'Gabor Szikszai',0.06
+Wakening Sun's Avatar,Creature,Dinosaur Avatar,Ixalan,Mythic Rare,8,White,True,False,True,True,b'Tyler Jacobson',2.32
+Air Elemental,Creature,Elemental,Ixalan,Uncommon,5,Blue,True,True,True,True,b'Tomasz Jedruszek',0.03
+Arcane Adaptation,Enchantment,None,Ixalan,Rare,3,Blue,True,False,True,True,b'Mark Behm',1.41
+Cancel,Instant,None,Ixalan,Common,3,Blue,True,False,True,True,b'Mathias Kollros',0.08
+Chart a Course,Sorcery,None,Ixalan,Uncommon,2,Blue,True,False,True,True,b'James Ryman',0.5
+Daring Saboteur,Creature,Human Pirate,Ixalan,Rare,2,Blue,True,False,True,True,b'Victor Adame Minguez',0.22
+Deadeye Quartermaster,Creature,Human Pirate,Ixalan,Uncommon,4,Blue,True,False,True,False,b'Josh Hass',0.13
+Deeproot Waters,Enchantment,None,Ixalan,Uncommon,3,Blue,True,False,True,False,b'Zezhou Chen',0.26
+Depths of Desire,Instant,None,Ixalan,Common,3,Blue,True,False,True,False,b'John Stanko',0.07
+Dive Down,Instant,None,Ixalan,Common,1,Blue,True,False,True,False,b'Magali Villeneuve',0.19
+Dreamcaller Siren,Creature,Siren Pirate,Ixalan,Rare,4,Blue,True,False,True,True,b'Eric Deschamps',0.18
+Entrancing Melody,Sorcery,None,Ixalan,Rare,3,Blue,True,False,True,True,b'Winona Nelson',0.38
+Favorable Winds,Enchantment,None,Ixalan,Uncommon,2,Blue,True,False,True,True,b'Shreya Shetty',0.29
+Fleet Swallower,Creature,Fish,Ixalan,Rare,7,Blue,True,False,True,True,b'Tomasz Jedruszek',0.47
+Headwater Sentries,Creature,Merfolk Warrior,Ixalan,Common,4,Blue,True,False,True,False,b'Naomi Baker',0.02
+Herald of Secret Streams,Creature,Merfolk Warrior,Ixalan,Rare,4,Blue,True,False,True,True,b'Sara Winters',1.09
+"Jace, Cunning Castaway",Legendary Planeswalker,Jace,Ixalan,Mythic Rare,3,Blue,True,False,True,True,b'Kieran Yanner',1.26
+"Kopala, Warden of Waves",Legendary Creature,Merfolk Wizard,Ixalan,Rare,3,Blue,True,False,True,True,b'Magali Villeneuve',0.44
+Lookout's Dispersal,Instant,None,Ixalan,Uncommon,3,Blue,True,False,True,False,b'Ryan Yee',0.17
+Navigator's Ruin,Enchantment,None,Ixalan,Uncommon,3,Blue,True,False,True,False,b'Zoltan Boros',0.06
+One With the Wind,Enchantment,Aura,Ixalan,Common,2,Blue,True,False,True,False,b'Naomi Baker',0.04
+Opt,Instant,None,Ixalan,Common,1,Blue,True,True,True,True,b'Craig J Spearing',0.15
+Overflowing Insight,Sorcery,None,Ixalan,Mythic Rare,7,Blue,True,False,True,True,b'Lucas Graciano',0.55
+Perilous Voyage,Instant,None,Ixalan,Uncommon,2,Blue,True,False,True,False,b'Wesley Burt',0.07
+Pirate's Prize,Sorcery,None,Ixalan,Common,4,Blue,True,False,True,False,b'Deruchenko Alexander',0.07
+Prosperous Pirates,Creature,Human Pirate,Ixalan,Common,5,Blue,True,False,True,True,b'Josh Hass',0.06
+River Sneak,Creature,Merfolk Warrior,Ixalan,Uncommon,2,Blue,True,False,True,False,b'Slawomir Maniak',0.12
+River's Rebuke,Sorcery,None,Ixalan,Rare,6,Blue,True,False,True,True,b'Raymond Swanland',0.95
+Run Aground,Instant,None,Ixalan,Common,4,Blue,True,False,True,False,b'Sara Winters',0.03
+Sailor of Means,Creature,Human Pirate,Ixalan,Common,3,Blue,True,False,True,True,b'Ryan Pancoast',0.04
+Search for Azcanta,Legendary Enchantment,None,Ixalan,Rare,2,Blue,True,False,True,True,b'Magali Villeneuve',5.79
+Shaper Apprentice,Creature,Merfolk Wizard,Ixalan,Common,2,Blue,True,False,True,False,b'Yongjae Choi',0.06
+Shipwreck Looter,Creature,Human Pirate,Ixalan,Common,2,Blue,True,False,True,True,b'Wayne Reynolds',0.04
+Shore Keeper,Creature,Trilobite,Ixalan,Common,1,Blue,True,False,True,False,b'YW Tang',0.03
+Siren Lookout,Creature,Siren Pirate,Ixalan,Common,3,Blue,True,False,True,False,b'Chris Rallis',0.05
+Siren Stormtamer,Creature,Siren Pirate Wizard,Ixalan,Uncommon,1,Blue,True,False,True,False,b'Josu Hernaiz',2.05
+Siren's Ruse,Instant,None,Ixalan,Common,2,Blue,True,False,True,False,b'Ben Maier',0.14
+Spell Pierce,Instant,None,Ixalan,Common,1,Blue,True,False,True,True,b'Deruchenko Alexander',0.26
+Spell Swindle,Instant,None,Ixalan,Rare,5,Blue,True,False,True,True,b'Victor Adame Minguez',1.14
+Storm Fleet Aerialist,Creature,Human Pirate,Ixalan,Uncommon,2,Blue,True,False,True,False,b'Jesper Ejsing',0.08
+Storm Fleet Spy,Creature,Human Pirate,Ixalan,Uncommon,3,Blue,True,False,True,False,b'Scott Murphy',0.05
+Storm Sculptor,Creature,Merfolk Wizard,Ixalan,Common,4,Blue,True,False,True,True,b'Sidharth Chaturvedi',0.04
+Tempest Caller,Creature,Merfolk Wizard,Ixalan,Uncommon,4,Blue,True,False,True,False,b'Ryan Alexander Lee',0.11
+Watertrap Weaver,Creature,Merfolk Wizard,Ixalan,Common,3,Blue,True,False,True,False,b'Josu Hernaiz',0.08
+Wind Strider,Creature,Merfolk Wizard,Ixalan,Common,5,Blue,True,False,True,True,b'Magali Villeneuve',0.01
+Anointed Deacon,Creature,Vampire Cleric,Ixalan,Common,5,Black,True,False,True,False,b'Winona Nelson',0.05
+Arguel's Blood Fast,Legendary Enchantment,None,Ixalan,Rare,2,Black,True,False,True,True,b'Daarken',0.34
+Bishop of the Bloodstained,Creature,Vampire Cleric,Ixalan,Uncommon,5,Black,True,False,True,False,b'Yongjae Choi',0.14
+Blight Keeper,Creature,Bat Imp,Ixalan,Common,1,Black,True,False,True,False,b'Ben Wootten',0.03
+Bloodcrazed Paladin,Creature,Vampire Knight,Ixalan,Rare,2,Black,True,False,True,True,b'Daarken',0.29
+Boneyard Parley,Sorcery,None,Ixalan,Mythic Rare,7,Black,True,False,True,True,b'James Ryman',0.28
+Contract Killing,Sorcery,None,Ixalan,Common,5,Black,True,False,True,False,b'Winona Nelson',0.06
+Costly Plunder,Instant,None,Ixalan,Common,2,Black,True,False,True,True,b'Ben Maier',0.15
+Dark Nourishment,Instant,None,Ixalan,Uncommon,5,Black,True,False,True,False,b'Josh Hass',0.07
+Deadeye Tormentor,Creature,Human Pirate,Ixalan,Common,3,Black,True,False,True,True,b'Eric Deschamps',0.03
+Deadeye Tracker,Creature,Human Pirate,Ixalan,Rare,1,Black,True,False,True,True,b'Deruchenko Alexander',0.34
+Deathless Ancient,Creature,Vampire Knight,Ixalan,Uncommon,6,Black,True,False,True,False,b'Nils Hamm',0.05
+Desperate Castaways,Creature,Human Pirate,Ixalan,Common,2,Black,True,False,True,True,b'Zoltan Boros',0.05
+Dire Fleet Hoarder,Creature,Human Pirate,Ixalan,Common,2,Black,True,False,True,False,b'Deruchenko Alexander',0.08
+Dire Fleet Interloper,Creature,Human Pirate,Ixalan,Common,4,Black,True,False,True,False,b'John Severin Brassell',0.06
+Dire Fleet Ravager,Creature,Orc Pirate Wizard,Ixalan,Mythic Rare,5,Black,True,False,True,True,b'Bram Sels',1.03
+Duress,Sorcery,None,Ixalan,Common,1,Black,True,True,True,True,b'Lucas Graciano',0.08
+Fathom Fleet Captain,Creature,Human Pirate,Ixalan,Rare,2,Black,True,False,True,True,b'Matt Stewart',0.3
+Fathom Fleet Cutthroat,Creature,Human Pirate,Ixalan,Common,4,Black,True,True,True,True,b'Josu Hernaiz',0.02
+Grim Captain's Call,Sorcery,None,Ixalan,Uncommon,3,Black,True,False,True,False,b'Winona Nelson',0.07
+Heartless Pillage,Sorcery,None,Ixalan,Uncommon,3,Black,True,False,True,False,b'Sara Winters',0.09
+Kitesail Freebooter,Creature,Human Pirate,Ixalan,Uncommon,2,Black,True,False,True,False,b'Dan Scott',0.42
+Lurking Chupacabra,Creature,Beast Horror,Ixalan,Uncommon,4,Black,True,False,True,False,b'YW Tang',0.06
+March of the Drowned,Sorcery,None,Ixalan,Common,1,Black,True,False,True,True,b'Ben Wootten',0.08
+Mark of the Vampire,Enchantment,Aura,Ixalan,Common,4,Black,True,False,True,True,b'Yongjae Choi',0.05
+Queen's Agent,Creature,Vampire Scout,Ixalan,Common,6,Black,True,False,True,True,b'Winona Nelson',0.02
+Queen's Bay Soldier,Creature,Vampire Soldier,Ixalan,Common,2,Black,True,False,True,False,b'Jesper Ejsing',0.03
+Raiders' Wake,Enchantment,None,Ixalan,Uncommon,4,Black,True,False,True,False,b'Zack Stella',0.31
+Revel in Riches,Enchantment,None,Ixalan,Rare,5,Black,True,False,True,True,b'Eric Deschamps',2.39
+Ruin Raider,Creature,Orc Pirate,Ixalan,Rare,3,Black,True,False,True,True,b'Kieran Yanner',0.23
+Ruthless Knave,Creature,Orc Pirate,Ixalan,Uncommon,3,Black,True,False,True,False,b'Aaron Miller',0.13
+Sanctum Seeker,Creature,Vampire Knight,Ixalan,Rare,4,Black,True,False,True,True,b'Volkan Ba\xc7\xb5a',1.35
+Seekers' Squire,Creature,Human Scout,Ixalan,Uncommon,2,Black,True,False,True,False,b'Anthony Palumbo',0.08
+Skittering Heartstopper,Creature,Insect,Ixalan,Common,1,Black,True,False,True,False,b'Aaron Miller',0.03
+Skulduggery,Instant,None,Ixalan,Common,1,Black,True,False,True,False,b'Deruchenko Alexander',0.02
+Skymarch Bloodletter,Creature,Vampire Soldier,Ixalan,Common,3,Black,True,False,True,True,b'Tomasz Jedruszek',0.07
+Spreading Rot,Sorcery,None,Ixalan,Common,5,Black,True,False,True,True,b'Yeong-Hao Han',0.02
+Sword-Point Diplomacy,Sorcery,None,Ixalan,Rare,3,Black,True,False,True,True,b'Eric Deschamps',0.21
+Vanquish the Weak,Instant,None,Ixalan,Common,3,Black,True,False,True,False,b'David Palumbo',0.04
+Vicious Conquistador,Creature,Vampire Soldier,Ixalan,Uncommon,1,Black,True,False,True,False,b'Kieran Yanner',0.32
+Vraska's Contempt,Instant,None,Ixalan,Rare,4,Black,True,False,True,True,b'Clint Cearley',1.23
+Walk the Plank,Sorcery,None,Ixalan,Uncommon,2,Black,True,False,True,True,b'Kieran Yanner',0.13
+Wanted Scoundrels,Creature,Human Pirate,Ixalan,Uncommon,2,Black,True,False,True,False,b'Volkan Ba\xc7\xb5a',0.08
+Angrath's Marauders,Creature,Human Pirate,Ixalan,Rare,7,Red,True,False,True,True,b'Victor Adame Minguez',0.3
+Bonded Horncrest,Creature,Dinosaur,Ixalan,Uncommon,4,Red,True,False,True,False,b'Jesper Ejsing',0.05
+Brazen Buccaneers,Creature,Human Pirate,Ixalan,Common,4,Red,True,False,True,True,b'Joseph Meehan',0.06
+Burning Sun's Avatar,Creature,Dinosaur Avatar,Ixalan,Rare,6,Red,True,False,True,True,b'Randy Vargas',0.25
+Captain Lannery Storm,Legendary Creature,Human Pirate,Ixalan,Rare,3,Red,True,False,True,True,b'Chris Rallis',0.4
+Captivating Crew,Creature,Human Pirate,Ixalan,Rare,4,Red,True,False,True,True,b'Winona Nelson',0.4
+Charging Monstrosaur,Creature,Dinosaur,Ixalan,Uncommon,5,Red,True,False,True,True,b'Zack Stella',0.14
+Demolish,Sorcery,None,Ixalan,Common,4,Red,True,True,True,True,b'Jesper Ejsing',0.04
+Dinosaur Stampede,Instant,None,Ixalan,Uncommon,3,Red,True,False,True,False,b'Bram Sels',0.12
+Dual Shot,Instant,None,Ixalan,Common,1,Red,True,False,True,True,b'Sara Winters',0.09
+Fathom Fleet Firebrand,Creature,Human Pirate,Ixalan,Common,2,Red,True,False,True,False,b'Zezhou Chen',0.04
+Fiery Cannonade,Instant,None,Ixalan,Uncommon,3,Red,True,False,True,False,b'Ben Wootten',0.11
+Fire Shrine Keeper,Creature,Elemental,Ixalan,Common,1,Red,True,False,True,False,b'Zoltan Boros',0.03
+Firecannon Blast,Sorcery,None,Ixalan,Common,3,Red,True,False,True,False,b'Svetlin Velinov',0.03
+Frenzied Raptor,Creature,Dinosaur,Ixalan,Common,3,Red,True,True,True,True,b'Jesper Ejsing',0.06
+Headstrong Brute,Creature,Orc Pirate,Ixalan,Common,3,Red,True,False,True,False,b'Yongjae Choi',0.05
+Hijack,Sorcery,None,Ixalan,Common,3,Red,True,False,True,True,b'Svetlin Velinov',0.07
+Lightning Strike,Instant,None,Ixalan,Uncommon,2,Red,True,False,True,True,b'Craig J Spearing',0.12
+Lightning-Rig Crew,Creature,Goblin Pirate,Ixalan,Uncommon,3,Red,True,False,True,False,b'Filip Burburan',0.1
+Makeshift Munitions,Enchantment,None,Ixalan,Uncommon,2,Red,True,False,True,False,b'Filip Burburan',0.08
+Nest Robber,Creature,Dinosaur,Ixalan,Common,2,Red,True,False,True,False,b'Jonathan Kuo',0.08
+Otepec Huntmaster,Creature,Human Shaman,Ixalan,Uncommon,2,Red,True,False,True,False,b'Daarken',0.56
+Rampaging Ferocidon,Creature,Dinosaur,Ixalan,Rare,3,Red,True,False,True,True,b'Jonathan Kuo',3.89
+Raptor Hatchling,Creature,Dinosaur,Ixalan,Uncommon,2,Red,True,False,True,False,b'Even Amundsen',0.19
+Repeating Barrage,Sorcery,None,Ixalan,Rare,3,Red,True,False,True,True,b'Dan Scott',0.14
+Rigging Runner,Creature,Goblin Pirate,Ixalan,Uncommon,1,Red,True,False,True,False,b'Simon Dominic',0.12
+Rile,Sorcery,None,Ixalan,Common,1,Red,True,False,True,False,b'Igor Kieryluk',0.12
+Rowdy Crew,Creature,Human Pirate,Ixalan,Mythic Rare,4,Red,True,False,True,True,b'Steve Prescott',0.28
+Rummaging Goblin,Creature,Goblin Rogue,Ixalan,Common,3,Red,True,False,True,True,b'Slawomir Maniak',0.11
+Star of Extinction,Sorcery,None,Ixalan,Mythic Rare,7,Red,True,False,True,True,b'Chris Rahn',2.14
+Storm Fleet Arsonist,Creature,Orc Pirate,Ixalan,Uncommon,5,Red,True,False,True,False,b'Jason A. Engle',0.06
+Storm Fleet Pyromancer,Creature,Human Pirate Wizard,Ixalan,Common,5,Red,True,False,True,False,b'Kieran Yanner',0.02
+Sun-Crowned Hunters,Creature,Dinosaur,Ixalan,Common,6,Red,True,False,True,True,b'Aaron Miller',0.11
+Sunbird's Invocation,Enchantment,None,Ixalan,Rare,6,Red,True,False,True,True,b'Christine Choi',1.58
+Sure Strike,Instant,None,Ixalan,Common,2,Red,True,True,True,True,b'Izzy',0.02
+Swashbuckling,Enchantment,Aura,Ixalan,Common,2,Red,True,False,True,True,b'Josu Hernaiz',0.03
+Thrash of Raptors,Creature,Dinosaur,Ixalan,Common,4,Red,True,False,True,False,b'Jonathan Kuo',0.1
+Tilonalli's Knight,Creature,Human Knight,Ixalan,Common,2,Red,True,False,True,False,b'Lius Lasahido',0.03
+Tilonalli's Skinshifter,Creature,Human Shaman,Ixalan,Rare,3,Red,True,False,True,True,b'Jason Rainville',0.13
+Trove of Temptation,Enchantment,None,Ixalan,Uncommon,4,Red,True,False,True,False,b'Jonas De Ro',0.09
+Unfriendly Fire,Instant,None,Ixalan,Common,5,Red,True,False,True,False,b'Josu Hernaiz',0.02
+Vance's Blasting Cannons,Legendary Enchantment,None,Ixalan,Rare,4,Red,True,False,True,True,b'Jonas De Ro',0.32
+Wily Goblin,Creature,Goblin Pirate,Ixalan,Uncommon,2,Red,True,False,True,False,b'Steve Prescott',0.24
+Ancient Brontodon,Creature,Dinosaur,Ixalan,Common,8,Green,True,False,True,True,b'Jakub Kasper',0.08
+Atzocan Archer,Creature,Human Archer,Ixalan,Uncommon,3,Green,True,False,True,False,b'Naomi Baker',0.04
+Blinding Fog,Instant,None,Ixalan,Common,3,Green,True,False,True,False,b'Igor Kieryluk',0.09
+Blossom Dryad,Creature,Dryad,Ixalan,Common,3,Green,True,False,True,True,b'Shreya Shetty',0.06
+Carnage Tyrant,Creature,Dinosaur,Ixalan,Mythic Rare,6,Green,True,False,True,True,b'Yeong-Hao Han',8.54
+Colossal Dreadmaw,Creature,Dinosaur,Ixalan,Common,6,Green,True,False,True,True,b'Jesper Ejsing',0.05
+Commune with Dinosaurs,Sorcery,None,Ixalan,Common,1,Green,True,False,True,False,b'Jonathan Kuo',0.24
+Crash the Ramparts,Instant,None,Ixalan,Common,3,Green,True,False,True,False,b'Mark Behm',0.04
+Crushing Canopy,Instant,None,Ixalan,Common,3,Green,True,True,True,True,b'Tomasz Jedruszek',0.06
+Deathgorge Scavenger,Creature,Dinosaur,Ixalan,Rare,3,Green,True,False,True,True,b'Tyler Jacobson',0.41
+Deeproot Champion,Creature,Merfolk Shaman,Ixalan,Rare,2,Green,True,False,True,True,b'Raymond Swanland',0.26
+Deeproot Warrior,Creature,Merfolk Warrior,Ixalan,Common,2,Green,True,False,True,False,b'Slawomir Maniak',0.03
+Drover of the Mighty,Creature,Human Druid,Ixalan,Uncommon,2,Green,True,False,True,False,b'Eric Deschamps',0.28
+Emergent Growth,Sorcery,None,Ixalan,Uncommon,4,Green,True,False,True,False,b'Daniel Ljunggren',0.05
+Emperor's Vanguard,Creature,Human Scout,Ixalan,Rare,4,Green,True,False,True,True,b'Victor Adame Minguez',0.14
+Grazing Whiptail,Creature,Dinosaur,Ixalan,Common,4,Green,True,False,True,True,b'Gabor Szikszai',0.07
+Growing Rites of Itlimoc,Legendary Enchantment,None,Ixalan,Rare,3,Green,True,False,True,True,b'Grzegorz Rutkowski',11.41
+Ixalli's Diviner,Creature,Human Druid,Ixalan,Common,2,Green,True,False,True,False,b'Lucas Graciano',0.06
+Ixalli's Keeper,Creature,Human Shaman,Ixalan,Common,2,Green,True,False,True,False,b'Lake Hurwitz',0.04
+Jade Guardian,Creature,Merfolk Shaman,Ixalan,Common,4,Green,True,False,True,False,b'Chris Seaman',0.08
+Jungle Delver,Creature,Merfolk Warrior,Ixalan,Common,1,Green,True,False,True,True,b'Kieran Yanner',0.03
+Kumena's Speaker,Creature,Merfolk Shaman,Ixalan,Uncommon,1,Green,True,False,True,False,b'Johann Bodin',0.12
+Merfolk Branchwalker,Creature,Merfolk Scout,Ixalan,Uncommon,2,Green,True,False,True,False,b'Kieran Yanner',0.24
+New Horizons,Enchantment,Aura,Ixalan,Common,3,Green,True,True,True,True,b'Noah Bradley',0.1
+Old-Growth Dryads,Creature,Dryad,Ixalan,Rare,1,Green,True,False,True,True,b'Yongjae Choi',0.16
+Pounce,Instant,None,Ixalan,Common,2,Green,True,False,True,False,b'Lucas Graciano',0.13
+Ranging Raptors,Creature,Dinosaur,Ixalan,Uncommon,3,Green,True,False,True,True,b'Simon Dominic',0.51
+Ravenous Daggertooth,Creature,Dinosaur,Ixalan,Common,3,Green,True,False,True,False,b'Jakub Kasper',0.09
+Ripjaw Raptor,Creature,Dinosaur,Ixalan,Rare,4,Green,True,False,True,True,b'Ryan Pancoast',1.57
+River Heralds' Boon,Instant,None,Ixalan,Common,2,Green,True,False,True,False,b'Alex Konstad',0.09
+Savage Stomp,Sorcery,None,Ixalan,Uncommon,3,Green,True,False,True,False,b'Wayne Reynolds',0.2
+Shapers' Sanctuary,Enchantment,None,Ixalan,Rare,1,Green,True,False,True,True,b'Zezhou Chen',1.0
+Slice in Twain,Instant,None,Ixalan,Uncommon,4,Green,True,False,True,True,b'Even Amundsen',0.05
+Snapping Sailback,Creature,Dinosaur,Ixalan,Uncommon,5,Green,True,False,True,True,b'Dan Scott',0.22
+Spike-Tailed Ceratops,Creature,Dinosaur,Ixalan,Common,5,Green,True,False,True,False,b'Lius Lasahido',0.04
+Thundering Spineback,Creature,Dinosaur,Ixalan,Uncommon,7,Green,True,False,True,True,b'Tomasz Jedruszek',0.16
+Tishana's Wayfinder,Creature,Merfolk Scout,Ixalan,Common,3,Green,True,False,True,False,b'Shreya Shetty',0.07
+Verdant Rebirth,Instant,None,Ixalan,Uncommon,2,Green,True,False,True,False,b'Josu Hernaiz',0.07
+Verdant Sun's Avatar,Creature,Dinosaur Avatar,Ixalan,Rare,7,Green,True,False,True,True,b'Izzy',0.79
+Vineshaper Mystic,Creature,Merfolk Shaman,Ixalan,Uncommon,3,Green,True,False,True,False,b'Kieran Yanner',0.1
+Waker of the Wilds,Creature,Merfolk Shaman,Ixalan,Rare,4,Green,True,False,True,True,b'Shreya Shetty',0.16
+Wildgrowth Walker,Creature,Elemental,Ixalan,Uncommon,2,Green,True,False,True,False,b'Ryan Alexander Lee',0.11
+Admiral Beckett Brass,Legendary Creature,Human Pirate,Ixalan,Mythic Rare,4,Gold,True,False,True,True,b'Jason Rainville',0.66
+Belligerent Brontodon,Creature,Dinosaur,Ixalan,Uncommon,7,Gold,True,False,True,True,b'Dan Scott',0.11
+Call to the Feast,Sorcery,None,Ixalan,Uncommon,4,Gold,True,False,True,False,b'Yongjae Choi',0.15
+Deadeye Plunderers,Creature,Human Pirate,Ixalan,Uncommon,5,Gold,True,False,True,False,b'Greg Opalinski',0.12
+Dire Fleet Captain,Creature,Orc Pirate,Ixalan,Uncommon,2,Gold,True,False,True,False,b'Yongjae Choi',0.14
+"Gishath, Sun's Avatar",Legendary Creature,Dinosaur Avatar,Ixalan,Mythic Rare,8,Gold,True,False,True,True,b'Zack Stella',9.16
+Hostage Taker,Creature,Human Pirate,Ixalan,Rare,4,Gold,True,False,True,True,b'Wayne Reynolds',2.93
+"Huatli, Warrior Poet",Legendary Planeswalker,Huatli,Ixalan,Mythic Rare,5,Gold,True,False,True,True,b'Tyler Jacobson',1.69
+Marauding Looter,Creature,Human Pirate,Ixalan,Uncommon,4,Gold,True,False,True,False,b'Jason A. Engle',0.06
+Raging Swordtooth,Creature,Dinosaur,Ixalan,Uncommon,5,Gold,True,False,True,True,b'Izzy',0.18
+Regisaur Alpha,Creature,Dinosaur,Ixalan,Rare,5,Gold,True,False,True,True,b'Jonathan Kuo',0.88
+Shapers of Nature,Creature,Merfolk Shaman,Ixalan,Uncommon,3,Gold,True,False,True,False,b'Chris Seaman',0.11
+Sky Terror,Creature,Dinosaur,Ixalan,Uncommon,2,Gold,True,False,True,False,b'Johann Bodin',0.18
+"Tishana, Voice of Thunder",Legendary Creature,Merfolk Shaman,Ixalan,Mythic Rare,7,Gold,True,False,True,True,b'Anna Steinbauer',2.11
+"Vona, Butcher of Magan",Legendary Creature,Vampire Knight,Ixalan,Mythic Rare,5,Gold,True,False,True,True,b'Volkan Ba\xc7\xb5a',3.07
+"Vraska, Relic Seeker",Legendary Planeswalker,Vraska,Ixalan,Mythic Rare,6,Gold,True,False,True,True,b'Chris Rahn',1.67
+Cobbled Wings,Artifact,Equipment,Ixalan,Common,2,Colorless,True,False,True,True,b'Kev Walker',0.1
+Conqueror's Galleon,Artifact,Vehicle,Ixalan,Rare,4,Colorless,True,False,True,True,b'Emrah Elmasli',0.48
+Dowsing Dagger,Artifact,Equipment,Ixalan,Rare,2,Colorless,True,False,True,True,b'Florian de Gesincourt',1.16
+Dusk Legion Dreadnought,Artifact,Vehicle,Ixalan,Uncommon,5,Colorless,True,False,True,False,b'Titus Lunter',0.09
+Elaborate Firecannon,Artifact,None,Ixalan,Uncommon,2,Colorless,True,False,True,False,b'Adrian Majkrzak',0.06
+Fell Flagship,Artifact,Vehicle,Ixalan,Rare,3,Colorless,True,False,True,True,b'Titus Lunter',0.24
+Gilded Sentinel,Artifact Creature,Golem,Ixalan,Common,4,Colorless,True,False,True,False,b'Izzy',0.04
+Hierophant's Chalice,Artifact,None,Ixalan,Common,3,Colorless,True,False,True,False,b'John Stanko',0.08
+Pillar of Origins,Artifact,None,Ixalan,Uncommon,2,Colorless,True,False,True,False,b'Dimitar Marinski',0.98
+Pirate's Cutlass,Artifact,Equipment,Ixalan,Common,3,Colorless,True,False,True,False,b'John Stanko',0.07
+Primal Amulet,Artifact,None,Ixalan,Rare,4,Colorless,True,False,True,True,b'John Avon',6.26
+Prying Blade,Artifact,Equipment,Ixalan,Common,1,Colorless,True,False,True,False,b'Aaron Miller',0.16
+Sentinel Totem,Artifact,None,Ixalan,Uncommon,1,Colorless,True,False,True,False,b'Anthony Palumbo',0.14
+Shadowed Caravel,Artifact,Vehicle,Ixalan,Rare,2,Colorless,True,False,True,True,b'Jason Felix',0.15
+Sleek Schooner,Artifact,Vehicle,Ixalan,Uncommon,3,Colorless,True,False,True,False,b'Mark Winters',0.1
+Sorcerous Spyglass,Artifact,None,Ixalan,Rare,2,Colorless,True,True,True,True,b'Kieran Yanner',0.49
+Thaumatic Compass,Artifact,None,Ixalan,Rare,2,Colorless,True,False,True,True,b'Yeong-Hao Han',2.28
+Treasure Map,Artifact,None,Ixalan,Rare,2,Colorless,True,False,True,True,b'Cliff Childs',1.6
+Vanquisher's Banner,Artifact,None,Ixalan,Rare,5,Colorless,True,False,True,True,b'Milivoj \xc4\x86eran',8.25
+Dragonskull Summit,Land,None,Ixalan,Rare,0,Colorless,True,False,True,True,b'Alayna Danner',2.66
+Drowned Catacomb,Land,None,Ixalan,Rare,0,Colorless,True,False,True,True,b'Jung Park',5.59
+Field of Ruin,Land,None,Ixalan,Uncommon,0,Colorless,True,True,True,True,b'Dimitar Marinski',0.47
+Glacial Fortress,Land,None,Ixalan,Rare,0,Colorless,True,False,True,True,b'James Paick',5.3
+Rootbound Crag,Land,None,Ixalan,Rare,0,Colorless,True,False,True,True,b'Grzegorz Rutkowski',3.41
+Sunpetal Grove,Land,None,Ixalan,Rare,0,Colorless,True,False,True,True,b'Dimitar Marinski',3.52
+Unclaimed Territory,Land,None,Ixalan,Uncommon,0,Colorless,True,False,True,True,b'Dimitar Marinski',1.7
+Unknown Shores,Land,None,Ixalan,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.09
+Plains,Basic Land,Plains,Ixalan,Common,0,Colorless,True,True,True,True,b'Christine Choi',0.07
+Plains,Basic Land,Plains,Ixalan,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.08
+Plains,Basic Land,Plains,Ixalan,Common,0,Colorless,True,True,True,True,b'Raoul Vitale',0.08
+Plains,Basic Land,Plains,Ixalan,Common,0,Colorless,True,True,True,True,b'Min Yum',0.09
+Island,Basic Land,Island,Ixalan,Common,0,Colorless,True,True,True,True,b'Christine Choi',0.22
+Island,Basic Land,Island,Ixalan,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.12
+Island,Basic Land,Island,Ixalan,Common,0,Colorless,True,True,True,True,b'Raoul Vitale',0.07
+Island,Basic Land,Island,Ixalan,Common,0,Colorless,True,True,True,True,b'Min Yum',0.07
+Swamp,Basic Land,Swamp,Ixalan,Common,0,Colorless,True,True,True,True,b'Christine Choi',0.08
+Swamp,Basic Land,Swamp,Ixalan,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.09
+Swamp,Basic Land,Swamp,Ixalan,Common,0,Colorless,True,True,True,True,b'Raoul Vitale',0.07
+Swamp,Basic Land,Swamp,Ixalan,Common,0,Colorless,True,True,True,True,b'Min Yum',0.08
+Mountain,Basic Land,Mountain,Ixalan,Common,0,Colorless,True,True,True,True,b'Christine Choi',0.18
+Mountain,Basic Land,Mountain,Ixalan,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.07
+Mountain,Basic Land,Mountain,Ixalan,Common,0,Colorless,True,True,True,True,b'Raoul Vitale',0.07
+Mountain,Basic Land,Mountain,Ixalan,Common,0,Colorless,True,True,True,True,b'Min Yum',0.1
+Forest,Basic Land,Forest,Ixalan,Common,0,Colorless,True,True,True,True,b'Christine Choi',0.08
+Forest,Basic Land,Forest,Ixalan,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.11
+Forest,Basic Land,Forest,Ixalan,Common,0,Colorless,True,True,True,True,b'Raoul Vitale',0.08
+Forest,Basic Land,Forest,Ixalan,Common,0,Colorless,True,True,True,True,b'Min Yum',0.09
+"Jace, Ingenious Mind-Mage",Legendary Planeswalker,Jace,Ixalan,Mythic Rare,6,Blue,True,False,True,False,b'Clint Cearley',2.28
+Castaway's Despair,Enchantment,Aura,Ixalan,Common,4,Blue,True,False,True,True,b'Chris Rahn',0.1
+Grasping Current,Sorcery,None,Ixalan,Rare,5,Blue,True,False,True,False,b'Yongjae Choi',0.17
+Jace's Sentinel,Creature,Merfolk Warrior,Ixalan,Uncommon,2,Blue,True,False,True,False,b'Alex Konstad',0.14
+Woodland Stream,Land,None,Ixalan,Common,0,Colorless,True,False,True,True,b'James Paick',0.09
+"Huatli, Dinosaur Knight",Legendary Planeswalker,Huatli,Ixalan,Mythic Rare,6,Gold,True,False,True,False,b'Anna Steinbauer',2.79
+Huatli's Snubhorn,Creature,Dinosaur,Ixalan,Common,2,White,True,False,True,False,b'Randy Vargas',0.27
+Huatli's Spurring,Instant,None,Ixalan,Uncommon,1,Red,True,False,True,False,b'Zack Stella',0.12
+Sun-Blessed Mount,Creature,Dinosaur,Ixalan,Rare,5,Gold,True,False,True,False,b'Joe Slucher',0.35
+Stone Quarry,Land,None,Ixalan,Common,0,Colorless,True,False,True,True,b'Noah Bradley',0.16

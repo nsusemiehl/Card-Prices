@@ -1,0 +1,81 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Argivian Archaeologist,Creature,Human Artificer,Antiquities,Rare,3,White,False,False,True,True,b'Amy Weber',56.98
+Argivian Blacksmith,Creature,Human Artificer,Antiquities,Common,3,White,False,False,True,True,b'Kerstin Kaman',0.39
+Artifact Ward,Enchantment,Aura,Antiquities,Common,1,White,False,False,True,False,b'Douglas Shuler',0.39
+Circle of Protection: Artifacts,Enchantment,None,Antiquities,Uncommon,2,White,True,False,True,True,b'Pete Venters',1.78
+Damping Field,Enchantment,None,Antiquities,Uncommon,3,White,False,False,True,False,b'Justin Hampton',4.5
+Martyrs of Korlis,Creature,Human,Antiquities,Uncommon,5,White,False,False,True,True,b'Margaret Organ-Kean',3.02
+Reverse Polarity,Instant,None,Antiquities,Common,2,White,False,False,True,True,b'Justin Hampton',0.26
+Drafna's Restoration,Sorcery,None,Antiquities,Common,1,Blue,False,False,True,True,b'Amy Weber',2.12
+Energy Flux,Enchantment,None,Antiquities,Uncommon,3,Blue,False,False,True,True,b'Kaja Foglio',5.23
+Hurkyl's Recall,Instant,None,Antiquities,Rare,2,Blue,True,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',54.2
+Power Artifact,Enchantment,Aura,Antiquities,Uncommon,2,Blue,False,False,True,True,b'Douglas Shuler',31.0
+Reconstruction,Sorcery,None,Antiquities,Common,1,Blue,False,False,True,True,b'Anson Maddocks',0.78
+Sage of Lat-Nam,Creature,Human Artificer,Antiquities,Common,2,Blue,True,False,True,True,b'Pete Venters',0.94
+Transmute Artifact,Sorcery,None,Antiquities,Uncommon,2,Blue,False,False,True,True,b'Anson Maddocks',39.13
+Artifact Possession,Enchantment,Aura,Antiquities,Common,3,Black,False,False,True,False,b'Christopher Rush',0.54
+Gate to Phyrexia,Enchantment,None,Antiquities,Uncommon,2,Black,False,False,True,True,b'Sandra Everingham',36.67
+Haunting Wind,Enchantment,None,Antiquities,Uncommon,4,Black,False,False,True,False,b'Jeff A. Menges',5.39
+Phyrexian Gremlins,Creature,Gremlin,Antiquities,Common,3,Black,False,False,True,False,b'Amy Weber',0.57
+Priest of Yawgmoth,Creature,Human Cleric,Antiquities,Common,2,Black,False,False,True,False,b'Mark Tedin',0.9
+Xenic Poltergeist,Creature,Spirit,Antiquities,Uncommon,3,Black,False,False,True,True,b'Dan Frazier',1.92
+Yawgmoth Demon,Creature,Demon,Antiquities,Rare,6,Black,True,False,True,True,b'Sandra Everingham',12.42
+Artifact Blast,Instant,None,Antiquities,Common,1,Red,False,False,True,True,b'Mark Poole',0.74
+Atog,Creature,Atog,Antiquities,Common,2,Red,True,False,True,True,b'Jesper Myrfors',1.62
+Detonate,Sorcery,None,Antiquities,Uncommon,2,Red,True,False,True,True,b'Randy Asplund-Faith',3.49
+Dwarven Weaponsmith,Creature,Dwarf Artificer,Antiquities,Uncommon,2,Red,False,False,True,True,b'Mark Poole',1.01
+Goblin Artisans,Creature,Goblin Artificer,Antiquities,Uncommon,1,Red,False,False,True,True,b'Julie Baroh',1.62
+Orcish Mechanics,Creature,Orc,Antiquities,Common,3,Red,False,False,True,True,b'Pete Venters',0.4
+Shatterstorm,Sorcery,None,Antiquities,Rare,4,Red,True,False,True,True,b'Mark Poole',24.15
+Argothian Pixies,Creature,Faerie,Antiquities,Common,2,Green,False,False,True,True,b'Amy Weber',1.32
+Argothian Treefolk,Creature,Treefolk,Antiquities,Common,5,Green,False,False,True,True,b'Amy Weber',0.76
+Citanul Druid,Creature,Human Druid,Antiquities,Uncommon,2,Green,False,False,True,True,b'Jeff A. Menges',5.21
+Crumble,Instant,None,Antiquities,Common,1,Green,False,False,True,True,b'Jesper Myrfors',1.04
+Gaea's Avenger,Creature,Treefolk,Antiquities,Rare,3,Green,False,False,True,True,b'Pete Venters',22.33
+Powerleech,Enchantment,None,Antiquities,Uncommon,2,Green,False,False,True,False,b'Christopher Rush',4.2
+Titania's Song,Enchantment,None,Antiquities,Uncommon,4,Green,False,False,True,True,b'Kerstin Kaman',2.38
+Amulet of Kroog,Artifact,None,Antiquities,Common,2,Colorless,False,False,True,True,b'Margaret Organ-Kean',0.31
+Armageddon Clock,Artifact,None,Antiquities,Uncommon,6,Colorless,False,False,True,True,b'Amy Weber',3.6
+Ashnod's Altar,Artifact,None,Antiquities,Uncommon,3,Colorless,False,False,True,True,b'Anson Maddocks',15.14
+Ashnod's Battle Gear,Artifact,None,Antiquities,Uncommon,2,Colorless,False,False,True,True,b'Mark Poole',1.85
+Ashnod's Transmogrant,Artifact,None,Antiquities,Uncommon,1,Colorless,False,False,True,True,b'Mark Tedin',1.94
+Battering Ram,Artifact Creature,Construct,Antiquities,Common,2,Colorless,False,False,True,True,b'Jeff A. Menges',0.31
+Bronze Tablet,Artifact,None,Antiquities,Rare,6,Colorless,False,False,False,True,b'Tom W\xc3\xa4nerstrand',6.52
+Candelabra of Tawnos,Artifact,None,Antiquities,Rare,1,Colorless,False,False,True,True,b'Douglas Shuler',25.78
+Clay Statue,Artifact Creature,Golem,Antiquities,Common,4,Colorless,False,False,True,True,b'Jesper Myrfors',0.46
+Clockwork Avian,Artifact Creature,Bird,Antiquities,Rare,5,Colorless,False,False,True,True,b'Randy Asplund-Faith',9.56
+Colossus of Sardia,Artifact Creature,Golem,Antiquities,Rare,9,Colorless,True,False,True,True,b'Jesper Myrfors',12.92
+Coral Helm,Artifact,None,Antiquities,Rare,3,Colorless,False,False,True,True,b'Amy Weber',5.88
+Cursed Rack,Artifact,None,Antiquities,Uncommon,4,Colorless,False,False,True,True,b'Richard Thomas',2.28
+Dragon Engine,Artifact Creature,Construct,Antiquities,Common,3,Colorless,False,False,True,True,b'Anson Maddocks',0.59
+Feldon's Cane,Artifact,None,Antiquities,Uncommon,1,Colorless,True,False,True,True,b'Mark Tedin',4.77
+Golgothian Sylex,Artifact,None,Antiquities,Rare,4,Colorless,False,False,True,False,b'Kerstin Kaman',14.3
+Grapeshot Catapult,Artifact Creature,Construct,Antiquities,Common,4,Colorless,False,False,True,True,b'Dan Frazier',0.43
+Ivory Tower,Artifact,None,Antiquities,Uncommon,1,Colorless,False,False,True,True,b'Margaret Organ-Kean',17.49
+Jalum Tome,Artifact,None,Antiquities,Uncommon,3,Colorless,False,False,True,True,b'Tom W\xc3\xa4nerstrand',4.49
+Mightstone,Artifact,None,Antiquities,Uncommon,4,Colorless,False,False,True,True,b'Pete Venters',4.69
+Millstone,Artifact,None,Antiquities,Uncommon,2,Colorless,True,False,True,True,b'Kaja Foglio',6.57
+Mishra's War Machine,Artifact Creature,Juggernaut,Antiquities,Rare,7,Colorless,False,False,True,True,b'Amy Weber',5.16
+Obelisk of Undoing,Artifact,None,Antiquities,Rare,1,Colorless,False,False,True,True,b'Tom W\xc3\xa4nerstrand',7.08
+Onulet,Artifact Creature,Construct,Antiquities,Uncommon,3,Colorless,False,False,True,True,b'Anson Maddocks',1.22
+Ornithopter,Artifact Creature,Thopter,Antiquities,Common,0,Colorless,True,False,True,True,b'Amy Weber',2.26
+Primal Clay,Artifact Creature,Shapeshifter,Antiquities,Uncommon,4,Colorless,True,False,True,True,b'Kaja Foglio',1.64
+Rakalite,Artifact,None,Antiquities,Uncommon,6,Colorless,False,False,True,True,b'Christopher Rush',1.35
+Rocket Launcher,Artifact,None,Antiquities,Uncommon,4,Colorless,False,False,True,True,b'Pete Venters',2.61
+Shapeshifter,Artifact Creature,Shapeshifter,Antiquities,Rare,6,Colorless,False,False,True,True,b'Dan Frazier',7.0
+Staff of Zegon,Artifact,None,Antiquities,Common,4,Colorless,False,False,True,True,b'Mark Poole',0.31
+Su-Chi,Artifact Creature,Construct,Antiquities,Uncommon,4,Colorless,False,False,True,True,b'Christopher Rush',33.74
+Tablet of Epityr,Artifact,None,Antiquities,Common,1,Colorless,False,False,True,True,b'Christopher Rush',0.43
+Tawnos's Coffin,Artifact,None,Antiquities,Rare,4,Colorless,False,False,True,True,b'Christopher Rush',73.4
+Tawnos's Wand,Artifact,None,Antiquities,Uncommon,4,Colorless,False,False,True,True,b'Douglas Shuler',1.33
+Tawnos's Weaponry,Artifact,None,Antiquities,Uncommon,2,Colorless,False,False,True,True,b'Dan Frazier',1.4
+Tetravus,Artifact Creature,Construct,Antiquities,Rare,6,Colorless,False,False,True,True,b'Mark Tedin',21.32
+The Rack,Artifact,None,Antiquities,Uncommon,1,Colorless,True,False,True,True,b'Richard Thomas',11.35
+Triskelion,Artifact Creature,Construct,Antiquities,Rare,6,Colorless,True,False,True,True,b'Douglas Shuler',49.56
+Urza's Avenger,Artifact Creature,Shapeshifter,Antiquities,Rare,6,Colorless,False,False,True,True,b'Amy Weber',6.01
+Urza's Chalice,Artifact,None,Antiquities,Common,1,Colorless,False,False,True,True,b'Jeff A. Menges',0.7
+Urza's Miter,Artifact,None,Antiquities,Rare,3,Colorless,False,False,True,True,b'Randy Asplund-Faith',17.1
+Wall of Spears,Artifact Creature,Wall,Antiquities,Uncommon,3,Colorless,True,False,True,True,b'Sandra Everingham',1.55
+Weakstone,Artifact,None,Antiquities,Uncommon,4,Colorless,False,False,True,True,b'Justin Hampton',3.53
+Yotian Soldier,Artifact Creature,Soldier,Antiquities,Common,3,Colorless,True,False,True,True,b'Christopher Rush',0.53
+Mishra's Workshop,Land,None,Antiquities,Rare,0,Colorless,False,False,True,True,b'Kaja Foglio',49.99

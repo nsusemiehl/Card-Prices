@@ -1,0 +1,351 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Angelic Page,Creature,Angel Spirit,Seventh Edition,Common,2,White,True,False,True,True,b'Marc Fishman',0.11
+Ardent Militia,Creature,Human Soldier,Seventh Edition,Uncommon,5,White,True,False,True,True,b'Paolo Parente',0.1
+Blessed Reversal,Instant,None,Seventh Edition,Rare,2,White,True,False,True,True,b'Christopher Moeller',0.26
+Breath of Life,Sorcery,None,Seventh Edition,Uncommon,4,White,False,False,True,True,b'Roger Raupp',0.28
+Castle,Enchantment,None,Seventh Edition,Uncommon,4,White,False,False,True,True,"b'Edward P. Beard, Jr.'",0.18
+Circle of Protection: Black,Enchantment,None,Seventh Edition,Common,2,White,True,False,True,True,b'Mark Romanoski',0.09
+Circle of Protection: Blue,Enchantment,None,Seventh Edition,Common,2,White,True,False,True,True,b'Greg Hildebrandt',0.05
+Circle of Protection: Green,Enchantment,None,Seventh Edition,Common,2,White,True,False,True,True,b'Alan Pollack',0.06
+Circle of Protection: Red,Enchantment,None,Seventh Edition,Common,2,White,True,False,True,True,b'Gary Ruddell',0.19
+Circle of Protection: White,Enchantment,None,Seventh Edition,Common,2,White,True,False,True,True,b'Darrell Riche',0.08
+Cloudchaser Eagle,Creature,Bird,Seventh Edition,Common,4,White,False,False,True,True,b'Aaron Boyd',0.21
+Crossbow Infantry,Creature,Human Soldier Archer,Seventh Edition,Common,2,White,True,False,True,True,b'James Bernardin',0.06
+Disenchant,Instant,None,Seventh Edition,Common,2,White,True,True,True,True,b'Andrew Goldhawk',0.17
+Eager Cadet,Creature,Human Soldier,Seventh Edition,Common,1,White,True,False,True,True,b'Greg Hildebrandt',0.05
+Elite Archers,Creature,Human Soldier Archer,Seventh Edition,Rare,6,White,True,False,True,True,b'Dan Frazier',0.16
+Gerrard's Wisdom,Sorcery,None,Seventh Edition,Uncommon,4,White,False,False,True,True,b'Donato Giancola',0.18
+Glorious Anthem,Enchantment,None,Seventh Edition,Rare,3,White,True,False,True,True,b'Terese Nielsen',0.91
+Healing Salve,Instant,None,Seventh Edition,Common,1,White,True,False,True,True,b'Greg Hildebrandt',0.05
+Heavy Ballista,Creature,Human Soldier,Seventh Edition,Uncommon,4,White,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.11
+Holy Strength,Enchantment,Aura,Seventh Edition,Common,1,White,True,False,True,True,b'Scott M. Fischer',0.05
+Honor Guard,Creature,Human Soldier,Seventh Edition,Common,1,White,True,False,True,True,b'Mark Zug',0.05
+Intrepid Hero,Creature,Human Soldier,Seventh Edition,Rare,3,White,True,False,True,True,b'Mike Ploog',0.42
+Kjeldoran Royal Guard,Creature,Human Soldier,Seventh Edition,Rare,5,White,True,False,True,True,b'Carl Critchlow',0.11
+Knight Errant,Creature,Human Knight,Seventh Edition,Common,2,White,False,False,True,True,b'Matthew D. Wilson',0.09
+Knighthood,Enchantment,None,Seventh Edition,Uncommon,3,White,False,False,True,True,b'Greg Hildebrandt',0.28
+Longbow Archer,Creature,Human Soldier Archer,Seventh Edition,Uncommon,2,White,False,False,True,True,b'Ray Lago',0.2
+Master Healer,Creature,Human Cleric,Seventh Edition,Rare,5,White,True,False,True,True,b'Greg Hildebrandt',0.18
+Northern Paladin,Creature,Human Knight,Seventh Edition,Rare,4,White,False,False,True,True,b'Carl Critchlow',0.59
+Pacifism,Enchantment,Aura,Seventh Edition,Common,2,White,True,True,True,True,b'Eric Peterson',0.13
+Pariah,Enchantment,Aura,Seventh Edition,Rare,3,White,True,False,True,True,b'Scott M. Fischer',1.32
+Purify,Sorcery,None,Seventh Edition,Rare,5,White,False,False,True,True,b'Doug Chaffee',0.29
+Razorfoot Griffin,Creature,Griffin,Seventh Edition,Common,4,White,True,False,True,True,b'Pete Venters',0.05
+Reprisal,Instant,None,Seventh Edition,Uncommon,2,White,True,False,True,True,b'Ciruelo',0.15
+Reverse Damage,Instant,None,Seventh Edition,Rare,3,White,True,False,True,True,b'Eric Peterson',0.17
+Rolling Stones,Enchantment,None,Seventh Edition,Rare,2,White,True,False,True,True,b'Don Hazeltine',0.98
+Sacred Ground,Enchantment,None,Seventh Edition,Rare,2,White,True,False,True,True,b'Gary Ruddell',0.34
+Sacred Nectar,Sorcery,None,Seventh Edition,Common,2,White,True,False,True,True,b'Dana Knutson',0.09
+Samite Healer,Creature,Human Cleric,Seventh Edition,Common,2,White,True,False,True,True,b'Anson Maddocks',0.04
+Sanctimony,Enchantment,None,Seventh Edition,Uncommon,2,White,True,False,True,True,b'Patrick Faricy',0.07
+Seasoned Marshal,Creature,Human Soldier,Seventh Edition,Uncommon,4,White,True,False,True,True,"b'Edward P. Beard, Jr.'",0.15
+Serra Advocate,Creature,Angel,Seventh Edition,Uncommon,4,White,False,False,True,True,b'Matthew D. Wilson',0.2
+Serra Angel,Creature,Angel,Seventh Edition,Rare,5,White,True,False,True,True,b'Mark Zug',0.7
+Serra's Embrace,Enchantment,Aura,Seventh Edition,Uncommon,4,White,True,False,True,True,b'Ciruelo',0.1
+Shield Wall,Instant,None,Seventh Edition,Common,2,White,False,False,True,True,b'Adam Rex',0.06
+Skyshroud Falcon,Creature,Bird,Seventh Edition,Common,2,White,False,False,True,True,b'Anson Maddocks',0.14
+Southern Paladin,Creature,Human Knight,Seventh Edition,Rare,4,White,False,False,True,True,b'Greg Staples',0.35
+Spirit Link,Enchantment,Aura,Seventh Edition,Uncommon,1,White,True,False,True,True,b'Daren Bader',0.44
+Standing Troops,Creature,Human Soldier,Seventh Edition,Common,3,White,True,False,True,True,b'Gary Ruddell',0.05
+Starlight,Sorcery,None,Seventh Edition,Uncommon,2,White,False,False,True,True,b'Brian Despain',0.09
+Staunch Defenders,Creature,Human Soldier,Seventh Edition,Uncommon,5,White,True,False,True,True,b'Tristan Elwell',0.12
+Sunweb,Creature,Wall,Seventh Edition,Rare,4,White,True,False,True,True,b'Greg Staples',0.21
+Sustainer of the Realm,Creature,Angel,Seventh Edition,Uncommon,4,White,False,False,True,True,b'Mark Zug',0.12
+Venerable Monk,Creature,Human Monk Cleric,Seventh Edition,Common,3,White,True,False,True,True,b'Mark Brill',0.02
+Vengeance,Sorcery,None,Seventh Edition,Uncommon,4,White,True,False,True,True,b'Paolo Parente',0.05
+Wall of Swords,Creature,Wall,Seventh Edition,Uncommon,4,White,True,False,True,True,b'Hannibal King',0.05
+Worship,Enchantment,None,Seventh Edition,Rare,4,White,True,False,True,True,b'rk post',1.87
+Wrath of God,Sorcery,None,Seventh Edition,Rare,4,White,True,False,True,True,b'Kev Walker',9.04
+Air Elemental,Creature,Elemental,Seventh Edition,Uncommon,5,Blue,True,True,True,True,b'Wayne England',0.1
+Ancestral Memories,Sorcery,None,Seventh Edition,Rare,5,Blue,False,False,True,True,b'Rebecca Guay',0.27
+Arcane Laboratory,Enchantment,None,Seventh Edition,Uncommon,3,Blue,False,False,True,True,b'Brian Sn\xc3\xb5ddy',1.14
+Archivist,Creature,Human Wizard,Seventh Edition,Rare,4,Blue,True,False,True,True,b'Donato Giancola',0.38
+Baleful Stare,Sorcery,None,Seventh Edition,Uncommon,3,Blue,True,False,True,True,b'Eric Peterson',0.09
+Benthic Behemoth,Creature,Serpent,Seventh Edition,Rare,8,Blue,False,False,True,True,b'Heather Hudson',0.65
+Boomerang,Instant,None,Seventh Edition,Common,2,Blue,True,False,True,True,b'Rebecca Guay',0.18
+Confiscate,Enchantment,Aura,Seventh Edition,Uncommon,6,Blue,True,False,True,True,b'Christopher Moeller',0.21
+Coral Merfolk,Creature,Merfolk,Seventh Edition,Common,2,Blue,True,True,True,True,b'Rebecca Guay',0.06
+Counterspell,Instant,None,Seventh Edition,Common,2,Blue,False,False,True,True,b'Mark Romanoski',1.06
+Daring Apprentice,Creature,Human Wizard,Seventh Edition,Rare,3,Blue,True,False,True,True,b'Dany Orizio',0.23
+Deflection,Instant,None,Seventh Edition,Rare,4,Blue,True,False,True,True,b'Jeff Easley',0.24
+Delusions of Mediocrity,Enchantment,None,Seventh Edition,Rare,4,Blue,False,False,True,True,b'Terese Nielsen',0.37
+Equilibrium,Enchantment,None,Seventh Edition,Rare,3,Blue,False,False,True,True,b'Don Hazeltine',8.64
+Evacuation,Instant,None,Seventh Edition,Rare,5,Blue,True,False,True,True,b'Darrell Riche',4.04
+Fighting Drake,Creature,Drake,Seventh Edition,Uncommon,4,Blue,True,False,True,True,b'Matt Cavotta',0.06
+Fleeting Image,Creature,Illusion,Seventh Edition,Rare,3,Blue,True,False,True,True,b'Dave Dorman',0.18
+Flight,Enchantment,Aura,Seventh Edition,Common,1,Blue,True,False,True,True,b'Bradley Williams',0.03
+Force Spike,Instant,None,Seventh Edition,Common,1,Blue,False,False,True,True,b'Nelson DeCastro',0.22
+Giant Octopus,Creature,Octopus,Seventh Edition,Common,4,Blue,True,False,True,True,b'Heather Hudson',0.07
+Glacial Wall,Creature,Wall,Seventh Edition,Uncommon,3,Blue,False,False,True,True,b'Heather Hudson',0.22
+Hibernation,Instant,None,Seventh Edition,Uncommon,3,Blue,True,False,True,True,b'Matt Cavotta',0.2
+Horned Turtle,Creature,Turtle,Seventh Edition,Common,3,Blue,True,False,True,True,"b'Edward P. Beard, Jr.'",0.05
+Inspiration,Instant,None,Seventh Edition,Common,4,Blue,True,False,True,True,b'Matt Cavotta',0.07
+Levitation,Enchantment,None,Seventh Edition,Uncommon,4,Blue,True,False,True,True,b'John Matson',0.19
+Lord of Atlantis,Creature,Merfolk,Seventh Edition,Rare,2,Blue,True,False,True,True,b'Greg Staples',4.8
+Mahamoti Djinn,Creature,Djinn,Seventh Edition,Rare,6,Blue,True,False,True,True,b'Eric Peterson',0.29
+Mana Breach,Enchantment,None,Seventh Edition,Uncommon,3,Blue,False,False,True,True,b'Gary Ruddell',2.66
+Mana Short,Instant,None,Seventh Edition,Rare,3,Blue,False,False,True,True,b'Greg Staples',0.7
+Mawcor,Creature,Beast,Seventh Edition,Rare,5,Blue,False,False,True,True,b'Kev Walker',0.34
+Memory Lapse,Instant,None,Seventh Edition,Common,2,Blue,False,False,True,True,b'Tristan Elwell',0.15
+Merfolk Looter,Creature,Merfolk Rogue,Seventh Edition,Uncommon,2,Blue,True,False,True,True,b'Tristan Elwell',0.25
+Merfolk of the Pearl Trident,Creature,Merfolk,Seventh Edition,Common,1,Blue,True,False,True,True,b'Ray Lago',0.03
+Opportunity,Instant,None,Seventh Edition,Uncommon,6,Blue,True,False,True,True,b'Patrick Faricy',0.15
+Opposition,Enchantment,None,Seventh Edition,Rare,4,Blue,False,False,True,True,b'Mark Brill',4.4
+Phantom Warrior,Creature,Illusion Warrior,Seventh Edition,Uncommon,3,Blue,True,True,True,True,b'Greg Staples',0.08
+Prodigal Sorcerer,Creature,Human Wizard,Seventh Edition,Common,3,Blue,True,False,True,True,b'Tony Szczudlo',0.17
+Remove Soul,Instant,None,Seventh Edition,Common,2,Blue,True,False,True,True,b'Adam Rex',0.09
+Sage Owl,Creature,Bird,Seventh Edition,Common,2,Blue,True,False,True,True,b'Mark Brill',0.09
+Sea Monster,Creature,Serpent,Seventh Edition,Common,6,Blue,True,False,True,True,b'John Howe',0.15
+Sleight of Hand,Sorcery,None,Seventh Edition,Common,1,Blue,True,False,True,True,b'Christopher Moeller',0.53
+Steal Artifact,Enchantment,Aura,Seventh Edition,Uncommon,4,Blue,True,False,True,True,b'Peter Bollinger',0.22
+Storm Crow,Creature,Bird,Seventh Edition,Common,2,Blue,True,False,True,True,b'John Matson',0.12
+Telepathic Spies,Creature,Human Wizard,Seventh Edition,Common,3,Blue,False,False,True,True,b'Jim Nelson',0.06
+Telepathy,Enchantment,None,Seventh Edition,Uncommon,1,Blue,True,False,True,True,b'Mark Tedin',0.4
+Temporal Adept,Creature,Human Wizard,Seventh Edition,Rare,3,Blue,True,False,True,True,b'Roger Raupp',0.39
+Thieving Magpie,Creature,Bird,Seventh Edition,Uncommon,4,Blue,True,False,True,True,b'Christopher Moeller',0.17
+Tolarian Winds,Instant,None,Seventh Edition,Common,2,Blue,False,False,True,True,b'Bob Petillo',0.33
+Treasure Trove,Enchantment,None,Seventh Edition,Uncommon,4,Blue,True,False,True,True,b'Brian Despain',0.15
+Twiddle,Instant,None,Seventh Edition,Common,1,Blue,True,False,True,True,b'Rebecca Guay',0.21
+Unsummon,Instant,None,Seventh Edition,Common,1,Blue,True,True,True,True,b'Ron Spencer',0.16
+Vigilant Drake,Creature,Drake,Seventh Edition,Common,5,Blue,False,False,True,True,b'Dave Dorman',0.04
+Vizzerdrix,Creature,Rabbit Beast,Seventh Edition,Rare,7,Blue,True,False,True,True,b'Dave Dorman',0.13
+Wall of Air,Creature,Wall,Seventh Edition,Uncommon,3,Blue,True,False,True,True,b'John Avon',0.25
+Wall of Wonder,Creature,Wall,Seventh Edition,Rare,4,Blue,False,False,True,True,b'Carl Critchlow',0.15
+Wind Dancer,Creature,Faerie,Seventh Edition,Uncommon,2,Blue,False,False,True,True,b'Rob Alexander',0.11
+Wind Drake,Creature,Drake,Seventh Edition,Common,3,Blue,True,False,True,True,b'Tom W\xc3\xa4nerstrand',0.04
+Abyssal Horror,Creature,Horror,Seventh Edition,Rare,6,Black,False,False,True,True,b'Daren Bader',0.15
+Abyssal Specter,Creature,Specter,Seventh Edition,Uncommon,4,Black,True,False,True,True,b'Michael Sutfin',0.09
+Agonizing Memories,Sorcery,None,Seventh Edition,Uncommon,4,Black,True,False,True,True,b'Adam Rex',0.08
+Befoul,Sorcery,None,Seventh Edition,Uncommon,4,Black,True,False,True,True,b'Ciruelo',0.17
+Bellowing Fiend,Creature,Spirit,Seventh Edition,Rare,5,Black,False,False,True,True,b'Chippy',0.2
+Bereavement,Enchantment,None,Seventh Edition,Uncommon,2,Black,False,False,True,True,b'Marc Fishman',0.22
+Blood Pet,Creature,Thrull,Seventh Edition,Common,1,Black,False,False,True,True,b'Heather Hudson',0.2
+Bog Imp,Creature,Imp,Seventh Edition,Common,2,Black,True,False,True,True,b'Carl Critchlow',0.05
+Bog Wraith,Creature,Wraith,Seventh Edition,Uncommon,4,Black,True,False,True,True,b'Dave Dorman',0.09
+Corrupt,Sorcery,None,Seventh Edition,Common,6,Black,True,False,True,True,b'Scott M. Fischer',0.1
+Crypt Rats,Creature,Rat,Seventh Edition,Uncommon,3,Black,True,False,True,True,b'Matt Cavotta',0.26
+Dakmor Lancer,Creature,Human Knight,Seventh Edition,Uncommon,6,Black,False,False,True,True,b'Luca Zontini',0.21
+Dark Banishing,Instant,None,Seventh Edition,Common,3,Black,True,False,True,True,b'Rebecca Guay',0.1
+Darkest Hour,Enchantment,None,Seventh Edition,Rare,1,Black,False,False,True,True,b'Ciruelo',5.21
+Dregs of Sorrow,Sorcery,None,Seventh Edition,Rare,3,Black,False,False,True,True,b'Massimilano Frezzato',0.42
+Drudge Skeletons,Creature,Skeleton,Seventh Edition,Common,2,Black,True,False,True,True,b'Jim Nelson',0.14
+Duress,Sorcery,None,Seventh Edition,Common,1,Black,True,True,True,True,b'Pete Venters',0.35
+Eastern Paladin,Creature,Zombie Knight,Seventh Edition,Rare,4,Black,True,False,True,True,b'Kev Walker',0.31
+Engineered Plague,Enchantment,None,Seventh Edition,Uncommon,3,Black,False,False,True,True,b'Andrew Goldhawk',0.26
+Fallen Angel,Creature,Angel,Seventh Edition,Rare,5,Black,True,False,True,True,b'Arnie Swekel',0.24
+Fear,Enchantment,Aura,Seventh Edition,Common,2,Black,True,False,True,True,b'Adam Rex',0.13
+Foul Imp,Creature,Imp,Seventh Edition,Uncommon,2,Black,True,False,True,True,b'Kev Walker',0.06
+Fugue,Sorcery,None,Seventh Edition,Uncommon,5,Black,False,False,True,True,b'Alan Pollack',0.07
+Giant Cockroach,Creature,Insect,Seventh Edition,Common,4,Black,True,False,True,True,b'John Matson',0.1
+Gravedigger,Creature,Zombie,Seventh Edition,Common,4,Black,True,True,True,True,b'James Bernardin',0.05
+Greed,Enchantment,None,Seventh Edition,Rare,4,Black,False,False,True,True,b'Peter Bollinger',3.13
+Hollow Dogs,Creature,Zombie Hound,Seventh Edition,Common,5,Black,True,False,True,True,b'Arnie Swekel',0.19
+Howl from Beyond,Instant,None,Seventh Edition,Common,2,Black,False,False,True,True,b'Dave Dorman',0.11
+Infernal Contract,Sorcery,None,Seventh Edition,Rare,3,Black,False,False,True,True,b'Pete Venters',0.32
+Leshrac's Rite,Enchantment,Aura,Seventh Edition,Uncommon,1,Black,False,False,True,True,b'rk post',0.12
+Looming Shade,Creature,Shade,Seventh Edition,Common,3,Black,True,False,True,True,b'Kev Walker',0.06
+Megrim,Enchantment,None,Seventh Edition,Uncommon,3,Black,True,False,True,True,b'Peter Bollinger',0.35
+Mind Rot,Sorcery,None,Seventh Edition,Common,3,Black,True,True,True,True,b'Adam Rex',0.05
+Nausea,Sorcery,None,Seventh Edition,Common,2,Black,True,False,True,True,b'James Bernardin',0.09
+Necrologia,Instant,None,Seventh Edition,Uncommon,5,Black,False,False,True,True,b'Scott M. Fischer',1.48
+Nightmare,Creature,Nightmare Horse,Seventh Edition,Rare,6,Black,True,False,True,True,b'Carl Critchlow',0.26
+Nocturnal Raid,Instant,None,Seventh Edition,Uncommon,4,Black,False,False,True,True,b'Pete Venters',0.08
+Oppression,Enchantment,None,Seventh Edition,Rare,3,Black,False,False,True,True,b'Alex Horley-Orlandelli',5.9
+Ostracize,Sorcery,None,Seventh Edition,Common,1,Black,False,False,True,True,b'Hannibal King',0.09
+Persecute,Sorcery,None,Seventh Edition,Rare,4,Black,True,False,True,True,b'Luca Zontini',0.49
+Plague Beetle,Creature,Insect,Seventh Edition,Common,1,Black,True,False,True,True,b'Matt Cavotta',0.07
+Rag Man,Creature,Human Minion,Seventh Edition,Rare,4,Black,False,False,True,True,b'Scott M. Fischer',0.14
+Raise Dead,Sorcery,None,Seventh Edition,Common,1,Black,True,False,True,True,b'Carl Critchlow',0.1
+Razortooth Rats,Creature,Rat,Seventh Edition,Common,3,Black,True,False,True,True,b'Carl Critchlow',0.08
+Reprocess,Sorcery,None,Seventh Edition,Rare,4,Black,False,False,True,True,b'John Howe',0.64
+Revenant,Creature,Spirit,Seventh Edition,Rare,5,Black,True,False,True,True,b'Andrew Goldhawk',0.18
+Scathe Zombies,Creature,Zombie,Seventh Edition,Common,3,Black,True,False,True,True,b'Kev Walker',0.06
+Serpent Warrior,Creature,Snake Warrior,Seventh Edition,Common,3,Black,True,False,True,True,b'Eric Peterson',0.05
+Soul Feast,Sorcery,None,Seventh Edition,Uncommon,5,Black,True,False,True,True,b'Adam Rex',0.1
+Spineless Thug,Creature,Zombie Mercenary,Seventh Edition,Common,2,Black,True,False,True,True,b'Alan Pollack',0.05
+Strands of Night,Enchantment,None,Seventh Edition,Uncommon,4,Black,False,False,True,True,b'Glen Angus',0.47
+Stronghold Assassin,Creature,Zombie Assassin,Seventh Edition,Rare,3,Black,False,False,True,True,b'Ron Walotsky',0.59
+Tainted Aether,Enchantment,None,Seventh Edition,Rare,4,Black,False,False,True,True,b'Ciruelo',4.97
+Unholy Strength,Enchantment,Aura,Seventh Edition,Common,1,Black,True,False,True,True,b'Gary Ruddell',0.05
+Wall of Bone,Creature,Skeleton Wall,Seventh Edition,Uncommon,3,Black,True,False,True,True,b'Alan Pollack',0.11
+Western Paladin,Creature,Zombie Knight,Seventh Edition,Rare,4,Black,True,False,True,True,b'Paolo Parente',0.22
+Yawgmoth's Edict,Enchantment,None,Seventh Edition,Uncommon,2,Black,False,False,True,True,b'Donato Giancola',0.14
+Aether Flash,Enchantment,None,Seventh Edition,Uncommon,4,Red,False,False,True,True,b'Wayne England',0.52
+Balduvian Barbarians,Creature,Human Barbarian,Seventh Edition,Common,3,Red,True,False,True,True,b'Jim Nelson',0.06
+Bedlam,Enchantment,None,Seventh Edition,Rare,4,Red,False,False,True,True,b'Ron Spencer',5.04
+Blaze,Sorcery,None,Seventh Edition,Uncommon,2,Red,True,False,True,True,b'Alex Horley-Orlandelli',0.25
+Bloodshot Cyclops,Creature,Cyclops Giant,Seventh Edition,Rare,6,Red,True,False,True,True,b'Daren Bader',0.36
+Boil,Instant,None,Seventh Edition,Uncommon,4,Red,True,False,True,True,b'Christopher Moeller',0.38
+Crimson Hellkite,Creature,Dragon,Seventh Edition,Rare,9,Red,False,False,True,True,b'Carl Critchlow',0.44
+Disorder,Sorcery,None,Seventh Edition,Uncommon,2,Red,False,False,True,True,b'Glen Angus',0.11
+Earthquake,Sorcery,None,Seventh Edition,Rare,2,Red,True,False,True,True,b'Franz Vohwinkel',0.48
+Fervor,Enchantment,None,Seventh Edition,Rare,3,Red,True,False,True,True,b'Wayne England',1.62
+Final Fortune,Instant,None,Seventh Edition,Rare,2,Red,False,False,True,True,b'Greg Hildebrandt',2.64
+Fire Elemental,Creature,Elemental,Seventh Edition,Uncommon,5,Red,True,True,True,True,b'Douglas Shuler',0.1
+Ghitu Fire-Eater,Creature,Human Nomad,Seventh Edition,Uncommon,3,Red,False,False,True,True,b'Eric Peterson',0.07
+Goblin Chariot,Creature,Goblin Warrior,Seventh Edition,Common,3,Red,True,False,True,True,b'John Howe',0.05
+Goblin Digging Team,Creature,Goblin,Seventh Edition,Common,1,Red,False,False,True,True,b'Ben Thompson',0.13
+Goblin Elite Infantry,Creature,Goblin Warrior,Seventh Edition,Common,2,Red,True,False,True,True,b'Daren Bader',0.12
+Goblin Gardener,Creature,Goblin,Seventh Edition,Common,4,Red,False,False,True,True,b'Jerry Tiritilli',0.09
+Goblin Glider,Creature,Goblin,Seventh Edition,Uncommon,2,Red,True,False,True,True,b'Patrick Faricy',0.11
+Goblin King,Creature,Goblin,Seventh Edition,Rare,3,Red,True,False,True,True,b'Ron Spears',1.9
+Goblin Matron,Creature,Goblin,Seventh Edition,Uncommon,3,Red,True,False,True,True,b'Dan Frazier',0.59
+Goblin Raider,Creature,Goblin Warrior,Seventh Edition,Common,2,Red,True,False,True,True,b'Arnie Swekel',0.03
+Goblin Spelunkers,Creature,Goblin Warrior,Seventh Edition,Common,3,Red,True,False,True,True,b'Matt Cavotta',0.11
+Goblin War Drums,Enchantment,None,Seventh Edition,Uncommon,3,Red,False,False,True,True,b'Peter Bollinger',0.34
+Granite Grip,Enchantment,Aura,Seventh Edition,Common,3,Red,False,False,True,True,b'Ray Lago',0.06
+Hill Giant,Creature,Giant,Seventh Edition,Common,4,Red,True,False,True,True,b'Dany Orizio',0.05
+Impatience,Enchantment,None,Seventh Edition,Rare,3,Red,False,False,True,True,b'Kunio Hagio',0.22
+Inferno,Instant,None,Seventh Edition,Rare,7,Red,True,False,True,True,b'Don Hazeltine',0.28
+Lava Axe,Sorcery,None,Seventh Edition,Common,5,Red,True,False,True,True,b'Ray Lago',0.06
+Lightning Blast,Instant,None,Seventh Edition,Common,4,Red,True,False,True,True,b'Ron Spencer',0.05
+Lightning Elemental,Creature,Elemental,Seventh Edition,Common,4,Red,True,False,True,True,b'Kev Walker',0.05
+Mana Clash,Sorcery,None,Seventh Edition,Rare,1,Red,True,False,True,True,b'Larry Elmore',0.28
+Ogre Taskmaster,Creature,Ogre,Seventh Edition,Uncommon,4,Red,True,False,True,True,b'Jeff Easley',0.04
+Okk,Creature,Goblin,Seventh Edition,Rare,2,Red,True,False,True,True,b'Peter Bollinger',0.14
+Orcish Artillery,Creature,Orc Warrior,Seventh Edition,Uncommon,3,Red,True,False,True,True,b'Dan Frazier',0.14
+Orcish Oriflamme,Enchantment,None,Seventh Edition,Uncommon,4,Red,False,False,True,True,b'Ben Thompson',0.05
+Pillage,Sorcery,None,Seventh Edition,Uncommon,3,Red,True,False,True,True,b'Bradley Williams',0.25
+Pygmy Pyrosaur,Creature,Lizard,Seventh Edition,Common,2,Red,False,False,True,True,b'Dan Frazier',0.06
+Pyroclasm,Sorcery,None,Seventh Edition,Uncommon,2,Red,True,False,True,True,b'Monte Michael Moore',0.43
+Pyrotechnics,Sorcery,None,Seventh Edition,Uncommon,5,Red,True,False,True,True,b'John Avon',0.04
+Raging Goblin,Creature,Goblin Berserker,Seventh Edition,Common,1,Red,True,False,True,True,b'Peter Bollinger',0.19
+Reckless Embermage,Creature,Human Wizard,Seventh Edition,Rare,4,Red,False,False,True,True,b'Bob Petillo',0.1
+Reflexes,Enchantment,Aura,Seventh Edition,Common,1,Red,True,False,True,True,b'Donato Giancola',0.06
+Relentless Assault,Sorcery,None,Seventh Edition,Rare,4,Red,True,False,True,True,b'Greg Hildebrandt',0.78
+Sabretooth Tiger,Creature,Cat,Seventh Edition,Common,3,Red,True,False,True,True,b'Monte Michael Moore',0.1
+Seismic Assault,Enchantment,None,Seventh Edition,Rare,3,Red,True,False,True,True,b'Greg Staples',1.23
+Shatter,Instant,None,Seventh Edition,Common,2,Red,True,False,True,True,b'Michael Koelsch',0.2
+Shivan Dragon,Creature,Dragon,Seventh Edition,Rare,6,Red,True,True,True,True,b'Donato Giancola',0.37
+Shock,Instant,None,Seventh Edition,Common,1,Red,True,True,True,True,b'Mike Sass',0.24
+Spitting Earth,Sorcery,None,Seventh Edition,Common,2,Red,True,False,True,True,b'Michael Koelsch',0.07
+Stone Rain,Sorcery,None,Seventh Edition,Common,3,Red,True,False,True,True,b'Tony Szczudlo',0.11
+Storm Shaman,Creature,Human Cleric Shaman,Seventh Edition,Uncommon,3,Red,False,False,True,True,b'D. J. Cleland-Hura',0.11
+Sudden Impact,Instant,None,Seventh Edition,Uncommon,4,Red,True,False,True,True,b'Greg Hildebrandt',0.08
+Trained Orgg,Creature,Orgg,Seventh Edition,Rare,7,Red,False,False,True,True,b'Alex Horley-Orlandelli',0.23
+Tremor,Sorcery,None,Seventh Edition,Common,1,Red,True,False,True,True,b'Michael Koelsch',0.06
+Volcanic Hammer,Sorcery,None,Seventh Edition,Common,2,Red,True,False,True,True,b'Ben Thompson',0.08
+Wall of Fire,Creature,Wall,Seventh Edition,Uncommon,3,Red,True,False,True,True,b'Ron Spencer',0.13
+Wildfire,Sorcery,None,Seventh Edition,Rare,6,Red,True,False,True,True,b'Ron Spencer',0.55
+Anaconda,Creature,Snake,Seventh Edition,Uncommon,4,Green,True,False,True,True,b'John Gallagher',0.15
+Ancient Silverback,Creature,Ape,Seventh Edition,Rare,6,Green,True,False,True,True,b'Scott M. Fischer',0.23
+Birds of Paradise,Creature,Bird,Seventh Edition,Rare,1,Green,True,False,True,True,"b'Edward P. Beard, Jr.'",10.06
+Blanchwood Armor,Enchantment,Aura,Seventh Edition,Uncommon,3,Green,True,False,True,True,b'Paolo Parente',0.28
+Bull Hippo,Creature,Hippo,Seventh Edition,Uncommon,4,Green,False,False,True,True,b'Heather Hudson',0.1
+Canopy Spider,Creature,Spider,Seventh Edition,Common,2,Green,True,True,True,True,b'Mike Raabe',0.08
+Compost,Enchantment,None,Seventh Edition,Uncommon,2,Green,False,False,True,True,b'Marc Fishman',0.35
+Creeping Mold,Sorcery,None,Seventh Edition,Uncommon,4,Green,True,False,True,True,b'Gary Ruddell',0.13
+Early Harvest,Instant,None,Seventh Edition,Rare,3,Green,True,False,True,True,b'Heather Hudson',1.03
+Elder Druid,Creature,Elf Cleric Druid,Seventh Edition,Rare,4,Green,False,False,True,True,b'Alan Pollack',0.33
+Elvish Archers,Creature,Elf Archer,Seventh Edition,Rare,2,Green,False,False,True,True,b'Doug Chaffee',0.35
+Elvish Champion,Creature,Elf,Seventh Edition,Rare,3,Green,True,False,True,True,b'Paolo Parente',4.32
+Elvish Lyrist,Creature,Elf,Seventh Edition,Uncommon,1,Green,True,False,True,True,b'Michael Koelsch',0.12
+Elvish Piper,Creature,Elf Shaman,Seventh Edition,Rare,4,Green,True,False,True,True,b'Tristan Elwell',3.66
+Familiar Ground,Enchantment,None,Seventh Edition,Uncommon,3,Green,False,False,True,True,b'Thomas Gianni',0.18
+Femeref Archers,Creature,Human Archer,Seventh Edition,Uncommon,3,Green,True,False,True,True,b'Gary Ruddell',0.13
+Fog,Instant,None,Seventh Edition,Common,1,Green,True,False,True,True,b'Arnie Swekel',0.15
+Fyndhorn Elder,Creature,Elf Druid,Seventh Edition,Uncommon,3,Green,True,False,True,True,b'Greg Staples',0.16
+Gang of Elk,Creature,Elk Beast,Seventh Edition,Uncommon,6,Green,False,False,True,True,b'Thomas Gianni',0.07
+Giant Growth,Instant,None,Seventh Edition,Common,1,Green,True,True,True,True,b'Terese Nielsen',0.06
+Giant Spider,Creature,Spider,Seventh Edition,Common,4,Green,True,False,True,True,b'Ray Lago',0.06
+Gorilla Chieftain,Creature,Ape,Seventh Edition,Common,4,Green,False,False,True,True,b'Carl Critchlow',0.04
+Grizzly Bears,Creature,Bear,Seventh Edition,Common,2,Green,True,False,True,True,b'D. J. Cleland-Hura',0.1
+Hurricane,Sorcery,None,Seventh Edition,Rare,2,Green,True,False,True,True,b'John Howe',0.24
+Llanowar Elves,Creature,Elf Druid,Seventh Edition,Common,1,Green,True,False,True,True,b'Jerry Tiritilli',0.27
+Lone Wolf,Creature,Wolf,Seventh Edition,Common,3,Green,True,False,True,True,b'Douglas Shuler',0.17
+Lure,Enchantment,Aura,Seventh Edition,Uncommon,3,Green,True,False,True,True,b'Larry Elmore',0.13
+Maro,Creature,Elemental,Seventh Edition,Rare,4,Green,True,False,True,True,b'Pete Venters',0.23
+Might of Oaks,Instant,None,Seventh Edition,Rare,4,Green,True,False,True,True,b'Greg Staples',0.34
+Monstrous Growth,Sorcery,None,Seventh Edition,Common,2,Green,True,False,True,True,b'Ron Spencer',0.05
+Nature's Resurgence,Sorcery,None,Seventh Edition,Rare,4,Green,False,False,True,True,b'Gary Ruddell',0.28
+Nature's Revolt,Enchantment,None,Seventh Edition,Rare,5,Green,False,False,True,True,b'Dave Dorman',0.74
+Pride of Lions,Creature,Cat,Seventh Edition,Uncommon,5,Green,False,False,True,True,b'Gary Ruddell',0.26
+Rampant Growth,Sorcery,None,Seventh Edition,Common,2,Green,True,False,True,True,b'Scott M. Fischer',0.31
+Reclaim,Instant,None,Seventh Edition,Common,1,Green,True,False,True,True,b'Greg Hildebrandt',0.12
+Redwood Treefolk,Creature,Treefolk,Seventh Edition,Common,5,Green,False,False,True,True,b'D. J. Cleland-Hura',0.15
+Regeneration,Enchantment,Aura,Seventh Edition,Common,2,Green,True,False,True,True,b'Adam Rex',0.05
+Rowen,Enchantment,None,Seventh Edition,Rare,4,Green,False,False,True,True,b'Franz Vohwinkel',0.25
+Scavenger Folk,Creature,Human,Seventh Edition,Uncommon,1,Green,False,False,True,True,b'Matt Cavotta',0.06
+Seeker of Skybreak,Creature,Elf,Seventh Edition,Common,2,Green,False,False,True,True,b'Alex Horley-Orlandelli',0.92
+Shanodin Dryads,Creature,Nymph Dryad,Seventh Edition,Common,1,Green,False,False,True,True,b'Eric Peterson',0.12
+Spined Wurm,Creature,Wurm,Seventh Edition,Common,5,Green,True,False,True,True,b'Carl Critchlow',0.05
+Squall,Sorcery,None,Seventh Edition,Common,3,Green,False,False,True,True,b'Greg Staples',0.06
+Stream of Life,Sorcery,None,Seventh Edition,Common,2,Green,True,False,True,True,b'Andrew Goldhawk',0.23
+Thorn Elemental,Creature,Elemental,Seventh Edition,Rare,7,Green,True,False,True,True,b'rk post',0.19
+Thoughtleech,Enchantment,None,Seventh Edition,Uncommon,2,Green,False,False,True,True,b'Rebecca Guay',0.18
+Trained Armodon,Creature,Elephant,Seventh Edition,Common,3,Green,True,False,True,True,b'John Matson',0.1
+Tranquility,Sorcery,None,Seventh Edition,Common,3,Green,False,False,True,True,b'John Matson',0.04
+Treefolk Seedlings,Creature,Treefolk,Seventh Edition,Uncommon,3,Green,False,False,True,True,b'Don Hazeltine',0.2
+Uktabi Wildcats,Creature,Cat,Seventh Edition,Rare,5,Green,False,False,True,True,b'Thomas Gianni',0.38
+Untamed Wilds,Sorcery,None,Seventh Edition,Uncommon,3,Green,False,False,True,True,b'Thomas Gianni',0.2
+Verduran Enchantress,Creature,Human Druid,Seventh Edition,Rare,3,Green,True,False,True,True,b'Rob Alexander',2.02
+Vernal Bloom,Enchantment,None,Seventh Edition,Rare,4,Green,True,False,True,True,b'Scott Bailey',3.56
+Wild Growth,Enchantment,Aura,Seventh Edition,Common,1,Green,False,False,True,True,b'Tony Szczudlo',0.24
+Wing Snare,Sorcery,None,Seventh Edition,Uncommon,3,Green,True,False,True,True,b'Daren Bader',0.11
+Wood Elves,Creature,Elf Scout,Seventh Edition,Common,3,Green,True,False,True,True,b'Christopher Moeller',0.54
+Yavimaya Enchantress,Creature,Human Druid,Seventh Edition,Uncommon,3,Green,True,False,True,True,b'Terese Nielsen',0.1
+Aladdin's Ring,Artifact,None,Seventh Edition,Rare,8,Colorless,True,False,True,True,b'Dave Dorman',0.2
+Beast of Burden,Artifact Creature,Golem,Seventh Edition,Rare,6,Colorless,True,False,True,True,b'Chippy',0.27
+Caltrops,Artifact,None,Seventh Edition,Uncommon,3,Colorless,False,False,True,True,b'Eric Peterson',0.44
+Charcoal Diamond,Artifact,None,Seventh Edition,Uncommon,2,Colorless,False,False,True,True,b'David Martin',1.48
+Coat of Arms,Artifact,None,Seventh Edition,Rare,5,Colorless,True,False,True,True,b'D. Alexander Gregory',10.85
+Crystal Rod,Artifact,None,Seventh Edition,Uncommon,1,Colorless,True,False,True,True,b'Ciruelo',0.08
+Dingus Egg,Artifact,None,Seventh Edition,Rare,4,Colorless,True,False,True,True,b'Tony Szczudlo',0.35
+Disrupting Scepter,Artifact,None,Seventh Edition,Rare,3,Colorless,True,False,True,True,b'Darrell Riche',0.24
+Ensnaring Bridge,Artifact,None,Seventh Edition,Rare,3,Colorless,True,False,True,True,b'Ron Spencer',19.84
+Feroz's Ban,Artifact,None,Seventh Edition,Rare,6,Colorless,False,False,True,True,b'Donato Giancola',0.25
+Fire Diamond,Artifact,None,Seventh Edition,Uncommon,2,Colorless,False,False,True,True,b'David Martin',2.18
+Flying Carpet,Artifact,None,Seventh Edition,Rare,4,Colorless,True,False,True,True,b'Scott M. Fischer',0.11
+Grafted Skullcap,Artifact,None,Seventh Edition,Rare,4,Colorless,False,False,True,True,b'Bradley Williams',0.24
+Grapeshot Catapult,Artifact Creature,Construct,Seventh Edition,Uncommon,4,Colorless,False,False,True,True,b'Dave Dorman',0.09
+Howling Mine,Artifact,None,Seventh Edition,Rare,2,Colorless,True,False,True,True,b'Dana Knutson',3.95
+Iron Star,Artifact,None,Seventh Edition,Uncommon,1,Colorless,True,False,True,True,b'Pete Venters',0.14
+Ivory Cup,Artifact,None,Seventh Edition,Uncommon,1,Colorless,True,False,True,True,b'Alan Pollack',0.09
+Jalum Tome,Artifact,None,Seventh Edition,Rare,3,Colorless,False,False,True,True,b'Jerry Tiritilli',0.15
+Jandor's Saddlebags,Artifact,None,Seventh Edition,Rare,2,Colorless,False,False,True,True,b'Brian Despain',0.36
+Jayemdae Tome,Artifact,None,Seventh Edition,Rare,4,Colorless,True,False,True,True,b'Donato Giancola',0.36
+Marble Diamond,Artifact,None,Seventh Edition,Uncommon,2,Colorless,False,False,True,True,b'David Martin',1.39
+Meekstone,Artifact,None,Seventh Edition,Rare,1,Colorless,False,False,True,True,b'David Martin',6.14
+Millstone,Artifact,None,Seventh Edition,Rare,2,Colorless,True,False,True,True,b'John Avon',0.15
+Moss Diamond,Artifact,None,Seventh Edition,Uncommon,2,Colorless,False,False,True,True,b'David Martin',0.25
+Patagia Golem,Artifact Creature,Golem,Seventh Edition,Uncommon,4,Colorless,True,False,True,True,b'Kev Walker',0.1
+Phyrexian Colossus,Artifact Creature,Golem,Seventh Edition,Rare,7,Colorless,True,False,True,True,b'Mark Tedin',0.16
+Phyrexian Hulk,Artifact Creature,Golem,Seventh Edition,Uncommon,6,Colorless,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.12
+Pit Trap,Artifact,None,Seventh Edition,Uncommon,2,Colorless,False,False,True,True,b'Nelson DeCastro',0.14
+Rod of Ruin,Artifact,None,Seventh Edition,Uncommon,4,Colorless,True,False,True,True,b'Ciruelo',0.1
+Sisay's Ring,Artifact,None,Seventh Edition,Uncommon,4,Colorless,False,False,True,True,b'David Martin',0.44
+Sky Diamond,Artifact,None,Seventh Edition,Uncommon,2,Colorless,False,False,True,True,b'Tony Szczudlo',1.82
+Soul Net,Artifact,None,Seventh Edition,Uncommon,1,Colorless,False,False,True,True,b'Ron Spencer',0.15
+Spellbook,Artifact,None,Seventh Edition,Uncommon,0,Colorless,True,False,True,True,b'Andrew Goldhawk',1.53
+Static Orb,Artifact,None,Seventh Edition,Rare,3,Colorless,False,False,True,True,b'Terese Nielsen',17.48
+Storm Cauldron,Artifact,None,Seventh Edition,Rare,5,Colorless,False,False,True,True,b'Doug Chaffee',2.15
+Teferi's Puzzle Box,Artifact,None,Seventh Edition,Rare,4,Colorless,True,False,True,True,b'Donato Giancola',10.21
+Throne of Bone,Artifact,None,Seventh Edition,Uncommon,1,Colorless,True,False,True,True,b'Ron Spears',0.21
+Wall of Spears,Artifact Creature,Wall,Seventh Edition,Uncommon,3,Colorless,True,False,True,True,b'Christopher Moeller',0.15
+Wooden Sphere,Artifact,None,Seventh Edition,Uncommon,1,Colorless,True,False,True,True,b'Terese Nielsen',0.15
+Adarkar Wastes,Land,None,Seventh Edition,Rare,0,Colorless,True,False,True,True,b'John Avon',6.19
+Brushland,Land,None,Seventh Edition,Rare,0,Colorless,True,False,True,True,b'Scott Bailey',4.49
+City of Brass,Land,None,Seventh Edition,Rare,0,Colorless,True,False,True,True,b'Ron Walotsky',11.52
+Forest,Basic Land,Forest,Seventh Edition,Common,0,Colorless,True,True,True,True,b'D. J. Cleland-Hura',0.4
+Forest,Basic Land,Forest,Seventh Edition,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.33
+Forest,Basic Land,Forest,Seventh Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.35
+Forest,Basic Land,Forest,Seventh Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.38
+Island,Basic Land,Island,Seventh Edition,Common,0,Colorless,True,True,True,True,b'Scott Bailey',0.31
+Island,Basic Land,Island,Seventh Edition,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.36
+Island,Basic Land,Island,Seventh Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.46
+Island,Basic Land,Island,Seventh Edition,Common,0,Colorless,True,True,True,True,b'Tony Szczudlo',0.3
+Karplusan Forest,Land,None,Seventh Edition,Rare,0,Colorless,True,False,True,True,b'Scott Bailey',3.93
+Mountain,Basic Land,Mountain,Seventh Edition,Common,0,Colorless,True,True,True,True,b'D. J. Cleland-Hura',0.21
+Mountain,Basic Land,Mountain,Seventh Edition,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.28
+Mountain,Basic Land,Mountain,Seventh Edition,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.13
+Mountain,Basic Land,Mountain,Seventh Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.34
+Plains,Basic Land,Plains,Seventh Edition,Common,0,Colorless,True,True,True,True,b'Scott Bailey',0.28
+Plains,Basic Land,Plains,Seventh Edition,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.32
+Plains,Basic Land,Plains,Seventh Edition,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.27
+Plains,Basic Land,Plains,Seventh Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.43
+Sulfurous Springs,Land,None,Seventh Edition,Rare,0,Colorless,True,False,True,True,b'Rob Alexander',6.78
+Swamp,Basic Land,Swamp,Seventh Edition,Common,0,Colorless,True,True,True,True,b'D. J. Cleland-Hura',0.27
+Swamp,Basic Land,Swamp,Seventh Edition,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.54
+Swamp,Basic Land,Swamp,Seventh Edition,Common,0,Colorless,True,True,True,True,b'Larry Elmore',0.43
+Swamp,Basic Land,Swamp,Seventh Edition,Common,0,Colorless,True,True,True,True,b'Tony Szczudlo',0.42
+Underground River,Land,None,Seventh Edition,Rare,0,Colorless,True,False,True,True,b'Andrew Goldhawk',4.53

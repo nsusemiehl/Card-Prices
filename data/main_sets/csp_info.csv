@@ -1,0 +1,156 @@
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
+Adarkar Valkyrie,Snow Creature,Angel,Coldsnap,Rare,6,White,True,False,True,True,b'Jeremy Jarvis',0.91
+Boreal Griffin,Snow Creature,Griffin,Coldsnap,Common,5,White,True,False,True,False,b'Cyril Van Der Haegen',0.09
+Cover of Winter,Snow Enchantment,None,Coldsnap,Rare,3,White,True,False,True,False,b'Wayne Reynolds',0.28
+"Darien, King of Kjeldor",Legendary Creature,Human Soldier,Coldsnap,Rare,6,White,True,False,True,True,b'Michael Phillippi',1.23
+Field Marshal,Creature,Human Soldier,Coldsnap,Rare,3,White,True,False,True,True,b'Stephen Tappin',4.02
+Gelid Shackles,Snow Enchantment,Aura,Coldsnap,Common,1,White,True,False,True,False,b'Alex Horley-Orlandelli',0.14
+Glacial Plating,Snow Enchantment,Aura,Coldsnap,Uncommon,4,White,True,False,True,False,b'Brian Despain',0.13
+Jötun Grunt,Creature,Giant Soldier,Coldsnap,Uncommon,2,White,True,False,True,True,b'Franz Vohwinkel',0.26
+Jötun Owl Keeper,Creature,Giant,Coldsnap,Uncommon,3,White,True,False,True,False,b'Dave Dorman',0.19
+Kjeldoran Gargoyle,Creature,Gargoyle,Coldsnap,Uncommon,6,White,True,False,True,False,b'Marcelo Vignali',0.08
+Kjeldoran Javelineer,Creature,Human Soldier,Coldsnap,Common,1,White,True,False,True,False,b'Dave Dorman',0.06
+Kjeldoran Outrider,Creature,Human Soldier,Coldsnap,Common,2,White,True,False,True,False,b'Carl Critchlow',0.05
+Kjeldoran War Cry,Instant,None,Coldsnap,Common,2,White,True,False,True,False,b'Michael Phillippi',0.08
+Luminesce,Instant,None,Coldsnap,Uncommon,1,White,True,False,True,True,b'Daren Bader',0.08
+Martyr of Sands,Creature,Human Cleric,Coldsnap,Common,1,White,True,False,True,True,b'Randy Gallegos',0.27
+Ronom Unicorn,Creature,Unicorn,Coldsnap,Common,2,White,True,False,True,True,b'Carl Critchlow',0.13
+Squall Drifter,Snow Creature,Elemental,Coldsnap,Common,2,White,True,False,True,False,b'Joel Thomas',0.11
+Sun's Bounty,Instant,None,Coldsnap,Common,2,White,True,False,True,False,b'Michael Sutfin',0.08
+Sunscour,Sorcery,None,Coldsnap,Rare,7,White,True,False,True,False,b'Jim Murray',0.81
+Surging Sentinels,Creature,Human Soldier,Coldsnap,Common,3,White,True,False,True,False,b'Christopher Moeller',0.05
+Swift Maneuver,Instant,None,Coldsnap,Common,2,White,True,False,True,False,b'Michael Sutfin',0.06
+Ursine Fylgja,Creature,Spirit Bear,Coldsnap,Uncommon,5,White,True,False,True,False,b'Yokota Katsumi',0.15
+Wall of Shards,Snow Creature,Wall,Coldsnap,Uncommon,2,White,True,False,True,True,b'Alex Horley-Orlandelli',2.47
+White Shield Crusader,Creature,Human Knight,Coldsnap,Uncommon,2,White,True,False,True,False,b'Jeff Easley',0.16
+Woolly Razorback,Creature,Boar Beast,Coldsnap,Rare,4,White,True,False,True,False,b'Richard Sardinha',0.48
+Adarkar Windform,Snow Creature,Illusion,Coldsnap,Uncommon,5,Blue,True,False,True,False,b'Randy Gallegos',0.12
+Arcum Dagsson,Legendary Creature,Human Artificer,Coldsnap,Rare,4,Blue,True,False,True,False,b'Pete Venters',15.15
+Balduvian Frostwaker,Creature,Human Wizard,Coldsnap,Uncommon,3,Blue,True,False,True,False,b'Stephen Tappin',0.13
+Commandeer,Instant,None,Coldsnap,Rare,7,Blue,True,False,True,False,b'John Matson',12.0
+Controvert,Instant,None,Coldsnap,Uncommon,4,Blue,True,False,True,False,b'Joel Thomas',0.18
+Counterbalance,Enchantment,None,Coldsnap,Uncommon,2,Blue,True,False,True,True,b'John Zeleznik',7.83
+Drelnoch,Creature,Yeti Mutant,Coldsnap,Common,5,Blue,True,False,True,False,b'Zoltan Boros',0.09
+Flashfreeze,Instant,None,Coldsnap,Uncommon,2,Blue,True,False,True,True,b'Brian Despain',0.13
+Frost Raptor,Snow Creature,Bird,Coldsnap,Common,3,Blue,True,False,True,False,b'Lars Grant-West',0.1
+Frozen Solid,Enchantment,Aura,Coldsnap,Common,3,Blue,True,False,True,True,b'Ralph Horsley',0.1
+"Heidar, Rimewind Master",Legendary Creature,Human Wizard,Coldsnap,Rare,5,Blue,True,False,True,False,b'Ron Spears',0.25
+Jokulmorder,Creature,Leviathan,Coldsnap,Rare,7,Blue,True,False,True,False,b'Mark Zug',0.37
+Krovikan Mist,Creature,Illusion,Coldsnap,Common,2,Blue,True,False,True,True,b'Jeremy Jarvis',0.12
+Krovikan Whispers,Enchantment,Aura,Coldsnap,Uncommon,4,Blue,True,False,True,False,b'Nick Percival',0.11
+Martyr of Frost,Creature,Human Wizard,Coldsnap,Common,1,Blue,True,False,True,True,b'Wayne England',0.16
+Perilous Research,Instant,None,Coldsnap,Uncommon,2,Blue,True,False,True,True,b'Dany Orizio',0.31
+Rimefeather Owl,Snow Creature,Bird,Coldsnap,Rare,7,Blue,True,False,True,False,b'Kensuke Okabayashi',0.39
+Rimewind Cryomancer,Creature,Human Wizard,Coldsnap,Uncommon,4,Blue,True,False,True,False,b'Dan Scott',0.16
+Rimewind Taskmage,Creature,Human Wizard,Coldsnap,Common,2,Blue,True,False,True,False,b'Ron Spears',0.12
+Ronom Serpent,Snow Creature,Serpent,Coldsnap,Common,6,Blue,True,False,True,False,b'Ron Spencer',0.08
+Rune Snag,Instant,None,Coldsnap,Common,2,Blue,True,False,True,True,b'Dave Dorman',0.2
+Surging Aether,Instant,None,Coldsnap,Common,4,Blue,True,False,True,False,b'Anthony S. Waters',0.08
+Survivor of the Unseen,Creature,Human Wizard,Coldsnap,Common,3,Blue,True,False,True,False,b'Alan Pollack',0.09
+Thermal Flux,Instant,None,Coldsnap,Common,1,Blue,True,False,True,False,b'Jeff Miracola',0.06
+Vexing Sphinx,Creature,Sphinx,Coldsnap,Rare,3,Blue,True,False,True,False,b'Lars Grant-West',0.66
+Balduvian Fallen,Creature,Zombie,Coldsnap,Uncommon,4,Black,True,False,True,False,b'Dave Kendall',0.12
+Chill to the Bone,Instant,None,Coldsnap,Common,4,Black,True,False,True,False,b'Jim Murray',0.11
+Chilling Shade,Snow Creature,Shade,Coldsnap,Common,3,Black,True,False,True,False,b'Jeff Nentrup',0.08
+Deathmark,Sorcery,None,Coldsnap,Uncommon,1,Black,True,False,True,True,b'Jeremy Jarvis',0.13
+Disciple of Tevesh Szat,Creature,Human Cleric,Coldsnap,Common,4,Black,True,False,True,False,b'Pete Venters',0.06
+Feast of Flesh,Sorcery,None,Coldsnap,Common,1,Black,True,False,True,False,b'Volkan Ba\xc7\xb5a',0.1
+Garza's Assassin,Creature,Human Assassin,Coldsnap,Rare,3,Black,True,False,True,False,b'Paolo Parente',0.38
+Grim Harvest,Instant,None,Coldsnap,Common,2,Black,True,False,True,True,b'Zoltan Boros',0.26
+Gristle Grinner,Creature,Zombie,Coldsnap,Uncommon,5,Black,True,False,True,False,b'Dave Allsop',0.09
+Gutless Ghoul,Snow Creature,Zombie,Coldsnap,Common,3,Black,True,False,True,False,b'Kensuke Okabayashi',0.13
+"Haakon, Stromgald Scourge",Legendary Creature,Zombie Knight,Coldsnap,Rare,3,Black,True,False,True,True,b'Mark Zug',14.49
+Herald of Leshrac,Creature,Avatar,Coldsnap,Rare,7,Black,True,False,True,True,b'Alex Horley-Orlandelli',4.53
+Krovikan Rot,Instant,None,Coldsnap,Uncommon,3,Black,True,False,True,False,b'Michael Sutfin',0.06
+Krovikan Scoundrel,Creature,Human Rogue,Coldsnap,Common,2,Black,True,False,True,False,b'Ralph Horsley',0.06
+Martyr of Bones,Creature,Human Wizard,Coldsnap,Common,1,Black,True,False,True,False,b'E. M. Gist',0.07
+Phobian Phantasm,Creature,Illusion,Coldsnap,Uncommon,3,Black,True,False,True,False,b'Steven Belledin',0.08
+Phyrexian Etchings,Enchantment,None,Coldsnap,Rare,3,Black,True,False,True,False,b'Ron Spears',0.37
+Rime Transfusion,Snow Enchantment,Aura,Coldsnap,Uncommon,2,Black,True,False,True,False,b'Jeff Nentrup',0.24
+Rimebound Dead,Snow Creature,Skeleton,Coldsnap,Common,1,Black,True,False,True,False,b'Dave Kendall',0.1
+Soul Spike,Instant,None,Coldsnap,Rare,7,Black,True,False,True,False,b'Wayne England',0.52
+Stromgald Crusader,Creature,Zombie Knight,Coldsnap,Uncommon,2,Black,True,False,True,False,b'Volkan Ba\xc7\xb5a',1.13
+Surging Dementia,Sorcery,None,Coldsnap,Common,2,Black,True,False,True,False,b'Hideaki Takamura',0.07
+Tresserhorn Skyknight,Creature,Zombie Knight,Coldsnap,Uncommon,7,Black,True,False,True,False,b'Dan Dos Santos',0.14
+Void Maw,Creature,Horror,Coldsnap,Rare,6,Black,True,False,True,False,b'E. M. Gist',0.21
+Zombie Musher,Snow Creature,Zombie,Coldsnap,Common,4,Black,True,False,True,False,b'Kev Walker',0.09
+Balduvian Rage,Instant,None,Coldsnap,Uncommon,2,Red,True,False,True,True,b'John Matson',2.55
+Balduvian Warlord,Creature,Human Barbarian,Coldsnap,Uncommon,4,Red,True,False,True,False,b'Paolo Parente',0.27
+Braid of Fire,Enchantment,None,Coldsnap,Rare,2,Red,True,False,True,True,b'Cyril Van Der Haegen',18.34
+Cryoclasm,Sorcery,None,Coldsnap,Uncommon,3,Red,True,False,True,True,b'Zoltan Boros',0.09
+Earthen Goo,Creature,Ooze,Coldsnap,Uncommon,3,Red,True,False,True,False,b'Nick Percival',0.08
+Fury of the Horde,Sorcery,None,Coldsnap,Rare,7,Red,True,False,True,True,b'Stephen Tappin',1.84
+Goblin Furrier,Creature,Goblin Warrior,Coldsnap,Common,2,Red,True,False,True,False,b'Warren Mahy',0.07
+Goblin Rimerunner,Snow Creature,Goblin Warrior,Coldsnap,Common,3,Red,True,False,True,False,b'Christopher Rush',0.08
+Greater Stone Spirit,Creature,Elemental Spirit,Coldsnap,Uncommon,6,Red,True,False,True,True,b'Yokota Katsumi',0.09
+Icefall,Sorcery,None,Coldsnap,Common,4,Red,True,False,True,False,b'Warren Mahy',0.2
+Karplusan Minotaur,Creature,Minotaur Warrior,Coldsnap,Rare,4,Red,True,False,True,False,b'Wayne England',3.86
+Karplusan Wolverine,Snow Creature,Wolverine Beast,Coldsnap,Common,1,Red,True,False,True,True,b'Greg Hildebrandt',0.1
+Lightning Serpent,Creature,Elemental Serpent,Coldsnap,Rare,2,Red,True,False,True,False,b'John Avon',1.17
+Lightning Storm,Instant,None,Coldsnap,Uncommon,3,Red,True,False,True,True,b'Luca Zontini',0.65
+Lovisa Coldeyes,Legendary Creature,Human,Coldsnap,Rare,5,Red,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.63
+Magmatic Core,Enchantment,None,Coldsnap,Uncommon,4,Red,True,False,True,False,b'Matt Cavotta',0.11
+Martyr of Ashes,Creature,Human Shaman,Coldsnap,Common,1,Red,True,False,True,False,b'Ralph Horsley',0.32
+Ohran Yeti,Snow Creature,Yeti,Coldsnap,Common,4,Red,True,False,True,False,b'Wayne Reynolds',0.06
+Orcish Bloodpainter,Creature,Orc Shaman,Coldsnap,Common,3,Red,True,False,True,False,b'Alan Pollack',0.05
+Rimescale Dragon,Snow Creature,Dragon,Coldsnap,Rare,7,Red,True,False,True,False,b'Jeff Easley',1.01
+Rite of Flame,Sorcery,None,Coldsnap,Common,1,Red,False,False,True,False,b'Dany Orizio',1.1
+Skred,Instant,None,Coldsnap,Common,1,Red,True,False,True,False,b'Christopher Moeller',1.51
+Stalking Yeti,Snow Creature,Yeti,Coldsnap,Uncommon,4,Red,True,False,True,False,b'Brian Sn\xc3\xb5ddy',0.11
+Surging Flame,Instant,None,Coldsnap,Common,2,Red,True,False,True,True,b'Ron Spencer',0.07
+Thermopod,Snow Creature,Slug,Coldsnap,Common,5,Red,True,False,True,False,b'Dan Dos Santos',0.34
+Allosaurus Rider,Creature,Elf Warrior,Coldsnap,Rare,7,Green,True,False,True,True,b'Daren Bader',4.4
+Arctic Nishoba,Creature,Cat Warrior,Coldsnap,Uncommon,6,Green,True,False,True,True,b'Dave Kendall',0.16
+Aurochs Herd,Creature,Aurochs,Coldsnap,Common,6,Green,True,False,True,False,b'Darrell Riche',0.12
+Boreal Centaur,Snow Creature,Centaur Warrior,Coldsnap,Common,2,Green,True,False,True,False,b'Marcelo Vignali',0.1
+Boreal Druid,Snow Creature,Elf Druid,Coldsnap,Common,1,Green,True,False,True,True,b'Dan Dos Santos',2.12
+Brooding Saurian,Creature,Lizard,Coldsnap,Rare,4,Green,True,False,True,True,b'rk post',0.25
+Bull Aurochs,Creature,Aurochs,Coldsnap,Common,2,Green,True,False,True,False,b'Kev Walker',0.07
+Freyalise's Radiance,Enchantment,None,Coldsnap,Uncommon,2,Green,True,False,True,False,b'Thomas M. Baxa',0.14
+Frostweb Spider,Snow Creature,Spider,Coldsnap,Common,3,Green,True,False,True,False,b'Greg Hildebrandt',0.13
+Hibernation's End,Enchantment,None,Coldsnap,Rare,5,Green,True,False,True,False,b'Steven Belledin',1.47
+Into the North,Sorcery,None,Coldsnap,Common,2,Green,True,False,True,False,b'Richard Sardinha',0.69
+Karplusan Strider,Creature,Yeti,Coldsnap,Uncommon,4,Green,True,False,True,True,b'Dan Scott',0.08
+Martyr of Spores,Creature,Human Shaman,Coldsnap,Common,1,Green,True,False,True,False,b'Dan Scott',0.07
+Mystic Melting,Instant,None,Coldsnap,Uncommon,4,Green,True,False,True,False,b'Chippy',0.13
+Ohran Viper,Snow Creature,Snake,Coldsnap,Rare,3,Green,True,False,True,True,b'Kev Walker',0.67
+Panglacial Wurm,Creature,Wurm,Coldsnap,Rare,7,Green,True,False,True,True,b'Jim Pavelec',3.14
+Resize,Instant,None,Coldsnap,Uncommon,2,Green,True,False,True,False,b'Daren Bader',0.17
+Rimehorn Aurochs,Snow Creature,Aurochs,Coldsnap,Uncommon,5,Green,True,False,True,False,b'Brian Despain',0.12
+Ronom Hulk,Creature,Beast,Coldsnap,Common,5,Green,True,False,True,False,b'Zoltan Boros',0.06
+Shape of the Wiitigo,Enchantment,Aura,Coldsnap,Rare,6,Green,True,False,True,False,b'Ron Spencer',0.27
+Sheltering Ancient,Creature,Treefolk,Coldsnap,Uncommon,2,Green,True,False,True,True,b'Pete Venters',0.99
+Simian Brawler,Creature,Ape Warrior,Coldsnap,Common,4,Green,True,False,True,False,b'Warren Mahy',0.08
+Sound the Call,Sorcery,None,Coldsnap,Common,3,Green,True,False,True,False,b'Jim Nelson',0.08
+Steam Spitter,Creature,Spider,Coldsnap,Uncommon,5,Green,True,False,True,False,b'Christopher Rush',0.13
+Surging Might,Enchantment,Aura,Coldsnap,Common,3,Green,True,False,True,False,b'Luca Zontini',0.06
+Blizzard Specter,Snow Creature,Specter,Coldsnap,Uncommon,4,Gold,True,False,True,True,b'Hideaki Takamura',0.31
+Deepfire Elemental,Creature,Elemental,Coldsnap,Uncommon,6,Gold,True,False,True,True,b'Joel Thomas',0.15
+Diamond Faerie,Snow Creature,Faerie,Coldsnap,Rare,5,Gold,True,False,True,False,b'Heather Hudson',0.29
+"Garza Zol, Plague Queen",Legendary Creature,Vampire Noble,Coldsnap,Rare,7,Gold,True,False,True,True,b'Darrell Riche',0.59
+Juniper Order Ranger,Creature,Human Knight,Coldsnap,Uncommon,5,Gold,True,False,True,True,b'Greg Hildebrandt',0.31
+"Sek'Kuar, Deathkeeper",Legendary Creature,Orc Shaman,Coldsnap,Rare,5,Gold,True,False,True,True,b'Jeff Miracola',0.33
+Tamanoa,Creature,Spirit,Coldsnap,Rare,3,Gold,True,False,True,False,b'rk post',0.63
+Vanish into Memory,Instant,None,Coldsnap,Uncommon,4,Gold,True,False,True,True,b'Rebekah Lynn',0.16
+Wilderness Elemental,Creature,Elemental,Coldsnap,Uncommon,3,Gold,True,False,True,True,b'Anthony S. Waters',0.23
+Zur the Enchanter,Legendary Creature,Human Wizard,Coldsnap,Rare,4,Gold,True,False,True,True,b'Pete Venters',3.93
+Coldsteel Heart,Snow Artifact,None,Coldsnap,Uncommon,2,Colorless,True,False,True,True,b'Mark Romanoski',3.77
+Jester's Scepter,Artifact,None,Coldsnap,Rare,3,Colorless,True,False,True,False,b'Matt Cavotta',0.47
+Mishra's Bauble,Artifact,None,Coldsnap,Uncommon,0,Colorless,True,False,True,True,b'Chippy',12.21
+Phyrexian Ironfoot,Snow Artifact Creature,Construct,Coldsnap,Uncommon,3,Colorless,True,False,True,False,b'Stephan Martiniere',0.14
+Phyrexian Snowcrusher,Snow Artifact Creature,Juggernaut,Coldsnap,Uncommon,6,Colorless,True,False,True,False,b'Dave Allsop',0.12
+Phyrexian Soulgorger,Snow Artifact Creature,Construct,Coldsnap,Rare,3,Colorless,True,False,True,True,b'Brian Sn\xc3\xb5ddy',3.28
+Thrumming Stone,Legendary Artifact,None,Coldsnap,Rare,5,Colorless,True,False,True,False,b'Rob Alexander',33.6
+Arctic Flats,Snow Land,None,Coldsnap,Uncommon,0,Colorless,True,False,True,False,b'John Avon',1.3
+Boreal Shelf,Snow Land,None,Coldsnap,Uncommon,0,Colorless,True,False,True,False,b'Heather Hudson',1.07
+Dark Depths,Legendary Snow Land,None,Coldsnap,Rare,0,Colorless,False,False,True,True,b'Stephan Martiniere',27.07
+Frost Marsh,Snow Land,None,Coldsnap,Uncommon,0,Colorless,True,False,True,False,b'Jim Pavelec',1.53
+Highland Weald,Snow Land,None,Coldsnap,Uncommon,0,Colorless,True,False,True,False,b'John Avon',0.34
+Mouth of Ronom,Snow Land,None,Coldsnap,Uncommon,0,Colorless,True,False,True,False,b'Daren Bader',0.66
+Scrying Sheets,Snow Land,None,Coldsnap,Rare,0,Colorless,True,False,True,False,b'Thomas M. Baxa',11.91
+Tresserhorn Sinks,Snow Land,None,Coldsnap,Uncommon,0,Colorless,True,False,True,False,b'Darrell Riche',0.93
+Snow-Covered Plains,Basic Snow Land,Plains,Coldsnap,Common,0,Colorless,True,False,True,True,b'Mark Romanoski',0.64
+Snow-Covered Island,Basic Snow Land,Island,Coldsnap,Common,0,Colorless,True,False,True,True,b'Franz Vohwinkel',1.14
+Snow-Covered Swamp,Basic Snow Land,Swamp,Coldsnap,Common,0,Colorless,True,False,True,True,b'Rob Alexander',0.92
+Snow-Covered Mountain,Basic Snow Land,Mountain,Coldsnap,Common,0,Colorless,True,False,True,True,b'John Zeleznik',0.98
+Snow-Covered Forest,Basic Snow Land,Forest,Coldsnap,Common,0,Colorless,True,False,True,True,b'Jim Nelson',0.68
