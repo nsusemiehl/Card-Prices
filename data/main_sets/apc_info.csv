@@ -1,144 +1,144 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Angelfire Crusader,Creature,Human Soldier Knight,Apocalypse,Common,4,White,False,False,True,False,"b'Edward P. Beard, Jr.'",0.08
-Coalition Flag,Enchantment,Aura,Apocalypse,Uncommon,1,White,False,False,True,False,b'Darrell Riche',0.18
-Coalition Honor Guard,Creature,Human Flagbearer,Apocalypse,Common,4,White,False,False,True,True,b'Eric Peterson',0.09
-Dega Disciple,Creature,Human Wizard,Apocalypse,Common,1,White,False,False,True,False,b'Alan Pollack',0.04
-Dega Sanctuary,Enchantment,None,Apocalypse,Uncommon,3,White,False,False,True,False,b'Ben Thompson',0.16
-Degavolver,Creature,Volver,Apocalypse,Rare,2,White,False,False,True,False,b'Ron Spencer',0.18
-Diversionary Tactics,Enchantment,None,Apocalypse,Uncommon,4,White,False,False,True,False,b'Jerry Tiritilli',0.17
-Divine Light,Sorcery,None,Apocalypse,Common,1,White,False,False,True,False,b'Christopher Moeller',0.09
-Enlistment Officer,Creature,Human Soldier,Apocalypse,Uncommon,4,White,False,False,True,False,b'Wayne England',0.25
-False Dawn,Sorcery,None,Apocalypse,Rare,2,White,False,False,True,False,b'Dave Dorman',0.29
-Gerrard Capashen,Legendary Creature,Human Soldier,Apocalypse,Rare,5,White,False,False,True,True,b'Brom',0.27
-Haunted Angel,Creature,Angel,Apocalypse,Uncommon,3,White,False,False,True,False,b'Arnie Swekel',0.11
-Helionaut,Creature,Human Soldier,Apocalypse,Common,3,White,False,False,True,False,b'Franz Vohwinkel',0.06
-Manacles of Decay,Enchantment,Aura,Apocalypse,Common,2,White,False,False,True,False,b'Gary Ruddell',0.06
-Orim's Thunder,Instant,None,Apocalypse,Common,3,White,False,False,True,True,b'Carl Critchlow',0.16
-Shield of Duty and Reason,Enchantment,Aura,Apocalypse,Common,1,White,False,False,True,False,b'Anthony S. Waters',0.18
-Spectral Lynx,Creature,Cat Spirit,Apocalypse,Rare,2,White,False,False,True,False,b'Heather Hudson',0.27
-Standard Bearer,Creature,Human Flagbearer,Apocalypse,Common,2,White,False,False,True,False,b'Ron Spencer',0.84
-Ceta Disciple,Creature,Merfolk Wizard,Apocalypse,Common,1,Blue,False,False,True,False,b'Greg Hildebrandt',0.07
-Ceta Sanctuary,Enchantment,None,Apocalypse,Uncommon,3,Blue,False,False,True,False,b'Franz Vohwinkel',0.14
-Cetavolver,Creature,Volver,Apocalypse,Rare,2,Blue,False,False,True,False,b'Gary Ruddell',0.18
-Coastal Drake,Creature,Drake,Apocalypse,Common,3,Blue,False,False,True,False,b'John Gallagher',0.09
-Evasive Action,Instant,None,Apocalypse,Uncommon,2,Blue,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.13
-Ice Cave,Enchantment,None,Apocalypse,Rare,5,Blue,False,False,True,False,b'Jerry Tiritilli',0.36
-Index,Sorcery,None,Apocalypse,Common,1,Blue,True,False,True,True,b'Kev Walker',0.15
-Jaded Response,Instant,None,Apocalypse,Common,2,Blue,False,False,True,False,b'Matt Cavotta',0.22
-Jilt,Instant,None,Apocalypse,Common,2,Blue,False,False,True,False,b'Terese Nielsen',0.12
-Living Airship,Creature,Metathran,Apocalypse,Common,4,Blue,False,False,True,False,b'Mark Tedin',0.04
-Reef Shaman,Creature,Merfolk Shaman,Apocalypse,Common,1,Blue,False,False,True,False,b'Scott M. Fischer',0.16
-Shimmering Mirage,Instant,None,Apocalypse,Common,2,Blue,False,False,True,False,b'Rebecca Guay',0.06
-Tidal Courier,Creature,Merfolk,Apocalypse,Uncommon,4,Blue,False,False,True,True,b'Wayne England',0.13
-Unnatural Selection,Enchantment,None,Apocalypse,Rare,2,Blue,False,False,True,False,b'Kev Walker',1.2
-Vodalian Mystic,Creature,Merfolk Wizard,Apocalypse,Uncommon,2,Blue,False,False,True,False,b'Bob Petillo',0.16
-Whirlpool Drake,Creature,Drake,Apocalypse,Uncommon,4,Blue,False,False,True,False,b'Alan Pollack',0.35
-Whirlpool Rider,Creature,Merfolk,Apocalypse,Common,2,Blue,False,False,True,False,b'Ray Lago',0.44
-Whirlpool Warrior,Creature,Merfolk Warrior,Apocalypse,Rare,3,Blue,False,False,True,True,b'Kev Walker',1.18
-Dead Ringers,Sorcery,None,Apocalypse,Common,5,Black,False,False,True,False,b'Greg Staples',0.05
-Desolation Angel,Creature,Angel,Apocalypse,Rare,5,Black,False,False,True,True,b'Brom',1.04
-Foul Presence,Enchantment,Aura,Apocalypse,Uncommon,3,Black,False,False,True,False,b'Ray Lago',0.08
-Grave Defiler,Creature,Zombie,Apocalypse,Uncommon,4,Black,False,False,True,False,b'Tony Szczudlo',0.24
-Last Caress,Sorcery,None,Apocalypse,Common,3,Black,False,False,True,False,b'Eric Peterson',0.07
-Mind Extraction,Sorcery,None,Apocalypse,Common,3,Black,False,False,True,False,b'Adam Rex',0.06
-Mournful Zombie,Creature,Zombie,Apocalypse,Common,3,Black,False,False,True,False,b'John Matson',0.07
-Necra Disciple,Creature,Human Wizard,Apocalypse,Common,1,Black,False,False,True,False,b'Jeff Miracola',0.08
-Necra Sanctuary,Enchantment,None,Apocalypse,Uncommon,3,Black,False,False,True,False,b'Eric Peterson',0.15
-Necravolver,Creature,Volver,Apocalypse,Rare,3,Black,False,False,True,False,b'Dave Dorman',0.25
-Phyrexian Arena,Enchantment,None,Apocalypse,Rare,3,Black,True,False,True,True,b'Pete Venters',12.06
-Phyrexian Gargantua,Creature,Horror,Apocalypse,Uncommon,6,Black,True,False,True,True,b'Carl Critchlow',0.18
-Phyrexian Rager,Creature,Horror,Apocalypse,Common,3,Black,True,False,True,True,b'Mark Tedin',0.13
-Planar Despair,Sorcery,None,Apocalypse,Rare,5,Black,False,False,True,False,b'Mike Sass',0.14
-Quagmire Druid,Creature,Zombie Druid,Apocalypse,Common,3,Black,False,False,True,True,b'Dana Knutson',0.07
-Suppress,Sorcery,None,Apocalypse,Uncommon,3,Black,False,False,True,True,b'Terese Nielsen',0.11
-Urborg Uprising,Sorcery,None,Apocalypse,Common,5,Black,False,False,True,True,b'Adam Rex',0.09
-Zombie Boa,Creature,Zombie Snake,Apocalypse,Common,5,Black,False,False,True,False,b'Greg Staples',0.14
-Bloodfire Colossus,Creature,Giant,Apocalypse,Rare,8,Red,True,False,True,True,b'Greg Staples',0.26
-Bloodfire Dwarf,Creature,Dwarf,Apocalypse,Common,1,Red,False,False,True,False,b'Ron Spencer',0.08
-Bloodfire Infusion,Enchantment,Aura,Apocalypse,Common,3,Red,False,False,True,False,b'Anthony S. Waters',0.07
-Bloodfire Kavu,Creature,Kavu,Apocalypse,Uncommon,4,Red,False,False,True,True,b'Greg Staples',0.07
-Desolation Giant,Creature,Giant,Apocalypse,Rare,4,Red,True,False,True,True,b'Alan Pollack',0.21
-Dwarven Landslide,Sorcery,None,Apocalypse,Common,4,Red,False,False,True,False,b'Tony Szczudlo',0.21
-Dwarven Patrol,Creature,Dwarf,Apocalypse,Uncommon,3,Red,False,False,True,False,b'Greg Hildebrandt',0.12
-Goblin Ringleader,Creature,Goblin,Apocalypse,Uncommon,4,Red,True,True,True,True,b'Mark Romanoski',1.11
-Illuminate,Sorcery,None,Apocalypse,Uncommon,2,Red,False,False,True,False,b'Christopher Moeller',0.15
-Kavu Glider,Creature,Kavu,Apocalypse,Common,3,Red,False,False,True,False,b'Heather Hudson',0.05
-Minotaur Tactician,Creature,Minotaur,Apocalypse,Common,4,Red,False,False,True,False,b'Carl Critchlow',0.02
-Raka Disciple,Creature,Minotaur Wizard,Apocalypse,Common,1,Red,False,False,True,False,b'Arnie Swekel',0.05
-Raka Sanctuary,Enchantment,None,Apocalypse,Uncommon,3,Red,False,False,True,False,b'David Martin',0.11
-Rakavolver,Creature,Volver,Apocalypse,Rare,3,Red,False,False,True,False,b'Scott M. Fischer',0.18
-Smash,Instant,None,Apocalypse,Common,3,Red,True,False,True,True,b'Pete Venters',0.09
-Tahngarth's Glare,Sorcery,None,Apocalypse,Common,1,Red,False,False,True,False,b'Pete Venters',0.07
-Tundra Kavu,Creature,Kavu,Apocalypse,Common,3,Red,False,False,True,False,b'Matt Cavotta',0.07
-Wild Research,Enchantment,None,Apocalypse,Rare,3,Red,False,False,True,False,b'Gary Ruddell',1.48
-Ana Disciple,Creature,Human Wizard,Apocalypse,Common,1,Green,False,False,True,False,b'Darrell Riche',0.08
-Ana Sanctuary,Enchantment,None,Apocalypse,Uncommon,3,Green,False,False,True,True,b'Rob Alexander',0.15
-Anavolver,Creature,Volver,Apocalypse,Rare,4,Green,False,False,True,False,b'Matt Cavotta',0.18
-Bog Gnarr,Creature,Beast,Apocalypse,Common,5,Green,False,False,True,False,b'Daren Bader',0.05
-Gaea's Balance,Sorcery,None,Apocalypse,Uncommon,4,Green,False,False,True,False,b'Rebecca Guay',0.18
-Glade Gnarr,Creature,Beast,Apocalypse,Common,6,Green,False,False,True,False,b'Daren Bader',0.03
-Kavu Howler,Creature,Kavu,Apocalypse,Uncommon,6,Green,False,False,True,False,b'Wayne England',0.12
-Kavu Mauler,Creature,Kavu,Apocalypse,Rare,6,Green,False,False,True,False,b'Daren Bader',0.15
-Lay of the Land,Sorcery,None,Apocalypse,Common,1,Green,True,False,True,True,b'Mark Zug',0.12
-Penumbra Bobcat,Creature,Cat,Apocalypse,Common,3,Green,False,False,True,True,b'Heather Hudson',0.12
-Penumbra Kavu,Creature,Kavu,Apocalypse,Uncommon,5,Green,False,False,True,False,b'Tony Szczudlo',0.1
-Penumbra Wurm,Creature,Wurm,Apocalypse,Rare,7,Green,False,False,True,True,b'Jeff Easley',0.25
-Savage Gorilla,Creature,Ape,Apocalypse,Common,5,Green,False,False,True,False,b'Dave Dorman',0.05
-Strength of Night,Instant,None,Apocalypse,Common,3,Green,False,False,True,False,b'John Avon',0.09
-Sylvan Messenger,Creature,Elf,Apocalypse,Uncommon,4,Green,True,False,True,True,b'Heather Hudson',0.23
-Symbiotic Deployment,Enchantment,None,Apocalypse,Rare,3,Green,False,False,True,False,b'Kev Walker',0.22
-Tranquil Path,Sorcery,None,Apocalypse,Common,5,Green,False,False,True,False,b'John Avon',0.06
-Urborg Elf,Creature,Elf Druid,Apocalypse,Common,2,Green,False,False,True,False,b'Bob Petillo',0.16
-Aether Mutation,Sorcery,None,Apocalypse,Uncommon,5,Gold,False,False,True,True,b'Ron Spencer',0.22
-Captain's Maneuver,Instant,None,Apocalypse,Uncommon,3,Gold,False,False,True,True,b'Ben Thompson',0.12
-Consume Strength,Instant,None,Apocalypse,Common,3,Gold,False,False,True,True,b'Adam Rex',0.12
-Cromat,Legendary Creature,Illusion,Apocalypse,Rare,5,Gold,False,False,True,False,b'Donato Giancola',1.57
-Death Grasp,Sorcery,None,Apocalypse,Rare,3,Gold,False,False,True,True,b'Eric Peterson',0.31
-Death Mutation,Sorcery,None,Apocalypse,Uncommon,8,Gold,False,False,True,True,b'Carl Critchlow',0.21
-Ebony Treefolk,Creature,Treefolk,Apocalypse,Uncommon,3,Gold,False,False,True,False,b'Matt Cavotta',0.15
-Fervent Charge,Enchantment,None,Apocalypse,Rare,4,Gold,False,False,True,False,b'Mark Tedin',0.31
-Flowstone Charger,Creature,Beast,Apocalypse,Uncommon,4,Gold,False,False,True,False,b'John Gallagher',0.11
-Fungal Shambler,Creature,Fungus Beast,Apocalypse,Rare,7,Gold,False,False,True,True,b'Jim Nelson',0.22
-Gaea's Skyfolk,Creature,Elf Merfolk,Apocalypse,Common,2,Gold,False,False,True,False,b'Terese Nielsen',0.12
-Gerrard's Verdict,Sorcery,None,Apocalypse,Uncommon,2,Gold,False,False,True,True,b'Carl Critchlow',0.27
-Goblin Legionnaire,Creature,Goblin Soldier,Apocalypse,Common,2,Gold,False,False,True,True,b'Mark Romanoski',0.1
-Goblin Trenches,Enchantment,None,Apocalypse,Rare,3,Gold,False,False,True,True,b'Wayne England',0.21
-Guided Passage,Sorcery,None,Apocalypse,Rare,3,Gold,False,False,True,True,b'Alex Horley-Orlandelli',1.63
-Jungle Barrier,Creature,Plant Wall,Apocalypse,Uncommon,4,Gold,False,False,True,True,"b'Edward P. Beard, Jr.'",0.14
-Last Stand,Sorcery,None,Apocalypse,Rare,5,Gold,False,False,True,True,b'Ron Spencer',0.21
-Lightning Angel,Creature,Angel,Apocalypse,Rare,4,Gold,True,False,True,True,b'rk post',0.4
-Llanowar Dead,Creature,Zombie Elf,Apocalypse,Common,2,Gold,False,False,True,False,b'Ben Thompson',0.14
-Martyrs' Tomb,Enchantment,None,Apocalypse,Uncommon,4,Gold,False,False,True,False,b'Anthony S. Waters',0.11
-Minotaur Illusionist,Creature,Minotaur Wizard,Apocalypse,Uncommon,5,Gold,False,False,True,False,b'Mark Zug',0.09
-Mystic Snake,Creature,Snake,Apocalypse,Rare,4,Gold,True,False,True,True,b'Daren Bader',0.71
-Overgrown Estate,Enchantment,None,Apocalypse,Rare,3,Gold,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.26
-Pernicious Deed,Enchantment,None,Apocalypse,Rare,3,Gold,False,False,True,True,b'Christopher Moeller',4.6
-Powerstone Minefield,Enchantment,None,Apocalypse,Rare,4,Gold,False,False,True,False,b'Greg Hildebrandt',0.29
-Prophetic Bolt,Instant,None,Apocalypse,Rare,5,Gold,False,False,True,True,b'Dave Dorman',0.33
-Putrid Warrior,Creature,Zombie Soldier Warrior,Apocalypse,Common,2,Gold,False,False,True,False,b'Ray Lago',0.11
-Quicksilver Dagger,Enchantment,Aura,Apocalypse,Common,3,Gold,False,False,True,True,b'Alex Horley-Orlandelli',0.09
-Razorfin Hunter,Creature,Merfolk Goblin,Apocalypse,Common,2,Gold,False,False,True,True,b'Jeff Easley',0.16
-Soul Link,Enchantment,Aura,Apocalypse,Common,3,Gold,False,False,True,False,b'Jeff Easley',0.11
-Spiritmonger,Creature,Beast,Apocalypse,Rare,5,Gold,False,False,True,True,b'Glen Angus',0.71
-Squee's Embrace,Enchantment,Aura,Apocalypse,Common,2,Gold,False,False,True,False,b'Rebecca Guay',0.16
-Squee's Revenge,Sorcery,None,Apocalypse,Uncommon,3,Gold,False,False,True,False,b'Kev Walker',0.41
-Suffocating Blast,Instant,None,Apocalypse,Rare,4,Gold,False,False,True,False,b'Christopher Moeller',0.25
-Temporal Spring,Sorcery,None,Apocalypse,Common,3,Gold,False,False,True,True,b'John Matson',0.15
-Vindicate,Sorcery,None,Apocalypse,Rare,3,Gold,False,False,True,True,b'Brian Sn\xc3\xb5ddy',5.22
-Yavimaya's Embrace,Enchantment,Aura,Apocalypse,Rare,8,Gold,False,False,True,True,b'Eric Peterson',0.18
-Fire,Instant,None,Apocalypse,Uncommon,2,Red,False,False,True,True,b'David Martin',0.28
-Illusion,Instant,None,Apocalypse,Uncommon,1,Blue,False,False,True,False,b'John Avon',0.09
-Life,Sorcery,None,Apocalypse,Uncommon,1,Green,False,False,True,True,b'Anthony S. Waters',0.67
-Night,Instant,None,Apocalypse,Uncommon,1,Black,False,False,True,False,b'Christopher Moeller',0.1
-Order,Instant,None,Apocalypse,Uncommon,4,White,False,False,True,True,b'Tim Hildebrandt',0.2
-Brass Herald,Artifact Creature,Golem,Apocalypse,Uncommon,6,Colorless,True,False,True,True,b'Daren Bader',0.5
-Dodecapod,Artifact Creature,Golem,Apocalypse,Uncommon,4,Colorless,True,False,True,True,b'John Howe',0.07
-Dragon Arch,Artifact,None,Apocalypse,Uncommon,5,Colorless,False,False,True,False,b'Dana Knutson',2.8
-Emblazoned Golem,Artifact Creature,Golem,Apocalypse,Uncommon,2,Colorless,False,False,True,False,b'Greg Staples',0.12
-Legacy Weapon,Legendary Artifact,None,Apocalypse,Rare,7,Colorless,True,False,True,True,b'John Avon',2.17
-Mask of Intolerance,Artifact,None,Apocalypse,Rare,2,Colorless,False,False,True,False,b'Glen Angus',0.21
-Battlefield Forge,Land,None,Apocalypse,Rare,0,Colorless,True,False,True,True,b'Darrell Riche',3.57
-Caves of Koilos,Land,None,Apocalypse,Rare,0,Colorless,True,False,True,True,b'Jim Nelson',2.8
-Llanowar Wastes,Land,None,Apocalypse,Rare,0,Colorless,True,False,True,True,b'Rob Alexander',5.5
-Shivan Reef,Land,None,Apocalypse,Rare,0,Colorless,True,False,True,True,b'Rob Alexander',9.52
-Yavimaya Coast,Land,None,Apocalypse,Rare,0,Colorless,True,False,True,True,b'Anthony S. Waters',6.47
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Angelfire Crusader,Creature,Human Soldier Knight,Apocalypse,Common,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,"b'Edward P. Beard, Jr.'",0.08,False
+Coalition Flag,Enchantment,Aura,Apocalypse,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Darrell Riche',0.18,False
+Coalition Honor Guard,Creature,Human Flagbearer,Apocalypse,Common,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Peterson',0.1,False
+Dega Disciple,Creature,Human Wizard,Apocalypse,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Pollack',0.05,False
+Dega Sanctuary,Enchantment,None,Apocalypse,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ben Thompson',0.17,False
+Degavolver,Creature,Volver,Apocalypse,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.18,False
+Diversionary Tactics,Enchantment,None,Apocalypse,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jerry Tiritilli',0.16,False
+Divine Light,Sorcery,None,Apocalypse,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.1,False
+Enlistment Officer,Creature,Human Soldier,Apocalypse,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne England',0.23,False
+False Dawn,Sorcery,None,Apocalypse,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Dorman',0.32,False
+Gerrard Capashen,Creature,Human Soldier,Apocalypse,Rare,5,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brom',0.3,True
+Haunted Angel,Creature,Angel,Apocalypse,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Arnie Swekel',0.14,False
+Helionaut,Creature,Human Soldier,Apocalypse,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Franz Vohwinkel',0.07,False
+Manacles of Decay,Enchantment,Aura,Apocalypse,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Gary Ruddell',0.06,False
+Orim's Thunder,Instant,None,Apocalypse,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.18,False
+Shield of Duty and Reason,Enchantment,Aura,Apocalypse,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony S. Waters',0.18,False
+Spectral Lynx,Creature,Cat Spirit,Apocalypse,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.26,False
+Standard Bearer,Creature,Human Flagbearer,Apocalypse,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.75,False
+Ceta Disciple,Creature,Merfolk Wizard,Apocalypse,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Hildebrandt',0.08,False
+Ceta Sanctuary,Enchantment,None,Apocalypse,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Franz Vohwinkel',0.15,False
+Cetavolver,Creature,Volver,Apocalypse,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Gary Ruddell',0.16,False
+Coastal Drake,Creature,Drake,Apocalypse,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'John Gallagher',0.15,False
+Evasive Action,Instant,None,Apocalypse,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.12,False
+Ice Cave,Enchantment,None,Apocalypse,Rare,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jerry Tiritilli',0.38,False
+Index,Sorcery,None,Apocalypse,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.15,False
+Jaded Response,Instant,None,Apocalypse,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.22,False
+Jilt,Instant,None,Apocalypse,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.13,False
+Living Airship,Creature,Metathran,Apocalypse,Common,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',0.04,False
+Reef Shaman,Creature,Merfolk Shaman,Apocalypse,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',0.16,False
+Shimmering Mirage,Instant,None,Apocalypse,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rebecca Guay',0.07,False
+Tidal Courier,Creature,Merfolk,Apocalypse,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne England',0.12,False
+Unnatural Selection,Enchantment,None,Apocalypse,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',1.26,False
+Vodalian Mystic,Creature,Merfolk Wizard,Apocalypse,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Bob Petillo',0.17,False
+Whirlpool Drake,Creature,Drake,Apocalypse,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Pollack',0.41,False
+Whirlpool Rider,Creature,Merfolk,Apocalypse,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ray Lago',0.48,False
+Whirlpool Warrior,Creature,Merfolk Warrior,Apocalypse,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',2.22,False
+Dead Ringers,Sorcery,None,Apocalypse,Common,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.05,False
+Desolation Angel,Creature,Angel,Apocalypse,Rare,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brom',1.01,False
+Foul Presence,Enchantment,Aura,Apocalypse,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ray Lago',0.08,False
+Grave Defiler,Creature,Zombie,Apocalypse,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Tony Szczudlo',0.23,False
+Last Caress,Sorcery,None,Apocalypse,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Eric Peterson',0.09,False
+Mind Extraction,Sorcery,None,Apocalypse,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Rex',0.13,False
+Mournful Zombie,Creature,Zombie,Apocalypse,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'John Matson',0.08,False
+Necra Disciple,Creature,Human Wizard,Apocalypse,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Miracola',0.08,False
+Necra Sanctuary,Enchantment,None,Apocalypse,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Eric Peterson',0.13,False
+Necravolver,Creature,Volver,Apocalypse,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Dorman',0.25,False
+Phyrexian Arena,Enchantment,None,Apocalypse,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',11.17,False
+Phyrexian Gargantua,Creature,Horror,Apocalypse,Uncommon,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.18,False
+Phyrexian Rager,Creature,Horror,Apocalypse,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.15,False
+Planar Despair,Sorcery,None,Apocalypse,Rare,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Sass',0.14,False
+Quagmire Druid,Creature,Zombie Druid,Apocalypse,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dana Knutson',0.11,False
+Suppress,Sorcery,None,Apocalypse,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.15,False
+Urborg Uprising,Sorcery,None,Apocalypse,Common,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',0.09,False
+Zombie Boa,Creature,Zombie Snake,Apocalypse,Common,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.14,False
+Bloodfire Colossus,Creature,Giant,Apocalypse,Rare,8,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.25,False
+Bloodfire Dwarf,Creature,Dwarf,Apocalypse,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.13,False
+Bloodfire Infusion,Enchantment,Aura,Apocalypse,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony S. Waters',0.07,False
+Bloodfire Kavu,Creature,Kavu,Apocalypse,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.09,False
+Desolation Giant,Creature,Giant,Apocalypse,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.18,False
+Dwarven Landslide,Sorcery,None,Apocalypse,Common,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Tony Szczudlo',0.09,False
+Dwarven Patrol,Creature,Dwarf,Apocalypse,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Hildebrandt',0.12,False
+Goblin Ringleader,Creature,Goblin,Apocalypse,Uncommon,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Mark Romanoski',0.99,False
+Illuminate,Sorcery,None,Apocalypse,Uncommon,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.15,False
+Kavu Glider,Creature,Kavu,Apocalypse,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.05,False
+Minotaur Tactician,Creature,Minotaur,Apocalypse,Common,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.02,False
+Raka Disciple,Creature,Minotaur Wizard,Apocalypse,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Arnie Swekel',0.06,False
+Raka Sanctuary,Enchantment,None,Apocalypse,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'David Martin',0.11,False
+Rakavolver,Creature,Volver,Apocalypse,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',0.17,False
+Smash,Instant,None,Apocalypse,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.09,False
+Tahngarth's Glare,Sorcery,None,Apocalypse,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.08,False
+Tundra Kavu,Creature,Kavu,Apocalypse,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.07,False
+Wild Research,Enchantment,None,Apocalypse,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Gary Ruddell',1.93,False
+Ana Disciple,Creature,Human Wizard,Apocalypse,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Darrell Riche',0.09,False
+Ana Sanctuary,Enchantment,None,Apocalypse,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.19,False
+Anavolver,Creature,Volver,Apocalypse,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.18,False
+Bog Gnarr,Creature,Beast,Apocalypse,Common,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.06,False
+Gaea's Balance,Sorcery,None,Apocalypse,Uncommon,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rebecca Guay',0.16,False
+Glade Gnarr,Creature,Beast,Apocalypse,Common,6,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.03,False
+Kavu Howler,Creature,Kavu,Apocalypse,Uncommon,6,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne England',0.12,False
+Kavu Mauler,Creature,Kavu,Apocalypse,Rare,6,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.14,False
+Lay of the Land,Sorcery,None,Apocalypse,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.1,False
+Penumbra Bobcat,Creature,Cat,Apocalypse,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.14,False
+Penumbra Kavu,Creature,Kavu,Apocalypse,Uncommon,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Tony Szczudlo',0.1,False
+Penumbra Wurm,Creature,Wurm,Apocalypse,Rare,7,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Easley',0.25,False
+Savage Gorilla,Creature,Ape,Apocalypse,Common,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Dorman',0.05,False
+Strength of Night,Instant,None,Apocalypse,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.1,False
+Sylvan Messenger,Creature,Elf,Apocalypse,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.29,False
+Symbiotic Deployment,Enchantment,None,Apocalypse,Rare,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.23,False
+Tranquil Path,Sorcery,None,Apocalypse,Common,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.07,False
+Urborg Elf,Creature,Elf Druid,Apocalypse,Common,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Bob Petillo',0.19,False
+Aether Mutation,Sorcery,None,Apocalypse,Uncommon,5,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.21,False
+Captain's Maneuver,Instant,None,Apocalypse,Uncommon,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ben Thompson',0.14,False
+Consume Strength,Instant,None,Apocalypse,Common,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',0.13,False
+Cromat,Creature,Illusion,Apocalypse,Rare,5,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Donato Giancola',1.58,True
+Death Grasp,Sorcery,None,Apocalypse,Rare,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Peterson',0.32,False
+Death Mutation,Sorcery,None,Apocalypse,Uncommon,8,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.2,False
+Ebony Treefolk,Creature,Treefolk,Apocalypse,Uncommon,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.17,False
+Fervent Charge,Enchantment,None,Apocalypse,Rare,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',0.33,False
+Flowstone Charger,Creature,Beast,Apocalypse,Uncommon,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'John Gallagher',0.12,False
+Fungal Shambler,Creature,Fungus Beast,Apocalypse,Rare,7,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Nelson',0.23,False
+Gaea's Skyfolk,Creature,Elf Merfolk,Apocalypse,Common,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.14,False
+Gerrard's Verdict,Sorcery,None,Apocalypse,Uncommon,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.28,False
+Goblin Legionnaire,Creature,Goblin Soldier,Apocalypse,Common,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Romanoski',0.11,False
+Goblin Trenches,Enchantment,None,Apocalypse,Rare,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne England',0.21,False
+Guided Passage,Sorcery,None,Apocalypse,Rare,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Alex Horley-Orlandelli',1.49,False
+Jungle Barrier,Creature,Plant Wall,Apocalypse,Uncommon,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,"b'Edward P. Beard, Jr.'",0.15,False
+Last Stand,Sorcery,None,Apocalypse,Rare,5,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.19,False
+Lightning Angel,Creature,Angel,Apocalypse,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',0.45,False
+Llanowar Dead,Creature,Zombie Elf,Apocalypse,Common,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ben Thompson',0.17,False
+Martyrs' Tomb,Enchantment,None,Apocalypse,Uncommon,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony S. Waters',0.11,False
+Minotaur Illusionist,Creature,Minotaur Wizard,Apocalypse,Uncommon,5,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Zug',0.09,False
+Mystic Snake,Creature,Snake,Apocalypse,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.66,False
+Overgrown Estate,Enchantment,None,Apocalypse,Rare,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brian Sn\xc3\xb5ddy',0.29,False
+Pernicious Deed,Enchantment,None,Apocalypse,Rare,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',4.92,False
+Powerstone Minefield,Enchantment,None,Apocalypse,Rare,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Hildebrandt',0.31,False
+Prophetic Bolt,Instant,None,Apocalypse,Rare,5,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Dorman',0.3,False
+Putrid Warrior,Creature,Zombie Soldier Warrior,Apocalypse,Common,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ray Lago',0.1,False
+Quicksilver Dagger,Enchantment,Aura,Apocalypse,Common,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Alex Horley-Orlandelli',0.1,False
+Razorfin Hunter,Creature,Merfolk Goblin,Apocalypse,Common,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Easley',0.19,False
+Soul Link,Enchantment,Aura,Apocalypse,Common,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Easley',0.14,False
+Spiritmonger,Creature,Beast,Apocalypse,Rare,5,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Glen Angus',0.7,False
+Squee's Embrace,Enchantment,Aura,Apocalypse,Common,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rebecca Guay',0.16,False
+Squee's Revenge,Sorcery,None,Apocalypse,Uncommon,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.61,False
+Suffocating Blast,Instant,None,Apocalypse,Rare,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.28,False
+Temporal Spring,Sorcery,None,Apocalypse,Common,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',0.18,False
+Vindicate,Sorcery,None,Apocalypse,Rare,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',4.9,False
+Yavimaya's Embrace,Enchantment,Aura,Apocalypse,Rare,8,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Peterson',0.19,False
+Fire,Instant,None,Apocalypse,Uncommon,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'David Martin',0.29,False
+Illusion,Instant,None,Apocalypse,Uncommon,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.1,False
+Life,Sorcery,None,Apocalypse,Uncommon,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',0.68,False
+Night,Instant,None,Apocalypse,Uncommon,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.11,False
+Order,Instant,None,Apocalypse,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Tim Hildebrandt',0.17,False
+Brass Herald,Artifact Creature,Golem,Apocalypse,Uncommon,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.56,False
+Dodecapod,Artifact Creature,Golem,Apocalypse,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'John Howe',0.07,False
+Dragon Arch,Artifact,None,Apocalypse,Uncommon,5,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dana Knutson',2.8,False
+Emblazoned Golem,Artifact Creature,Golem,Apocalypse,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.12,False
+Legacy Weapon,Artifact,None,Apocalypse,Rare,7,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',2.09,True
+Mask of Intolerance,Artifact,None,Apocalypse,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Glen Angus',0.24,False
+Battlefield Forge,Land,None,Apocalypse,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Darrell Riche',3.14,False
+Caves of Koilos,Land,None,Apocalypse,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Nelson',2.75,False
+Llanowar Wastes,Land,None,Apocalypse,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',5.87,False
+Shivan Reef,Land,None,Apocalypse,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',9.35,False
+Yavimaya Coast,Land,None,Apocalypse,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',6.32,False

@@ -1,250 +1,250 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Battlewise Valor,Instant,None,Theros,Common,2,White,True,False,True,False,b'Zack Stella',0.05
-Cavalry Pegasus,Creature,Pegasus,Theros,Common,2,White,True,False,True,True,b'Kev Walker',0.12
-Celestial Archon,Enchantment Creature,Archon,Theros,Rare,5,White,True,False,True,True,b'Matt Stewart',0.13
-Chained to the Rocks,Enchantment,Aura,Theros,Rare,1,White,True,False,True,False,b'Aaron Miller',0.4
-Chosen by Heliod,Enchantment,Aura,Theros,Common,2,White,True,False,True,False,b'Zack Stella',0.06
-Dauntless Onslaught,Instant,None,Theros,Uncommon,3,White,True,False,True,True,b'Peter Mohrbacher',0.06
-Decorated Griffin,Creature,Griffin,Theros,Uncommon,5,White,True,False,True,False,b'Phill Simmer',0.03
-Divine Verdict,Instant,None,Theros,Common,4,White,True,False,True,True,b'Raymond Swanland',0.03
-"Elspeth, Sun's Champion",Legendary Planeswalker,Elspeth,Theros,Mythic Rare,6,White,True,False,True,True,b'Eric Deschamps',10.61
-Ephara's Warden,Creature,Human Cleric,Theros,Common,4,White,True,False,True,False,b'Zack Stella',0.04
-Evangel of Heliod,Creature,Human Cleric,Theros,Uncommon,6,White,True,False,True,False,b'Nils Hamm',0.12
-Fabled Hero,Creature,Human Soldier,Theros,Rare,3,White,True,False,True,False,b'Aaron Miller',0.28
-Favored Hoplite,Creature,Human Soldier,Theros,Uncommon,1,White,True,False,True,False,b'Winona Nelson',0.55
-Gift of Immortality,Enchantment,Aura,Theros,Rare,3,White,True,False,True,False,b'Matt Stewart',1.74
-Glare of Heresy,Sorcery,None,Theros,Uncommon,2,White,True,False,True,False,b'Raymond Swanland',0.17
-Gods Willing,Instant,None,Theros,Common,1,White,True,True,True,True,b'Mark Winters',0.15
-"Heliod, God of the Sun",Legendary Enchantment Creature,God,Theros,Mythic Rare,4,White,True,False,True,True,b'Jaime Jones',3.94
-Heliod's Emissary,Enchantment Creature,Elk,Theros,Uncommon,4,White,True,False,True,False,b'Sam Burley',0.08
-Hopeful Eidolon,Enchantment Creature,Spirit,Theros,Common,1,White,True,False,True,False,b'Min Yum',0.12
-Hundred-Handed One,Creature,Giant,Theros,Rare,4,White,True,False,True,True,b'Brad Rigney',0.18
-Lagonna-Band Elder,Creature,Centaur Advisor,Theros,Common,3,White,True,False,True,False,b'Min Yum',0.01
-Last Breath,Instant,None,Theros,Common,2,White,True,False,True,True,b'Nils Hamm',0.11
-Leonin Snarecaster,Creature,Cat Soldier,Theros,Common,2,White,True,False,True,True,b'Kev Walker',0.06
-Observant Alseid,Enchantment Creature,Nymph,Theros,Common,3,White,True,False,True,False,b'Todd Lockwood',0.09
-Ordeal of Heliod,Enchantment,Aura,Theros,Uncommon,2,White,True,False,True,True,b'Lucas Graciano',0.12
-Phalanx Leader,Creature,Human Soldier,Theros,Uncommon,2,White,True,False,True,True,b'David Palumbo',0.19
-Ray of Dissolution,Instant,None,Theros,Common,3,White,True,False,True,False,b'Terese Nielsen',0.06
-Scholar of Athreos,Creature,Human Cleric,Theros,Common,3,White,True,False,True,False,b'Cynthia Sheppard',0.09
-Setessan Battle Priest,Creature,Human Cleric,Theros,Common,2,White,True,False,True,False,b'Wesley Burt',0.07
-Setessan Griffin,Creature,Griffin,Theros,Common,5,White,True,False,True,False,b'Greg Staples',0.02
-Silent Artisan,Creature,Giant,Theros,Common,5,White,True,False,True,False,b'Anthony Palumbo',0.02
-Soldier of the Pantheon,Creature,Human Soldier,Theros,Rare,1,White,True,False,True,False,b'Eric Deschamps',0.3
-Spear of Heliod,Legendary Enchantment Artifact,None,Theros,Rare,3,White,True,False,True,False,b'Yeong-Hao Han',1.09
-Traveling Philosopher,Creature,Human Advisor,Theros,Common,2,White,True,False,True,False,b'James Ryman',0.02
-Vanquish the Foul,Sorcery,None,Theros,Uncommon,6,White,True,False,True,False,b'Eric Deschamps',0.04
-Wingsteed Rider,Creature,Human Knight,Theros,Common,3,White,True,False,True,True,b'Cynthia Sheppard',0.04
-Yoked Ox,Creature,Ox,Theros,Common,1,White,True,True,True,True,b'Ryan Yee',0.1
-Annul,Instant,None,Theros,Common,1,Blue,True,False,True,True,b'Christine Choi',0.13
-Aqueous Form,Enchantment,Aura,Theros,Common,1,Blue,True,False,True,False,b'Slawomir Maniak',0.28
-Artisan of Forms,Creature,Human Wizard,Theros,Rare,2,Blue,True,False,True,False,b'Min Yum',0.14
-Benthic Giant,Creature,Giant,Theros,Common,6,Blue,True,False,True,True,b'Jaime Jones',0.04
-Bident of Thassa,Legendary Enchantment Artifact,None,Theros,Rare,4,Blue,True,False,True,True,b'Yeong-Hao Han',1.12
-Breaching Hippocamp,Creature,Horse Fish,Theros,Common,4,Blue,True,False,True,False,b'Christopher Burdett',0.14
-Coastline Chimera,Creature,Chimera,Theros,Common,4,Blue,True,False,True,False,b'Dan Scott',0.02
-Crackling Triton,Creature,Merfolk Wizard,Theros,Common,3,Blue,True,False,True,False,b'Greg Staples',0.02
-Curse of the Swine,Sorcery,None,Theros,Rare,3,Blue,True,False,True,False,b'James Ryman',0.64
-Dissolve,Instant,None,Theros,Uncommon,3,Blue,True,False,True,True,b'Wesley Burt',0.22
-Fate Foretold,Enchantment,Aura,Theros,Common,2,Blue,True,False,True,False,b'Dan Scott',0.06
-Gainsay,Instant,None,Theros,Uncommon,2,Blue,True,False,True,True,b'Clint Cearley',0.08
-Griptide,Instant,None,Theros,Common,4,Blue,True,False,True,True,b'Adam Paquette',0.01
-Horizon Scholar,Creature,Sphinx,Theros,Uncommon,6,Blue,True,False,True,True,b'Karl Kopinski',0.05
-Lost in a Labyrinth,Instant,None,Theros,Common,1,Blue,True,False,True,False,b'Winona Nelson',0.02
-Master of Waves,Creature,Merfolk Wizard,Theros,Mythic Rare,4,Blue,True,False,True,True,b'Karl Kopinski',2.72
-Meletis Charlatan,Creature,Human Wizard,Theros,Rare,3,Blue,True,False,True,False,b'Jason A. Engle',0.15
-Mnemonic Wall,Creature,Wall,Theros,Common,5,Blue,True,False,True,True,b'Trevor Claxton',0.14
-Nimbus Naiad,Enchantment Creature,Nymph,Theros,Common,3,Blue,True,False,True,False,b'David Palumbo',0.08
-Omenspeaker,Creature,Human Wizard,Theros,Common,2,Blue,True,False,True,True,b'Dallas Williams',0.05
-Ordeal of Thassa,Enchantment,Aura,Theros,Uncommon,2,Blue,True,False,True,False,b'Howard Lyon',0.12
-Prescient Chimera,Creature,Chimera,Theros,Common,5,Blue,True,False,True,False,b'Daarken',0.04
-Prognostic Sphinx,Creature,Sphinx,Theros,Rare,5,Blue,True,False,True,True,b'Steve Prescott',0.17
-Sea God's Revenge,Sorcery,None,Theros,Uncommon,6,Blue,True,False,True,False,b'Eric Velhagen',0.08
-Sealock Monster,Creature,Octopus,Theros,Uncommon,5,Blue,True,False,True,True,b'Adam Paquette',0.08
-Shipbreaker Kraken,Creature,Kraken,Theros,Rare,6,Blue,True,False,True,True,b'Jack Wang',0.25
-Stymied Hopes,Instant,None,Theros,Common,2,Blue,True,False,True,False,b'Peter Mohrbacher',0.05
-Swan Song,Instant,None,Theros,Rare,1,Blue,True,False,True,True,b'Peter Mohrbacher',6.57
-"Thassa, God of the Sea",Legendary Enchantment Creature,God,Theros,Mythic Rare,3,Blue,True,False,True,True,b'Jason Chan',11.79
-Thassa's Bounty,Sorcery,None,Theros,Common,6,Blue,True,False,True,False,b'Ryan Yee',0.08
-Thassa's Emissary,Enchantment Creature,Crab,Theros,Uncommon,4,Blue,True,False,True,False,b'Sam Burley',0.12
-Triton Fortune Hunter,Creature,Merfolk Soldier,Theros,Uncommon,3,Blue,True,False,True,False,b'Clint Cearley',0.11
-Triton Shorethief,Creature,Merfolk Rogue,Theros,Common,1,Blue,True,False,True,False,b'Howard Lyon',0.02
-Triton Tactics,Instant,None,Theros,Uncommon,1,Blue,True,False,True,True,b'Jack Wang',0.08
-Vaporkin,Creature,Elemental,Theros,Common,2,Blue,True,False,True,True,b'Seb McKinnon',0.05
-Voyage's End,Instant,None,Theros,Common,2,Blue,True,False,True,False,b'Chris Rahn',0.05
-Wavecrash Triton,Creature,Merfolk Wizard,Theros,Common,3,Blue,True,False,True,False,b'Ryan Barger',0.04
-Abhorrent Overlord,Creature,Demon,Theros,Rare,7,Black,True,False,True,True,b'Slawomir Maniak',0.39
-Agent of the Fates,Creature,Human Assassin,Theros,Rare,3,Black,True,False,True,False,b'Matt Stewart',0.22
-Asphodel Wanderer,Creature,Skeleton Soldier,Theros,Common,1,Black,True,False,True,False,b'Scott Chou',0.06
-Baleful Eidolon,Enchantment Creature,Spirit,Theros,Common,2,Black,True,False,True,False,b'Min Yum',0.07
-Blood-Toll Harpy,Creature,Harpy,Theros,Common,3,Black,True,False,True,True,b'Kev Walker',0.06
-Boon of Erebos,Instant,None,Theros,Common,1,Black,True,False,True,False,b'James Ryman',0.04
-Cavern Lampad,Enchantment Creature,Nymph,Theros,Common,4,Black,True,False,True,False,b'Volkan Ba\xc7\xb5a',0.11
-Cutthroat Maneuver,Instant,None,Theros,Uncommon,4,Black,True,False,True,False,b'Brad Rigney',0.03
-Dark Betrayal,Instant,None,Theros,Uncommon,1,Black,True,False,True,False,b'Nils Hamm',0.09
-Disciple of Phenax,Creature,Human Cleric,Theros,Common,4,Black,True,False,True,False,b'John Severin Brassell',0.06
-"Erebos, God of the Dead",Legendary Enchantment Creature,God,Theros,Mythic Rare,4,Black,True,False,True,True,b'Peter Mohrbacher',7.83
-Erebos's Emissary,Enchantment Creature,Snake,Theros,Uncommon,4,Black,True,False,True,False,b'Sam Burley',0.07
-Felhide Minotaur,Creature,Minotaur,Theros,Common,3,Black,True,False,True,False,b'Kev Walker',0.05
-Fleshmad Steed,Creature,Horse,Theros,Common,2,Black,True,False,True,False,b'Robbie Trevino',0.05
-Gray Merchant of Asphodel,Creature,Zombie,Theros,Common,5,Black,True,True,True,True,b'Robbie Trevino',0.36
-Hero's Downfall,Instant,None,Theros,Rare,3,Black,True,False,True,True,b'Ryan Pancoast',4.09
-Hythonia the Cruel,Legendary Creature,Gorgon,Theros,Mythic Rare,6,Black,True,False,True,False,b'Chris Rahn',0.47
-Insatiable Harpy,Creature,Harpy,Theros,Uncommon,4,Black,True,False,True,False,b'Matt Stewart',0.04
-Keepsake Gorgon,Creature,Gorgon,Theros,Uncommon,5,Black,True,False,True,True,b'Aaron Miller',0.08
-Lash of the Whip,Instant,None,Theros,Common,5,Black,True,False,True,False,b'Dan Scott',0.04
-Loathsome Catoblepas,Creature,Beast,Theros,Common,6,Black,True,False,True,False,b'Christopher Burdett',0.03
-March of the Returned,Sorcery,None,Theros,Common,4,Black,True,False,True,False,b'Mark Zug',0.09
-Mogis's Marauder,Creature,Human Berserker,Theros,Uncommon,3,Black,True,False,True,False,b'Chase Stone',0.1
-Nighthowler,Enchantment Creature,Horror,Theros,Rare,3,Black,True,False,True,True,b'Nils Hamm',0.36
-Ordeal of Erebos,Enchantment,Aura,Theros,Uncommon,2,Black,True,False,True,False,b'Tyler Jacobson',0.07
-Pharika's Cure,Instant,None,Theros,Common,2,Black,True,False,True,False,b'Igor Kieryluk',0.07
-Read the Bones,Sorcery,None,Theros,Common,3,Black,True,False,True,True,b'Lars Grant-West',0.21
-Rescue from the Underworld,Instant,None,Theros,Uncommon,5,Black,True,False,True,True,b'Raymond Swanland',0.12
-Returned Centaur,Creature,Zombie Centaur,Theros,Common,4,Black,True,False,True,True,b'Lucas Graciano',0.04
-Returned Phalanx,Creature,Zombie Soldier,Theros,Common,2,Black,True,False,True,True,b'Seb McKinnon',0.07
-Scourgemark,Enchantment,Aura,Theros,Common,2,Black,True,False,True,False,b'Franz Vohwinkel',0.04
-Sip of Hemlock,Sorcery,None,Theros,Common,6,Black,True,False,True,False,b'Nils Hamm',0.04
-Thoughtseize,Sorcery,None,Theros,Rare,1,Black,True,False,True,True,b'Lucas Graciano',25.87
-Tormented Hero,Creature,Human Warrior,Theros,Uncommon,1,Black,True,False,True,True,b'Winona Nelson',0.06
-Viper's Kiss,Enchantment,Aura,Theros,Common,1,Black,True,False,True,False,b'Svetlin Velinov',0.08
-Whip of Erebos,Legendary Enchantment Artifact,None,Theros,Rare,4,Black,True,False,True,True,b'Yeong-Hao Han',4.0
-Akroan Crusader,Creature,Human Soldier,Theros,Common,1,Red,True,False,True,True,b'Johann Bodin',0.12
-Anger of the Gods,Sorcery,None,Theros,Rare,3,Red,True,False,True,True,b'Noah Bradley',1.46
-Arena Athlete,Creature,Human,Theros,Uncommon,2,Red,True,False,True,True,b'Jason Chan',0.09
-Borderland Minotaur,Creature,Minotaur Warrior,Theros,Common,4,Red,True,False,True,False,b'Greg Staples',0.03
-Boulderfall,Instant,None,Theros,Common,8,Red,True,False,True,False,b'Ralph Horsley',0.05
-Coordinated Assault,Instant,None,Theros,Uncommon,1,Red,True,False,True,True,b'John Severin Brassell',0.09
-Deathbellow Raider,Creature,Minotaur Berserker,Theros,Common,2,Red,True,False,True,False,b'Wayne Reynolds',0.08
-Demolish,Sorcery,None,Theros,Common,4,Red,True,True,True,True,b'Volkan Ba\xc7\xb5a',0.05
-Dragon Mantle,Enchantment,Aura,Theros,Common,1,Red,True,False,True,False,b'Anthony Palumbo',0.1
-Ember Swallower,Creature,Elemental,Theros,Rare,4,Red,True,False,True,True,b'Slawomir Maniak',0.11
-Fanatic of Mogis,Creature,Minotaur Shaman,Theros,Uncommon,4,Red,True,False,True,False,b'Matt Stewart',0.25
-Firedrinker Satyr,Creature,Satyr Shaman,Theros,Rare,1,Red,True,False,True,False,b'Anthony Palumbo',0.26
-Flamespeaker Adept,Creature,Human Shaman,Theros,Uncommon,3,Red,True,False,True,False,b'Lucas Graciano',0.03
-Hammer of Purphoros,Legendary Enchantment Artifact,None,Theros,Rare,3,Red,True,False,True,False,b'Yeong-Hao Han',1.12
-Ill-Tempered Cyclops,Creature,Cyclops,Theros,Common,4,Red,True,False,True,True,b'Peter Mohrbacher',0.02
-Labyrinth Champion,Creature,Human Warrior,Theros,Rare,4,Red,True,False,True,False,b'Chase Stone',0.16
-Lightning Strike,Instant,None,Theros,Common,2,Red,True,False,True,True,b'Adam Paquette',0.15
-Magma Jet,Instant,None,Theros,Uncommon,2,Red,True,False,True,True,b'Maciej Kuciara',0.13
-Messenger's Speed,Enchantment,Aura,Theros,Common,1,Red,True,False,True,False,b'Clint Cearley',0.12
-Minotaur Skullcleaver,Creature,Minotaur Berserker,Theros,Common,3,Red,True,False,True,False,b'Phill Simmer',0.07
-Ordeal of Purphoros,Enchantment,Aura,Theros,Uncommon,2,Red,True,False,True,True,b'Maciej Kuciara',0.09
-Peak Eruption,Sorcery,None,Theros,Uncommon,3,Red,True,False,True,False,b'Adam Paquette',0.06
-Portent of Betrayal,Sorcery,None,Theros,Common,4,Red,True,True,True,True,b'Daarken',0.06
-Priest of Iroas,Creature,Human Cleric,Theros,Common,1,Red,True,False,True,False,b'Clint Cearley',0.03
-"Purphoros, God of the Forge",Legendary Enchantment Creature,God,Theros,Mythic Rare,4,Red,True,False,True,True,b'Eric Deschamps',15.68
-Purphoros's Emissary,Enchantment Creature,Ox,Theros,Uncommon,4,Red,True,False,True,False,b'Sam Burley',0.07
-Rage of Purphoros,Sorcery,None,Theros,Common,5,Red,True,False,True,False,b'Mathias Kollros',0.02
-Rageblood Shaman,Creature,Minotaur Shaman,Theros,Rare,3,Red,True,False,True,False,b'Mike Bierek',0.37
-Satyr Rambler,Creature,Satyr,Theros,Common,2,Red,True,False,True,False,b'John Stanko',0.06
-Spark Jolt,Instant,None,Theros,Common,1,Red,True,False,True,False,b'Mike Bierek',0.05
-Spearpoint Oread,Enchantment Creature,Nymph,Theros,Common,3,Red,True,False,True,False,b'Todd Lockwood',0.04
-Stoneshock Giant,Creature,Giant,Theros,Uncommon,5,Red,True,False,True,True,b'Lars Grant-West',0.09
-Stormbreath Dragon,Creature,Dragon,Theros,Mythic Rare,5,Red,True,False,True,False,b'Slawomir Maniak',2.49
-Titan of Eternal Fire,Creature,Giant,Theros,Rare,6,Red,True,False,True,True,b'Aleksi Briclot',0.11
-Titan's Strength,Instant,None,Theros,Common,1,Red,True,False,True,True,b'Karl Kopinski',0.21
-Two-Headed Cerberus,Creature,Hound,Theros,Common,3,Red,True,False,True,False,b'Karl Kopinski',0.08
-Wild Celebrants,Creature,Satyr,Theros,Common,5,Red,True,False,True,False,b'Igor Kieryluk',0.06
-Agent of Horizons,Creature,Human Rogue,Theros,Common,3,Green,True,False,True,False,b'Clint Cearley',0.02
-"Anthousa, Setessan Hero",Legendary Creature,Human Warrior,Theros,Rare,5,Green,True,False,True,True,b'Howard Lyon',0.16
-Arbor Colossus,Creature,Giant,Theros,Rare,5,Green,True,False,True,True,b'Jaime Jones',0.14
-Artisan's Sorrow,Instant,None,Theros,Uncommon,4,Green,True,False,True,False,b'Jung Park',0.04
-Boon Satyr,Enchantment Creature,Satyr,Theros,Rare,3,Green,True,False,True,True,b'Wesley Burt',0.22
-Bow of Nylea,Legendary Enchantment Artifact,None,Theros,Rare,3,Green,True,False,True,True,b'Yeong-Hao Han',1.44
-Centaur Battlemaster,Creature,Centaur Warrior,Theros,Uncommon,5,Green,True,False,True,False,b'Kev Walker',0.07
-Commune with the Gods,Sorcery,None,Theros,Common,2,Green,True,False,True,True,b'Aleksi Briclot',0.14
-Defend the Hearth,Instant,None,Theros,Common,2,Green,True,False,True,False,b'Raymond Swanland',0.09
-Fade into Antiquity,Sorcery,None,Theros,Common,3,Green,True,False,True,True,b'Noah Bradley',0.08
-Feral Invocation,Enchantment,Aura,Theros,Common,3,Green,True,True,True,True,b'Mathias Kollros',0.04
-Hunt the Hunter,Sorcery,None,Theros,Uncommon,1,Green,True,False,True,False,b'Ryan Barger',0.12
-Karametra's Acolyte,Creature,Human Druid,Theros,Uncommon,4,Green,True,False,True,True,b'Chase Stone',0.26
-Leafcrown Dryad,Enchantment Creature,Nymph Dryad,Theros,Common,2,Green,True,False,True,False,b'Volkan Ba\xc7\xb5a',0.1
-Mistcutter Hydra,Creature,Hydra,Theros,Rare,2,Green,True,False,True,False,b'Ryan Pancoast',1.97
-Nemesis of Mortals,Creature,Snake,Theros,Uncommon,6,Green,True,False,True,False,b'Mathias Kollros',0.11
-Nessian Asp,Creature,Snake,Theros,Common,5,Green,True,False,True,True,b'Alex Horley-Orlandelli',0.06
-Nessian Courser,Creature,Centaur Warrior,Theros,Common,3,Green,True,False,True,True,b'Steve Prescott',0.04
-"Nylea, God of the Hunt",Legendary Enchantment Creature,God,Theros,Mythic Rare,4,Green,True,False,True,True,b'Chris Rahn',9.01
-Nylea's Disciple,Creature,Centaur Archer,Theros,Common,4,Green,True,False,True,False,b'Trevor Claxton',0.09
-Nylea's Emissary,Enchantment Creature,Cat,Theros,Uncommon,4,Green,True,False,True,False,b'Sam Burley',0.1
-Nylea's Presence,Enchantment,Aura,Theros,Common,2,Green,True,False,True,False,b'Ralph Horsley',0.14
-Ordeal of Nylea,Enchantment,Aura,Theros,Uncommon,2,Green,True,False,True,False,b'David Palumbo',0.15
-Pheres-Band Centaurs,Creature,Centaur Warrior,Theros,Common,5,Green,True,False,True,False,b'Mark Winters',0.04
-"Polukranos, World Eater",Legendary Creature,Hydra,Theros,Mythic Rare,4,Green,True,False,True,True,b'Johann Bodin',1.82
-Reverent Hunter,Creature,Human Archer,Theros,Rare,3,Green,True,False,True,False,b'Wesley Burt',0.22
-Satyr Hedonist,Creature,Satyr,Theros,Common,2,Green,True,False,True,True,b'Chase Stone',0.08
-Satyr Piper,Creature,Satyr Rogue,Theros,Uncommon,3,Green,True,False,True,False,b'Christopher Moeller',0.06
-Savage Surge,Instant,None,Theros,Common,2,Green,True,False,True,True,b'Jasper Sandner',0.05
-Sedge Scorpion,Creature,Scorpion,Theros,Common,1,Green,True,True,True,True,b'John Stanko',0.11
-Shredding Winds,Instant,None,Theros,Common,3,Green,True,False,True,False,b'Christopher Moeller',0.04
-Staunch-Hearted Warrior,Creature,Human Warrior,Theros,Common,4,Green,True,False,True,True,b'Greg Staples',0.08
-Sylvan Caryatid,Creature,Plant,Theros,Rare,2,Green,True,False,True,True,b'Chase Stone',6.53
-Time to Feed,Sorcery,None,Theros,Common,3,Green,True,False,True,True,b'Wayne Reynolds',0.07
-Voyaging Satyr,Creature,Satyr Druid,Theros,Common,2,Green,True,False,True,True,b'Tyler Jacobson',0.14
-Vulpine Goliath,Creature,Fox,Theros,Common,6,Green,True,False,True,False,b'Adam Paquette',0.05
-Warriors' Lesson,Instant,None,Theros,Uncommon,1,Green,True,False,True,False,b'Steve Prescott',0.1
-Akroan Hoplite,Creature,Human Soldier,Theros,Uncommon,2,Gold,True,False,True,True,b'Igor Kieryluk',0.08
-Anax and Cymede,Legendary Creature,Human Soldier,Theros,Rare,3,Gold,True,False,True,True,b'Willian Murai',0.24
-Ashen Rider,Creature,Archon,Theros,Mythic Rare,8,Gold,True,False,True,False,b'Chris Rahn',1.51
-"Ashiok, Nightmare Weaver",Legendary Planeswalker,Ashiok,Theros,Mythic Rare,3,Gold,True,False,True,False,b'Karla Ortiz',6.29
-Battlewise Hoplite,Creature,Human Soldier,Theros,Uncommon,2,Gold,True,False,True,False,b'Willian Murai',0.09
-Chronicler of Heroes,Creature,Centaur Wizard,Theros,Uncommon,3,Gold,True,False,True,True,b'John Stanko',0.08
-Daxos of Meletis,Legendary Creature,Human Soldier,Theros,Rare,3,Gold,True,False,True,True,b'Karla Ortiz',0.23
-Destructive Revelry,Instant,None,Theros,Uncommon,2,Gold,True,False,True,True,b'Kev Walker',0.22
-Fleecemane Lion,Creature,Cat,Theros,Rare,2,Gold,True,False,True,True,b'Slawomir Maniak',1.04
-Horizon Chimera,Creature,Chimera,Theros,Uncommon,4,Gold,True,False,True,True,b'Sam Burley',0.12
-Kragma Warcaller,Creature,Minotaur Warrior,Theros,Uncommon,5,Gold,True,False,True,False,b'Gabor Szikszai',0.11
-Medomai the Ageless,Legendary Creature,Sphinx,Theros,Mythic Rare,6,Gold,True,False,True,False,b'David Palumbo',1.28
-Pharika's Mender,Creature,Gorgon,Theros,Uncommon,5,Gold,True,False,True,True,b'Peter Mohrbacher',0.1
-Polis Crusher,Creature,Cyclops,Theros,Rare,4,Gold,True,False,True,False,b'Chase Stone',0.14
-Prophet of Kruphix,Creature,Human Wizard,Theros,Rare,5,Gold,True,False,False,True,b'Winona Nelson',0.71
-Psychic Intrusion,Sorcery,None,Theros,Rare,5,Gold,True,False,True,False,b'Jaime Jones',0.16
-Reaper of the Wilds,Creature,Gorgon,Theros,Rare,4,Gold,True,False,True,True,b'Karl Kopinski',0.21
-Sentry of the Underworld,Creature,Griffin Skeleton,Theros,Uncommon,5,Gold,True,False,True,False,b'Dave Kendall',0.05
-Shipwreck Singer,Creature,Siren,Theros,Uncommon,2,Gold,True,False,True,True,b'Daarken',0.07
-Spellheart Chimera,Creature,Chimera,Theros,Uncommon,3,Gold,True,False,True,True,b'Svetlin Velinov',0.14
-Steam Augury,Instant,None,Theros,Rare,4,Gold,True,False,True,True,b'Dave Kendall',0.12
-Triad of Fates,Legendary Creature,Human Wizard,Theros,Rare,4,Gold,True,False,True,False,b'Daarken',0.2
-"Tymaret, the Murder King",Legendary Creature,Zombie Warrior,Theros,Rare,2,Gold,True,False,True,False,b'Volkan Ba\xc7\xb5a',0.23
-Underworld Cerberus,Creature,Hound,Theros,Mythic Rare,5,Gold,True,False,True,False,b'Svetlin Velinov',0.41
-"Xenagos, the Reveler",Legendary Planeswalker,Xenagos,Theros,Mythic Rare,4,Gold,True,False,True,False,b'Jason Chan',5.1
-Akroan Horse,Artifact Creature,Horse,Theros,Rare,4,Colorless,True,False,True,True,b'Seb McKinnon',0.22
-Anvilwrought Raptor,Artifact Creature,Bird,Theros,Uncommon,4,Colorless,True,True,True,True,b'James Zapata',0.04
-Bronze Sable,Artifact Creature,Sable,Theros,Common,2,Colorless,True,False,True,True,b'Jasper Sandner',0.02
-Burnished Hart,Artifact Creature,Elk,Theros,Uncommon,3,Colorless,True,False,True,True,b'Yeong-Hao Han',0.93
-Colossus of Akros,Artifact Creature,Golem,Theros,Rare,8,Colorless,True,False,True,False,b'Zack Stella',0.9
-Flamecast Wheel,Artifact,None,Theros,Uncommon,1,Colorless,True,False,True,False,b'Jasper Sandner',0.02
-Fleetfeather Sandals,Artifact,Equipment,Theros,Common,2,Colorless,True,False,True,False,b'Steve Prescott',0.15
-Guardians of Meletis,Artifact Creature,Golem,Theros,Common,3,Colorless,True,False,True,True,b'Magali Villeneuve',0.07
-Opaline Unicorn,Artifact Creature,Unicorn,Theros,Common,3,Colorless,True,False,True,True,b'Christine Choi',0.12
-Prowler's Helm,Artifact,Equipment,Theros,Uncommon,2,Colorless,True,False,True,False,b'Igor Kieryluk',0.3
-Pyxis of Pandemonium,Artifact,None,Theros,Rare,1,Colorless,True,False,True,False,b'David Palumbo',0.23
-Traveler's Amulet,Artifact,None,Theros,Common,1,Colorless,True,True,True,True,b'Franz Vohwinkel',0.1
-Witches' Eye,Artifact,Equipment,Theros,Uncommon,1,Colorless,True,False,True,False,b'Daniel Ljunggren',0.08
-"Nykthos, Shrine to Nyx",Legendary Land,None,Theros,Rare,0,Colorless,True,False,True,False,b'Jung Park',26.6
-Temple of Abandon,Land,None,Theros,Rare,0,Colorless,True,True,True,True,b'Mike Bierek',0.75
-Temple of Deceit,Land,None,Theros,Rare,0,Colorless,True,True,True,True,b'Raymond Swanland',1.54
-Temple of Mystery,Land,None,Theros,Rare,0,Colorless,True,True,True,True,b'Noah Bradley',1.18
-Temple of Silence,Land,None,Theros,Rare,0,Colorless,True,True,True,True,b'Karl Kopinski',1.31
-Temple of Triumph,Land,None,Theros,Rare,0,Colorless,True,True,True,True,b'Jason Felix',0.85
-Unknown Shores,Land,None,Theros,Common,0,Colorless,True,True,True,True,b'Seb McKinnon',0.07
-Plains,Basic Land,Plains,Theros,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.09
-Plains,Basic Land,Plains,Theros,Common,0,Colorless,True,True,True,True,b'Steven Belledin',0.11
-Plains,Basic Land,Plains,Theros,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.09
-Plains,Basic Land,Plains,Theros,Common,0,Colorless,True,True,True,True,b'Raoul Vitale',0.12
-Island,Basic Land,Island,Theros,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.12
-Island,Basic Land,Island,Theros,Common,0,Colorless,True,True,True,True,b'Steven Belledin',0.09
-Island,Basic Land,Island,Theros,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.14
-Island,Basic Land,Island,Theros,Common,0,Colorless,True,True,True,True,b'Raoul Vitale',0.16
-Swamp,Basic Land,Swamp,Theros,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.08
-Swamp,Basic Land,Swamp,Theros,Common,0,Colorless,True,True,True,True,b'Steven Belledin',0.12
-Swamp,Basic Land,Swamp,Theros,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.11
-Swamp,Basic Land,Swamp,Theros,Common,0,Colorless,True,True,True,True,b'Raoul Vitale',0.11
-Mountain,Basic Land,Mountain,Theros,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.09
-Mountain,Basic Land,Mountain,Theros,Common,0,Colorless,True,True,True,True,b'Steven Belledin',0.1
-Mountain,Basic Land,Mountain,Theros,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.1
-Mountain,Basic Land,Mountain,Theros,Common,0,Colorless,True,True,True,True,b'Raoul Vitale',0.1
-Forest,Basic Land,Forest,Theros,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.1
-Forest,Basic Land,Forest,Theros,Common,0,Colorless,True,True,True,True,b'Steven Belledin',0.12
-Forest,Basic Land,Forest,Theros,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.22
-Forest,Basic Land,Forest,Theros,Common,0,Colorless,True,True,True,True,b'Raoul Vitale',0.08
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Battlewise Valor,Instant,None,Theros,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Zack Stella',0.06,False
+Cavalry Pegasus,Creature,Pegasus,Theros,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.12,False
+Celestial Archon,Enchantment Creature,Archon,Theros,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.14,False
+Chained to the Rocks,Enchantment,Aura,Theros,Rare,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Aaron Miller',0.46,False
+Chosen by Heliod,Enchantment,Aura,Theros,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Zack Stella',0.06,False
+Dauntless Onslaught,Instant,None,Theros,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Peter Mohrbacher',0.06,False
+Decorated Griffin,Creature,Griffin,Theros,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Phill Simmer',0.04,False
+Divine Verdict,Instant,None,Theros,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.03,False
+Elspeth Sun's Champion,Planeswalker,Elspeth,Theros,Mythic Rare,6,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Deschamps',12.15,True
+Ephara's Warden,Creature,Human Cleric,Theros,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Zack Stella',0.05,False
+Evangel of Heliod,Creature,Human Cleric,Theros,Uncommon,6,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Nils Hamm',0.12,False
+Fabled Hero,Creature,Human Soldier,Theros,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Aaron Miller',0.32,False
+Favored Hoplite,Creature,Human Soldier,Theros,Uncommon,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Winona Nelson',0.55,False
+Gift of Immortality,Enchantment,Aura,Theros,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Stewart',2.0,False
+Glare of Heresy,Sorcery,None,Theros,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Raymond Swanland',0.13,False
+Gods Willing,Instant,None,Theros,Common,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Mark Winters',0.16,False
+Heliod God of the Sun,Enchantment Creature,God,Theros,Mythic Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',4.29,True
+Heliod's Emissary,Enchantment Creature,Elk,Theros,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Sam Burley',0.08,False
+Hopeful Eidolon,Enchantment Creature,Spirit,Theros,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Min Yum',0.11,False
+Hundred-Handed One,Creature,Giant,Theros,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Brad Rigney',0.18,False
+Lagonna-Band Elder,Creature,Centaur Advisor,Theros,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Min Yum',0.02,False
+Last Breath,Instant,None,Theros,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.09,False
+Leonin Snarecaster,Creature,Cat Soldier,Theros,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.1,False
+Observant Alseid,Enchantment Creature,Nymph,Theros,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Todd Lockwood',0.09,False
+Ordeal of Heliod,Enchantment,Aura,Theros,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Lucas Graciano',0.16,False
+Phalanx Leader,Creature,Human Soldier,Theros,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'David Palumbo',0.2,False
+Ray of Dissolution,Instant,None,Theros,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.1,False
+Scholar of Athreos,Creature,Human Cleric,Theros,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Cynthia Sheppard',0.1,False
+Setessan Battle Priest,Creature,Human Cleric,Theros,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Wesley Burt',0.08,False
+Setessan Griffin,Creature,Griffin,Theros,Common,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.02,False
+Silent Artisan,Creature,Giant,Theros,Common,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony Palumbo',0.07,False
+Soldier of the Pantheon,Creature,Human Soldier,Theros,Rare,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Eric Deschamps',0.4,False
+Spear of Heliod,Enchantment Artifact,None,Theros,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Yeong-Hao Han',1.52,True
+Traveling Philosopher,Creature,Human Advisor,Theros,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'James Ryman',0.02,False
+Vanquish the Foul,Sorcery,None,Theros,Uncommon,6,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Eric Deschamps',0.06,False
+Wingsteed Rider,Creature,Human Knight,Theros,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Cynthia Sheppard',0.07,False
+Yoked Ox,Creature,Ox,Theros,Common,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Ryan Yee',0.1,False
+Annul,Instant,None,Theros,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Christine Choi',0.14,False
+Aqueous Form,Enchantment,Aura,Theros,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Slawomir Maniak',0.32,False
+Artisan of Forms,Creature,Human Wizard,Theros,Rare,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Min Yum',0.16,False
+Benthic Giant,Creature,Giant,Theros,Common,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',0.05,False
+Bident of Thassa,Enchantment Artifact,None,Theros,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Yeong-Hao Han',1.41,True
+Breaching Hippocamp,Creature,Horse Fish,Theros,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Burdett',0.14,False
+Coastline Chimera,Creature,Chimera,Theros,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.03,False
+Crackling Triton,Creature,Merfolk Wizard,Theros,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.02,False
+Curse of the Swine,Sorcery,None,Theros,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'James Ryman',1.92,False
+Dissolve,Instant,None,Theros,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Wesley Burt',0.27,False
+Fate Foretold,Enchantment,Aura,Theros,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.07,False
+Gainsay,Instant,None,Theros,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Clint Cearley',0.08,False
+Griptide,Instant,None,Theros,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.03,False
+Horizon Scholar,Creature,Sphinx,Theros,Uncommon,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.07,False
+Lost in a Labyrinth,Instant,None,Theros,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Winona Nelson',0.03,False
+Master of Waves,Creature,Merfolk Wizard,Theros,Mythic Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',3.13,False
+Meletis Charlatan,Creature,Human Wizard,Theros,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Jason A. Engle',0.15,False
+Mnemonic Wall,Creature,Wall,Theros,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Trevor Claxton',0.1,False
+Nimbus Naiad,Enchantment Creature,Nymph,Theros,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'David Palumbo',0.08,False
+Omenspeaker,Creature,Human Wizard,Theros,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Dallas Williams',0.05,False
+Ordeal of Thassa,Enchantment,Aura,Theros,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Howard Lyon',0.1,False
+Prescient Chimera,Creature,Chimera,Theros,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.06,False
+Prognostic Sphinx,Creature,Sphinx,Theros,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.16,False
+Sea God's Revenge,Sorcery,None,Theros,Uncommon,6,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Eric Velhagen',0.08,False
+Sealock Monster,Creature,Octopus,Theros,Uncommon,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.09,False
+Shipbreaker Kraken,Creature,Kraken,Theros,Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jack Wang',0.23,False
+Stymied Hopes,Instant,None,Theros,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Peter Mohrbacher',0.06,False
+Swan Song,Instant,None,Theros,Rare,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Peter Mohrbacher',8.09,False
+Thassa God of the Sea,Enchantment Creature,God,Theros,Mythic Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',13.56,True
+Thassa's Bounty,Sorcery,None,Theros,Common,6,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Ryan Yee',0.09,False
+Thassa's Emissary,Enchantment Creature,Crab,Theros,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Sam Burley',0.11,False
+Triton Fortune Hunter,Creature,Merfolk Soldier,Theros,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Clint Cearley',0.11,False
+Triton Shorethief,Creature,Merfolk Rogue,Theros,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Howard Lyon',0.02,False
+Triton Tactics,Instant,None,Theros,Uncommon,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jack Wang',0.07,False
+Vaporkin,Creature,Elemental,Theros,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Seb McKinnon',0.06,False
+Voyage's End,Instant,None,Theros,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.06,False
+Wavecrash Triton,Creature,Merfolk Wizard,Theros,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Ryan Barger',0.05,False
+Abhorrent Overlord,Creature,Demon,Theros,Rare,7,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',0.41,False
+Agent of the Fates,Creature,Human Assassin,Theros,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Stewart',0.27,False
+Asphodel Wanderer,Creature,Skeleton Soldier,Theros,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Scott Chou',0.06,False
+Baleful Eidolon,Enchantment Creature,Spirit,Theros,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Min Yum',0.1,False
+Blood-Toll Harpy,Creature,Harpy,Theros,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.06,False
+Boon of Erebos,Instant,None,Theros,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'James Ryman',0.04,False
+Cavern Lampad,Enchantment Creature,Nymph,Theros,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Volkan Ba\xc7\xb5a',0.08,False
+Cutthroat Maneuver,Instant,None,Theros,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Brad Rigney',0.04,False
+Dark Betrayal,Instant,None,Theros,Uncommon,1,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Nils Hamm',0.09,False
+Disciple of Phenax,Creature,Human Cleric,Theros,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'John Severin Brassell',0.07,False
+Erebos God of the Dead,Enchantment Creature,God,Theros,Mythic Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Peter Mohrbacher',10.63,True
+Erebos's Emissary,Enchantment Creature,Snake,Theros,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Sam Burley',0.06,False
+Felhide Minotaur,Creature,Minotaur,Theros,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.05,False
+Fleshmad Steed,Creature,Horse,Theros,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Robbie Trevino',0.04,False
+Gray Merchant of Asphodel,Creature,Zombie,Theros,Common,5,Black,Legal,Legal,Legal,Legal,Legal,True,b'Robbie Trevino',0.34,False
+Hero's Downfall,Instant,None,Theros,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Pancoast',4.27,False
+Hythonia the Cruel,Creature,Gorgon,Theros,Mythic Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Chris Rahn',0.43,True
+Insatiable Harpy,Creature,Harpy,Theros,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Stewart',0.05,False
+Keepsake Gorgon,Creature,Gorgon,Theros,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Aaron Miller',0.08,False
+Lash of the Whip,Instant,None,Theros,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.05,False
+Loathsome Catoblepas,Creature,Beast,Theros,Common,6,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Burdett',0.02,False
+March of the Returned,Sorcery,None,Theros,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Zug',0.11,False
+Mogis's Marauder,Creature,Human Berserker,Theros,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Chase Stone',0.14,False
+Nighthowler,Enchantment Creature,Horror,Theros,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.39,False
+Ordeal of Erebos,Enchantment,Aura,Theros,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Tyler Jacobson',0.08,False
+Pharika's Cure,Instant,None,Theros,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Igor Kieryluk',0.08,False
+Read the Bones,Sorcery,None,Theros,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.18,False
+Rescue from the Underworld,Instant,None,Theros,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.13,False
+Returned Centaur,Creature,Zombie Centaur,Theros,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Lucas Graciano',0.05,False
+Returned Phalanx,Creature,Zombie Soldier,Theros,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Seb McKinnon',0.08,False
+Scourgemark,Enchantment,Aura,Theros,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Franz Vohwinkel',0.05,False
+Sip of Hemlock,Sorcery,None,Theros,Common,6,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Nils Hamm',0.04,False
+Thoughtseize,Sorcery,None,Theros,Rare,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Lucas Graciano',19.23,False
+Tormented Hero,Creature,Human Warrior,Theros,Uncommon,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Winona Nelson',0.07,False
+Viper's Kiss,Enchantment,Aura,Theros,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Svetlin Velinov',0.08,False
+Whip of Erebos,Enchantment Artifact,None,Theros,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Yeong-Hao Han',4.55,True
+Akroan Crusader,Creature,Human Soldier,Theros,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Johann Bodin',0.1,False
+Anger of the Gods,Sorcery,None,Theros,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Noah Bradley',1.29,False
+Arena Athlete,Creature,Human,Theros,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',0.08,False
+Borderland Minotaur,Creature,Minotaur Warrior,Theros,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.06,False
+Boulderfall,Instant,None,Theros,Common,8,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Ralph Horsley',0.05,False
+Coordinated Assault,Instant,None,Theros,Uncommon,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'John Severin Brassell',0.09,False
+Deathbellow Raider,Creature,Minotaur Berserker,Theros,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne Reynolds',0.07,False
+Demolish,Sorcery,None,Theros,Common,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',0.06,False
+Dragon Mantle,Enchantment,Aura,Theros,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony Palumbo',0.1,False
+Ember Swallower,Creature,Elemental,Theros,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',0.12,False
+Fanatic of Mogis,Creature,Minotaur Shaman,Theros,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Stewart',0.23,False
+Firedrinker Satyr,Creature,Satyr Shaman,Theros,Rare,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony Palumbo',0.27,False
+Flamespeaker Adept,Creature,Human Shaman,Theros,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Lucas Graciano',0.05,False
+Hammer of Purphoros,Enchantment Artifact,None,Theros,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Yeong-Hao Han',1.42,True
+Ill-Tempered Cyclops,Creature,Cyclops,Theros,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Peter Mohrbacher',0.02,False
+Labyrinth Champion,Creature,Human Warrior,Theros,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Chase Stone',0.17,False
+Lightning Strike,Instant,None,Theros,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.13,False
+Magma Jet,Instant,None,Theros,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Maciej Kuciara',0.13,False
+Messenger's Speed,Enchantment,Aura,Theros,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Clint Cearley',0.1,False
+Minotaur Skullcleaver,Creature,Minotaur Berserker,Theros,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Phill Simmer',0.08,False
+Ordeal of Purphoros,Enchantment,Aura,Theros,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Maciej Kuciara',0.09,False
+Peak Eruption,Sorcery,None,Theros,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Paquette',0.09,False
+Portent of Betrayal,Sorcery,None,Theros,Common,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Daarken',0.07,False
+Priest of Iroas,Creature,Human Cleric,Theros,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Clint Cearley',0.1,False
+Purphoros God of the Forge,Enchantment Creature,God,Theros,Mythic Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Deschamps',17.99,True
+Purphoros's Emissary,Enchantment Creature,Ox,Theros,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Sam Burley',0.07,False
+Rage of Purphoros,Sorcery,None,Theros,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Mathias Kollros',0.03,False
+Rageblood Shaman,Creature,Minotaur Shaman,Theros,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Bierek',0.27,False
+Satyr Rambler,Creature,Satyr,Theros,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'John Stanko',0.07,False
+Spark Jolt,Instant,None,Theros,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Bierek',0.06,False
+Spearpoint Oread,Enchantment Creature,Nymph,Theros,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Todd Lockwood',0.05,False
+Stoneshock Giant,Creature,Giant,Theros,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.1,False
+Stormbreath Dragon,Creature,Dragon,Theros,Mythic Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Slawomir Maniak',2.94,False
+Titan of Eternal Fire,Creature,Giant,Theros,Rare,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',0.12,False
+Titan's Strength,Instant,None,Theros,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.2,False
+Two-Headed Cerberus,Creature,Dog,Theros,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Karl Kopinski',0.1,False
+Wild Celebrants,Creature,Satyr,Theros,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Igor Kieryluk',0.08,False
+Agent of Horizons,Creature,Human Rogue,Theros,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Clint Cearley',0.03,False
+Anthousa Setessan Hero,Creature,Human Warrior,Theros,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Howard Lyon',0.14,True
+Arbor Colossus,Creature,Giant,Theros,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',0.17,False
+Artisan's Sorrow,Instant,None,Theros,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Jung Park',0.06,False
+Boon Satyr,Enchantment Creature,Satyr,Theros,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Wesley Burt',0.26,False
+Bow of Nylea,Enchantment Artifact,None,Theros,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Yeong-Hao Han',1.82,True
+Centaur Battlemaster,Creature,Centaur Warrior,Theros,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.08,False
+Commune with the Gods,Sorcery,None,Theros,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',0.15,False
+Defend the Hearth,Instant,None,Theros,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Raymond Swanland',0.08,False
+Fade into Antiquity,Sorcery,None,Theros,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Noah Bradley',0.08,False
+Feral Invocation,Enchantment,Aura,Theros,Common,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Mathias Kollros',0.16,False
+Hunt the Hunter,Sorcery,None,Theros,Uncommon,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Ryan Barger',0.12,False
+Karametra's Acolyte,Creature,Human Druid,Theros,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Chase Stone',0.25,False
+Leafcrown Dryad,Enchantment Creature,Nymph Dryad,Theros,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Volkan Ba\xc7\xb5a',0.1,False
+Mistcutter Hydra,Creature,Hydra,Theros,Rare,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Ryan Pancoast',3.24,False
+Nemesis of Mortals,Creature,Snake,Theros,Uncommon,6,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Mathias Kollros',0.1,False
+Nessian Asp,Creature,Snake,Theros,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Alex Horley-Orlandelli',0.08,False
+Nessian Courser,Creature,Centaur Warrior,Theros,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.04,False
+Nylea God of the Hunt,Enchantment Creature,God,Theros,Mythic Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',9.55,True
+Nylea's Disciple,Creature,Centaur Archer,Theros,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Trevor Claxton',0.09,False
+Nylea's Emissary,Enchantment Creature,Cat,Theros,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Sam Burley',0.12,False
+Nylea's Presence,Enchantment,Aura,Theros,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Ralph Horsley',0.12,False
+Ordeal of Nylea,Enchantment,Aura,Theros,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'David Palumbo',0.22,False
+Pheres-Band Centaurs,Creature,Centaur Warrior,Theros,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Winters',0.03,False
+Polukranos World Eater,Creature,Hydra,Theros,Mythic Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Johann Bodin',1.72,True
+Reverent Hunter,Creature,Human Archer,Theros,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Wesley Burt',0.24,False
+Satyr Hedonist,Creature,Satyr,Theros,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Chase Stone',0.09,False
+Satyr Piper,Creature,Satyr Rogue,Theros,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.06,False
+Savage Surge,Instant,None,Theros,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jasper Sandner',0.08,False
+Sedge Scorpion,Creature,Scorpion,Theros,Common,1,Green,Legal,Legal,Legal,Legal,Legal,True,b'John Stanko',0.11,False
+Shredding Winds,Instant,None,Theros,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.04,False
+Staunch-Hearted Warrior,Creature,Human Warrior,Theros,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.09,False
+Sylvan Caryatid,Creature,Plant,Theros,Rare,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Chase Stone',8.46,False
+Time to Feed,Sorcery,None,Theros,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.1,False
+Voyaging Satyr,Creature,Satyr Druid,Theros,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Tyler Jacobson',0.14,False
+Vulpine Goliath,Creature,Fox,Theros,Common,6,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Paquette',0.08,False
+Warriors' Lesson,Instant,None,Theros,Uncommon,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Prescott',0.1,False
+Akroan Hoplite,Creature,Human Soldier,Theros,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.1,False
+Anax and Cymede,Creature,Human Soldier,Theros,Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Willian Murai',0.25,True
+Ashen Rider,Creature,Archon,Theros,Mythic Rare,8,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Chris Rahn',1.74,False
+Ashiok Nightmare Weaver,Planeswalker,Ashiok,Theros,Mythic Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Karla Ortiz',6.54,True
+Battlewise Hoplite,Creature,Human Soldier,Theros,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Willian Murai',0.11,False
+Chronicler of Heroes,Creature,Centaur Wizard,Theros,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'John Stanko',0.07,False
+Daxos of Meletis,Creature,Human Soldier,Theros,Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Karla Ortiz',0.25,True
+Destructive Revelry,Instant,None,Theros,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.2,False
+Fleecemane Lion,Creature,Cat,Theros,Rare,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',1.57,False
+Horizon Chimera,Creature,Chimera,Theros,Uncommon,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Sam Burley',0.12,False
+Kragma Warcaller,Creature,Minotaur Warrior,Theros,Uncommon,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Gabor Szikszai',0.12,False
+Medomai the Ageless,Creature,Sphinx,Theros,Mythic Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'David Palumbo',1.32,True
+Pharika's Mender,Creature,Gorgon,Theros,Uncommon,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Peter Mohrbacher',0.1,False
+Polis Crusher,Creature,Cyclops,Theros,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Chase Stone',0.15,False
+Prophet of Kruphix,Creature,Human Wizard,Theros,Rare,5,Gold,Legal,Not Legal,Banned,Legal,Legal,True,b'Winona Nelson',0.76,False
+Psychic Intrusion,Sorcery,None,Theros,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Jaime Jones',0.16,False
+Reaper of the Wilds,Creature,Gorgon,Theros,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.22,False
+Sentry of the Underworld,Creature,Griffin Skeleton,Theros,Uncommon,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Kendall',0.06,False
+Shipwreck Singer,Creature,Siren,Theros,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.1,False
+Spellheart Chimera,Creature,Chimera,Theros,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.13,False
+Steam Augury,Instant,None,Theros,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Kendall',0.13,False
+Triad of Fates,Creature,Human Wizard,Theros,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Daarken',0.22,True
+Tymaret the Murder King,Creature,Zombie Warrior,Theros,Rare,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Volkan Ba\xc7\xb5a',0.24,True
+Underworld Cerberus,Creature,Dog,Theros,Mythic Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Svetlin Velinov',0.47,False
+Xenagos the Reveler,Planeswalker,Xenagos,Theros,Mythic Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Jason Chan',5.44,True
+Akroan Horse,Artifact Creature,Horse,Theros,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Seb McKinnon',0.23,False
+Anvilwrought Raptor,Artifact Creature,Bird,Theros,Uncommon,4,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'James Zapata',0.05,False
+Bronze Sable,Artifact Creature,Sable,Theros,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jasper Sandner',0.02,False
+Burnished Hart,Artifact Creature,Elk,Theros,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Yeong-Hao Han',1.19,False
+Colossus of Akros,Artifact Creature,Golem,Theros,Rare,8,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Zack Stella',1.19,False
+Flamecast Wheel,Artifact,None,Theros,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Jasper Sandner',0.03,False
+Fleetfeather Sandals,Artifact,Equipment,Theros,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Prescott',0.2,False
+Guardians of Meletis,Artifact Creature,Golem,Theros,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Magali Villeneuve',0.08,False
+Opaline Unicorn,Artifact Creature,Unicorn,Theros,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Christine Choi',0.1,False
+Prowler's Helm,Artifact,Equipment,Theros,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Igor Kieryluk',0.41,False
+Pyxis of Pandemonium,Artifact,None,Theros,Rare,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'David Palumbo',0.25,False
+Traveler's Amulet,Artifact,None,Theros,Common,1,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',0.1,False
+Witches' Eye,Artifact,Equipment,Theros,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Daniel Ljunggren',0.08,False
+Nykthos Shrine to Nyx,Land,None,Theros,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Jung Park',21.4,True
+Temple of Abandon,Land,None,Theros,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mike Bierek',0.79,False
+Temple of Deceit,Land,None,Theros,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Raymond Swanland',1.63,False
+Temple of Mystery,Land,None,Theros,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Noah Bradley',1.47,False
+Temple of Silence,Land,None,Theros,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Karl Kopinski',1.54,False
+Temple of Triumph,Land,None,Theros,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jason Felix',0.91,False
+Unknown Shores,Land,None,Theros,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Seb McKinnon',0.08,False
+Plains,Basic Land,Plains,Theros,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.09,False
+Plains,Basic Land,Plains,Theros,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.1,False
+Plains,Basic Land,Plains,Theros,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.09,False
+Plains,Basic Land,Plains,Theros,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Raoul Vitale',0.11,False
+Island,Basic Land,Island,Theros,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.12,False
+Island,Basic Land,Island,Theros,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.12,False
+Island,Basic Land,Island,Theros,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.15,False
+Island,Basic Land,Island,Theros,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Raoul Vitale',0.17,False
+Swamp,Basic Land,Swamp,Theros,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.08,False
+Swamp,Basic Land,Swamp,Theros,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.09,False
+Swamp,Basic Land,Swamp,Theros,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.12,False
+Swamp,Basic Land,Swamp,Theros,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Raoul Vitale',0.11,False
+Mountain,Basic Land,Mountain,Theros,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.08,False
+Mountain,Basic Land,Mountain,Theros,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.1,False
+Mountain,Basic Land,Mountain,Theros,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.09,False
+Mountain,Basic Land,Mountain,Theros,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Raoul Vitale',0.09,False
+Forest,Basic Land,Forest,Theros,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.11,False
+Forest,Basic Land,Forest,Theros,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.12,False
+Forest,Basic Land,Forest,Theros,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.21,False
+Forest,Basic Land,Forest,Theros,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Raoul Vitale',0.09,False

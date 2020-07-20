@@ -1,90 +1,90 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Exile,Instant,None,Alliances,Rare,3,White,False,False,True,True,b'Rob Alexander',0.85
-Inheritance,Enchantment,None,Alliances,Uncommon,1,White,False,False,True,True,b'Kaja Foglio',0.28
-Ivory Gargoyle,Creature,Gargoyle,Alliances,Rare,5,White,False,False,True,True,b'Quinton Hoover',0.48
-Juniper Order Advocate,Creature,Human Knight,Alliances,Uncommon,3,White,False,False,True,True,b'Douglas Shuler',0.12
-Kjeldoran Home Guard,Creature,Human Soldier,Alliances,Uncommon,4,White,False,False,True,True,b'Andi Rusu',0.15
-Royal Decree,Enchantment,None,Alliances,Rare,4,White,False,False,True,True,b'Pete Venters',0.48
-Scars of the Veteran,Instant,None,Alliances,Uncommon,5,White,False,False,True,True,b'Dan Frazier',0.17
-Seasoned Tactician,Creature,Human Advisor,Alliances,Uncommon,3,White,False,False,True,False,b'Dan Frazier',0.11
-Sustaining Spirit,Creature,Angel Spirit,Alliances,Rare,2,White,False,False,True,True,b'Rebecca Guay',1.17
-Sworn Defender,Creature,Human Knight,Alliances,Rare,4,White,False,False,True,False,b'D. Alexander Gregory',0.49
-Unlikely Alliance,Enchantment,None,Alliances,Uncommon,2,White,False,False,True,False,b'Phil Foglio',0.16
-Browse,Enchantment,None,Alliances,Uncommon,4,Blue,False,False,True,True,b'Phil Foglio',0.18
-Diminishing Returns,Sorcery,None,Alliances,Rare,4,Blue,False,False,True,True,b'Allen Williams',0.42
-Force of Will,Instant,None,Alliances,Uncommon,5,Blue,False,False,True,True,b'Terese Nielsen',91.6
-Library of Lat-Nam,Sorcery,None,Alliances,Rare,5,Blue,False,False,True,True,b'Alan Rabinowitz',0.24
-Phantasmal Sphere,Creature,Illusion,Alliances,Rare,2,Blue,False,False,True,False,b'Mark Tedin',0.34
-Spiny Starfish,Creature,Starfish,Alliances,Uncommon,3,Blue,False,False,True,True,b'Alan Rabinowitz',0.17
-Storm Elemental,Creature,Elemental,Alliances,Uncommon,6,Blue,False,False,True,True,b'John Matson',0.09
-Suffocation,Instant,None,Alliances,Uncommon,2,Blue,False,False,True,False,b'Allen Williams',0.09
-Thought Lash,Enchantment,None,Alliances,Rare,4,Blue,False,False,True,True,b'Mark Tedin',9.78
-Tidal Control,Enchantment,None,Alliances,Rare,3,Blue,False,False,True,False,b'Randy Gallegos',0.68
-Viscerid Drone,Creature,Homarid Drone,Alliances,Uncommon,2,Blue,False,False,True,True,b'Heather Hudson',0.12
-Balduvian Dead,Creature,Zombie,Alliances,Uncommon,4,Black,False,False,True,True,b'Mike Kimble',0.14
-Contagion,Instant,None,Alliances,Uncommon,5,Black,False,False,True,True,b'Mike Raabe',0.34
-Diseased Vermin,Creature,Rat,Alliances,Uncommon,3,Black,False,False,True,False,b'Scott Kirschner',0.28
-Dystopia,Enchantment,None,Alliances,Rare,3,Black,False,False,True,True,b'Ruth Thompson',1.02
-Fatal Lore,Sorcery,None,Alliances,Rare,4,Black,False,False,True,False,b'Lawrence Snelly',0.47
-Keeper of Tresserhorn,Creature,Avatar,Alliances,Rare,6,Black,False,False,True,False,b'Zak Plucinski',0.45
-Krovikan Horror,Creature,Horror Spirit,Alliances,Rare,4,Black,False,False,True,True,b'Christopher Rush',0.83
-Krovikan Plague,Enchantment,Aura,Alliances,Uncommon,3,Black,False,False,True,False,b'Liz Danforth',0.14
-Misinformation,Instant,None,Alliances,Uncommon,1,Black,False,False,True,True,b'Richard Kane Ferguson',0.2
-Ritual of the Machine,Sorcery,None,Alliances,Rare,4,Black,False,False,True,True,b'Anson Maddocks',1.61
-Stromgald Spy,Creature,Human Rogue,Alliances,Uncommon,4,Black,False,False,True,False,b'Zak Plucinski',0.12
-Balduvian Horde,Creature,Human Barbarian,Alliances,Rare,4,Red,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.43
-Burnout,Instant,None,Alliances,Uncommon,2,Red,False,False,True,True,b'Mike Raabe',0.37
-Chaos Harlequin,Creature,Human,Alliances,Rare,4,Red,False,False,True,False,b'Alan Rabinowitz',0.27
-Death Spark,Instant,None,Alliances,Uncommon,1,Red,False,False,True,True,b'Mark Tedin',0.18
-Omen of Fire,Instant,None,Alliances,Rare,5,Red,False,False,True,False,b'Pete Venters',0.84
-Pillage,Sorcery,None,Alliances,Uncommon,3,Red,True,False,True,True,b'Richard Kane Ferguson',0.85
-Primitive Justice,Sorcery,None,Alliances,Uncommon,2,Red,False,False,True,True,b'Anthony S. Waters',0.13
-Pyrokinesis,Instant,None,Alliances,Uncommon,6,Red,False,False,True,True,b'Ron Spencer',0.2
-Rogue Skycaptain,Creature,Human Rogue Mercenary,Alliances,Rare,3,Red,False,False,True,True,b'Randy Asplund-Faith',0.28
-Soldier of Fortune,Creature,Human Mercenary,Alliances,Uncommon,1,Red,False,False,True,False,b'Douglas Shuler',0.21
-Varchild's War-Riders,Creature,Human Warrior,Alliances,Rare,2,Red,False,False,True,True,b'Susan Van Camp',2.27
-Bounty of the Hunt,Instant,None,Alliances,Uncommon,5,Green,False,False,True,True,b'Jeff A. Menges',0.16
-Elvish Bard,Creature,Elf Shaman,Alliances,Uncommon,5,Green,True,False,True,True,b'Susan Van Camp',0.11
-Elvish Spirit Guide,Creature,Elf Spirit,Alliances,Uncommon,3,Green,False,False,True,True,b'Julie Baroh',4.33
-Gargantuan Gorilla,Creature,Ape,Alliances,Rare,7,Green,False,False,True,True,b'Greg Simanson',0.41
-Hail Storm,Instant,None,Alliances,Uncommon,3,Green,True,False,True,True,b'Jeff A. Menges',0.1
-Kaysa,Legendary Creature,Elf Druid,Alliances,Rare,5,Green,False,False,True,True,b'Rebecca Guay',2.21
-Nature's Chosen,Enchantment,Aura,Alliances,Uncommon,1,Green,False,False,True,False,b'Rebecca Guay',0.89
-Nature's Wrath,Enchantment,None,Alliances,Rare,6,Green,False,False,True,True,b'Liz Danforth',0.76
-Splintering Wind,Enchantment,None,Alliances,Rare,4,Green,False,False,True,False,b'Ron Spencer',0.4
-Tornado,Enchantment,None,Alliances,Rare,5,Green,False,False,True,True,b'Susan Van Camp',0.36
-Yavimaya Ants,Creature,Insect,Alliances,Uncommon,4,Green,False,False,True,True,b'Pat Morrissey',0.1
-Energy Arc,Instant,None,Alliances,Uncommon,2,Gold,False,False,True,True,b'Terese Nielsen',0.25
-Lim-Dûl's Vault,Instant,None,Alliances,Uncommon,2,Gold,False,False,True,True,b'Rob Alexander',3.94
-Lim-Dûl's Paladin,Creature,Human Knight,Alliances,Uncommon,4,Gold,False,False,True,False,b'Christopher Rush',0.12
-Surge of Strength,Instant,None,Alliances,Uncommon,2,Gold,False,False,True,True,b'Ruth Thompson',0.15
-Nature's Blessing,Enchantment,None,Alliances,Uncommon,4,Gold,False,False,True,True,b'Sandra Everingham',0.1
-Wandering Mage,Creature,Human Cleric Wizard,Alliances,Rare,3,Gold,False,False,True,True,b'Pete Venters',0.57
-Lord of Tresserhorn,Legendary Creature,Zombie,Alliances,Rare,4,Gold,False,False,True,True,b'Anson Maddocks',2.57
-Misfortune,Sorcery,None,Alliances,Rare,4,Gold,False,False,True,False,b'Ron Spencer',0.41
-Winter's Night,World Enchantment,None,Alliances,Rare,3,Gold,False,False,True,True,b'Rob Alexander',0.77
-Phelddagrif,Legendary Creature,Phelddagrif,Alliances,Rare,4,Gold,False,False,True,True,b'Amy Weber',5.65
-Ashnod's Cylix,Artifact,None,Alliances,Rare,2,Colorless,False,False,True,True,b'Nicola Leonard',0.64
-Floodwater Dam,Artifact,None,Alliances,Rare,3,Colorless,False,False,True,True,b'Randy Gallegos',0.42
-Gustha's Scepter,Artifact,None,Alliances,Rare,0,Colorless,False,False,True,True,b'Sandra Everingham',1.35
-Helm of Obedience,Artifact,None,Alliances,Rare,4,Colorless,False,False,True,True,b'Brian Sn\xc3\xb5ddy',16.35
-Lodestone Bauble,Artifact,None,Alliances,Rare,0,Colorless,False,False,True,True,b'Douglas Shuler',1.16
-Mishra's Groundbreaker,Artifact,None,Alliances,Uncommon,4,Colorless,False,False,True,True,b'Randy Gallegos',0.13
-Mystic Compass,Artifact,None,Alliances,Uncommon,2,Colorless,False,False,True,True,b'Amy Weber',0.28
-Phyrexian Devourer,Artifact Creature,Construct,Alliances,Rare,6,Colorless,False,False,True,True,b'Mark Tedin',3.07
-Phyrexian Portal,Artifact,None,Alliances,Rare,3,Colorless,False,False,True,True,b'Pete Venters',0.97
-Scarab of the Unseen,Artifact,None,Alliances,Uncommon,2,Colorless,False,False,True,False,b'Sandra Everingham',0.12
-Shield Sphere,Artifact Creature,Wall,Alliances,Uncommon,0,Colorless,False,False,True,True,b'Alan Rabinowitz',2.5
-Sol Grail,Artifact,None,Alliances,Uncommon,3,Colorless,False,False,True,True,b'Christopher Rush',0.17
-Soldevi Digger,Artifact,None,Alliances,Rare,2,Colorless,False,False,True,True,b'Amy Weber',1.86
-Storm Cauldron,Artifact,None,Alliances,Rare,5,Colorless,False,False,True,True,b'Dan Frazier',2.35
-Urza's Engine,Artifact Creature,Juggernaut,Alliances,Uncommon,5,Colorless,False,False,True,False,b'Greg Simanson',0.07
-Whirling Catapult,Artifact,None,Alliances,Uncommon,4,Colorless,False,False,True,True,b'Dan Frazier',0.13
-Balduvian Trading Post,Land,None,Alliances,Rare,0,Colorless,False,False,True,True,b'Tom W\xc3\xa4nerstrand',1.15
-Heart of Yavimaya,Land,None,Alliances,Rare,0,Colorless,False,False,True,True,b'Pete Venters',1.02
-Kjeldoran Outpost,Land,None,Alliances,Rare,0,Colorless,False,False,True,True,b'Jeff A. Menges',4.56
-Lake of the Dead,Land,None,Alliances,Rare,0,Colorless,False,False,True,True,b'Pete Venters',28.27
-School of the Unseen,Land,None,Alliances,Uncommon,0,Colorless,False,False,True,False,b'Pat Morrissey',0.17
-Sheltered Valley,Land,None,Alliances,Rare,0,Colorless,False,False,True,False,b'Rob Alexander',0.56
-Soldevi Excavations,Land,None,Alliances,Rare,0,Colorless,False,False,True,True,b'Liz Danforth',3.71
-Thawing Glaciers,Land,None,Alliances,Rare,0,Colorless,False,False,True,True,b'Jeff A. Menges',9.85
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Exile,Instant,None,Alliances,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.76,False
+Inheritance,Enchantment,None,Alliances,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.35,False
+Ivory Gargoyle,Creature,Gargoyle,Alliances,Rare,5,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.48,False
+Juniper Order Advocate,Creature,Human Knight,Alliances,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.13,False
+Kjeldoran Home Guard,Creature,Human Soldier,Alliances,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Andi Rusu',0.14,False
+Royal Decree,Enchantment,None,Alliances,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.5,False
+Scars of the Veteran,Instant,None,Alliances,Uncommon,5,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.14,False
+Seasoned Tactician,Creature,Human Advisor,Alliances,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Frazier',0.1,False
+Sustaining Spirit,Creature,Angel Spirit,Alliances,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',0.91,False
+Sworn Defender,Creature,Human Knight,Alliances,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'D. Alexander Gregory',0.49,False
+Unlikely Alliance,Enchantment,None,Alliances,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Phil Foglio',0.18,False
+Browse,Enchantment,None,Alliances,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Phil Foglio',0.18,False
+Diminishing Returns,Sorcery,None,Alliances,Rare,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Allen Williams',0.42,False
+Force of Will,Instant,None,Alliances,Uncommon,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',102.8,False
+Library of Lat-Nam,Sorcery,None,Alliances,Rare,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Rabinowitz',0.26,False
+Phantasmal Sphere,Creature,Illusion,Alliances,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',0.4,False
+Spiny Starfish,Creature,Starfish,Alliances,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Rabinowitz',0.18,False
+Storm Elemental,Creature,Elemental,Alliances,Uncommon,6,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',0.11,False
+Suffocation,Instant,None,Alliances,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Allen Williams',0.16,False
+Thought Lash,Enchantment,None,Alliances,Rare,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',11.49,False
+Tidal Control,Enchantment,None,Alliances,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Gallegos',0.74,False
+Viscerid Drone,Creature,Homarid Drone,Alliances,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.1,False
+Balduvian Dead,Creature,Zombie,Alliances,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Kimble',0.11,False
+Contagion,Instant,None,Alliances,Uncommon,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Raabe',0.34,False
+Diseased Vermin,Creature,Rat,Alliances,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott Kirschner',0.28,False
+Dystopia,Enchantment,None,Alliances,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ruth Thompson',1.05,False
+Fatal Lore,Sorcery,None,Alliances,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Lawrence Snelly',0.45,False
+Keeper of Tresserhorn,Creature,Avatar,Alliances,Rare,6,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Zak Plucinski',0.43,False
+Krovikan Horror,Creature,Horror Spirit,Alliances,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.82,False
+Krovikan Plague,Enchantment,Aura,Alliances,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Liz Danforth',0.11,False
+Misinformation,Instant,None,Alliances,Uncommon,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Kane Ferguson',0.21,False
+Ritual of the Machine,Sorcery,None,Alliances,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',2.04,False
+Stromgald Spy,Creature,Human Rogue,Alliances,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Zak Plucinski',0.16,False
+Balduvian Horde,Creature,Human Barbarian,Alliances,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.44,False
+Burnout,Instant,None,Alliances,Uncommon,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Raabe',0.48,False
+Chaos Harlequin,Creature,Human,Alliances,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Rabinowitz',0.28,False
+Death Spark,Instant,None,Alliances,Uncommon,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.22,False
+Omen of Fire,Instant,None,Alliances,Rare,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.74,False
+Pillage,Sorcery,None,Alliances,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Kane Ferguson',0.92,False
+Primitive Justice,Sorcery,None,Alliances,Uncommon,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',0.13,False
+Pyrokinesis,Instant,None,Alliances,Uncommon,6,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.24,False
+Rogue Skycaptain,Creature,Human Rogue Mercenary,Alliances,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Asplund-Faith',0.32,False
+Soldier of Fortune,Creature,Human Mercenary,Alliances,Uncommon,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Douglas Shuler',0.15,False
+Varchild's War-Riders,Creature,Human Warrior,Alliances,Rare,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Susan Van Camp',2.31,False
+Bounty of the Hunt,Instant,None,Alliances,Uncommon,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.18,False
+Elvish Bard,Creature,Elf Shaman,Alliances,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Susan Van Camp',0.11,False
+Elvish Spirit Guide,Creature,Elf Spirit,Alliances,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Julie Baroh',5.32,False
+Gargantuan Gorilla,Creature,Ape,Alliances,Rare,7,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Simanson',0.45,False
+Hail Storm,Instant,None,Alliances,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.14,False
+Kaysa,Creature,Elf Druid,Alliances,Rare,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',2.21,True
+Nature's Chosen,Enchantment,Aura,Alliances,Uncommon,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rebecca Guay',1.01,False
+Nature's Wrath,Enchantment,None,Alliances,Rare,6,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Liz Danforth',0.76,False
+Splintering Wind,Enchantment,None,Alliances,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.39,False
+Tornado,Enchantment,None,Alliances,Rare,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Susan Van Camp',0.36,False
+Yavimaya Ants,Creature,Insect,Alliances,Uncommon,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pat Morrissey',0.1,False
+Energy Arc,Instant,None,Alliances,Uncommon,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.24,False
+Lim-Dûl's Vault,Instant,None,Alliances,Uncommon,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',5.15,False
+Lim-Dûl's Paladin,Creature,Human Knight,Alliances,Uncommon,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Rush',0.15,False
+Surge of Strength,Instant,None,Alliances,Uncommon,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ruth Thompson',0.19,False
+Nature's Blessing,Enchantment,None,Alliances,Uncommon,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.12,False
+Wandering Mage,Creature,Human Cleric Wizard,Alliances,Rare,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.57,False
+Lord of Tresserhorn,Creature,Zombie,Alliances,Rare,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',2.51,True
+Misfortune,Sorcery,None,Alliances,Rare,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.43,False
+Winter's Night,World Enchantment,None,Alliances,Rare,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.78,False
+Phelddagrif,Creature,Phelddagrif,Alliances,Rare,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',6.12,True
+Ashnod's Cylix,Artifact,None,Alliances,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Nicola Leonard',0.7,False
+Floodwater Dam,Artifact,None,Alliances,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.46,False
+Gustha's Scepter,Artifact,None,Alliances,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',1.13,False
+Helm of Obedience,Artifact,None,Alliances,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',18.88,False
+Lodestone Bauble,Artifact,None,Alliances,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',1.41,False
+Mishra's Groundbreaker,Artifact,None,Alliances,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.07,False
+Mystic Compass,Artifact,None,Alliances,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.24,False
+Phyrexian Devourer,Artifact Creature,Construct,Alliances,Rare,6,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',3.33,False
+Phyrexian Portal,Artifact,None,Alliances,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.94,False
+Scarab of the Unseen,Artifact,None,Alliances,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Sandra Everingham',0.15,False
+Shield Sphere,Artifact Creature,Wall,Alliances,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Rabinowitz',3.66,False
+Sol Grail,Artifact,None,Alliances,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.2,False
+Soldevi Digger,Artifact,None,Alliances,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',2.0,False
+Storm Cauldron,Artifact,None,Alliances,Rare,5,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',2.29,False
+Urza's Engine,Artifact Creature,Juggernaut,Alliances,Uncommon,5,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Simanson',0.07,False
+Whirling Catapult,Artifact,None,Alliances,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.15,False
+Balduvian Trading Post,Land,None,Alliances,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',1.12,False
+Heart of Yavimaya,Land,None,Alliances,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',1.02,False
+Kjeldoran Outpost,Land,None,Alliances,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',4.9,False
+Lake of the Dead,Land,None,Alliances,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',30.92,False
+School of the Unseen,Land,None,Alliances,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pat Morrissey',0.17,False
+Sheltered Valley,Land,None,Alliances,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rob Alexander',0.55,False
+Soldevi Excavations,Land,None,Alliances,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Liz Danforth',3.65,False
+Thawing Glaciers,Land,None,Alliances,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',10.78,False

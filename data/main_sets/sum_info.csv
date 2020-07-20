@@ -1,307 +1,307 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Animate Wall,Enchantment,Aura,Summer Magic / Edgar,Rare,1,White,False,False,True,True,b'Dan Frazier',0.2
-Armageddon,Sorcery,None,Summer Magic / Edgar,Rare,4,White,False,False,True,True,b'Jesper Myrfors',0.2
-Balance,Sorcery,None,Summer Magic / Edgar,Rare,2,White,False,False,False,True,b'Mark Poole',0.2
-Benalish Hero,Creature,Human Soldier,Summer Magic / Edgar,Common,1,White,False,False,True,True,b'Douglas Shuler',0.2
-Black Ward,Enchantment,Aura,Summer Magic / Edgar,Uncommon,1,White,False,False,True,True,b'Dan Frazier',0.2
-Blessing,Enchantment,Aura,Summer Magic / Edgar,Rare,2,White,True,False,True,True,b'Julie Baroh',0.02
-Blue Ward,Enchantment,Aura,Summer Magic / Edgar,Uncommon,1,White,False,False,True,True,b'Dan Frazier',95.0
-Castle,Enchantment,None,Summer Magic / Edgar,Uncommon,4,White,False,False,True,True,b'Dameon Willich',95.0
-Circle of Protection: Black,Enchantment,None,Summer Magic / Edgar,Common,2,White,True,False,True,True,b'Jesper Myrfors',95.0
-Circle of Protection: Blue,Enchantment,None,Summer Magic / Edgar,Common,2,White,True,False,True,True,b'Dameon Willich',30.0
-Circle of Protection: Green,Enchantment,None,Summer Magic / Edgar,Common,2,White,True,False,True,True,b'Sandra Everingham',30.0
-Circle of Protection: Red,Enchantment,None,Summer Magic / Edgar,Common,2,White,True,False,True,True,b'Mark Tedin',30.0
-Circle of Protection: White,Enchantment,None,Summer Magic / Edgar,Common,2,White,True,False,True,True,b'Douglas Shuler',30.0
-Conversion,Enchantment,None,Summer Magic / Edgar,Uncommon,4,White,False,False,True,True,b'Jesper Myrfors',30.0
-Crusade,Enchantment,None,Summer Magic / Edgar,Rare,2,White,False,False,True,True,b'Mark Poole',30.0
-Death Ward,Instant,None,Summer Magic / Edgar,Common,1,White,False,False,True,True,b'Mark Poole',0.75
-Disenchant,Instant,None,Summer Magic / Edgar,Common,2,White,True,True,True,True,b'Amy Weber',50.0
-Eye for an Eye,Instant,None,Summer Magic / Edgar,Rare,2,White,False,False,True,True,b'Mark Poole',50.0
-Farmstead,Enchantment,Aura,Summer Magic / Edgar,Rare,3,White,False,False,True,True,b'Mark Poole',0.25
-Green Ward,Enchantment,Aura,Summer Magic / Edgar,Uncommon,1,White,False,False,True,True,b'Dan Frazier',0.25
-Guardian Angel,Instant,None,Summer Magic / Edgar,Common,2,White,False,False,True,True,b'Anson Maddocks',0.02
-Healing Salve,Instant,None,Summer Magic / Edgar,Common,1,White,True,False,True,True,b'Dan Frazier',0.02
-Holy Armor,Enchantment,Aura,Summer Magic / Edgar,Common,1,White,False,False,True,True,b'Melissa A. Benson',0.0
-Holy Strength,Enchantment,Aura,Summer Magic / Edgar,Common,1,White,True,False,True,True,b'Anson Maddocks',0.02
-Island Sanctuary,Enchantment,None,Summer Magic / Edgar,Rare,2,White,False,False,True,True,b'Mark Poole',0.02
-Karma,Enchantment,None,Summer Magic / Edgar,Uncommon,4,White,True,False,True,True,b'Richard Thomas',0.02
-Lance,Enchantment,Aura,Summer Magic / Edgar,Uncommon,1,White,False,False,True,True,b'Rob Alexander',0.02
-Mesa Pegasus,Creature,Pegasus,Summer Magic / Edgar,Common,2,White,False,False,True,True,b'Melissa A. Benson',9.17
-Northern Paladin,Creature,Human Knight,Summer Magic / Edgar,Rare,4,White,False,False,True,True,b'Douglas Shuler',9.17
-Pearled Unicorn,Creature,Unicorn,Summer Magic / Edgar,Common,3,White,False,False,True,True,b'Cornelius Brudi',9.17
-Personal Incarnation,Creature,Avatar Incarnation,Summer Magic / Edgar,Rare,6,White,False,False,True,True,b'Kev Brockschmidt',9.17
-Purelace,Instant,None,Summer Magic / Edgar,Rare,1,White,False,False,True,True,b'Sandra Everingham',9.17
-Red Ward,Enchantment,Aura,Summer Magic / Edgar,Uncommon,1,White,False,False,True,True,b'Dan Frazier',9.17
-Resurrection,Sorcery,None,Summer Magic / Edgar,Uncommon,4,White,True,False,True,True,b'Dan Frazier',9.17
-Reverse Damage,Instant,None,Summer Magic / Edgar,Rare,3,White,True,False,True,True,b'Dameon Willich',9.17
-Reverse Polarity,Instant,None,Summer Magic / Edgar,Uncommon,2,White,False,False,True,True,b'Justin Hampton',9.17
-Righteousness,Instant,None,Summer Magic / Edgar,Rare,1,White,True,True,True,True,b'Douglas Shuler',9.17
-Samite Healer,Creature,Human Cleric,Summer Magic / Edgar,Common,2,White,True,False,True,True,b'Tom W\xc3\xa4nerstrand',51.32
-Savannah Lions,Creature,Cat,Summer Magic / Edgar,Rare,1,White,True,False,True,True,b'Daniel Gelon',0.02
-Serra Angel,Creature,Angel,Summer Magic / Edgar,Uncommon,5,White,True,False,True,True,b'Douglas Shuler',0.0
-Swords to Plowshares,Instant,None,Summer Magic / Edgar,Uncommon,1,White,False,False,True,True,b'Jeff A. Menges',0.02
-Veteran Bodyguard,Creature,Human,Summer Magic / Edgar,Rare,5,White,False,False,True,True,b'Douglas Shuler',0.02
-Wall of Swords,Creature,Wall,Summer Magic / Edgar,Uncommon,4,White,True,False,True,True,b'Mark Tedin',0.02
-White Knight,Creature,Human Knight,Summer Magic / Edgar,Uncommon,2,White,True,False,True,True,b'Daniel Gelon',0.02
-White Ward,Enchantment,Aura,Summer Magic / Edgar,Uncommon,1,White,False,False,True,True,b'Dan Frazier',0.02
-Wrath of God,Sorcery,None,Summer Magic / Edgar,Rare,4,White,True,False,True,True,b'Quinton Hoover',0.02
-Air Elemental,Creature,Elemental,Summer Magic / Edgar,Uncommon,5,Blue,True,True,True,True,b'Richard Thomas',0.02
-Animate Artifact,Enchantment,Aura,Summer Magic / Edgar,Uncommon,4,Blue,False,False,True,True,b'Douglas Shuler',20.0
-Blue Elemental Blast,Instant,None,Summer Magic / Edgar,Common,1,Blue,False,False,True,True,b'Richard Thomas',2.29
-Braingeyser,Sorcery,None,Summer Magic / Edgar,Rare,3,Blue,False,False,True,True,b'Mark Tedin',2.29
-Clone,Creature,Shapeshifter,Summer Magic / Edgar,Uncommon,4,Blue,True,False,True,True,b'Julie Baroh',0.5
-Control Magic,Enchantment,Aura,Summer Magic / Edgar,Uncommon,4,Blue,False,False,True,True,b'Dameon Willich',0.5
-Copy Artifact,Enchantment,None,Summer Magic / Edgar,Rare,2,Blue,False,False,True,True,b'Amy Weber',0.5
-Counterspell,Instant,None,Summer Magic / Edgar,Uncommon,2,Blue,False,False,True,True,b'Mark Poole',0.02
-Creature Bond,Enchantment,Aura,Summer Magic / Edgar,Common,2,Blue,False,False,True,True,b'Anson Maddocks',0.02
-Drain Power,Sorcery,None,Summer Magic / Edgar,Rare,2,Blue,False,False,True,True,b'Douglas Shuler',0.02
-Energy Flux,Enchantment,None,Summer Magic / Edgar,Uncommon,3,Blue,False,False,True,True,b'Kaja Foglio',0.02
-Feedback,Enchantment,Aura,Summer Magic / Edgar,Uncommon,3,Blue,False,False,True,True,b'Quinton Hoover',0.02
-Flight,Enchantment,Aura,Summer Magic / Edgar,Common,1,Blue,True,False,True,True,b'Anson Maddocks',0.0
-Hurkyl's Recall,Instant,None,Summer Magic / Edgar,Rare,2,Blue,True,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.02
-Island Fish Jasconius,Creature,Fish,Summer Magic / Edgar,Rare,7,Blue,False,False,True,True,b'Jesper Myrfors',0.24
-Jump,Instant,None,Summer Magic / Edgar,Common,1,Blue,True,False,True,True,b'Mark Poole',0.24
-Lifetap,Enchantment,None,Summer Magic / Edgar,Uncommon,2,Blue,False,False,True,True,b'Anson Maddocks',0.24
-Lord of Atlantis,Creature,Merfolk,Summer Magic / Edgar,Rare,2,Blue,True,False,True,True,b'Melissa A. Benson',4.0
-Magical Hack,Instant,None,Summer Magic / Edgar,Rare,1,Blue,False,False,True,True,b'Julie Baroh',4.0
-Mahamoti Djinn,Creature,Djinn,Summer Magic / Edgar,Rare,6,Blue,True,False,True,True,b'Dan Frazier',0.0
-Mana Short,Instant,None,Summer Magic / Edgar,Rare,3,Blue,False,False,True,True,b'Dameon Willich',0.0
-Merfolk of the Pearl Trident,Creature,Merfolk,Summer Magic / Edgar,Common,1,Blue,True,False,True,True,b'Jeff A. Menges',45.78
-Phantasmal Forces,Creature,Illusion,Summer Magic / Edgar,Uncommon,4,Blue,False,False,True,True,b'Mark Poole',45.78
-Phantasmal Terrain,Enchantment,Aura,Summer Magic / Edgar,Common,2,Blue,False,False,True,True,b'Dameon Willich',45.78
-Phantom Monster,Creature,Illusion,Summer Magic / Edgar,Uncommon,4,Blue,False,False,True,True,b'Jesper Myrfors',45.78
-Pirate Ship,Creature,Human Pirate,Summer Magic / Edgar,Rare,5,Blue,True,False,True,True,b'Tom W\xc3\xa4nerstrand',45.78
-Power Leak,Enchantment,Aura,Summer Magic / Edgar,Common,2,Blue,False,False,True,True,b'Drew Tucker',0.02
-Power Sink,Instant,None,Summer Magic / Edgar,Common,2,Blue,False,False,True,True,b'Richard Thomas',0.02
-Prodigal Sorcerer,Creature,Human Wizard,Summer Magic / Edgar,Common,3,Blue,True,False,True,True,b'Douglas Shuler',29.81
-Psychic Venom,Enchantment,Aura,Summer Magic / Edgar,Common,2,Blue,False,False,True,True,b'Brian Sn\xc3\xb5ddy',99.99
-Reconstruction,Sorcery,None,Summer Magic / Edgar,Common,1,Blue,False,False,True,True,b'Anson Maddocks',20.0
-Sea Serpent,Creature,Serpent,Summer Magic / Edgar,Common,6,Blue,False,False,True,True,b'Jeff A. Menges',20.0
-Serendib Efreet,Creature,Efreet,Summer Magic / Edgar,Rare,3,Blue,False,False,True,True,b'Anson Maddocks',20.0
-Siren's Call,Instant,None,Summer Magic / Edgar,Uncommon,1,Blue,False,False,True,True,b'Anson Maddocks',20.0
-Sleight of Mind,Instant,None,Summer Magic / Edgar,Rare,1,Blue,False,False,True,True,b'Mark Poole',20.0
-Spell Blast,Instant,None,Summer Magic / Edgar,Common,2,Blue,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.0
-Stasis,Enchantment,None,Summer Magic / Edgar,Rare,2,Blue,False,False,True,True,b'Fay Jones',0.0
-Steal Artifact,Enchantment,Aura,Summer Magic / Edgar,Uncommon,4,Blue,True,False,True,True,b'Amy Weber',0.0
-Thoughtlace,Instant,None,Summer Magic / Edgar,Rare,1,Blue,False,False,True,True,b'Mark Poole',0.0
-Unstable Mutation,Enchantment,Aura,Summer Magic / Edgar,Common,1,Blue,True,False,True,True,b'Douglas Shuler',0.0
-Unsummon,Instant,None,Summer Magic / Edgar,Common,1,Blue,True,True,True,True,b'Douglas Shuler',20.0
-Vesuvan Doppelganger,Creature,Shapeshifter,Summer Magic / Edgar,Rare,5,Blue,False,False,True,True,b'Quinton Hoover',20.0
-Volcanic Eruption,Sorcery,None,Summer Magic / Edgar,Rare,4,Blue,False,False,True,True,b'Douglas Shuler',20.0
-Wall of Air,Creature,Wall,Summer Magic / Edgar,Uncommon,3,Blue,True,False,True,True,b'Richard Thomas',0.02
-Wall of Water,Creature,Wall,Summer Magic / Edgar,Uncommon,3,Blue,False,False,True,True,b'Richard Thomas',0.02
-Water Elemental,Creature,Elemental,Summer Magic / Edgar,Uncommon,5,Blue,False,False,True,True,b'Jeff A. Menges',60.0
-Animate Dead,Enchantment,Aura,Summer Magic / Edgar,Uncommon,2,Black,False,False,True,True,b'Anson Maddocks',60.0
-Bad Moon,Enchantment,None,Summer Magic / Edgar,Rare,2,Black,True,False,True,True,b'Jesper Myrfors',60.0
-Black Knight,Creature,Human Knight,Summer Magic / Edgar,Uncommon,2,Black,True,False,True,True,b'Jeff A. Menges',60.0
-Bog Wraith,Creature,Wraith,Summer Magic / Edgar,Uncommon,4,Black,True,False,True,True,b'Jeff A. Menges',50.0
-Contract from Below,Sorcery,None,Summer Magic / Edgar,Rare,1,Black,False,False,False,True,b'Douglas Shuler',50.0
-Cursed Land,Enchantment,Aura,Summer Magic / Edgar,Uncommon,4,Black,False,False,True,True,b'Jesper Myrfors',50.0
-Dark Ritual,Instant,None,Summer Magic / Edgar,Common,1,Black,False,False,True,True,b'Sandra Everingham',37.62
-Darkpact,Sorcery,None,Summer Magic / Edgar,Rare,3,Black,False,False,False,True,b'Quinton Hoover',37.62
-Deathgrip,Enchantment,None,Summer Magic / Edgar,Uncommon,2,Black,False,False,True,True,b'Anson Maddocks',37.62
-Deathlace,Instant,None,Summer Magic / Edgar,Rare,1,Black,False,False,True,True,b'Sandra Everingham',37.62
-Demonic Attorney,Sorcery,None,Summer Magic / Edgar,Rare,3,Black,False,False,False,True,b'Daniel Gelon',37.62
-Demonic Hordes,Creature,Demon,Summer Magic / Edgar,Rare,6,Black,False,False,True,True,b'Jesper Myrfors',0.02
-Demonic Tutor,Sorcery,None,Summer Magic / Edgar,Uncommon,2,Black,False,False,True,True,b'Douglas Shuler',24.08
-Drain Life,Sorcery,None,Summer Magic / Edgar,Common,3,Black,False,False,True,True,b'Douglas Shuler',0.02
-Drudge Skeletons,Creature,Skeleton,Summer Magic / Edgar,Common,2,Black,True,False,True,True,b'Sandra Everingham',24.99
-El-Hajjâj,Creature,Human Wizard,Summer Magic / Edgar,Rare,3,Black,False,False,True,True,b'Dameon Willich',10.0
-Erg Raiders,Creature,Human Warrior,Summer Magic / Edgar,Common,2,Black,False,False,True,True,b'Dameon Willich',10.0
-Evil Presence,Enchantment,Aura,Summer Magic / Edgar,Uncommon,1,Black,True,False,True,True,b'Sandra Everingham',10.0
-Fear,Enchantment,Aura,Summer Magic / Edgar,Common,2,Black,True,False,True,True,b'Mark Poole',0.02
-Frozen Shade,Creature,Shade,Summer Magic / Edgar,Common,3,Black,False,False,True,True,b'Douglas Shuler',0.02
-Gloom,Enchantment,None,Summer Magic / Edgar,Uncommon,3,Black,False,False,True,True,b'Dan Frazier',0.02
-Howl from Beyond,Instant,None,Summer Magic / Edgar,Common,2,Black,False,False,True,True,b'Mark Poole',0.0
-Hypnotic Specter,Creature,Specter,Summer Magic / Edgar,Uncommon,3,Black,True,False,True,True,b'Douglas Shuler',0.0
-Lord of the Pit,Creature,Demon,Summer Magic / Edgar,Rare,7,Black,True,False,True,True,b'Mark Tedin',5.0
-Mind Twist,Sorcery,None,Summer Magic / Edgar,Rare,2,Black,False,False,True,True,b'Julie Baroh',0.02
-Nether Shadow,Creature,Spirit,Summer Magic / Edgar,Rare,2,Black,False,False,True,True,b'Christopher Rush',0.02
-Nettling Imp,Creature,Imp,Summer Magic / Edgar,Uncommon,3,Black,False,False,True,True,b'Quinton Hoover',0.02
-Nightmare,Creature,Nightmare Horse,Summer Magic / Edgar,Rare,6,Black,True,False,True,True,b'Melissa A. Benson',64.0
-Paralyze,Enchantment,Aura,Summer Magic / Edgar,Common,1,Black,False,False,True,True,b'Anson Maddocks',64.0
-Pestilence,Enchantment,None,Summer Magic / Edgar,Common,4,Black,False,False,True,True,b'Jesper Myrfors',0.02
-Plague Rats,Creature,Rat,Summer Magic / Edgar,Common,3,Black,False,False,True,True,b'Anson Maddocks',0.0
-Raise Dead,Sorcery,None,Summer Magic / Edgar,Common,1,Black,True,False,True,True,b'Jeff A. Menges',0.0
-Royal Assassin,Creature,Human Assassin,Summer Magic / Edgar,Rare,3,Black,True,False,True,True,b'Tom W\xc3\xa4nerstrand',0.0
-Sacrifice,Instant,None,Summer Magic / Edgar,Uncommon,1,Black,False,False,True,True,b'Dan Frazier',0.0
-Scathe Zombies,Creature,Zombie,Summer Magic / Edgar,Common,3,Black,True,False,True,True,b'Jesper Myrfors',0.0
-Scavenging Ghoul,Creature,Zombie,Summer Magic / Edgar,Uncommon,4,Black,False,False,True,True,b'Jeff A. Menges',0.02
-Sengir Vampire,Creature,Vampire,Summer Magic / Edgar,Uncommon,5,Black,True,False,True,True,b'Anson Maddocks',0.02
-Simulacrum,Instant,None,Summer Magic / Edgar,Uncommon,2,Black,False,False,True,True,b'Mark Poole',0.02
-Sorceress Queen,Creature,Human Wizard,Summer Magic / Edgar,Rare,3,Black,False,False,True,True,b'Kaja Foglio',0.45
-Terror,Instant,None,Summer Magic / Edgar,Common,2,Black,True,False,True,True,b'Ron Spencer',0.0
-Unholy Strength,Enchantment,Aura,Summer Magic / Edgar,Common,1,Black,True,False,True,True,b'Douglas Shuler',0.0
-Wall of Bone,Creature,Skeleton Wall,Summer Magic / Edgar,Uncommon,3,Black,True,False,True,True,b'Anson Maddocks',0.02
-Warp Artifact,Enchantment,Aura,Summer Magic / Edgar,Rare,2,Black,False,False,True,True,b'Amy Weber',0.02
-Weakness,Enchantment,Aura,Summer Magic / Edgar,Common,1,Black,True,False,True,True,b'Douglas Shuler',0.02
-Will-o'-the-Wisp,Creature,Spirit,Summer Magic / Edgar,Rare,1,Black,True,False,True,True,b'Jesper Myrfors',0.02
-Zombie Master,Creature,Zombie,Summer Magic / Edgar,Rare,3,Black,False,False,True,True,b'Jeff A. Menges',0.02
-Atog,Creature,Atog,Summer Magic / Edgar,Common,2,Red,True,False,True,True,b'Jesper Myrfors',10.0
-Burrowing,Enchantment,Aura,Summer Magic / Edgar,Uncommon,1,Red,False,False,True,True,b'Mark Poole',95.0
-Chaoslace,Instant,None,Summer Magic / Edgar,Rare,1,Red,False,False,True,True,b'Dameon Willich',95.0
-Disintegrate,Sorcery,None,Summer Magic / Edgar,Common,2,Red,True,False,True,True,b'Anson Maddocks',0.02
-Dragon Whelp,Creature,Dragon,Summer Magic / Edgar,Uncommon,4,Red,True,False,True,True,b'Amy Weber',0.02
-Dwarven Warriors,Creature,Dwarf Warrior,Summer Magic / Edgar,Common,3,Red,False,False,True,True,b'Douglas Shuler',77.82
-Dwarven Weaponsmith,Creature,Dwarf Artificer,Summer Magic / Edgar,Uncommon,2,Red,False,False,True,True,b'Mark Poole',77.82
-Earth Elemental,Creature,Elemental,Summer Magic / Edgar,Uncommon,5,Red,True,False,True,True,b'Dan Frazier',77.82
-Earthbind,Enchantment,Aura,Summer Magic / Edgar,Common,1,Red,False,False,True,True,b'Quinton Hoover',0.0
-Earthquake,Sorcery,None,Summer Magic / Edgar,Rare,2,Red,True,False,True,True,b'Dan Frazier',0.0
-Fire Elemental,Creature,Elemental,Summer Magic / Edgar,Uncommon,5,Red,True,True,True,True,b'Melissa A. Benson',0.0
-Fireball,Sorcery,None,Summer Magic / Edgar,Common,2,Red,True,False,True,True,b'Mark Tedin',13.13
-Firebreathing,Enchantment,Aura,Summer Magic / Edgar,Common,1,Red,True,False,True,True,b'Dan Frazier',0.02
-Flashfires,Sorcery,None,Summer Magic / Edgar,Uncommon,4,Red,True,False,True,True,b'Dameon Willich',0.02
-Fork,Instant,None,Summer Magic / Edgar,Rare,2,Red,False,False,True,True,b'Amy Weber',0.02
-Goblin Balloon Brigade,Creature,Goblin Warrior,Summer Magic / Edgar,Uncommon,1,Red,True,False,True,True,b'Andi Rusu',0.02
-Goblin King,Creature,Goblin,Summer Magic / Edgar,Rare,3,Red,True,False,True,True,b'Jesper Myrfors',0.02
-Granite Gargoyle,Creature,Gargoyle,Summer Magic / Edgar,Rare,3,Red,False,False,True,True,b'Christopher Rush',0.02
-Gray Ogre,Creature,Ogre,Summer Magic / Edgar,Common,3,Red,False,False,True,True,b'Dan Frazier',99.99
-Hill Giant,Creature,Giant,Summer Magic / Edgar,Common,4,Red,True,False,True,True,b'Dan Frazier',0.02
-Hurloon Minotaur,Creature,Minotaur,Summer Magic / Edgar,Common,3,Red,False,False,True,True,b'Anson Maddocks',0.02
-Keldon Warlord,Creature,Human Barbarian,Summer Magic / Edgar,Uncommon,4,Red,False,False,True,True,b'Kev Brockschmidt',0.02
-Kird Ape,Creature,Ape,Summer Magic / Edgar,Common,1,Red,True,False,True,True,"b'Ken Meyer, Jr.'",2.86
-Lightning Bolt,Instant,None,Summer Magic / Edgar,Common,1,Red,True,False,True,True,b'Christopher Rush',2.0
-Magnetic Mountain,Enchantment,None,Summer Magic / Edgar,Rare,3,Red,False,False,True,True,b'Susan Van Camp',2.0
-Mana Flare,Enchantment,None,Summer Magic / Edgar,Rare,3,Red,False,False,True,True,b'Christopher Rush',2.0
-Manabarbs,Enchantment,None,Summer Magic / Edgar,Rare,4,Red,True,False,True,True,b'Christopher Rush',2.0
-Mijae Djinn,Creature,Djinn,Summer Magic / Edgar,Rare,3,Red,False,False,True,True,b'Susan Van Camp',0.02
-Mons's Goblin Raiders,Creature,Goblin,Summer Magic / Edgar,Common,1,Red,False,False,True,True,b'Jeff A. Menges',50.0
-Orcish Artillery,Creature,Orc Warrior,Summer Magic / Edgar,Uncommon,3,Red,True,False,True,True,b'Anson Maddocks',50.0
-Orcish Oriflamme,Enchantment,None,Summer Magic / Edgar,Uncommon,4,Red,False,False,True,True,b'Dan Frazier',50.0
-Power Surge,Enchantment,None,Summer Magic / Edgar,Rare,2,Red,False,False,True,True,b'Douglas Shuler',50.0
-Red Elemental Blast,Instant,None,Summer Magic / Edgar,Common,1,Red,False,False,True,True,b'Richard Thomas',50.0
-Roc of Kher Ridges,Creature,Bird,Summer Magic / Edgar,Rare,4,Red,False,False,True,True,b'Andi Rusu',50.0
-Rock Hydra,Creature,Hydra,Summer Magic / Edgar,Rare,3,Red,False,False,True,True,b'Jeff A. Menges',50.0
-Sedge Troll,Creature,Troll,Summer Magic / Edgar,Rare,3,Red,False,False,True,True,b'Dan Frazier',50.0
-Shatter,Instant,None,Summer Magic / Edgar,Common,2,Red,True,False,True,True,b'Amy Weber',0.0
-Shatterstorm,Sorcery,None,Summer Magic / Edgar,Uncommon,4,Red,True,False,True,True,b'Mark Poole',0.02
-Shivan Dragon,Creature,Dragon,Summer Magic / Edgar,Rare,6,Red,True,True,True,True,b'Melissa A. Benson',0.02
-Smoke,Enchantment,None,Summer Magic / Edgar,Rare,2,Red,False,False,True,True,b'Jesper Myrfors',0.02
-Stone Giant,Creature,Giant,Summer Magic / Edgar,Uncommon,4,Red,True,False,True,True,b'Dameon Willich',0.02
-Stone Rain,Sorcery,None,Summer Magic / Edgar,Common,3,Red,True,False,True,True,b'Daniel Gelon',0.24
-Tunnel,Instant,None,Summer Magic / Edgar,Uncommon,1,Red,False,False,True,True,b'Dan Frazier',0.24
-Uthden Troll,Creature,Troll,Summer Magic / Edgar,Uncommon,3,Red,True,False,True,True,b'Douglas Shuler',50.0
-Wall of Fire,Creature,Wall,Summer Magic / Edgar,Uncommon,3,Red,True,False,True,True,b'Richard Thomas',0.15
-Wall of Stone,Creature,Wall,Summer Magic / Edgar,Uncommon,3,Red,True,False,True,True,b'Dan Frazier',0.15
-Wheel of Fortune,Sorcery,None,Summer Magic / Edgar,Rare,3,Red,False,False,True,True,b'Daniel Gelon',0.02
-Aspect of Wolf,Enchantment,Aura,Summer Magic / Edgar,Rare,2,Green,False,False,True,True,b'Jeff A. Menges',0.02
-Birds of Paradise,Creature,Bird,Summer Magic / Edgar,Rare,1,Green,True,False,True,True,b'Mark Poole',3.0
-Channel,Sorcery,None,Summer Magic / Edgar,Uncommon,2,Green,False,False,False,True,b'Richard Thomas',3.0
-Cockatrice,Creature,Cockatrice,Summer Magic / Edgar,Rare,5,Green,True,False,True,True,b'Dan Frazier',3.0
-Craw Wurm,Creature,Wurm,Summer Magic / Edgar,Common,6,Green,True,False,True,True,b'Daniel Gelon',19.99
-Crumble,Instant,None,Summer Magic / Edgar,Uncommon,1,Green,False,False,True,True,b'Jesper Myrfors',19.99
-Desert Twister,Sorcery,None,Summer Magic / Edgar,Uncommon,6,Green,False,False,True,True,b'Susan Van Camp',19.99
-Elvish Archers,Creature,Elf Archer,Summer Magic / Edgar,Rare,2,Green,False,False,True,True,b'Anson Maddocks',0.02
-Fastbond,Enchantment,None,Summer Magic / Edgar,Rare,1,Green,False,False,False,True,b'Mark Poole',0.02
-Fog,Instant,None,Summer Magic / Edgar,Common,1,Green,True,False,True,True,b'Jesper Myrfors',55.75
-Force of Nature,Creature,Elemental,Summer Magic / Edgar,Rare,6,Green,True,False,True,True,b'Douglas Shuler',55.75
-Fungusaur,Creature,Fungus Dinosaur,Summer Magic / Edgar,Rare,4,Green,True,False,True,True,b'Daniel Gelon',0.02
-Gaea's Liege,Creature,Avatar,Summer Magic / Edgar,Rare,6,Green,True,False,True,True,b'Dameon Willich',0.02
-Giant Growth,Instant,None,Summer Magic / Edgar,Common,1,Green,True,True,True,True,b'Sandra Everingham',39.0
-Giant Spider,Creature,Spider,Summer Magic / Edgar,Common,4,Green,True,False,True,True,b'Sandra Everingham',0.0
-Grizzly Bears,Creature,Bear,Summer Magic / Edgar,Common,2,Green,True,False,True,True,b'Jeff A. Menges',0.02
-Hurricane,Sorcery,None,Summer Magic / Edgar,Uncommon,2,Green,True,False,True,True,b'Dameon Willich',0.02
-Instill Energy,Enchantment,Aura,Summer Magic / Edgar,Uncommon,1,Green,False,False,True,True,b'Dameon Willich',0.02
-Ironroot Treefolk,Creature,Treefolk,Summer Magic / Edgar,Common,5,Green,False,False,True,True,b'Jesper Myrfors',0.02
-Kudzu,Enchantment,Aura,Summer Magic / Edgar,Rare,3,Green,False,False,True,True,b'Mark Poole',0.02
-Ley Druid,Creature,Human Druid,Summer Magic / Edgar,Uncommon,3,Green,True,False,True,True,b'Sandra Everingham',0.02
-Lifeforce,Enchantment,None,Summer Magic / Edgar,Uncommon,2,Green,False,False,True,True,b'Dameon Willich',0.02
-Lifelace,Instant,None,Summer Magic / Edgar,Rare,1,Green,False,False,True,True,b'Amy Weber',0.02
-Living Artifact,Enchantment,Aura,Summer Magic / Edgar,Rare,1,Green,False,False,True,True,b'Anson Maddocks',0.02
-Living Lands,Enchantment,None,Summer Magic / Edgar,Rare,4,Green,False,False,True,True,b'Jesper Myrfors',0.02
-Llanowar Elves,Creature,Elf Druid,Summer Magic / Edgar,Common,1,Green,True,False,True,True,b'Anson Maddocks',0.02
-Lure,Enchantment,Aura,Summer Magic / Edgar,Uncommon,3,Green,True,False,True,True,b'Anson Maddocks',0.02
-Regeneration,Enchantment,Aura,Summer Magic / Edgar,Common,2,Green,True,False,True,True,b'Quinton Hoover',0.02
-Regrowth,Sorcery,None,Summer Magic / Edgar,Uncommon,2,Green,True,False,True,True,b'Dameon Willich',0.02
-Scryb Sprites,Creature,Faerie,Summer Magic / Edgar,Common,1,Green,False,False,True,True,b'Amy Weber',0.02
-Shanodin Dryads,Creature,Nymph Dryad,Summer Magic / Edgar,Common,1,Green,False,False,True,True,b'Anson Maddocks',0.02
-Stream of Life,Sorcery,None,Summer Magic / Edgar,Common,2,Green,True,False,True,True,b'Mark Poole',0.02
-Thicket Basilisk,Creature,Basilisk,Summer Magic / Edgar,Uncommon,5,Green,False,False,True,True,b'Dan Frazier',0.02
-Timber Wolves,Creature,Wolf,Summer Magic / Edgar,Rare,1,Green,False,False,True,True,b'Melissa A. Benson',0.0
-Titania's Song,Enchantment,None,Summer Magic / Edgar,Rare,4,Green,False,False,True,True,b'Kerstin Kaman',0.0
-Tranquility,Sorcery,None,Summer Magic / Edgar,Common,3,Green,False,False,True,True,b'Douglas Shuler',0.0
-Tsunami,Sorcery,None,Summer Magic / Edgar,Uncommon,4,Green,False,False,True,True,b'Richard Thomas',0.0
-Verduran Enchantress,Creature,Human Druid,Summer Magic / Edgar,Rare,3,Green,True,False,True,True,b'Kev Brockschmidt',0.0
-Wall of Brambles,Creature,Plant Wall,Summer Magic / Edgar,Uncommon,3,Green,False,False,True,True,b'Anson Maddocks',0.0
-Wall of Ice,Creature,Wall,Summer Magic / Edgar,Uncommon,3,Green,False,False,True,True,b'Richard Thomas',25.0
-Wall of Wood,Creature,Wall,Summer Magic / Edgar,Common,1,Green,True,False,True,True,b'Mark Tedin',0.02
-Wanderlust,Enchantment,Aura,Summer Magic / Edgar,Uncommon,3,Green,False,False,True,True,b'Cornelius Brudi',0.02
-War Mammoth,Creature,Elephant,Summer Magic / Edgar,Common,4,Green,False,False,True,True,b'Jeff A. Menges',0.02
-Web,Enchantment,Aura,Summer Magic / Edgar,Rare,1,Green,True,False,True,True,b'Rob Alexander',0.02
-Wild Growth,Enchantment,Aura,Summer Magic / Edgar,Common,1,Green,False,False,True,True,b'Mark Poole',25.89
-Aladdin's Lamp,Artifact,None,Summer Magic / Edgar,Rare,1,Colorless,False,False,True,True,b'Mark Tedin',25.89
-Aladdin's Ring,Artifact,None,Summer Magic / Edgar,Rare,8,Colorless,True,False,True,True,b'Dan Frazier',25.89
-Ankh of Mishra,Artifact,None,Summer Magic / Edgar,Rare,2,Colorless,False,False,True,True,b'Amy Weber',25.89
-Armageddon Clock,Artifact,None,Summer Magic / Edgar,Rare,6,Colorless,False,False,True,True,b'Amy Weber',25.89
-Basalt Monolith,Artifact,None,Summer Magic / Edgar,Uncommon,3,Colorless,False,False,True,True,b'Jesper Myrfors',25.89
-Black Vise,Artifact,None,Summer Magic / Edgar,Uncommon,1,Colorless,False,False,True,True,b'Richard Thomas',0.02
-Bottle of Suleiman,Artifact,None,Summer Magic / Edgar,Rare,4,Colorless,False,False,True,True,b'Jesper Myrfors',0.02
-Brass Man,Artifact Creature,Construct,Summer Magic / Edgar,Uncommon,1,Colorless,False,False,True,True,b'Christopher Rush',0.02
-Celestial Prism,Artifact,None,Summer Magic / Edgar,Uncommon,3,Colorless,False,False,True,True,b'Amy Weber',0.02
-Clockwork Beast,Artifact Creature,Beast,Summer Magic / Edgar,Rare,6,Colorless,False,False,True,True,b'Drew Tucker',0.02
-Conservator,Artifact,None,Summer Magic / Edgar,Uncommon,4,Colorless,False,False,True,True,b'Amy Weber',95.0
-Crystal Rod,Artifact,None,Summer Magic / Edgar,Uncommon,1,Colorless,True,False,True,True,b'Amy Weber',0.02
-Dancing Scimitar,Artifact Creature,Spirit,Summer Magic / Edgar,Rare,4,Colorless,True,False,True,True,b'Anson Maddocks',0.02
-Dingus Egg,Artifact,None,Summer Magic / Edgar,Rare,4,Colorless,True,False,True,True,b'Dan Frazier',0.02
-Disrupting Scepter,Artifact,None,Summer Magic / Edgar,Rare,3,Colorless,True,False,True,True,b'Dan Frazier',0.02
-Dragon Engine,Artifact Creature,Construct,Summer Magic / Edgar,Rare,3,Colorless,False,False,True,True,b'Anson Maddocks',0.02
-Ebony Horse,Artifact,None,Summer Magic / Edgar,Rare,3,Colorless,False,False,True,True,b'Dameon Willich',0.02
-Flying Carpet,Artifact,None,Summer Magic / Edgar,Rare,4,Colorless,True,False,True,True,b'Mark Tedin',0.02
-Glasses of Urza,Artifact,None,Summer Magic / Edgar,Uncommon,1,Colorless,False,False,True,True,b'Douglas Shuler',0.02
-Helm of Chatzuk,Artifact,None,Summer Magic / Edgar,Rare,1,Colorless,False,False,True,True,b'Mark Tedin',0.02
-Howling Mine,Artifact,None,Summer Magic / Edgar,Rare,2,Colorless,True,False,True,True,b'Mark Poole',0.02
-Iron Star,Artifact,None,Summer Magic / Edgar,Uncommon,1,Colorless,True,False,True,True,b'Dan Frazier',0.02
-Ivory Cup,Artifact,None,Summer Magic / Edgar,Uncommon,1,Colorless,True,False,True,True,b'Anson Maddocks',0.02
-Ivory Tower,Artifact,None,Summer Magic / Edgar,Rare,1,Colorless,False,False,True,True,b'Margaret Organ-Kean',0.02
-Jade Monolith,Artifact,None,Summer Magic / Edgar,Rare,4,Colorless,False,False,True,True,b'Anson Maddocks',0.02
-Jandor's Ring,Artifact,None,Summer Magic / Edgar,Rare,6,Colorless,False,False,True,True,b'Dan Frazier',0.02
-Jandor's Saddlebags,Artifact,None,Summer Magic / Edgar,Rare,2,Colorless,False,False,True,True,b'Dameon Willich',0.02
-Jayemdae Tome,Artifact,None,Summer Magic / Edgar,Rare,4,Colorless,True,False,True,True,b'Mark Tedin',0.02
-Juggernaut,Artifact Creature,Juggernaut,Summer Magic / Edgar,Uncommon,4,Colorless,True,False,True,True,b'Dan Frazier',0.02
-Kormus Bell,Artifact,None,Summer Magic / Edgar,Rare,4,Colorless,False,False,True,True,b'Christopher Rush',0.02
-Library of Leng,Artifact,None,Summer Magic / Edgar,Uncommon,1,Colorless,False,False,True,True,b'Daniel Gelon',0.02
-Living Wall,Artifact Creature,Wall,Summer Magic / Edgar,Uncommon,4,Colorless,False,False,True,True,b'Anson Maddocks',0.02
-Mana Vault,Artifact,None,Summer Magic / Edgar,Rare,1,Colorless,False,False,True,True,b'Mark Tedin',0.02
-Meekstone,Artifact,None,Summer Magic / Edgar,Rare,1,Colorless,False,False,True,True,b'Quinton Hoover',0.02
-Millstone,Artifact,None,Summer Magic / Edgar,Rare,2,Colorless,True,False,True,True,b'Kaja Foglio',0.02
-Mishra's War Machine,Artifact Creature,Juggernaut,Summer Magic / Edgar,Rare,7,Colorless,False,False,True,True,b'Amy Weber',0.02
-Nevinyrral's Disk,Artifact,None,Summer Magic / Edgar,Rare,4,Colorless,False,False,True,True,b'Mark Tedin',0.02
-Obsianus Golem,Artifact Creature,Golem,Summer Magic / Edgar,Uncommon,6,Colorless,False,False,True,True,b'Jesper Myrfors',95.0
-Onulet,Artifact Creature,Construct,Summer Magic / Edgar,Rare,3,Colorless,False,False,True,True,b'Anson Maddocks',75.0
-Ornithopter,Artifact Creature,Thopter,Summer Magic / Edgar,Uncommon,0,Colorless,True,False,True,True,b'Amy Weber',75.0
-Primal Clay,Artifact Creature,Shapeshifter,Summer Magic / Edgar,Rare,4,Colorless,True,False,True,True,b'Kaja Foglio',75.0
-Rocket Launcher,Artifact,None,Summer Magic / Edgar,Rare,4,Colorless,False,False,True,True,b'Pete Venters',0.02
-Rod of Ruin,Artifact,None,Summer Magic / Edgar,Uncommon,4,Colorless,True,False,True,True,b'Christopher Rush',0.02
-Sol Ring,Artifact,None,Summer Magic / Edgar,Uncommon,1,Colorless,False,False,True,True,b'Mark Tedin',0.02
-Soul Net,Artifact,None,Summer Magic / Edgar,Uncommon,1,Colorless,False,False,True,True,b'Dameon Willich',0.02
-Sunglasses of Urza,Artifact,None,Summer Magic / Edgar,Rare,3,Colorless,False,False,True,True,b'Dan Frazier',0.02
-The Hive,Artifact,None,Summer Magic / Edgar,Rare,5,Colorless,True,False,True,True,b'Sandra Everingham',0.02
-The Rack,Artifact,None,Summer Magic / Edgar,Uncommon,1,Colorless,True,False,True,True,b'Richard Thomas',0.02
-Throne of Bone,Artifact,None,Summer Magic / Edgar,Uncommon,1,Colorless,True,False,True,True,b'Anson Maddocks',0.02
-Winter Orb,Artifact,None,Summer Magic / Edgar,Rare,2,Colorless,False,False,True,True,b'Mark Tedin',0.02
-Wooden Sphere,Artifact,None,Summer Magic / Edgar,Uncommon,1,Colorless,True,False,True,True,b'Mark Tedin',0.02
-Badlands,Land,Swamp Mountain,Summer Magic / Edgar,Rare,0,Colorless,False,False,True,True,b'Rob Alexander',0.02
-Bayou,Land,Swamp Forest,Summer Magic / Edgar,Rare,0,Colorless,False,False,True,True,b'Jesper Myrfors',0.02
-Plateau,Land,Mountain Plains,Summer Magic / Edgar,Rare,0,Colorless,False,False,True,True,b'Cornelius Brudi',0.02
-Savannah,Land,Forest Plains,Summer Magic / Edgar,Rare,0,Colorless,False,False,True,True,b'Rob Alexander',0.02
-Scrubland,Land,Plains Swamp,Summer Magic / Edgar,Rare,0,Colorless,False,False,True,True,b'Jesper Myrfors',0.0
-Taiga,Land,Mountain Forest,Summer Magic / Edgar,Rare,0,Colorless,False,False,True,True,b'Rob Alexander',0.0
-Tropical Island,Land,Forest Island,Summer Magic / Edgar,Rare,0,Colorless,False,False,True,True,b'Jesper Myrfors',0.0
-Tundra,Land,Plains Island,Summer Magic / Edgar,Rare,0,Colorless,False,False,True,True,b'Jesper Myrfors',0.25
-Underground Sea,Land,Island Swamp,Summer Magic / Edgar,Rare,0,Colorless,False,False,True,True,b'Rob Alexander',80.0
-Volcanic Island,Land,Island Mountain,Summer Magic / Edgar,Rare,0,Colorless,False,False,True,True,b'Brian Sn\xc3\xb5ddy',80.0
-Plains,Basic Land,Plains,Summer Magic / Edgar,Common,0,Colorless,True,True,True,True,b'Jesper Myrfors',0.02
-Plains,Basic Land,Plains,Summer Magic / Edgar,Common,0,Colorless,True,True,True,True,b'Jesper Myrfors',0.02
-Plains,Basic Land,Plains,Summer Magic / Edgar,Common,0,Colorless,True,True,True,True,b'Jesper Myrfors',0.02
-Island,Basic Land,Island,Summer Magic / Edgar,Common,0,Colorless,True,True,True,True,b'Mark Poole',0.02
-Island,Basic Land,Island,Summer Magic / Edgar,Common,0,Colorless,True,True,True,True,b'Mark Poole',0.02
-Island,Basic Land,Island,Summer Magic / Edgar,Common,0,Colorless,True,True,True,True,b'Mark Poole',0.02
-Swamp,Basic Land,Swamp,Summer Magic / Edgar,Common,0,Colorless,True,True,True,True,b'Dan Frazier',0.02
-Swamp,Basic Land,Swamp,Summer Magic / Edgar,Common,0,Colorless,True,True,True,True,b'Dan Frazier',0.02
-Swamp,Basic Land,Swamp,Summer Magic / Edgar,Common,0,Colorless,True,True,True,True,b'Dan Frazier',0.02
-Mountain,Basic Land,Mountain,Summer Magic / Edgar,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',0.02
-Mountain,Basic Land,Mountain,Summer Magic / Edgar,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',0.02
-Mountain,Basic Land,Mountain,Summer Magic / Edgar,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',0.02
-Forest,Basic Land,Forest,Summer Magic / Edgar,Common,0,Colorless,True,True,True,True,b'Christopher Rush',30.0
-Forest,Basic Land,Forest,Summer Magic / Edgar,Common,0,Colorless,True,True,True,True,b'Christopher Rush',30.0
-Forest,Basic Land,Forest,Summer Magic / Edgar,Common,0,Colorless,True,True,True,True,b'Christopher Rush',30.0
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Animate Wall,Enchantment,Aura,Summer Magic / Edgar,Rare,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.19,False
+Armageddon,Sorcery,None,Summer Magic / Edgar,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.19,False
+Balance,Sorcery,None,Summer Magic / Edgar,Rare,2,White,Not Legal,Not Legal,Banned,Restrict.,Banned,True,b'Mark Poole',0.19,False
+Benalish Hero,Creature,Human Soldier,Summer Magic / Edgar,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.19,False
+Black Ward,Enchantment,Aura,Summer Magic / Edgar,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.19,False
+Blessing,Enchantment,Aura,Summer Magic / Edgar,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Julie Baroh',0.02,False
+Blue Ward,Enchantment,Aura,Summer Magic / Edgar,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',195.0,False
+Castle,Enchantment,None,Summer Magic / Edgar,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',195.0,False
+Circle of Protection: Black,Enchantment,None,Summer Magic / Edgar,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',195.0,False
+Circle of Protection: Blue,Enchantment,None,Summer Magic / Edgar,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',130.0,False
+Circle of Protection: Green,Enchantment,None,Summer Magic / Edgar,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',130.0,False
+Circle of Protection: Red,Enchantment,None,Summer Magic / Edgar,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',130.0,False
+Circle of Protection: White,Enchantment,None,Summer Magic / Edgar,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',130.0,False
+Conversion,Enchantment,None,Summer Magic / Edgar,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',130.0,False
+Crusade,Enchantment,None,Summer Magic / Edgar,Rare,2,White,Not Legal,Not Legal,Banned,Banned,Banned,True,b'Mark Poole',130.0,False
+Death Ward,Instant,None,Summer Magic / Edgar,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.75,False
+Disenchant,Instant,None,Summer Magic / Edgar,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Amy Weber',350.0,False
+Eye for an Eye,Instant,None,Summer Magic / Edgar,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',350.0,False
+Farmstead,Enchantment,Aura,Summer Magic / Edgar,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.25,False
+Green Ward,Enchantment,Aura,Summer Magic / Edgar,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.25,False
+Guardian Angel,Instant,None,Summer Magic / Edgar,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.02,False
+Healing Salve,Instant,None,Summer Magic / Edgar,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.02,False
+Holy Armor,Enchantment,Aura,Summer Magic / Edgar,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',200.0,False
+Holy Strength,Enchantment,Aura,Summer Magic / Edgar,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.02,False
+Island Sanctuary,Enchantment,None,Summer Magic / Edgar,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.02,False
+Karma,Enchantment,None,Summer Magic / Edgar,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.02,False
+Lance,Enchantment,Aura,Summer Magic / Edgar,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.02,False
+Mesa Pegasus,Creature,Pegasus,Summer Magic / Edgar,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',209.17,False
+Northern Paladin,Creature,Human Knight,Summer Magic / Edgar,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',209.17,False
+Pearled Unicorn,Creature,Unicorn,Summer Magic / Edgar,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Cornelius Brudi',209.17,False
+Personal Incarnation,Creature,Avatar Incarnation,Summer Magic / Edgar,Rare,6,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Brockschmidt',209.17,False
+Purelace,Instant,None,Summer Magic / Edgar,Rare,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',209.17,False
+Red Ward,Enchantment,Aura,Summer Magic / Edgar,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',209.17,False
+Resurrection,Sorcery,None,Summer Magic / Edgar,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',209.17,False
+Reverse Damage,Instant,None,Summer Magic / Edgar,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',209.17,False
+Reverse Polarity,Instant,None,Summer Magic / Edgar,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Hampton',209.17,False
+Righteousness,Instant,None,Summer Magic / Edgar,Rare,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Douglas Shuler',209.17,False
+Samite Healer,Creature,Human Cleric,Summer Magic / Edgar,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',151.32,False
+Savannah Lions,Creature,Cat,Summer Magic / Edgar,Rare,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.02,False
+Serra Angel,Creature,Angel,Summer Magic / Edgar,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',4500.0,False
+Swords to Plowshares,Instant,None,Summer Magic / Edgar,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.02,False
+Veteran Bodyguard,Creature,Human,Summer Magic / Edgar,Rare,5,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.02,False
+Wall of Swords,Creature,Wall,Summer Magic / Edgar,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.02,False
+White Knight,Creature,Human Knight,Summer Magic / Edgar,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.02,False
+White Ward,Enchantment,Aura,Summer Magic / Edgar,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.02,False
+Wrath of God,Sorcery,None,Summer Magic / Edgar,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.02,False
+Air Elemental,Creature,Elemental,Summer Magic / Edgar,Uncommon,5,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.02,False
+Animate Artifact,Enchantment,Aura,Summer Magic / Edgar,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',220.0,False
+Blue Elemental Blast,Instant,None,Summer Magic / Edgar,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',202.29,False
+Braingeyser,Sorcery,None,Summer Magic / Edgar,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',202.29,False
+Clone,Creature,Shapeshifter,Summer Magic / Edgar,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Julie Baroh',0.5,False
+Control Magic,Enchantment,Aura,Summer Magic / Edgar,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.5,False
+Copy Artifact,Enchantment,None,Summer Magic / Edgar,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.5,False
+Counterspell,Instant,None,Summer Magic / Edgar,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.02,False
+Creature Bond,Enchantment,Aura,Summer Magic / Edgar,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.02,False
+Drain Power,Sorcery,None,Summer Magic / Edgar,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.02,False
+Energy Flux,Enchantment,None,Summer Magic / Edgar,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.02,False
+Feedback,Enchantment,Aura,Summer Magic / Edgar,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.02,False
+Flight,Enchantment,Aura,Summer Magic / Edgar,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',200.0,False
+Hurkyl's Recall,Instant,None,Summer Magic / Edgar,Rare,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.02,False
+Island Fish Jasconius,Creature,Fish,Summer Magic / Edgar,Rare,7,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.24,False
+Jump,Instant,None,Summer Magic / Edgar,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.24,False
+Lifetap,Enchantment,None,Summer Magic / Edgar,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.24,False
+Lord of Atlantis,Creature,Merfolk,Summer Magic / Edgar,Rare,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',4.0,False
+Magical Hack,Instant,None,Summer Magic / Edgar,Rare,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Julie Baroh',4.0,False
+Mahamoti Djinn,Creature,Djinn,Summer Magic / Edgar,Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',1200.0,False
+Mana Short,Instant,None,Summer Magic / Edgar,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',1200.0,False
+Merfolk of the Pearl Trident,Creature,Merfolk,Summer Magic / Edgar,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',45.78,False
+Phantasmal Forces,Creature,Illusion,Summer Magic / Edgar,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',45.78,False
+Phantasmal Terrain,Enchantment,Aura,Summer Magic / Edgar,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',45.78,False
+Phantom Monster,Creature,Illusion,Summer Magic / Edgar,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',45.78,False
+Pirate Ship,Creature,Human Pirate,Summer Magic / Edgar,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',45.78,False
+Power Leak,Enchantment,Aura,Summer Magic / Edgar,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.02,False
+Power Sink,Instant,None,Summer Magic / Edgar,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.02,False
+Prodigal Sorcerer,Creature,Human Wizard,Summer Magic / Edgar,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',29.81,False
+Psychic Venom,Enchantment,Aura,Summer Magic / Edgar,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',199.99,False
+Reconstruction,Sorcery,None,Summer Magic / Edgar,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',120.0,False
+Sea Serpent,Creature,Serpent,Summer Magic / Edgar,Common,6,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',120.0,False
+Serendib Efreet,Creature,Efreet,Summer Magic / Edgar,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',120.0,False
+Siren's Call,Instant,None,Summer Magic / Edgar,Uncommon,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',120.0,False
+Sleight of Mind,Instant,None,Summer Magic / Edgar,Rare,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',120.0,False
+Spell Blast,Instant,None,Summer Magic / Edgar,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',200.0,False
+Stasis,Enchantment,None,Summer Magic / Edgar,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Fay Jones',200.0,False
+Steal Artifact,Enchantment,Aura,Summer Magic / Edgar,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',200.0,False
+Thoughtlace,Instant,None,Summer Magic / Edgar,Rare,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',200.0,False
+Unstable Mutation,Enchantment,Aura,Summer Magic / Edgar,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',200.0,False
+Unsummon,Instant,None,Summer Magic / Edgar,Common,1,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Douglas Shuler',199.08,False
+Vesuvan Doppelganger,Creature,Shapeshifter,Summer Magic / Edgar,Rare,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',199.08,False
+Volcanic Eruption,Sorcery,None,Summer Magic / Edgar,Rare,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',199.08,False
+Wall of Air,Creature,Wall,Summer Magic / Edgar,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.02,False
+Wall of Water,Creature,Wall,Summer Magic / Edgar,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.02,False
+Water Elemental,Creature,Elemental,Summer Magic / Edgar,Uncommon,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',360.0,False
+Animate Dead,Enchantment,Aura,Summer Magic / Edgar,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',12.0,False
+Bad Moon,Enchantment,None,Summer Magic / Edgar,Rare,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',12.0,False
+Black Knight,Creature,Human Knight,Summer Magic / Edgar,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',12.0,False
+Bog Wraith,Creature,Wraith,Summer Magic / Edgar,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',250.0,False
+Contract from Below,Sorcery,None,Summer Magic / Edgar,Rare,1,Black,Not Legal,Not Legal,Banned,Banned,Banned,True,b'Douglas Shuler',250.0,False
+Cursed Land,Enchantment,Aura,Summer Magic / Edgar,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',250.0,False
+Dark Ritual,Instant,None,Summer Magic / Edgar,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',337.62,False
+Darkpact,Sorcery,None,Summer Magic / Edgar,Rare,3,Black,Not Legal,Not Legal,Banned,Banned,Banned,True,b'Quinton Hoover',337.62,False
+Deathgrip,Enchantment,None,Summer Magic / Edgar,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',337.62,False
+Deathlace,Instant,None,Summer Magic / Edgar,Rare,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',337.62,False
+Demonic Attorney,Sorcery,None,Summer Magic / Edgar,Rare,3,Black,Not Legal,Not Legal,Banned,Banned,Banned,True,b'Daniel Gelon',337.62,False
+Demonic Hordes,Creature,Demon,Summer Magic / Edgar,Rare,6,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.02,False
+Demonic Tutor,Sorcery,None,Summer Magic / Edgar,Uncommon,2,Black,Not Legal,Not Legal,Legal,Restrict.,Banned,True,b'Douglas Shuler',2324.08,False
+Drain Life,Sorcery,None,Summer Magic / Edgar,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.02,False
+Drudge Skeletons,Creature,Skeleton,Summer Magic / Edgar,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',124.99,False
+El-Hajjâj,Creature,Human Wizard,Summer Magic / Edgar,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',10.0,False
+Erg Raiders,Creature,Human Warrior,Summer Magic / Edgar,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',10.0,False
+Evil Presence,Enchantment,Aura,Summer Magic / Edgar,Uncommon,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',10.0,False
+Fear,Enchantment,Aura,Summer Magic / Edgar,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.02,False
+Frozen Shade,Creature,Shade,Summer Magic / Edgar,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.02,False
+Gloom,Enchantment,None,Summer Magic / Edgar,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.02,False
+Howl from Beyond,Instant,None,Summer Magic / Edgar,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',200.0,False
+Hypnotic Specter,Creature,Specter,Summer Magic / Edgar,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',200.0,False
+Lord of the Pit,Creature,Demon,Summer Magic / Edgar,Rare,7,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',5.0,False
+Mind Twist,Sorcery,None,Summer Magic / Edgar,Rare,2,Black,Not Legal,Not Legal,Legal,Legal,Banned,True,b'Julie Baroh',0.02,False
+Nether Shadow,Creature,Spirit,Summer Magic / Edgar,Rare,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.02,False
+Nettling Imp,Creature,Imp,Summer Magic / Edgar,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.02,False
+Nightmare,Creature,Nightmare Horse,Summer Magic / Edgar,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',1464.0,False
+Paralyze,Enchantment,Aura,Summer Magic / Edgar,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',164.0,False
+Pestilence,Enchantment,None,Summer Magic / Edgar,Common,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.02,False
+Plague Rats,Creature,Rat,Summer Magic / Edgar,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',200.0,False
+Raise Dead,Sorcery,None,Summer Magic / Edgar,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',200.0,False
+Royal Assassin,Creature,Human Assassin,Summer Magic / Edgar,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',200.0,False
+Sacrifice,Instant,None,Summer Magic / Edgar,Uncommon,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',400.0,False
+Scathe Zombies,Creature,Zombie,Summer Magic / Edgar,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',400.0,False
+Scavenging Ghoul,Creature,Zombie,Summer Magic / Edgar,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.02,False
+Sengir Vampire,Creature,Vampire,Summer Magic / Edgar,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.02,False
+Simulacrum,Instant,None,Summer Magic / Edgar,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.02,False
+Sorceress Queen,Creature,Human Wizard,Summer Magic / Edgar,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.45,False
+Terror,Instant,None,Summer Magic / Edgar,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',300.0,False
+Unholy Strength,Enchantment,Aura,Summer Magic / Edgar,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',200.0,False
+Wall of Bone,Creature,Skeleton Wall,Summer Magic / Edgar,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.02,False
+Warp Artifact,Enchantment,Aura,Summer Magic / Edgar,Rare,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.02,False
+Weakness,Enchantment,Aura,Summer Magic / Edgar,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.02,False
+Will-o'-the-Wisp,Creature,Spirit,Summer Magic / Edgar,Rare,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.02,False
+Zombie Master,Creature,Zombie,Summer Magic / Edgar,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.02,False
+Atog,Creature,Atog,Summer Magic / Edgar,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',10.0,False
+Burrowing,Enchantment,Aura,Summer Magic / Edgar,Uncommon,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',195.0,False
+Chaoslace,Instant,None,Summer Magic / Edgar,Rare,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',195.0,False
+Disintegrate,Sorcery,None,Summer Magic / Edgar,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.02,False
+Dragon Whelp,Creature,Dragon,Summer Magic / Edgar,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.02,False
+Dwarven Warriors,Creature,Dwarf Warrior,Summer Magic / Edgar,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',477.82,False
+Dwarven Weaponsmith,Creature,Dwarf Artificer,Summer Magic / Edgar,Uncommon,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',477.82,False
+Earth Elemental,Creature,Elemental,Summer Magic / Edgar,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',477.82,False
+Earthbind,Enchantment,Aura,Summer Magic / Edgar,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',200.0,False
+Earthquake,Sorcery,None,Summer Magic / Edgar,Rare,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',200.0,False
+Fire Elemental,Creature,Elemental,Summer Magic / Edgar,Uncommon,5,Red,Legal,Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',300.0,False
+Fireball,Sorcery,None,Summer Magic / Edgar,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',13.13,False
+Firebreathing,Enchantment,Aura,Summer Magic / Edgar,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.02,False
+Flashfires,Sorcery,None,Summer Magic / Edgar,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.02,False
+Fork,Instant,None,Summer Magic / Edgar,Rare,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.02,False
+Goblin Balloon Brigade,Creature,Goblin Warrior,Summer Magic / Edgar,Uncommon,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Andi Rusu',0.02,False
+Goblin King,Creature,Goblin,Summer Magic / Edgar,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.02,False
+Granite Gargoyle,Creature,Gargoyle,Summer Magic / Edgar,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.02,False
+Gray Ogre,Creature,Ogre,Summer Magic / Edgar,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',99.99,False
+Hill Giant,Creature,Giant,Summer Magic / Edgar,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.02,False
+Hurloon Minotaur,Creature,Minotaur,Summer Magic / Edgar,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.02,False
+Keldon Warlord,Creature,Human Barbarian,Summer Magic / Edgar,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Brockschmidt',0.02,False
+Kird Ape,Creature,Ape,Summer Magic / Edgar,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,"b'Ken Meyer, Jr.'",2.86,False
+Lightning Bolt,Instant,None,Summer Magic / Edgar,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',2.0,False
+Magnetic Mountain,Enchantment,None,Summer Magic / Edgar,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Susan Van Camp',2.0,False
+Mana Flare,Enchantment,None,Summer Magic / Edgar,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',2.0,False
+Manabarbs,Enchantment,None,Summer Magic / Edgar,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',2.0,False
+Mijae Djinn,Creature,Djinn,Summer Magic / Edgar,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Susan Van Camp',0.02,False
+Mons's Goblin Raiders,Creature,Goblin,Summer Magic / Edgar,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',250.0,False
+Orcish Artillery,Creature,Orc Warrior,Summer Magic / Edgar,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',250.0,False
+Orcish Oriflamme,Enchantment,None,Summer Magic / Edgar,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',250.0,False
+Power Surge,Enchantment,None,Summer Magic / Edgar,Rare,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',250.0,False
+Red Elemental Blast,Instant,None,Summer Magic / Edgar,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',250.0,False
+Roc of Kher Ridges,Creature,Bird,Summer Magic / Edgar,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Andi Rusu',250.0,False
+Rock Hydra,Creature,Hydra,Summer Magic / Edgar,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',250.0,False
+Sedge Troll,Creature,Troll,Summer Magic / Edgar,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',250.0,False
+Shatter,Instant,None,Summer Magic / Edgar,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',400.0,False
+Shatterstorm,Sorcery,None,Summer Magic / Edgar,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.02,False
+Shivan Dragon,Creature,Dragon,Summer Magic / Edgar,Rare,6,Red,Legal,Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.02,False
+Smoke,Enchantment,None,Summer Magic / Edgar,Rare,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.02,False
+Stone Giant,Creature,Giant,Summer Magic / Edgar,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.02,False
+Stone Rain,Sorcery,None,Summer Magic / Edgar,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.24,False
+Tunnel,Instant,None,Summer Magic / Edgar,Uncommon,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.24,False
+Uthden Troll,Creature,Troll,Summer Magic / Edgar,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',350.0,False
+Wall of Fire,Creature,Wall,Summer Magic / Edgar,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.15,False
+Wall of Stone,Creature,Wall,Summer Magic / Edgar,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.15,False
+Wheel of Fortune,Sorcery,None,Summer Magic / Edgar,Rare,3,Red,Not Legal,Not Legal,Legal,Restrict.,Banned,True,b'Daniel Gelon',0.02,False
+Aspect of Wolf,Enchantment,Aura,Summer Magic / Edgar,Rare,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.02,False
+Birds of Paradise,Creature,Bird,Summer Magic / Edgar,Rare,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',3.0,False
+Channel,Sorcery,None,Summer Magic / Edgar,Uncommon,2,Green,Not Legal,Not Legal,Banned,Restrict.,Banned,True,b'Richard Thomas',3.0,False
+Cockatrice,Creature,Cockatrice,Summer Magic / Edgar,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',3.0,False
+Craw Wurm,Creature,Wurm,Summer Magic / Edgar,Common,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',119.99,False
+Crumble,Instant,None,Summer Magic / Edgar,Uncommon,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',119.99,False
+Desert Twister,Sorcery,None,Summer Magic / Edgar,Uncommon,6,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Susan Van Camp',119.99,False
+Elvish Archers,Creature,Elf Archer,Summer Magic / Edgar,Rare,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.02,False
+Fastbond,Enchantment,None,Summer Magic / Edgar,Rare,1,Green,Not Legal,Not Legal,Banned,Legal,Banned,True,b'Mark Poole',0.02,False
+Fog,Instant,None,Summer Magic / Edgar,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',155.75,False
+Force of Nature,Creature,Elemental,Summer Magic / Edgar,Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',155.75,False
+Fungusaur,Creature,Fungus Dinosaur,Summer Magic / Edgar,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.02,False
+Gaea's Liege,Creature,Avatar,Summer Magic / Edgar,Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.02,False
+Giant Growth,Instant,None,Summer Magic / Edgar,Common,1,Green,Legal,Legal,Legal,Legal,Legal,True,b'Sandra Everingham',239.0,False
+Giant Spider,Creature,Spider,Summer Magic / Edgar,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',200.0,False
+Grizzly Bears,Creature,Bear,Summer Magic / Edgar,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.02,False
+Hurricane,Sorcery,None,Summer Magic / Edgar,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.02,False
+Instill Energy,Enchantment,Aura,Summer Magic / Edgar,Uncommon,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.02,False
+Ironroot Treefolk,Creature,Treefolk,Summer Magic / Edgar,Common,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.02,False
+Kudzu,Enchantment,Aura,Summer Magic / Edgar,Rare,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.02,False
+Ley Druid,Creature,Human Druid,Summer Magic / Edgar,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.02,False
+Lifeforce,Enchantment,None,Summer Magic / Edgar,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.02,False
+Lifelace,Instant,None,Summer Magic / Edgar,Rare,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.02,False
+Living Artifact,Enchantment,Aura,Summer Magic / Edgar,Rare,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.02,False
+Living Lands,Enchantment,None,Summer Magic / Edgar,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.02,False
+Llanowar Elves,Creature,Elf Druid,Summer Magic / Edgar,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.02,False
+Lure,Enchantment,Aura,Summer Magic / Edgar,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.02,False
+Regeneration,Enchantment,Aura,Summer Magic / Edgar,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.02,False
+Regrowth,Sorcery,None,Summer Magic / Edgar,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.02,False
+Scryb Sprites,Creature,Faerie,Summer Magic / Edgar,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.02,False
+Shanodin Dryads,Creature,Nymph Dryad,Summer Magic / Edgar,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.02,False
+Stream of Life,Sorcery,None,Summer Magic / Edgar,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.02,False
+Thicket Basilisk,Creature,Basilisk,Summer Magic / Edgar,Uncommon,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.02,False
+Timber Wolves,Creature,Wolf,Summer Magic / Edgar,Rare,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',800.0,False
+Titania's Song,Enchantment,None,Summer Magic / Edgar,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kerstin Kaman',800.0,False
+Tranquility,Sorcery,None,Summer Magic / Edgar,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',200.0,False
+Tsunami,Sorcery,None,Summer Magic / Edgar,Uncommon,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',200.0,False
+Verduran Enchantress,Creature,Human Druid,Summer Magic / Edgar,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Brockschmidt',200.0,False
+Wall of Brambles,Creature,Plant Wall,Summer Magic / Edgar,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',200.0,False
+Wall of Ice,Creature,Wall,Summer Magic / Edgar,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',325.0,False
+Wall of Wood,Creature,Wall,Summer Magic / Edgar,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.02,False
+Wanderlust,Enchantment,Aura,Summer Magic / Edgar,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Cornelius Brudi',0.02,False
+War Mammoth,Creature,Elephant,Summer Magic / Edgar,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.02,False
+Web,Enchantment,Aura,Summer Magic / Edgar,Rare,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.02,False
+Wild Growth,Enchantment,Aura,Summer Magic / Edgar,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',225.89,False
+Aladdin's Lamp,Artifact,None,Summer Magic / Edgar,Rare,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',225.89,False
+Aladdin's Ring,Artifact,None,Summer Magic / Edgar,Rare,8,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',225.89,False
+Ankh of Mishra,Artifact,None,Summer Magic / Edgar,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',225.89,False
+Armageddon Clock,Artifact,None,Summer Magic / Edgar,Rare,6,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',225.89,False
+Basalt Monolith,Artifact,None,Summer Magic / Edgar,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',225.89,False
+Black Vise,Artifact,None,Summer Magic / Edgar,Uncommon,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.02,False
+Bottle of Suleiman,Artifact,None,Summer Magic / Edgar,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.02,False
+Brass Man,Artifact Creature,Construct,Summer Magic / Edgar,Uncommon,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.02,False
+Celestial Prism,Artifact,None,Summer Magic / Edgar,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.02,False
+Clockwork Beast,Artifact Creature,Beast,Summer Magic / Edgar,Rare,6,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.02,False
+Conservator,Artifact,None,Summer Magic / Edgar,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',195.0,False
+Crystal Rod,Artifact,None,Summer Magic / Edgar,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.02,False
+Dancing Scimitar,Artifact Creature,Spirit,Summer Magic / Edgar,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.02,False
+Dingus Egg,Artifact,None,Summer Magic / Edgar,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.02,False
+Disrupting Scepter,Artifact,None,Summer Magic / Edgar,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.02,False
+Dragon Engine,Artifact Creature,Construct,Summer Magic / Edgar,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.02,False
+Ebony Horse,Artifact,None,Summer Magic / Edgar,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.02,False
+Flying Carpet,Artifact,None,Summer Magic / Edgar,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.02,False
+Glasses of Urza,Artifact,None,Summer Magic / Edgar,Uncommon,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.02,False
+Helm of Chatzuk,Artifact,None,Summer Magic / Edgar,Rare,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.02,False
+Howling Mine,Artifact,None,Summer Magic / Edgar,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.02,False
+Iron Star,Artifact,None,Summer Magic / Edgar,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.02,False
+Ivory Cup,Artifact,None,Summer Magic / Edgar,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.02,False
+Ivory Tower,Artifact,None,Summer Magic / Edgar,Rare,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Margaret Organ-Kean',0.02,False
+Jade Monolith,Artifact,None,Summer Magic / Edgar,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.02,False
+Jandor's Ring,Artifact,None,Summer Magic / Edgar,Rare,6,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.02,False
+Jandor's Saddlebags,Artifact,None,Summer Magic / Edgar,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.02,False
+Jayemdae Tome,Artifact,None,Summer Magic / Edgar,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.02,False
+Juggernaut,Artifact Creature,Juggernaut,Summer Magic / Edgar,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.02,False
+Kormus Bell,Artifact,None,Summer Magic / Edgar,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.02,False
+Library of Leng,Artifact,None,Summer Magic / Edgar,Uncommon,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.02,False
+Living Wall,Artifact Creature,Wall,Summer Magic / Edgar,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.02,False
+Mana Vault,Artifact,None,Summer Magic / Edgar,Rare,1,Colorless,Not Legal,Not Legal,Legal,Restrict.,Banned,True,b'Mark Tedin',0.02,False
+Meekstone,Artifact,None,Summer Magic / Edgar,Rare,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.02,False
+Millstone,Artifact,None,Summer Magic / Edgar,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.02,False
+Mishra's War Machine,Artifact Creature,Juggernaut,Summer Magic / Edgar,Rare,7,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.02,False
+Nevinyrral's Disk,Artifact,None,Summer Magic / Edgar,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.02,False
+Obsianus Golem,Artifact Creature,Golem,Summer Magic / Edgar,Uncommon,6,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',195.0,False
+Onulet,Artifact Creature,Construct,Summer Magic / Edgar,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',375.0,False
+Ornithopter,Artifact Creature,Thopter,Summer Magic / Edgar,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',375.0,False
+Primal Clay,Artifact Creature,Shapeshifter,Summer Magic / Edgar,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',375.0,False
+Rocket Launcher,Artifact,None,Summer Magic / Edgar,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.02,False
+Rod of Ruin,Artifact,None,Summer Magic / Edgar,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.02,False
+Sol Ring,Artifact,None,Summer Magic / Edgar,Uncommon,1,Colorless,Not Legal,Not Legal,Legal,Restrict.,Banned,True,b'Mark Tedin',0.02,False
+Soul Net,Artifact,None,Summer Magic / Edgar,Uncommon,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.02,False
+Sunglasses of Urza,Artifact,None,Summer Magic / Edgar,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.02,False
+The Hive,Artifact,None,Summer Magic / Edgar,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.02,False
+The Rack,Artifact,None,Summer Magic / Edgar,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.02,False
+Throne of Bone,Artifact,None,Summer Magic / Edgar,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.02,False
+Winter Orb,Artifact,None,Summer Magic / Edgar,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.02,False
+Wooden Sphere,Artifact,None,Summer Magic / Edgar,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.02,False
+Badlands,Land,Swamp Mountain,Summer Magic / Edgar,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.02,False
+Bayou,Land,Swamp Forest,Summer Magic / Edgar,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.02,False
+Plateau,Land,Mountain Plains,Summer Magic / Edgar,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Cornelius Brudi',0.02,False
+Savannah,Land,Forest Plains,Summer Magic / Edgar,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.02,False
+Scrubland,Land,Plains Swamp,Summer Magic / Edgar,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',100.0,False
+Taiga,Land,Mountain Forest,Summer Magic / Edgar,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',5000.0,False
+Tropical Island,Land,Forest Island,Summer Magic / Edgar,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',5000.0,False
+Tundra,Land,Plains Island,Summer Magic / Edgar,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.25,False
+Underground Sea,Land,Island Swamp,Summer Magic / Edgar,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',280.0,False
+Volcanic Island,Land,Island Mountain,Summer Magic / Edgar,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',280.0,False
+Plains,Basic Land,Plains,Summer Magic / Edgar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.02,False
+Plains,Basic Land,Plains,Summer Magic / Edgar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.02,False
+Plains,Basic Land,Plains,Summer Magic / Edgar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.02,False
+Island,Basic Land,Island,Summer Magic / Edgar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Poole',0.02,False
+Island,Basic Land,Island,Summer Magic / Edgar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Poole',0.02,False
+Island,Basic Land,Island,Summer Magic / Edgar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Poole',0.02,False
+Swamp,Basic Land,Swamp,Summer Magic / Edgar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.02,False
+Swamp,Basic Land,Swamp,Summer Magic / Edgar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.02,False
+Swamp,Basic Land,Swamp,Summer Magic / Edgar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.02,False
+Mountain,Basic Land,Mountain,Summer Magic / Edgar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.02,False
+Mountain,Basic Land,Mountain,Summer Magic / Edgar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.02,False
+Mountain,Basic Land,Mountain,Summer Magic / Edgar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.02,False
+Forest,Basic Land,Forest,Summer Magic / Edgar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Christopher Rush',230.0,False
+Forest,Basic Land,Forest,Summer Magic / Edgar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Christopher Rush',230.0,False
+Forest,Basic Land,Forest,Summer Magic / Edgar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Christopher Rush',230.0,False

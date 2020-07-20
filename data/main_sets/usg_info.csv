@@ -1,351 +1,351 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Absolute Grace,Enchantment,None,Urza's Saga,Uncommon,2,White,False,False,True,False,b'Jeff Miracola',0.44
-Absolute Law,Enchantment,None,Urza's Saga,Uncommon,2,White,False,False,True,True,b'Mark Zug',0.45
-Angelic Chorus,Enchantment,None,Urza's Saga,Rare,5,White,True,False,True,True,b'Ron Spencer',1.44
-Angelic Page,Creature,Angel Spirit,Urza's Saga,Common,2,White,True,False,True,True,b'Rebecca Guay',0.2
-Brilliant Halo,Enchantment,Aura,Urza's Saga,Common,2,White,False,False,True,True,b'Randy Gallegos',0.18
-Catastrophe,Sorcery,None,Urza's Saga,Rare,6,White,False,False,True,True,b'Andrew Robinson',3.88
-Clear,Instant,None,Urza's Saga,Uncommon,2,White,False,False,True,False,b'Andrew Robinson',0.25
-Congregate,Instant,None,Urza's Saga,Common,4,White,True,False,True,True,b'Mark Zug',0.16
-Defensive Formation,Enchantment,None,Urza's Saga,Uncommon,1,White,False,False,True,False,b'Greg Staples',0.23
-Disciple of Grace,Creature,Human Cleric,Urza's Saga,Common,2,White,False,False,True,True,b'Robh Ruppel',0.2
-Disciple of Law,Creature,Human Cleric,Urza's Saga,Common,2,White,False,False,True,False,b'Matthew D. Wilson',0.15
-Disenchant,Instant,None,Urza's Saga,Common,2,White,True,True,True,True,b'Donato Giancola',0.18
-Elite Archers,Creature,Human Soldier Archer,Urza's Saga,Rare,6,White,True,False,True,True,b'Greg Staples',0.26
-Faith Healer,Creature,Human Cleric,Urza's Saga,Rare,2,White,False,False,True,False,b'Randy Gallegos',0.55
-Glorious Anthem,Enchantment,None,Urza's Saga,Rare,3,White,True,False,True,True,b'Kev Walker',1.41
-Healing Salve,Instant,None,Urza's Saga,Common,1,White,True,False,True,True,b'Heather Hudson',0.1
-Herald of Serra,Creature,Angel,Urza's Saga,Rare,4,White,False,False,True,False,b'Matthew D. Wilson',0.77
-Humble,Instant,None,Urza's Saga,Uncommon,2,White,False,False,True,True,b'Val Mayerik',0.2
-Intrepid Hero,Creature,Human Soldier,Urza's Saga,Rare,3,White,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.76
-Monk Idealist,Creature,Human Monk Cleric,Urza's Saga,Uncommon,3,White,False,False,True,True,b'Daren Bader',0.22
-Monk Realist,Creature,Human Monk Cleric,Urza's Saga,Common,2,White,False,False,True,True,b'Daren Bader',0.13
-Opal Acrolith,Enchantment,None,Urza's Saga,Uncommon,3,White,False,False,True,False,b'Robh Ruppel',0.16
-Opal Archangel,Enchantment,None,Urza's Saga,Rare,5,White,False,False,True,False,b'Jeff Miracola',1.01
-Opal Caryatid,Enchantment,None,Urza's Saga,Common,1,White,False,False,True,False,b'Berry',0.13
-Opal Gargoyle,Enchantment,None,Urza's Saga,Common,2,White,False,False,True,False,b'Kev Walker',0.09
-Opal Titan,Enchantment,None,Urza's Saga,Rare,4,White,False,False,True,False,b'Paolo Parente',0.2
-Pacifism,Enchantment,Aura,Urza's Saga,Common,2,White,True,True,True,True,b'Randy Gallegos',0.12
-Pariah,Enchantment,Aura,Urza's Saga,Rare,3,White,True,False,True,True,b'Jon J Muth',0.86
-Path of Peace,Sorcery,None,Urza's Saga,Common,4,White,False,False,True,True,b'Val Mayerik',0.1
-Pegasus Charger,Creature,Pegasus,Urza's Saga,Common,3,White,True,False,True,True,b'Val Mayerik',0.1
-Planar Birth,Sorcery,None,Urza's Saga,Rare,2,White,False,False,True,False,b'Adam Rex',1.17
-Presence of the Master,Enchantment,None,Urza's Saga,Uncommon,4,White,False,False,True,True,b'Ciruelo',0.24
-Redeem,Instant,None,Urza's Saga,Uncommon,2,White,True,False,True,True,b'D. Alexander Gregory',0.18
-Remembrance,Enchantment,None,Urza's Saga,Rare,4,White,False,False,True,False,b'Val Mayerik',4.28
-Rune of Protection: Artifacts,Enchantment,None,Urza's Saga,Uncommon,2,White,False,False,True,False,b'Scott M. Fischer',0.23
-Rune of Protection: Black,Enchantment,None,Urza's Saga,Common,2,White,False,False,True,False,b'Scott M. Fischer',0.14
-Rune of Protection: Blue,Enchantment,None,Urza's Saga,Common,2,White,False,False,True,False,b'Scott M. Fischer',0.13
-Rune of Protection: Green,Enchantment,None,Urza's Saga,Common,2,White,False,False,True,False,b'Scott M. Fischer',0.12
-Rune of Protection: Lands,Enchantment,None,Urza's Saga,Rare,2,White,False,False,True,False,b'Scott M. Fischer',0.28
-Rune of Protection: Red,Enchantment,None,Urza's Saga,Common,2,White,False,False,True,False,b'Scott M. Fischer',0.22
-Rune of Protection: White,Enchantment,None,Urza's Saga,Common,2,White,False,False,True,False,b'Scott M. Fischer',0.21
-Sanctum Custodian,Creature,Human Cleric,Urza's Saga,Common,3,White,False,False,True,True,b'Paolo Parente',0.13
-Sanctum Guardian,Creature,Human Cleric,Urza's Saga,Uncommon,3,White,True,False,True,True,b'Donato Giancola',0.21
-Seasoned Marshal,Creature,Human Soldier,Urza's Saga,Uncommon,4,White,True,False,True,True,b'Matthew D. Wilson',0.19
-Serra Avatar,Creature,Avatar,Urza's Saga,Rare,7,White,True,False,True,True,b'Dermot Power',1.36
-Serra Zealot,Creature,Human Soldier,Urza's Saga,Common,1,White,False,False,True,False,b'DiTerlizzi',0.15
-Serra's Embrace,Enchantment,Aura,Urza's Saga,Uncommon,4,White,True,False,True,True,b'Terese Nielsen',0.26
-Serra's Hymn,Enchantment,None,Urza's Saga,Uncommon,1,White,False,False,True,False,b'Rebecca Guay',0.19
-Serra's Liturgy,Enchantment,None,Urza's Saga,Rare,4,White,False,False,True,False,b'rk post',0.27
-Shimmering Barrier,Creature,Wall,Urza's Saga,Uncommon,2,White,False,False,True,False,b'D. Alexander Gregory',0.24
-Silent Attendant,Creature,Human Cleric,Urza's Saga,Common,3,White,False,False,True,False,b'Rebecca Guay',0.14
-Songstitcher,Creature,Human Cleric,Urza's Saga,Uncommon,1,White,False,False,True,True,b'Berry',0.17
-Soul Sculptor,Creature,Human,Urza's Saga,Rare,3,White,False,False,True,False,b'Ciruelo',0.36
-Voice of Grace,Creature,Angel,Urza's Saga,Uncommon,4,White,False,False,True,False,b'Jeff Miracola',0.24
-Voice of Law,Creature,Angel,Urza's Saga,Uncommon,4,White,False,False,True,False,b'Mark Zug',0.24
-Waylay,Instant,None,Urza's Saga,Uncommon,3,White,False,False,True,False,b'Greg Staples',0.17
-Worship,Enchantment,None,Urza's Saga,Rare,4,White,True,False,True,True,b'Mark Zug',2.54
-Academy Researchers,Creature,Human Wizard,Urza's Saga,Uncommon,3,Blue,True,False,True,True,b'Stephen Daniele',0.25
-Annul,Instant,None,Urza's Saga,Common,1,Blue,True,False,True,True,b'Greg Simanson',0.19
-Arcane Laboratory,Enchantment,None,Urza's Saga,Uncommon,3,Blue,False,False,True,True,b'Stephen Daniele',1.06
-Attunement,Enchantment,None,Urza's Saga,Rare,3,Blue,False,False,True,True,b'Randy Gallegos',3.06
-Back to Basics,Enchantment,None,Urza's Saga,Rare,3,Blue,False,False,True,True,b'Andrew Robinson',10.15
-"Barrin, Master Wizard",Legendary Creature,Human Wizard,Urza's Saga,Rare,3,Blue,False,False,True,False,b'Michael Sutfin',3.16
-Catalog,Instant,None,Urza's Saga,Common,3,Blue,True,False,True,True,b'Berry',0.09
-Cloak of Mists,Enchantment,Aura,Urza's Saga,Common,2,Blue,False,False,True,True,b'John Matson',0.26
-Confiscate,Enchantment,Aura,Urza's Saga,Uncommon,6,Blue,True,False,True,True,b'Adam Rex',0.26
-Coral Merfolk,Creature,Merfolk,Urza's Saga,Common,2,Blue,True,True,True,True,b'rk post',0.1
-Curfew,Instant,None,Urza's Saga,Common,1,Blue,False,False,True,True,b'Randy Gallegos',0.23
-Disruptive Student,Creature,Human Wizard,Urza's Saga,Common,3,Blue,False,False,True,True,b'Randy Gallegos',0.13
-Douse,Enchantment,None,Urza's Saga,Uncommon,3,Blue,False,False,True,False,b'Val Mayerik',0.22
-Drifting Djinn,Creature,Djinn,Urza's Saga,Rare,6,Blue,False,False,True,False,b'Carl Critchlow',0.29
-Enchantment Alteration,Instant,None,Urza's Saga,Uncommon,1,Blue,False,False,True,True,b'D. Alexander Gregory',0.14
-Energy Field,Enchantment,None,Urza's Saga,Rare,2,Blue,False,False,True,True,b'John Matson',5.15
-Exhaustion,Sorcery,None,Urza's Saga,Uncommon,3,Blue,True,False,True,True,b'Paolo Parente',0.62
-Fog Bank,Creature,Wall,Urza's Saga,Uncommon,2,Blue,True,False,True,True,b'Scott Kirschner',0.49
-Gilded Drake,Creature,Drake,Urza's Saga,Rare,2,Blue,False,False,True,False,b'Bob Eggleton',21.27
-Great Whale,Creature,Whale,Urza's Saga,Rare,7,Blue,False,False,True,False,b'Bob Eggleton',7.0
-Hermetic Study,Enchantment,Aura,Urza's Saga,Common,2,Blue,False,False,True,False,b'Ron Spencer',0.21
-Hibernation,Instant,None,Urza's Saga,Uncommon,3,Blue,True,False,True,True,b'Scott Kirschner',0.27
-Horseshoe Crab,Creature,Crab,Urza's Saga,Common,3,Blue,True,False,True,True,b'Scott Kirschner',0.18
-Imaginary Pet,Creature,Illusion,Urza's Saga,Rare,2,Blue,True,False,True,True,b'Heather Hudson',0.28
-Launch,Enchantment,Aura,Urza's Saga,Common,2,Blue,False,False,True,False,b'Val Mayerik',0.13
-Lilting Refrain,Enchantment,None,Urza's Saga,Uncommon,2,Blue,False,False,True,True,b'Berry',0.21
-Lingering Mirage,Enchantment,Aura,Urza's Saga,Uncommon,2,Blue,False,False,True,False,b'Jerry Tiritilli',0.25
-Morphling,Creature,Shapeshifter,Urza's Saga,Rare,5,Blue,False,False,True,True,b'rk post',6.87
-Pendrell Drake,Creature,Drake,Urza's Saga,Common,4,Blue,False,False,True,False,b'Jeff Miracola',0.17
-Pendrell Flux,Enchantment,Aura,Urza's Saga,Common,2,Blue,False,False,True,False,b'Andrew Robinson',0.15
-Peregrine Drake,Creature,Drake,Urza's Saga,Uncommon,5,Blue,False,False,True,True,b'Bob Eggleton',0.6
-Power Sink,Instant,None,Urza's Saga,Common,2,Blue,False,False,True,True,b'Andrew Robinson',0.2
-Power Taint,Enchantment,Aura,Urza's Saga,Common,2,Blue,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.15
-Recantation,Enchantment,None,Urza's Saga,Rare,5,Blue,False,False,True,False,b'Greg Simanson',0.29
-Rescind,Instant,None,Urza's Saga,Common,3,Blue,False,False,True,True,b'Adam Rex',0.19
-Rewind,Instant,None,Urza's Saga,Common,4,Blue,True,False,True,True,b'Dermot Power',0.39
-Sandbar Merfolk,Creature,Merfolk,Urza's Saga,Common,1,Blue,False,False,True,False,b'rk post',0.15
-Sandbar Serpent,Creature,Serpent,Urza's Saga,Uncommon,5,Blue,False,False,True,False,b'Jim Nelson',0.15
-Show and Tell,Sorcery,None,Urza's Saga,Rare,3,Blue,False,False,True,True,b'Jeff Laubenstein',10.83
-Somnophore,Creature,Illusion,Urza's Saga,Rare,4,Blue,False,False,True,False,b'Andrew Robinson',0.38
-Spire Owl,Creature,Bird,Urza's Saga,Common,2,Blue,False,False,True,False,b'Steve Firchow',0.3
-Stern Proctor,Creature,Human Wizard,Urza's Saga,Uncommon,2,Blue,False,False,True,False,b'Randy Gallegos',0.32
-Stroke of Genius,Instant,None,Urza's Saga,Rare,3,Blue,False,False,True,True,b'Stephen Daniele',3.28
-Sunder,Instant,None,Urza's Saga,Rare,5,Blue,False,False,True,True,b'Stephen Daniele',4.85
-Telepathy,Enchantment,None,Urza's Saga,Uncommon,1,Blue,True,False,True,True,b'Matthew D. Wilson',0.54
-Time Spiral,Sorcery,None,Urza's Saga,Rare,6,Blue,False,False,True,True,b'Michael Sutfin',59.28
-Tolarian Winds,Instant,None,Urza's Saga,Common,2,Blue,False,False,True,True,b'Lawrence Snelly',0.27
-Turnabout,Instant,None,Urza's Saga,Uncommon,4,Blue,False,False,True,True,b'Heather Hudson',3.92
-Veil of Birds,Enchantment,None,Urza's Saga,Common,1,Blue,False,False,True,False,b'Heather Hudson',0.12
-Veiled Apparition,Enchantment,None,Urza's Saga,Uncommon,2,Blue,False,False,True,False,b'Andrew Robinson',0.13
-Veiled Crocodile,Enchantment,None,Urza's Saga,Rare,3,Blue,False,False,True,False,b'Paolo Parente',0.32
-Veiled Sentry,Enchantment,None,Urza's Saga,Uncommon,1,Blue,False,False,True,False,b'Ron Spears',0.23
-Veiled Serpent,Enchantment,None,Urza's Saga,Common,3,Blue,False,False,True,False,b'Bob Eggleton',0.12
-Windfall,Sorcery,None,Urza's Saga,Uncommon,3,Blue,False,False,True,True,b'Pete Venters',3.61
-Wizard Mentor,Creature,Human Wizard,Urza's Saga,Common,3,Blue,False,False,True,False,b'Jeff Miracola',0.09
-Zephid,Creature,Illusion,Urza's Saga,Rare,6,Blue,False,False,True,False,b'Daren Bader',0.46
-Zephid's Embrace,Enchantment,Aura,Urza's Saga,Uncommon,4,Blue,False,False,True,False,b'Daren Bader',0.21
-Abyssal Horror,Creature,Horror,Urza's Saga,Rare,6,Black,False,False,True,True,b'rk post',0.18
-Befoul,Sorcery,None,Urza's Saga,Common,4,Black,True,False,True,True,b'Pete Venters',0.16
-Bereavement,Enchantment,None,Urza's Saga,Uncommon,2,Black,False,False,True,True,b'Andrew Goldhawk',0.19
-Blood Vassal,Creature,Thrull,Urza's Saga,Common,3,Black,False,False,True,False,b'Chippy',0.15
-Bog Raiders,Creature,Zombie,Urza's Saga,Common,3,Black,True,False,True,True,b'Carl Critchlow',0.13
-Breach,Instant,None,Urza's Saga,Common,3,Black,False,False,True,False,b'Greg Staples',0.12
-Cackling Fiend,Creature,Zombie,Urza's Saga,Common,4,Black,False,False,True,True,b'Brian Despain',0.22
-Carrion Beetles,Creature,Insect,Urza's Saga,Common,1,Black,False,False,True,True,b'Ron Spencer',0.1
-Contamination,Enchantment,None,Urza's Saga,Rare,3,Black,False,False,True,False,b'Stephen Daniele',24.67
-Corrupt,Sorcery,None,Urza's Saga,Common,6,Black,True,False,True,True,b'Vincent Evans',0.17
-Crazed Skirge,Creature,Imp,Urza's Saga,Uncommon,4,Black,False,False,True,True,b'Ron Spencer',0.17
-Dark Hatchling,Creature,Horror,Urza's Saga,Rare,6,Black,False,False,True,True,b'Mark A. Nelson',0.29
-Dark Ritual,Instant,None,Urza's Saga,Common,1,Black,False,False,True,True,b'Tom Fleming',0.54
-Darkest Hour,Enchantment,None,Urza's Saga,Rare,1,Black,False,False,True,True,b'Heather Hudson',2.81
-Despondency,Enchantment,Aura,Urza's Saga,Common,2,Black,False,False,True,False,b'D. Alexander Gregory',0.12
-Diabolic Servitude,Enchantment,None,Urza's Saga,Uncommon,4,Black,False,False,True,True,b'Scott M. Fischer',0.24
-Discordant Dirge,Enchantment,None,Urza's Saga,Rare,5,Black,False,False,True,False,b'Carl Critchlow',0.25
-Duress,Sorcery,None,Urza's Saga,Common,1,Black,True,True,True,True,b'Lawrence Snelly',0.93
-Eastern Paladin,Creature,Zombie Knight,Urza's Saga,Rare,4,Black,True,False,True,True,b'Carl Critchlow',0.37
-Exhume,Sorcery,None,Urza's Saga,Common,2,Black,False,False,True,True,b'Carl Critchlow',1.35
-Expunge,Instant,None,Urza's Saga,Common,3,Black,False,False,True,True,b'Christopher Moeller',0.21
-Flesh Reaver,Creature,Horror,Urza's Saga,Uncommon,2,Black,False,False,True,False,b'Pete Venters',0.15
-Hollow Dogs,Creature,Zombie Hound,Urza's Saga,Common,5,Black,True,False,True,True,b'Jeff Miracola',0.09
-Ill-Gotten Gains,Sorcery,None,Urza's Saga,Rare,4,Black,False,False,True,True,b'Greg Staples',0.51
-Looming Shade,Creature,Shade,Urza's Saga,Common,3,Black,True,False,True,True,b'Vincent Evans',0.1
-Lurking Evil,Enchantment,None,Urza's Saga,Rare,3,Black,False,False,True,True,b'Scott Kirschner',0.23
-Mana Leech,Creature,Leech,Urza's Saga,Uncommon,3,Black,False,False,True,False,b'Mark A. Nelson',0.19
-No Rest for the Wicked,Enchantment,None,Urza's Saga,Uncommon,2,Black,True,False,True,True,b'Carl Critchlow',0.77
-Oppression,Enchantment,None,Urza's Saga,Rare,3,Black,False,False,True,True,b'Pete Venters',5.7
-Order of Yawgmoth,Creature,Zombie Knight,Urza's Saga,Uncommon,4,Black,False,False,True,True,b'Chippy',0.23
-Parasitic Bond,Enchantment,Aura,Urza's Saga,Uncommon,4,Black,False,False,True,False,b'Scott Kirschner',0.15
-Persecute,Sorcery,None,Urza's Saga,Rare,4,Black,True,False,True,True,b'D. Alexander Gregory',0.67
-Pestilence,Enchantment,None,Urza's Saga,Common,4,Black,False,False,True,True,b'Pete Venters',0.32
-Phyrexian Ghoul,Creature,Zombie,Urza's Saga,Common,3,Black,False,False,True,True,b'Pete Venters',0.22
-Planar Void,Enchantment,None,Urza's Saga,Uncommon,1,Black,False,False,True,False,b'Andrew Goldhawk',0.75
-Priest of Gix,Creature,Human Cleric Minion,Urza's Saga,Uncommon,3,Black,False,False,True,True,b'Brian Despain',0.43
-Rain of Filth,Instant,None,Urza's Saga,Uncommon,1,Black,False,False,True,False,b'Stephen Daniele',4.71
-Ravenous Skirge,Creature,Imp,Urza's Saga,Common,3,Black,False,False,True,False,b'Ron Spencer',0.09
-Reclusive Wight,Creature,Zombie Minion,Urza's Saga,Uncommon,4,Black,False,False,True,False,b'Vincent Evans',0.14
-Reprocess,Sorcery,None,Urza's Saga,Rare,4,Black,False,False,True,True,b'Mark Tedin',0.8
-Sanguine Guard,Creature,Zombie Knight,Urza's Saga,Uncommon,3,Black,False,False,True,True,b'Kev Walker',0.24
-Sicken,Enchantment,Aura,Urza's Saga,Common,1,Black,False,False,True,False,b'Heather Hudson',0.12
-Skirge Familiar,Creature,Imp,Urza's Saga,Uncommon,5,Black,False,False,True,True,b'Ron Spencer',3.93
-Skittering Skirge,Creature,Imp,Urza's Saga,Common,2,Black,False,False,True,True,b'Ron Spencer',0.12
-Sleeper Agent,Creature,Minion,Urza's Saga,Rare,1,Black,True,False,True,True,b'Randy Gallegos',0.44
-Spined Fluke,Creature,Worm Horror,Urza's Saga,Uncommon,3,Black,False,False,True,False,b'Mark A. Nelson',0.22
-Tainted Aether,Enchantment,None,Urza's Saga,Rare,4,Black,False,False,True,True,b'Thomas M. Baxa',4.72
-Unnerve,Sorcery,None,Urza's Saga,Common,4,Black,False,False,True,True,b'Terese Nielsen',0.17
-Unworthy Dead,Creature,Skeleton,Urza's Saga,Common,2,Black,False,False,True,False,b'Carl Critchlow',0.11
-Vampiric Embrace,Enchantment,Aura,Urza's Saga,Uncommon,4,Black,False,False,True,False,b'Thomas M. Baxa',0.23
-Vebulid,Creature,Horror,Urza's Saga,Rare,1,Black,False,False,True,False,b'Ron Spencer',0.24
-Victimize,Sorcery,None,Urza's Saga,Uncommon,3,Black,False,False,True,True,b'Val Mayerik',2.16
-Vile Requiem,Enchantment,None,Urza's Saga,Uncommon,4,Black,False,False,True,True,b'Carl Critchlow',0.18
-Western Paladin,Creature,Zombie Knight,Urza's Saga,Rare,4,Black,True,False,True,True,b'Carl Critchlow',0.42
-Witch Engine,Creature,Horror,Urza's Saga,Rare,6,Black,False,False,True,False,b'Kev Walker',0.26
-Yawgmoth's Edict,Enchantment,None,Urza's Saga,Uncommon,2,Black,False,False,True,True,b'Scott Kirschner',0.27
-Yawgmoth's Will,Sorcery,None,Urza's Saga,Rare,3,Black,False,False,True,True,b'Ron Spencer',74.92
-Acidic Soil,Sorcery,None,Urza's Saga,Uncommon,3,Red,False,False,True,False,b'Scott M. Fischer',1.63
-Antagonism,Enchantment,None,Urza's Saga,Rare,4,Red,False,False,True,False,b'Donato Giancola',0.27
-Arc Lightning,Sorcery,None,Urza's Saga,Common,3,Red,True,False,True,True,b'Andrew Goldhawk',0.12
-Bedlam,Enchantment,None,Urza's Saga,Rare,4,Red,False,False,True,True,b'Mike Raabe',3.54
-Brand,Instant,None,Urza's Saga,Rare,1,Red,False,False,True,False,b'Donato Giancola',1.4
-Bravado,Enchantment,Aura,Urza's Saga,Common,2,Red,False,False,True,False,b'Jerry Tiritilli',0.18
-Bulwark,Enchantment,None,Urza's Saga,Rare,5,Red,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.33
-Crater Hellion,Creature,Hellion Beast,Urza's Saga,Rare,6,Red,False,False,True,True,b'Daren Bader',0.38
-Destructive Urge,Enchantment,Aura,Urza's Saga,Uncommon,3,Red,False,False,True,False,b'Andrew Robinson',0.23
-Disorder,Sorcery,None,Urza's Saga,Uncommon,2,Red,False,False,True,True,b'Terese Nielsen',0.11
-Dromosaur,Creature,Dinosaur,Urza's Saga,Common,3,Red,False,False,True,False,b'Ciruelo',0.11
-Electryte,Creature,Trilobite Beast,Urza's Saga,Rare,5,Red,False,False,True,False,b'Thomas M. Baxa',0.31
-Falter,Instant,None,Urza's Saga,Common,2,Red,False,False,True,True,b'Mike Raabe',0.12
-Fault Line,Instant,None,Urza's Saga,Rare,3,Red,False,False,True,False,b'Ron Spencer',2.9
-Fiery Mantle,Enchantment,Aura,Urza's Saga,Common,2,Red,False,False,True,False,b'Bob Eggleton',0.1
-Fire Ants,Creature,Insect,Urza's Saga,Uncommon,3,Red,False,False,True,True,b'Tom Fleming',0.27
-Gamble,Sorcery,None,Urza's Saga,Rare,1,Red,False,False,True,True,b'Andrew Goldhawk',11.12
-Goblin Cadets,Creature,Goblin,Urza's Saga,Uncommon,1,Red,False,False,True,True,b'Jerry Tiritilli',0.27
-Goblin Lackey,Creature,Goblin,Urza's Saga,Uncommon,1,Red,False,False,True,True,b'Jerry Tiritilli',6.91
-Goblin Matron,Creature,Goblin,Urza's Saga,Common,3,Red,True,False,True,True,b'DiTerlizzi',0.54
-Goblin Offensive,Sorcery,None,Urza's Saga,Uncommon,4,Red,False,False,True,True,b'Carl Critchlow',1.95
-Goblin Patrol,Creature,Goblin,Urza's Saga,Common,1,Red,False,False,True,True,b'Greg Staples',0.13
-Goblin Raider,Creature,Goblin Warrior,Urza's Saga,Common,2,Red,True,False,True,True,b'Greg Staples',0.13
-Goblin Spelunkers,Creature,Goblin Warrior,Urza's Saga,Common,3,Red,True,False,True,True,b'DiTerlizzi',0.06
-Goblin War Buggy,Creature,Goblin,Urza's Saga,Common,2,Red,False,False,True,False,b'DiTerlizzi',0.11
-Guma,Creature,Cat,Urza's Saga,Uncommon,3,Red,False,False,True,False,b'Daren Bader',0.2
-Headlong Rush,Instant,None,Urza's Saga,Common,2,Red,False,False,True,False,b'Dermot Power',0.13
-Heat Ray,Instant,None,Urza's Saga,Common,2,Red,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.12
-Jagged Lightning,Sorcery,None,Urza's Saga,Uncommon,5,Red,False,False,True,True,b'Mike Raabe',0.14
-Lay Waste,Sorcery,None,Urza's Saga,Common,4,Red,False,False,True,True,b'Terese Nielsen',0.1
-Lightning Dragon,Creature,Dragon,Urza's Saga,Rare,4,Red,False,False,True,True,b'Ron Spencer',1.24
-Meltdown,Sorcery,None,Urza's Saga,Uncommon,2,Red,False,False,True,False,b'Donato Giancola',0.36
-Okk,Creature,Goblin,Urza's Saga,Rare,2,Red,True,False,True,True,b'Mike Raabe',0.21
-Outmaneuver,Instant,None,Urza's Saga,Uncommon,2,Red,False,False,True,False,b'Greg Staples',0.31
-Rain of Salt,Sorcery,None,Urza's Saga,Uncommon,6,Red,False,False,True,True,b'Adam Rex',0.21
-Raze,Sorcery,None,Urza's Saga,Common,1,Red,False,False,True,False,b'Mike Raabe',0.24
-Reflexes,Enchantment,Aura,Urza's Saga,Common,1,Red,True,False,True,True,b'Steve White',0.15
-Retromancer,Creature,Viashino Shaman,Urza's Saga,Common,4,Red,False,False,True,False,b'Robh Ruppel',0.08
-Rumbling Crescendo,Enchantment,None,Urza's Saga,Rare,5,Red,False,False,True,False,b'Lawrence Snelly',0.35
-Scald,Enchantment,None,Urza's Saga,Uncommon,2,Red,False,False,True,True,b'Adam Rex',0.19
-Scoria Wurm,Creature,Wurm,Urza's Saga,Rare,5,Red,True,False,True,True,b'Steve Firchow',0.33
-Scrap,Instant,None,Urza's Saga,Common,3,Red,False,False,True,False,b'Donato Giancola',0.13
-Shivan Hellkite,Creature,Dragon,Urza's Saga,Rare,7,Red,True,False,True,True,b'Bob Eggleton',0.53
-Shivan Raptor,Creature,Dinosaur,Urza's Saga,Uncommon,3,Red,False,False,True,False,b'Bob Eggleton',0.12
-Shiv's Embrace,Enchantment,Aura,Urza's Saga,Uncommon,4,Red,True,False,True,True,b'Bob Eggleton',0.22
-Shower of Sparks,Instant,None,Urza's Saga,Common,1,Red,False,False,True,True,b'Christopher Moeller',0.09
-Sneak Attack,Enchantment,None,Urza's Saga,Rare,4,Red,False,False,True,True,b'Jerry Tiritilli',26.49
-Steam Blast,Sorcery,None,Urza's Saga,Uncommon,3,Red,False,False,True,True,b'Mike Raabe',0.14
-Sulfuric Vapors,Enchantment,None,Urza's Saga,Rare,4,Red,False,False,True,False,b'Lawrence Snelly',0.3
-Thundering Giant,Creature,Giant,Urza's Saga,Uncommon,5,Red,True,False,True,True,b'Mark Zug',0.14
-Torch Song,Enchantment,None,Urza's Saga,Uncommon,3,Red,False,False,True,False,b'Thomas M. Baxa',0.21
-Viashino Outrider,Creature,Viashino,Urza's Saga,Common,3,Red,False,False,True,False,b'Ciruelo',0.08
-Viashino Runner,Creature,Viashino,Urza's Saga,Common,4,Red,True,False,True,True,b'Steve White',0.03
-Viashino Sandswimmer,Creature,Viashino,Urza's Saga,Rare,4,Red,False,False,True,False,b'Pete Venters',0.28
-Viashino Weaponsmith,Creature,Viashino,Urza's Saga,Common,4,Red,False,False,True,False,b'Dermot Power',0.05
-Vug Lizard,Creature,Lizard,Urza's Saga,Uncommon,3,Red,False,False,True,False,b'Heather Hudson',0.14
-Wildfire,Sorcery,None,Urza's Saga,Rare,6,Red,True,False,True,True,b'Carl Critchlow',0.67
-Abundance,Enchantment,None,Urza's Saga,Rare,4,Green,True,False,True,True,b'Rebecca Guay',2.07
-Acridian,Creature,Insect,Urza's Saga,Common,2,Green,False,False,True,False,b'rk post',0.07
-Albino Troll,Creature,Troll,Urza's Saga,Uncommon,2,Green,False,False,True,True,b'Paolo Parente',0.24
-Anaconda,Creature,Snake,Urza's Saga,Uncommon,4,Green,True,False,True,True,b'Stephen Daniele',0.16
-Argothian Elder,Creature,Elf Druid,Urza's Saga,Uncommon,4,Green,False,False,True,True,b'DiTerlizzi',1.67
-Argothian Enchantress,Creature,Human Druid,Urza's Saga,Rare,2,Green,False,False,True,True,b'Daren Bader',13.36
-Argothian Swine,Creature,Boar,Urza's Saga,Common,4,Green,False,False,True,False,b'Randy Elliott',0.21
-Argothian Wurm,Creature,Wurm,Urza's Saga,Rare,4,Green,False,False,True,False,b'Kev Walker',1.14
-Blanchwood Armor,Enchantment,Aura,Urza's Saga,Uncommon,3,Green,True,False,True,True,b'Paolo Parente',0.27
-Blanchwood Treefolk,Creature,Treefolk,Urza's Saga,Common,5,Green,False,False,True,False,b'DiTerlizzi',0.12
-Bull Hippo,Creature,Hippo,Urza's Saga,Uncommon,4,Green,False,False,True,True,b'Daren Bader',0.09
-Carpet of Flowers,Enchantment,None,Urza's Saga,Uncommon,1,Green,False,False,True,True,b'Rebecca Guay',20.73
-Cave Tiger,Creature,Cat,Urza's Saga,Common,3,Green,False,False,True,False,b'Hannibal King',0.11
-Child of Gaea,Creature,Elemental,Urza's Saga,Rare,6,Green,False,False,True,False,b'Paolo Parente',0.28
-Citanul Centaurs,Creature,Centaur,Urza's Saga,Rare,4,Green,False,False,True,False,b'Val Mayerik',0.51
-Citanul Hierophants,Creature,Human Druid,Urza's Saga,Rare,4,Green,False,False,True,False,b'Vincent Evans',1.93
-Cradle Guard,Creature,Treefolk,Urza's Saga,Uncommon,3,Green,False,False,True,False,b'Mark Zug',0.14
-Crosswinds,Enchantment,None,Urza's Saga,Uncommon,2,Green,False,False,True,False,b'Randy Elliott',0.15
-Elvish Herder,Creature,Elf,Urza's Saga,Common,1,Green,False,False,True,False,b'Tom Fleming',0.22
-Elvish Lyrist,Creature,Elf,Urza's Saga,Common,1,Green,True,False,True,True,b'Rebecca Guay',0.19
-Endless Wurm,Creature,Wurm,Urza's Saga,Rare,5,Green,False,False,True,False,b'DiTerlizzi',0.54
-Exploration,Enchantment,None,Urza's Saga,Rare,1,Green,False,False,True,True,b'Brian Sn\xc3\xb5ddy',34.6
-Fecundity,Enchantment,None,Urza's Saga,Uncommon,3,Green,True,False,True,True,b'Rebecca Guay',0.67
-Fertile Ground,Enchantment,Aura,Urza's Saga,Common,2,Green,True,False,True,True,b'Heather Hudson',0.24
-Fortitude,Enchantment,Aura,Urza's Saga,Common,2,Green,False,False,True,False,b'Daren Bader',0.18
-Gaea's Bounty,Sorcery,None,Urza's Saga,Common,3,Green,False,False,True,False,b'Stephen Daniele',0.17
-Gaea's Embrace,Enchantment,Aura,Urza's Saga,Uncommon,4,Green,False,False,True,True,b'Paolo Parente',0.53
-Gorilla Warrior,Creature,Ape Warrior,Urza's Saga,Common,3,Green,False,False,True,True,b'Steve White',0.11
-Greater Good,Enchantment,None,Urza's Saga,Rare,4,Green,True,False,True,True,b'Pete Venters',5.48
-Greener Pastures,Enchantment,None,Urza's Saga,Rare,3,Green,False,False,True,False,b'Heather Hudson',0.26
-Hawkeater Moth,Creature,Insect,Urza's Saga,Uncommon,4,Green,False,False,True,False,b'Heather Hudson',0.12
-Hidden Ancients,Enchantment,None,Urza's Saga,Uncommon,2,Green,False,False,True,False,b'Daren Bader',0.21
-Hidden Guerrillas,Enchantment,None,Urza's Saga,Uncommon,1,Green,False,False,True,False,b'Christopher Moeller',0.21
-Hidden Herd,Enchantment,None,Urza's Saga,Rare,1,Green,False,False,True,False,b'Andrew Robinson',0.29
-Hidden Predators,Enchantment,None,Urza's Saga,Rare,1,Green,False,False,True,False,b'John Matson',0.27
-Hidden Spider,Enchantment,None,Urza's Saga,Common,1,Green,False,False,True,False,b'Thomas M. Baxa',0.26
-Hidden Stag,Enchantment,None,Urza's Saga,Rare,2,Green,False,False,True,False,b'Berry',0.22
-Hush,Sorcery,None,Urza's Saga,Common,4,Green,False,False,True,False,b'Rebecca Guay',0.13
-Lull,Instant,None,Urza's Saga,Common,2,Green,False,False,True,True,b'Terese Nielsen',0.17
-Midsummer Revel,Enchantment,None,Urza's Saga,Rare,5,Green,False,False,True,False,b'Steve Firchow',0.3
-Pouncing Jaguar,Creature,Cat,Urza's Saga,Common,1,Green,False,False,True,True,b'Daren Bader',0.18
-Priest of Titania,Creature,Elf Druid,Urza's Saga,Common,2,Green,False,False,True,True,b'Rebecca Guay',3.3
-Rejuvenate,Sorcery,None,Urza's Saga,Common,4,Green,False,False,True,False,b'Greg Simanson',0.1
-Retaliation,Enchantment,None,Urza's Saga,Uncommon,3,Green,False,False,True,False,b'Tom Fleming',0.24
-Sporogenesis,Enchantment,None,Urza's Saga,Rare,4,Green,False,False,True,False,b'Ron Spencer',1.03
-Spreading Algae,Enchantment,Aura,Urza's Saga,Uncommon,1,Green,True,False,True,True,b'Stephen Daniele',0.31
-Symbiosis,Instant,None,Urza's Saga,Common,2,Green,False,False,True,True,b'Jeff Miracola',0.12
-Titania's Boon,Sorcery,None,Urza's Saga,Uncommon,4,Green,False,False,True,False,b'Val Mayerik',0.23
-Titania's Chosen,Creature,Elf Archer,Urza's Saga,Uncommon,3,Green,False,False,True,True,b'Mark Zug',0.26
-Treefolk Seedlings,Creature,Treefolk,Urza's Saga,Uncommon,3,Green,False,False,True,True,b'John Matson',0.25
-Treetop Rangers,Creature,Elf,Urza's Saga,Common,3,Green,False,False,True,False,b'Daren Bader',0.09
-Venomous Fangs,Enchantment,Aura,Urza's Saga,Common,3,Green,False,False,True,False,b'Lawrence Snelly',0.09
-Vernal Bloom,Enchantment,None,Urza's Saga,Rare,4,Green,True,False,True,True,b'Bob Eggleton',4.56
-War Dance,Enchantment,None,Urza's Saga,Uncommon,1,Green,False,False,True,False,b'Terese Nielsen',0.13
-Whirlwind,Sorcery,None,Urza's Saga,Rare,4,Green,False,False,True,True,b'John Matson',0.43
-Wild Dogs,Creature,Hound,Urza's Saga,Common,1,Green,False,False,True,True,b'Terese Nielsen',0.18
-Winding Wurm,Creature,Wurm,Urza's Saga,Common,5,Green,False,False,True,False,b'DiTerlizzi',0.08
-Barrin's Codex,Artifact,None,Urza's Saga,Rare,4,Colorless,False,False,True,False,b'DiTerlizzi',0.23
-Cathodion,Artifact Creature,Construct,Urza's Saga,Uncommon,3,Colorless,True,False,True,True,b'Henry G. Higginbotham',0.26
-Chimeric Staff,Artifact,None,Urza's Saga,Rare,4,Colorless,True,False,True,True,b'Michael Sutfin',0.26
-Citanul Flute,Artifact,None,Urza's Saga,Rare,5,Colorless,True,False,True,True,b'Berry',1.91
-Claws of Gix,Artifact,None,Urza's Saga,Uncommon,0,Colorless,True,False,True,True,b'Henry G. Higginbotham',0.38
-Copper Gnomes,Artifact Creature,Gnome,Urza's Saga,Rare,2,Colorless,False,False,True,False,b'Jeff Laubenstein',1.2
-Crystal Chimes,Artifact,None,Urza's Saga,Uncommon,3,Colorless,False,False,True,True,b'Donato Giancola',1.0
-Dragon Blood,Artifact,None,Urza's Saga,Uncommon,3,Colorless,True,False,True,True,b'Greg Simanson',0.13
-Endoskeleton,Artifact,None,Urza's Saga,Uncommon,2,Colorless,False,False,True,False,b'Mark Tedin',0.24
-Fluctuator,Artifact,None,Urza's Saga,Rare,2,Colorless,False,False,True,True,b'John Matson',22.82
-Grafted Skullcap,Artifact,None,Urza's Saga,Rare,4,Colorless,False,False,True,True,b'Brian Despain',0.36
-Hopping Automaton,Artifact Creature,Construct,Urza's Saga,Uncommon,3,Colorless,False,False,True,False,b'Val Mayerik',0.14
-"Karn, Silver Golem",Legendary Artifact Creature,Golem,Urza's Saga,Rare,5,Colorless,False,False,True,True,b'Mark Zug',8.9
-Lifeline,Artifact,None,Urza's Saga,Rare,5,Colorless,False,False,True,False,b'D. Alexander Gregory',15.22
-Lotus Blossom,Artifact,None,Urza's Saga,Rare,2,Colorless,False,False,True,False,b'Randy Gallegos',2.1
-Metrognome,Artifact,None,Urza's Saga,Rare,4,Colorless,False,False,True,False,b'Jeff Laubenstein',0.23
-Mishra's Helix,Artifact,None,Urza's Saga,Rare,5,Colorless,False,False,True,True,b'Berry',1.15
-Mobile Fort,Artifact Creature,Wall,Urza's Saga,Uncommon,4,Colorless,False,False,True,False,b'Mark Tedin',0.15
-Noetic Scales,Artifact,None,Urza's Saga,Rare,4,Colorless,False,False,True,False,b'Andrew Robinson',3.34
-Phyrexian Colossus,Artifact Creature,Golem,Urza's Saga,Rare,7,Colorless,True,False,True,True,b'Mark Tedin',0.38
-Phyrexian Processor,Artifact,None,Urza's Saga,Rare,4,Colorless,False,False,True,True,b'Ron Spencer',2.22
-Pit Trap,Artifact,None,Urza's Saga,Uncommon,2,Colorless,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.17
-Purging Scythe,Artifact,None,Urza's Saga,Rare,5,Colorless,False,False,True,False,b'Matthew D. Wilson',0.27
-Smokestack,Artifact,None,Urza's Saga,Rare,4,Colorless,False,False,True,True,b'Scott Kirschner',6.94
-Temporal Aperture,Artifact,None,Urza's Saga,Rare,2,Colorless,False,False,True,True,b'Michael Sutfin',2.9
-Thran Turbine,Artifact,None,Urza's Saga,Uncommon,1,Colorless,False,False,True,False,b'Brian Sn\xc3\xb5ddy',1.73
-Umbilicus,Artifact,None,Urza's Saga,Rare,4,Colorless,False,False,True,False,b'Dermot Power',1.35
-Urza's Armor,Artifact,None,Urza's Saga,Uncommon,6,Colorless,True,False,True,True,b'rk post',0.25
-Voltaic Key,Artifact,None,Urza's Saga,Uncommon,1,Colorless,True,False,True,True,b'Henry G. Higginbotham',2.13
-Wall of Junk,Artifact Creature,Wall,Urza's Saga,Uncommon,2,Colorless,False,False,True,False,b'Adam Rex',1.45
-Whetstone,Artifact,None,Urza's Saga,Rare,3,Colorless,False,False,True,True,b'Greg Simanson',0.28
-Wirecat,Artifact Creature,Cat,Urza's Saga,Uncommon,4,Colorless,False,False,True,False,b'Michael Sutfin',0.12
-Worn Powerstone,Artifact,None,Urza's Saga,Uncommon,3,Colorless,False,False,True,True,b'Henry G. Higginbotham',1.85
-Blasted Landscape,Land,None,Urza's Saga,Uncommon,0,Colorless,False,False,True,True,b'Ciruelo',1.35
-Drifting Meadow,Land,None,Urza's Saga,Common,0,Colorless,False,False,True,True,b'Bob Eggleton',0.14
-Gaea's Cradle,Legendary Land,None,Urza's Saga,Rare,0,Colorless,False,False,True,True,b'Mark Zug',46.06
-Phyrexian Tower,Legendary Land,None,Urza's Saga,Rare,0,Colorless,False,False,True,True,b'Chippy',14.92
-Polluted Mire,Land,None,Urza's Saga,Common,0,Colorless,False,False,True,True,b'Stephen Daniele',0.2
-Remote Isle,Land,None,Urza's Saga,Common,0,Colorless,False,False,True,True,b'Ciruelo',0.3
-Serra's Sanctum,Legendary Land,None,Urza's Saga,Rare,0,Colorless,False,False,True,False,b'Ciruelo',92.82
-Shivan Gorge,Legendary Land,None,Urza's Saga,Rare,0,Colorless,False,False,True,True,b'John Matson',1.09
-Slippery Karst,Land,None,Urza's Saga,Common,0,Colorless,False,False,True,True,b'Stephen Daniele',0.17
-Smoldering Crater,Land,None,Urza's Saga,Common,0,Colorless,False,False,True,True,b'Mark Tedin',0.19
-Thran Quarry,Land,None,Urza's Saga,Rare,0,Colorless,False,False,True,True,b'Michael Sutfin',3.66
-Tolarian Academy,Legendary Land,None,Urza's Saga,Rare,0,Colorless,False,False,False,True,b'Stephen Daniele',42.94
-Plains,Basic Land,Plains,Urza's Saga,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.32
-Plains,Basic Land,Plains,Urza's Saga,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.32
-Plains,Basic Land,Plains,Urza's Saga,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.4
-Plains,Basic Land,Plains,Urza's Saga,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.37
-Island,Basic Land,Island,Urza's Saga,Common,0,Colorless,True,True,True,True,b'Donato Giancola',1.26
-Island,Basic Land,Island,Urza's Saga,Common,0,Colorless,True,True,True,True,b'Donato Giancola',0.51
-Island,Basic Land,Island,Urza's Saga,Common,0,Colorless,True,True,True,True,b'Donato Giancola',0.48
-Island,Basic Land,Island,Urza's Saga,Common,0,Colorless,True,True,True,True,b'Donato Giancola',0.55
-Swamp,Basic Land,Swamp,Urza's Saga,Common,0,Colorless,True,True,True,True,b'John Avon',0.32
-Swamp,Basic Land,Swamp,Urza's Saga,Common,0,Colorless,True,True,True,True,b'John Avon',0.5
-Swamp,Basic Land,Swamp,Urza's Saga,Common,0,Colorless,True,True,True,True,b'John Avon',0.4
-Swamp,Basic Land,Swamp,Urza's Saga,Common,0,Colorless,True,True,True,True,b'John Avon',0.22
-Mountain,Basic Land,Mountain,Urza's Saga,Common,0,Colorless,True,True,True,True,b'John Avon',0.5
-Mountain,Basic Land,Mountain,Urza's Saga,Common,0,Colorless,True,True,True,True,b'John Avon',0.43
-Mountain,Basic Land,Mountain,Urza's Saga,Common,0,Colorless,True,True,True,True,b'John Avon',0.43
-Mountain,Basic Land,Mountain,Urza's Saga,Common,0,Colorless,True,True,True,True,b'John Avon',0.38
-Forest,Basic Land,Forest,Urza's Saga,Common,0,Colorless,True,True,True,True,b'Anthony S. Waters',0.67
-Forest,Basic Land,Forest,Urza's Saga,Common,0,Colorless,True,True,True,True,b'Anthony S. Waters',0.43
-Forest,Basic Land,Forest,Urza's Saga,Common,0,Colorless,True,True,True,True,b'Anthony S. Waters',0.43
-Forest,Basic Land,Forest,Urza's Saga,Common,0,Colorless,True,True,True,True,b'Anthony S. Waters',0.34
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Absolute Grace,Enchantment,None,Urza's Saga,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Miracola',0.44,False
+Absolute Law,Enchantment,None,Urza's Saga,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.43,False
+Angelic Chorus,Enchantment,None,Urza's Saga,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',1.6,False
+Angelic Page,Creature,Angel Spirit,Urza's Saga,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',0.2,False
+Brilliant Halo,Enchantment,Aura,Urza's Saga,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.18,False
+Catastrophe,Sorcery,None,Urza's Saga,Rare,6,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Robinson',4.07,False
+Clear,Instant,None,Urza's Saga,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Andrew Robinson',0.28,False
+Congregate,Instant,None,Urza's Saga,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.17,False
+Defensive Formation,Enchantment,None,Urza's Saga,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.25,False
+Disciple of Grace,Creature,Human Cleric,Urza's Saga,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Robh Ruppel',0.19,False
+Disciple of Law,Creature,Human Cleric,Urza's Saga,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Matthew D. Wilson',0.14,False
+Disenchant,Instant,None,Urza's Saga,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.18,False
+Elite Archers,Creature,Human Soldier Archer,Urza's Saga,Rare,6,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.26,False
+Faith Healer,Creature,Human Cleric,Urza's Saga,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Gallegos',0.61,False
+Glorious Anthem,Enchantment,None,Urza's Saga,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',1.41,False
+Healing Salve,Instant,None,Urza's Saga,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.1,False
+Herald of Serra,Creature,Angel,Urza's Saga,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Matthew D. Wilson',0.83,False
+Humble,Instant,None,Urza's Saga,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Val Mayerik',0.13,False
+Intrepid Hero,Creature,Human Soldier,Urza's Saga,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.62,False
+Monk Idealist,Creature,Human Monk Cleric,Urza's Saga,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.21,False
+Monk Realist,Creature,Human Monk Cleric,Urza's Saga,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.15,False
+Opal Acrolith,Enchantment,None,Urza's Saga,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Robh Ruppel',0.15,False
+Opal Archangel,Enchantment,None,Urza's Saga,Rare,5,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Miracola',0.99,False
+Opal Caryatid,Enchantment,None,Urza's Saga,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Berry',0.12,False
+Opal Gargoyle,Enchantment,None,Urza's Saga,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.09,False
+Opal Titan,Enchantment,None,Urza's Saga,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.23,False
+Pacifism,Enchantment,Aura,Urza's Saga,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.12,False
+Pariah,Enchantment,Aura,Urza's Saga,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jon J Muth',0.92,False
+Path of Peace,Sorcery,None,Urza's Saga,Common,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Val Mayerik',0.09,False
+Pegasus Charger,Creature,Pegasus,Urza's Saga,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Val Mayerik',0.11,False
+Planar Birth,Sorcery,None,Urza's Saga,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Rex',1.26,False
+Presence of the Master,Enchantment,None,Urza's Saga,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ciruelo',0.26,False
+Redeem,Instant,None,Urza's Saga,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'D. Alexander Gregory',0.16,False
+Remembrance,Enchantment,None,Urza's Saga,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Val Mayerik',4.19,False
+Rune of Protection: Artifacts,Enchantment,None,Urza's Saga,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',0.25,False
+Rune of Protection: Black,Enchantment,None,Urza's Saga,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',0.16,False
+Rune of Protection: Blue,Enchantment,None,Urza's Saga,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',0.16,False
+Rune of Protection: Green,Enchantment,None,Urza's Saga,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',0.15,False
+Rune of Protection: Lands,Enchantment,None,Urza's Saga,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',0.28,False
+Rune of Protection: Red,Enchantment,None,Urza's Saga,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',0.3,False
+Rune of Protection: White,Enchantment,None,Urza's Saga,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',0.24,False
+Sanctum Custodian,Creature,Human Cleric,Urza's Saga,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.12,False
+Sanctum Guardian,Creature,Human Cleric,Urza's Saga,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.2,False
+Seasoned Marshal,Creature,Human Soldier,Urza's Saga,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Matthew D. Wilson',0.19,False
+Serra Avatar,Creature,Avatar,Urza's Saga,Rare,7,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dermot Power',1.44,False
+Serra Zealot,Creature,Human Soldier,Urza's Saga,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'DiTerlizzi',0.16,False
+Serra's Embrace,Enchantment,Aura,Urza's Saga,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.27,False
+Serra's Hymn,Enchantment,None,Urza's Saga,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rebecca Guay',0.24,False
+Serra's Liturgy,Enchantment,None,Urza's Saga,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'rk post',0.27,False
+Shimmering Barrier,Creature,Wall,Urza's Saga,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'D. Alexander Gregory',0.26,False
+Silent Attendant,Creature,Human Cleric,Urza's Saga,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rebecca Guay',0.13,False
+Songstitcher,Creature,Human Cleric,Urza's Saga,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Berry',0.13,False
+Soul Sculptor,Creature,Human,Urza's Saga,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ciruelo',0.42,False
+Voice of Grace,Creature,Angel,Urza's Saga,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Miracola',0.24,False
+Voice of Law,Creature,Angel,Urza's Saga,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Zug',0.25,False
+Waylay,Instant,None,Urza's Saga,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.15,False
+Worship,Enchantment,None,Urza's Saga,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',2.19,False
+Academy Researchers,Creature,Human Wizard,Urza's Saga,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Stephen Daniele',0.25,False
+Annul,Instant,None,Urza's Saga,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Simanson',0.2,False
+Arcane Laboratory,Enchantment,None,Urza's Saga,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Stephen Daniele',1.1,False
+Attunement,Enchantment,None,Urza's Saga,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',3.67,False
+Back to Basics,Enchantment,None,Urza's Saga,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Robinson',10.26,False
+Barrin Master Wizard,Creature,Human Wizard,Urza's Saga,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',15.39,True
+Catalog,Instant,None,Urza's Saga,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Berry',0.09,False
+Cloak of Mists,Enchantment,Aura,Urza's Saga,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',0.29,False
+Confiscate,Enchantment,Aura,Urza's Saga,Uncommon,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',0.25,False
+Coral Merfolk,Creature,Merfolk,Urza's Saga,Common,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'rk post',0.1,False
+Curfew,Instant,None,Urza's Saga,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.26,False
+Disruptive Student,Creature,Human Wizard,Urza's Saga,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.2,False
+Douse,Enchantment,None,Urza's Saga,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Val Mayerik',0.24,False
+Drifting Djinn,Creature,Djinn,Urza's Saga,Rare,6,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.32,False
+Enchantment Alteration,Instant,None,Urza's Saga,Uncommon,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'D. Alexander Gregory',0.17,False
+Energy Field,Enchantment,None,Urza's Saga,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',4.91,False
+Exhaustion,Sorcery,None,Urza's Saga,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.57,False
+Fog Bank,Creature,Wall,Urza's Saga,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Kirschner',0.51,False
+Gilded Drake,Creature,Drake,Urza's Saga,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Bob Eggleton',169.03,False
+Great Whale,Creature,Whale,Urza's Saga,Rare,7,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Bob Eggleton',7.43,False
+Hermetic Study,Enchantment,Aura,Urza's Saga,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.2,False
+Hibernation,Instant,None,Urza's Saga,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Kirschner',0.26,False
+Horseshoe Crab,Creature,Crab,Urza's Saga,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Kirschner',0.18,False
+Imaginary Pet,Creature,Illusion,Urza's Saga,Rare,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.29,False
+Launch,Enchantment,Aura,Urza's Saga,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Val Mayerik',0.14,False
+Lilting Refrain,Enchantment,None,Urza's Saga,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Berry',0.2,False
+Lingering Mirage,Enchantment,Aura,Urza's Saga,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jerry Tiritilli',0.25,False
+Morphling,Creature,Shapeshifter,Urza's Saga,Rare,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',7.1,False
+Pendrell Drake,Creature,Drake,Urza's Saga,Common,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Miracola',0.15,False
+Pendrell Flux,Enchantment,Aura,Urza's Saga,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Andrew Robinson',0.13,False
+Peregrine Drake,Creature,Drake,Urza's Saga,Uncommon,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Bob Eggleton',0.71,False
+Power Sink,Instant,None,Urza's Saga,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Robinson',0.2,False
+Power Taint,Enchantment,Aura,Urza's Saga,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brian Sn\xc3\xb5ddy',0.16,False
+Recantation,Enchantment,None,Urza's Saga,Rare,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Simanson',0.27,False
+Rescind,Instant,None,Urza's Saga,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',0.24,False
+Rewind,Instant,None,Urza's Saga,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Dermot Power',0.31,False
+Sandbar Merfolk,Creature,Merfolk,Urza's Saga,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'rk post',0.14,False
+Sandbar Serpent,Creature,Serpent,Urza's Saga,Uncommon,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.15,False
+Show and Tell,Sorcery,None,Urza's Saga,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Laubenstein',10.67,False
+Somnophore,Creature,Illusion,Urza's Saga,Rare,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Andrew Robinson',0.39,False
+Spire Owl,Creature,Bird,Urza's Saga,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Firchow',0.29,False
+Stern Proctor,Creature,Human Wizard,Urza's Saga,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Gallegos',0.31,False
+Stroke of Genius,Instant,None,Urza's Saga,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Stephen Daniele',4.03,False
+Sunder,Instant,None,Urza's Saga,Rare,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Stephen Daniele',5.26,False
+Telepathy,Enchantment,None,Urza's Saga,Uncommon,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Matthew D. Wilson',0.54,False
+Time Spiral,Sorcery,None,Urza's Saga,Rare,6,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Sutfin',93.67,False
+Tolarian Winds,Instant,None,Urza's Saga,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Lawrence Snelly',0.58,False
+Turnabout,Instant,None,Urza's Saga,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',6.58,False
+Veil of Birds,Enchantment,None,Urza's Saga,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.11,False
+Veiled Apparition,Enchantment,None,Urza's Saga,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Andrew Robinson',0.12,False
+Veiled Crocodile,Enchantment,None,Urza's Saga,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.29,False
+Veiled Sentry,Enchantment,None,Urza's Saga,Uncommon,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spears',0.23,False
+Veiled Serpent,Enchantment,None,Urza's Saga,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Bob Eggleton',0.11,False
+Windfall,Sorcery,None,Urza's Saga,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Restrict.,Banned,True,b'Pete Venters',3.91,False
+Wizard Mentor,Creature,Human Wizard,Urza's Saga,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Miracola',0.1,False
+Zephid,Creature,Illusion,Urza's Saga,Rare,6,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.53,False
+Zephid's Embrace,Enchantment,Aura,Urza's Saga,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.23,False
+Abyssal Horror,Creature,Horror,Urza's Saga,Rare,6,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',0.21,False
+Befoul,Sorcery,None,Urza's Saga,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.15,False
+Bereavement,Enchantment,None,Urza's Saga,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Goldhawk',0.2,False
+Blood Vassal,Creature,Thrull,Urza's Saga,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Chippy',0.17,False
+Bog Raiders,Creature,Zombie,Urza's Saga,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.13,False
+Breach,Instant,None,Urza's Saga,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.12,False
+Cackling Fiend,Creature,Zombie,Urza's Saga,Common,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Despain',0.24,False
+Carrion Beetles,Creature,Insect,Urza's Saga,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.1,False
+Contamination,Enchantment,None,Urza's Saga,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Stephen Daniele',24.98,False
+Corrupt,Sorcery,None,Urza's Saga,Common,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Vincent Evans',0.15,False
+Crazed Skirge,Creature,Imp,Urza's Saga,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.16,False
+Dark Hatchling,Creature,Horror,Urza's Saga,Rare,6,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark A. Nelson',0.28,False
+Dark Ritual,Instant,None,Urza's Saga,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Tom Fleming',0.52,False
+Darkest Hour,Enchantment,None,Urza's Saga,Rare,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',3.96,False
+Despondency,Enchantment,Aura,Urza's Saga,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'D. Alexander Gregory',0.17,False
+Diabolic Servitude,Enchantment,None,Urza's Saga,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',0.27,False
+Discordant Dirge,Enchantment,None,Urza's Saga,Rare,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.27,False
+Duress,Sorcery,None,Urza's Saga,Common,1,Black,Legal,Legal,Legal,Legal,Legal,True,b'Lawrence Snelly',0.84,False
+Eastern Paladin,Creature,Zombie Knight,Urza's Saga,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.39,False
+Exhume,Sorcery,None,Urza's Saga,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',1.23,False
+Expunge,Instant,None,Urza's Saga,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.2,False
+Flesh Reaver,Creature,Horror,Urza's Saga,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.16,False
+Hollow Dogs,Creature,Zombie Dog,Urza's Saga,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.1,False
+Ill-Gotten Gains,Sorcery,None,Urza's Saga,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.49,False
+Looming Shade,Creature,Shade,Urza's Saga,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Vincent Evans',0.1,False
+Lurking Evil,Enchantment,None,Urza's Saga,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Kirschner',0.27,False
+Mana Leech,Creature,Leech,Urza's Saga,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark A. Nelson',0.17,False
+No Rest for the Wicked,Enchantment,None,Urza's Saga,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.64,False
+Oppression,Enchantment,None,Urza's Saga,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',6.74,False
+Order of Yawgmoth,Creature,Zombie Knight,Urza's Saga,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Chippy',0.22,False
+Parasitic Bond,Enchantment,Aura,Urza's Saga,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott Kirschner',0.15,False
+Persecute,Sorcery,None,Urza's Saga,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'D. Alexander Gregory',0.69,False
+Pestilence,Enchantment,None,Urza's Saga,Common,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.32,False
+Phyrexian Ghoul,Creature,Zombie,Urza's Saga,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.21,False
+Planar Void,Enchantment,None,Urza's Saga,Uncommon,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Andrew Goldhawk',0.81,False
+Priest of Gix,Creature,Human Cleric Minion,Urza's Saga,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Despain',0.46,False
+Rain of Filth,Instant,None,Urza's Saga,Uncommon,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Stephen Daniele',5.92,False
+Ravenous Skirge,Creature,Imp,Urza's Saga,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.1,False
+Reclusive Wight,Creature,Zombie Minion,Urza's Saga,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Vincent Evans',0.13,False
+Reprocess,Sorcery,None,Urza's Saga,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.88,False
+Sanguine Guard,Creature,Zombie Knight,Urza's Saga,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.23,False
+Sicken,Enchantment,Aura,Urza's Saga,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.12,False
+Skirge Familiar,Creature,Imp,Urza's Saga,Uncommon,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',4.9,False
+Skittering Skirge,Creature,Imp,Urza's Saga,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.12,False
+Sleeper Agent,Creature,Minion,Urza's Saga,Rare,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.47,False
+Spined Fluke,Creature,Worm Horror,Urza's Saga,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark A. Nelson',0.22,False
+Tainted Aether,Enchantment,None,Urza's Saga,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Thomas M. Baxa',4.56,False
+Unnerve,Sorcery,None,Urza's Saga,Common,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.17,False
+Unworthy Dead,Creature,Skeleton,Urza's Saga,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.12,False
+Vampiric Embrace,Enchantment,Aura,Urza's Saga,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.24,False
+Vebulid,Creature,Horror,Urza's Saga,Rare,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.27,False
+Victimize,Sorcery,None,Urza's Saga,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Val Mayerik',2.26,False
+Vile Requiem,Enchantment,None,Urza's Saga,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.16,False
+Western Paladin,Creature,Zombie Knight,Urza's Saga,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.42,False
+Witch Engine,Creature,Horror,Urza's Saga,Rare,6,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.27,False
+Yawgmoth's Edict,Enchantment,None,Urza's Saga,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Kirschner',0.2,False
+Yawgmoth's Will,Sorcery,None,Urza's Saga,Rare,3,Black,Not Legal,Not Legal,Legal,Restrict.,Banned,True,b'Ron Spencer',104.11,False
+Acidic Soil,Sorcery,None,Urza's Saga,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',3.45,False
+Antagonism,Enchantment,None,Urza's Saga,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Donato Giancola',0.3,False
+Arc Lightning,Sorcery,None,Urza's Saga,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Goldhawk',0.12,False
+Bedlam,Enchantment,None,Urza's Saga,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Raabe',3.5,False
+Brand,Instant,None,Urza's Saga,Rare,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Donato Giancola',6.34,False
+Bravado,Enchantment,Aura,Urza's Saga,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jerry Tiritilli',0.19,False
+Bulwark,Enchantment,None,Urza's Saga,Rare,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brian Sn\xc3\xb5ddy',0.35,False
+Crater Hellion,Creature,Hellion Beast,Urza's Saga,Rare,6,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.35,False
+Destructive Urge,Enchantment,Aura,Urza's Saga,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Andrew Robinson',0.23,False
+Disorder,Sorcery,None,Urza's Saga,Uncommon,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.17,False
+Dromosaur,Creature,Dinosaur,Urza's Saga,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ciruelo',0.12,False
+Electryte,Creature,Trilobite Beast,Urza's Saga,Rare,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.27,False
+Falter,Instant,None,Urza's Saga,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Raabe',0.14,False
+Fault Line,Instant,None,Urza's Saga,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',2.73,False
+Fiery Mantle,Enchantment,Aura,Urza's Saga,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Bob Eggleton',0.12,False
+Fire Ants,Creature,Insect,Urza's Saga,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Tom Fleming',0.25,False
+Gamble,Sorcery,None,Urza's Saga,Rare,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Goldhawk',14.01,False
+Goblin Cadets,Creature,Goblin,Urza's Saga,Uncommon,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jerry Tiritilli',0.28,False
+Goblin Lackey,Creature,Goblin,Urza's Saga,Uncommon,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jerry Tiritilli',7.92,False
+Goblin Matron,Creature,Goblin,Urza's Saga,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'DiTerlizzi',0.6,False
+Goblin Offensive,Sorcery,None,Urza's Saga,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',1.8,False
+Goblin Patrol,Creature,Goblin,Urza's Saga,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.14,False
+Goblin Raider,Creature,Goblin Warrior,Urza's Saga,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.12,False
+Goblin Spelunkers,Creature,Goblin Warrior,Urza's Saga,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'DiTerlizzi',0.08,False
+Goblin War Buggy,Creature,Goblin,Urza's Saga,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'DiTerlizzi',0.12,False
+Guma,Creature,Cat,Urza's Saga,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.19,False
+Headlong Rush,Instant,None,Urza's Saga,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dermot Power',0.14,False
+Heat Ray,Instant,None,Urza's Saga,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.11,False
+Jagged Lightning,Sorcery,None,Urza's Saga,Uncommon,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Raabe',0.16,False
+Lay Waste,Sorcery,None,Urza's Saga,Common,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.13,False
+Lightning Dragon,Creature,Dragon,Urza's Saga,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',1.44,False
+Meltdown,Sorcery,None,Urza's Saga,Uncommon,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Donato Giancola',0.37,False
+Okk,Creature,Goblin,Urza's Saga,Rare,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Raabe',0.25,False
+Outmaneuver,Instant,None,Urza's Saga,Uncommon,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.33,False
+Rain of Salt,Sorcery,None,Urza's Saga,Uncommon,6,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',0.26,False
+Raze,Sorcery,None,Urza's Saga,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Raabe',0.24,False
+Reflexes,Enchantment,Aura,Urza's Saga,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve White',0.13,False
+Retromancer,Creature,Viashino Shaman,Urza's Saga,Common,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Robh Ruppel',0.08,False
+Rumbling Crescendo,Enchantment,None,Urza's Saga,Rare,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Lawrence Snelly',0.35,False
+Scald,Enchantment,None,Urza's Saga,Uncommon,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',0.21,False
+Scoria Wurm,Creature,Wurm,Urza's Saga,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Firchow',0.32,False
+Scrap,Instant,None,Urza's Saga,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Donato Giancola',0.16,False
+Shivan Hellkite,Creature,Dragon,Urza's Saga,Rare,7,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Bob Eggleton',0.52,False
+Shivan Raptor,Creature,Dinosaur,Urza's Saga,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Bob Eggleton',0.16,False
+Shiv's Embrace,Enchantment,Aura,Urza's Saga,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Bob Eggleton',0.2,False
+Shower of Sparks,Instant,None,Urza's Saga,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.1,False
+Sneak Attack,Enchantment,None,Urza's Saga,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jerry Tiritilli',26.75,False
+Steam Blast,Sorcery,None,Urza's Saga,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Raabe',0.16,False
+Sulfuric Vapors,Enchantment,None,Urza's Saga,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Lawrence Snelly',0.32,False
+Thundering Giant,Creature,Giant,Urza's Saga,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.13,False
+Torch Song,Enchantment,None,Urza's Saga,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.19,False
+Viashino Outrider,Creature,Viashino,Urza's Saga,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ciruelo',0.09,False
+Viashino Runner,Creature,Viashino,Urza's Saga,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve White',0.05,False
+Viashino Sandswimmer,Creature,Viashino,Urza's Saga,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.27,False
+Viashino Weaponsmith,Creature,Viashino,Urza's Saga,Common,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dermot Power',0.05,False
+Vug Lizard,Creature,Lizard,Urza's Saga,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.11,False
+Wildfire,Sorcery,None,Urza's Saga,Rare,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.69,False
+Abundance,Enchantment,None,Urza's Saga,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',2.25,False
+Acridian,Creature,Insect,Urza's Saga,Common,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'rk post',0.09,False
+Albino Troll,Creature,Troll,Urza's Saga,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.24,False
+Anaconda,Creature,Snake,Urza's Saga,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Stephen Daniele',0.16,False
+Argothian Elder,Creature,Elf Druid,Urza's Saga,Uncommon,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'DiTerlizzi',1.69,False
+Argothian Enchantress,Creature,Human Druid,Urza's Saga,Rare,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',15.14,False
+Argothian Swine,Creature,Boar,Urza's Saga,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Elliott',0.16,False
+Argothian Wurm,Creature,Wurm,Urza's Saga,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',1.2,False
+Blanchwood Armor,Enchantment,Aura,Urza's Saga,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.32,False
+Blanchwood Treefolk,Creature,Treefolk,Urza's Saga,Common,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'DiTerlizzi',0.12,False
+Bull Hippo,Creature,Hippo,Urza's Saga,Uncommon,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.1,False
+Carpet of Flowers,Enchantment,None,Urza's Saga,Uncommon,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',16.87,False
+Cave Tiger,Creature,Cat,Urza's Saga,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Hannibal King',0.11,False
+Child of Gaea,Creature,Elemental,Urza's Saga,Rare,6,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.3,False
+Citanul Centaurs,Creature,Centaur,Urza's Saga,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Val Mayerik',0.53,False
+Citanul Hierophants,Creature,Human Druid,Urza's Saga,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Vincent Evans',1.82,False
+Cradle Guard,Creature,Treefolk,Urza's Saga,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Zug',0.15,False
+Crosswinds,Enchantment,None,Urza's Saga,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Elliott',0.14,False
+Elvish Herder,Creature,Elf,Urza's Saga,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Tom Fleming',0.23,False
+Elvish Lyrist,Creature,Elf,Urza's Saga,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',0.19,False
+Endless Wurm,Creature,Wurm,Urza's Saga,Rare,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'DiTerlizzi',0.54,False
+Exploration,Enchantment,None,Urza's Saga,Rare,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',42.96,False
+Fecundity,Enchantment,None,Urza's Saga,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',0.61,False
+Fertile Ground,Enchantment,Aura,Urza's Saga,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.25,False
+Fortitude,Enchantment,Aura,Urza's Saga,Common,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.2,False
+Gaea's Bounty,Sorcery,None,Urza's Saga,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Stephen Daniele',0.17,False
+Gaea's Embrace,Enchantment,Aura,Urza's Saga,Uncommon,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.54,False
+Gorilla Warrior,Creature,Ape Warrior,Urza's Saga,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Steve White',0.11,False
+Greater Good,Enchantment,None,Urza's Saga,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',8.06,False
+Greener Pastures,Enchantment,None,Urza's Saga,Rare,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.26,False
+Hawkeater Moth,Creature,Insect,Urza's Saga,Uncommon,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.14,False
+Hidden Ancients,Enchantment,None,Urza's Saga,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.19,False
+Hidden Guerrillas,Enchantment,None,Urza's Saga,Uncommon,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.23,False
+Hidden Herd,Enchantment,None,Urza's Saga,Rare,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Andrew Robinson',0.31,False
+Hidden Predators,Enchantment,None,Urza's Saga,Rare,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'John Matson',0.27,False
+Hidden Spider,Enchantment,None,Urza's Saga,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.29,False
+Hidden Stag,Enchantment,None,Urza's Saga,Rare,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Berry',0.24,False
+Hush,Sorcery,None,Urza's Saga,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rebecca Guay',0.16,False
+Lull,Instant,None,Urza's Saga,Common,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.22,False
+Midsummer Revel,Enchantment,None,Urza's Saga,Rare,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Firchow',0.31,False
+Pouncing Jaguar,Creature,Cat,Urza's Saga,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.17,False
+Priest of Titania,Creature,Elf Druid,Urza's Saga,Common,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',3.97,False
+Rejuvenate,Sorcery,None,Urza's Saga,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Simanson',0.1,False
+Retaliation,Enchantment,None,Urza's Saga,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Tom Fleming',0.18,False
+Sporogenesis,Enchantment,None,Urza's Saga,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.94,False
+Spreading Algae,Enchantment,Aura,Urza's Saga,Uncommon,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Stephen Daniele',0.32,False
+Symbiosis,Instant,None,Urza's Saga,Common,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.12,False
+Titania's Boon,Sorcery,None,Urza's Saga,Uncommon,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Val Mayerik',0.24,False
+Titania's Chosen,Creature,Elf Archer,Urza's Saga,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.25,False
+Treefolk Seedlings,Creature,Treefolk,Urza's Saga,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',0.26,False
+Treetop Rangers,Creature,Elf,Urza's Saga,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.1,False
+Venomous Fangs,Enchantment,Aura,Urza's Saga,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Lawrence Snelly',0.11,False
+Vernal Bloom,Enchantment,None,Urza's Saga,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Bob Eggleton',4.46,False
+War Dance,Enchantment,None,Urza's Saga,Uncommon,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.17,False
+Whirlwind,Sorcery,None,Urza's Saga,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',0.44,False
+Wild Dogs,Creature,Dog,Urza's Saga,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.15,False
+Winding Wurm,Creature,Wurm,Urza's Saga,Common,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'DiTerlizzi',0.09,False
+Barrin's Codex,Artifact,None,Urza's Saga,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'DiTerlizzi',0.26,False
+Cathodion,Artifact Creature,Construct,Urza's Saga,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Henry G. Higginbotham',0.26,False
+Chimeric Staff,Artifact,None,Urza's Saga,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Sutfin',0.26,False
+Citanul Flute,Artifact,None,Urza's Saga,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Berry',1.86,False
+Claws of Gix,Artifact,None,Urza's Saga,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Henry G. Higginbotham',0.39,False
+Copper Gnomes,Artifact Creature,Gnome,Urza's Saga,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Laubenstein',1.22,False
+Crystal Chimes,Artifact,None,Urza's Saga,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',1.52,False
+Dragon Blood,Artifact,None,Urza's Saga,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Simanson',0.16,False
+Endoskeleton,Artifact,None,Urza's Saga,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',0.19,False
+Fluctuator,Artifact,None,Urza's Saga,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',20.57,False
+Grafted Skullcap,Artifact,None,Urza's Saga,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Despain',0.35,False
+Hopping Automaton,Artifact Creature,Construct,Urza's Saga,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Val Mayerik',0.14,False
+Karn Silver Golem,Artifact Creature,Golem,Urza's Saga,Rare,5,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',8.39,True
+Lifeline,Artifact,None,Urza's Saga,Rare,5,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'D. Alexander Gregory',14.36,False
+Lotus Blossom,Artifact,None,Urza's Saga,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Gallegos',2.44,False
+Metrognome,Artifact,None,Urza's Saga,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Laubenstein',0.22,False
+Mishra's Helix,Artifact,None,Urza's Saga,Rare,5,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Berry',1.09,False
+Mobile Fort,Artifact Creature,Wall,Urza's Saga,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',0.15,False
+Noetic Scales,Artifact,None,Urza's Saga,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Andrew Robinson',3.72,False
+Phyrexian Colossus,Artifact Creature,Golem,Urza's Saga,Rare,7,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.44,False
+Phyrexian Processor,Artifact,None,Urza's Saga,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',2.2,False
+Pit Trap,Artifact,None,Urza's Saga,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.14,False
+Purging Scythe,Artifact,None,Urza's Saga,Rare,5,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Matthew D. Wilson',0.27,False
+Smokestack,Artifact,None,Urza's Saga,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Kirschner',6.98,False
+Temporal Aperture,Artifact,None,Urza's Saga,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Sutfin',3.18,False
+Thran Turbine,Artifact,None,Urza's Saga,Uncommon,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brian Sn\xc3\xb5ddy',1.57,False
+Umbilicus,Artifact,None,Urza's Saga,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dermot Power',1.41,False
+Urza's Armor,Artifact,None,Urza's Saga,Uncommon,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',0.25,False
+Voltaic Key,Artifact,None,Urza's Saga,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Henry G. Higginbotham',2.02,False
+Wall of Junk,Artifact Creature,Wall,Urza's Saga,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Rex',1.57,False
+Whetstone,Artifact,None,Urza's Saga,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Simanson',0.3,False
+Wirecat,Artifact Creature,Cat,Urza's Saga,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',0.12,False
+Worn Powerstone,Artifact,None,Urza's Saga,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Henry G. Higginbotham',1.96,False
+Blasted Landscape,Land,None,Urza's Saga,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ciruelo',1.42,False
+Drifting Meadow,Land,None,Urza's Saga,Common,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Bob Eggleton',0.14,False
+Gaea's Cradle,Land,None,Urza's Saga,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',406.44,True
+Phyrexian Tower,Land,None,Urza's Saga,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Chippy',16.65,True
+Polluted Mire,Land,None,Urza's Saga,Common,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Stephen Daniele',0.2,False
+Remote Isle,Land,None,Urza's Saga,Common,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ciruelo',0.35,False
+Serra's Sanctum,Land,None,Urza's Saga,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ciruelo',120.89,True
+Shivan Gorge,Land,None,Urza's Saga,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',1.5,True
+Slippery Karst,Land,None,Urza's Saga,Common,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Stephen Daniele',0.22,False
+Smoldering Crater,Land,None,Urza's Saga,Common,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.22,False
+Thran Quarry,Land,None,Urza's Saga,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Sutfin',3.95,False
+Tolarian Academy,Land,None,Urza's Saga,Rare,0,Colorless,Not Legal,Not Legal,Banned,Restrict.,Banned,True,b'Stephen Daniele',63.45,True
+Plains,Basic Land,Plains,Urza's Saga,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.31,False
+Plains,Basic Land,Plains,Urza's Saga,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.35,False
+Plains,Basic Land,Plains,Urza's Saga,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.39,False
+Plains,Basic Land,Plains,Urza's Saga,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.36,False
+Island,Basic Land,Island,Urza's Saga,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Donato Giancola',1.34,False
+Island,Basic Land,Island,Urza's Saga,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.6,False
+Island,Basic Land,Island,Urza's Saga,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.64,False
+Island,Basic Land,Island,Urza's Saga,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.62,False
+Swamp,Basic Land,Swamp,Urza's Saga,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.33,False
+Swamp,Basic Land,Swamp,Urza's Saga,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.52,False
+Swamp,Basic Land,Swamp,Urza's Saga,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.45,False
+Swamp,Basic Land,Swamp,Urza's Saga,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.24,False
+Mountain,Basic Land,Mountain,Urza's Saga,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.65,False
+Mountain,Basic Land,Mountain,Urza's Saga,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.49,False
+Mountain,Basic Land,Mountain,Urza's Saga,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.46,False
+Mountain,Basic Land,Mountain,Urza's Saga,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.41,False
+Forest,Basic Land,Forest,Urza's Saga,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',0.69,False
+Forest,Basic Land,Forest,Urza's Saga,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',0.5,False
+Forest,Basic Land,Forest,Urza's Saga,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',0.5,False
+Forest,Basic Land,Forest,Urza's Saga,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',0.33,False

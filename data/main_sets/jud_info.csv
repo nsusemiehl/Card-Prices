@@ -1,144 +1,144 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Ancestor's Chosen,Creature,Human Cleric,Judgment,Uncommon,7,White,True,False,True,True,b'Pete Venters',0.15
-Aven Warcraft,Instant,None,Judgment,Uncommon,3,White,False,False,True,False,b'Roger Raupp',0.14
-Battle Screech,Sorcery,None,Judgment,Uncommon,4,White,True,False,True,True,b'Randy Gallegos',0.6
-Battlewise Aven,Creature,Bird Soldier,Judgment,Common,4,White,False,False,True,False,b'Wayne England',0.05
-Benevolent Bodyguard,Creature,Human Cleric,Judgment,Common,1,White,False,False,True,True,b'Roger Raupp',0.21
-Border Patrol,Creature,Human Nomad,Judgment,Common,5,White,False,False,True,False,b'Roger Raupp',0.07
-Cagemail,Enchantment,Aura,Judgment,Common,2,White,False,False,True,False,b'Scott M. Fischer',0.07
-Chastise,Instant,None,Judgment,Uncommon,4,White,True,False,True,True,b'Carl Critchlow',0.17
-Commander Eesha,Legendary Creature,Bird Soldier,Judgment,Rare,4,White,False,False,True,False,b'Rebecca Guay',1.38
-Funeral Pyre,Instant,None,Judgment,Common,1,White,False,False,True,False,b'Carl Critchlow',0.09
-Glory,Creature,Incarnation,Judgment,Rare,5,White,False,False,True,True,b'Donato Giancola',1.3
-Golden Wish,Sorcery,None,Judgment,Rare,5,White,False,False,True,False,b'Alan Pollack',0.32
-Guided Strike,Instant,None,Judgment,Common,2,White,False,False,True,True,b'Dave Dorman',0.1
-Lead Astray,Instant,None,Judgment,Common,2,White,False,False,True,False,b'Adam Rex',0.04
-Nomad Mythmaker,Creature,Human Nomad Cleric,Judgment,Rare,3,White,True,False,True,True,b'Eric Peterson',1.81
-Phantom Flock,Creature,Bird Soldier Spirit,Judgment,Uncommon,5,White,False,False,True,True,b'David Martin',0.16
-Phantom Nomad,Creature,Spirit Nomad,Judgment,Common,2,White,False,False,True,True,b'Jim Nelson',0.12
-Prismatic Strands,Instant,None,Judgment,Common,3,White,False,False,True,True,b'Eric Peterson',0.54
-Pulsemage Advocate,Creature,Human Cleric,Judgment,Rare,3,White,False,False,True,False,b'Jeff Easley',0.76
-Ray of Revelation,Instant,None,Judgment,Common,2,White,True,False,True,True,b'Doug Chaffee',0.14
-Selfless Exorcist,Creature,Human Cleric,Judgment,Rare,5,White,False,False,True,False,b'Christopher Moeller',0.18
-Shieldmage Advocate,Creature,Human Cleric,Judgment,Common,3,White,False,False,True,False,b'Christopher Moeller',0.08
-Silver Seraph,Creature,Angel,Judgment,Rare,8,White,False,False,True,False,b'Matthew D. Wilson',0.42
-Solitary Confinement,Enchantment,None,Judgment,Rare,3,White,False,False,True,False,b'Scott M. Fischer',8.01
-Soulcatchers' Aerie,Enchantment,None,Judgment,Uncommon,2,White,False,False,True,False,b'Rob Alexander',1.57
-Spirit Cairn,Enchantment,None,Judgment,Uncommon,3,White,False,False,True,True,b'Gary Ruddell',0.16
-Spurnmage Advocate,Creature,Human Nomad,Judgment,Uncommon,1,White,False,False,True,True,b'Ron Spears',0.15
-Suntail Hawk,Creature,Bird,Judgment,Common,1,White,True,False,True,True,b'Heather Hudson',0.08
-Test of Endurance,Enchantment,None,Judgment,Rare,4,White,False,False,True,False,b'Mike Ploog',16.89
-Trained Pronghorn,Creature,Antelope,Judgment,Common,2,White,False,False,True,False,b'John Matson',0.06
-Unquestioned Authority,Enchantment,Aura,Judgment,Uncommon,3,White,False,False,True,True,b'Alex Horley-Orlandelli',0.43
-Valor,Creature,Incarnation,Judgment,Uncommon,4,White,True,False,True,True,b'Kev Walker',0.19
-Vigilant Sentry,Creature,Human Nomad,Judgment,Common,3,White,False,False,True,False,b'Eric Peterson',0.03
-Aven Fogbringer,Creature,Bird Wizard,Judgment,Common,4,Blue,False,False,True,False,"b'Edward P. Beard, Jr.'",0.13
-Cephalid Constable,Creature,Cephalid Wizard,Judgment,Rare,3,Blue,True,False,True,True,b'Alan Pollack',5.89
-Cephalid Inkshrouder,Creature,Cephalid,Judgment,Uncommon,3,Blue,False,False,True,False,b'Tony Szczudlo',0.29
-Cunning Wish,Instant,None,Judgment,Rare,3,Blue,False,False,True,True,b'Jim Nelson',4.34
-Defy Gravity,Instant,None,Judgment,Common,1,Blue,False,False,True,True,b'Ben Thompson',0.12
-Envelop,Instant,None,Judgment,Common,1,Blue,False,False,True,True,b'Don Hazeltine',0.1
-Flash of Insight,Instant,None,Judgment,Uncommon,3,Blue,False,False,True,False,b'Ben Thompson',0.24
-Grip of Amnesia,Instant,None,Judgment,Common,2,Blue,False,False,True,False,b'Bradley Williams',0.16
-Hapless Researcher,Creature,Human Wizard,Judgment,Common,1,Blue,False,False,True,False,b'Ron Spears',0.19
-Keep Watch,Instant,None,Judgment,Common,3,Blue,False,False,True,True,b'Fred Rahmqvist',0.62
-Laquatus's Disdain,Instant,None,Judgment,Uncommon,2,Blue,False,False,True,False,b'Pete Venters',0.14
-Lost in Thought,Enchantment,Aura,Judgment,Common,2,Blue,False,False,True,False,b'Ben Thompson',0.14
-Mental Note,Instant,None,Judgment,Common,1,Blue,False,False,True,True,b'Bradley Williams',0.35
-Mirror Wall,Creature,Wall,Judgment,Common,4,Blue,False,False,True,False,b'Mark Brill',0.11
-Mist of Stagnation,Enchantment,None,Judgment,Rare,5,Blue,False,False,True,False,b'Mike Ploog',0.29
-Quiet Speculation,Sorcery,None,Judgment,Uncommon,2,Blue,False,False,True,True,b'John Avon',0.25
-Scalpelexis,Creature,Beast,Judgment,Rare,5,Blue,True,False,True,True,b'Mark Tedin',0.23
-Spelljack,Instant,None,Judgment,Rare,6,Blue,False,False,True,False,b'Pete Venters',2.36
-Telekinetic Bonds,Enchantment,None,Judgment,Rare,5,Blue,False,False,True,False,b'Jim Nelson',0.27
-Web of Inertia,Enchantment,None,Judgment,Uncommon,3,Blue,False,False,True,False,b'Don Hazeltine',0.89
-Wonder,Creature,Incarnation,Judgment,Uncommon,4,Blue,False,False,True,True,b'Rebecca Guay',0.54
-Wormfang Behemoth,Creature,Nightmare Fish Beast,Judgment,Rare,5,Blue,False,False,True,False,b'Heather Hudson',0.12
-Wormfang Crab,Creature,Nightmare Crab,Judgment,Uncommon,4,Blue,False,False,True,False,b'Glen Angus',0.17
-Wormfang Drake,Creature,Nightmare Drake,Judgment,Common,3,Blue,False,False,True,False,b'Thomas M. Baxa',0.15
-Wormfang Manta,Creature,Nightmare Fish Beast,Judgment,Rare,7,Blue,False,False,True,False,b'Heather Hudson',0.27
-Wormfang Newt,Creature,Nightmare Salamander Beast,Judgment,Common,2,Blue,False,False,True,False,b'Doug Chaffee',0.09
-Wormfang Turtle,Creature,Nightmare Turtle Beast,Judgment,Uncommon,3,Blue,False,False,True,False,b'John Avon',0.14
-Balthor the Defiled,Legendary Creature,Zombie Dwarf,Judgment,Rare,4,Black,False,False,True,False,b'Carl Critchlow',9.9
-Cabal Therapy,Sorcery,None,Judgment,Uncommon,1,Black,False,False,True,True,b'Ron Spencer',2.09
-Cabal Trainee,Creature,Human Minion,Judgment,Common,1,Black,False,False,True,False,b'Pete Venters',0.04
-Death Wish,Sorcery,None,Judgment,Rare,3,Black,False,False,True,False,b'Jeff Easley',0.35
-Earsplitting Rats,Creature,Rat,Judgment,Common,4,Black,False,False,True,False,b'Heather Hudson',0.17
-Filth,Creature,Incarnation,Judgment,Uncommon,4,Black,False,False,True,False,b'Thomas M. Baxa',2.79
-Grave Consequences,Instant,None,Judgment,Uncommon,2,Black,False,False,True,False,b'Tim Hildebrandt',0.16
-Guiltfeeder,Creature,Horror,Judgment,Rare,5,Black,False,False,True,True,b'Mark Tedin',1.15
-Masked Gorgon,Creature,Gorgon,Judgment,Rare,5,Black,False,False,True,False,b'Matthew D. Wilson',0.26
-Morality Shift,Sorcery,None,Judgment,Rare,7,Black,False,False,True,False,b'Jerry Tiritilli',2.34
-Rats' Feast,Sorcery,None,Judgment,Common,2,Black,False,False,True,True,b'Bob Petillo',0.11
-Stitch Together,Sorcery,None,Judgment,Uncommon,2,Black,False,False,True,True,b'Arnie Swekel',0.61
-Sutured Ghoul,Creature,Zombie,Judgment,Rare,7,Black,True,False,True,True,b'Carl Critchlow',0.22
-Toxic Stench,Instant,None,Judgment,Common,2,Black,False,False,True,False,b'Bradley Williams',0.07
-Treacherous Vampire,Creature,Vampire,Judgment,Uncommon,5,Black,False,False,True,False,b'Kev Walker',0.2
-Treacherous Werewolf,Creature,Werewolf Minion,Judgment,Common,3,Black,False,False,True,False,b'Mark Tedin',0.16
-Anger,Creature,Incarnation,Judgment,Uncommon,4,Red,False,False,True,True,b'John Avon',2.1
-Arcane Teachings,Enchantment,Aura,Judgment,Common,3,Red,True,False,True,True,b'Mark Brill',0.09
-Barbarian Bully,Creature,Human Barbarian,Judgment,Common,3,Red,False,False,True,False,b'Mike Ploog',0.05
-Book Burning,Sorcery,None,Judgment,Common,2,Red,False,False,True,False,b'Dave Dorman',0.13
-Breaking Point,Sorcery,None,Judgment,Rare,3,Red,False,False,True,True,b'Matthew D. Wilson',0.35
-Browbeat,Sorcery,None,Judgment,Uncommon,3,Red,True,False,True,True,b'Mark Tedin',0.48
-Burning Wish,Sorcery,None,Judgment,Rare,2,Red,False,False,True,True,b'Scott M. Fischer',1.76
-Dwarven Bloodboiler,Creature,Dwarf,Judgment,Rare,3,Red,False,False,True,False,b'Arnie Swekel',0.35
-Dwarven Driller,Creature,Dwarf,Judgment,Uncommon,4,Red,False,False,True,False,"b'Edward P. Beard, Jr.'",0.82
-Dwarven Scorcher,Creature,Dwarf,Judgment,Common,1,Red,False,False,True,False,b'Thomas M. Baxa',0.1
-Ember Shot,Instant,None,Judgment,Common,7,Red,False,False,True,False,b'Alan Pollack',0.05
-Firecat Blitz,Sorcery,None,Judgment,Uncommon,3,Red,False,False,True,False,b'David Martin',0.46
-Flaring Pain,Instant,None,Judgment,Common,2,Red,False,False,True,True,b'Glen Angus',0.81
-Fledgling Dragon,Creature,Dragon,Judgment,Rare,4,Red,False,False,True,False,b'Greg Staples',0.68
-Goretusk Firebeast,Creature,Elemental Boar Beast,Judgment,Common,6,Red,False,False,True,False,b'Keith Garletts',0.12
-Infectious Rage,Enchantment,Aura,Judgment,Uncommon,2,Red,False,False,True,False,b'Christopher Moeller',0.14
-"Jeska, Warrior Adept",Legendary Creature,Human Barbarian Warrior,Judgment,Rare,4,Red,False,False,True,False,b'rk post',1.32
-Lava Dart,Instant,None,Judgment,Common,1,Red,True,False,True,True,b'Darrell Riche',0.31
-Liberated Dwarf,Creature,Dwarf,Judgment,Common,1,Red,False,False,True,False,b'Greg Hildebrandt',0.14
-Lightning Surge,Sorcery,None,Judgment,Rare,5,Red,False,False,True,False,b'Ron Spears',0.2
-Planar Chaos,Enchantment,None,Judgment,Uncommon,3,Red,False,False,True,False,b'Ron Spencer',1.6
-Shaman's Trance,Instant,None,Judgment,Rare,3,Red,False,False,True,False,b'Greg Hildebrandt',0.29
-Soulgorger Orgg,Creature,Nightmare Orgg,Judgment,Uncommon,5,Red,False,False,True,False,b'John Matson',0.1
-Spellgorger Barbarian,Creature,Human Nightmare Barbarian,Judgment,Common,4,Red,False,False,True,False,b'Mark Romanoski',0.05
-Swelter,Sorcery,None,Judgment,Uncommon,4,Red,False,False,True,False,b'Ben Thompson',0.2
-Swirling Sandstorm,Sorcery,None,Judgment,Common,4,Red,False,False,True,False,b'Tony Szczudlo',0.58
-Worldgorger Dragon,Creature,Nightmare Dragon,Judgment,Rare,6,Red,False,False,True,True,b'Wayne England',9.49
-Anurid Barkripper,Creature,Frog Beast,Judgment,Common,3,Green,False,False,True,False,b'Randy Gallegos',0.08
-Anurid Swarmsnapper,Creature,Frog Beast,Judgment,Uncommon,3,Green,False,False,True,False,b'John Matson',0.13
-Battlefield Scrounger,Creature,Centaur,Judgment,Common,5,Green,False,False,True,False,b'Daren Bader',0.11
-Brawn,Creature,Incarnation,Judgment,Uncommon,4,Green,False,False,True,True,b'Matt Cavotta',0.31
-Canopy Claws,Instant,None,Judgment,Common,1,Green,False,False,True,False,b'Matthew Mitchell',0.06
-Centaur Rootcaster,Creature,Centaur Druid,Judgment,Common,4,Green,False,False,True,False,b'Eric Peterson',0.14
-Crush of Wurms,Sorcery,None,Judgment,Rare,9,Green,False,False,True,False,b'Christopher Moeller',1.13
-Elephant Guide,Enchantment,Aura,Judgment,Uncommon,3,Green,False,False,True,True,b'Jim Nelson',0.25
-Epic Struggle,Enchantment,None,Judgment,Rare,4,Green,False,False,True,True,b'Greg Hildebrandt',2.53
-Erhnam Djinn,Creature,Djinn,Judgment,Rare,4,Green,False,False,True,True,b'Greg Staples',0.34
-Exoskeletal Armor,Enchantment,Aura,Judgment,Uncommon,2,Green,False,False,True,False,b'Wayne England',0.19
-Folk Medicine,Instant,None,Judgment,Common,3,Green,False,False,True,False,b'Matt Cavotta',0.07
-Forcemage Advocate,Creature,Centaur Shaman,Judgment,Uncommon,2,Green,False,False,True,False,b'Darrell Riche',0.1
-Genesis,Creature,Incarnation,Judgment,Rare,5,Green,True,False,True,True,b'Mark Zug',2.65
-Giant Warthog,Creature,Boar Beast,Judgment,Common,6,Green,False,False,True,False,b'Kev Walker',0.04
-Grizzly Fate,Sorcery,None,Judgment,Uncommon,5,Green,False,False,True,True,b'Dave Dorman',1.52
-Harvester Druid,Creature,Human Druid,Judgment,Common,2,Green,False,False,True,False,b'David Martin',0.16
-Ironshell Beetle,Creature,Insect,Judgment,Common,2,Green,True,True,True,True,b'Heather Hudson',0.06
-Krosan Reclamation,Instant,None,Judgment,Uncommon,2,Green,False,False,True,True,b'Gary Ruddell',0.19
-Krosan Wayfarer,Creature,Human Druid,Judgment,Common,1,Green,False,False,True,False,"b'Edward P. Beard, Jr.'",0.26
-Living Wish,Sorcery,None,Judgment,Rare,2,Green,False,False,True,True,b'Eric Peterson',1.61
-Nantuko Tracer,Creature,Insect Druid,Judgment,Common,2,Green,False,False,True,False,b'Greg Staples',0.1
-Nullmage Advocate,Creature,Insect Druid,Judgment,Common,3,Green,False,False,True,True,b'Darrell Riche',0.14
-Phantom Centaur,Creature,Centaur Spirit,Judgment,Uncommon,4,Green,False,False,True,True,b'Carl Critchlow',0.22
-Phantom Nantuko,Creature,Insect Spirit,Judgment,Rare,3,Green,False,False,True,True,b'Wayne England',0.2
-Phantom Tiger,Creature,Cat Spirit,Judgment,Common,3,Green,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.07
-Seedtime,Instant,None,Judgment,Rare,2,Green,False,False,True,False,b'Rebecca Guay',4.61
-Serene Sunset,Instant,None,Judgment,Uncommon,2,Green,False,False,True,False,b'David Martin',0.15
-Sudden Strength,Instant,None,Judgment,Common,4,Green,False,False,True,True,b'Alan Pollack',0.05
-Sylvan Safekeeper,Creature,Human Wizard,Judgment,Rare,1,Green,False,False,True,True,b'Pete Venters',8.06
-"Thriss, Nantuko Primus",Legendary Creature,Insect Druid,Judgment,Rare,7,Green,False,False,True,False,b'John Avon',0.26
-Tunneler Wurm,Creature,Wurm,Judgment,Uncommon,8,Green,False,False,True,False,b'Jeff Easley',0.09
-Venomous Vines,Sorcery,None,Judgment,Common,4,Green,False,False,True,False,b'Ron Spencer',0.03
-Anurid Brushhopper,Creature,Frog Beast,Judgment,Rare,3,Gold,False,False,True,True,b'Arnie Swekel',0.24
-Hunting Grounds,Enchantment,None,Judgment,Rare,2,Gold,False,False,True,False,b'Mark Brill',10.63
-Mirari's Wake,Enchantment,None,Judgment,Rare,5,Gold,False,False,True,True,b'David Martin',16.62
-Phantom Nishoba,Creature,Cat Beast Spirit,Judgment,Rare,7,Gold,False,False,True,True,b'Arnie Swekel',0.88
-Krosan Verge,Land,None,Judgment,Uncommon,0,Colorless,False,False,True,True,b'Tony Szczudlo',0.96
-Nantuko Monastery,Land,None,Judgment,Uncommon,0,Colorless,False,False,True,True,b'Rob Alexander',0.2
-Riftstone Portal,Land,None,Judgment,Uncommon,0,Colorless,False,False,True,False,b'Don Hazeltine',1.24
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Ancestor's Chosen,Creature,Human Cleric,Judgment,Uncommon,7,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.21,False
+Aven Warcraft,Instant,None,Judgment,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Roger Raupp',0.14,False
+Battle Screech,Sorcery,None,Judgment,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.61,False
+Battlewise Aven,Creature,Bird Soldier,Judgment,Common,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne England',0.05,False
+Benevolent Bodyguard,Creature,Human Cleric,Judgment,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Roger Raupp',0.23,False
+Border Patrol,Creature,Human Nomad,Judgment,Common,5,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Roger Raupp',0.12,False
+Cagemail,Enchantment,Aura,Judgment,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',0.07,False
+Chastise,Instant,None,Judgment,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.16,False
+Commander Eesha,Creature,Bird Soldier,Judgment,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rebecca Guay',1.3,True
+Funeral Pyre,Instant,None,Judgment,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.12,False
+Glory,Creature,Incarnation,Judgment,Rare,5,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',1.33,False
+Golden Wish,Sorcery,None,Judgment,Rare,5,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Pollack',0.35,False
+Guided Strike,Instant,None,Judgment,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Dorman',0.12,False
+Lead Astray,Instant,None,Judgment,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Rex',0.04,False
+Nomad Mythmaker,Creature,Human Nomad Cleric,Judgment,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Peterson',1.83,False
+Phantom Flock,Creature,Bird Soldier Spirit,Judgment,Uncommon,5,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'David Martin',0.15,False
+Phantom Nomad,Creature,Spirit Nomad,Judgment,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Nelson',0.18,False
+Prismatic Strands,Instant,None,Judgment,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Peterson',0.44,False
+Pulsemage Advocate,Creature,Human Cleric,Judgment,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Easley',0.78,False
+Ray of Revelation,Instant,None,Judgment,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Doug Chaffee',0.15,False
+Selfless Exorcist,Creature,Human Cleric,Judgment,Rare,5,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.18,False
+Shieldmage Advocate,Creature,Human Cleric,Judgment,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.08,False
+Silver Seraph,Creature,Angel,Judgment,Rare,8,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Matthew D. Wilson',0.35,False
+Solitary Confinement,Enchantment,None,Judgment,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',7.68,False
+Soulcatchers' Aerie,Enchantment,None,Judgment,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rob Alexander',1.17,False
+Spirit Cairn,Enchantment,None,Judgment,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Gary Ruddell',0.18,False
+Spurnmage Advocate,Creature,Human Nomad,Judgment,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spears',0.15,False
+Suntail Hawk,Creature,Bird,Judgment,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.09,False
+Test of Endurance,Enchantment,None,Judgment,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Ploog',19.37,False
+Trained Pronghorn,Creature,Antelope,Judgment,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'John Matson',0.1,False
+Unquestioned Authority,Enchantment,Aura,Judgment,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Alex Horley-Orlandelli',0.44,False
+Valor,Creature,Incarnation,Judgment,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.17,False
+Vigilant Sentry,Creature,Human Nomad,Judgment,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Eric Peterson',0.03,False
+Aven Fogbringer,Creature,Bird Wizard,Judgment,Common,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,"b'Edward P. Beard, Jr.'",0.15,False
+Cephalid Constable,Creature,Cephalid Wizard,Judgment,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',17.17,False
+Cephalid Inkshrouder,Creature,Cephalid,Judgment,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Tony Szczudlo',0.27,False
+Cunning Wish,Instant,None,Judgment,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Nelson',4.75,False
+Defy Gravity,Instant,None,Judgment,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ben Thompson',0.17,False
+Envelop,Instant,None,Judgment,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Don Hazeltine',0.12,False
+Flash of Insight,Instant,None,Judgment,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ben Thompson',0.23,False
+Grip of Amnesia,Instant,None,Judgment,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Bradley Williams',0.17,False
+Hapless Researcher,Creature,Human Wizard,Judgment,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spears',0.19,False
+Keep Watch,Instant,None,Judgment,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Fred Rahmqvist',0.47,False
+Laquatus's Disdain,Instant,None,Judgment,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.14,False
+Lost in Thought,Enchantment,Aura,Judgment,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ben Thompson',0.13,False
+Mental Note,Instant,None,Judgment,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Bradley Williams',0.39,False
+Mirror Wall,Creature,Wall,Judgment,Common,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Brill',0.11,False
+Mist of Stagnation,Enchantment,None,Judgment,Rare,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Ploog',0.32,False
+Quiet Speculation,Sorcery,None,Judgment,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.26,False
+Scalpelexis,Creature,Beast,Judgment,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.22,False
+Spelljack,Instant,None,Judgment,Rare,6,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',2.45,False
+Telekinetic Bonds,Enchantment,None,Judgment,Rare,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.24,False
+Web of Inertia,Enchantment,None,Judgment,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Don Hazeltine',0.86,False
+Wonder,Creature,Incarnation,Judgment,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',0.57,False
+Wormfang Behemoth,Creature,Nightmare Fish Beast,Judgment,Rare,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.19,False
+Wormfang Crab,Creature,Nightmare Crab,Judgment,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Glen Angus',0.16,False
+Wormfang Drake,Creature,Nightmare Drake,Judgment,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.15,False
+Wormfang Manta,Creature,Nightmare Fish Beast,Judgment,Rare,7,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.26,False
+Wormfang Newt,Creature,Nightmare Salamander Beast,Judgment,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Doug Chaffee',0.11,False
+Wormfang Turtle,Creature,Nightmare Turtle Beast,Judgment,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.14,False
+Balthor the Defiled,Creature,Zombie Dwarf,Judgment,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',9.37,True
+Cabal Therapy,Sorcery,None,Judgment,Uncommon,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',2.14,False
+Cabal Trainee,Creature,Human Minion,Judgment,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.1,False
+Death Wish,Sorcery,None,Judgment,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Easley',0.36,False
+Earsplitting Rats,Creature,Rat,Judgment,Common,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.18,False
+Filth,Creature,Incarnation,Judgment,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',3.11,False
+Grave Consequences,Instant,None,Judgment,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Tim Hildebrandt',0.2,False
+Guiltfeeder,Creature,Horror,Judgment,Rare,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',1.12,False
+Masked Gorgon,Creature,Gorgon,Judgment,Rare,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Matthew D. Wilson',0.31,False
+Morality Shift,Sorcery,None,Judgment,Rare,7,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jerry Tiritilli',2.17,False
+Rats' Feast,Sorcery,None,Judgment,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Bob Petillo',0.13,False
+Stitch Together,Sorcery,None,Judgment,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Arnie Swekel',0.87,False
+Sutured Ghoul,Creature,Zombie,Judgment,Rare,7,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.23,False
+Toxic Stench,Instant,None,Judgment,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Bradley Williams',0.06,False
+Treacherous Vampire,Creature,Vampire,Judgment,Uncommon,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.19,False
+Treacherous Werewolf,Creature,Werewolf Minion,Judgment,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',0.19,False
+Anger,Creature,Incarnation,Judgment,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',2.15,False
+Arcane Teachings,Enchantment,Aura,Judgment,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Brill',0.11,False
+Barbarian Bully,Creature,Human Barbarian,Judgment,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Ploog',0.05,False
+Book Burning,Sorcery,None,Judgment,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Dorman',0.17,False
+Breaking Point,Sorcery,None,Judgment,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Matthew D. Wilson',0.38,False
+Browbeat,Sorcery,None,Judgment,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.49,False
+Burning Wish,Sorcery,None,Judgment,Rare,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',1.77,False
+Dwarven Bloodboiler,Creature,Dwarf,Judgment,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Arnie Swekel',0.37,False
+Dwarven Driller,Creature,Dwarf,Judgment,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,"b'Edward P. Beard, Jr.'",0.82,False
+Dwarven Scorcher,Creature,Dwarf,Judgment,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.12,False
+Ember Shot,Instant,None,Judgment,Common,7,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Pollack',0.1,False
+Firecat Blitz,Sorcery,None,Judgment,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'David Martin',0.41,False
+Flaring Pain,Instant,None,Judgment,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Glen Angus',0.74,False
+Fledgling Dragon,Creature,Dragon,Judgment,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.53,False
+Goretusk Firebeast,Creature,Elemental Boar Beast,Judgment,Common,6,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Keith Garletts',0.11,False
+Infectious Rage,Enchantment,Aura,Judgment,Uncommon,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.14,False
+Jeska Warrior Adept,Creature,Human Barbarian Warrior,Judgment,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'rk post',2.2,True
+Lava Dart,Instant,None,Judgment,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Darrell Riche',0.32,False
+Liberated Dwarf,Creature,Dwarf,Judgment,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Hildebrandt',0.15,False
+Lightning Surge,Sorcery,None,Judgment,Rare,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spears',0.21,False
+Planar Chaos,Enchantment,None,Judgment,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',1.65,False
+Shaman's Trance,Instant,None,Judgment,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Hildebrandt',0.34,False
+Soulgorger Orgg,Creature,Nightmare Orgg,Judgment,Uncommon,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'John Matson',0.11,False
+Spellgorger Barbarian,Creature,Human Nightmare Barbarian,Judgment,Common,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Romanoski',0.05,False
+Swelter,Sorcery,None,Judgment,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ben Thompson',0.2,False
+Swirling Sandstorm,Sorcery,None,Judgment,Common,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Tony Szczudlo',0.56,False
+Worldgorger Dragon,Creature,Nightmare Dragon,Judgment,Rare,6,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne England',10.11,False
+Anurid Barkripper,Creature,Frog Beast,Judgment,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Gallegos',0.05,False
+Anurid Swarmsnapper,Creature,Frog Beast,Judgment,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'John Matson',0.12,False
+Battlefield Scrounger,Creature,Centaur,Judgment,Common,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.12,False
+Brawn,Creature,Incarnation,Judgment,Uncommon,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.38,False
+Canopy Claws,Instant,None,Judgment,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Matthew Mitchell',0.08,False
+Centaur Rootcaster,Creature,Centaur Druid,Judgment,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Eric Peterson',0.15,False
+Crush of Wurms,Sorcery,None,Judgment,Rare,9,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',1.01,False
+Elephant Guide,Enchantment,Aura,Judgment,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Nelson',0.26,False
+Epic Struggle,Enchantment,None,Judgment,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Hildebrandt',2.86,False
+Erhnam Djinn,Creature,Djinn,Judgment,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.33,False
+Exoskeletal Armor,Enchantment,Aura,Judgment,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne England',0.17,False
+Folk Medicine,Instant,None,Judgment,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.08,False
+Forcemage Advocate,Creature,Centaur Shaman,Judgment,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Darrell Riche',0.11,False
+Genesis,Creature,Incarnation,Judgment,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',2.02,False
+Giant Warthog,Creature,Boar Beast,Judgment,Common,6,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.05,False
+Grizzly Fate,Sorcery,None,Judgment,Uncommon,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Dorman',1.33,False
+Harvester Druid,Creature,Human Druid,Judgment,Common,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'David Martin',0.2,False
+Ironshell Beetle,Creature,Insect,Judgment,Common,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.06,False
+Krosan Reclamation,Instant,None,Judgment,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Gary Ruddell',0.22,False
+Krosan Wayfarer,Creature,Human Druid,Judgment,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,"b'Edward P. Beard, Jr.'",0.3,False
+Living Wish,Sorcery,None,Judgment,Rare,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Peterson',1.59,False
+Nantuko Tracer,Creature,Insect Druid,Judgment,Common,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.09,False
+Nullmage Advocate,Creature,Insect Druid,Judgment,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Darrell Riche',0.17,False
+Phantom Centaur,Creature,Centaur Spirit,Judgment,Uncommon,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.2,False
+Phantom Nantuko,Creature,Insect Spirit,Judgment,Rare,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne England',0.21,False
+Phantom Tiger,Creature,Cat Spirit,Judgment,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.1,False
+Seedtime,Instant,None,Judgment,Rare,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rebecca Guay',5.07,False
+Serene Sunset,Instant,None,Judgment,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'David Martin',0.17,False
+Sudden Strength,Instant,None,Judgment,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.05,False
+Sylvan Safekeeper,Creature,Human Wizard,Judgment,Rare,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',8.67,False
+Thriss Nantuko Primus,Creature,Insect Druid,Judgment,Rare,7,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.27,True
+Tunneler Wurm,Creature,Wurm,Judgment,Uncommon,8,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Easley',0.26,False
+Venomous Vines,Sorcery,None,Judgment,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.04,False
+Anurid Brushhopper,Creature,Frog Beast,Judgment,Rare,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Arnie Swekel',0.23,False
+Hunting Grounds,Enchantment,None,Judgment,Rare,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Brill',13.02,False
+Mirari's Wake,Enchantment,None,Judgment,Rare,5,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'David Martin',18.41,False
+Phantom Nishoba,Creature,Cat Beast Spirit,Judgment,Rare,7,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Arnie Swekel',0.83,False
+Krosan Verge,Land,None,Judgment,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Tony Szczudlo',1.05,False
+Nantuko Monastery,Land,None,Judgment,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.24,False
+Riftstone Portal,Land,None,Judgment,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Don Hazeltine',0.99,False

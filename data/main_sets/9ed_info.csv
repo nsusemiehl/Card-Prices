@@ -1,351 +1,351 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Angel of Mercy,Creature,Angel,Ninth Edition,Uncommon,5,White,True,False,True,True,b'Melissa A. Benson',0.18
-Angelic Blessing,Sorcery,None,Ninth Edition,Common,3,White,True,False,True,True,b'Mark Zug',0.07
-Aven Cloudchaser,Creature,Bird Soldier,Ninth Edition,Common,4,White,True,False,True,True,b'Justin Sweet',0.1
-Aven Flock,Creature,Bird Soldier,Ninth Edition,Common,5,White,True,False,True,True,b'Greg Hildebrandt',0.19
-Ballista Squad,Creature,Human Rebel,Ninth Edition,Uncommon,4,White,True,False,True,True,b'Matthew D. Wilson',0.08
-Blessed Orator,Creature,Human Cleric,Ninth Edition,Uncommon,4,White,True,False,True,True,b'Terese Nielsen',0.11
-Blinding Angel,Creature,Angel,Ninth Edition,Rare,5,White,True,False,True,True,b'Todd Lockwood',2.12
-Blinking Spirit,Creature,Spirit,Ninth Edition,Rare,4,White,True,False,True,True,b'Allen Williams',0.21
-Chastise,Instant,None,Ninth Edition,Uncommon,4,White,True,False,True,True,b'Carl Critchlow',0.12
-Circle of Protection: Black,Enchantment,None,Ninth Edition,Uncommon,2,White,True,False,True,True,b'Christopher Rush',0.09
-Circle of Protection: Red,Enchantment,None,Ninth Edition,Uncommon,2,White,True,False,True,True,b'Christopher Rush',0.36
-Crossbow Infantry,Creature,Human Soldier Archer,Ninth Edition,Common,2,White,True,False,True,True,b'James Bernardin',0.19
-Demystify,Instant,None,Ninth Edition,Common,1,White,True,False,True,True,b'Christopher Rush',0.07
-Foot Soldiers,Creature,Human Soldier,Ninth Edition,Common,4,White,True,False,True,True,b'Kev Walker',0.06
-Gift of Estates,Sorcery,None,Ninth Edition,Uncommon,2,White,True,False,True,True,b'Hugh Jamieson',3.06
-Glorious Anthem,Enchantment,None,Ninth Edition,Rare,3,White,True,False,True,True,b'Kev Walker',0.91
-Glory Seeker,Creature,Human Soldier,Ninth Edition,Common,2,White,True,False,True,True,b'Dave Dorman',0.04
-Holy Day,Instant,None,Ninth Edition,Common,1,White,True,False,True,True,b'Pete Venters',0.23
-Holy Strength,Enchantment,Aura,Ninth Edition,Common,1,White,True,False,True,True,b'Scott M. Fischer',0.06
-Honor Guard,Creature,Human Soldier,Ninth Edition,Common,1,White,True,False,True,True,b'Mark Zug',0.06
-Infantry Veteran,Creature,Human Soldier,Ninth Edition,Common,1,White,True,False,True,True,b'Christopher Rush',0.05
-Inspirit,Instant,None,Ninth Edition,Uncommon,3,White,True,False,True,True,b'Simon Bisley',0.09
-Ivory Mask,Enchantment,None,Ninth Edition,Rare,4,White,True,False,True,True,b'Glen Angus',0.49
-Kami of Old Stone,Creature,Spirit,Ninth Edition,Uncommon,4,White,True,False,True,True,b'Stephen Tappin',0.24
-Leonin Skyhunter,Creature,Cat Knight,Ninth Edition,Uncommon,2,White,True,False,True,True,b'Kev Walker',0.22
-Marble Titan,Creature,Giant,Ninth Edition,Rare,4,White,True,False,True,True,b'Brom',3.09
-Master Decoy,Creature,Human Soldier,Ninth Edition,Common,2,White,True,False,True,True,b'Ben Thompson',0.07
-Master Healer,Creature,Human Cleric,Ninth Edition,Rare,5,White,True,False,True,True,b'Adam Rex',0.1
-Mending Hands,Instant,None,Ninth Edition,Common,1,White,True,False,True,True,b'Douglas Shuler',0.06
-Oracle's Attendants,Creature,Human Soldier,Ninth Edition,Rare,4,White,True,False,True,True,b'Dany Orizio',0.09
-Pacifism,Enchantment,Aura,Ninth Edition,Common,2,White,True,True,True,True,b'Robert Bliss',0.06
-Paladin en-Vec,Creature,Human Knight,Ninth Edition,Rare,3,White,True,False,True,True,b'Simon Bisley',0.69
-Peace of Mind,Enchantment,None,Ninth Edition,Uncommon,2,White,True,False,True,True,b'Randy Elliott',0.1
-Pegasus Charger,Creature,Pegasus,Ninth Edition,Common,3,White,True,False,True,True,b'Val Mayerik',0.09
-Reverse Damage,Instant,None,Ninth Edition,Rare,3,White,True,False,True,True,b'Thomas Gianni',0.44
-Righteousness,Instant,None,Ninth Edition,Rare,1,White,True,True,True,True,b'Mike Dringenberg',0.24
-Sacred Ground,Enchantment,None,Ninth Edition,Rare,2,White,True,False,True,True,b'Gary Ruddell',0.43
-Sacred Nectar,Sorcery,None,Ninth Edition,Common,2,White,True,False,True,True,b'Janine Johnston',0.05
-Samite Healer,Creature,Human Cleric,Ninth Edition,Common,2,White,True,False,True,True,b'Anson Maddocks',0.04
-Sanctum Guardian,Creature,Human Cleric,Ninth Edition,Uncommon,3,White,True,False,True,True,b'Donato Giancola',0.09
-Savannah Lions,Creature,Cat,Ninth Edition,Rare,1,White,True,False,True,True,b'Carl Critchlow',0.5
-Seasoned Marshal,Creature,Human Soldier,Ninth Edition,Uncommon,4,White,True,False,True,True,b'Matthew D. Wilson',0.03
-Serra Angel,Creature,Angel,Ninth Edition,Rare,5,White,True,False,True,True,b'Greg Staples',0.21
-Serra's Blessing,Enchantment,None,Ninth Edition,Uncommon,2,White,True,False,True,True,b'Rebecca Guay',0.46
-Skyhunter Prowler,Creature,Cat Knight,Ninth Edition,Common,3,White,True,False,True,True,b'Vance Kovacs',0.07
-Soul Warden,Creature,Human Cleric,Ninth Edition,Uncommon,1,White,True,False,True,True,b'Randy Gallegos',0.59
-Spirit Link,Enchantment,Aura,Ninth Edition,Uncommon,1,White,True,False,True,True,b'Kev Walker',0.88
-Story Circle,Enchantment,None,Ninth Edition,Rare,3,White,True,False,True,True,b'Alan Pollack',0.68
-Suntail Hawk,Creature,Bird,Ninth Edition,Common,1,White,True,False,True,True,b'Heather Hudson',0.05
-Tempest of Light,Instant,None,Ninth Edition,Uncommon,3,White,True,False,True,True,b'Wayne England',0.11
-Venerable Monk,Creature,Human Monk Cleric,Ninth Edition,Common,3,White,True,False,True,True,b'D. Alexander Gregory',0.02
-Veteran Cavalier,Creature,Human Knight,Ninth Edition,Common,2,White,True,False,True,True,b'rk post',0.08
-Warrior's Honor,Instant,None,Ninth Edition,Common,3,White,True,False,True,True,b'D. Alexander Gregory',0.09
-Weathered Wayfarer,Creature,Human Nomad Cleric,Ninth Edition,Rare,1,White,True,False,True,True,b'Greg Hildebrandt',10.55
-Worship,Enchantment,None,Ninth Edition,Rare,4,White,True,False,True,True,b'Mark Zug',1.73
-Wrath of God,Sorcery,None,Ninth Edition,Rare,4,White,True,False,True,True,b'Kev Walker',6.95
-Zealous Inquisitor,Creature,Human Cleric,Ninth Edition,Uncommon,3,White,True,False,True,True,b'Wayne England',0.05
-Air Elemental,Creature,Elemental,Ninth Edition,Uncommon,5,Blue,True,True,True,True,b'Nick Percival',0.06
-Annex,Enchantment,Aura,Ninth Edition,Uncommon,4,Blue,True,False,True,True,b'John Avon',0.3
-Archivist,Creature,Human Wizard,Ninth Edition,Rare,4,Blue,True,False,True,True,b'Donato Giancola',0.27
-Aven Fisher,Creature,Bird Soldier,Ninth Edition,Common,4,Blue,True,False,True,True,b'Christopher Moeller',0.07
-Aven Windreader,Creature,Bird Soldier Wizard,Ninth Edition,Common,5,Blue,True,False,True,True,b'Greg Hildebrandt',0.02
-Azure Drake,Creature,Drake,Ninth Edition,Uncommon,4,Blue,True,False,True,True,b'Janine Johnston',0.04
-Baleful Stare,Sorcery,None,Ninth Edition,Uncommon,3,Blue,True,False,True,True,b'Randy Gallegos',0.1
-Battle of Wits,Enchantment,None,Ninth Edition,Rare,5,Blue,True,False,True,True,"b'Edward P. Beard, Jr.'",0.24
-Boomerang,Instant,None,Ninth Edition,Common,2,Blue,True,False,True,True,b'Arnie Swekel',0.2
-Clone,Creature,Shapeshifter,Ninth Edition,Rare,4,Blue,True,False,True,True,b'Kev Walker',0.47
-Confiscate,Enchantment,Aura,Ninth Edition,Uncommon,6,Blue,True,False,True,True,b'Adam Rex',0.25
-Counsel of the Soratami,Sorcery,None,Ninth Edition,Common,3,Blue,True,False,True,True,b'Randy Gallegos',0.11
-Cowardice,Enchantment,None,Ninth Edition,Rare,5,Blue,True,False,True,True,b'Michael Sutfin',0.34
-Crafty Pathmage,Creature,Human Wizard,Ninth Edition,Common,3,Blue,True,False,True,True,b'Wayne England',0.07
-Daring Apprentice,Creature,Human Wizard,Ninth Edition,Rare,3,Blue,True,False,True,True,b'Dany Orizio',0.34
-Dehydration,Enchantment,Aura,Ninth Edition,Common,4,Blue,True,False,True,True,b'Arnie Swekel',0.04
-Dream Prowler,Creature,Illusion,Ninth Edition,Uncommon,4,Blue,True,False,True,True,b'Matt Cavotta',0.08
-Evacuation,Instant,None,Ninth Edition,Rare,5,Blue,True,False,True,True,b'Rob Alexander',5.04
-Exhaustion,Sorcery,None,Ninth Edition,Uncommon,3,Blue,True,False,True,True,b'Paolo Parente',0.66
-Fishliver Oil,Enchantment,Aura,Ninth Edition,Common,2,Blue,True,False,True,True,b'Ralph Horsley',0.09
-Fleeting Image,Creature,Illusion,Ninth Edition,Rare,3,Blue,True,False,True,True,b'Dave Dorman',0.29
-Flight,Enchantment,Aura,Ninth Edition,Common,1,Blue,True,False,True,True,b'Arnie Swekel',0.05
-Fugitive Wizard,Creature,Human Wizard,Ninth Edition,Common,1,Blue,True,False,True,True,b'Jim Nelson',0.09
-Horned Turtle,Creature,Turtle,Ninth Edition,Common,3,Blue,True,False,True,True,b'DiTerlizzi',0.14
-Imaginary Pet,Creature,Illusion,Ninth Edition,Rare,2,Blue,True,False,True,True,b'Christopher Rush',0.24
-Levitation,Enchantment,None,Ninth Edition,Uncommon,4,Blue,True,False,True,True,b'Heather Hudson',0.14
-Lumengrid Warden,Creature,Human Wizard,Ninth Edition,Common,2,Blue,True,False,True,True,b'Francis Tsai',0.05
-Mahamoti Djinn,Creature,Djinn,Ninth Edition,Rare,6,Blue,True,False,True,True,b'Greg Staples',0.3
-Mana Leak,Instant,None,Ninth Edition,Common,2,Blue,True,False,True,True,b'Christopher Rush',0.28
-Mind Bend,Instant,None,Ninth Edition,Rare,1,Blue,True,False,True,True,b'Tony Szczudlo',0.21
-Phantom Warrior,Creature,Illusion Warrior,Ninth Edition,Uncommon,3,Blue,True,True,True,True,b'Greg Staples',0.06
-Plagiarize,Instant,None,Ninth Edition,Rare,4,Blue,True,False,True,True,b'Jeremy Jarvis',0.18
-Polymorph,Sorcery,None,Ninth Edition,Rare,4,Blue,True,False,True,True,b'Robert Bliss',0.83
-Puppeteer,Creature,Human Wizard,Ninth Edition,Uncommon,3,Blue,True,False,True,True,b'Scott M. Fischer',0.19
-Reminisce,Sorcery,None,Ninth Edition,Uncommon,3,Blue,True,False,True,True,b'Ralph Horsley',0.11
-Remove Soul,Instant,None,Ninth Edition,Common,2,Blue,True,False,True,True,b'Adam Rex',0.15
-Rewind,Instant,None,Ninth Edition,Uncommon,4,Blue,True,False,True,True,b'Dermot Power',0.38
-Sage Aven,Creature,Bird Wizard,Ninth Edition,Common,4,Blue,True,False,True,True,b'Randy Gallegos',0.04
-Sea Monster,Creature,Serpent,Ninth Edition,Common,6,Blue,True,False,True,True,b'Daniel Gelon',0.08
-Sea's Claim,Enchantment,Aura,Ninth Edition,Common,1,Blue,True,False,True,True,b'Thomas Gianni',0.31
-Sift,Sorcery,None,Ninth Edition,Common,4,Blue,True,False,True,True,b'Jeremy Jarvis',0.05
-Sleight of Hand,Sorcery,None,Ninth Edition,Common,1,Blue,True,False,True,True,b'Jim Murray',1.26
-Storm Crow,Creature,Bird,Ninth Edition,Common,2,Blue,True,False,True,True,b'John Matson',0.15
-Telepathy,Enchantment,None,Ninth Edition,Uncommon,1,Blue,True,False,True,True,b'Matthew D. Wilson',0.31
-Temporal Adept,Creature,Human Wizard,Ninth Edition,Rare,3,Blue,True,False,True,True,b'Mark Tedin',0.44
-Thieving Magpie,Creature,Bird,Ninth Edition,Uncommon,4,Blue,True,False,True,True,b'Una Fricker',0.1
-Thought Courier,Creature,Human Wizard,Ninth Edition,Uncommon,2,Blue,True,False,True,True,b'Stephen Tappin',0.24
-Tidal Kraken,Creature,Kraken,Ninth Edition,Rare,8,Blue,True,False,True,True,b'Christopher Moeller',0.73
-Tidings,Sorcery,None,Ninth Edition,Uncommon,5,Blue,True,False,True,True,b'Pete Venters',0.27
-Time Ebb,Sorcery,None,Ninth Edition,Common,3,Blue,True,False,True,True,b'Thomas M. Baxa',0.05
-Trade Routes,Enchantment,None,Ninth Edition,Rare,2,Blue,True,False,True,True,b'Matt Cavotta',2.85
-Traumatize,Sorcery,None,Ninth Edition,Rare,5,Blue,True,False,True,True,b'Greg Staples',1.81
-Treasure Trove,Enchantment,None,Ninth Edition,Uncommon,4,Blue,True,False,True,True,b'Brian Despain',0.11
-Wanderguard Sentry,Creature,Drone,Ninth Edition,Common,5,Blue,True,False,True,True,b'Luca Zontini',0.05
-Wind Drake,Creature,Drake,Ninth Edition,Common,3,Blue,True,False,True,True,b'Tom W\xc3\xa4nerstrand',0.23
-Withering Gaze,Sorcery,None,Ninth Edition,Uncommon,3,Blue,True,False,True,True,b'Randy Gallegos',0.16
-Zur's Weirding,Enchantment,None,Ninth Edition,Rare,4,Blue,True,False,True,True,b'rk post',0.81
-Blackmail,Sorcery,None,Ninth Edition,Uncommon,1,Black,True,False,True,True,b'Christopher Moeller',1.0
-Bog Imp,Creature,Imp,Ninth Edition,Common,2,Black,True,False,True,True,b'Carl Critchlow',0.09
-Bog Wraith,Creature,Wraith,Ninth Edition,Uncommon,4,Black,True,False,True,True,b'Ted Naifeh',0.04
-Coercion,Sorcery,None,Ninth Edition,Common,3,Black,True,False,True,True,b'DiTerlizzi',0.05
-Consume Spirit,Sorcery,None,Ninth Edition,Uncommon,3,Black,True,False,True,True,b'Matt Thompson',0.14
-Contaminated Bond,Enchantment,Aura,Ninth Edition,Common,2,Black,True,False,True,True,b'Thomas M. Baxa',0.11
-Cruel Edict,Sorcery,None,Ninth Edition,Uncommon,2,Black,True,False,True,True,b'Michael Sutfin',0.28
-Dark Banishing,Instant,None,Ninth Edition,Common,3,Black,True,False,True,True,b'Dermot Power',0.05
-Death Pits of Rath,Enchantment,None,Ninth Edition,Rare,5,Black,True,False,True,True,b'Greg Hildebrandt',0.48
-Deathgazer,Creature,Lizard,Ninth Edition,Uncommon,4,Black,True,False,True,True,b'Donato Giancola',0.07
-Diabolic Tutor,Sorcery,None,Ninth Edition,Uncommon,4,Black,True,False,True,True,b'Rick Farrell',0.53
-Drudge Skeletons,Creature,Skeleton,Ninth Edition,Uncommon,2,Black,True,False,True,True,b'Jim Nelson',0.05
-Enfeeblement,Enchantment,Aura,Ninth Edition,Common,2,Black,True,False,True,True,b'John Bolton',0.05
-Execute,Instant,None,Ninth Edition,Uncommon,3,Black,True,False,True,True,b'Gary Ruddell',0.05
-Fear,Enchantment,Aura,Ninth Edition,Common,2,Black,True,False,True,True,b'Adam Rex',0.08
-Festering Goblin,Creature,Zombie Goblin,Ninth Edition,Common,1,Black,True,False,True,True,b'Thomas M. Baxa',0.07
-Final Punishment,Sorcery,None,Ninth Edition,Rare,5,Black,True,False,True,True,b'Matt Thompson',0.19
-Foul Imp,Creature,Imp,Ninth Edition,Common,2,Black,True,False,True,True,b'Kev Walker',0.07
-Giant Cockroach,Creature,Insect,Ninth Edition,Common,4,Black,True,False,True,True,b'Heather Hudson',0.05
-Gluttonous Zombie,Creature,Zombie,Ninth Edition,Uncommon,5,Black,True,False,True,True,b'Thomas M. Baxa',0.1
-Grave Pact,Enchantment,None,Ninth Edition,Rare,4,Black,True,False,True,True,b'Puddnhead',15.88
-Gravedigger,Creature,Zombie,Ninth Edition,Common,4,Black,True,True,True,True,b'Dermot Power',0.07
-Hell's Caretaker,Creature,Horror,Ninth Edition,Rare,4,Black,True,False,True,True,b'Greg Staples',1.29
-Highway Robber,Creature,Human Mercenary,Ninth Edition,Common,4,Black,True,False,True,True,b'Kev Walker',0.05
-Hollow Dogs,Creature,Zombie Hound,Ninth Edition,Common,5,Black,True,False,True,True,b'Jeff Miracola',0.07
-Horror of Horrors,Enchantment,None,Ninth Edition,Uncommon,5,Black,True,False,True,True,b'Simon Bisley',0.12
-Hypnotic Specter,Creature,Specter,Ninth Edition,Rare,3,Black,True,False,True,True,b'Greg Staples',1.83
-Looming Shade,Creature,Shade,Ninth Edition,Common,3,Black,True,False,True,True,b'Kev Walker',0.03
-Lord of the Undead,Creature,Zombie,Ninth Edition,Rare,3,Black,True,False,True,True,b'Brom',13.53
-Megrim,Enchantment,None,Ninth Edition,Uncommon,3,Black,True,False,True,True,b'Nick Percival',0.33
-Mind Rot,Sorcery,None,Ninth Edition,Common,3,Black,True,True,True,True,b'Steve Luke',0.05
-Mindslicer,Creature,Horror,Ninth Edition,Rare,4,Black,True,False,True,True,b'Kev Walker',9.67
-Mortivore,Creature,Lhurgoyf,Ninth Edition,Rare,4,Black,True,False,True,True,b'Anthony S. Waters',2.22
-Nantuko Husk,Creature,Zombie Insect,Ninth Edition,Uncommon,3,Black,True,False,True,True,b'Carl Critchlow',0.23
-Nekrataal,Creature,Human Assassin,Ninth Edition,Uncommon,4,Black,True,False,True,True,b'Adrian Smith',0.15
-Nightmare,Creature,Nightmare Horse,Ninth Edition,Rare,6,Black,True,False,True,True,b'Carl Critchlow',0.18
-Persecute,Sorcery,None,Ninth Edition,Rare,4,Black,True,False,True,True,b'D. Alexander Gregory',0.48
-Phyrexian Arena,Enchantment,None,Ninth Edition,Rare,3,Black,True,False,True,True,b'Carl Critchlow',9.94
-Phyrexian Gargantua,Creature,Horror,Ninth Edition,Uncommon,6,Black,True,False,True,True,b'Carl Critchlow',0.1
-Plague Beetle,Creature,Insect,Ninth Edition,Common,1,Black,True,False,True,True,b'Tom Fleming',0.05
-Plague Wind,Sorcery,None,Ninth Edition,Rare,9,Black,True,False,True,True,b'Alan Pollack',1.59
-Raise Dead,Sorcery,None,Ninth Edition,Common,1,Black,True,False,True,True,b'Carl Critchlow',0.14
-Ravenous Rats,Creature,Rat,Ninth Edition,Common,2,Black,True,False,True,True,b'Carl Critchlow',0.1
-Razortooth Rats,Creature,Rat,Ninth Edition,Common,3,Black,True,False,True,True,b'Carl Critchlow',0.15
-Royal Assassin,Creature,Human Assassin,Ninth Edition,Rare,3,Black,True,False,True,True,b'Mark Zug',0.86
-Scathe Zombies,Creature,Zombie,Ninth Edition,Common,3,Black,True,False,True,True,b'Kev Walker',0.04
-Sengir Vampire,Creature,Vampire,Ninth Edition,Rare,5,Black,True,False,True,True,b'Kev Walker',0.15
-Serpent Warrior,Creature,Snake Warrior,Ninth Edition,Common,3,Black,True,False,True,True,b'Ron Spencer',0.04
-Slay,Instant,None,Ninth Edition,Uncommon,3,Black,True,False,True,True,b'Ben Thompson',0.05
-Soul Feast,Sorcery,None,Ninth Edition,Uncommon,5,Black,True,False,True,True,b'Adam Rex',0.02
-Spineless Thug,Creature,Zombie Mercenary,Ninth Edition,Common,2,Black,True,False,True,True,b'Matthew D. Wilson',0.1
-Swarm of Rats,Creature,Rat,Ninth Edition,Uncommon,2,Black,True,False,True,True,b'Kev Walker',1.23
-Underworld Dreams,Enchantment,None,Ninth Edition,Rare,3,Black,True,True,True,True,b'Carl Critchlow',3.18
-Unholy Strength,Enchantment,Aura,Ninth Edition,Common,1,Black,True,False,True,True,b'Puddnhead',0.07
-Will-o'-the-Wisp,Creature,Spirit,Ninth Edition,Rare,1,Black,True,False,True,True,b'Rob Alexander',0.3
-Yawgmoth Demon,Creature,Demon,Ninth Edition,Rare,6,Black,True,False,True,True,b'Pete Venters',0.38
-Zombify,Sorcery,None,Ninth Edition,Uncommon,4,Black,True,False,True,True,b'Mark Romanoski',0.25
-Anaba Shaman,Creature,Minotaur Shaman,Ninth Edition,Common,4,Red,True,False,True,True,b'Simon Bisley',0.08
-Anarchist,Creature,Human Wizard,Ninth Edition,Uncommon,5,Red,True,False,True,True,b'Brom',0.21
-Balduvian Barbarians,Creature,Human Barbarian,Ninth Edition,Common,3,Red,True,False,True,True,b'Jim Nelson',0.05
-Blaze,Sorcery,None,Ninth Edition,Uncommon,2,Red,True,False,True,True,b'Alex Horley-Orlandelli',0.1
-Blood Moon,Enchantment,None,Ninth Edition,Rare,3,Red,True,False,True,True,b'Franz Vohwinkel',11.66
-Bloodfire Colossus,Creature,Giant,Ninth Edition,Rare,8,Red,True,False,True,True,b'Greg Staples',0.3
-Boiling Seas,Sorcery,None,Ninth Edition,Uncommon,4,Red,True,False,True,True,b'Tom W\xc3\xa4nerstrand',0.36
-Demolish,Sorcery,None,Ninth Edition,Uncommon,4,Red,True,True,True,True,b'Gary Ruddell',0.03
-Enrage,Instant,None,Ninth Edition,Uncommon,2,Red,True,False,True,True,b'Justin Sweet',0.12
-Firebreathing,Enchantment,Aura,Ninth Edition,Common,1,Red,True,False,True,True,b'Mike Kerr',0.05
-Flame Wave,Sorcery,None,Ninth Edition,Uncommon,7,Red,True,False,True,True,b'Donato Giancola',0.17
-Flashfires,Sorcery,None,Ninth Edition,Uncommon,4,Red,True,False,True,True,b'Randy Gallegos',0.05
-Flowstone Crusher,Creature,Beast,Ninth Edition,Uncommon,5,Red,True,False,True,True,b'Ben Thompson',0.08
-Flowstone Shambler,Creature,Beast,Ninth Edition,Common,3,Red,True,False,True,True,b'Jim Nelson',0.2
-Flowstone Slide,Sorcery,None,Ninth Edition,Rare,4,Red,True,False,True,True,b'Chippy',0.15
-Form of the Dragon,Enchantment,None,Ninth Edition,Rare,7,Red,True,False,True,True,b'Carl Critchlow',0.46
-Furnace of Rath,Enchantment,None,Ninth Edition,Rare,4,Red,True,False,True,True,b'John Matson',3.46
-Goblin Balloon Brigade,Creature,Goblin Warrior,Ninth Edition,Uncommon,1,Red,True,False,True,True,b'Lars Grant-West',0.12
-Goblin Brigand,Creature,Goblin Warrior,Ninth Edition,Common,2,Red,True,False,True,True,b'Arnie Swekel',0.02
-Goblin Chariot,Creature,Goblin Warrior,Ninth Edition,Common,3,Red,True,False,True,True,b'John Howe',0.05
-Goblin King,Creature,Goblin,Ninth Edition,Rare,3,Red,True,False,True,True,b'Ron Spears',2.87
-Goblin Mountaineer,Creature,Goblin Scout,Ninth Edition,Common,1,Red,True,False,True,True,b'Pete Venters',0.08
-Goblin Piker,Creature,Goblin Warrior,Ninth Edition,Common,2,Red,True,False,True,True,b'DiTerlizzi',0.05
-Goblin Sky Raider,Creature,Goblin Warrior,Ninth Edition,Common,3,Red,True,False,True,True,b'Daren Bader',0.11
-Guerrilla Tactics,Instant,None,Ninth Edition,Uncommon,2,Red,True,False,True,True,b'Ron Spencer',0.3
-Hill Giant,Creature,Giant,Ninth Edition,Common,4,Red,True,False,True,True,b'Dany Orizio',0.05
-Karplusan Yeti,Creature,Yeti,Ninth Edition,Rare,5,Red,True,False,True,True,b'Wayne England',0.5
-Kird Ape,Creature,Ape,Ninth Edition,Uncommon,1,Red,True,False,True,True,b'Terese Nielsen',0.18
-Lava Axe,Sorcery,None,Ninth Edition,Common,5,Red,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.04
-Lightning Elemental,Creature,Elemental,Ninth Edition,Common,4,Red,True,False,True,True,b'Kev Walker',0.06
-Magnivore,Creature,Lhurgoyf,Ninth Edition,Rare,4,Red,True,False,True,True,b'Carl Critchlow',0.37
-Mana Clash,Sorcery,None,Ninth Edition,Rare,1,Red,True,False,True,True,b'Ron Spencer',0.4
-Mogg Sentry,Creature,Goblin Warrior,Ninth Edition,Rare,1,Red,True,False,True,True,b'Greg Staples',0.34
-Ogre Taskmaster,Creature,Ogre,Ninth Edition,Uncommon,4,Red,True,False,True,True,b'Dany Orizio',0.03
-Orcish Artillery,Creature,Orc Warrior,Ninth Edition,Uncommon,3,Red,True,False,True,True,b'Jeff Miracola',0.11
-Panic Attack,Sorcery,None,Ninth Edition,Common,3,Red,True,False,True,True,b'Mike Ploog',0.05
-Pyroclasm,Sorcery,None,Ninth Edition,Uncommon,2,Red,True,False,True,True,b'John Avon',0.21
-Raging Goblin,Creature,Goblin Berserker,Ninth Edition,Common,1,Red,True,False,True,True,b'Jeff Miracola',0.08
-Rathi Dragon,Creature,Dragon,Ninth Edition,Rare,4,Red,True,False,True,True,b'Christopher Rush',0.36
-Reflexes,Enchantment,Aura,Ninth Edition,Common,1,Red,True,False,True,True,b'Donato Giancola',0.06
-Relentless Assault,Sorcery,None,Ninth Edition,Rare,4,Red,True,False,True,True,b'Greg Hildebrandt',0.85
-Rogue Kavu,Creature,Kavu,Ninth Edition,Common,2,Red,True,False,True,True,b'Darrell Riche',0.05
-Rukh Egg,Creature,Bird Egg,Ninth Edition,Rare,4,Red,True,False,True,True,b'Mark Zug',0.34
-Sandstone Warrior,Creature,Human Soldier Warrior,Ninth Edition,Common,4,Red,True,False,True,True,b'Lars Grant-West',0.07
-Seething Song,Instant,None,Ninth Edition,Common,3,Red,False,False,True,True,b'Martina Pilcerova',0.85
-Shard Phoenix,Creature,Phoenix,Ninth Edition,Rare,5,Red,True,False,True,True,b'Paolo Parente',0.25
-Shatter,Instant,None,Ninth Edition,Common,2,Red,True,False,True,True,b'Jason Alexander Behnke',0.1
-Shivan Dragon,Creature,Dragon,Ninth Edition,Rare,6,Red,True,True,True,True,b'Donato Giancola',0.1
-Shock,Instant,None,Ninth Edition,Common,1,Red,True,True,True,True,b'Randy Gallegos',0.15
-Stone Rain,Sorcery,None,Ninth Edition,Common,3,Red,True,False,True,True,b'John Matson',0.13
-Sudden Impact,Instant,None,Ninth Edition,Uncommon,4,Red,True,False,True,True,b'Simon Bisley',0.09
-Threaten,Sorcery,None,Ninth Edition,Uncommon,3,Red,True,False,True,True,b'Pete Venters',0.23
-Thundermare,Creature,Elemental Horse,Ninth Edition,Rare,6,Red,True,False,True,True,b'Bob Eggleton',0.55
-Viashino Sandstalker,Creature,Viashino Warrior,Ninth Edition,Uncommon,3,Red,True,False,True,True,b'Andrew Robinson',0.16
-Volcanic Hammer,Sorcery,None,Ninth Edition,Common,2,Red,True,False,True,True,b'Ben Thompson',0.05
-Whip Sergeant,Creature,Human Soldier,Ninth Edition,Uncommon,3,Red,True,False,True,True,b'Paolo Parente',0.08
-Wildfire,Sorcery,None,Ninth Edition,Rare,6,Red,True,False,True,True,b'Carl Critchlow',0.47
-Anaconda,Creature,Snake,Ninth Edition,Uncommon,4,Green,True,False,True,True,b'Andrew Robinson',0.1
-Ancient Silverback,Creature,Ape,Ninth Edition,Rare,6,Green,True,False,True,True,b'Scott M. Fischer',0.23
-Biorhythm,Sorcery,None,Ninth Edition,Rare,8,Green,True,False,False,True,b'Ron Spears',0.89
-Blanchwood Armor,Enchantment,Aura,Ninth Edition,Uncommon,3,Green,True,False,True,True,b'Paolo Parente',0.16
-Craw Wurm,Creature,Wurm,Ninth Edition,Common,6,Green,True,False,True,True,b'Richard Sardinha',0.19
-Creeping Mold,Sorcery,None,Ninth Edition,Uncommon,4,Green,True,False,True,True,b'Rob Alexander',0.05
-Early Harvest,Instant,None,Ninth Edition,Rare,3,Green,True,False,True,True,b'Heather Hudson',1.21
-Elvish Bard,Creature,Elf Shaman,Ninth Edition,Uncommon,5,Green,True,False,True,True,b'Rob Alexander',0.14
-Elvish Berserker,Creature,Elf Berserker,Ninth Edition,Common,1,Green,True,False,True,True,b'Paolo Parente',0.05
-Elvish Champion,Creature,Elf,Ninth Edition,Rare,3,Green,True,False,True,True,b'D. Alexander Gregory',5.19
-Elvish Piper,Creature,Elf Shaman,Ninth Edition,Rare,4,Green,True,False,True,True,b'Rebecca Guay',3.06
-Elvish Warrior,Creature,Elf Warrior,Ninth Edition,Common,2,Green,True,False,True,True,b'Christopher Moeller',0.07
-Emperor Crocodile,Creature,Crocodile,Ninth Edition,Rare,4,Green,True,False,True,True,b'Kev Walker',0.14
-Force of Nature,Creature,Elemental,Ninth Edition,Rare,6,Green,True,False,True,True,b'Greg Staples',0.23
-Giant Growth,Instant,None,Ninth Edition,Common,1,Green,True,True,True,True,b'Jim Murray',0.07
-Giant Spider,Creature,Spider,Ninth Edition,Common,4,Green,True,False,True,True,b'Randy Gallegos',0.1
-Greater Good,Enchantment,None,Ninth Edition,Rare,4,Green,True,False,True,True,b'Douglas Shuler',4.26
-Grizzly Bears,Creature,Bear,Ninth Edition,Common,2,Green,True,False,True,True,b'D. J. Cleland-Hura',0.11
-Groundskeeper,Creature,Human Druid,Ninth Edition,Uncommon,1,Green,True,False,True,True,b'Alan Rabinowitz',0.13
-Hunted Wumpus,Creature,Beast,Ninth Edition,Uncommon,4,Green,True,False,True,True,b'Thomas M. Baxa',0.08
-Kavu Climber,Creature,Kavu,Ninth Edition,Common,5,Green,True,False,True,True,b'Rob Alexander',0.05
-King Cheetah,Creature,Cat,Ninth Edition,Uncommon,4,Green,True,False,True,True,b'Terese Nielsen',0.08
-Ley Druid,Creature,Human Druid,Ninth Edition,Uncommon,3,Green,True,False,True,True,"b'Edward P. Beard, Jr.'",0.23
-Llanowar Behemoth,Creature,Elemental,Ninth Edition,Uncommon,5,Green,True,False,True,True,b'Kev Walker',0.08
-Llanowar Elves,Creature,Elf Druid,Ninth Edition,Common,1,Green,True,False,True,True,b'Kev Walker',0.22
-Maro,Creature,Elemental,Ninth Edition,Rare,4,Green,True,False,True,True,b'Stuart Griffin',0.17
-Might of Oaks,Instant,None,Ninth Edition,Rare,4,Green,True,False,True,True,b'Greg Staples',0.34
-Natural Affinity,Instant,None,Ninth Edition,Rare,3,Green,True,False,True,True,b'Pete Venters',0.63
-Natural Spring,Sorcery,None,Ninth Edition,Common,5,Green,True,False,True,True,b'Janine Johnston',0.07
-Naturalize,Instant,None,Ninth Edition,Common,2,Green,True,False,True,True,b'Jeff Miracola',0.07
-Needle Storm,Sorcery,None,Ninth Edition,Uncommon,3,Green,True,False,True,True,b'Val Mayerik',0.06
-Norwood Ranger,Creature,Elf Scout,Ninth Edition,Common,1,Green,True,False,True,True,b'Ron Spencer',0.08
-Order of the Sacred Bell,Creature,Human Monk,Ninth Edition,Common,4,Green,True,False,True,True,b'Carl Critchlow',0.05
-Overgrowth,Enchantment,Aura,Ninth Edition,Common,3,Green,True,False,True,True,b'Christopher Rush',0.32
-Rampant Growth,Sorcery,None,Ninth Edition,Common,2,Green,True,False,True,True,b'Tom Kyffin',0.33
-Reclaim,Instant,None,Ninth Edition,Common,1,Green,True,False,True,True,b'Andrew Robinson',0.2
-Regeneration,Enchantment,Aura,Ninth Edition,Uncommon,2,Green,True,False,True,True,b'Adam Rex',0.06
-River Bear,Creature,Bear,Ninth Edition,Uncommon,4,Green,True,False,True,True,b'Una Fricker',4.06
-Rootbreaker Wurm,Creature,Wurm,Ninth Edition,Uncommon,7,Green,True,False,True,True,b'Richard Kane Ferguson',0.08
-Rootwalla,Creature,Lizard,Ninth Edition,Common,3,Green,True,False,True,True,b'Roger Raupp',0.08
-Scaled Wurm,Creature,Wurm,Ninth Edition,Common,8,Green,True,False,True,True,b'Wayne England',0.17
-Seedborn Muse,Creature,Spirit,Ninth Edition,Rare,5,Green,True,False,True,True,b'Adam Rex',6.93
-Silklash Spider,Creature,Spider,Ninth Edition,Rare,5,Green,True,False,True,True,b'Iain McCaig',0.41
-Stream of Life,Sorcery,None,Ninth Edition,Uncommon,2,Green,True,False,True,True,b'Andrew Goldhawk',0.16
-Summer Bloom,Sorcery,None,Ninth Edition,Uncommon,2,Green,False,False,True,True,b'Nicola Leonard',1.34
-Trained Armodon,Creature,Elephant,Ninth Edition,Common,3,Green,True,False,True,True,b'Gary Leach',0.05
-Tree Monkey,Creature,Monkey,Ninth Edition,Common,1,Green,True,False,True,True,b'John Matson',0.1
-Treetop Bracers,Enchantment,Aura,Ninth Edition,Common,2,Green,True,False,True,True,b'Heather Hudson',0.07
-Utopia Tree,Creature,Plant,Ninth Edition,Rare,2,Green,True,False,True,True,b'Gary Ruddell',1.2
-Verdant Force,Creature,Elemental,Ninth Edition,Rare,8,Green,True,False,True,True,b'DiTerlizzi',0.27
-Verduran Enchantress,Creature,Human Druid,Ninth Edition,Rare,3,Green,True,False,True,True,b'Rob Alexander',2.49
-Viridian Shaman,Creature,Elf Shaman,Ninth Edition,Uncommon,3,Green,True,False,True,True,b'Scott M. Fischer',0.14
-Web,Enchantment,Aura,Ninth Edition,Uncommon,1,Green,True,False,True,True,b'Hugh Jamieson',0.18
-Weird Harvest,Sorcery,None,Ninth Edition,Rare,3,Green,True,False,True,True,b'Bob Petillo',0.91
-Wood Elves,Creature,Elf Scout,Ninth Edition,Common,3,Green,True,False,True,True,b'Christopher Moeller',0.71
-Yavimaya Enchantress,Creature,Human Druid,Ninth Edition,Uncommon,3,Green,True,False,True,True,b'Matthew D. Wilson',0.17
-Zodiac Monkey,Creature,Monkey,Ninth Edition,Common,2,Green,True,False,True,True,b'Richard Sardinha',0.05
-Aladdin's Ring,Artifact,None,Ninth Edition,Rare,8,Colorless,True,False,True,True,b'Dave Dorman',0.15
-Angel's Feather,Artifact,None,Ninth Edition,Uncommon,2,Colorless,True,False,True,True,b'Alan Pollack',0.07
-Beast of Burden,Artifact Creature,Golem,Ninth Edition,Rare,6,Colorless,True,False,True,True,b'Chippy',0.37
-Booby Trap,Artifact,None,Ninth Edition,Rare,6,Colorless,True,False,True,True,b'Doug Chaffee',0.32
-Bottle Gnomes,Artifact Creature,Gnome,Ninth Edition,Uncommon,3,Colorless,True,False,True,True,b'Ben Thompson',0.09
-Coat of Arms,Artifact,None,Ninth Edition,Rare,5,Colorless,True,False,True,True,b'Scott M. Fischer',9.3
-Dancing Scimitar,Artifact Creature,Spirit,Ninth Edition,Uncommon,4,Colorless,True,False,True,True,b'Ron Spears',0.11
-Defense Grid,Artifact,None,Ninth Edition,Rare,2,Colorless,True,False,True,True,b'Mark Tedin',9.8
-Demon's Horn,Artifact,None,Ninth Edition,Uncommon,2,Colorless,True,False,True,True,b'Alan Pollack',0.13
-Disrupting Scepter,Artifact,None,Ninth Edition,Rare,3,Colorless,True,False,True,True,b'Stuart Griffin',0.18
-Dragon's Claw,Artifact,None,Ninth Edition,Uncommon,2,Colorless,True,False,True,True,b'Alan Pollack',0.37
-Fellwar Stone,Artifact,None,Ninth Edition,Uncommon,2,Colorless,True,False,True,True,b'John Avon',3.39
-Howling Mine,Artifact,None,Ninth Edition,Rare,2,Colorless,True,False,True,True,b'Dana Knutson',3.33
-Icy Manipulator,Artifact,None,Ninth Edition,Uncommon,4,Colorless,True,False,True,True,b'Matt Cavotta',0.25
-Jade Statue,Artifact,None,Ninth Edition,Rare,4,Colorless,True,False,True,True,b'Jim Pavelec',0.31
-Jester's Cap,Artifact,None,Ninth Edition,Rare,4,Colorless,True,False,True,True,b'D. Alexander Gregory',2.8
-Kraken's Eye,Artifact,None,Ninth Edition,Uncommon,2,Colorless,True,False,True,True,b'Alan Pollack',0.08
-Loxodon Warhammer,Artifact,Equipment,Ninth Edition,Rare,3,Colorless,True,False,True,True,b'Jeremy Jarvis',0.97
-Millstone,Artifact,None,Ninth Edition,Rare,2,Colorless,True,False,True,True,b'John Avon',0.09
-Ornithopter,Artifact Creature,Thopter,Ninth Edition,Uncommon,0,Colorless,True,False,True,True,b'Dana Knutson',0.38
-Phyrexian Hulk,Artifact Creature,Golem,Ninth Edition,Uncommon,6,Colorless,True,False,True,True,b'Matthew D. Wilson',0.2
-Rod of Ruin,Artifact,None,Ninth Edition,Uncommon,4,Colorless,True,False,True,True,b'Eric Deschamps',0.08
-Slate of Ancestry,Artifact,None,Ninth Edition,Rare,4,Colorless,True,False,True,True,b'Corey D. Macourek',3.02
-Spellbook,Artifact,None,Ninth Edition,Uncommon,0,Colorless,True,False,True,True,b'Andrew Goldhawk',1.59
-Storage Matrix,Artifact,None,Ninth Edition,Rare,3,Colorless,True,False,True,True,b'Patrick Ho',3.54
-Tanglebloom,Artifact,None,Ninth Edition,Uncommon,1,Colorless,True,False,True,True,b'Val Mayerik',0.09
-Teferi's Puzzle Box,Artifact,None,Ninth Edition,Rare,4,Colorless,True,False,True,True,b'Donato Giancola',11.08
-Thran Golem,Artifact Creature,Golem,Ninth Edition,Rare,5,Colorless,True,False,True,True,b'Ron Spears',0.19
-Ur-Golem's Eye,Artifact,None,Ninth Edition,Uncommon,4,Colorless,True,False,True,True,b'Heather Hudson',0.3
-Vulshok Morningstar,Artifact,Equipment,Ninth Edition,Uncommon,2,Colorless,True,False,True,True,b'David Martin',0.16
-Wurm's Tooth,Artifact,None,Ninth Edition,Uncommon,2,Colorless,True,False,True,True,b'Alan Pollack',0.04
-Adarkar Wastes,Land,None,Ninth Edition,Rare,0,Colorless,True,False,True,True,b'John Avon',7.0
-Battlefield Forge,Land,None,Ninth Edition,Rare,0,Colorless,True,False,True,True,b'Darrell Riche',1.9
-Brushland,Land,None,Ninth Edition,Rare,0,Colorless,True,False,True,True,b'Scott Bailey',6.14
-Caves of Koilos,Land,None,Ninth Edition,Rare,0,Colorless,True,False,True,True,b'Jim Nelson',1.46
-Karplusan Forest,Land,None,Ninth Edition,Rare,0,Colorless,True,False,True,True,b'John Avon',3.81
-Llanowar Wastes,Land,None,Ninth Edition,Rare,0,Colorless,True,False,True,True,b'Rob Alexander',1.78
-Quicksand,Land,None,Ninth Edition,Uncommon,0,Colorless,True,False,True,True,b'Roger Raupp',0.11
-Shivan Reef,Land,None,Ninth Edition,Rare,0,Colorless,True,False,True,True,b'Rob Alexander',4.26
-Sulfurous Springs,Land,None,Ninth Edition,Rare,0,Colorless,True,False,True,True,b'Rob Alexander',7.91
-Underground River,Land,None,Ninth Edition,Rare,0,Colorless,True,False,True,True,b'Andrew Goldhawk',4.35
-Urza's Mine,Land,Urza’s Mine,Ninth Edition,Uncommon,0,Colorless,True,False,True,True,b'Brian Sn\xc3\xb5ddy',3.96
-Urza's Power Plant,Land,Urza’s Power-Plant,Ninth Edition,Uncommon,0,Colorless,True,False,True,True,b'Brian Sn\xc3\xb5ddy',4.48
-Urza's Tower,Land,Urza’s Tower,Ninth Edition,Uncommon,0,Colorless,True,False,True,True,b'Brian Sn\xc3\xb5ddy',4.41
-Yavimaya Coast,Land,None,Ninth Edition,Rare,0,Colorless,True,False,True,True,b'Anthony S. Waters',2.2
-Plains,Basic Land,Plains,Ninth Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.12
-Plains,Basic Land,Plains,Ninth Edition,Common,0,Colorless,True,True,True,True,b'Matthew Mitchell',0.12
-Plains,Basic Land,Plains,Ninth Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.09
-Plains,Basic Land,Plains,Ninth Edition,Common,0,Colorless,True,True,True,True,b'Fred Fields',0.22
-Island,Basic Land,Island,Ninth Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.23
-Island,Basic Land,Island,Ninth Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.18
-Island,Basic Land,Island,Ninth Edition,Common,0,Colorless,True,True,True,True,b'Tony Szczudlo',0.27
-Island,Basic Land,Island,Ninth Edition,Common,0,Colorless,True,True,True,True,b'Scott Bailey',0.16
-Swamp,Basic Land,Swamp,Ninth Edition,Common,0,Colorless,True,True,True,True,b'Bob Eggleton',0.36
-Swamp,Basic Land,Swamp,Ninth Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.41
-Swamp,Basic Land,Swamp,Ninth Edition,Common,0,Colorless,True,True,True,True,b'Dan Frazier',0.26
-Swamp,Basic Land,Swamp,Ninth Edition,Common,0,Colorless,True,True,True,True,b'Larry Elmore',0.18
-Mountain,Basic Land,Mountain,Ninth Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.25
-Mountain,Basic Land,Mountain,Ninth Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.13
-Mountain,Basic Land,Mountain,Ninth Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.25
-Mountain,Basic Land,Mountain,Ninth Edition,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.24
-Forest,Basic Land,Forest,Ninth Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.34
-Forest,Basic Land,Forest,Ninth Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.37
-Forest,Basic Land,Forest,Ninth Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.2
-Forest,Basic Land,Forest,Ninth Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.2
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Angel of Mercy,Creature,Angel,Ninth Edition,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.19,False
+Angelic Blessing,Sorcery,None,Ninth Edition,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.07,False
+Aven Cloudchaser,Creature,Bird Soldier,Ninth Edition,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Sweet',0.16,False
+Aven Flock,Creature,Bird Soldier,Ninth Edition,Common,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Hildebrandt',0.19,False
+Ballista Squad,Creature,Human Rebel,Ninth Edition,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Matthew D. Wilson',0.07,False
+Blessed Orator,Creature,Human Cleric,Ninth Edition,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.14,False
+Blinding Angel,Creature,Angel,Ninth Edition,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Todd Lockwood',1.75,False
+Blinking Spirit,Creature,Spirit,Ninth Edition,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Allen Williams',0.22,False
+Chastise,Instant,None,Ninth Edition,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.15,False
+Circle of Protection: Black,Enchantment,None,Ninth Edition,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.22,False
+Circle of Protection: Red,Enchantment,None,Ninth Edition,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.35,False
+Crossbow Infantry,Creature,Human Soldier Archer,Ninth Edition,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'James Bernardin',0.05,False
+Demystify,Instant,None,Ninth Edition,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.07,False
+Foot Soldiers,Creature,Human Soldier,Ninth Edition,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.06,False
+Gift of Estates,Sorcery,None,Ninth Edition,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Hugh Jamieson',3.02,False
+Glorious Anthem,Enchantment,None,Ninth Edition,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.88,False
+Glory Seeker,Creature,Human Soldier,Ninth Edition,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Dorman',0.04,False
+Holy Day,Instant,None,Ninth Edition,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.22,False
+Holy Strength,Enchantment,Aura,Ninth Edition,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',0.11,False
+Honor Guard,Creature,Human Soldier,Ninth Edition,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.06,False
+Infantry Veteran,Creature,Human Soldier,Ninth Edition,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.05,False
+Inspirit,Instant,None,Ninth Edition,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Simon Bisley',0.1,False
+Ivory Mask,Enchantment,None,Ninth Edition,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Glen Angus',0.53,False
+Kami of Old Stone,Creature,Spirit,Ninth Edition,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Stephen Tappin',0.24,False
+Leonin Skyhunter,Creature,Cat Knight,Ninth Edition,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.23,False
+Marble Titan,Creature,Giant,Ninth Edition,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Brom',3.3,False
+Master Decoy,Creature,Human Soldier,Ninth Edition,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Ben Thompson',0.07,False
+Master Healer,Creature,Human Cleric,Ninth Edition,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',0.13,False
+Mending Hands,Instant,None,Ninth Edition,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.06,False
+Oracle's Attendants,Creature,Human Soldier,Ninth Edition,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dany Orizio',0.19,False
+Pacifism,Enchantment,Aura,Ninth Edition,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Robert Bliss',0.06,False
+Paladin en-Vec,Creature,Human Knight,Ninth Edition,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Simon Bisley',0.7,False
+Peace of Mind,Enchantment,None,Ninth Edition,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Elliott',0.08,False
+Pegasus Charger,Creature,Pegasus,Ninth Edition,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Val Mayerik',0.11,False
+Reverse Damage,Instant,None,Ninth Edition,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Thomas Gianni',0.47,False
+Righteousness,Instant,None,Ninth Edition,Rare,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Mike Dringenberg',0.26,False
+Sacred Ground,Enchantment,None,Ninth Edition,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Gary Ruddell',0.44,False
+Sacred Nectar,Sorcery,None,Ninth Edition,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Janine Johnston',0.05,False
+Samite Healer,Creature,Human Cleric,Ninth Edition,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.04,False
+Sanctum Guardian,Creature,Human Cleric,Ninth Edition,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.09,False
+Savannah Lions,Creature,Cat,Ninth Edition,Rare,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.5,False
+Seasoned Marshal,Creature,Human Soldier,Ninth Edition,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Matthew D. Wilson',0.03,False
+Serra Angel,Creature,Angel,Ninth Edition,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.32,False
+Serra's Blessing,Enchantment,None,Ninth Edition,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',0.53,False
+Skyhunter Prowler,Creature,Cat Knight,Ninth Edition,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Vance Kovacs',0.12,False
+Soul Warden,Creature,Human Cleric,Ninth Edition,Uncommon,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.59,False
+Spirit Link,Enchantment,Aura,Ninth Edition,Uncommon,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.69,False
+Story Circle,Enchantment,None,Ninth Edition,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.68,False
+Suntail Hawk,Creature,Bird,Ninth Edition,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.04,False
+Tempest of Light,Instant,None,Ninth Edition,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne England',0.23,False
+Venerable Monk,Creature,Human Monk Cleric,Ninth Edition,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'D. Alexander Gregory',0.02,False
+Veteran Cavalier,Creature,Human Knight,Ninth Edition,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',0.09,False
+Warrior's Honor,Instant,None,Ninth Edition,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'D. Alexander Gregory',0.09,False
+Weathered Wayfarer,Creature,Human Nomad Cleric,Ninth Edition,Rare,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Hildebrandt',9.35,False
+Worship,Enchantment,None,Ninth Edition,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',1.54,False
+Wrath of God,Sorcery,None,Ninth Edition,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',7.55,False
+Zealous Inquisitor,Creature,Human Cleric,Ninth Edition,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne England',0.1,False
+Air Elemental,Creature,Elemental,Ninth Edition,Uncommon,5,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Nick Percival',0.06,False
+Annex,Enchantment,Aura,Ninth Edition,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.29,False
+Archivist,Creature,Human Wizard,Ninth Edition,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.27,False
+Aven Fisher,Creature,Bird Soldier,Ninth Edition,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.06,False
+Aven Windreader,Creature,Bird Soldier Wizard,Ninth Edition,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Hildebrandt',0.05,False
+Azure Drake,Creature,Drake,Ninth Edition,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Janine Johnston',0.1,False
+Baleful Stare,Sorcery,None,Ninth Edition,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.22,False
+Battle of Wits,Enchantment,None,Ninth Edition,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,"b'Edward P. Beard, Jr.'",0.24,False
+Boomerang,Instant,None,Ninth Edition,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Arnie Swekel',0.2,False
+Clone,Creature,Shapeshifter,Ninth Edition,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.44,False
+Confiscate,Enchantment,Aura,Ninth Edition,Uncommon,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',0.24,False
+Counsel of the Soratami,Sorcery,None,Ninth Edition,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.1,False
+Cowardice,Enchantment,None,Ninth Edition,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Sutfin',0.37,False
+Crafty Pathmage,Creature,Human Wizard,Ninth Edition,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne England',0.07,False
+Daring Apprentice,Creature,Human Wizard,Ninth Edition,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Dany Orizio',0.27,False
+Dehydration,Enchantment,Aura,Ninth Edition,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Arnie Swekel',0.04,False
+Dream Prowler,Creature,Illusion,Ninth Edition,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.1,False
+Evacuation,Instant,None,Ninth Edition,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',5.15,False
+Exhaustion,Sorcery,None,Ninth Edition,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.59,False
+Fishliver Oil,Enchantment,Aura,Ninth Edition,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Ralph Horsley',0.09,False
+Fleeting Image,Creature,Illusion,Ninth Edition,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Dorman',0.31,False
+Flight,Enchantment,Aura,Ninth Edition,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Arnie Swekel',0.05,False
+Fugitive Wizard,Creature,Human Wizard,Ninth Edition,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Nelson',0.04,False
+Horned Turtle,Creature,Turtle,Ninth Edition,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'DiTerlizzi',0.32,False
+Imaginary Pet,Creature,Illusion,Ninth Edition,Rare,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.3,False
+Levitation,Enchantment,None,Ninth Edition,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.15,False
+Lumengrid Warden,Creature,Human Wizard,Ninth Edition,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Francis Tsai',0.05,False
+Mahamoti Djinn,Creature,Djinn,Ninth Edition,Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.32,False
+Mana Leak,Instant,None,Ninth Edition,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.29,False
+Mind Bend,Instant,None,Ninth Edition,Rare,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Tony Szczudlo',0.25,False
+Phantom Warrior,Creature,Illusion Warrior,Ninth Edition,Uncommon,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Greg Staples',0.05,False
+Plagiarize,Instant,None,Ninth Edition,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeremy Jarvis',0.2,False
+Polymorph,Sorcery,None,Ninth Edition,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Robert Bliss',0.98,False
+Puppeteer,Creature,Human Wizard,Ninth Edition,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',0.19,False
+Reminisce,Sorcery,None,Ninth Edition,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Ralph Horsley',0.12,False
+Remove Soul,Instant,None,Ninth Edition,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',0.13,False
+Rewind,Instant,None,Ninth Edition,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Dermot Power',0.38,False
+Sage Aven,Creature,Bird Wizard,Ninth Edition,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.04,False
+Sea Monster,Creature,Serpent,Ninth Edition,Common,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.08,False
+Sea's Claim,Enchantment,Aura,Ninth Edition,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Thomas Gianni',0.33,False
+Sift,Sorcery,None,Ninth Edition,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeremy Jarvis',0.09,False
+Sleight of Hand,Sorcery,None,Ninth Edition,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Murray',1.09,False
+Storm Crow,Creature,Bird,Ninth Edition,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',0.15,False
+Telepathy,Enchantment,None,Ninth Edition,Uncommon,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Matthew D. Wilson',0.33,False
+Temporal Adept,Creature,Human Wizard,Ninth Edition,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.46,False
+Thieving Magpie,Creature,Bird,Ninth Edition,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Una Fricker',0.1,False
+Thought Courier,Creature,Human Wizard,Ninth Edition,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Stephen Tappin',0.23,False
+Tidal Kraken,Creature,Kraken,Ninth Edition,Rare,8,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.85,False
+Tidings,Sorcery,None,Ninth Edition,Uncommon,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.29,False
+Time Ebb,Sorcery,None,Ninth Edition,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Thomas M. Baxa',0.05,False
+Trade Routes,Enchantment,None,Ninth Edition,Rare,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',2.88,False
+Traumatize,Sorcery,None,Ninth Edition,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',2.12,False
+Treasure Trove,Enchantment,None,Ninth Edition,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Despain',0.14,False
+Wanderguard Sentry,Creature,Drone,Ninth Edition,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Luca Zontini',0.05,False
+Wind Drake,Creature,Drake,Ninth Edition,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',0.03,False
+Withering Gaze,Sorcery,None,Ninth Edition,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.16,False
+Zur's Weirding,Enchantment,None,Ninth Edition,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',0.81,False
+Blackmail,Sorcery,None,Ninth Edition,Uncommon,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.9,False
+Bog Imp,Creature,Imp,Ninth Edition,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.09,False
+Bog Wraith,Creature,Wraith,Ninth Edition,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Ted Naifeh',0.04,False
+Coercion,Sorcery,None,Ninth Edition,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'DiTerlizzi',0.05,False
+Consume Spirit,Sorcery,None,Ninth Edition,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Thompson',0.16,False
+Contaminated Bond,Enchantment,Aura,Ninth Edition,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Thomas M. Baxa',0.11,False
+Cruel Edict,Sorcery,None,Ninth Edition,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Sutfin',0.28,False
+Dark Banishing,Instant,None,Ninth Edition,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Dermot Power',0.07,False
+Death Pits of Rath,Enchantment,None,Ninth Edition,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Hildebrandt',0.53,False
+Deathgazer,Creature,Lizard,Ninth Edition,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.06,False
+Diabolic Tutor,Sorcery,None,Ninth Edition,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Rick Farrell',0.67,False
+Drudge Skeletons,Creature,Skeleton,Ninth Edition,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Nelson',0.1,False
+Enfeeblement,Enchantment,Aura,Ninth Edition,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'John Bolton',0.05,False
+Execute,Instant,None,Ninth Edition,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Gary Ruddell',0.04,False
+Fear,Enchantment,Aura,Ninth Edition,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',0.09,False
+Festering Goblin,Creature,Zombie Goblin,Ninth Edition,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Thomas M. Baxa',0.09,False
+Final Punishment,Sorcery,None,Ninth Edition,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Thompson',0.16,False
+Foul Imp,Creature,Imp,Ninth Edition,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.07,False
+Giant Cockroach,Creature,Insect,Ninth Edition,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.05,False
+Gluttonous Zombie,Creature,Zombie,Ninth Edition,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Thomas M. Baxa',0.1,False
+Grave Pact,Enchantment,None,Ninth Edition,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Puddnhead',16.05,False
+Gravedigger,Creature,Zombie,Ninth Edition,Common,4,Black,Legal,Legal,Legal,Legal,Legal,True,b'Dermot Power',0.07,False
+Hell's Caretaker,Creature,Horror,Ninth Edition,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',1.27,False
+Highway Robber,Creature,Human Mercenary,Ninth Edition,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.08,False
+Hollow Dogs,Creature,Zombie Hound,Ninth Edition,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.08,False
+Horror of Horrors,Enchantment,None,Ninth Edition,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Simon Bisley',0.14,False
+Hypnotic Specter,Creature,Specter,Ninth Edition,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',1.96,False
+Looming Shade,Creature,Shade,Ninth Edition,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.04,False
+Lord of the Undead,Creature,Zombie,Ninth Edition,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Brom',13.25,False
+Megrim,Enchantment,None,Ninth Edition,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Nick Percival',0.34,False
+Mind Rot,Sorcery,None,Ninth Edition,Common,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Steve Luke',0.05,False
+Mindslicer,Creature,Horror,Ninth Edition,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',9.48,False
+Mortivore,Creature,Lhurgoyf,Ninth Edition,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',2.25,False
+Nantuko Husk,Creature,Zombie Insect,Ninth Edition,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.24,False
+Nekrataal,Creature,Human Assassin,Ninth Edition,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Adrian Smith',0.17,False
+Nightmare,Creature,Nightmare Horse,Ninth Edition,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.29,False
+Persecute,Sorcery,None,Ninth Edition,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'D. Alexander Gregory',0.48,False
+Phyrexian Arena,Enchantment,None,Ninth Edition,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',9.85,False
+Phyrexian Gargantua,Creature,Horror,Ninth Edition,Uncommon,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.1,False
+Plague Beetle,Creature,Insect,Ninth Edition,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom Fleming',0.05,False
+Plague Wind,Sorcery,None,Ninth Edition,Rare,9,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',1.6,False
+Raise Dead,Sorcery,None,Ninth Edition,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.08,False
+Ravenous Rats,Creature,Rat,Ninth Edition,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.1,False
+Razortooth Rats,Creature,Rat,Ninth Edition,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.14,False
+Royal Assassin,Creature,Human Assassin,Ninth Edition,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.86,False
+Scathe Zombies,Creature,Zombie,Ninth Edition,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.04,False
+Sengir Vampire,Creature,Vampire,Ninth Edition,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.17,False
+Serpent Warrior,Creature,Snake Warrior,Ninth Edition,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.04,False
+Slay,Instant,None,Ninth Edition,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Ben Thompson',0.05,False
+Soul Feast,Sorcery,None,Ninth Edition,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',0.15,False
+Spineless Thug,Creature,Zombie Mercenary,Ninth Edition,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Matthew D. Wilson',0.1,False
+Swarm of Rats,Creature,Rat,Ninth Edition,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',1.21,False
+Underworld Dreams,Enchantment,None,Ninth Edition,Rare,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Carl Critchlow',3.49,False
+Unholy Strength,Enchantment,Aura,Ninth Edition,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Puddnhead',0.1,False
+Will-o'-the-Wisp,Creature,Spirit,Ninth Edition,Rare,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.35,False
+Yawgmoth Demon,Creature,Demon,Ninth Edition,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.38,False
+Zombify,Sorcery,None,Ninth Edition,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Romanoski',0.25,False
+Anaba Shaman,Creature,Minotaur Shaman,Ninth Edition,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Simon Bisley',0.09,False
+Anarchist,Creature,Human Wizard,Ninth Edition,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Brom',0.23,False
+Balduvian Barbarians,Creature,Human Barbarian,Ninth Edition,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Nelson',0.05,False
+Blaze,Sorcery,None,Ninth Edition,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Alex Horley-Orlandelli',0.1,False
+Blood Moon,Enchantment,None,Ninth Edition,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',12.22,False
+Bloodfire Colossus,Creature,Giant,Ninth Edition,Rare,8,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.29,False
+Boiling Seas,Sorcery,None,Ninth Edition,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',0.39,False
+Demolish,Sorcery,None,Ninth Edition,Uncommon,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Gary Ruddell',0.05,False
+Enrage,Instant,None,Ninth Edition,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Sweet',0.1,False
+Firebreathing,Enchantment,Aura,Ninth Edition,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Kerr',0.05,False
+Flame Wave,Sorcery,None,Ninth Edition,Uncommon,7,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.23,False
+Flashfires,Sorcery,None,Ninth Edition,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.25,False
+Flowstone Crusher,Creature,Beast,Ninth Edition,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ben Thompson',0.08,False
+Flowstone Shambler,Creature,Beast,Ninth Edition,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Nelson',0.2,False
+Flowstone Slide,Sorcery,None,Ninth Edition,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Chippy',0.23,False
+Form of the Dragon,Enchantment,None,Ninth Edition,Rare,7,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.43,False
+Furnace of Rath,Enchantment,None,Ninth Edition,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',3.56,False
+Goblin Balloon Brigade,Creature,Goblin Warrior,Ninth Edition,Uncommon,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.15,False
+Goblin Brigand,Creature,Goblin Warrior,Ninth Edition,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Arnie Swekel',0.03,False
+Goblin Chariot,Creature,Goblin Warrior,Ninth Edition,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'John Howe',0.05,False
+Goblin King,Creature,Goblin,Ninth Edition,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spears',2.83,False
+Goblin Mountaineer,Creature,Goblin Scout,Ninth Edition,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.09,False
+Goblin Piker,Creature,Goblin Warrior,Ninth Edition,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'DiTerlizzi',0.05,False
+Goblin Sky Raider,Creature,Goblin Warrior,Ninth Edition,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.13,False
+Guerrilla Tactics,Instant,None,Ninth Edition,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.3,False
+Hill Giant,Creature,Giant,Ninth Edition,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dany Orizio',0.05,False
+Karplusan Yeti,Creature,Yeti,Ninth Edition,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne England',0.5,False
+Kird Ape,Creature,Ape,Ninth Edition,Uncommon,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.33,False
+Lava Axe,Sorcery,None,Ninth Edition,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.04,False
+Lightning Elemental,Creature,Elemental,Ninth Edition,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.06,False
+Magnivore,Creature,Lhurgoyf,Ninth Edition,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.31,False
+Mana Clash,Sorcery,None,Ninth Edition,Rare,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.42,False
+Mogg Sentry,Creature,Goblin Warrior,Ninth Edition,Rare,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.34,False
+Ogre Taskmaster,Creature,Ogre,Ninth Edition,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dany Orizio',0.05,False
+Orcish Artillery,Creature,Orc Warrior,Ninth Edition,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.11,False
+Panic Attack,Sorcery,None,Ninth Edition,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Ploog',0.05,False
+Pyroclasm,Sorcery,None,Ninth Edition,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.21,False
+Raging Goblin,Creature,Goblin Berserker,Ninth Edition,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.08,False
+Rathi Dragon,Creature,Dragon,Ninth Edition,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.36,False
+Reflexes,Enchantment,Aura,Ninth Edition,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.09,False
+Relentless Assault,Sorcery,None,Ninth Edition,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Hildebrandt',1.05,False
+Rogue Kavu,Creature,Kavu,Ninth Edition,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Darrell Riche',0.05,False
+Rukh Egg,Creature,Bird Egg,Ninth Edition,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.36,False
+Sandstone Warrior,Creature,Human Soldier Warrior,Ninth Edition,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.07,False
+Seething Song,Instant,None,Ninth Edition,Common,3,Red,Banned,Not Legal,Legal,Legal,Legal,True,b'Martina Pilcerova',0.92,False
+Shard Phoenix,Creature,Phoenix,Ninth Edition,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.27,False
+Shatter,Instant,None,Ninth Edition,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Alexander Behnke',0.1,False
+Shivan Dragon,Creature,Dragon,Ninth Edition,Rare,6,Red,Legal,Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.37,False
+Shock,Instant,None,Ninth Edition,Common,1,Red,Legal,Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.16,False
+Stone Rain,Sorcery,None,Ninth Edition,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',0.16,False
+Sudden Impact,Instant,None,Ninth Edition,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Simon Bisley',0.09,False
+Threaten,Sorcery,None,Ninth Edition,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.24,False
+Thundermare,Creature,Elemental Horse,Ninth Edition,Rare,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Bob Eggleton',0.5,False
+Viashino Sandstalker,Creature,Viashino Warrior,Ninth Edition,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Robinson',0.18,False
+Volcanic Hammer,Sorcery,None,Ninth Edition,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ben Thompson',0.06,False
+Whip Sergeant,Creature,Human Soldier,Ninth Edition,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.07,False
+Wildfire,Sorcery,None,Ninth Edition,Rare,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.44,False
+Anaconda,Creature,Snake,Ninth Edition,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Robinson',0.24,False
+Ancient Silverback,Creature,Ape,Ninth Edition,Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',0.24,False
+Biorhythm,Sorcery,None,Ninth Edition,Rare,8,Green,Legal,Not Legal,Banned,Legal,Legal,True,b'Ron Spears',0.98,False
+Blanchwood Armor,Enchantment,Aura,Ninth Edition,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.18,False
+Craw Wurm,Creature,Wurm,Ninth Edition,Common,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Sardinha',0.19,False
+Creeping Mold,Sorcery,None,Ninth Edition,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.08,False
+Early Harvest,Instant,None,Ninth Edition,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',1.31,False
+Elvish Bard,Creature,Elf Shaman,Ninth Edition,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.11,False
+Elvish Berserker,Creature,Elf Berserker,Ninth Edition,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.06,False
+Elvish Champion,Creature,Elf,Ninth Edition,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'D. Alexander Gregory',5.04,False
+Elvish Piper,Creature,Elf Shaman,Ninth Edition,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',3.16,False
+Elvish Warrior,Creature,Elf Warrior,Ninth Edition,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.1,False
+Emperor Crocodile,Creature,Crocodile,Ninth Edition,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.14,False
+Force of Nature,Creature,Elemental,Ninth Edition,Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.23,False
+Giant Growth,Instant,None,Ninth Edition,Common,1,Green,Legal,Legal,Legal,Legal,Legal,True,b'Jim Murray',0.07,False
+Giant Spider,Creature,Spider,Ninth Edition,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.1,False
+Greater Good,Enchantment,None,Ninth Edition,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',4.9,False
+Grizzly Bears,Creature,Bear,Ninth Edition,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'D. J. Cleland-Hura',0.12,False
+Groundskeeper,Creature,Human Druid,Ninth Edition,Uncommon,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Rabinowitz',0.13,False
+Hunted Wumpus,Creature,Beast,Ninth Edition,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Thomas M. Baxa',0.15,False
+Kavu Climber,Creature,Kavu,Ninth Edition,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.06,False
+King Cheetah,Creature,Cat,Ninth Edition,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.39,False
+Ley Druid,Creature,Human Druid,Ninth Edition,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,"b'Edward P. Beard, Jr.'",0.21,False
+Llanowar Behemoth,Creature,Elemental,Ninth Edition,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.08,False
+Llanowar Elves,Creature,Elf Druid,Ninth Edition,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.23,False
+Maro,Creature,Elemental,Ninth Edition,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Stuart Griffin',0.17,False
+Might of Oaks,Instant,None,Ninth Edition,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.38,False
+Natural Affinity,Instant,None,Ninth Edition,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.58,False
+Natural Spring,Sorcery,None,Ninth Edition,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Janine Johnston',0.07,False
+Naturalize,Instant,None,Ninth Edition,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.1,False
+Needle Storm,Sorcery,None,Ninth Edition,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Val Mayerik',0.07,False
+Norwood Ranger,Creature,Elf Scout,Ninth Edition,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.07,False
+Order of the Sacred Bell,Creature,Human Monk,Ninth Edition,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.05,False
+Overgrowth,Enchantment,Aura,Ninth Edition,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.31,False
+Rampant Growth,Sorcery,None,Ninth Edition,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom Kyffin',0.6,False
+Reclaim,Instant,None,Ninth Edition,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Robinson',0.19,False
+Regeneration,Enchantment,Aura,Ninth Edition,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',0.09,False
+River Bear,Creature,Bear,Ninth Edition,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Una Fricker',3.81,False
+Rootbreaker Wurm,Creature,Wurm,Ninth Edition,Uncommon,7,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Kane Ferguson',0.07,False
+Rootwalla,Creature,Lizard,Ninth Edition,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Roger Raupp',0.08,False
+Scaled Wurm,Creature,Wurm,Ninth Edition,Common,8,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne England',0.21,False
+Seedborn Muse,Creature,Spirit,Ninth Edition,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',9.4,False
+Silklash Spider,Creature,Spider,Ninth Edition,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Iain McCaig',0.38,False
+Stream of Life,Sorcery,None,Ninth Edition,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Goldhawk',0.24,False
+Summer Bloom,Sorcery,None,Ninth Edition,Uncommon,2,Green,Banned,Not Legal,Legal,Legal,Legal,True,b'Nicola Leonard',1.39,False
+Trained Armodon,Creature,Elephant,Ninth Edition,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Gary Leach',0.05,False
+Tree Monkey,Creature,Monkey,Ninth Edition,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',0.11,False
+Treetop Bracers,Enchantment,Aura,Ninth Edition,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.07,False
+Utopia Tree,Creature,Plant,Ninth Edition,Rare,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Gary Ruddell',1.11,False
+Verdant Force,Creature,Elemental,Ninth Edition,Rare,8,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'DiTerlizzi',0.27,False
+Verduran Enchantress,Creature,Human Druid,Ninth Edition,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',3.07,False
+Viridian Shaman,Creature,Elf Shaman,Ninth Edition,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',0.13,False
+Web,Enchantment,Aura,Ninth Edition,Uncommon,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Hugh Jamieson',0.22,False
+Weird Harvest,Sorcery,None,Ninth Edition,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Bob Petillo',0.94,False
+Wood Elves,Creature,Elf Scout,Ninth Edition,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.81,False
+Yavimaya Enchantress,Creature,Human Druid,Ninth Edition,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Matthew D. Wilson',0.17,False
+Zodiac Monkey,Creature,Monkey,Ninth Edition,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Sardinha',0.09,False
+Aladdin's Ring,Artifact,None,Ninth Edition,Rare,8,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Dorman',0.15,False
+Angel's Feather,Artifact,None,Ninth Edition,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.27,False
+Beast of Burden,Artifact Creature,Golem,Ninth Edition,Rare,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Chippy',0.38,False
+Booby Trap,Artifact,None,Ninth Edition,Rare,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Doug Chaffee',0.36,False
+Bottle Gnomes,Artifact Creature,Gnome,Ninth Edition,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Ben Thompson',0.09,False
+Coat of Arms,Artifact,None,Ninth Edition,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',9.48,False
+Dancing Scimitar,Artifact Creature,Spirit,Ninth Edition,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spears',0.11,False
+Defense Grid,Artifact,None,Ninth Edition,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',9.18,False
+Demon's Horn,Artifact,None,Ninth Edition,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.12,False
+Disrupting Scepter,Artifact,None,Ninth Edition,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Stuart Griffin',0.21,False
+Dragon's Claw,Artifact,None,Ninth Edition,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.39,False
+Fellwar Stone,Artifact,None,Ninth Edition,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',4.05,False
+Howling Mine,Artifact,None,Ninth Edition,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dana Knutson',3.64,False
+Icy Manipulator,Artifact,None,Ninth Edition,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.33,False
+Jade Statue,Artifact,None,Ninth Edition,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Pavelec',0.29,False
+Jester's Cap,Artifact,None,Ninth Edition,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'D. Alexander Gregory',2.75,False
+Kraken's Eye,Artifact,None,Ninth Edition,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.09,False
+Loxodon Warhammer,Artifact,Equipment,Ninth Edition,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeremy Jarvis',1.06,False
+Millstone,Artifact,None,Ninth Edition,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.19,False
+Ornithopter,Artifact Creature,Thopter,Ninth Edition,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dana Knutson',0.31,False
+Phyrexian Hulk,Artifact Creature,Golem,Ninth Edition,Uncommon,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Matthew D. Wilson',0.2,False
+Rod of Ruin,Artifact,None,Ninth Edition,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Deschamps',0.07,False
+Slate of Ancestry,Artifact,None,Ninth Edition,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Corey D. Macourek',3.05,False
+Spellbook,Artifact,None,Ninth Edition,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Goldhawk',1.62,False
+Storage Matrix,Artifact,None,Ninth Edition,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Patrick Ho',3.32,False
+Tanglebloom,Artifact,None,Ninth Edition,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Val Mayerik',0.1,False
+Teferi's Puzzle Box,Artifact,None,Ninth Edition,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',10.22,False
+Thran Golem,Artifact Creature,Golem,Ninth Edition,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spears',0.17,False
+Ur-Golem's Eye,Artifact,None,Ninth Edition,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.29,False
+Vulshok Morningstar,Artifact,Equipment,Ninth Edition,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'David Martin',0.16,False
+Wurm's Tooth,Artifact,None,Ninth Edition,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.2,False
+Adarkar Wastes,Land,None,Ninth Edition,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',6.86,False
+Battlefield Forge,Land,None,Ninth Edition,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Darrell Riche',2.12,False
+Brushland,Land,None,Ninth Edition,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Bailey',5.56,False
+Caves of Koilos,Land,None,Ninth Edition,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Nelson',1.39,False
+Karplusan Forest,Land,None,Ninth Edition,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',3.68,False
+Llanowar Wastes,Land,None,Ninth Edition,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',2.04,False
+Quicksand,Land,None,Ninth Edition,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Roger Raupp',0.1,False
+Shivan Reef,Land,None,Ninth Edition,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',4.85,False
+Sulfurous Springs,Land,None,Ninth Edition,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',8.37,False
+Underground River,Land,None,Ninth Edition,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Goldhawk',5.05,False
+Urza's Mine,Land,Urza’s Mine,Ninth Edition,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',3.87,False
+Urza's Power Plant,Land,Urza’s Power-Plant,Ninth Edition,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',4.13,False
+Urza's Tower,Land,Urza’s Tower,Ninth Edition,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',3.96,False
+Yavimaya Coast,Land,None,Ninth Edition,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',2.44,False
+Plains,Basic Land,Plains,Ninth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.13,False
+Plains,Basic Land,Plains,Ninth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Matthew Mitchell',0.12,False
+Plains,Basic Land,Plains,Ninth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.18,False
+Plains,Basic Land,Plains,Ninth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Fred Fields',0.37,False
+Island,Basic Land,Island,Ninth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.24,False
+Island,Basic Land,Island,Ninth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.2,False
+Island,Basic Land,Island,Ninth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Tony Szczudlo',0.27,False
+Island,Basic Land,Island,Ninth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Scott Bailey',0.16,False
+Swamp,Basic Land,Swamp,Ninth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Bob Eggleton',0.4,False
+Swamp,Basic Land,Swamp,Ninth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.16,False
+Swamp,Basic Land,Swamp,Ninth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.21,False
+Swamp,Basic Land,Swamp,Ninth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Larry Elmore',0.2,False
+Mountain,Basic Land,Mountain,Ninth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.25,False
+Mountain,Basic Land,Mountain,Ninth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.13,False
+Mountain,Basic Land,Mountain,Ninth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.28,False
+Mountain,Basic Land,Mountain,Ninth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.29,False
+Forest,Basic Land,Forest,Ninth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.51,False
+Forest,Basic Land,Forest,Ninth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.35,False
+Forest,Basic Land,Forest,Ninth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.23,False
+Forest,Basic Land,Forest,Ninth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.21,False

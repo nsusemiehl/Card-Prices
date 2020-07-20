@@ -1,120 +1,120 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Angry Mob,Creature,Human,The Dark,Uncommon,4,White,False,False,True,True,b'Drew Tucker',0.77
-Blood of the Martyr,Instant,None,The Dark,Uncommon,3,White,False,False,True,True,b'Christopher Rush',0.57
-Brainwash,Enchantment,Aura,The Dark,Common,1,White,False,False,True,True,b'Pete Venters',0.15
-Cleansing,Sorcery,None,The Dark,Rare,3,White,False,False,True,False,b'Pete Venters',4.96
-Dust to Dust,Sorcery,None,The Dark,Common,3,White,False,False,True,True,b'Drew Tucker',0.66
-Exorcist,Creature,Human Cleric,The Dark,Rare,2,White,False,False,True,True,b'Drew Tucker',4.17
-Fasting,Enchantment,None,The Dark,Uncommon,1,White,False,False,True,False,b'Douglas Shuler',0.35
-Festival,Instant,None,The Dark,Common,1,White,False,False,True,False,b'Mark Poole',0.23
-Fire and Brimstone,Instant,None,The Dark,Uncommon,5,White,False,False,True,False,b'Jeff A. Menges',0.43
-Holy Light,Instant,None,The Dark,Common,3,White,False,False,True,True,b'Drew Tucker',0.62
-Knights of Thorn,Creature,Human Knight,The Dark,Rare,4,White,False,False,True,True,b'Christopher Rush',3.69
-Martyr's Cry,Sorcery,None,The Dark,Rare,2,White,False,False,True,True,b'Jeff A. Menges',4.78
-Miracle Worker,Creature,Human Cleric,The Dark,Common,1,White,False,False,True,False,b'Ron Spencer',0.17
-Morale,Instant,None,The Dark,Common,3,White,False,False,True,True,b'Mark Poole',0.15
-Pikemen,Creature,Human Soldier,The Dark,Common,2,White,False,False,True,True,b'Dennis Detwiller',0.16
-Preacher,Creature,Human Cleric,The Dark,Rare,3,White,False,False,True,True,b'Quinton Hoover',19.09
-Squire,Creature,Human Soldier,The Dark,Common,2,White,True,False,True,True,b'Dennis Detwiller',0.14
-Tivadar's Crusade,Sorcery,None,The Dark,Uncommon,3,White,False,False,True,True,b'Dennis Detwiller',0.68
-Witch Hunter,Creature,Human Cleric,The Dark,Rare,4,White,True,False,True,True,b'Jesper Myrfors',2.09
-Amnesia,Sorcery,None,The Dark,Uncommon,6,Blue,False,False,True,True,b'Mark Poole',1.72
-Apprentice Wizard,Creature,Human Wizard,The Dark,Rare,3,Blue,False,False,True,True,b'Dan Frazier',3.65
-Dance of Many,Enchantment,None,The Dark,Rare,2,Blue,False,False,True,True,b'Sandra Everingham',4.14
-Deep Water,Enchantment,None,The Dark,Common,2,Blue,False,False,True,False,b'Jeff A. Menges',0.19
-Drowned,Creature,Zombie,The Dark,Common,2,Blue,False,False,True,True,b'Quinton Hoover',0.16
-Electric Eel,Creature,Fish,The Dark,Uncommon,1,Blue,False,False,True,False,b'Anson Maddocks',0.45
-Erosion,Enchantment,Aura,The Dark,Common,3,Blue,False,False,True,True,b'Pete Venters',0.15
-Flood,Enchantment,None,The Dark,Uncommon,1,Blue,False,False,True,True,b'Dennis Detwiller',0.5
-Ghost Ship,Creature,Spirit,The Dark,Common,4,Blue,True,False,True,True,b'Tom W\xc3\xa4nerstrand',0.2
-Giant Shark,Creature,Shark,The Dark,Common,6,Blue,False,False,True,False,b'Tom W\xc3\xa4nerstrand',0.28
-Leviathan,Creature,Leviathan,The Dark,Rare,9,Blue,True,False,True,True,b'Mark Tedin',4.46
-Mana Vortex,Enchantment,None,The Dark,Rare,3,Blue,False,False,True,True,b'Douglas Shuler',14.55
-Merfolk Assassin,Creature,Merfolk Assassin,The Dark,Uncommon,2,Blue,True,False,True,True,b'Dennis Detwiller',0.67
-Mind Bomb,Sorcery,None,The Dark,Rare,1,Blue,False,False,True,True,b'Mark Tedin',2.85
-Psychic Allergy,Enchantment,None,The Dark,Rare,5,Blue,False,False,True,False,b'Mark Tedin',1.94
-Riptide,Instant,None,The Dark,Common,1,Blue,False,False,True,False,b'Randy Asplund-Faith',0.19
-Sunken City,Enchantment,None,The Dark,Common,2,Blue,False,False,True,True,b'Jesper Myrfors',0.22
-Tangle Kelp,Enchantment,Aura,The Dark,Uncommon,1,Blue,False,False,True,False,b'Rob Alexander',0.3
-Water Wurm,Creature,Wurm,The Dark,Common,1,Blue,False,False,True,False,b'Ron Spencer',0.16
-Ashes to Ashes,Sorcery,None,The Dark,Common,3,Black,False,False,True,True,b'Drew Tucker',0.79
-Banshee,Creature,Spirit,The Dark,Uncommon,4,Black,False,False,True,True,b'Jesper Myrfors',0.39
-Bog Imp,Creature,Imp,The Dark,Common,2,Black,True,False,True,True,b'Ron Spencer',0.15
-Bog Rats,Creature,Rat,The Dark,Common,1,Black,False,False,True,True,b'Ron Spencer',0.16
-Curse Artifact,Enchantment,Aura,The Dark,Uncommon,4,Black,False,False,True,False,b'Mark Tedin',0.33
-Eater of the Dead,Creature,Horror,The Dark,Uncommon,5,Black,False,False,True,True,b'Jesper Myrfors',7.8
-Frankenstein's Monster,Creature,Zombie,The Dark,Rare,3,Black,False,False,True,False,b'Anson Maddocks',4.21
-Grave Robbers,Creature,Human Rogue,The Dark,Rare,3,Black,False,False,True,False,b'Quinton Hoover',2.71
-Inquisition,Sorcery,None,The Dark,Common,3,Black,False,False,True,False,b'Anson Maddocks',0.14
-Marsh Gas,Instant,None,The Dark,Common,1,Black,False,False,True,True,b'Douglas Shuler',0.15
-Murk Dwellers,Creature,Zombie,The Dark,Common,4,Black,False,False,True,True,b'Drew Tucker',0.16
-Nameless Race,Creature,None,The Dark,Rare,4,Black,False,False,True,False,b'Quinton Hoover',2.62
-Rag Man,Creature,Human Minion,The Dark,Rare,4,Black,False,False,True,True,b'Daniel Gelon',1.45
-Season of the Witch,Enchantment,None,The Dark,Rare,3,Black,False,False,True,False,b'Jesper Myrfors',8.98
-The Fallen,Creature,Zombie,The Dark,Uncommon,4,Black,False,False,True,True,b'Jesper Myrfors',0.4
-Uncle Istvan,Creature,Human,The Dark,Uncommon,4,Black,True,False,True,True,b'Daniel Gelon',0.69
-Word of Binding,Sorcery,None,The Dark,Common,3,Black,False,False,True,True,b'Ron Spencer',0.16
-Worms of the Earth,Enchantment,None,The Dark,Rare,5,Black,False,False,True,False,b'Anson Maddocks',2.7
-Ball Lightning,Creature,Elemental,The Dark,Rare,3,Red,True,False,True,True,b'Quinton Hoover',22.5
-Blood Moon,Enchantment,None,The Dark,Rare,3,Red,True,False,True,True,b'Tom W\xc3\xa4nerstrand',45.83
-Brothers of Fire,Creature,Human Shaman,The Dark,Uncommon,3,Red,False,False,True,True,b'Mark Tedin',0.33
-Cave People,Creature,Human,The Dark,Uncommon,3,Red,False,False,True,True,b'Drew Tucker',0.33
-Eternal Flame,Sorcery,None,The Dark,Rare,4,Red,False,False,True,False,b'Mark Poole',3.09
-Fire Drake,Creature,Drake,The Dark,Uncommon,3,Red,False,False,True,True,b'Christopher Rush',0.36
-Fissure,Instant,None,The Dark,Common,5,Red,False,False,True,True,b'Douglas Shuler',0.27
-Goblin Caves,Enchantment,Aura,The Dark,Common,3,Red,False,False,True,True,b'Drew Tucker',0.65
-Goblin Digging Team,Creature,Goblin,The Dark,Common,1,Red,False,False,True,True,b'Ron Spencer',0.18
-Goblin Hero,Creature,Goblin,The Dark,Common,3,Red,False,False,True,True,b'Mark Tedin',0.16
-Goblin Rock Sled,Creature,Goblin,The Dark,Common,2,Red,False,False,True,True,b'Dennis Detwiller',0.16
-Goblin Shrine,Enchantment,Aura,The Dark,Common,3,Red,False,False,True,True,b'Ron Spencer',0.22
-Goblin Wizard,Creature,Goblin Wizard,The Dark,Rare,4,Red,False,False,True,True,b'Daniel Gelon',19.85
-Goblins of the Flarg,Creature,Goblin Warrior,The Dark,Common,1,Red,False,False,True,True,b'Tom W\xc3\xa4nerstrand',0.2
-Inferno,Instant,None,The Dark,Rare,7,Red,True,False,True,True,b'Randy Asplund-Faith',2.35
-Mana Clash,Sorcery,None,The Dark,Rare,1,Red,True,False,True,True,b'Mark Tedin',2.05
-Orc General,Creature,Orc Warrior,The Dark,Uncommon,3,Red,False,False,True,True,b'Jesper Myrfors',0.31
-Sisters of the Flame,Creature,Human Shaman,The Dark,Uncommon,3,Red,False,False,True,True,b'Jesper Myrfors',0.47
-Carnivorous Plant,Creature,Plant Wall,The Dark,Common,4,Green,False,False,True,True,b'Quinton Hoover',0.18
-Elves of Deep Shadow,Creature,Elf Druid,The Dark,Uncommon,1,Green,True,False,True,True,b'Jesper Myrfors',6.28
-Gaea's Touch,Enchantment,None,The Dark,Common,2,Green,False,False,True,True,b'Mark Poole',1.47
-Hidden Path,Enchantment,None,The Dark,Rare,6,Green,False,False,True,False,b'Rob Alexander',2.45
-Land Leeches,Creature,Leech,The Dark,Common,3,Green,False,False,True,True,b'Quinton Hoover',0.14
-Lurker,Creature,Beast,The Dark,Rare,3,Green,False,False,True,False,b'Anson Maddocks',2.75
-Marsh Viper,Creature,Snake,The Dark,Common,4,Green,False,False,True,True,b'Ron Spencer',0.23
-Niall Silvain,Creature,Ouphe,The Dark,Rare,3,Green,False,False,True,False,b'Christopher Rush',3.17
-People of the Woods,Creature,Human,The Dark,Uncommon,2,Green,False,False,True,False,b'Drew Tucker',0.54
-Savaen Elves,Creature,Elf,The Dark,Common,1,Green,False,False,True,False,b'Ron Spencer',0.18
-Scarwood Bandits,Creature,Human Rogue,The Dark,Rare,4,Green,False,False,True,True,b'Mark Poole',2.71
-Scarwood Hag,Creature,Hag,The Dark,Uncommon,2,Green,False,False,True,False,b'Anson Maddocks',0.29
-Scavenger Folk,Creature,Human,The Dark,Common,1,Green,False,False,True,True,b'Dennis Detwiller',0.26
-Spitting Slug,Creature,Slug,The Dark,Uncommon,3,Green,True,False,True,True,b'Anson Maddocks',0.43
-Tracker,Creature,Human,The Dark,Rare,3,Green,False,False,True,True,b'Jeff A. Menges',3.63
-Venom,Enchantment,Aura,The Dark,Common,3,Green,False,False,True,True,b'Tom W\xc3\xa4nerstrand',0.18
-Whippoorwill,Creature,Bird,The Dark,Uncommon,1,Green,False,False,True,False,b'Douglas Shuler',0.53
-Wormwood Treefolk,Creature,Treefolk,The Dark,Rare,5,Green,False,False,True,True,b'Jesper Myrfors',2.89
-Marsh Goblins,Creature,Goblin,The Dark,Common,2,Gold,False,False,True,False,b'Quinton Hoover',0.17
-Scarwood Goblins,Creature,Goblin,The Dark,Common,2,Gold,False,False,True,False,b'Ron Spencer',0.15
-Dark Heart of the Wood,Enchantment,None,The Dark,Common,2,Gold,True,False,True,True,b'Christopher Rush',0.2
-Barl's Cage,Artifact,None,The Dark,Rare,4,Colorless,False,False,True,True,b'Tom W\xc3\xa4nerstrand',1.59
-Bone Flute,Artifact,None,The Dark,Uncommon,3,Colorless,False,False,True,True,b'Christopher Rush',0.31
-Book of Rass,Artifact,None,The Dark,Uncommon,6,Colorless,False,False,True,True,b'Sandra Everingham',0.69
-Coal Golem,Artifact Creature,Golem,The Dark,Uncommon,5,Colorless,False,False,True,True,b'Christopher Rush',0.39
-Dark Sphere,Artifact,None,The Dark,Uncommon,0,Colorless,False,False,True,False,b'Mark Tedin',2.85
-Diabolic Machine,Artifact Creature,Construct,The Dark,Uncommon,7,Colorless,False,False,True,True,b'Anson Maddocks',0.31
-Fellwar Stone,Artifact,None,The Dark,Uncommon,2,Colorless,True,False,True,True,b'Quinton Hoover',8.98
-Fountain of Youth,Artifact,None,The Dark,Uncommon,0,Colorless,True,False,True,True,b'Daniel Gelon',1.19
-Living Armor,Artifact,None,The Dark,Uncommon,4,Colorless,False,False,True,True,b'Anson Maddocks',0.3
-Necropolis,Artifact Creature,Wall,The Dark,Uncommon,5,Colorless,False,False,True,False,b'N\xc3\xa9N\xc3\xa9 Thomas',0.8
-Reflecting Mirror,Artifact,None,The Dark,Uncommon,4,Colorless,False,False,True,False,b'Mark Poole',0.47
-Runesword,Artifact,None,The Dark,Uncommon,6,Colorless,False,False,True,True,b'Christopher Rush',0.42
-Scarecrow,Artifact Creature,Scarecrow,The Dark,Uncommon,5,Colorless,False,False,True,True,b'Anson Maddocks',0.61
-Skull of Orm,Artifact,None,The Dark,Uncommon,3,Colorless,True,False,True,True,b'Tom W\xc3\xa4nerstrand',1.32
-Standing Stones,Artifact,None,The Dark,Uncommon,3,Colorless,False,False,True,False,b'Sandra Everingham',0.31
-Stone Calendar,Artifact,None,The Dark,Rare,5,Colorless,False,False,True,True,b'Amy Weber',9.76
-Tormod's Crypt,Artifact,None,The Dark,Uncommon,0,Colorless,True,False,True,True,b'Christopher Rush',7.72
-Tower of Coireall,Artifact,None,The Dark,Uncommon,2,Colorless,False,False,True,False,b'Dan Frazier',0.41
-Wand of Ith,Artifact,None,The Dark,Uncommon,4,Colorless,False,False,True,False,b'Quinton Hoover',0.68
-War Barge,Artifact,None,The Dark,Uncommon,4,Colorless,True,False,True,True,b'Tom W\xc3\xa4nerstrand',0.41
-City of Shadows,Land,None,The Dark,Rare,0,Colorless,False,False,True,True,b'Tom W\xc3\xa4nerstrand',18.6
-Maze of Ith,Land,None,The Dark,Uncommon,0,Colorless,False,False,True,True,b'Anson Maddocks',26.29
-Safe Haven,Land,None,The Dark,Rare,0,Colorless,True,False,True,True,b'Christopher Rush',2.81
-Sorrow's Path,Land,None,The Dark,Rare,0,Colorless,False,False,True,True,b'Randy Asplund-Faith',3.71
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Angry Mob,Creature,Human,The Dark,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.74,False
+Blood of the Martyr,Instant,None,The Dark,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.51,False
+Brainwash,Enchantment,Aura,The Dark,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.16,False
+Cleansing,Sorcery,None,The Dark,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',4.32,False
+Dust to Dust,Sorcery,None,The Dark,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.69,False
+Exorcist,Creature,Human Cleric,The Dark,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',3.99,False
+Fasting,Enchantment,None,The Dark,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Douglas Shuler',0.38,False
+Festival,Instant,None,The Dark,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Poole',0.25,False
+Fire and Brimstone,Instant,None,The Dark,Uncommon,5,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff A. Menges',0.42,False
+Holy Light,Instant,None,The Dark,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.63,False
+Knights of Thorn,Creature,Human Knight,The Dark,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',3.75,False
+Martyr's Cry,Sorcery,None,The Dark,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',4.5,False
+Miracle Worker,Creature,Human Cleric,The Dark,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.17,False
+Morale,Instant,None,The Dark,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.16,False
+Pikemen,Creature,Human Soldier,The Dark,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dennis Detwiller',0.15,False
+Preacher,Creature,Human Cleric,The Dark,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',18.58,False
+Squire,Creature,Human Soldier,The Dark,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dennis Detwiller',0.16,False
+Tivadar's Crusade,Sorcery,None,The Dark,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dennis Detwiller',0.9,False
+Witch Hunter,Creature,Human Cleric,The Dark,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',2.46,False
+Amnesia,Sorcery,None,The Dark,Uncommon,6,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',1.76,False
+Apprentice Wizard,Creature,Human Wizard,The Dark,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',3.13,False
+Dance of Many,Enchantment,None,The Dark,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',4.15,False
+Deep Water,Enchantment,None,The Dark,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff A. Menges',0.21,False
+Drowned,Creature,Zombie,The Dark,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.17,False
+Electric Eel,Creature,Fish,The Dark,Uncommon,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Anson Maddocks',0.44,False
+Erosion,Enchantment,Aura,The Dark,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.16,False
+Flood,Enchantment,None,The Dark,Uncommon,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dennis Detwiller',0.56,False
+Ghost Ship,Creature,Spirit,The Dark,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',0.21,False
+Giant Shark,Creature,Shark,The Dark,Common,6,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Tom W\xc3\xa4nerstrand',0.28,False
+Leviathan,Creature,Leviathan,The Dark,Rare,9,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',4.35,False
+Mana Vortex,Enchantment,None,The Dark,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',12.07,False
+Merfolk Assassin,Creature,Merfolk Assassin,The Dark,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Dennis Detwiller',0.67,False
+Mind Bomb,Sorcery,None,The Dark,Rare,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',2.9,False
+Psychic Allergy,Enchantment,None,The Dark,Rare,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',1.91,False
+Riptide,Instant,None,The Dark,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Asplund-Faith',0.2,False
+Sunken City,Enchantment,None,The Dark,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.22,False
+Tangle Kelp,Enchantment,Aura,The Dark,Uncommon,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rob Alexander',0.31,False
+Water Wurm,Creature,Wurm,The Dark,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.16,False
+Ashes to Ashes,Sorcery,None,The Dark,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.82,False
+Banshee,Creature,Spirit,The Dark,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.42,False
+Bog Imp,Creature,Imp,The Dark,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.16,False
+Bog Rats,Creature,Rat,The Dark,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.17,False
+Curse Artifact,Enchantment,Aura,The Dark,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',0.35,False
+Eater of the Dead,Creature,Horror,The Dark,Uncommon,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',7.44,False
+Frankenstein's Monster,Creature,Zombie,The Dark,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Anson Maddocks',4.36,False
+Grave Robbers,Creature,Human Rogue,The Dark,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Quinton Hoover',2.82,False
+Inquisition,Sorcery,None,The Dark,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Anson Maddocks',0.16,False
+Marsh Gas,Instant,None,The Dark,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.16,False
+Murk Dwellers,Creature,Zombie,The Dark,Common,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.17,False
+Nameless Race,Creature,None,The Dark,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Quinton Hoover',3.82,False
+Rag Man,Creature,Human Minion,The Dark,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',1.4,False
+Season of the Witch,Enchantment,None,The Dark,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jesper Myrfors',9.04,False
+The Fallen,Creature,Zombie,The Dark,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.4,False
+Uncle Istvan,Creature,Human,The Dark,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.66,False
+Word of Binding,Sorcery,None,The Dark,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.17,False
+Worms of the Earth,Enchantment,None,The Dark,Rare,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Anson Maddocks',2.46,False
+Ball Lightning,Creature,Elemental,The Dark,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',21.38,False
+Blood Moon,Enchantment,None,The Dark,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',45.66,False
+Brothers of Fire,Creature,Human Shaman,The Dark,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.32,False
+Cave People,Creature,Human,The Dark,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.33,False
+Eternal Flame,Sorcery,None,The Dark,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Poole',2.98,False
+Fire Drake,Creature,Drake,The Dark,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.37,False
+Fissure,Instant,None,The Dark,Common,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.27,False
+Goblin Caves,Enchantment,Aura,The Dark,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.69,False
+Goblin Digging Team,Creature,Goblin,The Dark,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.2,False
+Goblin Hero,Creature,Goblin,The Dark,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.19,False
+Goblin Rock Sled,Creature,Goblin,The Dark,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dennis Detwiller',0.17,False
+Goblin Shrine,Enchantment,Aura,The Dark,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.21,False
+Goblin Wizard,Creature,Goblin Wizard,The Dark,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',19.21,False
+Goblins of the Flarg,Creature,Goblin Warrior,The Dark,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',0.22,False
+Inferno,Instant,None,The Dark,Rare,7,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Asplund-Faith',2.56,False
+Mana Clash,Sorcery,None,The Dark,Rare,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',1.92,False
+Orc General,Creature,Orc Warrior,The Dark,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.34,False
+Sisters of the Flame,Creature,Human Shaman,The Dark,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.46,False
+Carnivorous Plant,Creature,Plant Wall,The Dark,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.19,False
+Elves of Deep Shadow,Creature,Elf Druid,The Dark,Uncommon,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',6.79,False
+Gaea's Touch,Enchantment,None,The Dark,Common,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',1.64,False
+Hidden Path,Enchantment,None,The Dark,Rare,6,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rob Alexander',1.94,False
+Land Leeches,Creature,Leech,The Dark,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.15,False
+Lurker,Creature,Beast,The Dark,Rare,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Anson Maddocks',2.74,False
+Marsh Viper,Creature,Snake,The Dark,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.23,False
+Niall Silvain,Creature,Ouphe,The Dark,Rare,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Rush',3.07,False
+People of the Woods,Creature,Human,The Dark,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Drew Tucker',0.59,False
+Savaen Elves,Creature,Elf,The Dark,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.18,False
+Scarwood Bandits,Creature,Human Rogue,The Dark,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',2.78,False
+Scarwood Hag,Creature,Hag,The Dark,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Anson Maddocks',0.31,False
+Scavenger Folk,Creature,Human,The Dark,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dennis Detwiller',0.26,False
+Spitting Slug,Creature,Slug,The Dark,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.48,False
+Tracker,Creature,Human,The Dark,Rare,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',3.56,False
+Venom,Enchantment,Aura,The Dark,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',0.19,False
+Whippoorwill,Creature,Bird,The Dark,Uncommon,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Douglas Shuler',0.51,False
+Wormwood Treefolk,Creature,Treefolk,The Dark,Rare,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',2.88,False
+Marsh Goblins,Creature,Goblin,The Dark,Common,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Quinton Hoover',0.19,False
+Scarwood Goblins,Creature,Goblin,The Dark,Common,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.15,False
+Dark Heart of the Wood,Enchantment,None,The Dark,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.24,False
+Barl's Cage,Artifact,None,The Dark,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',1.48,False
+Bone Flute,Artifact,None,The Dark,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.33,False
+Book of Rass,Artifact,None,The Dark,Uncommon,6,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.7,False
+Coal Golem,Artifact Creature,Golem,The Dark,Uncommon,5,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.38,False
+Dark Sphere,Artifact,None,The Dark,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',2.49,False
+Diabolic Machine,Artifact Creature,Construct,The Dark,Uncommon,7,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.32,False
+Fellwar Stone,Artifact,None,The Dark,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',9.04,False
+Fountain of Youth,Artifact,None,The Dark,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',1.28,False
+Living Armor,Artifact,None,The Dark,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.32,False
+Necropolis,Artifact Creature,Wall,The Dark,Uncommon,5,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'N\xc3\xa9N\xc3\xa9 Thomas',0.75,False
+Reflecting Mirror,Artifact,None,The Dark,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Poole',0.52,False
+Runesword,Artifact,None,The Dark,Uncommon,6,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.42,False
+Scarecrow,Artifact Creature,Scarecrow,The Dark,Uncommon,5,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.6,False
+Skull of Orm,Artifact,None,The Dark,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',1.24,False
+Standing Stones,Artifact,None,The Dark,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Sandra Everingham',0.32,False
+Stone Calendar,Artifact,None,The Dark,Rare,5,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',9.45,False
+Tormod's Crypt,Artifact,None,The Dark,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',7.12,False
+Tower of Coireall,Artifact,None,The Dark,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Frazier',0.39,False
+Wand of Ith,Artifact,None,The Dark,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Quinton Hoover',0.71,False
+War Barge,Artifact,None,The Dark,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',0.43,False
+City of Shadows,Land,None,The Dark,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',18.24,False
+Maze of Ith,Land,None,The Dark,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',26.45,False
+Safe Haven,Land,None,The Dark,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',3.93,False
+Sorrow's Path,Land,None,The Dark,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Asplund-Faith',3.73,False

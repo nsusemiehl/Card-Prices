@@ -1,379 +1,379 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Poción de alabastro,Instant,None,Fourth Edition Foreign Black Border,Common,3,White,False,False,True,True,b'Harold McNeill',0.5
-Kitkin Amrou,Creature,Kithkin,Fourth Edition Foreign Black Border,Common,2,White,False,False,True,True,b'Quinton Hoover',0.5
-Turba,Creature,Human,Fourth Edition Foreign Black Border,Uncommon,4,White,False,False,True,True,b'Drew Tucker',0.5
-Animar muro,Enchantment,Aura,Fourth Edition Foreign Black Border,Rare,1,White,False,False,True,True,b'Dan Frazier',0.5
-Armagedón,Sorcery,None,Fourth Edition Foreign Black Border,Rare,4,White,False,False,True,True,b'Jesper Myrfors',0.5
-Equilibrio,Sorcery,None,Fourth Edition Foreign Black Border,Rare,2,White,False,False,False,True,b'Mark Poole',0.5
-Héroe benalita,Creature,Human Soldier,Fourth Edition Foreign Black Border,Common,1,White,False,False,True,True,b'Douglas Shuler',0.5
-Guarda de negro,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,1,White,False,False,True,True,b'Dan Frazier',0.5
-Bendición,Enchantment,Aura,Fourth Edition Foreign Black Border,Rare,2,White,True,False,True,True,b'Julie Baroh',0.5
-Guarda de azul,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,1,White,False,False,True,True,b'Dan Frazier',0.5
-Lavado de cerebro,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,1,White,False,False,True,True,b'Pete Venters',0.5
-Castillo,Enchantment,None,Fourth Edition Foreign Black Border,Uncommon,4,White,False,False,True,True,b'Dameon Willich',0.5
-Circulo de protección: Artefactos,Enchantment,None,Fourth Edition Foreign Black Border,Uncommon,2,White,True,False,True,True,b'Pete Venters',0.5
-Circulo de protección: Negro,Enchantment,None,Fourth Edition Foreign Black Border,Common,2,White,True,False,True,True,b'Jesper Myrfors',0.5
-Circulo de protección: Azul,Enchantment,None,Fourth Edition Foreign Black Border,Common,2,White,True,False,True,True,b'Dameon Willich',0.5
-Circulo de protección: Verde,Enchantment,None,Fourth Edition Foreign Black Border,Common,2,White,True,False,True,True,b'Sandra Everingham',0.5
-Circulo de protección: Rojo,Enchantment,None,Fourth Edition Foreign Black Border,Common,2,White,True,False,True,True,b'Mark Tedin',0.5
-Circulo de protección: Blanco,Enchantment,None,Fourth Edition Foreign Black Border,Common,2,White,True,False,True,True,b'Douglas Shuler',0.5
-Conversión,Enchantment,None,Fourth Edition Foreign Black Border,Uncommon,4,White,False,False,True,True,b'Jesper Myrfors',0.5
-Cruzada,Enchantment,None,Fourth Edition Foreign Black Border,Rare,2,White,False,False,True,True,b'Mark Poole',0.5
-Guarda contra la muerte,Instant,None,Fourth Edition Foreign Black Border,Common,1,White,False,False,True,True,b'Mark Poole',0.5
-Desencantar,Instant,None,Fourth Edition Foreign Black Border,Common,2,White,True,True,True,True,b'Amy Weber',0.5
-Transformación divina,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,4,White,False,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.5
-Sierpe de tierra,Creature,Dragon Wurm,Fourth Edition Foreign Black Border,Rare,7,White,False,False,True,True,b'Quinton Hoover',0.5
-Ojo por ojo,Instant,None,Fourth Edition Foreign Black Border,Rare,2,White,False,False,True,True,b'Mark Poole',0.5
-Area fortifcada,Enchantment,None,Fourth Edition Foreign Black Border,Common,3,White,False,False,True,True,b'Randy Asplund-Faith',0.5
-Guarda de verde,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,1,White,False,False,True,True,b'Dan Frazier',0.5
-Bálsamo de curación,Instant,None,Fourth Edition Foreign Black Border,Common,1,White,True,False,True,True,b'Dan Frazier',0.5
-Armadura sagrada,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,1,White,False,False,True,True,b'Melissa A. Benson',0.5
-Fuerza sagrada,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,1,White,True,False,True,True,b'Anson Maddocks',0.5
-Isla santuario,Enchantment,None,Fourth Edition Foreign Black Border,Rare,2,White,False,False,True,True,b'Mark Poole',0.5
-Karma,Enchantment,None,Fourth Edition Foreign Black Border,Uncommon,4,White,True,False,True,True,b'Richard Thomas',0.5
-Sino,Enchantment,None,Fourth Edition Foreign Black Border,Uncommon,4,White,False,False,True,True,b'Kaja Foglio',0.5
-Impuesto sobre las tierras,Enchantment,None,Fourth Edition Foreign Black Border,Rare,1,White,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.5
-Pegaso de la meseta,Creature,Pegasus,Fourth Edition Foreign Black Border,Common,2,White,False,False,True,True,b'Melissa A. Benson',0.5
-Moral,Instant,None,Fourth Edition Foreign Black Border,Common,3,White,False,False,True,True,b'Mark Poole',0.5
-Paladín del norte,Creature,Human Knight,Fourth Edition Foreign Black Border,Rare,4,White,False,False,True,True,b'Douglas Shuler',0.5
-Buitres de Osai,Creature,Bird,Fourth Edition Foreign Black Border,Uncommon,2,White,False,False,True,True,b'Dan Frazier',0.5
-Unicornio perlado,Creature,Unicorn,Fourth Edition Foreign Black Border,Common,3,White,False,False,True,True,b'Cornelius Brudi',0.5
-Encarnación personal,Creature,Avatar Incarnation,Fourth Edition Foreign Black Border,Rare,6,White,False,False,True,True,b'Kev Brockschmidt',0.5
-Piedad,Instant,None,Fourth Edition Foreign Black Border,Common,3,White,False,False,True,True,b'Mark Poole',0.5
-Piqueros,Creature,Human Soldier,Fourth Edition Foreign Black Border,Common,2,White,False,False,True,True,b'Dennis Detwiller',0.5
-Atadura de pureza,Instant,None,Fourth Edition Foreign Black Border,Rare,1,White,False,False,True,True,b'Sandra Everingham',0.5
-Guarda de rojo,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,1,White,False,False,True,True,b'Dan Frazier',0.5
-Inversión de daño,Instant,None,Fourth Edition Foreign Black Border,Rare,3,White,True,False,True,True,b'Dameon Willich',0.5
-Rectitud,Instant,None,Fourth Edition Foreign Black Border,Rare,1,White,True,True,True,True,b'Douglas Shuler',0.5
-Sanador Samita,Creature,Human Cleric,Fourth Edition Foreign Black Border,Common,2,White,True,False,True,True,b'Tom W\xc3\xa4nerstrand',0.5
-Leones de la sabana,Creature,Cat,Fourth Edition Foreign Black Border,Rare,1,White,True,False,True,True,b'Daniel Gelon',0.5
-Espíritu,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,4,White,False,False,True,True,b'Mark Poole',0.5
-Ángel de Serra,Creature,Angel,Fourth Edition Foreign Black Border,Uncommon,5,White,True,False,True,True,b'Douglas Shuler',0.5
-Vínculo espiritual,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,1,White,True,False,True,True,b'Kaja Foglio',0.5
-Espadas en guadañas,Instant,None,Fourth Edition Foreign Black Border,Uncommon,1,White,False,False,True,True,b'Jeff A. Menges',0.5
-Lobos de la tundra,Creature,Wolf,Fourth Edition Foreign Black Border,Common,1,White,True,False,True,True,b'Quinton Hoover',0.5
-Visiones,Sorcery,None,Fourth Edition Foreign Black Border,Uncommon,1,White,False,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.5
-Muro de espadas,Creature,Wall,Fourth Edition Foreign Black Border,Uncommon,4,White,True,False,True,True,b'Mark Tedin',0.5
-Caballero blanco,Creature,Human Knight,Fourth Edition Foreign Black Border,Uncommon,2,White,True,False,True,True,b'Daniel Gelon',0.5
-Guarda de blanco,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,1,White,False,False,True,True,b'Dan Frazier',0.5
-Ira de Dios,Sorcery,None,Fourth Edition Foreign Black Border,Rare,4,White,True,False,True,True,b'Quinton Hoover',0.5
-Elemental del aire,Creature,Elemental,Fourth Edition Foreign Black Border,Uncommon,5,Blue,True,True,True,True,b'Richard Thomas',0.5
-Animar artefacto,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,4,Blue,False,False,True,True,b'Douglas Shuler',0.5
-Aprendiz de brujo,Creature,Human Wizard,Fourth Edition Foreign Black Border,Common,3,Blue,False,False,True,True,b'Dan Frazier',0.5
-Rechazo,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,1,Blue,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.5
-Ráfaga elemental azul,Instant,None,Fourth Edition Foreign Black Border,Common,1,Blue,False,False,True,True,b'Richard Thomas',0.5
-Magia de control,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,4,Blue,False,False,True,True,b'Dameon Willich',0.5
-Contrahechizo,Instant,None,Fourth Edition Foreign Black Border,Uncommon,2,Blue,False,False,True,True,b'Mark Poole',0.5
-Vinculo vital,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,2,Blue,False,False,True,True,b'Anson Maddocks',0.5
-Drenaje de poder,Sorcery,None,Fourth Edition Foreign Black Border,Rare,2,Blue,False,False,True,True,b'Douglas Shuler',0.5
-Flujo energético,Enchantment,None,Fourth Edition Foreign Black Border,Uncommon,3,Blue,False,False,True,True,b'Kaja Foglio',0.5
-Exatraer energia,Sorcery,None,Fourth Edition Foreign Black Border,Common,1,Blue,False,False,True,True,b'Daniel Gelon',0.5
-Erosión,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,3,Blue,False,False,True,True,b'Pete Venters',0.5
-Descarga astral,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,3,Blue,False,False,True,True,b'Quinton Hoover',0.5
-Volar,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,1,Blue,True,False,True,True,b'Anson Maddocks',0.5
-Inundación,Enchantment,None,Fourth Edition Foreign Black Border,Common,1,Blue,False,False,True,True,b'Dennis Detwiller',0.5
-Forma gaseosa,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,3,Blue,False,False,True,True,b'Phil Foglio',0.5
-Barco fantasma,Creature,Spirit,Fourth Edition Foreign Black Border,Uncommon,4,Blue,True,False,True,True,b'Tom W\xc3\xa4nerstrand',0.5
-Galápago gigante,Creature,Turtle,Fourth Edition Foreign Black Border,Common,2,Blue,False,False,True,True,b'Kaja Foglio',0.5
-Retorno de Hurkyl,Instant,None,Fourth Edition Foreign Black Border,Rare,2,Blue,True,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.5
-Pez isla Jasconius,Creature,Fish,Fourth Edition Foreign Black Border,Rare,7,Blue,False,False,True,True,b'Jesper Myrfors',0.5
-Saltar,Instant,None,Fourth Edition Foreign Black Border,Common,1,Blue,True,False,True,True,b'Mark Poole',0.5
-Leviatán,Creature,Leviathan,Fourth Edition Foreign Black Border,Rare,9,Blue,True,False,True,True,b'Mark Tedin',0.5
-Derivación vital,Enchantment,None,Fourth Edition Foreign Black Border,Uncommon,2,Blue,False,False,True,True,b'Anson Maddocks',0.5
-Señor de la Atlántida,Creature,Merfolk,Fourth Edition Foreign Black Border,Rare,2,Blue,True,False,True,True,b'Melissa A. Benson',0.5
-Escamoteo mágico,Instant,None,Fourth Edition Foreign Black Border,Rare,1,Blue,False,False,True,True,b'Julie Baroh',0.5
-Djinn Mahamoti,Creature,Djinn,Fourth Edition Foreign Black Border,Rare,6,Blue,True,False,True,True,b'Dan Frazier',0.5
-Escasez de maná,Instant,None,Fourth Edition Foreign Black Border,Rare,3,Blue,False,False,True,True,b'Dameon Willich',0.5
-Tritones del Tridente Perlado,Creature,Merfolk,Fourth Edition Foreign Black Border,Common,1,Blue,True,False,True,True,b'Jeff A. Menges',0.5
-Bomba mental,Sorcery,None,Fourth Edition Foreign Black Border,Uncommon,1,Blue,False,False,True,True,b'Mark Tedin',0.5
-Fuerzas fantasmales,Creature,Illusion,Fourth Edition Foreign Black Border,Uncommon,4,Blue,False,False,True,True,b'Mark Poole',0.5
-Terreno fantasmal,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,2,Blue,False,False,True,True,b'Dameon Willich',0.5
-Monstruo fantasmal,Creature,Illusion,Fourth Edition Foreign Black Border,Uncommon,4,Blue,False,False,True,True,b'Jesper Myrfors',0.5
-Barco pirata,Creature,Human Pirate,Fourth Edition Foreign Black Border,Rare,5,Blue,True,False,True,True,b'Tom W\xc3\xa4nerstrand',0.5
-Pérdida de poder,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,2,Blue,False,False,True,True,b'Drew Tucker',0.5
-Sumidero del poder,Instant,None,Fourth Edition Foreign Black Border,Common,2,Blue,False,False,True,True,b'Richard Thomas',0.5
-Hechicero pródigo,Creature,Human Wizard,Fourth Edition Foreign Black Border,Common,3,Blue,True,False,True,True,b'Douglas Shuler',0.5
-Entidad psiónica,Creature,Illusion,Fourth Edition Foreign Black Border,Rare,5,Blue,False,False,True,True,b'Justin Hampton',0.5
-Veneno psíquico,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,2,Blue,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.5
-Lazo arcáico,Enchantment,Aura,Fourth Edition Foreign Black Border,Rare,3,Blue,False,False,True,True,b'Christopher Rush',0.5
-Serpiente de mar,Creature,Serpent,Fourth Edition Foreign Black Border,Common,6,Blue,False,False,True,True,b'Jeff A. Menges',0.5
-Leviatán de Segovia,Creature,Leviathan,Fourth Edition Foreign Black Border,Uncommon,5,Blue,False,False,True,True,b'Melissa A. Benson',0.5
-Sinnbad,Creature,Human,Fourth Edition Foreign Black Border,Uncommon,2,Blue,True,False,True,True,b'Julie Baroh',0.5
-Canto de sirena,Instant,None,Fourth Edition Foreign Black Border,Uncommon,1,Blue,False,False,True,True,b'Anson Maddocks',0.5
-Insidia mental,Instant,None,Fourth Edition Foreign Black Border,Rare,1,Blue,False,False,True,True,b'Mark Poole',0.5
-Hechizo en ráfaga,Instant,None,Fourth Edition Foreign Black Border,Common,2,Blue,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.5
-Estásis,Enchantment,None,Fourth Edition Foreign Black Border,Rare,2,Blue,False,False,True,True,b'Fay Jones',0.5
-Robar artefacto,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,4,Blue,True,False,True,True,b'Amy Weber',0.5
-Ciudad sumergida,Enchantment,None,Fourth Edition Foreign Black Border,Common,2,Blue,False,False,True,True,b'Jesper Myrfors',0.5
-Atadura mental,Instant,None,Fourth Edition Foreign Black Border,Rare,1,Blue,False,False,True,True,b'Mark Poole',0.5
-Elemental de tiempo,Creature,Elemental,Fourth Edition Foreign Black Border,Rare,3,Blue,False,False,True,True,b'Amy Weber',0.5
-Girar,Instant,None,Fourth Edition Foreign Black Border,Common,1,Blue,True,False,True,True,b'Rob Alexander',0.5
-Mutación inestable,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,1,Blue,True,False,True,True,b'Douglas Shuler',0.5
-Anular invocación,Instant,None,Fourth Edition Foreign Black Border,Common,1,Blue,True,True,True,True,b'Douglas Shuler',0.5
-Erupción volcánica,Sorcery,None,Fourth Edition Foreign Black Border,Rare,4,Blue,False,False,True,True,b'Douglas Shuler',0.5
-Muro de aire,Creature,Wall,Fourth Edition Foreign Black Border,Uncommon,3,Blue,True,False,True,True,b'Richard Thomas',0.5
-Muro de agua,Creature,Wall,Fourth Edition Foreign Black Border,Uncommon,3,Blue,False,False,True,True,b'Richard Thomas',0.5
-Elemental de agua,Creature,Elemental,Fourth Edition Foreign Black Border,Uncommon,5,Blue,False,False,True,True,b'Jeff A. Menges',0.5
-Halcón del céfiro,Creature,Bird,Fourth Edition Foreign Black Border,Common,2,Blue,False,False,True,True,b'Heather Hudson',0.5
-Abominación,Creature,Horror,Fourth Edition Foreign Black Border,Uncommon,5,Black,False,False,True,True,b'Mark Tedin',0.5
-Animar a los muertos,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,2,Black,False,False,True,True,b'Anson Maddocks',0.5
-Cenizas a las cenizas,Sorcery,None,Fourth Edition Foreign Black Border,Uncommon,3,Black,False,False,True,True,b'Drew Tucker',0.5
-Luna maligna,Enchantment,None,Fourth Edition Foreign Black Border,Rare,2,Black,True,False,True,True,b'Jesper Myrfors',0.5
-Caballero negro,Creature,Human Knight,Fourth Edition Foreign Black Border,Uncommon,2,Black,True,False,True,True,b'Jeff A. Menges',0.5
-Tierra estéril,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,2,Black,False,False,True,True,b'Pete Venters',0.5
-Diablillo del pantano,Creature,Imp,Fourth Edition Foreign Black Border,Common,2,Black,True,False,True,True,b'Ron Spencer',0.5
-Aparición de la ciénaga,Creature,Wraith,Fourth Edition Foreign Black Border,Uncommon,4,Black,True,False,True,True,b'Jeff A. Menges',0.5
-Hormigas carroñeras,Creature,Insect,Fourth Edition Foreign Black Border,Uncommon,4,Black,False,False,True,True,b'Richard Thomas',0.5
-Horror cósmico,Creature,Horror,Fourth Edition Foreign Black Border,Rare,6,Black,False,False,True,True,b'Jesper Myrfors',0.5
-Tierra maldita,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,4,Black,False,False,True,True,b'Jesper Myrfors',0.5
-Momia ciclópea,Creature,Zombie,Fourth Edition Foreign Black Border,Common,2,Black,False,False,True,True,"b'Edward P. Beard, Jr.'",0.5
-Ritual siniestro,Instant,None,Fourth Edition Foreign Black Border,Common,1,Black,False,False,True,True,b'Sandra Everingham',0.5
-Tenaza mortal,Enchantment,None,Fourth Edition Foreign Black Border,Uncommon,2,Black,False,False,True,True,b'Anson Maddocks',0.5
-Atadura mortal,Instant,None,Fourth Edition Foreign Black Border,Rare,1,Black,False,False,True,True,b'Sandra Everingham',0.5
-Drenar vida,Sorcery,None,Fourth Edition Foreign Black Border,Common,3,Black,False,False,True,True,b'Douglas Shuler',0.5
-Esqueletos esclavos,Creature,Skeleton,Fourth Edition Foreign Black Border,Common,2,Black,True,False,True,True,b'Sandra Everingham',0.5
-El-Hajjâj,Creature,Human Wizard,Fourth Edition Foreign Black Border,Rare,3,Black,False,False,True,True,b'Dameon Willich',0.5
-Incursores del Erg,Creature,Human Warrior,Fourth Edition Foreign Black Border,Common,2,Black,False,False,True,True,b'Dameon Willich',0.5
-Presencia maligna,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,1,Black,True,False,True,True,b'Sandra Everingham',0.5
-Inspirar temor,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,2,Black,True,False,True,True,b'Mark Poole',0.5
-Sombra gélida,Creature,Shade,Fourth Edition Foreign Black Border,Common,3,Black,False,False,True,True,b'Douglas Shuler',0.5
-Abatimiento,Enchantment,None,Fourth Edition Foreign Black Border,Uncommon,3,Black,False,False,True,True,b'Dan Frazier',0.5
-Avaricia,Enchantment,None,Fourth Edition Foreign Black Border,Rare,4,Black,False,False,True,True,b'Phil Foglio',0.5
-Aullido del más allá,Instant,None,Fourth Edition Foreign Black Border,Common,2,Black,False,False,True,True,b'Mark Poole',0.5
-Espectro hipnótico,Creature,Specter,Fourth Edition Foreign Black Border,Uncommon,3,Black,True,False,True,True,b'Douglas Shuler',0.5
-Efrit de Junún,Creature,Efreet,Fourth Edition Foreign Black Border,Uncommon,3,Black,False,False,True,True,b'Christopher Rush',0.5
-Señor del Abismo,Creature,Demon,Fourth Edition Foreign Black Border,Rare,7,Black,True,False,True,True,b'Mark Tedin',0.5
-Alma en pena,Creature,Spirit Minion,Fourth Edition Foreign Black Border,Common,3,Black,False,False,True,True,b'Randy Asplund-Faith',0.5
-Gas de los pantanos,Instant,None,Fourth Edition Foreign Black Border,Common,1,Black,False,False,True,True,b'Douglas Shuler',0.5
-Latigazo mental,Sorcery,None,Fourth Edition Foreign Black Border,Rare,2,Black,False,False,True,True,b'Julie Baroh',0.5
-Moradores de las tinieblas,Creature,Zombie,Fourth Edition Foreign Black Border,Common,4,Black,False,False,True,True,b'Drew Tucker',0.5
-Sombra del submundo,Creature,Spirit,Fourth Edition Foreign Black Border,Rare,2,Black,False,False,True,True,b'Christopher Rush',0.5
-Pesadilla,Creature,Nightmare Horse,Fourth Edition Foreign Black Border,Rare,6,Black,True,False,True,True,b'Melissa A. Benson',0.5
-Parálisis,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,1,Black,False,False,True,True,b'Anson Maddocks',0.5
-Pestilencia,Enchantment,None,Fourth Edition Foreign Black Border,Common,4,Black,False,False,True,True,b'Jesper Myrfors',0.5
-Escorpión del Abismo,Creature,Scorpion,Fourth Edition Foreign Black Border,Common,3,Black,False,False,True,True,b'Scott Kirschner',0.5
-Plaga de ratas,Creature,Rat,Fourth Edition Foreign Black Border,Common,3,Black,False,False,True,True,b'Anson Maddocks',0.5
-Pordiosero,Creature,Human Minion,Fourth Edition Foreign Black Border,Rare,4,Black,False,False,True,True,b'Daniel Gelon',0.5
-Alzar a los muertos,Sorcery,None,Fourth Edition Foreign Black Border,Common,1,Black,True,False,True,True,b'Jeff A. Menges',0.5
-Asesino real,Creature,Human Assassin,Fourth Edition Foreign Black Border,Rare,3,Black,True,False,True,True,b'Tom W\xc3\xa4nerstrand',0.5
-Zombies dañinos,Creature,Zombie,Fourth Edition Foreign Black Border,Common,3,Black,True,False,True,True,b'Jesper Myrfors',0.5
-Gul carroñero,Creature,Zombie,Fourth Edition Foreign Black Border,Uncommon,4,Black,False,False,True,True,b'Jeff A. Menges',0.5
-Vampiro de Sengir,Creature,Vampire,Fourth Edition Foreign Black Border,Uncommon,5,Black,True,False,True,True,b'Anson Maddocks',0.5
-Simulacro,Instant,None,Fourth Edition Foreign Black Border,Uncommon,2,Black,False,False,True,True,b'Mark Poole',0.5
-Reina hechicera,Creature,Human Wizard,Fourth Edition Foreign Black Border,Rare,3,Black,False,False,True,True,b'Kaja Foglio',0.5
-Grilletes espectrales,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,2,Black,False,False,True,True,"b'Edward P. Beard, Jr.'",0.5
-Terror,Instant,None,Fourth Edition Foreign Black Border,Common,2,Black,True,False,True,True,b'Ron Spencer',0.5
-Tio Istvan,Creature,Human,Fourth Edition Foreign Black Border,Uncommon,4,Black,True,False,True,True,b'Daniel Gelon',0.5
-Fuerza impía,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,1,Black,True,False,True,True,b'Douglas Shuler',0.5
-Murciélagos vampiro,Creature,Bat,Fourth Edition Foreign Black Border,Common,1,Black,True,False,True,True,b'Anson Maddocks',0.5
-Muro de huesos,Creature,Skeleton Wall,Fourth Edition Foreign Black Border,Uncommon,3,Black,True,False,True,True,b'Anson Maddocks',0.5
-Deformar artefacto,Enchantment,Aura,Fourth Edition Foreign Black Border,Rare,2,Black,False,False,True,True,b'Amy Weber',0.5
-Debilidad,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,1,Black,True,False,True,True,b'Douglas Shuler',0.5
-Fuego fatuo,Creature,Spirit,Fourth Edition Foreign Black Border,Rare,1,Black,True,False,True,True,b'Jesper Myrfors',0.5
-Palabras de poder,Sorcery,None,Fourth Edition Foreign Black Border,Common,3,Black,False,False,True,True,b'Ron Spencer',0.5
-Poltergeist animista,Creature,Spirit,Fourth Edition Foreign Black Border,Rare,3,Black,False,False,True,True,b'Dan Frazier',0.5
-Señor de los Zombies,Creature,Zombie,Fourth Edition Foreign Black Border,Rare,3,Black,False,False,True,True,b'Jeff A. Menges',0.5
-Ali Baba,Creature,Human Rogue,Fourth Edition Foreign Black Border,Uncommon,1,Red,False,False,True,True,b'Julie Baroh',0.5
-Bola de rayos,Creature,Elemental,Fourth Edition Foreign Black Border,Rare,3,Red,True,False,True,True,b'Quinton Hoover',0.5
-Doncella alada,Creature,Human Bird,Fourth Edition Foreign Black Border,Common,3,Red,False,False,True,True,b'Kaja Foglio',0.5
-Ansia de sangre,Instant,None,Fourth Edition Foreign Black Border,Common,2,Red,False,False,True,True,b'Anson Maddocks',0.5
-Hermanos del Fuego,Creature,Human Shaman,Fourth Edition Foreign Black Border,Common,3,Red,False,False,True,True,b'Mark Tedin',0.5
-Cavar túneles,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,1,Red,False,False,True,True,b'Daniel Gelon',0.5
-Cavernícolas,Creature,Human,Fourth Edition Foreign Black Border,Uncommon,3,Red,False,False,True,True,b'Drew Tucker',0.5
-Atadura vital,Instant,None,Fourth Edition Foreign Black Border,Rare,1,Red,False,False,True,True,b'Dameon Willich',0.5
-Mantícora carmesí,Creature,Manticore,Fourth Edition Foreign Black Border,Rare,4,Red,False,False,True,True,b'Daniel Gelon',0.5
-Detonar,Sorcery,None,Fourth Edition Foreign Black Border,Uncommon,2,Red,True,False,True,True,b'Randy Asplund-Faith',0.5
-Desintegrar,Sorcery,None,Fourth Edition Foreign Black Border,Common,2,Red,True,False,True,True,b'Anson Maddocks',0.5
-Cría de dragón,Creature,Dragon,Fourth Edition Foreign Black Border,Uncommon,4,Red,True,False,True,True,b'Amy Weber',0.5
-Guerreros enanos,Creature,Dwarf Warrior,Fourth Edition Foreign Black Border,Common,3,Red,False,False,True,True,b'Douglas Shuler',0.5
-Elemental de tierra,Creature,Elemental,Fourth Edition Foreign Black Border,Uncommon,5,Red,True,False,True,True,b'Dan Frazier',0.5
-Terremoto,Sorcery,None,Fourth Edition Foreign Black Border,Rare,2,Red,True,False,True,True,b'Dan Frazier',0.5
-Guerrero eterno,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,1,Red,False,False,True,True,b'Anson Maddocks',0.5
-Elemental de fuego,Creature,Elemental,Fourth Edition Foreign Black Border,Uncommon,5,Red,True,True,True,True,b'Melissa A. Benson',0.5
-Bola de fuego,Sorcery,None,Fourth Edition Foreign Black Border,Common,2,Red,True,False,True,True,b'Mark Tedin',0.5
-Hálito de fuego,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,1,Red,True,False,True,True,b'Dan Frazier',0.5
-Grieta,Instant,None,Fourth Edition Foreign Black Border,Common,5,Red,False,False,True,True,b'Douglas Shuler',0.5
-Tormenta ígnea,Sorcery,None,Fourth Edition Foreign Black Border,Uncommon,4,Red,True,False,True,True,b'Dameon Willich',0.5
-Fuerza de gigante,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,2,Red,False,False,True,True,b'Justin Hampton',0.5
-Trasgos aeronautas,Creature,Goblin Warrior,Fourth Edition Foreign Black Border,Uncommon,1,Red,True,False,True,True,b'Andi Rusu',0.5
-Rey trasgo,Creature,Goblin,Fourth Edition Foreign Black Border,Rare,3,Red,True,False,True,True,b'Jesper Myrfors',0.5
-Trineo de roca trasgo,Creature,Goblin,Fourth Edition Foreign Black Border,Common,2,Red,False,False,True,True,b'Dennis Detwiller',0.5
-Ogro gris,Creature,Ogre,Fourth Edition Foreign Black Border,Common,3,Red,False,False,True,True,b'Dan Frazier',0.5
-Gigante de las colinas,Creature,Giant,Fourth Edition Foreign Black Border,Common,4,Red,True,False,True,True,b'Dan Frazier',0.5
-Minotauro de Hurloon,Creature,Minotaur,Fourth Edition Foreign Black Border,Common,3,Red,False,False,True,True,b'Anson Maddocks',0.5
-Chacal de Hurr,Creature,Jackal,Fourth Edition Foreign Black Border,Rare,1,Red,False,False,True,True,b'Drew Tucker',0.5
-Immolcaión,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,1,Red,False,False,True,True,b'Scott Kirschner',0.5
-Infierno,Instant,None,Fourth Edition Foreign Black Border,Rare,7,Red,True,False,True,True,b'Randy Asplund-Faith',0.5
-Orcos Zarpafierro,Creature,Orc,Fourth Edition Foreign Black Border,Common,2,Red,False,False,True,True,b'Anson Maddocks',0.5
-Señor guerrero de Keldon,Creature,Human Barbarian,Fourth Edition Foreign Black Border,Uncommon,4,Red,False,False,True,True,b'Kev Brockschmidt',0.5
-Relámpago,Instant,None,Fourth Edition Foreign Black Border,Common,1,Red,True,False,True,True,b'Christopher Rush',0.5
-Montaña magnética,Enchantment,None,Fourth Edition Foreign Black Border,Rare,3,Red,False,False,True,True,b'Susan Van Camp',0.5
-Choque de maná,Sorcery,None,Fourth Edition Foreign Black Border,Rare,1,Red,True,False,True,True,b'Mark Tedin',0.5
-Fulgor de maná,Enchantment,None,Fourth Edition Foreign Black Border,Rare,3,Red,False,False,True,True,b'Christopher Rush',0.5
-Espinas de maná,Enchantment,None,Fourth Edition Foreign Black Border,Rare,4,Red,True,False,True,True,b'Christopher Rush',0.5
-Trasgos de Mons,Creature,Goblin,Fourth Edition Foreign Black Border,Common,1,Red,False,False,True,True,b'Jeff A. Menges',0.5
-Artillería orca,Creature,Orc Warrior,Fourth Edition Foreign Black Border,Uncommon,3,Red,True,False,True,True,b'Anson Maddocks',0.5
-Oriflama orca,Enchantment,None,Fourth Edition Foreign Black Border,Uncommon,4,Red,False,False,True,True,b'Dan Frazier',0.5
-Descarga de maná,Enchantment,None,Fourth Edition Foreign Black Border,Rare,2,Red,False,False,True,True,b'Douglas Shuler',0.5
-Pirotecnia,Sorcery,None,Fourth Edition Foreign Black Border,Uncommon,5,Red,True,False,True,True,b'Anson Maddocks',0.5
-Ráfaga elemental roja,Instant,None,Fourth Edition Foreign Black Border,Common,1,Red,False,False,True,True,b'Richard Thomas',0.5
-Romper,Instant,None,Fourth Edition Foreign Black Border,Common,2,Red,True,False,True,True,b'Amy Weber',0.5
-Dragón shivano,Creature,Dragon,Fourth Edition Foreign Black Border,Rare,6,Red,True,True,True,True,b'Melissa A. Benson',0.5
-Hermanas de la Llama,Creature,Human Shaman,Fourth Edition Foreign Black Border,Common,3,Red,False,False,True,True,b'Jesper Myrfors',0.5
-Humo,Enchantment,None,Fourth Edition Foreign Black Border,Rare,2,Red,False,False,True,True,b'Jesper Myrfors',0.5
-Gigante pétreo,Creature,Giant,Fourth Edition Foreign Black Border,Uncommon,4,Red,True,False,True,True,b'Dameon Willich',0.5
-Lluvia de piedras,Sorcery,None,Fourth Edition Foreign Black Border,Common,3,Red,True,False,True,True,b'Daniel Gelon',0.5
-Efrit de la tormenta,Creature,Efreet,Fourth Edition Foreign Black Border,Rare,4,Red,False,False,False,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.5
-Brutalidad,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,2,Red,False,False,True,True,b'Mark Poole',0.5
-Tunel,Instant,None,Fourth Edition Foreign Black Border,Uncommon,1,Red,False,False,True,True,b'Dan Frazier',0.5
-Trol de Uthden,Creature,Troll,Fourth Edition Foreign Black Border,Uncommon,3,Red,True,False,True,True,b'Douglas Shuler',0.5
-Muro de polvo,Creature,Wall,Fourth Edition Foreign Black Border,Uncommon,3,Red,False,False,True,True,b'Richard Thomas',0.5
-Muro de fuego,Creature,Wall,Fourth Edition Foreign Black Border,Uncommon,3,Red,True,False,True,True,b'Richard Thomas',0.5
-Muro de piedra,Creature,Wall,Fourth Edition Foreign Black Border,Uncommon,3,Red,True,False,True,True,b'Dan Frazier',0.5
-Vientos del cambio,Sorcery,None,Fourth Edition Foreign Black Border,Rare,1,Red,False,False,True,True,b'Justin Hampton',0.5
-Aspecto de lobo,Enchantment,Aura,Fourth Edition Foreign Black Border,Rare,2,Green,False,False,True,True,b'Jeff A. Menges',0.5
-Aves del paraíso,Creature,Bird,Fourth Edition Foreign Black Border,Rare,1,Green,True,False,True,True,b'Mark Poole',0.5
-Planta carnívora,Creature,Plant Wall,Fourth Edition Foreign Black Border,Common,4,Green,False,False,True,True,b'Quinton Hoover',0.5
-Canalizar,Sorcery,None,Fourth Edition Foreign Black Border,Uncommon,2,Green,False,False,False,True,b'Richard Thomas',0.5
-Cocatriz,Creature,Cockatrice,Fourth Edition Foreign Black Border,Rare,5,Green,True,False,True,True,b'Dan Frazier',0.5
-Sierpe Dragón,Creature,Wurm,Fourth Edition Foreign Black Border,Common,6,Green,True,False,True,True,b'Daniel Gelon',0.5
-Derruir,Instant,None,Fourth Edition Foreign Black Border,Uncommon,1,Green,False,False,True,True,b'Jesper Myrfors',0.5
-Torbellino de arena,Sorcery,None,Fourth Edition Foreign Black Border,Uncommon,6,Green,False,False,True,True,b'Susan Van Camp',0.5
-Jabalíes del Bosque de Durk,Creature,Boar,Fourth Edition Foreign Black Border,Common,5,Green,False,False,True,True,b'Mike Kimble',0.5
-Jinetes élficos,Creature,Elf,Fourth Edition Foreign Black Border,Uncommon,5,Green,True,False,True,True,b'Melissa A. Benson',0.5
-Arqueros élficos,Creature,Elf Archer,Fourth Edition Foreign Black Border,Rare,2,Green,False,False,True,True,b'Anson Maddocks',0.5
-Niebla,Instant,None,Fourth Edition Foreign Black Border,Common,1,Green,True,False,True,True,b'Jesper Myrfors',0.5
-Fuerza de la naturaleza,Creature,Elemental,Fourth Edition Foreign Black Border,Rare,6,Green,True,False,True,True,b'Douglas Shuler',0.5
-Fungosaurio,Creature,Fungus Dinosaur,Fourth Edition Foreign Black Border,Rare,4,Green,True,False,True,True,b'Daniel Gelon',0.5
-Siervo de Gaia,Creature,Avatar,Fourth Edition Foreign Black Border,Rare,6,Green,True,False,True,True,b'Dameon Willich',0.5
-Crecimiento gigante,Instant,None,Fourth Edition Foreign Black Border,Common,1,Green,True,True,True,True,b'Sandra Everingham',0.5
-Araña gigante,Creature,Spider,Fourth Edition Foreign Black Border,Common,4,Green,True,False,True,True,b'Sandra Everingham',0.5
-Osos pardos,Creature,Bear,Fourth Edition Foreign Black Border,Common,2,Green,True,False,True,True,b'Jeff A. Menges',0.5
-Huracán,Sorcery,None,Fourth Edition Foreign Black Border,Uncommon,2,Green,True,False,True,True,b'Dameon Willich',0.5
-Insuflar energía,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,1,Green,False,False,True,True,b'Dameon Willich',0.5
-Pueblo arbóreo Raiceslargas,Creature,Treefolk,Fourth Edition Foreign Black Border,Common,5,Green,False,False,True,True,b'Jesper Myrfors',0.5
-Abejas asesinas,Creature,Insect,Fourth Edition Foreign Black Border,Uncommon,3,Green,False,False,True,True,b'Phil Foglio',0.5
-Sanguijuelas de tierra,Creature,Leech,Fourth Edition Foreign Black Border,Common,3,Green,False,False,True,True,b'Quinton Hoover',0.5
-Druida de Lei,Creature,Human Druid,Fourth Edition Foreign Black Border,Uncommon,3,Green,True,False,True,True,b'Sandra Everingham',0.5
-Fuerza vital,Enchantment,None,Fourth Edition Foreign Black Border,Uncommon,2,Green,False,False,True,True,b'Dameon Willich',0.5
-Atadura vital,Instant,None,Fourth Edition Foreign Black Border,Rare,1,Green,False,False,True,True,b'Amy Weber',0.5
-Artefacto viviente,Enchantment,Aura,Fourth Edition Foreign Black Border,Rare,1,Green,False,False,True,True,b'Anson Maddocks',0.5
-Tierras vivientes,Enchantment,None,Fourth Edition Foreign Black Border,Rare,4,Green,False,False,True,True,b'Jesper Myrfors',0.5
-Elfos de Llanowar,Creature,Elf Druid,Fourth Edition Foreign Black Border,Common,1,Green,True,False,True,True,b'Anson Maddocks',0.5
-Señuelo,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,3,Green,True,False,True,True,b'Anson Maddocks',0.5
-Víbora de pantano,Creature,Snake,Fourth Edition Foreign Black Border,Common,4,Green,False,False,True,True,b'Ron Spencer',0.5
-Àspid de Nafs,Creature,Snake,Fourth Edition Foreign Black Border,Common,1,Green,False,False,True,True,b'Christopher Rush',0.5
-Zíngaros de Pradesh,Creature,Human Nomad,Fourth Edition Foreign Black Border,Common,3,Green,False,False,True,True,b'Quinton Hoover',0.5
-Espíritu de Radjan,Creature,Spirit,Fourth Edition Foreign Black Border,Uncommon,4,Green,False,False,True,True,b'Christopher Rush',0.5
-Renacer,Sorcery,None,Fourth Edition Foreign Black Border,Rare,6,Green,False,False,False,True,b'Mark Tedin',0.5
-Regeneración,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,2,Green,True,False,True,True,b'Quinton Hoover',0.5
-Tormenta de arena,Instant,None,Fourth Edition Foreign Black Border,Common,1,Green,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.5
-Duendes voladores,Creature,Faerie,Fourth Edition Foreign Black Border,Common,1,Green,False,False,True,True,b'Amy Weber',0.5
-Dríadas de Shanodín,Creature,Nymph Dryad,Fourth Edition Foreign Black Border,Common,1,Green,False,False,True,True,b'Anson Maddocks',0.5
-Manantial de vida,Sorcery,None,Fourth Edition Foreign Black Border,Common,2,Green,True,False,True,True,b'Mark Poole',0.5
-Biblioteca silvana,Enchantment,None,Fourth Edition Foreign Black Border,Rare,2,Green,False,False,True,True,b'Harold McNeill',0.5
-Basilisco de maleza,Creature,Basilisk,Fourth Edition Foreign Black Border,Uncommon,5,Green,False,False,True,True,b'Dan Frazier',0.5
-Lobos ferales,Creature,Wolf,Fourth Edition Foreign Black Border,Rare,1,Green,False,False,True,True,b'Melissa A. Benson',0.5
-Canto de Titania,Enchantment,None,Fourth Edition Foreign Black Border,Rare,4,Green,False,False,True,True,b'Kerstin Kaman',0.5
-Tranquillità,Sorcery,None,Fourth Edition Foreign Black Border,Common,3,Green,False,False,True,True,b'Douglas Shuler',0.5
-Tsunami,Sorcery,None,Fourth Edition Foreign Black Border,Uncommon,4,Green,False,False,True,True,b'Richard Thomas',0.5
-Tierra vírgen,Sorcery,None,Fourth Edition Foreign Black Border,Uncommon,3,Green,False,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.5
-Veneno,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,3,Green,False,False,True,True,b'Tom W\xc3\xa4nerstrand',0.5
-Encantadora de las plantas,Creature,Human Druid,Fourth Edition Foreign Black Border,Rare,3,Green,True,False,True,True,b'Kev Brockschmidt',0.5
-Muro de espinos,Creature,Plant Wall,Fourth Edition Foreign Black Border,Uncommon,3,Green,False,False,True,True,b'Anson Maddocks',0.5
-Muro de hielo,Creature,Wall,Fourth Edition Foreign Black Border,Uncommon,3,Green,False,False,True,True,b'Richard Thomas',0.5
-Muro de ramas,Creature,Wall,Fourth Edition Foreign Black Border,Common,1,Green,True,False,True,True,b'Mark Tedin',0.5
-Ansia Viajera,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,3,Green,False,False,True,True,b'Cornelius Brudi',0.5
-Mamut de Guerra,Creature,Elephant,Fourth Edition Foreign Black Border,Common,4,Green,False,False,True,True,b'Jeff A. Menges',0.5
-Telaraña,Enchantment,Aura,Fourth Edition Foreign Black Border,Rare,1,Green,True,False,True,True,b'Rob Alexander',0.5
-Hostigadores derviches,Creature,Human Monk,Fourth Edition Foreign Black Border,Uncommon,2,Green,True,False,True,True,b'Susan Van Camp',0.5
-Crecimiento salvaje,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,1,Green,False,False,True,True,b'Mark Poole',0.5
-Ráfaga invernal,Sorcery,None,Fourth Edition Foreign Black Border,Uncommon,2,Green,False,False,True,True,b'Kaja Foglio',0.5
-Lámpara de Aladino,Artifact,None,Fourth Edition Foreign Black Border,Rare,1,Colorless,False,False,True,True,b'Mark Tedin',0.5
-Anillo de Aladino,Artifact,None,Fourth Edition Foreign Black Border,Rare,8,Colorless,True,False,True,True,b'Dan Frazier',0.5
-Amuleto de Kroog,Artifact,None,Fourth Edition Foreign Black Border,Common,2,Colorless,False,False,True,True,b'Margaret Organ-Kean',0.5
-Ankh de Mishra,Artifact,None,Fourth Edition Foreign Black Border,Rare,2,Colorless,False,False,True,True,b'Amy Weber',0.5
-Reloj del armagedón,Artifact,None,Fourth Edition Foreign Black Border,Rare,6,Colorless,False,False,True,True,b'Amy Weber',0.5
-Atavio de guerra de Ashnod,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,2,Colorless,False,False,True,True,b'Mark Poole',0.5
-Ariete,Artifact Creature,Construct,Fourth Edition Foreign Black Border,Common,2,Colorless,False,False,True,True,b'Jeff A. Menges',0.5
-Batería de maná negro,Artifact,None,Fourth Edition Foreign Black Border,Rare,4,Colorless,False,False,True,True,b'Anson Maddocks',0.5
-Tornillo siniestro,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,1,Colorless,False,False,True,True,b'Richard Thomas',0.5
-Batería de maná azul,Artifact,None,Fourth Edition Foreign Black Border,Rare,4,Colorless,False,False,True,True,b'Amy Weber',0.5
-Botella de Suleimán,Artifact,None,Fourth Edition Foreign Black Border,Rare,4,Colorless,False,False,True,True,b'Jesper Myrfors',0.5
-Hombre de latón,Artifact Creature,Construct,Fourth Edition Foreign Black Border,Uncommon,1,Colorless,False,False,True,True,b'Christopher Rush',0.5
-Tablilla de bronce,Artifact,None,Fourth Edition Foreign Black Border,Rare,6,Colorless,False,False,False,True,b'Tom W\xc3\xa4nerstrand',0.5
-Prisma celestial,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,3,Colorless,False,False,True,True,b'Amy Weber',0.5
-Estatua de arcilla,Artifact Creature,Golem,Fourth Edition Foreign Black Border,Common,4,Colorless,False,False,True,True,b'Jesper Myrfors',0.5
-Ave mecánica,Artifact Creature,Bird,Fourth Edition Foreign Black Border,Rare,5,Colorless,False,False,True,True,b'Randy Asplund-Faith',0.5
-Bestia mecánica,Artifact Creature,Beast,Fourth Edition Foreign Black Border,Rare,6,Colorless,False,False,True,True,b'Drew Tucker',0.5
-Coloso de Sardia,Artifact Creature,Golem,Fourth Edition Foreign Black Border,Rare,9,Colorless,True,False,True,True,b'Jesper Myrfors',0.5
-Conservador,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,4,Colorless,False,False,True,True,b'Amy Weber',0.5
-Yelmo de coral,Artifact,None,Fourth Edition Foreign Black Border,Rare,3,Colorless,False,False,True,True,b'Amy Weber',0.5
-Vara de cristal,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,1,Colorless,True,False,True,True,b'Amy Weber',0.5
-El potro,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,4,Colorless,False,False,True,True,b'Richard Thomas',0.5
-Cimitarra danzante,Artifact Creature,Spirit,Fourth Edition Foreign Black Border,Rare,4,Colorless,True,False,True,True,b'Anson Maddocks',0.5
-Máquina diabólica,Artifact Creature,Construct,Fourth Edition Foreign Black Border,Uncommon,7,Colorless,False,False,True,True,b'Anson Maddocks',0.5
-Huevo de Dingus,Artifact,None,Fourth Edition Foreign Black Border,Rare,4,Colorless,True,False,True,True,b'Dan Frazier',0.5
-Cetro disruptor,Artifact,None,Fourth Edition Foreign Black Border,Rare,3,Colorless,True,False,True,True,b'Dan Frazier',0.5
-Dragón de vapor,Artifact Creature,Construct,Fourth Edition Foreign Black Border,Rare,3,Colorless,False,False,True,True,b'Anson Maddocks',0.5
-Caballo de ébano,Artifact,None,Fourth Edition Foreign Black Border,Rare,3,Colorless,False,False,True,True,b'Dameon Willich',0.5
-Piedra de Fellwar,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,2,Colorless,True,False,True,True,b'Quinton Hoover',0.5
-Alfombra voladora,Artifact,None,Fourth Edition Foreign Black Border,Rare,4,Colorless,True,False,True,True,b'Mark Tedin',0.5
-Anteojos de Urza,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,1,Colorless,False,False,True,True,b'Douglas Shuler',0.5
-Catapulta de metralla,Artifact Creature,Construct,Fourth Edition Foreign Black Border,Common,4,Colorless,False,False,True,True,b'Dan Frazier',0.5
-Bateria de maná verde,Artifact,None,Fourth Edition Foreign Black Border,Rare,4,Colorless,False,False,True,True,b'Christopher Rush',0.5
-Yelmo de Chatzuk,Artifact,None,Fourth Edition Foreign Black Border,Rare,1,Colorless,False,False,True,True,b'Mark Tedin',0.5
-Mina aullante,Artifact,None,Fourth Edition Foreign Black Border,Rare,2,Colorless,True,False,True,True,b'Mark Poole',0.5
-Estrella de hierro,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,1,Colorless,True,False,True,True,b'Dan Frazier',0.5
-Copa de marfil,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,1,Colorless,True,False,True,True,b'Anson Maddocks',0.5
-Torre de marfil,Artifact,None,Fourth Edition Foreign Black Border,Rare,1,Colorless,False,False,True,True,b'Margaret Organ-Kean',0.5
-Monolito de jade,Artifact,None,Fourth Edition Foreign Black Border,Rare,4,Colorless,False,False,True,True,b'Anson Maddocks',0.5
-Alforjas de Jandor,Artifact,None,Fourth Edition Foreign Black Border,Rare,2,Colorless,False,False,True,True,b'Dameon Willich',0.5
-Volumen de Jayemdae,Artifact,None,Fourth Edition Foreign Black Border,Rare,4,Colorless,True,False,True,True,b'Mark Tedin',0.5
-Campana de Kormus,Artifact,None,Fourth Edition Foreign Black Border,Rare,4,Colorless,False,False,True,True,b'Christopher Rush',0.5
-Biblioteca de Leng,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,1,Colorless,False,False,True,True,b'Daniel Gelon',0.5
-Cofre de maná,Artifact,None,Fourth Edition Foreign Black Border,Rare,1,Colorless,False,False,True,True,b'Mark Tedin',0.5
-Piedra de la mansedumbre,Artifact,None,Fourth Edition Foreign Black Border,Rare,1,Colorless,False,False,True,True,b'Quinton Hoover',0.5
-Rueda de molino,Artifact,None,Fourth Edition Foreign Black Border,Rare,2,Colorless,True,False,True,True,b'Kaja Foglio',0.5
-Máquina de guerra de Mishra,Artifact Creature,Juggernaut,Fourth Edition Foreign Black Border,Rare,7,Colorless,False,False,True,True,b'Amy Weber',0.5
-Disco de Nevinyrral,Artifact,None,Fourth Edition Foreign Black Border,Rare,4,Colorless,False,False,True,True,b'Mark Tedin',0.5
-Gólem de obsidiana,Artifact Creature,Golem,Fourth Edition Foreign Black Border,Uncommon,6,Colorless,False,False,True,True,b'Jesper Myrfors',0.5
-Pebetero,Artifact Creature,Construct,Fourth Edition Foreign Black Border,Rare,3,Colorless,False,False,True,True,b'Anson Maddocks',0.5
-Ornitóptero,Artifact Creature,Thopter,Fourth Edition Foreign Black Border,Uncommon,0,Colorless,True,False,True,True,b'Amy Weber',0.5
-Barro primordial,Artifact Creature,Shapeshifter,Fourth Edition Foreign Black Border,Rare,4,Colorless,True,False,True,True,b'Kaja Foglio',0.5
-Batería de maná rojo,Artifact,None,Fourth Edition Foreign Black Border,Rare,4,Colorless,False,False,True,True,b'Mark Tedin',0.5
-Bastón de destrucción,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,4,Colorless,True,False,True,True,b'Christopher Rush',0.5
-Metamorfo,Artifact Creature,Shapeshifter,Fourth Edition Foreign Black Border,Uncommon,6,Colorless,False,False,True,True,b'Dan Frazier',0.5
-Red de almas,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,1,Colorless,False,False,True,True,b'Dameon Willich',0.5
-Gafas de Urza,Artifact,None,Fourth Edition Foreign Black Border,Rare,3,Colorless,False,False,True,True,b'Dan Frazier',0.5
-Baquete de Tawnos,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,4,Colorless,False,False,True,True,b'Douglas Shuler',0.5
-Armamento de Tawnos,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,2,Colorless,False,False,True,True,b'Dan Frazier',0.5
-Tétravo,Artifact Creature,Construct,Fourth Edition Foreign Black Border,Rare,6,Colorless,False,False,True,True,b'Mark Tedin',0.5
-La colmena,Artifact,None,Fourth Edition Foreign Black Border,Rare,5,Colorless,True,False,True,True,b'Sandra Everingham',0.5
-El potro,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,1,Colorless,True,False,True,True,b'Richard Thomas',0.5
-Trono de hueso,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,1,Colorless,True,False,True,True,b'Anson Maddocks',0.5
-Trisquelión,Artifact Creature,Construct,Fourth Edition Foreign Black Border,Rare,6,Colorless,True,False,True,True,b'Douglas Shuler',0.5
-Vengador de Urza,Artifact Creature,Shapeshifter,Fourth Edition Foreign Black Border,Rare,6,Colorless,False,False,True,True,b'Amy Weber',0.5
-Muro de lanzas,Artifact Creature,Wall,Fourth Edition Foreign Black Border,Common,3,Colorless,True,False,True,True,b'Sandra Everingham',0.5
-Batería de maná blanco,Artifact,None,Fourth Edition Foreign Black Border,Rare,4,Colorless,False,False,True,True,b'Anthony S. Waters',0.5
-Orbe invernal,Artifact,None,Fourth Edition Foreign Black Border,Rare,2,Colorless,False,False,True,True,b'Mark Tedin',0.5
-Esfera de madera,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,1,Colorless,True,False,True,True,b'Mark Tedin',0.5
-Soldado yotiano,Artifact Creature,Soldier,Fourth Edition Foreign Black Border,Common,3,Colorless,True,False,True,True,b'Christopher Rush',0.5
-Factoría de Mishra,Land,None,Fourth Edition Foreign Black Border,Uncommon,0,Colorless,False,False,True,True,b'Kaja Foglio',0.5
-Oasis,Land,None,Fourth Edition Foreign Black Border,Uncommon,0,Colorless,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.5
-Cantera,Land,None,Fourth Edition Foreign Black Border,Uncommon,0,Colorless,False,False,True,True,b'Daniel Gelon',0.5
-Llanura,Basic Land,Plains,Fourth Edition Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Jesper Myrfors',0.5
-Llanura,Basic Land,Plains,Fourth Edition Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Jesper Myrfors',0.5
-Llanura,Basic Land,Plains,Fourth Edition Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Jesper Myrfors',0.5
-Isla,Basic Land,Island,Fourth Edition Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Mark Poole',0.5
-Isla,Basic Land,Island,Fourth Edition Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Mark Poole',0.5
-Isla,Basic Land,Island,Fourth Edition Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Mark Poole',0.5
-Pantano,Basic Land,Swamp,Fourth Edition Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Dan Frazier',0.5
-Pantano,Basic Land,Swamp,Fourth Edition Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Dan Frazier',0.5
-Pantano,Basic Land,Swamp,Fourth Edition Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Dan Frazier',0.5
-Montaña,Basic Land,Mountain,Fourth Edition Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',0.5
-Montaña,Basic Land,Mountain,Fourth Edition Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',0.5
-Montaña,Basic Land,Mountain,Fourth Edition Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',0.5
-Bosque,Basic Land,Forest,Fourth Edition Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Christopher Rush',0.5
-Bosque,Basic Land,Forest,Fourth Edition Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Christopher Rush',0.5
-Bosque,Basic Land,Forest,Fourth Edition Foreign Black Border,Common,0,Colorless,True,True,True,True,b'Christopher Rush',0.5
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Poción de alabastro,Instant,None,Fourth Edition Foreign Black Border,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Harold McNeill',0.56,False
+Kitkin Amrou,Creature,Kithkin,Fourth Edition Foreign Black Border,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.56,False
+Turba,Creature,Human,Fourth Edition Foreign Black Border,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.56,False
+Animar muro,Enchantment,Aura,Fourth Edition Foreign Black Border,Rare,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Armagedón,Sorcery,None,Fourth Edition Foreign Black Border,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Equilibrio,Sorcery,None,Fourth Edition Foreign Black Border,Rare,2,White,Not Legal,Not Legal,Banned,Restrict.,Banned,True,b'Mark Poole',0.56,False
+Héroe benalita,Creature,Human Soldier,Fourth Edition Foreign Black Border,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Guarda de negro,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Bendición,Enchantment,Aura,Fourth Edition Foreign Black Border,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Julie Baroh',0.56,False
+Guarda de azul,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Lavado de cerebro,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.56,False
+Castillo,Enchantment,None,Fourth Edition Foreign Black Border,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.56,False
+Circulo de protección: Artefactos,Enchantment,None,Fourth Edition Foreign Black Border,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.56,False
+Circulo de protección: Negro,Enchantment,None,Fourth Edition Foreign Black Border,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Circulo de protección: Azul,Enchantment,None,Fourth Edition Foreign Black Border,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.56,False
+Circulo de protección: Verde,Enchantment,None,Fourth Edition Foreign Black Border,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.56,False
+Circulo de protección: Rojo,Enchantment,None,Fourth Edition Foreign Black Border,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.56,False
+Circulo de protección: Blanco,Enchantment,None,Fourth Edition Foreign Black Border,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Conversión,Enchantment,None,Fourth Edition Foreign Black Border,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Cruzada,Enchantment,None,Fourth Edition Foreign Black Border,Rare,2,White,Not Legal,Not Legal,Banned,Banned,Banned,True,b'Mark Poole',0.56,False
+Guarda contra la muerte,Instant,None,Fourth Edition Foreign Black Border,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.56,False
+Desencantar,Instant,None,Fourth Edition Foreign Black Border,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Amy Weber',0.56,False
+Transformación divina,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.56,False
+Sierpe de tierra,Creature,Dragon Wurm,Fourth Edition Foreign Black Border,Rare,7,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.56,False
+Ojo por ojo,Instant,None,Fourth Edition Foreign Black Border,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.56,False
+Area fortifcada,Enchantment,None,Fourth Edition Foreign Black Border,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Asplund-Faith',0.56,False
+Guarda de verde,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Bálsamo de curación,Instant,None,Fourth Edition Foreign Black Border,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Armadura sagrada,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.56,False
+Fuerza sagrada,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Isla santuario,Enchantment,None,Fourth Edition Foreign Black Border,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.56,False
+Karma,Enchantment,None,Fourth Edition Foreign Black Border,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.56,False
+Sino,Enchantment,None,Fourth Edition Foreign Black Border,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.56,False
+Impuesto sobre las tierras,Enchantment,None,Fourth Edition Foreign Black Border,Rare,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.56,False
+Pegaso de la meseta,Creature,Pegasus,Fourth Edition Foreign Black Border,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.56,False
+Moral,Instant,None,Fourth Edition Foreign Black Border,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.56,False
+Paladín del norte,Creature,Human Knight,Fourth Edition Foreign Black Border,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Buitres de Osai,Creature,Bird,Fourth Edition Foreign Black Border,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Unicornio perlado,Creature,Unicorn,Fourth Edition Foreign Black Border,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Cornelius Brudi',0.56,False
+Encarnación personal,Creature,Avatar Incarnation,Fourth Edition Foreign Black Border,Rare,6,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Brockschmidt',0.56,False
+Piedad,Instant,None,Fourth Edition Foreign Black Border,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.56,False
+Piqueros,Creature,Human Soldier,Fourth Edition Foreign Black Border,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dennis Detwiller',0.56,False
+Atadura de pureza,Instant,None,Fourth Edition Foreign Black Border,Rare,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.56,False
+Guarda de rojo,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Inversión de daño,Instant,None,Fourth Edition Foreign Black Border,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.56,False
+Rectitud,Instant,None,Fourth Edition Foreign Black Border,Rare,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Sanador Samita,Creature,Human Cleric,Fourth Edition Foreign Black Border,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',0.56,False
+Leones de la sabana,Creature,Cat,Fourth Edition Foreign Black Border,Rare,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.56,False
+Espíritu,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.56,False
+Ángel de Serra,Creature,Angel,Fourth Edition Foreign Black Border,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Vínculo espiritual,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.56,False
+Espadas en guadañas,Instant,None,Fourth Edition Foreign Black Border,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.56,False
+Lobos de la tundra,Creature,Wolf,Fourth Edition Foreign Black Border,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.56,False
+Visiones,Sorcery,None,Fourth Edition Foreign Black Border,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.56,False
+Muro de espadas,Creature,Wall,Fourth Edition Foreign Black Border,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.56,False
+Caballero blanco,Creature,Human Knight,Fourth Edition Foreign Black Border,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.56,False
+Guarda de blanco,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Ira de Dios,Sorcery,None,Fourth Edition Foreign Black Border,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.56,False
+Elemental del aire,Creature,Elemental,Fourth Edition Foreign Black Border,Uncommon,5,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.56,False
+Animar artefacto,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Aprendiz de brujo,Creature,Human Wizard,Fourth Edition Foreign Black Border,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Rechazo,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.56,False
+Ráfaga elemental azul,Instant,None,Fourth Edition Foreign Black Border,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.56,False
+Magia de control,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.56,False
+Contrahechizo,Instant,None,Fourth Edition Foreign Black Border,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.56,False
+Vinculo vital,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Drenaje de poder,Sorcery,None,Fourth Edition Foreign Black Border,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Flujo energético,Enchantment,None,Fourth Edition Foreign Black Border,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.56,False
+Exatraer energia,Sorcery,None,Fourth Edition Foreign Black Border,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.56,False
+Erosión,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.56,False
+Descarga astral,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.56,False
+Volar,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Inundación,Enchantment,None,Fourth Edition Foreign Black Border,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dennis Detwiller',0.56,False
+Forma gaseosa,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Phil Foglio',0.56,False
+Barco fantasma,Creature,Spirit,Fourth Edition Foreign Black Border,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',0.56,False
+Galápago gigante,Creature,Turtle,Fourth Edition Foreign Black Border,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.56,False
+Retorno de Hurkyl,Instant,None,Fourth Edition Foreign Black Border,Rare,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.56,False
+Pez isla Jasconius,Creature,Fish,Fourth Edition Foreign Black Border,Rare,7,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Saltar,Instant,None,Fourth Edition Foreign Black Border,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.56,False
+Leviatán,Creature,Leviathan,Fourth Edition Foreign Black Border,Rare,9,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.56,False
+Derivación vital,Enchantment,None,Fourth Edition Foreign Black Border,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Señor de la Atlántida,Creature,Merfolk,Fourth Edition Foreign Black Border,Rare,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.56,False
+Escamoteo mágico,Instant,None,Fourth Edition Foreign Black Border,Rare,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Julie Baroh',0.56,False
+Djinn Mahamoti,Creature,Djinn,Fourth Edition Foreign Black Border,Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Escasez de maná,Instant,None,Fourth Edition Foreign Black Border,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.56,False
+Tritones del Tridente Perlado,Creature,Merfolk,Fourth Edition Foreign Black Border,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.56,False
+Bomba mental,Sorcery,None,Fourth Edition Foreign Black Border,Uncommon,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.56,False
+Fuerzas fantasmales,Creature,Illusion,Fourth Edition Foreign Black Border,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.56,False
+Terreno fantasmal,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.56,False
+Monstruo fantasmal,Creature,Illusion,Fourth Edition Foreign Black Border,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Barco pirata,Creature,Human Pirate,Fourth Edition Foreign Black Border,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',0.56,False
+Pérdida de poder,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.56,False
+Sumidero del poder,Instant,None,Fourth Edition Foreign Black Border,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.56,False
+Hechicero pródigo,Creature,Human Wizard,Fourth Edition Foreign Black Border,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Entidad psiónica,Creature,Illusion,Fourth Edition Foreign Black Border,Rare,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Hampton',0.56,False
+Veneno psíquico,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.56,False
+Lazo arcáico,Enchantment,Aura,Fourth Edition Foreign Black Border,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.56,False
+Serpiente de mar,Creature,Serpent,Fourth Edition Foreign Black Border,Common,6,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.56,False
+Leviatán de Segovia,Creature,Leviathan,Fourth Edition Foreign Black Border,Uncommon,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.56,False
+Sinnbad,Creature,Human,Fourth Edition Foreign Black Border,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Julie Baroh',0.56,False
+Canto de sirena,Instant,None,Fourth Edition Foreign Black Border,Uncommon,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Insidia mental,Instant,None,Fourth Edition Foreign Black Border,Rare,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.56,False
+Hechizo en ráfaga,Instant,None,Fourth Edition Foreign Black Border,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.56,False
+Estásis,Enchantment,None,Fourth Edition Foreign Black Border,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Fay Jones',0.56,False
+Robar artefacto,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.56,False
+Ciudad sumergida,Enchantment,None,Fourth Edition Foreign Black Border,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Atadura mental,Instant,None,Fourth Edition Foreign Black Border,Rare,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.56,False
+Elemental de tiempo,Creature,Elemental,Fourth Edition Foreign Black Border,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.56,False
+Girar,Instant,None,Fourth Edition Foreign Black Border,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.56,False
+Mutación inestable,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Anular invocación,Instant,None,Fourth Edition Foreign Black Border,Common,1,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Erupción volcánica,Sorcery,None,Fourth Edition Foreign Black Border,Rare,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Muro de aire,Creature,Wall,Fourth Edition Foreign Black Border,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.56,False
+Muro de agua,Creature,Wall,Fourth Edition Foreign Black Border,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.56,False
+Elemental de agua,Creature,Elemental,Fourth Edition Foreign Black Border,Uncommon,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.56,False
+Halcón del céfiro,Creature,Bird,Fourth Edition Foreign Black Border,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.56,False
+Abominación,Creature,Horror,Fourth Edition Foreign Black Border,Uncommon,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.56,False
+Animar a los muertos,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Cenizas a las cenizas,Sorcery,None,Fourth Edition Foreign Black Border,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.56,False
+Luna maligna,Enchantment,None,Fourth Edition Foreign Black Border,Rare,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Caballero negro,Creature,Human Knight,Fourth Edition Foreign Black Border,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.56,False
+Tierra estéril,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.56,False
+Diablillo del pantano,Creature,Imp,Fourth Edition Foreign Black Border,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.56,False
+Aparición de la ciénaga,Creature,Wraith,Fourth Edition Foreign Black Border,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.56,False
+Hormigas carroñeras,Creature,Insect,Fourth Edition Foreign Black Border,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.56,False
+Horror cósmico,Creature,Horror,Fourth Edition Foreign Black Border,Rare,6,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Tierra maldita,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Momia ciclópea,Creature,Zombie,Fourth Edition Foreign Black Border,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,"b'Edward P. Beard, Jr.'",0.56,False
+Ritual siniestro,Instant,None,Fourth Edition Foreign Black Border,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.56,False
+Tenaza mortal,Enchantment,None,Fourth Edition Foreign Black Border,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Atadura mortal,Instant,None,Fourth Edition Foreign Black Border,Rare,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.56,False
+Drenar vida,Sorcery,None,Fourth Edition Foreign Black Border,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Esqueletos esclavos,Creature,Skeleton,Fourth Edition Foreign Black Border,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.56,False
+El-Hajjâj,Creature,Human Wizard,Fourth Edition Foreign Black Border,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.56,False
+Incursores del Erg,Creature,Human Warrior,Fourth Edition Foreign Black Border,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.56,False
+Presencia maligna,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.56,False
+Inspirar temor,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.56,False
+Sombra gélida,Creature,Shade,Fourth Edition Foreign Black Border,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Abatimiento,Enchantment,None,Fourth Edition Foreign Black Border,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Avaricia,Enchantment,None,Fourth Edition Foreign Black Border,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Phil Foglio',0.56,False
+Aullido del más allá,Instant,None,Fourth Edition Foreign Black Border,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.56,False
+Espectro hipnótico,Creature,Specter,Fourth Edition Foreign Black Border,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Efrit de Junún,Creature,Efreet,Fourth Edition Foreign Black Border,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.56,False
+Señor del Abismo,Creature,Demon,Fourth Edition Foreign Black Border,Rare,7,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.56,False
+Alma en pena,Creature,Spirit Minion,Fourth Edition Foreign Black Border,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Asplund-Faith',0.56,False
+Gas de los pantanos,Instant,None,Fourth Edition Foreign Black Border,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Latigazo mental,Sorcery,None,Fourth Edition Foreign Black Border,Rare,2,Black,Not Legal,Not Legal,Legal,Legal,Banned,True,b'Julie Baroh',0.56,False
+Moradores de las tinieblas,Creature,Zombie,Fourth Edition Foreign Black Border,Common,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.56,False
+Sombra del submundo,Creature,Spirit,Fourth Edition Foreign Black Border,Rare,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.56,False
+Pesadilla,Creature,Nightmare Horse,Fourth Edition Foreign Black Border,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.56,False
+Parálisis,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Pestilencia,Enchantment,None,Fourth Edition Foreign Black Border,Common,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Escorpión del Abismo,Creature,Scorpion,Fourth Edition Foreign Black Border,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Kirschner',0.56,False
+Plaga de ratas,Creature,Rat,Fourth Edition Foreign Black Border,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Pordiosero,Creature,Human Minion,Fourth Edition Foreign Black Border,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.56,False
+Alzar a los muertos,Sorcery,None,Fourth Edition Foreign Black Border,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.56,False
+Asesino real,Creature,Human Assassin,Fourth Edition Foreign Black Border,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',0.56,False
+Zombies dañinos,Creature,Zombie,Fourth Edition Foreign Black Border,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Gul carroñero,Creature,Zombie,Fourth Edition Foreign Black Border,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.56,False
+Vampiro de Sengir,Creature,Vampire,Fourth Edition Foreign Black Border,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Simulacro,Instant,None,Fourth Edition Foreign Black Border,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.56,False
+Reina hechicera,Creature,Human Wizard,Fourth Edition Foreign Black Border,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.56,False
+Grilletes espectrales,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,"b'Edward P. Beard, Jr.'",0.56,False
+Terror,Instant,None,Fourth Edition Foreign Black Border,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.56,False
+Tio Istvan,Creature,Human,Fourth Edition Foreign Black Border,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.56,False
+Fuerza impía,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Murciélagos vampiro,Creature,Bat,Fourth Edition Foreign Black Border,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Muro de huesos,Creature,Skeleton Wall,Fourth Edition Foreign Black Border,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Deformar artefacto,Enchantment,Aura,Fourth Edition Foreign Black Border,Rare,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.56,False
+Debilidad,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Fuego fatuo,Creature,Spirit,Fourth Edition Foreign Black Border,Rare,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Palabras de poder,Sorcery,None,Fourth Edition Foreign Black Border,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.56,False
+Poltergeist animista,Creature,Spirit,Fourth Edition Foreign Black Border,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Señor de los Zombies,Creature,Zombie,Fourth Edition Foreign Black Border,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.56,False
+Ali Baba,Creature,Human Rogue,Fourth Edition Foreign Black Border,Uncommon,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Julie Baroh',0.56,False
+Bola de rayos,Creature,Elemental,Fourth Edition Foreign Black Border,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.56,False
+Doncella alada,Creature,Human Bird,Fourth Edition Foreign Black Border,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.56,False
+Ansia de sangre,Instant,None,Fourth Edition Foreign Black Border,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Hermanos del Fuego,Creature,Human Shaman,Fourth Edition Foreign Black Border,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.56,False
+Cavar túneles,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.56,False
+Cavernícolas,Creature,Human,Fourth Edition Foreign Black Border,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.56,False
+Atadura vital,Instant,None,Fourth Edition Foreign Black Border,Rare,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.56,False
+Mantícora carmesí,Creature,Manticore,Fourth Edition Foreign Black Border,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.56,False
+Detonar,Sorcery,None,Fourth Edition Foreign Black Border,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Asplund-Faith',0.56,False
+Desintegrar,Sorcery,None,Fourth Edition Foreign Black Border,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Cría de dragón,Creature,Dragon,Fourth Edition Foreign Black Border,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.56,False
+Guerreros enanos,Creature,Dwarf Warrior,Fourth Edition Foreign Black Border,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Elemental de tierra,Creature,Elemental,Fourth Edition Foreign Black Border,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Terremoto,Sorcery,None,Fourth Edition Foreign Black Border,Rare,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Guerrero eterno,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Elemental de fuego,Creature,Elemental,Fourth Edition Foreign Black Border,Uncommon,5,Red,Legal,Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.56,False
+Bola de fuego,Sorcery,None,Fourth Edition Foreign Black Border,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.56,False
+Hálito de fuego,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Grieta,Instant,None,Fourth Edition Foreign Black Border,Common,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Tormenta ígnea,Sorcery,None,Fourth Edition Foreign Black Border,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.56,False
+Fuerza de gigante,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Hampton',0.56,False
+Trasgos aeronautas,Creature,Goblin Warrior,Fourth Edition Foreign Black Border,Uncommon,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Andi Rusu',0.56,False
+Rey trasgo,Creature,Goblin,Fourth Edition Foreign Black Border,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Trineo de roca trasgo,Creature,Goblin,Fourth Edition Foreign Black Border,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dennis Detwiller',0.56,False
+Ogro gris,Creature,Ogre,Fourth Edition Foreign Black Border,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Gigante de las colinas,Creature,Giant,Fourth Edition Foreign Black Border,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Minotauro de Hurloon,Creature,Minotaur,Fourth Edition Foreign Black Border,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Chacal de Hurr,Creature,Jackal,Fourth Edition Foreign Black Border,Rare,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.56,False
+Immolcaión,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Kirschner',0.56,False
+Infierno,Instant,None,Fourth Edition Foreign Black Border,Rare,7,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Asplund-Faith',0.56,False
+Orcos Zarpafierro,Creature,Orc,Fourth Edition Foreign Black Border,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Señor guerrero de Keldon,Creature,Human Barbarian,Fourth Edition Foreign Black Border,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Brockschmidt',0.56,False
+Relámpago,Instant,None,Fourth Edition Foreign Black Border,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.56,False
+Montaña magnética,Enchantment,None,Fourth Edition Foreign Black Border,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Susan Van Camp',0.56,False
+Choque de maná,Sorcery,None,Fourth Edition Foreign Black Border,Rare,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.56,False
+Fulgor de maná,Enchantment,None,Fourth Edition Foreign Black Border,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.56,False
+Espinas de maná,Enchantment,None,Fourth Edition Foreign Black Border,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.56,False
+Trasgos de Mons,Creature,Goblin,Fourth Edition Foreign Black Border,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.56,False
+Artillería orca,Creature,Orc Warrior,Fourth Edition Foreign Black Border,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Oriflama orca,Enchantment,None,Fourth Edition Foreign Black Border,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Descarga de maná,Enchantment,None,Fourth Edition Foreign Black Border,Rare,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Pirotecnia,Sorcery,None,Fourth Edition Foreign Black Border,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Ráfaga elemental roja,Instant,None,Fourth Edition Foreign Black Border,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.56,False
+Romper,Instant,None,Fourth Edition Foreign Black Border,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.56,False
+Dragón shivano,Creature,Dragon,Fourth Edition Foreign Black Border,Rare,6,Red,Legal,Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.56,False
+Hermanas de la Llama,Creature,Human Shaman,Fourth Edition Foreign Black Border,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Humo,Enchantment,None,Fourth Edition Foreign Black Border,Rare,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Gigante pétreo,Creature,Giant,Fourth Edition Foreign Black Border,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.56,False
+Lluvia de piedras,Sorcery,None,Fourth Edition Foreign Black Border,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.56,False
+Efrit de la tormenta,Creature,Efreet,Fourth Edition Foreign Black Border,Rare,4,Red,Not Legal,Not Legal,Banned,Banned,Banned,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.56,False
+Brutalidad,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.56,False
+Tunel,Instant,None,Fourth Edition Foreign Black Border,Uncommon,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Trol de Uthden,Creature,Troll,Fourth Edition Foreign Black Border,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Muro de polvo,Creature,Wall,Fourth Edition Foreign Black Border,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.56,False
+Muro de fuego,Creature,Wall,Fourth Edition Foreign Black Border,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.56,False
+Muro de piedra,Creature,Wall,Fourth Edition Foreign Black Border,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Vientos del cambio,Sorcery,None,Fourth Edition Foreign Black Border,Rare,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Hampton',0.56,False
+Aspecto de lobo,Enchantment,Aura,Fourth Edition Foreign Black Border,Rare,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.56,False
+Aves del paraíso,Creature,Bird,Fourth Edition Foreign Black Border,Rare,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.56,False
+Planta carnívora,Creature,Plant Wall,Fourth Edition Foreign Black Border,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.56,False
+Canalizar,Sorcery,None,Fourth Edition Foreign Black Border,Uncommon,2,Green,Not Legal,Not Legal,Banned,Restrict.,Banned,True,b'Richard Thomas',0.56,False
+Cocatriz,Creature,Cockatrice,Fourth Edition Foreign Black Border,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Sierpe Dragón,Creature,Wurm,Fourth Edition Foreign Black Border,Common,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.56,False
+Derruir,Instant,None,Fourth Edition Foreign Black Border,Uncommon,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Torbellino de arena,Sorcery,None,Fourth Edition Foreign Black Border,Uncommon,6,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Susan Van Camp',0.56,False
+Jabalíes del Bosque de Durk,Creature,Boar,Fourth Edition Foreign Black Border,Common,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Kimble',0.56,False
+Jinetes élficos,Creature,Elf,Fourth Edition Foreign Black Border,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.56,False
+Arqueros élficos,Creature,Elf Archer,Fourth Edition Foreign Black Border,Rare,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Niebla,Instant,None,Fourth Edition Foreign Black Border,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Fuerza de la naturaleza,Creature,Elemental,Fourth Edition Foreign Black Border,Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Fungosaurio,Creature,Fungus Dinosaur,Fourth Edition Foreign Black Border,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.56,False
+Siervo de Gaia,Creature,Avatar,Fourth Edition Foreign Black Border,Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.56,False
+Crecimiento gigante,Instant,None,Fourth Edition Foreign Black Border,Common,1,Green,Legal,Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.56,False
+Araña gigante,Creature,Spider,Fourth Edition Foreign Black Border,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.56,False
+Osos pardos,Creature,Bear,Fourth Edition Foreign Black Border,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.56,False
+Huracán,Sorcery,None,Fourth Edition Foreign Black Border,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.56,False
+Insuflar energía,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.56,False
+Pueblo arbóreo Raiceslargas,Creature,Treefolk,Fourth Edition Foreign Black Border,Common,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Abejas asesinas,Creature,Insect,Fourth Edition Foreign Black Border,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Phil Foglio',0.56,False
+Sanguijuelas de tierra,Creature,Leech,Fourth Edition Foreign Black Border,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.56,False
+Druida de Lei,Creature,Human Druid,Fourth Edition Foreign Black Border,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.56,False
+Fuerza vital,Enchantment,None,Fourth Edition Foreign Black Border,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.56,False
+Atadura vital,Instant,None,Fourth Edition Foreign Black Border,Rare,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.56,False
+Artefacto viviente,Enchantment,Aura,Fourth Edition Foreign Black Border,Rare,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Tierras vivientes,Enchantment,None,Fourth Edition Foreign Black Border,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Elfos de Llanowar,Creature,Elf Druid,Fourth Edition Foreign Black Border,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Señuelo,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Víbora de pantano,Creature,Snake,Fourth Edition Foreign Black Border,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.56,False
+Àspid de Nafs,Creature,Snake,Fourth Edition Foreign Black Border,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.56,False
+Zíngaros de Pradesh,Creature,Human Nomad,Fourth Edition Foreign Black Border,Common,3,Green,Not Legal,Not Legal,Banned,Banned,Banned,True,b'Quinton Hoover',0.56,False
+Espíritu de Radjan,Creature,Spirit,Fourth Edition Foreign Black Border,Uncommon,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.56,False
+Renacer,Sorcery,None,Fourth Edition Foreign Black Border,Rare,6,Green,Not Legal,Not Legal,Banned,Banned,Banned,True,b'Mark Tedin',0.56,False
+Regeneración,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.56,False
+Tormenta de arena,Instant,None,Fourth Edition Foreign Black Border,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.56,False
+Duendes voladores,Creature,Faerie,Fourth Edition Foreign Black Border,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.56,False
+Dríadas de Shanodín,Creature,Nymph Dryad,Fourth Edition Foreign Black Border,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Manantial de vida,Sorcery,None,Fourth Edition Foreign Black Border,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.56,False
+Biblioteca silvana,Enchantment,None,Fourth Edition Foreign Black Border,Rare,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Harold McNeill',0.56,False
+Basilisco de maleza,Creature,Basilisk,Fourth Edition Foreign Black Border,Uncommon,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Lobos ferales,Creature,Wolf,Fourth Edition Foreign Black Border,Rare,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.56,False
+Canto de Titania,Enchantment,None,Fourth Edition Foreign Black Border,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kerstin Kaman',0.56,False
+Tranquillità,Sorcery,None,Fourth Edition Foreign Black Border,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Tsunami,Sorcery,None,Fourth Edition Foreign Black Border,Uncommon,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.56,False
+Tierra vírgen,Sorcery,None,Fourth Edition Foreign Black Border,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.56,False
+Veneno,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',0.56,False
+Encantadora de las plantas,Creature,Human Druid,Fourth Edition Foreign Black Border,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Brockschmidt',0.56,False
+Muro de espinos,Creature,Plant Wall,Fourth Edition Foreign Black Border,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Muro de hielo,Creature,Wall,Fourth Edition Foreign Black Border,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.56,False
+Muro de ramas,Creature,Wall,Fourth Edition Foreign Black Border,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.56,False
+Ansia Viajera,Enchantment,Aura,Fourth Edition Foreign Black Border,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Cornelius Brudi',0.56,False
+Mamut de Guerra,Creature,Elephant,Fourth Edition Foreign Black Border,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.56,False
+Telaraña,Enchantment,Aura,Fourth Edition Foreign Black Border,Rare,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.56,False
+Hostigadores derviches,Creature,Human Monk,Fourth Edition Foreign Black Border,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Susan Van Camp',0.56,False
+Crecimiento salvaje,Enchantment,Aura,Fourth Edition Foreign Black Border,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.56,False
+Ráfaga invernal,Sorcery,None,Fourth Edition Foreign Black Border,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.56,False
+Lámpara de Aladino,Artifact,None,Fourth Edition Foreign Black Border,Rare,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.56,False
+Anillo de Aladino,Artifact,None,Fourth Edition Foreign Black Border,Rare,8,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Amuleto de Kroog,Artifact,None,Fourth Edition Foreign Black Border,Common,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Margaret Organ-Kean',0.56,False
+Ankh de Mishra,Artifact,None,Fourth Edition Foreign Black Border,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.56,False
+Reloj del armagedón,Artifact,None,Fourth Edition Foreign Black Border,Rare,6,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.56,False
+Atavio de guerra de Ashnod,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.56,False
+Ariete,Artifact Creature,Construct,Fourth Edition Foreign Black Border,Common,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.56,False
+Batería de maná negro,Artifact,None,Fourth Edition Foreign Black Border,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Tornillo siniestro,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.56,False
+Batería de maná azul,Artifact,None,Fourth Edition Foreign Black Border,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.56,False
+Botella de Suleimán,Artifact,None,Fourth Edition Foreign Black Border,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Hombre de latón,Artifact Creature,Construct,Fourth Edition Foreign Black Border,Uncommon,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.56,False
+Tablilla de bronce,Artifact,None,Fourth Edition Foreign Black Border,Rare,6,Colorless,Not Legal,Not Legal,Banned,Banned,Banned,True,b'Tom W\xc3\xa4nerstrand',0.56,False
+Prisma celestial,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.56,False
+Estatua de arcilla,Artifact Creature,Golem,Fourth Edition Foreign Black Border,Common,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Ave mecánica,Artifact Creature,Bird,Fourth Edition Foreign Black Border,Rare,5,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Asplund-Faith',0.56,False
+Bestia mecánica,Artifact Creature,Beast,Fourth Edition Foreign Black Border,Rare,6,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.56,False
+Coloso de Sardia,Artifact Creature,Golem,Fourth Edition Foreign Black Border,Rare,9,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Conservador,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.56,False
+Yelmo de coral,Artifact,None,Fourth Edition Foreign Black Border,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.56,False
+Vara de cristal,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.56,False
+El potro,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.56,False
+Cimitarra danzante,Artifact Creature,Spirit,Fourth Edition Foreign Black Border,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Máquina diabólica,Artifact Creature,Construct,Fourth Edition Foreign Black Border,Uncommon,7,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Huevo de Dingus,Artifact,None,Fourth Edition Foreign Black Border,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Cetro disruptor,Artifact,None,Fourth Edition Foreign Black Border,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Dragón de vapor,Artifact Creature,Construct,Fourth Edition Foreign Black Border,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Caballo de ébano,Artifact,None,Fourth Edition Foreign Black Border,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.56,False
+Piedra de Fellwar,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.56,False
+Alfombra voladora,Artifact,None,Fourth Edition Foreign Black Border,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.56,False
+Anteojos de Urza,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Catapulta de metralla,Artifact Creature,Construct,Fourth Edition Foreign Black Border,Common,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Bateria de maná verde,Artifact,None,Fourth Edition Foreign Black Border,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.56,False
+Yelmo de Chatzuk,Artifact,None,Fourth Edition Foreign Black Border,Rare,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.56,False
+Mina aullante,Artifact,None,Fourth Edition Foreign Black Border,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.56,False
+Estrella de hierro,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Copa de marfil,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Torre de marfil,Artifact,None,Fourth Edition Foreign Black Border,Rare,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Margaret Organ-Kean',0.56,False
+Monolito de jade,Artifact,None,Fourth Edition Foreign Black Border,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Alforjas de Jandor,Artifact,None,Fourth Edition Foreign Black Border,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.56,False
+Volumen de Jayemdae,Artifact,None,Fourth Edition Foreign Black Border,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.56,False
+Campana de Kormus,Artifact,None,Fourth Edition Foreign Black Border,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.56,False
+Biblioteca de Leng,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.56,False
+Cofre de maná,Artifact,None,Fourth Edition Foreign Black Border,Rare,1,Colorless,Not Legal,Not Legal,Legal,Restrict.,Banned,True,b'Mark Tedin',0.56,False
+Piedra de la mansedumbre,Artifact,None,Fourth Edition Foreign Black Border,Rare,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.56,False
+Rueda de molino,Artifact,None,Fourth Edition Foreign Black Border,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.56,False
+Máquina de guerra de Mishra,Artifact Creature,Juggernaut,Fourth Edition Foreign Black Border,Rare,7,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.56,False
+Disco de Nevinyrral,Artifact,None,Fourth Edition Foreign Black Border,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.56,False
+Gólem de obsidiana,Artifact Creature,Golem,Fourth Edition Foreign Black Border,Uncommon,6,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Pebetero,Artifact Creature,Construct,Fourth Edition Foreign Black Border,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Ornitóptero,Artifact Creature,Thopter,Fourth Edition Foreign Black Border,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.56,False
+Barro primordial,Artifact Creature,Shapeshifter,Fourth Edition Foreign Black Border,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.56,False
+Batería de maná rojo,Artifact,None,Fourth Edition Foreign Black Border,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.56,False
+Bastón de destrucción,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.56,False
+Metamorfo,Artifact Creature,Shapeshifter,Fourth Edition Foreign Black Border,Uncommon,6,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Red de almas,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.56,False
+Gafas de Urza,Artifact,None,Fourth Edition Foreign Black Border,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Baquete de Tawnos,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Armamento de Tawnos,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Tétravo,Artifact Creature,Construct,Fourth Edition Foreign Black Border,Rare,6,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.56,False
+La colmena,Artifact,None,Fourth Edition Foreign Black Border,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.56,False
+El potro,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.56,False
+Trono de hueso,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.56,False
+Trisquelión,Artifact Creature,Construct,Fourth Edition Foreign Black Border,Rare,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Vengador de Urza,Artifact Creature,Shapeshifter,Fourth Edition Foreign Black Border,Rare,6,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.56,False
+Muro de lanzas,Artifact Creature,Wall,Fourth Edition Foreign Black Border,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.56,False
+Batería de maná blanco,Artifact,None,Fourth Edition Foreign Black Border,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',0.56,False
+Orbe invernal,Artifact,None,Fourth Edition Foreign Black Border,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.56,False
+Esfera de madera,Artifact,None,Fourth Edition Foreign Black Border,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.56,False
+Soldado yotiano,Artifact Creature,Soldier,Fourth Edition Foreign Black Border,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.56,False
+Factoría de Mishra,Land,None,Fourth Edition Foreign Black Border,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.56,False
+Oasis,Land,None,Fourth Edition Foreign Black Border,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.56,False
+Cantera,Land,None,Fourth Edition Foreign Black Border,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Restrict.,Banned,True,b'Daniel Gelon',0.56,False
+Llanura,Basic Land,Plains,Fourth Edition Foreign Black Border,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Llanura,Basic Land,Plains,Fourth Edition Foreign Black Border,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Llanura,Basic Land,Plains,Fourth Edition Foreign Black Border,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.56,False
+Isla,Basic Land,Island,Fourth Edition Foreign Black Border,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Poole',0.56,False
+Isla,Basic Land,Island,Fourth Edition Foreign Black Border,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Poole',0.56,False
+Isla,Basic Land,Island,Fourth Edition Foreign Black Border,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Poole',0.56,False
+Pantano,Basic Land,Swamp,Fourth Edition Foreign Black Border,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Pantano,Basic Land,Swamp,Fourth Edition Foreign Black Border,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Pantano,Basic Land,Swamp,Fourth Edition Foreign Black Border,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.56,False
+Montaña,Basic Land,Mountain,Fourth Edition Foreign Black Border,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Montaña,Basic Land,Mountain,Fourth Edition Foreign Black Border,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Montaña,Basic Land,Mountain,Fourth Edition Foreign Black Border,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.56,False
+Bosque,Basic Land,Forest,Fourth Edition Foreign Black Border,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.56,False
+Bosque,Basic Land,Forest,Fourth Edition Foreign Black Border,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.56,False
+Bosque,Basic Land,Forest,Fourth Edition Foreign Black Border,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.56,False

@@ -1,0 +1,62 @@
+cd C:\Program Files\MySQL\MySQL Server 8.0\bin
+mysql --local-infile=1 -uroot -p
+
+USE cards;
+
+CREATE TABLE main_card_data (
+	id INT NOT NULL,
+    name VARCHAR(255) NOT NULL,
+    supertype VARCHAR(255) NOT NULL,
+    subtype VARCHAR(255) NOT NULL, 
+    `set` VARCHAR(255) NOT NULL,
+    rarity VARCHAR(255) NOT NULL,
+    cmc INT NOT NULL,
+    color VARCHAR(255) NOT NULL,
+    modern_legality VARCHAR(255) NOT NULL,
+    standard_legality VARCHAR(255) NOT NULL,
+    commander_legality VARCHAR(255) NOT NULL,
+    vintage_legality VARCHAR(255) NOT NULL,
+    legacy_legality VARCHAR(255) NOT NULL,
+    reprint BOOLEAN NOT NULL,
+    artist VARCHAR(255) NOT NULL,
+    price FLOAT NOT NULL,
+    is_legendary BOOLEAN NOT NULL,
+    PRIMARY KEY (id)
+);
+
+LOAD DATA LOCAL INFILE "C:/Backups/GitHub/Card-Prices/data/main_card_data.csv"
+INTO TABLE main_card_data
+FIELDS TERMINATED BY ","
+LINES TERMINATED BY "\n"
+IGNORE 1 ROWS
+(id, `name`, supertype, subtype, `set`, rarity, cmc, color, modern_legality,
+standard_legality, commander_legality, vintage_legality, legacy_legality,
+reprint, artist, price, is_legendary);
+
+CREATE TABLE set_overview (
+    set_name VARCHAR(255) NOT NULL,
+    set_id VARCHAR(255) NOT NULL,
+    set_size INT NOT NULL,
+    set_year YEAR NOT NULL,
+    PRIMARY KEY (set_name)
+);
+
+LOAD DATA LOCAL INFILE "C:/Backups/GitHub/Card-Prices/data/set_overview.csv"
+INTO TABLE set_overview
+FIELDS TERMINATED BY ","
+LINES TERMINATED BY "\n"
+IGNORE 1 ROWS
+(set_name, set_id, set_size, set_year);
+
+CREATE TABLE edhrec_data (
+        name VARCHAR(255) NOT NULL,
+        edhrec INT NOT NULL,
+        PRIMARY KEY (name)
+        );
+
+LOAD DATA LOCAL INFILE "C:/Backups/GitHub/Card-Prices/data/edhrec_data_nc.csv"
+INTO TABLE edhrec_data
+FIELDS TERMINATED BY ","
+LINES TERMINATED BY "\n"
+IGNORE 1 ROWS
+(name, edhrec);

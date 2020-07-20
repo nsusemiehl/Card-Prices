@@ -1,166 +1,166 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Absolver Thrull,Creature,Thrull Cleric,Guildpact,Common,4,White,True,False,True,False,b'Rob Alexander',0.07
-Belfry Spirit,Creature,Spirit,Guildpact,Uncommon,5,White,True,False,True,True,b'Daren Bader',0.19
-Benediction of Moons,Sorcery,None,Guildpact,Common,1,White,True,False,True,False,b'Matt Cavotta',0.09
-Droning Bureaucrats,Creature,Human Advisor,Guildpact,Uncommon,4,White,True,False,True,False,b'Kev Walker',0.11
-Ghost Warden,Creature,Spirit,Guildpact,Common,2,White,True,False,True,True,b'Ittoku',0.03
-Ghostway,Instant,None,Guildpact,Rare,3,White,True,False,True,False,b'Jim Murray',12.13
-Graven Dominator,Creature,Gargoyle,Guildpact,Rare,6,White,True,False,True,False,b'Carl Critchlow',0.23
-Guardian's Magemark,Enchantment,Aura,Guildpact,Common,3,White,True,False,True,True,b'Brandon Kitkouski',0.07
-Harrier Griffin,Creature,Griffin,Guildpact,Uncommon,6,White,True,False,True,False,b'Jim Nelson',0.1
-Leyline of the Meek,Enchantment,None,Guildpact,Rare,4,White,True,False,True,True,b'Mark Zug',2.19
-Lionheart Maverick,Creature,Human Knight,Guildpact,Common,1,White,True,False,True,True,b'Hideaki Takamura',0.07
-Martyred Rusalka,Creature,Spirit,Guildpact,Uncommon,1,White,True,False,True,True,b'Alex Horley-Orlandelli',0.12
-Order of the Stars,Creature,Human Cleric,Guildpact,Uncommon,1,White,True,False,True,False,b'Heather Hudson',0.27
-Shadow Lance,Enchantment,Aura,Guildpact,Uncommon,1,White,True,False,True,False,b'Hideaki Takamura',0.14
-Shrieking Grotesque,Creature,Gargoyle,Guildpact,Common,3,White,True,False,True,False,b'Dany Orizio',0.1
-Sinstriker's Will,Enchantment,Aura,Guildpact,Uncommon,4,White,True,False,True,True,b'Ben Thompson',0.09
-Skyrider Trainee,Creature,Human Soldier,Guildpact,Common,5,White,True,False,True,True,b'Adam Rex',0.08
-Spelltithe Enforcer,Creature,Elephant Wizard,Guildpact,Rare,5,White,True,False,True,True,b'Greg Staples',3.54
-Storm Herd,Sorcery,None,Guildpact,Rare,10,White,True,False,True,True,b'Jim Nelson',1.3
-To Arms!,Instant,None,Guildpact,Uncommon,2,White,True,False,True,False,b'Aleksi Briclot',1.11
-Withstand,Instant,None,Guildpact,Common,3,White,True,False,True,False,b'Ron Spears',0.34
-Aetherplasm,Creature,Illusion,Guildpact,Uncommon,4,Blue,True,False,True,False,b'Nottsuo',0.28
-Crystal Seer,Creature,Vedalken Wizard,Guildpact,Common,5,Blue,True,False,True,False,b'Glen Angus',0.05
-Drowned Rusalka,Creature,Spirit,Guildpact,Uncommon,1,Blue,True,False,True,False,b'Dany Orizio',0.14
-Frazzle,Instant,None,Guildpact,Uncommon,4,Blue,True,False,True,False,b'Pete Venters',0.08
-Gigadrowse,Instant,None,Guildpact,Common,1,Blue,True,False,True,False,b'Alex Horley-Orlandelli',0.31
-Hatching Plans,Enchantment,None,Guildpact,Rare,2,Blue,True,False,True,False,b'Heather Hudson',0.55
-Infiltrator's Magemark,Enchantment,Aura,Guildpact,Common,3,Blue,True,False,True,True,b'Brandon Kitkouski',0.11
-Leyline of Singularity,Enchantment,None,Guildpact,Rare,4,Blue,True,False,True,False,b'Zoltan Boros',1.56
-Mimeofacture,Sorcery,None,Guildpact,Rare,4,Blue,True,False,True,False,b'Dan Scott',0.25
-Quicken,Instant,None,Guildpact,Rare,1,Blue,True,False,True,True,b'Aleksi Briclot',0.61
-Repeal,Instant,None,Guildpact,Common,2,Blue,True,False,True,True,b'Dan Scott',0.15
-Runeboggle,Instant,None,Guildpact,Common,3,Blue,True,False,True,False,b'Ron Spencer',0.1
-Sky Swallower,Creature,Leviathan,Guildpact,Rare,5,Blue,True,False,True,False,b'rk post',0.24
-Steamcore Weird,Creature,Weird,Guildpact,Common,4,Blue,True,False,True,True,b'Justin Norman',0.08
-Stratozeppelid,Creature,Beast,Guildpact,Uncommon,5,Blue,True,False,True,False,b'Ittoku',0.07
-Thunderheads,Instant,None,Guildpact,Uncommon,3,Blue,True,False,True,True,b'Hideaki Takamura',0.09
-Torch Drake,Creature,Drake,Guildpact,Common,4,Blue,True,False,True,False,b'Daren Bader',0.08
-Train of Thought,Sorcery,None,Guildpact,Common,2,Blue,True,False,True,True,b'Matt Thompson',0.08
-Vacuumelt,Sorcery,None,Guildpact,Uncommon,3,Blue,True,False,True,True,b'Nottsuo',0.09
-Vedalken Plotter,Creature,Vedalken Wizard,Guildpact,Uncommon,3,Blue,True,False,True,True,b'Greg Staples',0.5
-Vertigo Spawn,Creature,Illusion,Guildpact,Uncommon,2,Blue,True,False,True,True,b'Ittoku',0.08
-Abyssal Nocturnus,Creature,Horror,Guildpact,Rare,3,Black,True,False,True,False,b'Jon Foster',0.87
-Caustic Rain,Sorcery,None,Guildpact,Uncommon,4,Black,True,False,True,False,b'Luca Zontini',0.11
-Cremate,Instant,None,Guildpact,Common,1,Black,True,False,True,True,b'Paolo Parente',0.09
-Cry of Contrition,Sorcery,None,Guildpact,Common,1,Black,True,False,True,False,b'Daren Bader',0.14
-Cryptwailing,Enchantment,None,Guildpact,Uncommon,4,Black,True,False,True,False,b'Nick Percival',0.1
-Daggerclaw Imp,Creature,Imp,Guildpact,Uncommon,3,Black,True,False,True,True,b'Pete Venters',0.11
-Douse in Gloom,Instant,None,Guildpact,Common,3,Black,True,False,True,True,b'Kev Walker',0.06
-Exhumer Thrull,Creature,Thrull,Guildpact,Uncommon,6,Black,True,False,True,False,b'Warren Mahy',0.09
-Hissing Miasma,Enchantment,None,Guildpact,Uncommon,3,Black,True,False,True,False,b'Ben Thompson',0.85
-Leyline of the Void,Enchantment,None,Guildpact,Rare,4,Black,True,True,True,True,b'Adam Rex',18.13
-Necromancer's Magemark,Enchantment,Aura,Guildpact,Common,3,Black,True,False,True,False,b'Brandon Kitkouski',0.11
-Orzhov Euthanist,Creature,Human Assassin,Guildpact,Common,3,Black,True,False,True,False,b'Zoltan Boros',0.06
-Ostiary Thrull,Creature,Thrull,Guildpact,Common,4,Black,True,False,True,False,b'Ron Spencer',0.05
-Plagued Rusalka,Creature,Spirit,Guildpact,Uncommon,1,Black,True,False,True,True,b'Alex Horley-Orlandelli',0.09
-Poisonbelly Ogre,Creature,Ogre Warrior,Guildpact,Common,5,Black,True,False,True,False,b'Zoltan Boros',0.12
-Restless Bones,Creature,Skeleton,Guildpact,Common,3,Black,True,False,True,False,b'Glenn Fabry',0.08
-Revenant Patriarch,Creature,Spirit,Guildpact,Uncommon,5,Black,True,False,True,True,b'Nick Percival',0.16
-Sanguine Praetor,Creature,Avatar Praetor,Guildpact,Rare,8,Black,True,False,True,True,b'rk post',0.15
-Seize the Soul,Instant,None,Guildpact,Rare,4,Black,True,False,True,False,b'Aleksi Briclot',0.26
-Skeletal Vampire,Creature,Vampire Skeleton,Guildpact,Rare,6,Black,True,False,True,True,b'Wayne Reynolds',0.21
-Smogsteed Rider,Creature,Human Wizard,Guildpact,Uncommon,4,Black,True,False,True,False,b'Alex Horley-Orlandelli',0.1
-Bloodscale Prowler,Creature,Viashino Warrior,Guildpact,Common,3,Red,True,False,True,False,b'Lars Grant-West',0.05
-Fencer's Magemark,Enchantment,Aura,Guildpact,Common,3,Red,True,False,True,False,b'Brandon Kitkouski',0.05
-Ghor-Clan Bloodscale,Creature,Viashino Warrior,Guildpact,Uncommon,4,Red,True,False,True,False,b'Paolo Parente',0.09
-Hypervolt Grasp,Enchantment,Aura,Guildpact,Uncommon,3,Red,True,False,True,False,b'Mark Romanoski',0.22
-Leyline of Lightning,Enchantment,None,Guildpact,Rare,4,Red,True,False,True,False,b'Paolo Parente',0.26
-Living Inferno,Creature,Elemental,Guildpact,Rare,8,Red,True,False,True,False,b'John Avon',0.18
-Ogre Savant,Creature,Ogre Wizard,Guildpact,Common,5,Red,True,False,True,True,b'Paolo Parente',0.06
-Parallectric Feedback,Instant,None,Guildpact,Rare,4,Red,True,False,True,False,b'Mitch Cotie',0.2
-Pyromatics,Instant,None,Guildpact,Common,2,Red,True,False,True,True,b'Glen Angus',0.07
-Rabble-Rouser,Creature,Goblin Shaman,Guildpact,Uncommon,4,Red,True,False,True,False,b'Justin Norman',0.13
-Scorched Rusalka,Creature,Spirit,Guildpact,Uncommon,1,Red,True,False,True,True,b'Luca Zontini',0.08
-Shattering Spree,Sorcery,None,Guildpact,Uncommon,1,Red,True,False,True,True,b'Pat Lee',3.25
-Siege of Towers,Sorcery,None,Guildpact,Rare,2,Red,True,False,True,False,b'Anthony S. Waters',0.14
-Skarrgan Firebird,Creature,Phoenix,Guildpact,Rare,6,Red,True,False,True,True,b'Kev Walker',0.19
-Tin Street Hooligan,Creature,Goblin Rogue,Guildpact,Common,2,Red,True,False,True,False,b'Luca Zontini',0.11
-Battering Wurm,Creature,Wurm,Guildpact,Uncommon,7,Green,True,False,True,False,b'Darrell Riche',0.12
-Beastmaster's Magemark,Enchantment,Aura,Guildpact,Common,3,Green,True,False,True,False,b'Brandon Kitkouski',0.08
-Bioplasm,Creature,Ooze,Guildpact,Rare,5,Green,True,False,True,False,b'Jon Foster',0.21
-Crash Landing,Instant,None,Guildpact,Uncommon,3,Green,True,False,True,False,b'Darrell Riche',0.09
-Dryad Sophisticate,Creature,Dryad,Guildpact,Uncommon,2,Green,True,False,True,False,b'Ron Spears',0.13
-Earth Surge,Enchantment,None,Guildpact,Rare,4,Green,True,False,True,False,b'Luca Zontini',0.25
-Gatherer of Graces,Creature,Human Druid,Guildpact,Uncommon,2,Green,True,False,True,False,b'Heather Hudson',0.11
-Ghor-Clan Savage,Creature,Centaur Berserker,Guildpact,Common,5,Green,True,False,True,True,b'Greg Staples',0.03
-Gristleback,Creature,Boar Beast,Guildpact,Uncommon,3,Green,True,False,True,False,b'Lars Grant-West',0.13
-Gruul Nodorog,Creature,Beast,Guildpact,Common,6,Green,True,False,True,True,b'Pete Venters',0.05
-Gruul Scrapper,Creature,Human Berserker,Guildpact,Common,4,Green,True,False,True,True,b'Liam Sharp',0.06
-Leyline of Lifeforce,Enchantment,None,Guildpact,Rare,4,Green,True,False,True,False,b'Kev Walker',2.55
-Petrified Wood-Kin,Creature,Elemental Warrior,Guildpact,Rare,7,Green,True,False,True,False,b'Kev Walker',0.22
-Predatory Focus,Sorcery,None,Guildpact,Uncommon,5,Green,True,False,True,False,b'Zoltan Boros',0.14
-Primeval Light,Sorcery,None,Guildpact,Uncommon,4,Green,True,False,True,False,b'Jim Nelson',0.21
-Silhana Ledgewalker,Creature,Elf Rogue,Guildpact,Common,2,Green,True,False,True,True,b'James Wong',0.46
-Silhana Starfletcher,Creature,Elf Druid Archer,Guildpact,Common,3,Green,True,False,True,False,b'Alex Horley-Orlandelli',0.07
-Skarrgan Pit-Skulk,Creature,Human Warrior,Guildpact,Common,1,Green,True,False,True,True,b'Liam Sharp',0.19
-Starved Rusalka,Creature,Spirit,Guildpact,Uncommon,1,Green,True,False,True,False,b'Dany Orizio',0.1
-Wildsize,Instant,None,Guildpact,Common,3,Green,True,False,True,True,b'Jim Murray',0.1
-Wurmweaver Coil,Enchantment,Aura,Guildpact,Rare,6,Green,True,False,True,True,b'Mitch Cotie',0.18
-Agent of Masks,Creature,Human Advisor,Guildpact,Uncommon,5,Gold,True,False,True,True,b'Matt Thompson',0.17
-Angel of Despair,Creature,Angel,Guildpact,Rare,7,Gold,True,False,True,True,b'Todd Lockwood',0.82
-Blind Hunter,Creature,Bat,Guildpact,Common,4,Gold,True,False,True,False,b'Warren Mahy',0.1
-Borborygmos,Legendary Creature,Cyclops,Guildpact,Rare,7,Gold,True,False,True,True,b'Todd Lockwood',0.2
-Burning-Tree Bloodscale,Creature,Viashino Berserker,Guildpact,Common,4,Gold,True,False,True,True,b'Kev Walker',0.07
-Burning-Tree Shaman,Creature,Centaur Shaman,Guildpact,Rare,3,Gold,True,False,True,True,b'Dan Scott',0.43
-Castigate,Sorcery,None,Guildpact,Common,2,Gold,True,False,True,True,b'Darrell Riche',0.21
-Cerebral Vortex,Instant,None,Guildpact,Rare,3,Gold,True,False,True,True,b'Jeremy Jarvis',0.48
-Conjurer's Ban,Sorcery,None,Guildpact,Uncommon,2,Gold,True,False,True,False,b'Pete Venters',0.1
-Culling Sun,Sorcery,None,Guildpact,Rare,5,Gold,True,False,True,False,b'Daren Bader',0.24
-Dune-Brood Nephilim,Creature,Nephilim,Guildpact,Rare,4,Gold,True,False,True,False,b'Jim Murray',0.6
-Electrolyze,Instant,None,Guildpact,Uncommon,3,Gold,True,False,True,True,b'Zoltan Boros',0.33
-Feral Animist,Creature,Goblin Shaman,Guildpact,Uncommon,3,Gold,True,False,True,True,b'Ron Spears',0.09
-Gelectrode,Creature,Weird,Guildpact,Uncommon,3,Gold,True,False,True,True,b'Dan Scott',0.35
-Ghost Council of Orzhova,Legendary Creature,Spirit,Guildpact,Rare,4,Gold,True,False,True,True,b'Greg Staples',0.3
-Glint-Eye Nephilim,Creature,Nephilim,Guildpact,Rare,4,Gold,True,False,True,True,b'Mark Zug',0.26
-Goblin Flectomancer,Creature,Goblin Wizard,Guildpact,Uncommon,3,Gold,True,False,True,False,b'Matt Cavotta',0.12
-Ink-Treader Nephilim,Creature,Nephilim,Guildpact,Rare,4,Gold,True,False,True,False,b'Christopher Moeller',0.88
-Invoke the Firemind,Sorcery,None,Guildpact,Rare,4,Gold,True,False,True,True,b'Zoltan Boros',0.47
-Izzet Chronarch,Creature,Human Wizard,Guildpact,Common,5,Gold,True,False,True,True,b'Nick Percival',0.14
-Killer Instinct,Enchantment,None,Guildpact,Rare,6,Gold,True,False,True,False,b'Christopher Moeller',0.2
-Leap of Flame,Instant,None,Guildpact,Common,2,Gold,True,False,True,False,b'Greg Hildebrandt',0.09
-Mortify,Instant,None,Guildpact,Uncommon,3,Gold,True,True,True,True,b'Glen Angus',0.48
-"Niv-Mizzet, the Firemind",Legendary Creature,Dragon Wizard,Guildpact,Rare,6,Gold,True,False,True,True,b'Todd Lockwood',1.62
-Orzhov Pontiff,Creature,Human Cleric,Guildpact,Rare,3,Gold,True,False,True,True,b'Adam Rex',0.57
-Pillory of the Sleepless,Enchantment,Aura,Guildpact,Common,3,Gold,True,False,True,True,b'Mark Romanoski',0.13
-Rumbling Slum,Creature,Elemental,Guildpact,Rare,4,Gold,True,False,True,True,b'Carl Critchlow',0.28
-Savage Twister,Sorcery,None,Guildpact,Uncommon,3,Gold,True,False,True,True,b'Luca Zontini',0.11
-Scab-Clan Mauler,Creature,Human Berserker,Guildpact,Common,2,Gold,True,False,True,True,b'Liam Sharp',0.08
-Schismotivate,Instant,None,Guildpact,Uncommon,3,Gold,True,False,True,False,b'Ron Spencer',0.12
-Skarrgan Skybreaker,Creature,Giant Shaman,Guildpact,Uncommon,7,Gold,True,False,True,True,b'Dan Scott',0.07
-Souls of the Faultless,Creature,Spirit,Guildpact,Uncommon,3,Gold,True,False,True,False,b'Pat Lee',0.57
-Stitch in Time,Sorcery,None,Guildpact,Rare,3,Gold,True,False,True,True,b'Jon Foster',1.82
-Streetbreaker Wurm,Creature,Wurm,Guildpact,Common,5,Gold,True,False,True,False,b'Greg Hildebrandt',0.06
-"Teysa, Orzhov Scion",Legendary Creature,Human Advisor,Guildpact,Rare,3,Gold,True,False,True,True,b'Todd Lockwood',3.09
-Tibor and Lumia,Legendary Creature,Human Wizard,Guildpact,Rare,4,Gold,True,False,True,True,b'Jim Murray',0.23
-"Ulasht, the Hate Seed",Legendary Creature,Hellion Hydra,Guildpact,Rare,4,Gold,True,False,True,True,b'Nottsuo',1.19
-Wee Dragonauts,Creature,Faerie Wizard,Guildpact,Common,3,Gold,True,True,True,True,b'Greg Staples',0.1
-Witch-Maw Nephilim,Creature,Nephilim,Guildpact,Rare,4,Gold,True,False,True,False,b'Greg Staples',0.73
-Wreak Havoc,Sorcery,None,Guildpact,Uncommon,4,Gold,True,False,True,False,b'Wayne Reynolds',0.17
-Yore-Tiller Nephilim,Creature,Nephilim,Guildpact,Rare,4,Gold,True,False,True,True,b'Jeremy Jarvis',1.28
-Debtors' Knell,Enchantment,None,Guildpact,Rare,10,Gold,True,False,True,True,b'Kev Walker',3.32
-Djinn Illuminatus,Creature,Djinn,Guildpact,Rare,9,Gold,True,False,True,True,b'Carl Critchlow',0.17
-Giant Solifuge,Creature,Insect,Guildpact,Rare,6,Gold,True,False,True,True,b'Pat Lee',0.22
-Gruul Guildmage,Creature,Human Shaman,Guildpact,Uncommon,4,Gold,True,False,True,True,b'Paolo Parente',0.11
-Izzet Guildmage,Creature,Human Wizard,Guildpact,Uncommon,4,Gold,True,False,True,True,b'Jim Murray',0.21
-Mourning Thrull,Creature,Thrull,Guildpact,Common,3,Gold,True,False,True,False,b'Dany Orizio',0.12
-Orzhov Guildmage,Creature,Human Wizard,Guildpact,Uncommon,4,Gold,True,False,True,True,b'Greg Staples',0.16
-Petrahydrox,Creature,Weird,Guildpact,Common,5,Gold,True,False,True,False,b'Anthony S. Waters',0.09
-Wild Cantor,Creature,Human Druid,Guildpact,Common,2,Gold,True,False,True,False,b'Glenn Fabry',0.24
-Gruul Signet,Artifact,None,Guildpact,Common,2,Colorless,True,False,True,True,b'Greg Hildebrandt',0.3
-Gruul War Plow,Artifact,None,Guildpact,Rare,4,Colorless,True,False,True,False,b'Martina Pilcerova',0.33
-Izzet Signet,Artifact,None,Guildpact,Common,2,Colorless,True,False,True,True,b'Greg Hildebrandt',0.99
-Mizzium Transreliquat,Artifact,None,Guildpact,Rare,3,Colorless,True,False,True,False,b'John Avon',0.49
-Moratorium Stone,Artifact,None,Guildpact,Rare,1,Colorless,True,False,True,False,b'Martina Pilcerova',0.19
-Orzhov Signet,Artifact,None,Guildpact,Common,2,Colorless,True,False,True,True,b'Greg Hildebrandt',0.48
-Sword of the Paruns,Artifact,Equipment,Guildpact,Rare,4,Colorless,True,False,True,True,b'Greg Hildebrandt',1.55
-Godless Shrine,Land,Plains Swamp,Guildpact,Rare,0,Colorless,True,True,True,True,b'Rob Alexander',17.6
-Gruul Turf,Land,None,Guildpact,Common,0,Colorless,True,False,True,True,b'John Avon',0.28
-Izzet Boilerworks,Land,None,Guildpact,Common,0,Colorless,True,False,True,True,b'John Avon',0.23
-"Nivix, Aerie of the Firemind",Land,None,Guildpact,Uncommon,0,Colorless,True,False,True,True,b'Martina Pilcerova',0.16
-Orzhov Basilica,Land,None,Guildpact,Common,0,Colorless,True,False,True,True,b'John Avon',0.27
-"Orzhova, the Church of Deals",Land,None,Guildpact,Uncommon,0,Colorless,True,False,True,False,b'Martina Pilcerova',0.19
-"Skarrg, the Rage Pits",Land,None,Guildpact,Uncommon,0,Colorless,True,False,True,True,b'Martina Pilcerova',0.3
-Steam Vents,Land,Island Mountain,Guildpact,Rare,0,Colorless,True,True,True,True,b'Rob Alexander',23.64
-Stomping Ground,Land,Mountain Forest,Guildpact,Rare,0,Colorless,True,True,True,True,b'Rob Alexander',18.86
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Absolver Thrull,Creature,Thrull Cleric,Guildpact,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Rob Alexander',0.06,False
+Belfry Spirit,Creature,Spirit,Guildpact,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.2,False
+Benediction of Moons,Sorcery,None,Guildpact,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.11,False
+Droning Bureaucrats,Creature,Human Advisor,Guildpact,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.11,False
+Ghost Warden,Creature,Spirit,Guildpact,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Ittoku',0.04,False
+Ghostway,Instant,None,Guildpact,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Murray',11.68,False
+Graven Dominator,Creature,Gargoyle,Guildpact,Rare,6,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.18,False
+Guardian's Magemark,Enchantment,Aura,Guildpact,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Brandon Kitkouski',0.08,False
+Harrier Griffin,Creature,Griffin,Guildpact,Uncommon,6,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.1,False
+Leyline of the Meek,Enchantment,None,Guildpact,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',2.02,False
+Lionheart Maverick,Creature,Human Knight,Guildpact,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Hideaki Takamura',0.06,False
+Martyred Rusalka,Creature,Spirit,Guildpact,Uncommon,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Alex Horley-Orlandelli',0.13,False
+Order of the Stars,Creature,Human Cleric,Guildpact,Uncommon,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.28,False
+Shadow Lance,Enchantment,Aura,Guildpact,Uncommon,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Hideaki Takamura',0.12,False
+Shrieking Grotesque,Creature,Gargoyle,Guildpact,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Dany Orizio',0.15,False
+Sinstriker's Will,Enchantment,Aura,Guildpact,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Ben Thompson',0.1,False
+Skyrider Trainee,Creature,Human Soldier,Guildpact,Common,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',0.08,False
+Spelltithe Enforcer,Creature,Elephant Wizard,Guildpact,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',3.42,False
+Storm Herd,Sorcery,None,Guildpact,Rare,10,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Nelson',1.23,False
+To Arms!,Instant,None,Guildpact,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Aleksi Briclot',0.78,False
+Withstand,Instant,None,Guildpact,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spears',0.05,False
+Aetherplasm,Creature,Illusion,Guildpact,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Nottsuo',0.29,False
+Crystal Seer,Creature,Vedalken Wizard,Guildpact,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Glen Angus',0.07,False
+Drowned Rusalka,Creature,Spirit,Guildpact,Uncommon,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Dany Orizio',0.14,False
+Frazzle,Instant,None,Guildpact,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.08,False
+Gigadrowse,Instant,None,Guildpact,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Alex Horley-Orlandelli',0.32,False
+Hatching Plans,Enchantment,None,Guildpact,Rare,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.58,False
+Infiltrator's Magemark,Enchantment,Aura,Guildpact,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Brandon Kitkouski',0.1,False
+Leyline of Singularity,Enchantment,None,Guildpact,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',1.36,False
+Mimeofacture,Sorcery,None,Guildpact,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.24,False
+Quicken,Instant,None,Guildpact,Rare,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',0.63,False
+Repeal,Instant,None,Guildpact,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.16,False
+Runeboggle,Instant,None,Guildpact,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.1,False
+Sky Swallower,Creature,Leviathan,Guildpact,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'rk post',0.26,False
+Steamcore Weird,Creature,Weird,Guildpact,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Norman',0.1,False
+Stratozeppelid,Creature,Beast,Guildpact,Uncommon,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Ittoku',0.1,False
+Thunderheads,Instant,None,Guildpact,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Hideaki Takamura',0.09,False
+Torch Drake,Creature,Drake,Guildpact,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.1,False
+Train of Thought,Sorcery,None,Guildpact,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Thompson',0.12,False
+Vacuumelt,Sorcery,None,Guildpact,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Nottsuo',0.09,False
+Vedalken Plotter,Creature,Vedalken Wizard,Guildpact,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.35,False
+Vertigo Spawn,Creature,Illusion,Guildpact,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Ittoku',0.08,False
+Abyssal Nocturnus,Creature,Horror,Guildpact,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Jon Foster',0.85,False
+Caustic Rain,Sorcery,None,Guildpact,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Luca Zontini',0.11,False
+Cremate,Instant,None,Guildpact,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.1,False
+Cry of Contrition,Sorcery,None,Guildpact,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.14,False
+Cryptwailing,Enchantment,None,Guildpact,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Nick Percival',0.11,False
+Daggerclaw Imp,Creature,Imp,Guildpact,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.13,False
+Douse in Gloom,Instant,None,Guildpact,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.05,False
+Exhumer Thrull,Creature,Thrull,Guildpact,Uncommon,6,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Warren Mahy',0.1,False
+Hissing Miasma,Enchantment,None,Guildpact,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Ben Thompson',1.21,False
+Leyline of the Void,Enchantment,None,Guildpact,Rare,4,Black,Legal,Legal,Legal,Legal,Legal,True,b'Adam Rex',17.4,False
+Necromancer's Magemark,Enchantment,Aura,Guildpact,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Brandon Kitkouski',0.12,False
+Orzhov Euthanist,Creature,Human Assassin,Guildpact,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.08,False
+Ostiary Thrull,Creature,Thrull,Guildpact,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.05,False
+Plagued Rusalka,Creature,Spirit,Guildpact,Uncommon,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Alex Horley-Orlandelli',0.1,False
+Poisonbelly Ogre,Creature,Ogre Warrior,Guildpact,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.24,False
+Restless Bones,Creature,Skeleton,Guildpact,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Glenn Fabry',0.08,False
+Revenant Patriarch,Creature,Spirit,Guildpact,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Nick Percival',0.16,False
+Sanguine Praetor,Creature,Avatar Praetor,Guildpact,Rare,8,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',0.17,False
+Seize the Soul,Instant,None,Guildpact,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Aleksi Briclot',0.29,False
+Skeletal Vampire,Creature,Vampire Skeleton,Guildpact,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.22,False
+Smogsteed Rider,Creature,Human Wizard,Guildpact,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Alex Horley-Orlandelli',0.1,False
+Bloodscale Prowler,Creature,Viashino Warrior,Guildpact,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Lars Grant-West',0.05,False
+Fencer's Magemark,Enchantment,Aura,Guildpact,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Brandon Kitkouski',0.07,False
+Ghor-Clan Bloodscale,Creature,Viashino Warrior,Guildpact,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.1,False
+Hypervolt Grasp,Enchantment,Aura,Guildpact,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Romanoski',0.14,False
+Leyline of Lightning,Enchantment,None,Guildpact,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.27,False
+Living Inferno,Creature,Elemental,Guildpact,Rare,8,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.2,False
+Ogre Savant,Creature,Ogre Wizard,Guildpact,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.05,False
+Parallectric Feedback,Instant,None,Guildpact,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Mitch Cotie',0.2,False
+Pyromatics,Instant,None,Guildpact,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Glen Angus',0.05,False
+Rabble-Rouser,Creature,Goblin Shaman,Guildpact,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Justin Norman',0.11,False
+Scorched Rusalka,Creature,Spirit,Guildpact,Uncommon,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Luca Zontini',0.09,False
+Shattering Spree,Sorcery,None,Guildpact,Uncommon,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Pat Lee',2.83,False
+Siege of Towers,Sorcery,None,Guildpact,Rare,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony S. Waters',0.15,False
+Skarrgan Firebird,Creature,Phoenix,Guildpact,Rare,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.19,False
+Tin Street Hooligan,Creature,Goblin Rogue,Guildpact,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Luca Zontini',0.11,False
+Battering Wurm,Creature,Wurm,Guildpact,Uncommon,7,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Darrell Riche',0.11,False
+Beastmaster's Magemark,Enchantment,Aura,Guildpact,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Brandon Kitkouski',0.1,False
+Bioplasm,Creature,Ooze,Guildpact,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Jon Foster',0.21,False
+Crash Landing,Instant,None,Guildpact,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Darrell Riche',0.09,False
+Dryad Sophisticate,Creature,Dryad,Guildpact,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spears',0.18,False
+Earth Surge,Enchantment,None,Guildpact,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Luca Zontini',0.31,False
+Gatherer of Graces,Creature,Human Druid,Guildpact,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.1,False
+Ghor-Clan Savage,Creature,Centaur Berserker,Guildpact,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.03,False
+Gristleback,Creature,Boar Beast,Guildpact,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Lars Grant-West',0.14,False
+Gruul Nodorog,Creature,Beast,Guildpact,Common,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.05,False
+Gruul Scrapper,Creature,Human Berserker,Guildpact,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Liam Sharp',0.05,False
+Leyline of Lifeforce,Enchantment,None,Guildpact,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',2.34,False
+Petrified Wood-Kin,Creature,Elemental Warrior,Guildpact,Rare,7,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.21,False
+Predatory Focus,Sorcery,None,Guildpact,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.15,False
+Primeval Light,Sorcery,None,Guildpact,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.21,False
+Silhana Ledgewalker,Creature,Elf Rogue,Guildpact,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'James Wong',0.7,False
+Silhana Starfletcher,Creature,Elf Druid Archer,Guildpact,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Alex Horley-Orlandelli',0.1,False
+Skarrgan Pit-Skulk,Creature,Human Warrior,Guildpact,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Liam Sharp',0.18,False
+Starved Rusalka,Creature,Spirit,Guildpact,Uncommon,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Dany Orizio',0.1,False
+Wildsize,Instant,None,Guildpact,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Murray',0.11,False
+Wurmweaver Coil,Enchantment,Aura,Guildpact,Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Mitch Cotie',0.19,False
+Agent of Masks,Creature,Human Advisor,Guildpact,Uncommon,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Thompson',0.16,False
+Angel of Despair,Creature,Angel,Guildpact,Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Todd Lockwood',0.9,False
+Blind Hunter,Creature,Bat,Guildpact,Common,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Warren Mahy',0.12,False
+Borborygmos,Creature,Cyclops,Guildpact,Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Todd Lockwood',0.21,True
+Burning-Tree Bloodscale,Creature,Viashino Berserker,Guildpact,Common,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.06,False
+Burning-Tree Shaman,Creature,Centaur Shaman,Guildpact,Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.44,False
+Castigate,Sorcery,None,Guildpact,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Darrell Riche',0.24,False
+Cerebral Vortex,Instant,None,Guildpact,Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeremy Jarvis',0.46,False
+Conjurer's Ban,Sorcery,None,Guildpact,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.1,False
+Culling Sun,Sorcery,None,Guildpact,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.25,False
+Dune-Brood Nephilim,Creature,Nephilim,Guildpact,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Murray',0.64,False
+Electrolyze,Instant,None,Guildpact,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.3,False
+Feral Animist,Creature,Goblin Shaman,Guildpact,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spears',0.1,False
+Gelectrode,Creature,Weird,Guildpact,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.31,False
+Ghost Council of Orzhova,Creature,Spirit,Guildpact,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.3,True
+Glint-Eye Nephilim,Creature,Nephilim,Guildpact,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.26,False
+Goblin Flectomancer,Creature,Goblin Wizard,Guildpact,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.13,False
+Ink-Treader Nephilim,Creature,Nephilim,Guildpact,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.85,False
+Invoke the Firemind,Sorcery,None,Guildpact,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.43,False
+Izzet Chronarch,Creature,Human Wizard,Guildpact,Common,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Nick Percival',0.11,False
+Killer Instinct,Enchantment,None,Guildpact,Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.21,False
+Leap of Flame,Instant,None,Guildpact,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Hildebrandt',0.1,False
+Mortify,Instant,None,Guildpact,Uncommon,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Glen Angus',0.48,False
+Niv-Mizzet the Firemind,Creature,Dragon Wizard,Guildpact,Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Todd Lockwood',1.53,True
+Orzhov Pontiff,Creature,Human Cleric,Guildpact,Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',0.56,False
+Pillory of the Sleepless,Enchantment,Aura,Guildpact,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Romanoski',0.12,False
+Rumbling Slum,Creature,Elemental,Guildpact,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.27,False
+Savage Twister,Sorcery,None,Guildpact,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Luca Zontini',0.12,False
+Scab-Clan Mauler,Creature,Human Berserker,Guildpact,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Liam Sharp',0.09,False
+Schismotivate,Instant,None,Guildpact,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.11,False
+Skarrgan Skybreaker,Creature,Giant Shaman,Guildpact,Uncommon,7,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.08,False
+Souls of the Faultless,Creature,Spirit,Guildpact,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Pat Lee',0.6,False
+Stitch in Time,Sorcery,None,Guildpact,Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jon Foster',1.78,False
+Streetbreaker Wurm,Creature,Wurm,Guildpact,Common,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Hildebrandt',0.07,False
+Teysa Orzhov Scion,Creature,Human Advisor,Guildpact,Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Todd Lockwood',2.9,True
+Tibor and Lumia,Creature,Human Wizard,Guildpact,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Murray',0.24,True
+Ulasht the Hate Seed,Creature,Hellion Hydra,Guildpact,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Nottsuo',1.22,True
+Wee Dragonauts,Creature,Faerie Wizard,Guildpact,Common,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Greg Staples',0.09,False
+Witch-Maw Nephilim,Creature,Nephilim,Guildpact,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.74,False
+Wreak Havoc,Sorcery,None,Guildpact,Uncommon,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne Reynolds',0.16,False
+Yore-Tiller Nephilim,Creature,Nephilim,Guildpact,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeremy Jarvis',1.14,False
+Debtors' Knell,Enchantment,None,Guildpact,Rare,10,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',2.83,False
+Djinn Illuminatus,Creature,Djinn,Guildpact,Rare,9,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.17,False
+Giant Solifuge,Creature,Insect,Guildpact,Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Pat Lee',0.21,False
+Gruul Guildmage,Creature,Human Shaman,Guildpact,Uncommon,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.09,False
+Izzet Guildmage,Creature,Human Wizard,Guildpact,Uncommon,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Murray',0.23,False
+Mourning Thrull,Creature,Thrull,Guildpact,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Dany Orizio',0.14,False
+Orzhov Guildmage,Creature,Human Wizard,Guildpact,Uncommon,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.17,False
+Petrahydrox,Creature,Weird,Guildpact,Common,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony S. Waters',0.13,False
+Wild Cantor,Creature,Human Druid,Guildpact,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Glenn Fabry',0.25,False
+Gruul Signet,Artifact,None,Guildpact,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Hildebrandt',0.35,False
+Gruul War Plow,Artifact,None,Guildpact,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Martina Pilcerova',0.33,False
+Izzet Signet,Artifact,None,Guildpact,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Hildebrandt',0.99,False
+Mizzium Transreliquat,Artifact,None,Guildpact,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.5,False
+Moratorium Stone,Artifact,None,Guildpact,Rare,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Martina Pilcerova',0.19,False
+Orzhov Signet,Artifact,None,Guildpact,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Hildebrandt',0.55,False
+Sword of the Paruns,Artifact,Equipment,Guildpact,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Hildebrandt',1.97,False
+Godless Shrine,Land,Plains Swamp,Guildpact,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',17.07,False
+Gruul Turf,Land,None,Guildpact,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.28,False
+Izzet Boilerworks,Land,None,Guildpact,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.24,False
+Nivix Aerie of the Firemind,Land,None,Guildpact,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Martina Pilcerova',0.11,False
+Orzhov Basilica,Land,None,Guildpact,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.28,False
+Orzhova the Church of Deals,Land,None,Guildpact,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Martina Pilcerova',0.2,False
+Skarrg the Rage Pits,Land,None,Guildpact,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Martina Pilcerova',0.32,False
+Steam Vents,Land,Island Mountain,Guildpact,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',23.9,False
+Stomping Ground,Land,Mountain Forest,Guildpact,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',18.09,False

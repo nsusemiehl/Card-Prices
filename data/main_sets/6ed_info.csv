@@ -1,351 +1,351 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Animate Wall,Enchantment,Aura,Classic Sixth Edition,Rare,1,White,False,False,True,True,b'Richard Kane Ferguson',0.24
-Archangel,Creature,Angel,Classic Sixth Edition,Rare,7,White,True,False,True,True,b'Quinton Hoover',0.28
-Ardent Militia,Creature,Human Soldier,Classic Sixth Edition,Uncommon,5,White,True,False,True,True,b'Zina Saunders',0.29
-Armageddon,Sorcery,None,Classic Sixth Edition,Rare,4,White,False,False,True,True,b'Rob Alexander',3.56
-Armored Pegasus,Creature,Pegasus,Classic Sixth Edition,Common,2,White,False,False,True,True,b'Andrew Robinson',0.22
-Castle,Enchantment,None,Classic Sixth Edition,Uncommon,4,White,False,False,True,True,b'Dameon Willich',0.14
-Celestial Dawn,Enchantment,None,Classic Sixth Edition,Rare,3,White,True,False,True,True,b'Liz Danforth',1.18
-Circle of Protection: Black,Enchantment,None,Classic Sixth Edition,Common,2,White,True,False,True,True,b'Gerry Grace',0.16
-Circle of Protection: Blue,Enchantment,None,Classic Sixth Edition,Common,2,White,True,False,True,True,b'Gerry Grace',0.29
-Circle of Protection: Green,Enchantment,None,Classic Sixth Edition,Common,2,White,True,False,True,True,b'Gerry Grace',0.12
-Circle of Protection: Red,Enchantment,None,Classic Sixth Edition,Common,2,White,True,False,True,True,b'Gerry Grace',0.22
-Circle of Protection: White,Enchantment,None,Classic Sixth Edition,Common,2,White,True,False,True,True,b'Gerry Grace',0.13
-Crusade,Enchantment,None,Classic Sixth Edition,Rare,2,White,False,False,True,True,b'D. Alexander Gregory',1.09
-Daraja Griffin,Creature,Griffin,Classic Sixth Edition,Uncommon,4,White,False,False,True,True,b'Stuart Griffin',0.2
-D'Avenant Archer,Creature,Human Soldier Archer,Classic Sixth Edition,Common,3,White,False,False,True,True,b'Douglas Shuler',0.13
-Disenchant,Instant,None,Classic Sixth Edition,Common,2,White,True,True,True,True,b'Brian Sn\xc3\xb5ddy',0.1
-Divine Transformation,Enchantment,Aura,Classic Sixth Edition,Uncommon,4,White,False,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.15
-Ekundu Griffin,Creature,Griffin,Classic Sixth Edition,Common,4,White,False,False,True,True,b'David A. Cherry',0.14
-Enlightened Tutor,Instant,None,Classic Sixth Edition,Uncommon,1,White,False,False,True,True,b'Dan Frazier',26.8
-Ethereal Champion,Creature,Avatar,Classic Sixth Edition,Rare,5,White,False,False,True,True,b'Terese Nielsen',0.23
-Exile,Instant,None,Classic Sixth Edition,Rare,3,White,False,False,True,True,b'Rob Alexander',0.99
-Healing Salve,Instant,None,Classic Sixth Edition,Common,1,White,True,False,True,True,b'Dan Frazier',0.14
-Heavy Ballista,Creature,Human Soldier,Classic Sixth Edition,Uncommon,4,White,False,False,True,True,b'Ron Spencer',0.16
-Hero's Resolve,Enchantment,Aura,Classic Sixth Edition,Common,2,White,False,False,True,True,b'Pete Venters',0.13
-Icatian Town,Sorcery,None,Classic Sixth Edition,Rare,6,White,False,False,True,True,b'Tom W\xc3\xa4nerstrand',0.2
-Infantry Veteran,Creature,Human Soldier,Classic Sixth Edition,Common,1,White,True,False,True,True,b'Christopher Rush',0.14
-Kismet,Enchantment,None,Classic Sixth Edition,Uncommon,4,White,False,False,True,True,b'Kaja Foglio',1.71
-Kjeldoran Royal Guard,Creature,Human Soldier,Classic Sixth Edition,Rare,5,White,True,False,True,True,b'Allen Williams',0.28
-Light of Day,Enchantment,None,Classic Sixth Edition,Uncommon,4,White,False,False,True,True,b'Drew Tucker',0.27
-Longbow Archer,Creature,Human Soldier Archer,Classic Sixth Edition,Uncommon,2,White,False,False,True,True,b'Eric Peterson',0.13
-Mesa Falcon,Creature,Bird,Classic Sixth Edition,Common,2,White,False,False,True,True,b'Mark Poole',0.07
-Order of the Sacred Torch,Creature,Human Knight,Classic Sixth Edition,Rare,3,White,False,False,True,True,b'Ruth Thompson',0.37
-Pacifism,Enchantment,Aura,Classic Sixth Edition,Common,2,White,True,True,True,True,b'Robert Bliss',0.07
-Pearl Dragon,Creature,Dragon,Classic Sixth Edition,Rare,6,White,False,False,True,True,b'Ian Miller',0.39
-Regal Unicorn,Creature,Unicorn,Classic Sixth Edition,Common,3,White,False,False,True,True,b'Zina Saunders',0.13
-Remedy,Instant,None,Classic Sixth Edition,Common,2,White,False,False,True,True,b'Zina Saunders',0.05
-Reprisal,Instant,None,Classic Sixth Edition,Uncommon,2,White,True,False,True,True,b'Randy Asplund-Faith',0.2
-Resistance Fighter,Creature,Human Soldier,Classic Sixth Edition,Common,1,White,False,False,True,True,b'Cecil Fernando',0.05
-Reverse Damage,Instant,None,Classic Sixth Edition,Rare,3,White,True,False,True,True,b'Thomas Gianni',0.31
-Samite Healer,Creature,Human Cleric,Classic Sixth Edition,Common,2,White,True,False,True,True,b'Tom W\xc3\xa4nerstrand',0.09
-Serenity,Enchantment,None,Classic Sixth Edition,Rare,2,White,False,False,True,True,b'Cliff Nielsen',1.55
-Serra's Blessing,Enchantment,None,Classic Sixth Edition,Uncommon,2,White,True,False,True,True,b'Rebecca Guay',0.47
-Spirit Link,Enchantment,Aura,Classic Sixth Edition,Uncommon,1,White,True,False,True,True,b'Kaja Foglio',0.37
-Standing Troops,Creature,Human Soldier,Classic Sixth Edition,Common,3,White,True,False,True,True,b'Daren Bader',0.08
-Staunch Defenders,Creature,Human Soldier,Classic Sixth Edition,Uncommon,5,White,True,False,True,True,b'Mark Poole',0.12
-Sunweb,Creature,Wall,Classic Sixth Edition,Rare,4,White,True,False,True,True,b'Dan Frazier',0.21
-Tariff,Sorcery,None,Classic Sixth Edition,Rare,2,White,False,False,True,True,b'Kev Walker',0.38
-Tundra Wolves,Creature,Wolf,Classic Sixth Edition,Common,1,White,True,False,True,True,b'Quinton Hoover',0.08
-Unyaro Griffin,Creature,Griffin,Classic Sixth Edition,Uncommon,4,White,False,False,True,True,b'Al Davidson',0.1
-Venerable Monk,Creature,Human Monk Cleric,Classic Sixth Edition,Common,3,White,True,False,True,True,b'D. Alexander Gregory',0.11
-Wall of Swords,Creature,Wall,Classic Sixth Edition,Uncommon,4,White,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.16
-Warmth,Enchantment,None,Classic Sixth Edition,Uncommon,2,White,False,False,True,True,b'Drew Tucker',0.11
-Warrior's Honor,Instant,None,Classic Sixth Edition,Common,3,White,True,False,True,True,b'D. Alexander Gregory',0.05
-Wrath of God,Sorcery,None,Classic Sixth Edition,Rare,4,White,True,False,True,True,b'Quinton Hoover',6.31
-Abduction,Enchantment,Aura,Classic Sixth Edition,Uncommon,4,Blue,False,False,True,True,b'Colin MacNeil',0.19
-Air Elemental,Creature,Elemental,Classic Sixth Edition,Uncommon,5,Blue,True,True,True,True,b'Doug Chaffee',0.17
-Ancestral Memories,Sorcery,None,Classic Sixth Edition,Rare,5,Blue,False,False,True,True,b'William Donohoe',0.21
-Boomerang,Instant,None,Classic Sixth Edition,Common,2,Blue,True,False,True,True,b'Richard Kane Ferguson',0.17
-Browse,Enchantment,None,Classic Sixth Edition,Uncommon,4,Blue,False,False,True,True,b'Phil Foglio',0.14
-Chill,Enchantment,None,Classic Sixth Edition,Uncommon,2,Blue,False,False,True,True,b'Greg Simanson',0.23
-Counterspell,Instant,None,Classic Sixth Edition,Common,2,Blue,False,False,True,True,b'Hannibal King',0.97
-Daring Apprentice,Creature,Human Wizard,Classic Sixth Edition,Rare,3,Blue,True,False,True,True,b'Kaja Foglio',0.23
-Deflection,Instant,None,Classic Sixth Edition,Rare,4,Blue,True,False,True,True,b'Mike Raabe',0.44
-Desertion,Instant,None,Classic Sixth Edition,Rare,5,Blue,False,False,True,True,b'Richard Kane Ferguson',2.46
-Diminishing Returns,Sorcery,None,Classic Sixth Edition,Rare,4,Blue,False,False,True,True,b'Allen Williams',0.6
-Dream Cache,Sorcery,None,Classic Sixth Edition,Common,3,Blue,False,False,True,True,b'D. Alexander Gregory',0.12
-Flash,Instant,None,Classic Sixth Edition,Rare,2,Blue,False,False,False,True,b'David Ho',2.43
-Flight,Enchantment,Aura,Classic Sixth Edition,Common,1,Blue,True,False,True,True,b'Jerry Tiritilli',0.06
-Fog Elemental,Creature,Elemental,Classic Sixth Edition,Common,3,Blue,True,False,True,True,b'Jon J Muth',0.12
-Forget,Sorcery,None,Classic Sixth Edition,Rare,2,Blue,False,False,True,True,b'Mike Kimble',0.2
-Gaseous Form,Enchantment,Aura,Classic Sixth Edition,Common,3,Blue,False,False,True,True,b'Roger Raupp',0.04
-Glacial Wall,Creature,Wall,Classic Sixth Edition,Uncommon,3,Blue,False,False,True,True,b'Dameon Willich',0.17
-Harmattan Efreet,Creature,Efreet,Classic Sixth Edition,Uncommon,4,Blue,False,False,True,True,b'Drew Tucker',0.14
-Horned Turtle,Creature,Turtle,Classic Sixth Edition,Common,3,Blue,True,False,True,True,b'DiTerlizzi',0.1
-Insight,Enchantment,None,Classic Sixth Edition,Uncommon,3,Blue,False,False,True,True,b'Ron Chironna',0.22
-Inspiration,Instant,None,Classic Sixth Edition,Common,4,Blue,True,False,True,True,b'Zina Saunders',0.13
-Juxtapose,Sorcery,None,Classic Sixth Edition,Rare,4,Blue,False,False,True,True,b'Justin Hampton',0.26
-Library of Lat-Nam,Sorcery,None,Classic Sixth Edition,Rare,5,Blue,False,False,True,True,b'Alan Rabinowitz',0.34
-Lord of Atlantis,Creature,Merfolk,Classic Sixth Edition,Rare,2,Blue,True,False,True,True,b'Melissa A. Benson',2.94
-Mana Short,Instant,None,Classic Sixth Edition,Rare,3,Blue,False,False,True,True,b'Dameon Willich',0.82
-Memory Lapse,Instant,None,Classic Sixth Edition,Common,2,Blue,False,False,True,True,b'Mark Tedin',0.14
-Merfolk of the Pearl Trident,Creature,Merfolk,Classic Sixth Edition,Common,1,Blue,True,False,True,True,b'DiTerlizzi',0.1
-Mystical Tutor,Instant,None,Classic Sixth Edition,Uncommon,1,Blue,False,False,True,True,"b""David O'Connor""",11.63
-Phantasmal Terrain,Enchantment,Aura,Classic Sixth Edition,Common,2,Blue,False,False,True,True,b'David A. Cherry',0.05
-Phantom Warrior,Creature,Illusion Warrior,Classic Sixth Edition,Uncommon,3,Blue,True,True,True,True,b'John Matson',0.08
-Polymorph,Sorcery,None,Classic Sixth Edition,Rare,4,Blue,True,False,True,True,b'Robert Bliss',1.33
-Power Sink,Instant,None,Classic Sixth Edition,Uncommon,2,Blue,False,False,True,True,b'Mark Poole',0.32
-Prodigal Sorcerer,Creature,Human Wizard,Classic Sixth Edition,Common,3,Blue,True,False,True,True,b'Douglas Shuler',0.1
-Prosperity,Sorcery,None,Classic Sixth Edition,Uncommon,2,Blue,False,False,True,True,b'Dan Frazier',0.93
-Psychic Transfer,Sorcery,None,Classic Sixth Edition,Rare,5,Blue,False,False,True,True,b'Dom!',0.16
-Psychic Venom,Enchantment,Aura,Classic Sixth Edition,Common,2,Blue,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.16
-Recall,Sorcery,None,Classic Sixth Edition,Rare,3,Blue,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.31
-Relearn,Sorcery,None,Classic Sixth Edition,Uncommon,3,Blue,False,False,True,True,b'Zina Saunders',0.26
-Remove Soul,Instant,None,Classic Sixth Edition,Common,2,Blue,True,False,True,True,b'Mike Dringenberg',0.11
-Sage Owl,Creature,Bird,Classic Sixth Edition,Common,2,Blue,True,False,True,True,b'Mark Poole',0.11
-Sea Monster,Creature,Serpent,Classic Sixth Edition,Common,6,Blue,True,False,True,True,b'Daniel Gelon',0.06
-Segovian Leviathan,Creature,Leviathan,Classic Sixth Edition,Uncommon,5,Blue,False,False,True,True,b'Melissa A. Benson',0.16
-Sibilant Spirit,Creature,Spirit,Classic Sixth Edition,Rare,6,Blue,False,False,True,True,b'Ron Spencer',0.12
-Soldevi Sage,Creature,Human Wizard,Classic Sixth Edition,Uncommon,2,Blue,False,False,True,True,b'Carol Heyer',0.15
-Spell Blast,Instant,None,Classic Sixth Edition,Common,2,Blue,True,False,True,True,b'Greg Simanson',0.06
-Storm Crow,Creature,Bird,Classic Sixth Edition,Common,2,Blue,True,False,True,True,b'Una Fricker',0.18
-Tidal Surge,Sorcery,None,Classic Sixth Edition,Common,2,Blue,False,False,True,True,b'Doug Chaffee',0.11
-Unsummon,Instant,None,Classic Sixth Edition,Common,1,Blue,True,True,True,True,b'Douglas Shuler',0.1
-Vodalian Soldiers,Creature,Merfolk Soldier,Classic Sixth Edition,Common,2,Blue,False,False,True,True,b'Melissa A. Benson',0.07
-Wall of Air,Creature,Wall,Classic Sixth Edition,Uncommon,3,Blue,True,False,True,True,b'Richard Thomas',0.18
-Wind Drake,Creature,Drake,Classic Sixth Edition,Common,3,Blue,True,False,True,True,b'Zina Saunders',0.07
-Wind Spirit,Creature,Elemental Spirit,Classic Sixth Edition,Uncommon,5,Blue,False,False,True,True,b'Kaja Foglio',0.18
-Zur's Weirding,Enchantment,None,Classic Sixth Edition,Rare,4,Blue,True,False,True,True,b'Liz Danforth',0.51
-Abyssal Hunter,Creature,Human Assassin,Classic Sixth Edition,Rare,4,Black,False,False,True,True,b'Steve Luke',0.31
-Abyssal Specter,Creature,Specter,Classic Sixth Edition,Uncommon,4,Black,True,False,True,True,b'George Pratt',0.16
-Agonizing Memories,Sorcery,None,Classic Sixth Edition,Uncommon,4,Black,True,False,True,True,b'Mike Dringenberg',0.16
-Ashen Powder,Sorcery,None,Classic Sixth Edition,Rare,4,Black,False,False,True,True,b'Geofrey Darrow',1.02
-Blight,Enchantment,Aura,Classic Sixth Edition,Uncommon,2,Black,False,False,True,True,b'Ian Miller',0.41
-Blighted Shaman,Creature,Human Cleric Shaman,Classic Sixth Edition,Uncommon,2,Black,False,False,True,True,b'Ian Miller',0.19
-Blood Pet,Creature,Thrull,Classic Sixth Edition,Common,1,Black,False,False,True,True,b'Brom',0.17
-Bog Imp,Creature,Imp,Classic Sixth Edition,Common,2,Black,True,False,True,True,b'Christopher Rush',0.1
-Bog Rats,Creature,Rat,Classic Sixth Edition,Common,1,Black,False,False,True,True,b'Ron Spencer',0.1
-Bog Wraith,Creature,Wraith,Classic Sixth Edition,Uncommon,4,Black,True,False,True,True,b'Jeff A. Menges',0.15
-Coercion,Sorcery,None,Classic Sixth Edition,Common,3,Black,True,False,True,True,b'DiTerlizzi',0.11
-Derelor,Creature,Thrull,Classic Sixth Edition,Rare,4,Black,False,False,True,True,b'Anson Maddocks',0.19
-Doomsday,Sorcery,None,Classic Sixth Edition,Rare,3,Black,False,False,True,True,b'Adrian Smith',6.15
-Dread of Night,Enchantment,None,Classic Sixth Edition,Uncommon,1,Black,False,False,True,True,b'Richard Thomas',0.73
-Drudge Skeletons,Creature,Skeleton,Classic Sixth Edition,Common,2,Black,True,False,True,True,b'Ian Miller',0.1
-Dry Spell,Sorcery,None,Classic Sixth Edition,Common,2,Black,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.08
-Enfeeblement,Enchantment,Aura,Classic Sixth Edition,Common,2,Black,True,False,True,True,b'John Bolton',0.08
-Evil Eye of Orms-by-Gore,Creature,Eye,Classic Sixth Edition,Uncommon,5,Black,True,False,True,True,b'George Pratt',0.26
-Fallen Angel,Creature,Angel,Classic Sixth Edition,Rare,5,Black,True,False,True,True,b'Anson Maddocks',0.26
-Fatal Blow,Instant,None,Classic Sixth Edition,Common,1,Black,False,False,True,True,b'George Pratt',0.07
-Fear,Enchantment,Aura,Classic Sixth Edition,Common,2,Black,True,False,True,True,b'Doug Keith',0.1
-Feast of the Unicorn,Enchantment,Aura,Classic Sixth Edition,Common,4,Black,False,False,True,True,b'Dennis Detwiller',0.16
-Feral Shadow,Creature,Nightstalker,Classic Sixth Edition,Common,3,Black,False,False,True,True,b'Cliff Nielsen',0.16
-Forbidden Crypt,Enchantment,None,Classic Sixth Edition,Rare,5,Black,False,False,True,True,b'D. Alexander Gregory',0.25
-Gravebane Zombie,Creature,Zombie,Classic Sixth Edition,Uncommon,4,Black,False,False,True,True,b'Gary Leach',0.12
-Gravedigger,Creature,Zombie,Classic Sixth Edition,Common,4,Black,True,True,True,True,b'Dermot Power',0.11
-Greed,Enchantment,None,Classic Sixth Edition,Rare,4,Black,False,False,True,True,b'Phil Foglio',3.18
-Hecatomb,Enchantment,None,Classic Sixth Edition,Rare,3,Black,False,False,True,True,b'George Pratt',0.23
-Hidden Horror,Creature,Horror,Classic Sixth Edition,Uncommon,3,Black,True,False,True,True,b'Clint Langley',0.16
-Howl from Beyond,Instant,None,Classic Sixth Edition,Common,2,Black,False,False,True,True,b'John Coulthart',0.13
-Infernal Contract,Sorcery,None,Classic Sixth Edition,Rare,3,Black,False,False,True,True,b'Roger Raupp',0.48
-Kjeldoran Dead,Creature,Skeleton,Classic Sixth Edition,Common,1,Black,False,False,True,True,b'Melissa A. Benson',0.13
-Leshrac's Rite,Enchantment,Aura,Classic Sixth Edition,Uncommon,1,Black,False,False,True,True,b'Mike Raabe',0.09
-Lost Soul,Creature,Spirit Minion,Classic Sixth Edition,Common,3,Black,False,False,True,True,b'Randy Asplund-Faith',0.08
-Mind Warp,Sorcery,None,Classic Sixth Edition,Uncommon,3,Black,False,False,True,True,b'Liz Danforth',0.17
-Mischievous Poltergeist,Creature,Spirit,Classic Sixth Edition,Uncommon,3,Black,False,False,True,True,b'DiTerlizzi',0.15
-Necrosavant,Creature,Zombie Giant,Classic Sixth Edition,Rare,6,Black,False,False,True,True,b'John Coulthart',0.24
-Nightmare,Creature,Nightmare Horse,Classic Sixth Edition,Rare,6,Black,True,False,True,True,b'Melissa A. Benson',0.73
-Painful Memories,Sorcery,None,Classic Sixth Edition,Common,2,Black,False,False,True,True,b'John Coulthart',0.06
-Perish,Sorcery,None,Classic Sixth Edition,Uncommon,3,Black,False,False,True,True,b'Rebecca Guay',0.21
-Pestilence,Enchantment,None,Classic Sixth Edition,Uncommon,4,Black,False,False,True,True,b'Kev Walker',0.43
-Python,Creature,Snake,Classic Sixth Edition,Common,3,Black,False,False,True,True,b'Steve White',0.08
-Rag Man,Creature,Human Minion,Classic Sixth Edition,Rare,4,Black,False,False,True,True,b'Daniel Gelon',0.25
-Raise Dead,Sorcery,None,Classic Sixth Edition,Common,1,Black,True,False,True,True,b'Charles Gillespie',0.06
-Razortooth Rats,Creature,Rat,Classic Sixth Edition,Common,3,Black,True,False,True,True,b'Brian Horton',0.13
-Scathe Zombies,Creature,Zombie,Classic Sixth Edition,Common,3,Black,True,False,True,True,b'Jesper Myrfors',0.05
-Sengir Autocrat,Creature,Human,Classic Sixth Edition,Rare,4,Black,True,False,True,True,b'David A. Cherry',0.38
-Strands of Night,Enchantment,None,Classic Sixth Edition,Uncommon,4,Black,False,False,True,True,b'Patrick Kochakji',0.31
-Stromgald Cabal,Creature,Human Knight,Classic Sixth Edition,Rare,3,Black,False,False,True,True,b'Anson Maddocks',0.27
-Stupor,Sorcery,None,Classic Sixth Edition,Uncommon,3,Black,True,False,True,True,b'Mike Kimble',0.36
-Syphon Soul,Sorcery,None,Classic Sixth Edition,Common,3,Black,False,False,True,True,b'Melissa A. Benson',0.08
-Terror,Instant,None,Classic Sixth Edition,Common,2,Black,True,False,True,True,b'Ron Spencer',0.11
-Vampiric Tutor,Instant,None,Classic Sixth Edition,Rare,1,Black,False,False,True,True,b'Gary Leach',68.15
-Zombie Master,Creature,Zombie,Classic Sixth Edition,Rare,3,Black,False,False,True,True,b'Jeff A. Menges',3.82
-Aether Flash,Enchantment,None,Classic Sixth Edition,Uncommon,4,Red,False,False,True,True,b'Ron Spencer',0.39
-Anaba Bodyguard,Creature,Minotaur,Classic Sixth Edition,Common,4,Red,True,False,True,True,b'Anson Maddocks',0.07
-Anaba Shaman,Creature,Minotaur Shaman,Classic Sixth Edition,Common,4,Red,True,False,True,True,b'Anson Maddocks',0.16
-Balduvian Barbarians,Creature,Human Barbarian,Classic Sixth Edition,Common,3,Red,True,False,True,True,b'Mark Poole',0.16
-Balduvian Horde,Creature,Human Barbarian,Classic Sixth Edition,Rare,4,Red,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.29
-Blaze,Sorcery,None,Classic Sixth Edition,Uncommon,2,Red,True,False,True,True,b'Gerry Grace',0.2
-Boil,Instant,None,Classic Sixth Edition,Uncommon,4,Red,True,False,True,True,b'Jason Alexander Behnke',0.44
-Burrowing,Enchantment,Aura,Classic Sixth Edition,Uncommon,1,Red,False,False,True,True,b'Mark Poole',0.16
-Conquer,Enchantment,Aura,Classic Sixth Edition,Uncommon,5,Red,False,False,True,True,b'Randy Gallegos',0.16
-Crimson Hellkite,Creature,Dragon,Classic Sixth Edition,Rare,9,Red,False,False,True,True,b'Gerry Grace',0.52
-Earthquake,Sorcery,None,Classic Sixth Edition,Rare,2,Red,True,False,True,True,b'Richard Kane Ferguson',0.56
-Fervor,Enchantment,None,Classic Sixth Edition,Rare,3,Red,True,False,True,True,b'Franz Vohwinkel',1.7
-Final Fortune,Instant,None,Classic Sixth Edition,Rare,2,Red,False,False,True,True,b'D. Alexander Gregory',1.92
-Fire Elemental,Creature,Elemental,Classic Sixth Edition,Uncommon,5,Red,True,True,True,True,b'Melissa A. Benson',0.15
-Firebreathing,Enchantment,Aura,Classic Sixth Edition,Common,1,Red,True,False,True,True,b'Mike Kerr',0.07
-Fit of Rage,Sorcery,None,Classic Sixth Edition,Common,2,Red,False,False,True,True,b'Douglas Shuler',0.2
-Flame Spirit,Creature,Elemental Spirit,Classic Sixth Edition,Common,5,Red,False,False,True,True,b'Justin Hampton',0.11
-Flashfires,Sorcery,None,Classic Sixth Edition,Uncommon,4,Red,True,False,True,True,b'Randy Gallegos',0.19
-Giant Strength,Enchantment,Aura,Classic Sixth Edition,Common,2,Red,False,False,True,True,b'Kev Walker',0.08
-Goblin Digging Team,Creature,Goblin,Classic Sixth Edition,Common,1,Red,False,False,True,True,b'Phil Foglio',0.07
-Goblin Elite Infantry,Creature,Goblin Warrior,Classic Sixth Edition,Common,2,Red,True,False,True,True,b'Robert Bliss',0.08
-Goblin Hero,Creature,Goblin,Classic Sixth Edition,Common,3,Red,False,False,True,True,b'Pete Venters',0.11
-Goblin King,Creature,Goblin,Classic Sixth Edition,Rare,3,Red,True,False,True,True,b'Phil Foglio',2.98
-Goblin Recruiter,Creature,Goblin,Classic Sixth Edition,Uncommon,2,Red,False,False,True,True,b'Scott Kirschner',2.07
-Goblin Warrens,Enchantment,None,Classic Sixth Edition,Rare,3,Red,False,False,True,True,b'Dan Frazier',1.19
-Hammer of Bogardan,Sorcery,None,Classic Sixth Edition,Rare,3,Red,True,False,True,True,b'Ron Spencer',0.37
-Hulking Cyclops,Creature,Cyclops,Classic Sixth Edition,Uncommon,5,Red,True,False,True,True,b'Paolo Parente',0.15
-Illicit Auction,Sorcery,None,Classic Sixth Edition,Rare,5,Red,False,False,True,True,b'Scott Kirschner',0.92
-Inferno,Instant,None,Classic Sixth Edition,Rare,7,Red,True,False,True,True,b'Mike Kerr',0.27
-Jokulhaups,Sorcery,None,Classic Sixth Edition,Rare,6,Red,False,False,True,True,b'Mike Kerr',4.03
-Lightning Blast,Instant,None,Classic Sixth Edition,Common,4,Red,True,False,True,True,b'Richard Thomas',0.1
-Manabarbs,Enchantment,None,Classic Sixth Edition,Rare,4,Red,True,False,True,True,b'Christopher Rush',0.36
-Mountain Goat,Creature,Goat,Classic Sixth Edition,Common,1,Red,False,False,True,True,b'Cornelius Brudi',0.1
-Orcish Artillery,Creature,Orc Warrior,Classic Sixth Edition,Uncommon,3,Red,True,False,True,True,b'Dan Frazier',0.17
-Orcish Oriflamme,Enchantment,None,Classic Sixth Edition,Uncommon,4,Red,False,False,True,True,b'Dan Frazier',0.12
-Pillage,Sorcery,None,Classic Sixth Edition,Uncommon,3,Red,True,False,True,True,b'Richard Kane Ferguson',0.34
-Pyrotechnics,Sorcery,None,Classic Sixth Edition,Common,5,Red,True,False,True,True,b'Anson Maddocks',0.09
-Raging Goblin,Creature,Goblin Berserker,Classic Sixth Edition,Common,1,Red,True,False,True,True,b'Jeff Miracola',0.07
-Reckless Embermage,Creature,Human Wizard,Classic Sixth Edition,Rare,4,Red,False,False,True,True,b'Tom Kyffin',0.23
-Relentless Assault,Sorcery,None,Classic Sixth Edition,Rare,4,Red,True,False,True,True,b'Geofrey Darrow',1.0
-Sabretooth Tiger,Creature,Cat,Classic Sixth Edition,Common,3,Red,True,False,True,True,b'Melissa A. Benson',0.08
-Shatter,Instant,None,Classic Sixth Edition,Common,2,Red,True,False,True,True,b'Jason Alexander Behnke',0.09
-Shatterstorm,Sorcery,None,Classic Sixth Edition,Rare,4,Red,True,False,True,True,b'James Allen',0.99
-Shock,Instant,None,Classic Sixth Edition,Common,1,Red,True,True,True,True,b'Randy Gallegos',0.17
-Spitting Drake,Creature,Drake,Classic Sixth Edition,Uncommon,4,Red,False,False,True,True,b'Geofrey Darrow',0.17
-Spitting Earth,Sorcery,None,Classic Sixth Edition,Common,2,Red,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.1
-Stone Rain,Sorcery,None,Classic Sixth Edition,Common,3,Red,True,False,True,True,b'John Matson',0.11
-Talruum Minotaur,Creature,Minotaur Berserker,Classic Sixth Edition,Common,4,Red,False,False,True,True,b'Pete Venters',0.1
-Tremor,Sorcery,None,Classic Sixth Edition,Common,1,Red,True,False,True,True,b'Pete Venters',0.08
-Vertigo,Instant,None,Classic Sixth Edition,Uncommon,1,Red,False,False,True,True,b'Drew Tucker',0.13
-Viashino Warrior,Creature,Viashino Warrior,Classic Sixth Edition,Common,4,Red,False,False,True,True,b'Roger Raupp',0.05
-Volcanic Dragon,Creature,Dragon,Classic Sixth Edition,Rare,6,Red,True,True,True,True,b'Janine Johnston',0.27
-Volcanic Geyser,Instant,None,Classic Sixth Edition,Uncommon,3,Red,True,False,True,True,"b""David O'Connor""",0.15
-Wall of Fire,Creature,Wall,Classic Sixth Edition,Uncommon,3,Red,True,False,True,True,b'Richard Thomas',0.1
-Birds of Paradise,Creature,Bird,Classic Sixth Edition,Rare,1,Green,True,False,True,True,b'Mark Poole',7.71
-Call of the Wild,Enchantment,None,Classic Sixth Edition,Rare,4,Green,True,False,True,True,b'Brom',0.2
-Cat Warriors,Creature,Cat Warrior,Classic Sixth Edition,Common,3,Green,False,False,True,True,b'Melissa A. Benson',0.11
-Creeping Mold,Sorcery,None,Classic Sixth Edition,Uncommon,4,Green,True,False,True,True,b'David Seeley',0.14
-Dense Foliage,Enchantment,None,Classic Sixth Edition,Rare,3,Green,False,False,True,True,b'Alan Rabinowitz',0.51
-Early Harvest,Instant,None,Classic Sixth Edition,Rare,3,Green,True,False,True,True,b'Janine Johnston',0.92
-Elder Druid,Creature,Elf Cleric Druid,Classic Sixth Edition,Rare,4,Green,False,False,True,True,b'Richard Kane Ferguson',0.24
-Elven Cache,Sorcery,None,Classic Sixth Edition,Common,4,Green,False,False,True,True,b'Rebecca Guay',0.09
-Elven Riders,Creature,Elf,Classic Sixth Edition,Uncommon,5,Green,True,False,True,True,b'Dan Frazier',0.2
-Elvish Archers,Creature,Elf Archer,Classic Sixth Edition,Rare,2,Green,False,False,True,True,b'Anson Maddocks',0.42
-Fallow Earth,Sorcery,None,Classic Sixth Edition,Uncommon,3,Green,False,False,True,True,b'Janine Johnston',0.14
-Familiar Ground,Enchantment,None,Classic Sixth Edition,Uncommon,3,Green,False,False,True,True,b'Jeff Miracola',0.13
-Femeref Archers,Creature,Human Archer,Classic Sixth Edition,Uncommon,3,Green,True,False,True,True,b'William Donohoe',0.17
-Fog,Instant,None,Classic Sixth Edition,Common,1,Green,True,False,True,True,b'Harold McNeill',0.15
-Fyndhorn Brownie,Creature,Ouphe,Classic Sixth Edition,Common,3,Green,False,False,True,True,b'Richard Thomas',0.1
-Fyndhorn Elder,Creature,Elf Druid,Classic Sixth Edition,Uncommon,3,Green,True,False,True,True,b'Donato Giancola',0.25
-Giant Growth,Instant,None,Classic Sixth Edition,Common,1,Green,True,True,True,True,b'DiTerlizzi',0.12
-Giant Spider,Creature,Spider,Classic Sixth Edition,Common,4,Green,True,False,True,True,b'Randy Gallegos',0.06
-Gorilla Chieftain,Creature,Ape,Classic Sixth Edition,Common,4,Green,False,False,True,True,b'Quinton Hoover',0.08
-Grizzly Bears,Creature,Bear,Classic Sixth Edition,Common,2,Green,True,False,True,True,b'Una Fricker',0.13
-Hurricane,Sorcery,None,Classic Sixth Edition,Rare,2,Green,True,False,True,True,b'Andrew Robinson',0.26
-Living Lands,Enchantment,None,Classic Sixth Edition,Rare,4,Green,False,False,True,True,b'John Matson',0.18
-Llanowar Elves,Creature,Elf Druid,Classic Sixth Edition,Common,1,Green,True,False,True,True,b'Anson Maddocks',0.2
-Lure,Enchantment,Aura,Classic Sixth Edition,Uncommon,3,Green,True,False,True,True,b'Anson Maddocks',0.15
-Maro,Creature,Elemental,Classic Sixth Edition,Rare,4,Green,True,False,True,True,b'Stuart Griffin',0.28
-Nature's Resurgence,Sorcery,None,Classic Sixth Edition,Rare,4,Green,False,False,True,True,b'Scott M. Fischer',0.23
-Panther Warriors,Creature,Cat Warrior,Classic Sixth Edition,Common,5,Green,False,False,True,True,b'Eric Peterson',0.07
-Pradesh Gypsies,Creature,Human Nomad,Classic Sixth Edition,Common,3,Green,False,False,True,True,b'Quinton Hoover',0.05
-Radjan Spirit,Creature,Spirit,Classic Sixth Edition,Uncommon,4,Green,False,False,True,True,b'Christopher Rush',0.15
-Rampant Growth,Sorcery,None,Classic Sixth Edition,Common,2,Green,True,False,True,True,b'Tom Kyffin',0.26
-Redwood Treefolk,Creature,Treefolk,Classic Sixth Edition,Common,5,Green,False,False,True,True,b'Steve Luke',0.09
-Regeneration,Enchantment,Aura,Classic Sixth Edition,Common,2,Green,True,False,True,True,b'Quinton Hoover',0.13
-River Boa,Creature,Snake,Classic Sixth Edition,Uncommon,2,Green,True,False,True,True,b'Steve White',0.22
-Rowen,Enchantment,None,Classic Sixth Edition,Rare,4,Green,False,False,True,True,b'Jon J Muth',0.28
-Scaled Wurm,Creature,Wurm,Classic Sixth Edition,Common,8,Green,True,False,True,True,b'Daniel Gelon',0.05
-Shanodin Dryads,Creature,Nymph Dryad,Classic Sixth Edition,Common,1,Green,False,False,True,True,b'Gary Leach',0.07
-Stalking Tiger,Creature,Cat,Classic Sixth Edition,Common,4,Green,True,False,True,True,b'Terese Nielsen',0.07
-Stream of Life,Sorcery,None,Classic Sixth Edition,Common,2,Green,True,False,True,True,b'Terese Nielsen',0.11
-Summer Bloom,Sorcery,None,Classic Sixth Edition,Uncommon,2,Green,False,False,True,True,b'Kaja Foglio',0.91
-Thicket Basilisk,Creature,Basilisk,Classic Sixth Edition,Uncommon,5,Green,False,False,True,True,b'Dan Frazier',0.11
-Trained Armodon,Creature,Elephant,Classic Sixth Edition,Common,3,Green,True,False,True,True,b'Gary Leach',0.08
-Tranquil Grove,Enchantment,None,Classic Sixth Edition,Rare,2,Green,False,False,True,True,b'Dylan Martens',1.51
-Tranquility,Sorcery,None,Classic Sixth Edition,Common,3,Green,False,False,True,True,b'Douglas Shuler',0.05
-Uktabi Orangutan,Creature,Ape,Classic Sixth Edition,Uncommon,3,Green,False,False,True,True,b'Una Fricker',0.16
-Uktabi Wildcats,Creature,Cat,Classic Sixth Edition,Rare,5,Green,False,False,True,True,b'John Matson',0.41
-Unseen Walker,Creature,Dryad,Classic Sixth Edition,Uncommon,2,Green,False,False,True,True,b'Alan Rabinowitz',0.16
-Untamed Wilds,Sorcery,None,Classic Sixth Edition,Uncommon,3,Green,False,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.12
-Verduran Enchantress,Creature,Human Druid,Classic Sixth Edition,Rare,3,Green,True,False,True,True,b'Kev Brockschmidt',1.95
-Vitalize,Instant,None,Classic Sixth Edition,Common,1,Green,False,False,True,True,b'Pete Venters',0.38
-Waiting in the Weeds,Sorcery,None,Classic Sixth Edition,Rare,3,Green,False,False,True,True,b'Susan Van Camp',0.45
-Warthog,Creature,Boar,Classic Sixth Edition,Uncommon,3,Green,False,False,True,True,b'Steve White',0.1
-Wild Growth,Enchantment,Aura,Classic Sixth Edition,Common,1,Green,False,False,True,True,b'Pat Morrissey',0.25
-Worldly Tutor,Instant,None,Classic Sixth Edition,Uncommon,1,Green,False,False,True,True,"b""David O'Connor""",21.3
-Wyluli Wolf,Creature,Wolf,Classic Sixth Edition,Rare,2,Green,False,False,True,True,b'Susan Van Camp',0.38
-Aladdin's Ring,Artifact,None,Classic Sixth Edition,Rare,8,Colorless,True,False,True,True,b'Stuart Griffin',0.22
-Amber Prison,Artifact,None,Classic Sixth Edition,Rare,4,Colorless,False,False,True,True,b'Donato Giancola',0.32
-Ankh of Mishra,Artifact,None,Classic Sixth Edition,Rare,2,Colorless,False,False,True,True,b'Ian Miller',1.92
-Ashnod's Altar,Artifact,None,Classic Sixth Edition,Uncommon,3,Colorless,False,False,True,True,b'Anson Maddocks',5.92
-Bottle of Suleiman,Artifact,None,Classic Sixth Edition,Rare,4,Colorless,False,False,True,True,b'DiTerlizzi',0.27
-Charcoal Diamond,Artifact,None,Classic Sixth Edition,Uncommon,2,Colorless,False,False,True,True,b'Drew Tucker',1.26
-Crystal Rod,Artifact,None,Classic Sixth Edition,Uncommon,1,Colorless,True,False,True,True,b'Donato Giancola',0.19
-Cursed Totem,Artifact,None,Classic Sixth Edition,Rare,2,Colorless,False,False,True,True,b'D. Alexander Gregory',11.4
-Dancing Scimitar,Artifact Creature,Spirit,Classic Sixth Edition,Rare,4,Colorless,True,False,True,True,b'Anson Maddocks',0.16
-Dingus Egg,Artifact,None,Classic Sixth Edition,Rare,4,Colorless,True,False,True,True,b'Randy Gallegos',0.39
-Disrupting Scepter,Artifact,None,Classic Sixth Edition,Rare,3,Colorless,True,False,True,True,b'Stuart Griffin',0.19
-Dragon Engine,Artifact Creature,Construct,Classic Sixth Edition,Rare,3,Colorless,False,False,True,True,b'Anson Maddocks',0.13
-Dragon Mask,Artifact,None,Classic Sixth Edition,Uncommon,3,Colorless,False,False,True,True,b'Craig Hooper',0.12
-Fire Diamond,Artifact,None,Classic Sixth Edition,Uncommon,2,Colorless,False,False,True,True,b'Richard Thomas',1.84
-Flying Carpet,Artifact,None,Classic Sixth Edition,Rare,4,Colorless,True,False,True,True,b'Mark Tedin',0.15
-Fountain of Youth,Artifact,None,Classic Sixth Edition,Uncommon,0,Colorless,True,False,True,True,b'Daniel Gelon',0.19
-Glasses of Urza,Artifact,None,Classic Sixth Edition,Uncommon,1,Colorless,False,False,True,True,b'Douglas Shuler',0.21
-Grinning Totem,Artifact,None,Classic Sixth Edition,Rare,4,Colorless,True,False,True,True,b'Donato Giancola',0.34
-Howling Mine,Artifact,None,Classic Sixth Edition,Rare,2,Colorless,True,False,True,True,b'Mark Poole',3.56
-Iron Star,Artifact,None,Classic Sixth Edition,Uncommon,1,Colorless,True,False,True,True,b'Donato Giancola',0.14
-Ivory Cup,Artifact,None,Classic Sixth Edition,Uncommon,1,Colorless,True,False,True,True,b'Donato Giancola',0.22
-Jade Monolith,Artifact,None,Classic Sixth Edition,Rare,4,Colorless,False,False,True,True,b'Richard Kane Ferguson',0.3
-Jalum Tome,Artifact,None,Classic Sixth Edition,Rare,3,Colorless,False,False,True,True,b'Tom W\xc3\xa4nerstrand',0.26
-Jayemdae Tome,Artifact,None,Classic Sixth Edition,Rare,4,Colorless,True,False,True,True,b'Mark Tedin',0.22
-Lead Golem,Artifact Creature,Golem,Classic Sixth Edition,Uncommon,5,Colorless,False,False,True,True,b'Hannibal King',0.24
-Mana Prism,Artifact,None,Classic Sixth Edition,Uncommon,3,Colorless,False,False,True,True,b'Margaret Organ-Kean',0.14
-Marble Diamond,Artifact,None,Classic Sixth Edition,Uncommon,2,Colorless,False,False,True,True,b'Jeff Miracola',1.41
-Meekstone,Artifact,None,Classic Sixth Edition,Rare,1,Colorless,False,False,True,True,b'Quinton Hoover',6.39
-Millstone,Artifact,None,Classic Sixth Edition,Rare,2,Colorless,True,False,True,True,b'Kaja Foglio',0.46
-Moss Diamond,Artifact,None,Classic Sixth Edition,Uncommon,2,Colorless,False,False,True,True,b'Donato Giancola',0.16
-Mystic Compass,Artifact,None,Classic Sixth Edition,Uncommon,2,Colorless,False,False,True,True,b'Amy Weber',0.22
-Obsianus Golem,Artifact Creature,Golem,Classic Sixth Edition,Uncommon,6,Colorless,False,False,True,True,b'Jesper Myrfors',0.08
-Ornithopter,Artifact Creature,Thopter,Classic Sixth Edition,Uncommon,0,Colorless,True,False,True,True,b'Amy Weber',0.27
-Patagia Golem,Artifact Creature,Golem,Classic Sixth Edition,Uncommon,4,Colorless,True,False,True,True,b'Scott Kirschner',0.09
-Pentagram of the Ages,Artifact,None,Classic Sixth Edition,Rare,4,Colorless,False,False,True,True,b'Douglas Shuler',0.24
-Phyrexian Vault,Artifact,None,Classic Sixth Edition,Uncommon,3,Colorless,True,False,True,True,b'Hannibal King',0.11
-Primal Clay,Artifact Creature,Shapeshifter,Classic Sixth Edition,Rare,4,Colorless,True,False,True,True,b'Adam Rex',0.14
-Rod of Ruin,Artifact,None,Classic Sixth Edition,Uncommon,4,Colorless,True,False,True,True,b'Christopher Rush',0.09
-Skull Catapult,Artifact,None,Classic Sixth Edition,Uncommon,4,Colorless,False,False,True,True,b'Ian Miller',0.1
-Sky Diamond,Artifact,None,Classic Sixth Edition,Uncommon,2,Colorless,False,False,True,True,b'D. Alexander Gregory',1.54
-Snake Basket,Artifact,None,Classic Sixth Edition,Rare,4,Colorless,False,False,True,True,b'Roger Raupp',1.27
-Soul Net,Artifact,None,Classic Sixth Edition,Uncommon,1,Colorless,False,False,True,True,b'Andrew Robinson',0.14
-Storm Cauldron,Artifact,None,Classic Sixth Edition,Rare,5,Colorless,False,False,True,True,b'Dan Frazier',1.97
-Teferi's Puzzle Box,Artifact,None,Classic Sixth Edition,Rare,4,Colorless,True,False,True,True,b'Kaja Foglio',9.03
-The Hive,Artifact,None,Classic Sixth Edition,Rare,5,Colorless,True,False,True,True,b'Sandra Everingham',0.18
-Throne of Bone,Artifact,None,Classic Sixth Edition,Uncommon,1,Colorless,True,False,True,True,b'Donato Giancola',0.19
-Wand of Denial,Artifact,None,Classic Sixth Edition,Rare,2,Colorless,False,False,True,True,b'Steve Luke',0.22
-Wooden Sphere,Artifact,None,Classic Sixth Edition,Uncommon,1,Colorless,True,False,True,True,b'Donato Giancola',0.13
-Adarkar Wastes,Land,None,Classic Sixth Edition,Rare,0,Colorless,True,False,True,True,b'Gary Leach',5.79
-Brushland,Land,None,Classic Sixth Edition,Rare,0,Colorless,True,False,True,True,b'Tom W\xc3\xa4nerstrand',4.69
-City of Brass,Land,None,Classic Sixth Edition,Rare,0,Colorless,True,False,True,True,b'Tom W\xc3\xa4nerstrand',11.29
-Crystal Vein,Land,None,Classic Sixth Edition,Uncommon,0,Colorless,False,False,True,True,b'Pat Morrissey',0.8
-Dwarven Ruins,Land,None,Classic Sixth Edition,Uncommon,0,Colorless,False,False,True,True,b'Liz Danforth',0.26
-Ebon Stronghold,Land,None,Classic Sixth Edition,Uncommon,0,Colorless,False,False,True,True,b'Liz Danforth',0.21
-Havenwood Battleground,Land,None,Classic Sixth Edition,Uncommon,0,Colorless,False,False,True,True,b'Liz Danforth',0.17
-Karplusan Forest,Land,None,Classic Sixth Edition,Rare,0,Colorless,True,False,True,True,b'Randy Gallegos',3.52
-Ruins of Trokair,Land,None,Classic Sixth Edition,Uncommon,0,Colorless,False,False,True,True,b'Liz Danforth',0.12
-Sulfurous Springs,Land,None,Classic Sixth Edition,Rare,0,Colorless,True,False,True,True,b'Jeff Miracola',7.03
-Svyelunite Temple,Land,None,Classic Sixth Edition,Uncommon,0,Colorless,False,False,True,True,b'Liz Danforth',0.13
-Underground River,Land,None,Classic Sixth Edition,Rare,0,Colorless,True,False,True,True,b'Jeff Miracola',4.04
-Plains,Basic Land,Plains,Classic Sixth Edition,Common,0,Colorless,True,True,True,True,b'Tom W\xc3\xa4nerstrand',0.18
-Plains,Basic Land,Plains,Classic Sixth Edition,Common,0,Colorless,True,True,True,True,b'Tom W\xc3\xa4nerstrand',0.3
-Plains,Basic Land,Plains,Classic Sixth Edition,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',0.17
-Plains,Basic Land,Plains,Classic Sixth Edition,Common,0,Colorless,True,True,True,True,b'Fred Fields',0.24
-Island,Basic Land,Island,Classic Sixth Edition,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',0.3
-Island,Basic Land,Island,Classic Sixth Edition,Common,0,Colorless,True,True,True,True,b'J. W. Frost',0.26
-Island,Basic Land,Island,Classic Sixth Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.39
-Island,Basic Land,Island,Classic Sixth Edition,Common,0,Colorless,True,True,True,True,b'Eric Peterson',0.41
-Swamp,Basic Land,Swamp,Classic Sixth Edition,Common,0,Colorless,True,True,True,True,b'Romas Kukalis',0.24
-Swamp,Basic Land,Swamp,Classic Sixth Edition,Common,0,Colorless,True,True,True,True,b'Dan Frazier',0.34
-Swamp,Basic Land,Swamp,Classic Sixth Edition,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',0.24
-Swamp,Basic Land,Swamp,Classic Sixth Edition,Common,0,Colorless,True,True,True,True,b'Romas Kukalis',0.41
-Mountain,Basic Land,Mountain,Classic Sixth Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.3
-Mountain,Basic Land,Mountain,Classic Sixth Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.29
-Mountain,Basic Land,Mountain,Classic Sixth Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.29
-Mountain,Basic Land,Mountain,Classic Sixth Edition,Common,0,Colorless,True,True,True,True,b'Brian Durfee',0.41
-Forest,Basic Land,Forest,Classic Sixth Edition,Common,0,Colorless,True,True,True,True,b'Quinton Hoover',0.11
-Forest,Basic Land,Forest,Classic Sixth Edition,Common,0,Colorless,True,True,True,True,b'Quinton Hoover',0.26
-Forest,Basic Land,Forest,Classic Sixth Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.21
-Forest,Basic Land,Forest,Classic Sixth Edition,Common,0,Colorless,True,True,True,True,b'John Avon',0.29
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Animate Wall,Enchantment,Aura,Classic Sixth Edition,Rare,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Kane Ferguson',0.28,False
+Archangel,Creature,Angel,Classic Sixth Edition,Rare,7,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.3,False
+Ardent Militia,Creature,Human Soldier,Classic Sixth Edition,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Zina Saunders',0.2,False
+Armageddon,Sorcery,None,Classic Sixth Edition,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',3.63,False
+Armored Pegasus,Creature,Pegasus,Classic Sixth Edition,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Robinson',0.18,False
+Castle,Enchantment,None,Classic Sixth Edition,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.16,False
+Celestial Dawn,Enchantment,None,Classic Sixth Edition,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Liz Danforth',1.27,False
+Circle of Protection: Black,Enchantment,None,Classic Sixth Edition,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Gerry Grace',0.15,False
+Circle of Protection: Blue,Enchantment,None,Classic Sixth Edition,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Gerry Grace',0.21,False
+Circle of Protection: Green,Enchantment,None,Classic Sixth Edition,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Gerry Grace',0.13,False
+Circle of Protection: Red,Enchantment,None,Classic Sixth Edition,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Gerry Grace',0.15,False
+Circle of Protection: White,Enchantment,None,Classic Sixth Edition,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Gerry Grace',0.13,False
+Crusade,Enchantment,None,Classic Sixth Edition,Rare,2,White,Not Legal,Not Legal,Banned,Banned,Banned,True,b'D. Alexander Gregory',0.13,False
+Daraja Griffin,Creature,Griffin,Classic Sixth Edition,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Stuart Griffin',0.19,False
+D'Avenant Archer,Creature,Human Soldier Archer,Classic Sixth Edition,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.14,False
+Disenchant,Instant,None,Classic Sixth Edition,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.13,False
+Divine Transformation,Enchantment,Aura,Classic Sixth Edition,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.19,False
+Ekundu Griffin,Creature,Griffin,Classic Sixth Edition,Common,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'David A. Cherry',0.14,False
+Enlightened Tutor,Instant,None,Classic Sixth Edition,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',31.04,False
+Ethereal Champion,Creature,Avatar,Classic Sixth Edition,Rare,5,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.24,False
+Exile,Instant,None,Classic Sixth Edition,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.78,False
+Healing Salve,Instant,None,Classic Sixth Edition,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.19,False
+Heavy Ballista,Creature,Human Soldier,Classic Sixth Edition,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.14,False
+Hero's Resolve,Enchantment,Aura,Classic Sixth Edition,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.23,False
+Icatian Town,Sorcery,None,Classic Sixth Edition,Rare,6,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',0.21,False
+Infantry Veteran,Creature,Human Soldier,Classic Sixth Edition,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.14,False
+Kismet,Enchantment,None,Classic Sixth Edition,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',1.62,False
+Kjeldoran Royal Guard,Creature,Human Soldier,Classic Sixth Edition,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Allen Williams',0.32,False
+Light of Day,Enchantment,None,Classic Sixth Edition,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.27,False
+Longbow Archer,Creature,Human Soldier Archer,Classic Sixth Edition,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Peterson',0.21,False
+Mesa Falcon,Creature,Bird,Classic Sixth Edition,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.07,False
+Order of the Sacred Torch,Creature,Human Knight,Classic Sixth Edition,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ruth Thompson',0.4,False
+Pacifism,Enchantment,Aura,Classic Sixth Edition,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Robert Bliss',0.07,False
+Pearl Dragon,Creature,Dragon,Classic Sixth Edition,Rare,6,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ian Miller',0.41,False
+Regal Unicorn,Creature,Unicorn,Classic Sixth Edition,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Zina Saunders',0.14,False
+Remedy,Instant,None,Classic Sixth Edition,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Zina Saunders',0.05,False
+Reprisal,Instant,None,Classic Sixth Edition,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Asplund-Faith',0.2,False
+Resistance Fighter,Creature,Human Soldier,Classic Sixth Edition,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Cecil Fernando',0.05,False
+Reverse Damage,Instant,None,Classic Sixth Edition,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Thomas Gianni',0.37,False
+Samite Healer,Creature,Human Cleric,Classic Sixth Edition,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',0.09,False
+Serenity,Enchantment,None,Classic Sixth Edition,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Cliff Nielsen',1.63,False
+Serra's Blessing,Enchantment,None,Classic Sixth Edition,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',0.5,False
+Spirit Link,Enchantment,Aura,Classic Sixth Edition,Uncommon,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.37,False
+Standing Troops,Creature,Human Soldier,Classic Sixth Edition,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.08,False
+Staunch Defenders,Creature,Human Soldier,Classic Sixth Edition,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.12,False
+Sunweb,Creature,Wall,Classic Sixth Edition,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.21,False
+Tariff,Sorcery,None,Classic Sixth Edition,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.35,False
+Tundra Wolves,Creature,Wolf,Classic Sixth Edition,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.1,False
+Unyaro Griffin,Creature,Griffin,Classic Sixth Edition,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Al Davidson',0.1,False
+Venerable Monk,Creature,Human Monk Cleric,Classic Sixth Edition,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'D. Alexander Gregory',0.11,False
+Wall of Swords,Creature,Wall,Classic Sixth Edition,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.17,False
+Warmth,Enchantment,None,Classic Sixth Edition,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.12,False
+Warrior's Honor,Instant,None,Classic Sixth Edition,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'D. Alexander Gregory',0.15,False
+Wrath of God,Sorcery,None,Classic Sixth Edition,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',6.98,False
+Abduction,Enchantment,Aura,Classic Sixth Edition,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Colin MacNeil',0.22,False
+Air Elemental,Creature,Elemental,Classic Sixth Edition,Uncommon,5,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Doug Chaffee',0.18,False
+Ancestral Memories,Sorcery,None,Classic Sixth Edition,Rare,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'William Donohoe',0.25,False
+Boomerang,Instant,None,Classic Sixth Edition,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Kane Ferguson',0.19,False
+Browse,Enchantment,None,Classic Sixth Edition,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Phil Foglio',0.1,False
+Chill,Enchantment,None,Classic Sixth Edition,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Simanson',0.31,False
+Counterspell,Instant,None,Classic Sixth Edition,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Hannibal King',1.16,False
+Daring Apprentice,Creature,Human Wizard,Classic Sixth Edition,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.26,False
+Deflection,Instant,None,Classic Sixth Edition,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Raabe',0.43,False
+Desertion,Instant,None,Classic Sixth Edition,Rare,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Kane Ferguson',2.48,False
+Diminishing Returns,Sorcery,None,Classic Sixth Edition,Rare,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Allen Williams',0.6,False
+Dream Cache,Sorcery,None,Classic Sixth Edition,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'D. Alexander Gregory',0.13,False
+Flash,Instant,None,Classic Sixth Edition,Rare,2,Blue,Not Legal,Not Legal,Banned,Restrict.,Banned,True,b'David Ho',2.62,False
+Flight,Enchantment,Aura,Classic Sixth Edition,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jerry Tiritilli',0.07,False
+Fog Elemental,Creature,Elemental,Classic Sixth Edition,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jon J Muth',0.12,False
+Forget,Sorcery,None,Classic Sixth Edition,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Kimble',0.26,False
+Gaseous Form,Enchantment,Aura,Classic Sixth Edition,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Roger Raupp',0.02,False
+Glacial Wall,Creature,Wall,Classic Sixth Edition,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.21,False
+Harmattan Efreet,Creature,Efreet,Classic Sixth Edition,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.13,False
+Horned Turtle,Creature,Turtle,Classic Sixth Edition,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'DiTerlizzi',0.09,False
+Insight,Enchantment,None,Classic Sixth Edition,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Chironna',0.31,False
+Inspiration,Instant,None,Classic Sixth Edition,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Zina Saunders',0.13,False
+Juxtapose,Sorcery,None,Classic Sixth Edition,Rare,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Hampton',0.27,False
+Library of Lat-Nam,Sorcery,None,Classic Sixth Edition,Rare,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Rabinowitz',0.35,False
+Lord of Atlantis,Creature,Merfolk,Classic Sixth Edition,Rare,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',3.02,False
+Mana Short,Instant,None,Classic Sixth Edition,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.92,False
+Memory Lapse,Instant,None,Classic Sixth Edition,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.15,False
+Merfolk of the Pearl Trident,Creature,Merfolk,Classic Sixth Edition,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'DiTerlizzi',0.08,False
+Mystical Tutor,Instant,None,Classic Sixth Edition,Uncommon,1,Blue,Not Legal,Not Legal,Legal,Restrict.,Banned,True,"b""David O'Connor""",15.77,False
+Phantasmal Terrain,Enchantment,Aura,Classic Sixth Edition,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'David A. Cherry',0.1,False
+Phantom Warrior,Creature,Illusion Warrior,Classic Sixth Edition,Uncommon,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'John Matson',0.08,False
+Polymorph,Sorcery,None,Classic Sixth Edition,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Robert Bliss',1.33,False
+Power Sink,Instant,None,Classic Sixth Edition,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.29,False
+Prodigal Sorcerer,Creature,Human Wizard,Classic Sixth Edition,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.11,False
+Prosperity,Sorcery,None,Classic Sixth Edition,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.9,False
+Psychic Transfer,Sorcery,None,Classic Sixth Edition,Rare,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dom!',0.2,False
+Psychic Venom,Enchantment,Aura,Classic Sixth Edition,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.12,False
+Recall,Sorcery,None,Classic Sixth Edition,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.31,False
+Relearn,Sorcery,None,Classic Sixth Edition,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Zina Saunders',0.26,False
+Remove Soul,Instant,None,Classic Sixth Edition,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Dringenberg',0.11,False
+Sage Owl,Creature,Bird,Classic Sixth Edition,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.11,False
+Sea Monster,Creature,Serpent,Classic Sixth Edition,Common,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.09,False
+Segovian Leviathan,Creature,Leviathan,Classic Sixth Edition,Uncommon,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.19,False
+Sibilant Spirit,Creature,Spirit,Classic Sixth Edition,Rare,6,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.12,False
+Soldevi Sage,Creature,Human Wizard,Classic Sixth Edition,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Carol Heyer',0.17,False
+Spell Blast,Instant,None,Classic Sixth Edition,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Simanson',0.06,False
+Storm Crow,Creature,Bird,Classic Sixth Edition,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Una Fricker',0.19,False
+Tidal Surge,Sorcery,None,Classic Sixth Edition,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Doug Chaffee',0.16,False
+Unsummon,Instant,None,Classic Sixth Edition,Common,1,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.13,False
+Vodalian Soldiers,Creature,Merfolk Soldier,Classic Sixth Edition,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.06,False
+Wall of Air,Creature,Wall,Classic Sixth Edition,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.23,False
+Wind Drake,Creature,Drake,Classic Sixth Edition,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Zina Saunders',0.07,False
+Wind Spirit,Creature,Elemental Spirit,Classic Sixth Edition,Uncommon,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.17,False
+Zur's Weirding,Enchantment,None,Classic Sixth Edition,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Liz Danforth',0.52,False
+Abyssal Hunter,Creature,Human Assassin,Classic Sixth Edition,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Luke',0.33,False
+Abyssal Specter,Creature,Specter,Classic Sixth Edition,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'George Pratt',0.21,False
+Agonizing Memories,Sorcery,None,Classic Sixth Edition,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Dringenberg',0.14,False
+Ashen Powder,Sorcery,None,Classic Sixth Edition,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Geofrey Darrow',0.99,False
+Blight,Enchantment,Aura,Classic Sixth Edition,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ian Miller',0.44,False
+Blighted Shaman,Creature,Human Cleric Shaman,Classic Sixth Edition,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ian Miller',0.19,False
+Blood Pet,Creature,Thrull,Classic Sixth Edition,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brom',0.2,False
+Bog Imp,Creature,Imp,Classic Sixth Edition,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.1,False
+Bog Rats,Creature,Rat,Classic Sixth Edition,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.11,False
+Bog Wraith,Creature,Wraith,Classic Sixth Edition,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.15,False
+Coercion,Sorcery,None,Classic Sixth Edition,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'DiTerlizzi',0.11,False
+Derelor,Creature,Thrull,Classic Sixth Edition,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.19,False
+Doomsday,Sorcery,None,Classic Sixth Edition,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Adrian Smith',6.89,False
+Dread of Night,Enchantment,None,Classic Sixth Edition,Uncommon,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.73,False
+Drudge Skeletons,Creature,Skeleton,Classic Sixth Edition,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Ian Miller',0.09,False
+Dry Spell,Sorcery,None,Classic Sixth Edition,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.08,False
+Enfeeblement,Enchantment,Aura,Classic Sixth Edition,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'John Bolton',0.08,False
+Evil Eye of Orms-by-Gore,Creature,Eye,Classic Sixth Edition,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'George Pratt',0.22,False
+Fallen Angel,Creature,Angel,Classic Sixth Edition,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.32,False
+Fatal Blow,Instant,None,Classic Sixth Edition,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'George Pratt',0.11,False
+Fear,Enchantment,Aura,Classic Sixth Edition,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Doug Keith',0.1,False
+Feast of the Unicorn,Enchantment,Aura,Classic Sixth Edition,Common,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dennis Detwiller',0.16,False
+Feral Shadow,Creature,Nightstalker,Classic Sixth Edition,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Cliff Nielsen',0.14,False
+Forbidden Crypt,Enchantment,None,Classic Sixth Edition,Rare,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'D. Alexander Gregory',0.26,False
+Gravebane Zombie,Creature,Zombie,Classic Sixth Edition,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Gary Leach',0.12,False
+Gravedigger,Creature,Zombie,Classic Sixth Edition,Common,4,Black,Legal,Legal,Legal,Legal,Legal,True,b'Dermot Power',0.11,False
+Greed,Enchantment,None,Classic Sixth Edition,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Phil Foglio',3.29,False
+Hecatomb,Enchantment,None,Classic Sixth Edition,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'George Pratt',0.26,False
+Hidden Horror,Creature,Horror,Classic Sixth Edition,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Clint Langley',0.15,False
+Howl from Beyond,Instant,None,Classic Sixth Edition,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Coulthart',0.14,False
+Infernal Contract,Sorcery,None,Classic Sixth Edition,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Roger Raupp',0.49,False
+Kjeldoran Dead,Creature,Skeleton,Classic Sixth Edition,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.15,False
+Leshrac's Rite,Enchantment,Aura,Classic Sixth Edition,Uncommon,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Raabe',0.1,False
+Lost Soul,Creature,Spirit Minion,Classic Sixth Edition,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Asplund-Faith',0.08,False
+Mind Warp,Sorcery,None,Classic Sixth Edition,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Liz Danforth',0.25,False
+Mischievous Poltergeist,Creature,Spirit,Classic Sixth Edition,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'DiTerlizzi',0.18,False
+Necrosavant,Creature,Zombie Giant,Classic Sixth Edition,Rare,6,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Coulthart',0.26,False
+Nightmare,Creature,Nightmare Horse,Classic Sixth Edition,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.75,False
+Painful Memories,Sorcery,None,Classic Sixth Edition,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Coulthart',0.06,False
+Perish,Sorcery,None,Classic Sixth Edition,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',0.25,False
+Pestilence,Enchantment,None,Classic Sixth Edition,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.4,False
+Python,Creature,Snake,Classic Sixth Edition,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Steve White',0.12,False
+Rag Man,Creature,Human Minion,Classic Sixth Edition,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.28,False
+Raise Dead,Sorcery,None,Classic Sixth Edition,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Charles Gillespie',0.06,False
+Razortooth Rats,Creature,Rat,Classic Sixth Edition,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Horton',0.13,False
+Scathe Zombies,Creature,Zombie,Classic Sixth Edition,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.2,False
+Sengir Autocrat,Creature,Human,Classic Sixth Edition,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'David A. Cherry',0.37,False
+Strands of Night,Enchantment,None,Classic Sixth Edition,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Patrick Kochakji',0.32,False
+Stromgald Cabal,Creature,Human Knight,Classic Sixth Edition,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.29,False
+Stupor,Sorcery,None,Classic Sixth Edition,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Kimble',0.37,False
+Syphon Soul,Sorcery,None,Classic Sixth Edition,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.08,False
+Terror,Instant,None,Classic Sixth Edition,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.11,False
+Vampiric Tutor,Instant,None,Classic Sixth Edition,Rare,1,Black,Not Legal,Not Legal,Legal,Restrict.,Banned,True,b'Gary Leach',77.1,False
+Zombie Master,Creature,Zombie,Classic Sixth Edition,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',4.0,False
+Aether Flash,Enchantment,None,Classic Sixth Edition,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.38,False
+Anaba Bodyguard,Creature,Minotaur,Classic Sixth Edition,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.1,False
+Anaba Shaman,Creature,Minotaur Shaman,Classic Sixth Edition,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.17,False
+Balduvian Barbarians,Creature,Human Barbarian,Classic Sixth Edition,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.16,False
+Balduvian Horde,Creature,Human Barbarian,Classic Sixth Edition,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.32,False
+Blaze,Sorcery,None,Classic Sixth Edition,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Gerry Grace',0.2,False
+Boil,Instant,None,Classic Sixth Edition,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Alexander Behnke',0.5,False
+Burrowing,Enchantment,Aura,Classic Sixth Edition,Uncommon,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.16,False
+Conquer,Enchantment,Aura,Classic Sixth Edition,Uncommon,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.15,False
+Crimson Hellkite,Creature,Dragon,Classic Sixth Edition,Rare,9,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Gerry Grace',0.52,False
+Earthquake,Sorcery,None,Classic Sixth Edition,Rare,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Kane Ferguson',0.6,False
+Fervor,Enchantment,None,Classic Sixth Edition,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',1.73,False
+Final Fortune,Instant,None,Classic Sixth Edition,Rare,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'D. Alexander Gregory',1.95,False
+Fire Elemental,Creature,Elemental,Classic Sixth Edition,Uncommon,5,Red,Legal,Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.21,False
+Firebreathing,Enchantment,Aura,Classic Sixth Edition,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Kerr',0.08,False
+Fit of Rage,Sorcery,None,Classic Sixth Edition,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.2,False
+Flame Spirit,Creature,Elemental Spirit,Classic Sixth Edition,Common,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Hampton',0.11,False
+Flashfires,Sorcery,None,Classic Sixth Edition,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.19,False
+Giant Strength,Enchantment,Aura,Classic Sixth Edition,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.08,False
+Goblin Digging Team,Creature,Goblin,Classic Sixth Edition,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Phil Foglio',0.1,False
+Goblin Elite Infantry,Creature,Goblin Warrior,Classic Sixth Edition,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Robert Bliss',0.11,False
+Goblin Hero,Creature,Goblin,Classic Sixth Edition,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.11,False
+Goblin King,Creature,Goblin,Classic Sixth Edition,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Phil Foglio',2.7,False
+Goblin Recruiter,Creature,Goblin,Classic Sixth Edition,Uncommon,2,Red,Not Legal,Not Legal,Legal,Legal,Banned,True,b'Scott Kirschner',4.12,False
+Goblin Warrens,Enchantment,None,Classic Sixth Edition,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',1.21,False
+Hammer of Bogardan,Sorcery,None,Classic Sixth Edition,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.37,False
+Hulking Cyclops,Creature,Cyclops,Classic Sixth Edition,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.14,False
+Illicit Auction,Sorcery,None,Classic Sixth Edition,Rare,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Kirschner',1.0,False
+Inferno,Instant,None,Classic Sixth Edition,Rare,7,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Kerr',0.3,False
+Jokulhaups,Sorcery,None,Classic Sixth Edition,Rare,6,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Kerr',4.13,False
+Lightning Blast,Instant,None,Classic Sixth Edition,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.11,False
+Manabarbs,Enchantment,None,Classic Sixth Edition,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.38,False
+Mountain Goat,Creature,Goat,Classic Sixth Edition,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Cornelius Brudi',0.1,False
+Orcish Artillery,Creature,Orc Warrior,Classic Sixth Edition,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.2,False
+Orcish Oriflamme,Enchantment,None,Classic Sixth Edition,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.11,False
+Pillage,Sorcery,None,Classic Sixth Edition,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Kane Ferguson',0.4,False
+Pyrotechnics,Sorcery,None,Classic Sixth Edition,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.11,False
+Raging Goblin,Creature,Goblin Berserker,Classic Sixth Edition,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.1,False
+Reckless Embermage,Creature,Human Wizard,Classic Sixth Edition,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Tom Kyffin',0.23,False
+Relentless Assault,Sorcery,None,Classic Sixth Edition,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Geofrey Darrow',1.05,False
+Sabretooth Tiger,Creature,Cat,Classic Sixth Edition,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.08,False
+Shatter,Instant,None,Classic Sixth Edition,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Alexander Behnke',0.09,False
+Shatterstorm,Sorcery,None,Classic Sixth Edition,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'James Allen',0.99,False
+Shock,Instant,None,Classic Sixth Edition,Common,1,Red,Legal,Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.17,False
+Spitting Drake,Creature,Drake,Classic Sixth Edition,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Geofrey Darrow',0.13,False
+Spitting Earth,Sorcery,None,Classic Sixth Edition,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.14,False
+Stone Rain,Sorcery,None,Classic Sixth Edition,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',0.11,False
+Talruum Minotaur,Creature,Minotaur Berserker,Classic Sixth Edition,Common,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.1,False
+Tremor,Sorcery,None,Classic Sixth Edition,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.05,False
+Vertigo,Instant,None,Classic Sixth Edition,Uncommon,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.13,False
+Viashino Warrior,Creature,Viashino Warrior,Classic Sixth Edition,Common,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Roger Raupp',0.06,False
+Volcanic Dragon,Creature,Dragon,Classic Sixth Edition,Rare,6,Red,Legal,Legal,Legal,Legal,Legal,True,b'Janine Johnston',0.34,False
+Volcanic Geyser,Instant,None,Classic Sixth Edition,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,"b""David O'Connor""",0.15,False
+Wall of Fire,Creature,Wall,Classic Sixth Edition,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.1,False
+Birds of Paradise,Creature,Bird,Classic Sixth Edition,Rare,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',8.04,False
+Call of the Wild,Enchantment,None,Classic Sixth Edition,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Brom',0.21,False
+Cat Warriors,Creature,Cat Warrior,Classic Sixth Edition,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.12,False
+Creeping Mold,Sorcery,None,Classic Sixth Edition,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'David Seeley',0.12,False
+Dense Foliage,Enchantment,None,Classic Sixth Edition,Rare,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Rabinowitz',0.49,False
+Early Harvest,Instant,None,Classic Sixth Edition,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Janine Johnston',0.95,False
+Elder Druid,Creature,Elf Cleric Druid,Classic Sixth Edition,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Kane Ferguson',0.28,False
+Elven Cache,Sorcery,None,Classic Sixth Edition,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',0.1,False
+Elven Riders,Creature,Elf,Classic Sixth Edition,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.14,False
+Elvish Archers,Creature,Elf Archer,Classic Sixth Edition,Rare,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.46,False
+Fallow Earth,Sorcery,None,Classic Sixth Edition,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Janine Johnston',0.14,False
+Familiar Ground,Enchantment,None,Classic Sixth Edition,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.13,False
+Femeref Archers,Creature,Human Archer,Classic Sixth Edition,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'William Donohoe',0.17,False
+Fog,Instant,None,Classic Sixth Edition,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Harold McNeill',0.16,False
+Fyndhorn Brownie,Creature,Ouphe,Classic Sixth Edition,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.11,False
+Fyndhorn Elder,Creature,Elf Druid,Classic Sixth Edition,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.25,False
+Giant Growth,Instant,None,Classic Sixth Edition,Common,1,Green,Legal,Legal,Legal,Legal,Legal,True,b'DiTerlizzi',0.1,False
+Giant Spider,Creature,Spider,Classic Sixth Edition,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.05,False
+Gorilla Chieftain,Creature,Ape,Classic Sixth Edition,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.08,False
+Grizzly Bears,Creature,Bear,Classic Sixth Edition,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Una Fricker',0.14,False
+Hurricane,Sorcery,None,Classic Sixth Edition,Rare,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Robinson',0.27,False
+Living Lands,Enchantment,None,Classic Sixth Edition,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',0.19,False
+Llanowar Elves,Creature,Elf Druid,Classic Sixth Edition,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.24,False
+Lure,Enchantment,Aura,Classic Sixth Edition,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.16,False
+Maro,Creature,Elemental,Classic Sixth Edition,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Stuart Griffin',0.27,False
+Nature's Resurgence,Sorcery,None,Classic Sixth Edition,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',0.28,False
+Panther Warriors,Creature,Cat Warrior,Classic Sixth Edition,Common,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Peterson',0.08,False
+Pradesh Gypsies,Creature,Human Nomad,Classic Sixth Edition,Common,3,Green,Not Legal,Not Legal,Banned,Banned,Banned,True,b'Quinton Hoover',0.08,False
+Radjan Spirit,Creature,Spirit,Classic Sixth Edition,Uncommon,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.15,False
+Rampant Growth,Sorcery,None,Classic Sixth Edition,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom Kyffin',0.46,False
+Redwood Treefolk,Creature,Treefolk,Classic Sixth Edition,Common,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Luke',0.09,False
+Regeneration,Enchantment,Aura,Classic Sixth Edition,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.11,False
+River Boa,Creature,Snake,Classic Sixth Edition,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve White',0.26,False
+Rowen,Enchantment,None,Classic Sixth Edition,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jon J Muth',0.31,False
+Scaled Wurm,Creature,Wurm,Classic Sixth Edition,Common,8,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.05,False
+Shanodin Dryads,Creature,Nymph Dryad,Classic Sixth Edition,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Gary Leach',0.09,False
+Stalking Tiger,Creature,Cat,Classic Sixth Edition,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.08,False
+Stream of Life,Sorcery,None,Classic Sixth Edition,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.11,False
+Summer Bloom,Sorcery,None,Classic Sixth Edition,Uncommon,2,Green,Banned,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',1.14,False
+Thicket Basilisk,Creature,Basilisk,Classic Sixth Edition,Uncommon,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.11,False
+Trained Armodon,Creature,Elephant,Classic Sixth Edition,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Gary Leach',0.08,False
+Tranquil Grove,Enchantment,None,Classic Sixth Edition,Rare,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dylan Martens',1.64,False
+Tranquility,Sorcery,None,Classic Sixth Edition,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.06,False
+Uktabi Orangutan,Creature,Ape,Classic Sixth Edition,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Una Fricker',0.18,False
+Uktabi Wildcats,Creature,Cat,Classic Sixth Edition,Rare,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',0.42,False
+Unseen Walker,Creature,Dryad,Classic Sixth Edition,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Rabinowitz',0.16,False
+Untamed Wilds,Sorcery,None,Classic Sixth Edition,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.14,False
+Verduran Enchantress,Creature,Human Druid,Classic Sixth Edition,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Brockschmidt',2.0,False
+Vitalize,Instant,None,Classic Sixth Edition,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.39,False
+Waiting in the Weeds,Sorcery,None,Classic Sixth Edition,Rare,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Susan Van Camp',0.47,False
+Warthog,Creature,Boar,Classic Sixth Edition,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Steve White',0.1,False
+Wild Growth,Enchantment,Aura,Classic Sixth Edition,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pat Morrissey',0.25,False
+Worldly Tutor,Instant,None,Classic Sixth Edition,Uncommon,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,"b""David O'Connor""",37.89,False
+Wyluli Wolf,Creature,Wolf,Classic Sixth Edition,Rare,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Susan Van Camp',0.4,False
+Aladdin's Ring,Artifact,None,Classic Sixth Edition,Rare,8,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Stuart Griffin',0.22,False
+Amber Prison,Artifact,None,Classic Sixth Edition,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.33,False
+Ankh of Mishra,Artifact,None,Classic Sixth Edition,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ian Miller',2.17,False
+Ashnod's Altar,Artifact,None,Classic Sixth Edition,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',6.44,False
+Bottle of Suleiman,Artifact,None,Classic Sixth Edition,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'DiTerlizzi',0.27,False
+Charcoal Diamond,Artifact,None,Classic Sixth Edition,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',1.25,False
+Crystal Rod,Artifact,None,Classic Sixth Edition,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.19,False
+Cursed Totem,Artifact,None,Classic Sixth Edition,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'D. Alexander Gregory',18.07,False
+Dancing Scimitar,Artifact Creature,Spirit,Classic Sixth Edition,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.16,False
+Dingus Egg,Artifact,None,Classic Sixth Edition,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.36,False
+Disrupting Scepter,Artifact,None,Classic Sixth Edition,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Stuart Griffin',0.18,False
+Dragon Engine,Artifact Creature,Construct,Classic Sixth Edition,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.15,False
+Dragon Mask,Artifact,None,Classic Sixth Edition,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Craig Hooper',0.13,False
+Fire Diamond,Artifact,None,Classic Sixth Edition,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',1.8,False
+Flying Carpet,Artifact,None,Classic Sixth Edition,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.18,False
+Fountain of Youth,Artifact,None,Classic Sixth Edition,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.19,False
+Glasses of Urza,Artifact,None,Classic Sixth Edition,Uncommon,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.21,False
+Grinning Totem,Artifact,None,Classic Sixth Edition,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.35,False
+The Hive,Artifact,None,Classic Sixth Edition,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.18,False
+Howling Mine,Artifact,None,Classic Sixth Edition,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',3.73,False
+Iron Star,Artifact,None,Classic Sixth Edition,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.11,False
+Ivory Cup,Artifact,None,Classic Sixth Edition,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.22,False
+Jade Monolith,Artifact,None,Classic Sixth Edition,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Kane Ferguson',0.32,False
+Jalum Tome,Artifact,None,Classic Sixth Edition,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',0.26,False
+Jayemdae Tome,Artifact,None,Classic Sixth Edition,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.21,False
+Lead Golem,Artifact Creature,Golem,Classic Sixth Edition,Uncommon,5,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Hannibal King',0.14,False
+Mana Prism,Artifact,None,Classic Sixth Edition,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Margaret Organ-Kean',0.14,False
+Marble Diamond,Artifact,None,Classic Sixth Edition,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.92,False
+Meekstone,Artifact,None,Classic Sixth Edition,Rare,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',6.21,False
+Millstone,Artifact,None,Classic Sixth Edition,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.44,False
+Moss Diamond,Artifact,None,Classic Sixth Edition,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.21,False
+Mystic Compass,Artifact,None,Classic Sixth Edition,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.25,False
+Obsianus Golem,Artifact Creature,Golem,Classic Sixth Edition,Uncommon,6,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.08,False
+Ornithopter,Artifact Creature,Thopter,Classic Sixth Edition,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.25,False
+Patagia Golem,Artifact Creature,Golem,Classic Sixth Edition,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Kirschner',0.09,False
+Pentagram of the Ages,Artifact,None,Classic Sixth Edition,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.26,False
+Phyrexian Vault,Artifact,None,Classic Sixth Edition,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Hannibal King',0.23,False
+Primal Clay,Artifact Creature,Shapeshifter,Classic Sixth Edition,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',0.17,False
+Rod of Ruin,Artifact,None,Classic Sixth Edition,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.09,False
+Skull Catapult,Artifact,None,Classic Sixth Edition,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ian Miller',0.13,False
+Sky Diamond,Artifact,None,Classic Sixth Edition,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'D. Alexander Gregory',1.6,False
+Snake Basket,Artifact,None,Classic Sixth Edition,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Roger Raupp',1.09,False
+Soul Net,Artifact,None,Classic Sixth Edition,Uncommon,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Robinson',0.14,False
+Storm Cauldron,Artifact,None,Classic Sixth Edition,Rare,5,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',1.86,False
+Teferi's Puzzle Box,Artifact,None,Classic Sixth Edition,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',8.11,False
+Throne of Bone,Artifact,None,Classic Sixth Edition,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.12,False
+Wand of Denial,Artifact,None,Classic Sixth Edition,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Luke',0.26,False
+Wooden Sphere,Artifact,None,Classic Sixth Edition,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.13,False
+Adarkar Wastes,Land,None,Classic Sixth Edition,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Gary Leach',6.04,False
+Brushland,Land,None,Classic Sixth Edition,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',4.66,False
+City of Brass,Land,None,Classic Sixth Edition,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',13.02,False
+Crystal Vein,Land,None,Classic Sixth Edition,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pat Morrissey',0.8,False
+Dwarven Ruins,Land,None,Classic Sixth Edition,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Liz Danforth',0.27,False
+Ebon Stronghold,Land,None,Classic Sixth Edition,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Liz Danforth',0.24,False
+Havenwood Battleground,Land,None,Classic Sixth Edition,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Liz Danforth',0.15,False
+Karplusan Forest,Land,None,Classic Sixth Edition,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',3.8,False
+Ruins of Trokair,Land,None,Classic Sixth Edition,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Liz Danforth',0.16,False
+Sulfurous Springs,Land,None,Classic Sixth Edition,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',7.31,False
+Svyelunite Temple,Land,None,Classic Sixth Edition,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Liz Danforth',0.14,False
+Underground River,Land,None,Classic Sixth Edition,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',4.73,False
+Plains,Basic Land,Plains,Classic Sixth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',0.14,False
+Plains,Basic Land,Plains,Classic Sixth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',0.28,False
+Plains,Basic Land,Plains,Classic Sixth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.15,False
+Plains,Basic Land,Plains,Classic Sixth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Fred Fields',0.25,False
+Island,Basic Land,Island,Classic Sixth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.3,False
+Island,Basic Land,Island,Classic Sixth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'J. W. Frost',0.27,False
+Island,Basic Land,Island,Classic Sixth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.36,False
+Island,Basic Land,Island,Classic Sixth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Eric Peterson',0.39,False
+Swamp,Basic Land,Swamp,Classic Sixth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Romas Kukalis',0.23,False
+Swamp,Basic Land,Swamp,Classic Sixth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.33,False
+Swamp,Basic Land,Swamp,Classic Sixth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.23,False
+Swamp,Basic Land,Swamp,Classic Sixth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Romas Kukalis',0.42,False
+Mountain,Basic Land,Mountain,Classic Sixth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.3,False
+Mountain,Basic Land,Mountain,Classic Sixth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.26,False
+Mountain,Basic Land,Mountain,Classic Sixth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.28,False
+Mountain,Basic Land,Mountain,Classic Sixth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Brian Durfee',0.41,False
+Forest,Basic Land,Forest,Classic Sixth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.17,False
+Forest,Basic Land,Forest,Classic Sixth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.3,False
+Forest,Basic Land,Forest,Classic Sixth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.25,False
+Forest,Basic Land,Forest,Classic Sixth Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.41,False

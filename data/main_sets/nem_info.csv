@@ -1,144 +1,144 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Angelic Favor,Instant,None,Nemesis,Uncommon,4,White,False,False,True,False,b'Paolo Parente',0.17
-Avenger en-Dal,Creature,Human Spellshaper,Nemesis,Rare,2,White,False,False,True,False,b'Ron Spencer',0.3
-Blinding Angel,Creature,Angel,Nemesis,Rare,5,White,True,False,True,True,b'Todd Lockwood',1.92
-Chieftain en-Dal,Creature,Human Knight,Nemesis,Uncommon,3,White,False,False,True,False,b'Dany Orizio',0.15
-Defender en-Vec,Creature,Human Cleric,Nemesis,Common,4,White,False,False,True,False,b'Bradley Williams',0.08
-Defiant Falcon,Creature,Rebel Bird,Nemesis,Common,2,White,False,False,True,False,b'Heather Hudson',0.16
-Defiant Vanguard,Creature,Human Rebel,Nemesis,Uncommon,3,White,True,False,True,True,b'Pete Venters',0.15
-Fanatical Devotion,Enchantment,None,Nemesis,Common,3,White,False,False,True,False,b'Massimilano Frezzato',1.27
-Lashknife,Enchantment,Aura,Nemesis,Common,2,White,False,False,True,False,b'Hannibal King',0.07
-Lawbringer,Creature,Kor Rebel,Nemesis,Common,3,White,False,False,True,False,b'Matt Cavotta',0.11
-Lightbringer,Creature,Kor Rebel,Nemesis,Common,3,White,False,False,True,False,b'Paolo Parente',0.1
-"Lin Sivvi, Defiant Hero",Legendary Creature,Human Rebel,Nemesis,Rare,3,White,False,False,True,False,b'rk post',1.11
-Netter en-Dal,Creature,Human Spellshaper,Nemesis,Common,1,White,False,False,True,False,b'Matt Cavotta',0.07
-Noble Stand,Enchantment,None,Nemesis,Uncommon,5,White,False,False,True,False,b'Greg Hildebrandt',0.12
-Off Balance,Instant,None,Nemesis,Common,1,White,False,False,True,False,b'Jeff Miracola',0.09
-Oracle's Attendants,Creature,Human Soldier,Nemesis,Rare,4,White,True,False,True,True,b'Dany Orizio',0.17
-Parallax Wave,Enchantment,None,Nemesis,Rare,4,White,False,False,True,True,b'Greg Staples',3.98
-Seal of Cleansing,Enchantment,None,Nemesis,Common,2,White,False,False,True,True,b'Christopher Moeller',0.21
-Silkenfist Fighter,Creature,Kor Soldier,Nemesis,Common,2,White,False,False,True,False,b'Mark Brill',0.07
-Silkenfist Order,Creature,Kor Soldier,Nemesis,Uncommon,5,White,False,False,True,False,b'Greg Hildebrandt',0.12
-Sivvi's Ruse,Instant,None,Nemesis,Uncommon,4,White,False,False,True,False,b'Kev Walker',0.15
-Sivvi's Valor,Instant,None,Nemesis,Rare,3,White,False,False,True,False,b'Jeff Miracola',0.26
-Spiritual Asylum,Enchantment,None,Nemesis,Rare,4,White,False,False,True,False,b'Matt Cavotta',0.7
-Topple,Sorcery,None,Nemesis,Common,3,White,False,False,True,False,b'Daren Bader',0.08
-Voice of Truth,Creature,Angel,Nemesis,Uncommon,4,White,False,False,True,False,b'rk post',0.2
-Accumulated Knowledge,Instant,None,Nemesis,Common,2,Blue,False,False,True,True,b'Randy Gallegos',0.34
-Aether Barrier,Enchantment,None,Nemesis,Rare,3,Blue,False,False,True,False,b'David Martin',1.56
-Air Bladder,Enchantment,Aura,Nemesis,Common,1,Blue,False,False,True,False,b'Donato Giancola',0.06
-Cloudskate,Creature,Illusion,Nemesis,Common,2,Blue,False,False,True,False,b'Carl Critchlow',0.09
-Daze,Instant,None,Nemesis,Common,2,Blue,False,False,True,True,b'Matthew D. Wilson',1.02
-Dominate,Instant,None,Nemesis,Uncommon,4,Blue,False,False,True,True,b'Scott Hampton',0.14
-Ensnare,Instant,None,Nemesis,Uncommon,4,Blue,False,False,True,False,b'Gao Yan',0.32
-Infiltrate,Instant,None,Nemesis,Common,1,Blue,False,False,True,False,b'Nelson DeCastro',0.12
-Jolting Merfolk,Creature,Merfolk,Nemesis,Uncommon,4,Blue,False,False,True,False,b'Glen Angus',0.15
-Oraxid,Creature,Crab Beast,Nemesis,Common,4,Blue,False,False,True,False,b'Dave Dorman',0.1
-Pale Moon,Instant,None,Nemesis,Rare,2,Blue,False,False,True,False,b'Pete Venters',0.31
-Parallax Tide,Enchantment,None,Nemesis,Rare,4,Blue,False,False,True,True,b'Carl Critchlow',0.9
-Rising Waters,Enchantment,None,Nemesis,Rare,4,Blue,False,False,True,True,b'Scott M. Fischer',1.82
-Rootwater Commando,Creature,Merfolk,Nemesis,Common,3,Blue,True,False,True,True,b'Mark Tedin',0.13
-Rootwater Thief,Creature,Merfolk Rogue,Nemesis,Rare,2,Blue,False,False,True,False,b'Ron Spears',1.87
-Seahunter,Creature,Human Mercenary,Nemesis,Rare,4,Blue,False,False,True,False,b'Heather Hudson',2.59
-Seal of Removal,Enchantment,None,Nemesis,Common,1,Blue,False,False,True,True,b'Christopher Moeller',0.26
-Sliptide Serpent,Creature,Serpent,Nemesis,Rare,6,Blue,False,False,True,False,b'Daren Bader',0.23
-Sneaky Homunculus,Creature,Homunculus Illusion,Nemesis,Common,2,Blue,True,False,True,True,b'Scott M. Fischer',0.09
-Stronghold Biologist,Creature,Human Spellshaper,Nemesis,Uncommon,3,Blue,False,False,True,False,b'Terese Nielsen',0.15
-Stronghold Machinist,Creature,Human Spellshaper,Nemesis,Uncommon,3,Blue,False,False,True,False,b'Terese Nielsen',0.18
-Stronghold Zeppelin,Creature,Human,Nemesis,Uncommon,4,Blue,False,False,True,False,b'Arnie Swekel',0.11
-Submerge,Instant,None,Nemesis,Uncommon,5,Blue,False,False,True,True,b'Mark Romanoski',0.88
-Trickster Mage,Creature,Human Spellshaper,Nemesis,Common,1,Blue,False,False,True,False,b'Alan Rabinowitz',0.13
-Wandering Eye,Creature,Illusion,Nemesis,Common,3,Blue,False,False,True,False,b'Sam Wood',0.13
-Ascendant Evincar,Legendary Creature,Vampire Noble,Nemesis,Rare,6,Black,True,False,True,True,b'Mark Zug',1.01
-Battlefield Percher,Creature,Bird,Nemesis,Uncommon,5,Black,False,False,True,False,"b'Edward P. Beard, Jr.'",0.06
-Belbe's Percher,Creature,Bird,Nemesis,Common,3,Black,False,False,True,False,"b'Edward P. Beard, Jr.'",0.07
-Carrion Wall,Creature,Wall,Nemesis,Uncommon,3,Black,True,False,True,True,b'Tony Szczudlo',0.11
-Dark Triumph,Instant,None,Nemesis,Uncommon,5,Black,False,False,True,False,b'Adam Rex',0.13
-Death Pit Offering,Enchantment,None,Nemesis,Rare,4,Black,True,False,True,True,b'Pete Venters',0.28
-Divining Witch,Creature,Human Spellshaper,Nemesis,Rare,2,Black,False,False,True,False,b'Donato Giancola',2.34
-Massacre,Sorcery,None,Nemesis,Uncommon,4,Black,False,False,True,True,b'Pete Venters',0.61
-Mind Slash,Enchantment,None,Nemesis,Uncommon,3,Black,True,False,True,True,b'Adam Rex',0.64
-Mind Swords,Sorcery,None,Nemesis,Common,2,Black,False,False,True,False,b'Daren Bader',0.12
-Murderous Betrayal,Enchantment,None,Nemesis,Rare,3,Black,True,False,True,True,b'Randy Gallegos',0.17
-Parallax Dementia,Enchantment,Aura,Nemesis,Common,2,Black,False,False,True,True,b'Eric Peterson',0.13
-Parallax Nexus,Enchantment,None,Nemesis,Rare,3,Black,False,False,True,False,b'Greg Staples',0.25
-Phyrexian Driver,Creature,Zombie Mercenary,Nemesis,Common,3,Black,False,False,True,False,b'Chippy',0.07
-Phyrexian Prowler,Creature,Zombie Mercenary,Nemesis,Uncommon,4,Black,False,False,True,False,b'Mark Zug',0.11
-Plague Witch,Creature,Elf Spellshaper,Nemesis,Common,2,Black,False,False,True,True,b'Nelson DeCastro',0.08
-Rathi Assassin,Creature,Zombie Mercenary Assassin,Nemesis,Rare,4,Black,False,False,True,True,b'Dana Knutson',0.26
-Rathi Fiend,Creature,Horror Mercenary,Nemesis,Uncommon,4,Black,False,False,True,False,b'Mark Tedin',0.17
-Rathi Intimidator,Creature,Horror Mercenary,Nemesis,Common,3,Black,False,False,True,False,b'Mike Ploog',0.12
-Seal of Doom,Enchantment,None,Nemesis,Common,3,Black,True,False,True,True,b'Christopher Moeller',0.14
-Spineless Thug,Creature,Zombie Mercenary,Nemesis,Common,2,Black,True,False,True,True,b'Matthew D. Wilson',0.08
-Spiteful Bully,Creature,Zombie Mercenary,Nemesis,Common,2,Black,False,False,True,False,b'Chippy',0.1
-Stronghold Discipline,Sorcery,None,Nemesis,Common,4,Black,True,False,True,True,b'Li Tie',0.1
-Vicious Hunger,Sorcery,None,Nemesis,Common,2,Black,True,False,True,True,b'Massimilano Frezzato',0.08
-Volrath the Fallen,Legendary Creature,Shapeshifter,Nemesis,Rare,6,Black,False,False,True,False,b'Kev Walker',0.59
-Ancient Hydra,Creature,Hydra,Nemesis,Uncommon,5,Red,False,False,True,False,b'Scott M. Fischer',0.19
-Arc Mage,Creature,Human Spellshaper,Nemesis,Uncommon,3,Red,False,False,True,False,b'Terese Nielsen',0.11
-Bola Warrior,Creature,Human Spellshaper Warrior,Nemesis,Common,2,Red,False,False,True,False,b'Adam Rex',0.08
-Downhill Charge,Instant,None,Nemesis,Common,3,Red,False,False,True,True,b'Greg Hildebrandt',0.22
-Flame Rift,Sorcery,None,Nemesis,Common,2,Red,False,False,True,False,b'Ben Thompson',0.68
-Flowstone Crusher,Creature,Beast,Nemesis,Common,5,Red,True,False,True,True,b'Ben Thompson',0.08
-Flowstone Overseer,Creature,Beast,Nemesis,Rare,5,Red,False,False,True,False,b'Andrew Goldhawk',0.18
-Flowstone Slide,Sorcery,None,Nemesis,Rare,4,Red,True,False,True,True,b'Chippy',0.2
-Flowstone Strike,Instant,None,Nemesis,Common,2,Red,False,False,True,False,b'Mike Ploog',0.07
-Flowstone Surge,Enchantment,None,Nemesis,Uncommon,2,Red,False,False,True,False,b'Scott Hampton',0.13
-Flowstone Wall,Creature,Wall,Nemesis,Common,3,Red,False,False,True,False,b'Jeff Miracola',0.08
-Laccolith Grunt,Creature,Beast,Nemesis,Common,3,Red,False,False,True,False,b'Arnie Swekel',0.09
-Laccolith Rig,Enchantment,Aura,Nemesis,Common,1,Red,False,False,True,False,b'Massimilano Frezzato',0.13
-Laccolith Titan,Creature,Beast,Nemesis,Rare,7,Red,False,False,True,False,b'Tony Szczudlo',0.2
-Laccolith Warrior,Creature,Beast Warrior,Nemesis,Uncommon,4,Red,False,False,True,False,b'Mark Zug',0.08
-Laccolith Whelp,Creature,Beast,Nemesis,Common,1,Red,False,False,True,False,b'Dave Dorman',0.1
-Mana Cache,Enchantment,None,Nemesis,Rare,3,Red,False,False,True,False,b'rk post',0.47
-Mogg Alarm,Sorcery,None,Nemesis,Uncommon,3,Red,False,False,True,False,b'Dave Dorman',0.24
-Mogg Salvage,Instant,None,Nemesis,Uncommon,3,Red,False,False,True,False,b'Paolo Parente',0.28
-Mogg Toady,Creature,Goblin,Nemesis,Common,2,Red,False,False,True,False,b'Mike Ploog',0.1
-Moggcatcher,Creature,Human Mercenary,Nemesis,Rare,4,Red,False,False,True,False,b'Pete Venters',5.88
-Rupture,Sorcery,None,Nemesis,Uncommon,3,Red,False,False,True,True,b'Gao Yan',0.23
-Seal of Fire,Enchantment,None,Nemesis,Common,1,Red,True,False,True,True,b'Christopher Moeller',0.22
-Shrieking Mogg,Creature,Goblin,Nemesis,Rare,2,Red,False,False,True,False,b'Dan Frazier',0.28
-Stronghold Gambit,Sorcery,None,Nemesis,Rare,2,Red,False,False,True,False,b'Greg Hildebrandt',0.86
-Animate Land,Instant,None,Nemesis,Uncommon,1,Green,False,False,True,False,b'Rebecca Guay',0.11
-Blastoderm,Creature,Beast,Nemesis,Common,4,Green,False,False,True,True,b'Eric Peterson',0.15
-Coiling Woodworm,Creature,Insect Worm,Nemesis,Uncommon,3,Green,False,False,True,False,b'David Martin',0.1
-Fog Patch,Instant,None,Nemesis,Common,2,Green,False,False,True,False,b'Rebecca Guay',0.17
-Harvest Mage,Creature,Human Spellshaper,Nemesis,Common,1,Green,False,False,True,False,b'Dan Frazier',0.09
-Mossdog,Creature,Plant Hound,Nemesis,Common,1,Green,False,False,True,False,b'Matt Cavotta',0.08
-Nesting Wurm,Creature,Wurm,Nemesis,Uncommon,6,Green,False,False,True,False,b'rk post',0.14
-Overlaid Terrain,Enchantment,None,Nemesis,Rare,4,Green,False,False,True,False,b'DiTerlizzi',0.44
-Pack Hunt,Sorcery,None,Nemesis,Rare,4,Green,False,False,True,False,b'Sam Wood',0.38
-Refreshing Rain,Instant,None,Nemesis,Uncommon,4,Green,False,False,True,False,b'Don Hazeltine',0.14
-Reverent Silence,Sorcery,None,Nemesis,Common,4,Green,False,False,True,False,b'Don Hazeltine',0.32
-Rhox,Creature,Rhino Beast,Nemesis,Rare,6,Green,True,False,True,True,b'Carl Critchlow',0.32
-Saproling Burst,Enchantment,None,Nemesis,Rare,5,Green,False,False,True,True,b'Carl Critchlow',0.81
-Saproling Cluster,Enchantment,None,Nemesis,Rare,2,Green,False,False,True,True,b'Matt Cavotta',0.23
-Seal of Strength,Enchantment,None,Nemesis,Common,1,Green,False,False,True,True,b'Christopher Moeller',0.18
-Skyshroud Behemoth,Creature,Beast,Nemesis,Rare,7,Green,False,False,True,False,b'Eric Peterson',0.25
-Skyshroud Claim,Sorcery,None,Nemesis,Common,4,Green,False,False,True,True,b'Mark Romanoski',0.96
-Skyshroud Cutter,Creature,Beast,Nemesis,Common,4,Green,False,False,True,False,b'Tony Szczudlo',0.09
-Skyshroud Poacher,Creature,Human Rebel,Nemesis,Rare,4,Green,False,False,True,False,b'Ron Spencer',2.8
-Skyshroud Ridgeback,Creature,Beast,Nemesis,Common,1,Green,False,False,True,False,b'Carl Critchlow',0.1
-Skyshroud Sentinel,Creature,Elf,Nemesis,Common,3,Green,False,False,True,False,b'Randy Gallegos',0.07
-Stampede Driver,Creature,Human Spellshaper,Nemesis,Uncommon,1,Green,False,False,True,True,b'Ron Spears',0.1
-Treetop Bracers,Enchantment,Aura,Nemesis,Common,2,Green,True,False,True,True,b'Heather Hudson',0.09
-Wild Mammoth,Creature,Elephant,Nemesis,Uncommon,3,Green,False,False,True,False,b'Bradley Williams',0.11
-Woodripper,Creature,Beast,Nemesis,Uncommon,5,Green,False,False,True,False,b'Alan Pollack',0.12
-Belbe's Armor,Artifact,None,Nemesis,Uncommon,3,Colorless,False,False,True,False,b'D. Alexander Gregory',0.2
-Belbe's Portal,Artifact,None,Nemesis,Rare,5,Colorless,False,False,True,True,b'Mark Tedin',3.33
-Complex Automaton,Artifact Creature,Golem,Nemesis,Rare,4,Colorless,False,False,True,False,b'Dana Knutson',0.16
-Eye of Yawgmoth,Artifact,None,Nemesis,Rare,3,Colorless,False,False,True,False,b'DiTerlizzi',0.24
-Flint Golem,Artifact Creature,Golem,Nemesis,Uncommon,4,Colorless,False,False,True,False,b'Lou Harrison',0.12
-Flowstone Armor,Artifact,None,Nemesis,Uncommon,3,Colorless,False,False,True,False,b'Paolo Parente',0.13
-Flowstone Thopter,Artifact Creature,Thopter,Nemesis,Uncommon,7,Colorless,False,False,True,False,b'Mike Ploog',0.14
-Kill Switch,Artifact,None,Nemesis,Rare,3,Colorless,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.54
-Parallax Inhibitor,Artifact,None,Nemesis,Rare,2,Colorless,False,False,True,False,b'Greg Staples',0.15
-"Predator, Flagship",Legendary Artifact,None,Nemesis,Rare,5,Colorless,False,False,True,True,b'Mark Tedin',0.65
-Rackling,Artifact Creature,Construct,Nemesis,Uncommon,4,Colorless,False,False,True,False,b'D. Alexander Gregory',0.16
-Rejuvenation Chamber,Artifact,None,Nemesis,Uncommon,3,Colorless,False,False,True,False,b'Alan Pollack',0.1
-Rusting Golem,Artifact Creature,Golem,Nemesis,Uncommon,4,Colorless,False,False,True,False,b'Greg Staples',0.11
-Tangle Wire,Artifact,None,Nemesis,Rare,3,Colorless,False,False,True,True,b'Glen Angus',6.2
-Viseling,Artifact Creature,Construct,Nemesis,Uncommon,4,Colorless,False,False,True,True,b'Kev Walker',0.19
-Kor Haven,Legendary Land,None,Nemesis,Rare,0,Colorless,False,False,True,True,b'Darrell Riche',6.8
-Rath's Edge,Legendary Land,None,Nemesis,Rare,0,Colorless,False,False,True,False,b'Ron Spencer',0.3
-Terrain Generator,Land,None,Nemesis,Uncommon,0,Colorless,False,False,True,True,b'Alan Pollack',2.32
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Angelic Favor,Instant,None,Nemesis,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.19,False
+Avenger en-Dal,Creature,Human Spellshaper,Nemesis,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.25,False
+Blinding Angel,Creature,Angel,Nemesis,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Todd Lockwood',1.86,False
+Chieftain en-Dal,Creature,Human Knight,Nemesis,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dany Orizio',0.16,False
+Defender en-Vec,Creature,Human Cleric,Nemesis,Common,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Bradley Williams',0.05,False
+Defiant Falcon,Creature,Rebel Bird,Nemesis,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.15,False
+Defiant Vanguard,Creature,Human Rebel,Nemesis,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.17,False
+Fanatical Devotion,Enchantment,None,Nemesis,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Massimilano Frezzato',1.32,False
+Lashknife,Enchantment,Aura,Nemesis,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Hannibal King',0.05,False
+Lawbringer,Creature,Kor Rebel,Nemesis,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.13,False
+Lightbringer,Creature,Kor Rebel,Nemesis,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.12,False
+Lin Sivvi Defiant Hero,Creature,Human Rebel,Nemesis,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'rk post',1.04,True
+Netter en-Dal,Creature,Human Spellshaper,Nemesis,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.06,False
+Noble Stand,Enchantment,None,Nemesis,Uncommon,5,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Hildebrandt',0.12,False
+Off Balance,Instant,None,Nemesis,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Miracola',0.07,False
+Oracle's Attendants,Creature,Human Soldier,Nemesis,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dany Orizio',0.19,False
+Parallax Wave,Enchantment,None,Nemesis,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',4.08,False
+Seal of Cleansing,Enchantment,None,Nemesis,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.22,False
+Silkenfist Fighter,Creature,Kor Soldier,Nemesis,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Brill',0.05,False
+Silkenfist Order,Creature,Kor Soldier,Nemesis,Uncommon,5,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Hildebrandt',0.13,False
+Sivvi's Ruse,Instant,None,Nemesis,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.17,False
+Sivvi's Valor,Instant,None,Nemesis,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Miracola',0.27,False
+Spiritual Asylum,Enchantment,None,Nemesis,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.75,False
+Topple,Sorcery,None,Nemesis,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.1,False
+Voice of Truth,Creature,Angel,Nemesis,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'rk post',0.22,False
+Accumulated Knowledge,Instant,None,Nemesis,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.27,False
+Aether Barrier,Enchantment,None,Nemesis,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'David Martin',1.11,False
+Air Bladder,Enchantment,Aura,Nemesis,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Donato Giancola',0.06,False
+Cloudskate,Creature,Illusion,Nemesis,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.09,False
+Daze,Instant,None,Nemesis,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Matthew D. Wilson',0.89,False
+Dominate,Instant,None,Nemesis,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Hampton',0.18,False
+Ensnare,Instant,None,Nemesis,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Gao Yan',0.32,False
+Infiltrate,Instant,None,Nemesis,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Nelson DeCastro',0.13,False
+Jolting Merfolk,Creature,Merfolk,Nemesis,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Glen Angus',0.17,False
+Oraxid,Creature,Crab Beast,Nemesis,Common,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Dorman',0.11,False
+Pale Moon,Instant,None,Nemesis,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.33,False
+Parallax Tide,Enchantment,None,Nemesis,Rare,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',1.1,False
+Rising Waters,Enchantment,None,Nemesis,Rare,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',1.83,False
+Rootwater Commando,Creature,Merfolk,Nemesis,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.06,False
+Rootwater Thief,Creature,Merfolk Rogue,Nemesis,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spears',1.65,False
+Seahunter,Creature,Human Mercenary,Nemesis,Rare,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',2.89,False
+Seal of Removal,Enchantment,None,Nemesis,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.28,False
+Sliptide Serpent,Creature,Serpent,Nemesis,Rare,6,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.23,False
+Sneaky Homunculus,Creature,Homunculus Illusion,Nemesis,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',0.05,False
+Stronghold Biologist,Creature,Human Spellshaper,Nemesis,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.17,False
+Stronghold Machinist,Creature,Human Spellshaper,Nemesis,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.22,False
+Stronghold Zeppelin,Creature,Human,Nemesis,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Arnie Swekel',0.13,False
+Submerge,Instant,None,Nemesis,Uncommon,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Romanoski',1.07,False
+Trickster Mage,Creature,Human Spellshaper,Nemesis,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Rabinowitz',0.09,False
+Wandering Eye,Creature,Illusion,Nemesis,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Sam Wood',0.14,False
+Ascendant Evincar,Creature,Vampire Noble,Nemesis,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.96,True
+Battlefield Percher,Creature,Bird,Nemesis,Uncommon,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,"b'Edward P. Beard, Jr.'",0.06,False
+Belbe's Percher,Creature,Bird,Nemesis,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,"b'Edward P. Beard, Jr.'",0.05,False
+Carrion Wall,Creature,Wall,Nemesis,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Tony Szczudlo',0.13,False
+Dark Triumph,Instant,None,Nemesis,Uncommon,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Rex',0.13,False
+Death Pit Offering,Enchantment,None,Nemesis,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.28,False
+Divining Witch,Creature,Human Spellshaper,Nemesis,Rare,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Donato Giancola',2.81,False
+Massacre,Sorcery,None,Nemesis,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.56,False
+Mind Slash,Enchantment,None,Nemesis,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',0.57,False
+Mind Swords,Sorcery,None,Nemesis,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.17,False
+Murderous Betrayal,Enchantment,None,Nemesis,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.15,False
+Parallax Dementia,Enchantment,Aura,Nemesis,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Peterson',0.11,False
+Parallax Nexus,Enchantment,None,Nemesis,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.25,False
+Phyrexian Driver,Creature,Zombie Mercenary,Nemesis,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Chippy',0.03,False
+Phyrexian Prowler,Creature,Zombie Mercenary,Nemesis,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Zug',0.13,False
+Plague Witch,Creature,Elf Spellshaper,Nemesis,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Nelson DeCastro',0.07,False
+Rathi Assassin,Creature,Zombie Mercenary Assassin,Nemesis,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dana Knutson',0.31,False
+Rathi Fiend,Creature,Horror Mercenary,Nemesis,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',0.22,False
+Rathi Intimidator,Creature,Horror Mercenary,Nemesis,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Ploog',0.14,False
+Seal of Doom,Enchantment,None,Nemesis,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.15,False
+Spineless Thug,Creature,Zombie Mercenary,Nemesis,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Matthew D. Wilson',0.05,False
+Spiteful Bully,Creature,Zombie Mercenary,Nemesis,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Chippy',0.11,False
+Stronghold Discipline,Sorcery,None,Nemesis,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Li Tie',0.1,False
+Vicious Hunger,Sorcery,None,Nemesis,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Massimilano Frezzato',0.05,False
+Volrath the Fallen,Creature,Shapeshifter,Nemesis,Rare,6,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.55,True
+Ancient Hydra,Creature,Hydra,Nemesis,Uncommon,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',0.19,False
+Arc Mage,Creature,Human Spellshaper,Nemesis,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.1,False
+Bola Warrior,Creature,Human Spellshaper Warrior,Nemesis,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Rex',0.09,False
+Downhill Charge,Instant,None,Nemesis,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Hildebrandt',0.22,False
+Flame Rift,Sorcery,None,Nemesis,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ben Thompson',0.64,False
+Flowstone Crusher,Creature,Beast,Nemesis,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ben Thompson',0.08,False
+Flowstone Overseer,Creature,Beast,Nemesis,Rare,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Andrew Goldhawk',0.18,False
+Flowstone Slide,Sorcery,None,Nemesis,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Chippy',0.26,False
+Flowstone Strike,Instant,None,Nemesis,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Ploog',0.06,False
+Flowstone Surge,Enchantment,None,Nemesis,Uncommon,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott Hampton',0.15,False
+Flowstone Wall,Creature,Wall,Nemesis,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Miracola',0.06,False
+Laccolith Grunt,Creature,Beast,Nemesis,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Arnie Swekel',0.09,False
+Laccolith Rig,Enchantment,Aura,Nemesis,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Massimilano Frezzato',0.15,False
+Laccolith Titan,Creature,Beast,Nemesis,Rare,7,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Tony Szczudlo',0.21,False
+Laccolith Warrior,Creature,Beast Warrior,Nemesis,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Zug',0.08,False
+Laccolith Whelp,Creature,Beast,Nemesis,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Dorman',0.1,False
+Mana Cache,Enchantment,None,Nemesis,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'rk post',0.51,False
+Mogg Alarm,Sorcery,None,Nemesis,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Dorman',0.24,False
+Mogg Salvage,Instant,None,Nemesis,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.32,False
+Mogg Toady,Creature,Goblin,Nemesis,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Ploog',0.09,False
+Moggcatcher,Creature,Human Mercenary,Nemesis,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',5.71,False
+Rupture,Sorcery,None,Nemesis,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Gao Yan',0.22,False
+Seal of Fire,Enchantment,None,Nemesis,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.24,False
+Shrieking Mogg,Creature,Goblin,Nemesis,Rare,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Frazier',0.28,False
+Stronghold Gambit,Sorcery,None,Nemesis,Rare,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Hildebrandt',0.9,False
+Animate Land,Instant,None,Nemesis,Uncommon,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rebecca Guay',0.13,False
+Blastoderm,Creature,Beast,Nemesis,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Peterson',0.14,False
+Coiling Woodworm,Creature,Insect Worm,Nemesis,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'David Martin',0.11,False
+Fog Patch,Instant,None,Nemesis,Common,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rebecca Guay',0.17,False
+Harvest Mage,Creature,Human Spellshaper,Nemesis,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Frazier',0.11,False
+Mossdog,Creature,Plant Dog,Nemesis,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.15,False
+Nesting Wurm,Creature,Wurm,Nemesis,Uncommon,6,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'rk post',0.14,False
+Overlaid Terrain,Enchantment,None,Nemesis,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'DiTerlizzi',0.48,False
+Pack Hunt,Sorcery,None,Nemesis,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Sam Wood',0.41,False
+Refreshing Rain,Instant,None,Nemesis,Uncommon,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Don Hazeltine',0.15,False
+Reverent Silence,Sorcery,None,Nemesis,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Don Hazeltine',0.33,False
+Rhox,Creature,Rhino Beast,Nemesis,Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.3,False
+Saproling Burst,Enchantment,None,Nemesis,Rare,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.81,False
+Saproling Cluster,Enchantment,None,Nemesis,Rare,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.23,False
+Seal of Strength,Enchantment,None,Nemesis,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.21,False
+Skyshroud Behemoth,Creature,Beast,Nemesis,Rare,7,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Eric Peterson',0.23,False
+Skyshroud Claim,Sorcery,None,Nemesis,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Romanoski',1.21,False
+Skyshroud Cutter,Creature,Beast,Nemesis,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Tony Szczudlo',0.12,False
+Skyshroud Poacher,Creature,Human Rebel,Nemesis,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',2.73,False
+Skyshroud Ridgeback,Creature,Beast,Nemesis,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.11,False
+Skyshroud Sentinel,Creature,Elf,Nemesis,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Gallegos',0.06,False
+Stampede Driver,Creature,Human Spellshaper,Nemesis,Uncommon,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spears',0.16,False
+Treetop Bracers,Enchantment,Aura,Nemesis,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.07,False
+Wild Mammoth,Creature,Elephant,Nemesis,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Bradley Williams',0.12,False
+Woodripper,Creature,Beast,Nemesis,Uncommon,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Pollack',0.12,False
+Belbe's Armor,Artifact,None,Nemesis,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'D. Alexander Gregory',0.2,False
+Belbe's Portal,Artifact,None,Nemesis,Rare,5,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',3.2,False
+Complex Automaton,Artifact Creature,Golem,Nemesis,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dana Knutson',0.24,False
+Eye of Yawgmoth,Artifact,None,Nemesis,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'DiTerlizzi',0.24,False
+Flint Golem,Artifact Creature,Golem,Nemesis,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Lou Harrison',0.14,False
+Flowstone Armor,Artifact,None,Nemesis,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.13,False
+Flowstone Thopter,Artifact Creature,Thopter,Nemesis,Uncommon,7,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Ploog',0.15,False
+Kill Switch,Artifact,None,Nemesis,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brian Sn\xc3\xb5ddy',0.53,False
+Parallax Inhibitor,Artifact,None,Nemesis,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.16,False
+Predator Flagship,Artifact,None,Nemesis,Rare,5,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.66,True
+Rackling,Artifact Creature,Construct,Nemesis,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'D. Alexander Gregory',0.17,False
+Rejuvenation Chamber,Artifact,None,Nemesis,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Pollack',0.1,False
+Rusting Golem,Artifact Creature,Golem,Nemesis,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.12,False
+Tangle Wire,Artifact,None,Nemesis,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Glen Angus',6.75,False
+Viseling,Artifact Creature,Construct,Nemesis,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.22,False
+Kor Haven,Land,None,Nemesis,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Darrell Riche',7.39,True
+Rath's Edge,Land,None,Nemesis,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.39,True
+Terrain Generator,Land,None,Nemesis,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',2.53,False

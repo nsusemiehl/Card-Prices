@@ -1,186 +1,186 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-"Ugin, the Spirit Dragon",Legendary Planeswalker,Ugin,Fate Reforged,Mythic Rare,8,Colorless,True,False,True,True,b'Raymond Swanland',46.56
-Abzan Advantage,Instant,None,Fate Reforged,Common,2,White,True,False,True,False,b'Winona Nelson',0.09
-Abzan Runemark,Enchantment,Aura,Fate Reforged,Common,3,White,True,False,True,True,b'James Ryman',0.05
-Abzan Skycaptain,Creature,Bird Soldier,Fate Reforged,Common,4,White,True,False,True,False,b'Matt Stewart',0.05
-Arashin Cleric,Creature,Human Cleric,Fate Reforged,Common,2,White,True,False,True,False,b'Chris Rahn',0.12
-Aven Skirmisher,Creature,Bird Warrior,Fate Reforged,Common,1,White,True,False,True,False,b'Jason Rainville',0.05
-Channel Harm,Instant,None,Fate Reforged,Uncommon,6,White,True,False,True,False,b'David Gaillet',0.08
-Citadel Siege,Enchantment,None,Fate Reforged,Rare,4,White,True,False,True,True,b'Steven Belledin',0.2
-Daghatar the Adamant,Legendary Creature,Human Warrior,Fate Reforged,Rare,4,White,True,False,True,True,b'Zack Stella',0.19
-Dragon Bell Monk,Creature,Human Monk,Fate Reforged,Common,3,White,True,False,True,True,b'Lius Lasahido',0.05
-Dragonscale General,Creature,Human Warrior,Fate Reforged,Rare,4,White,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.17
-Elite Scaleguard,Creature,Human Soldier,Fate Reforged,Uncommon,5,White,True,False,True,True,b'Steve Prescott',0.11
-Great-Horn Krushok,Creature,Beast,Fate Reforged,Common,5,White,True,False,True,True,b'YW Tang',0.04
-Honor's Reward,Instant,None,Fate Reforged,Uncommon,3,White,True,False,True,False,b'Izzy',0.11
-Jeskai Barricade,Creature,Wall,Fate Reforged,Uncommon,2,White,True,False,True,False,b'Noah Bradley',0.36
-Lightform,Enchantment,None,Fate Reforged,Uncommon,3,White,True,False,True,True,b'Steve Prescott',0.11
-Lotus-Eye Mystics,Creature,Human Monk,Fate Reforged,Uncommon,4,White,True,False,True,True,b'Dan Scott',0.07
-Mardu Woe-Reaper,Creature,Human Warrior,Fate Reforged,Uncommon,1,White,True,False,True,False,b'Willian Murai',0.22
-Mastery of the Unseen,Enchantment,None,Fate Reforged,Rare,2,White,True,False,True,True,b'Daniel Ljunggren',0.18
-Monastery Mentor,Creature,Human Monk,Fate Reforged,Mythic Rare,3,White,True,False,True,True,b'Magali Villeneuve',18.88
-Pressure Point,Instant,None,Fate Reforged,Common,2,White,True,False,True,True,b'Chase Stone',0.05
-Rally the Ancestors,Instant,None,Fate Reforged,Rare,3,White,True,False,True,True,b'Nils Hamm',1.0
-Sage's Reverie,Enchantment,Aura,Fate Reforged,Uncommon,4,White,True,False,True,True,b'Jason Rainville',0.19
-Sandblast,Instant,None,Fate Reforged,Common,3,White,True,False,True,True,b'Min Yum',0.02
-Sandsteppe Outcast,Creature,Human Warrior,Fate Reforged,Common,3,White,True,False,True,False,b'Wesley Burt',0.06
-Soul Summons,Sorcery,None,Fate Reforged,Common,2,White,True,False,True,True,b'Johann Bodin',0.01
-Soulfire Grand Master,Creature,Human Monk,Fate Reforged,Mythic Rare,2,White,True,False,True,True,b'Johannes Voss',2.24
-Valorous Stance,Instant,None,Fate Reforged,Uncommon,2,White,True,False,True,True,b'Willian Murai',0.3
-Wandering Champion,Creature,Human Monk,Fate Reforged,Uncommon,2,White,True,False,True,True,b'Willian Murai',0.05
-Wardscale Dragon,Creature,Dragon,Fate Reforged,Uncommon,6,White,True,False,True,False,b'Jason Rainville',0.15
-Aven Surveyor,Creature,Bird Scout,Fate Reforged,Common,5,Blue,True,False,True,False,b'David Gaillet',0.02
-Cloudform,Enchantment,None,Fate Reforged,Uncommon,3,Blue,True,False,True,True,b'Noah Bradley',0.12
-Enhanced Awareness,Instant,None,Fate Reforged,Common,5,Blue,True,False,True,False,b'Ryan Alexander Lee',0.03
-Fascination,Sorcery,None,Fate Reforged,Uncommon,3,Blue,True,False,True,True,b'Svetlin Velinov',0.17
-Frost Walker,Creature,Elemental,Fate Reforged,Uncommon,2,Blue,True,False,True,True,b'Mike Bierek',0.1
-Jeskai Infiltrator,Creature,Human Monk,Fate Reforged,Rare,3,Blue,True,False,True,True,b'Cynthia Sheppard',0.17
-Jeskai Runemark,Enchantment,Aura,Fate Reforged,Common,3,Blue,True,False,True,False,b'Jaime Jones',0.05
-Jeskai Sage,Creature,Human Monk,Fate Reforged,Common,2,Blue,True,False,True,True,b'Craig J Spearing',0.07
-Lotus Path Djinn,Creature,Djinn Monk,Fate Reforged,Common,4,Blue,True,False,True,False,b'Steve Argyle',0.05
-Marang River Prowler,Creature,Human Rogue,Fate Reforged,Uncommon,3,Blue,True,False,True,True,b'Yefim Kligerman',0.1
-Mindscour Dragon,Creature,Dragon,Fate Reforged,Uncommon,6,Blue,True,False,True,False,b'Wesley Burt',0.1
-Mistfire Adept,Creature,Human Monk,Fate Reforged,Uncommon,4,Blue,True,False,True,False,b'Clint Cearley',0.08
-Monastery Siege,Enchantment,None,Fate Reforged,Rare,3,Blue,True,False,True,True,b'Mark Winters',0.52
-Neutralizing Blast,Instant,None,Fate Reforged,Uncommon,2,Blue,True,False,True,False,b'Dan Scott',0.07
-Rakshasa's Disdain,Instant,None,Fate Reforged,Common,3,Blue,True,False,True,False,b'Seb McKinnon',0.07
-Reality Shift,Instant,None,Fate Reforged,Uncommon,2,Blue,True,False,True,True,b'Howard Lyon',0.72
-Refocus,Instant,None,Fate Reforged,Common,2,Blue,True,False,True,True,b'Kev Walker',0.06
-Renowned Weaponsmith,Creature,Human Artificer,Fate Reforged,Uncommon,2,Blue,True,True,True,True,b'Eric Deschamps',0.12
-Rite of Undoing,Instant,None,Fate Reforged,Uncommon,5,Blue,True,False,True,False,b'Anastasia Ovchinnikova',0.07
-Sage-Eye Avengers,Creature,Djinn Monk,Fate Reforged,Rare,6,Blue,True,False,True,True,b'Dan Scott',0.1
-Shifting Loyalties,Sorcery,None,Fate Reforged,Uncommon,6,Blue,True,False,True,False,b'James Ryman',0.07
-"Shu Yun, the Silent Tempest",Legendary Creature,Human Monk,Fate Reforged,Rare,3,Blue,True,False,True,True,b'David Gaillet',0.3
-Sultai Skullkeeper,Creature,Naga Shaman,Fate Reforged,Common,2,Blue,True,False,True,True,b'Ryan Barger',0.02
-Supplant Form,Instant,None,Fate Reforged,Rare,6,Blue,True,False,True,True,b'Adam Paquette',0.25
-Temporal Trespass,Sorcery,None,Fate Reforged,Mythic Rare,11,Blue,True,False,True,False,b'Clint Cearley',3.69
-Torrent Elemental,Creature,Elemental,Fate Reforged,Mythic Rare,5,Blue,True,False,True,True,b'James Paick',0.58
-Whisk Away,Instant,None,Fate Reforged,Common,3,Blue,True,False,True,False,b'Zack Stella',0.04
-Will of the Naga,Instant,None,Fate Reforged,Common,6,Blue,True,False,True,False,b'Wayne Reynolds',0.02
-Write into Being,Sorcery,None,Fate Reforged,Common,3,Blue,True,False,True,True,b'Yeong-Hao Han',0.11
-Alesha's Vanguard,Creature,Orc Warrior,Fate Reforged,Common,4,Black,True,False,True,True,b'Torstein Nordstrand',0.03
-Ancestral Vengeance,Enchantment,Aura,Fate Reforged,Common,2,Black,True,False,True,True,b'Yohann Schepacz',0.04
-Archfiend of Depravity,Creature,Demon,Fate Reforged,Rare,5,Black,True,False,True,True,b'Daarken',1.34
-Battle Brawler,Creature,Orc Warrior,Fate Reforged,Uncommon,2,Black,True,False,True,False,b'Karl Kopinski',0.1
-Brutal Hordechief,Creature,Orc Warrior,Fate Reforged,Mythic Rare,4,Black,True,False,True,True,b'Tyler Jacobson',0.65
-Crux of Fate,Sorcery,None,Fate Reforged,Rare,5,Black,True,False,True,True,b'Michael Komarck',1.34
-Dark Deal,Sorcery,None,Fate Reforged,Uncommon,3,Black,True,False,True,False,b'Scott Murphy',1.09
-Diplomacy of the Wastes,Sorcery,None,Fate Reforged,Uncommon,3,Black,True,False,True,False,b'Jack Wang',0.07
-Douse in Gloom,Instant,None,Fate Reforged,Common,3,Black,True,False,True,True,b'Ryan Yee',0.03
-Fearsome Awakening,Sorcery,None,Fate Reforged,Uncommon,5,Black,True,False,True,False,b'V\xc3\xa9ronique Meignaud',0.21
-Ghastly Conscription,Sorcery,None,Fate Reforged,Mythic Rare,7,Black,True,False,True,True,b'YW Tang',0.35
-Grave Strength,Sorcery,None,Fate Reforged,Uncommon,2,Black,True,False,True,True,b'Jeff Simpson',0.08
-Gurmag Angler,Creature,Zombie Fish,Fate Reforged,Common,7,Black,True,False,True,True,b'YW Tang',0.26
-Hooded Assassin,Creature,Human Assassin,Fate Reforged,Common,3,Black,True,False,True,False,b'Matt Stewart',0.06
-Mardu Shadowspear,Creature,Human Warrior,Fate Reforged,Uncommon,1,Black,True,False,True,True,b'Mark Poole',0.12
-Mardu Strike Leader,Creature,Human Warrior,Fate Reforged,Rare,3,Black,True,False,True,True,b'Jason Rainville',0.25
-Merciless Executioner,Creature,Orc Warrior,Fate Reforged,Uncommon,3,Black,True,False,True,False,b'David Palumbo',0.62
-Noxious Dragon,Creature,Dragon,Fate Reforged,Uncommon,6,Black,True,False,True,True,b'Svetlin Velinov',0.1
-Orc Sureshot,Creature,Orc Archer,Fate Reforged,Uncommon,4,Black,True,False,True,False,b'Kev Walker',0.1
-Palace Siege,Enchantment,None,Fate Reforged,Rare,5,Black,True,False,True,True,b'Slawomir Maniak',1.03
-Qarsi High Priest,Creature,Human Cleric,Fate Reforged,Uncommon,1,Black,True,False,True,False,b'Viktor Titov',0.07
-Reach of Shadows,Instant,None,Fate Reforged,Common,5,Black,True,False,True,False,b'Daarken',0.05
-Sibsig Host,Creature,Zombie,Fate Reforged,Common,5,Black,True,False,True,False,b'Steve Prescott',0.04
-Sibsig Muckdraggers,Creature,Zombie,Fate Reforged,Uncommon,9,Black,True,False,True,False,b'Zack Stella',0.07
-Soulflayer,Creature,Demon,Fate Reforged,Rare,6,Black,True,False,True,True,b'Seb McKinnon',0.57
-Sultai Emissary,Creature,Zombie Warrior,Fate Reforged,Common,2,Black,True,False,True,True,b'Mathias Kollros',0.11
-Sultai Runemark,Enchantment,Aura,Fate Reforged,Common,3,Black,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.05
-"Tasigur, the Golden Fang",Legendary Creature,Human Shaman,Fate Reforged,Rare,6,Black,True,False,True,True,b'Chris Rahn',0.4
-Tasigur's Cruelty,Sorcery,None,Fate Reforged,Common,6,Black,True,False,True,False,b'Chris Rahn',0.09
-Typhoid Rats,Creature,Rat,Fate Reforged,Common,1,Black,True,False,True,True,b'Dave Kendall',0.12
-"Alesha, Who Smiles at Death",Legendary Creature,Human Warrior,Fate Reforged,Rare,3,Red,True,False,True,True,b'Anastasia Ovchinnikova',0.32
-Arcbond,Instant,None,Fate Reforged,Rare,3,Red,True,False,True,True,b'Slawomir Maniak',0.31
-Bathe in Dragonfire,Sorcery,None,Fate Reforged,Common,3,Red,True,False,True,True,b'Chris Rallis',0.03
-Bloodfire Enforcers,Creature,Human Monk,Fate Reforged,Uncommon,4,Red,True,False,True,False,b'Yefim Kligerman',0.06
-Break Through the Line,Enchantment,None,Fate Reforged,Uncommon,2,Red,True,False,True,False,b'Clint Cearley',0.13
-Collateral Damage,Instant,None,Fate Reforged,Common,1,Red,True,False,True,False,b'Ryan Barger',0.09
-Defiant Ogre,Creature,Ogre Warrior,Fate Reforged,Common,6,Red,True,False,True,True,b'Craig J Spearing',0.02
-Dragonrage,Instant,None,Fate Reforged,Uncommon,3,Red,True,False,True,False,b'Tomasz Jedruszek',0.13
-Fierce Invocation,Sorcery,None,Fate Reforged,Common,5,Red,True,False,True,True,b'Tyler Jacobson',0.05
-Flamerush Rider,Creature,Human Warrior,Fate Reforged,Rare,5,Red,True,False,True,True,b'Min Yum',0.15
-Flamewake Phoenix,Creature,Phoenix,Fate Reforged,Rare,3,Red,True,False,True,True,b'Min Yum',0.67
-Friendly Fire,Instant,None,Fate Reforged,Uncommon,4,Red,True,False,True,False,b'Anthony Palumbo',0.05
-Goblin Heelcutter,Creature,Goblin Berserker,Fate Reforged,Common,4,Red,True,False,True,False,b'Jesper Ejsing',0.14
-Gore Swine,Creature,Boar,Fate Reforged,Common,3,Red,True,False,True,True,b'Jack Wang',0.04
-Humble Defector,Creature,Human Rogue,Fate Reforged,Uncommon,2,Red,True,False,True,True,b'Slawomir Maniak',0.22
-Hungering Yeti,Creature,Yeti,Fate Reforged,Uncommon,5,Red,True,False,True,False,b'Tyler Jacobson',0.06
-Lightning Shrieker,Creature,Dragon,Fate Reforged,Common,5,Red,True,False,True,True,b'Slawomir Maniak',0.12
-Mardu Runemark,Enchantment,Aura,Fate Reforged,Common,3,Red,True,False,True,False,b'Viktor Titov',0.03
-Mardu Scout,Creature,Goblin Scout,Fate Reforged,Common,2,Red,True,False,True,False,b'Zoltan Boros',0.06
-Mob Rule,Sorcery,None,Fate Reforged,Rare,6,Red,True,False,True,False,b'Jakub Kasper',0.42
-Outpost Siege,Enchantment,None,Fate Reforged,Rare,4,Red,True,False,True,True,b'Daarken',0.57
-Pyrotechnics,Sorcery,None,Fate Reforged,Uncommon,5,Red,True,False,True,True,b'Matt Stewart',0.07
-Rageform,Enchantment,None,Fate Reforged,Uncommon,4,Red,True,False,True,False,b'Richard Wright',0.06
-Shaman of the Great Hunt,Creature,Orc Shaman,Fate Reforged,Mythic Rare,4,Red,True,False,True,True,b'Ryan Alexander Lee',0.61
-Shockmaw Dragon,Creature,Dragon,Fate Reforged,Uncommon,6,Red,True,False,True,False,b'Alejandro Mirabal',0.15
-Smoldering Efreet,Creature,Efreet Monk,Fate Reforged,Common,2,Red,True,False,True,False,b'Chase Stone',0.04
-Temur Battle Rage,Instant,None,Fate Reforged,Common,2,Red,True,False,True,True,b'Jaime Jones',0.45
-Vaultbreaker,Creature,Orc Rogue,Fate Reforged,Uncommon,4,Red,True,False,True,False,b'Wayne Reynolds',0.07
-Wild Slash,Instant,None,Fate Reforged,Uncommon,1,Red,True,False,True,False,b'Raymond Swanland',0.95
-Abzan Beastmaster,Creature,Hound Shaman,Fate Reforged,Uncommon,3,Green,True,False,True,True,b'Winona Nelson',0.14
-Abzan Kin-Guard,Creature,Human Warrior,Fate Reforged,Uncommon,4,Green,True,False,True,False,b'Craig J Spearing',0.09
-Ainok Guide,Creature,Hound Scout,Fate Reforged,Common,2,Green,True,False,True,False,b'Lucas Graciano',0.06
-Ambush Krotiq,Creature,Insect,Fate Reforged,Common,6,Green,True,False,True,False,b'Filip Burburan',0.04
-Arashin War Beast,Creature,Beast,Fate Reforged,Uncommon,7,Green,True,False,True,True,b'Eric Deschamps',0.06
-Archers of Qarsi,Creature,Naga Archer,Fate Reforged,Common,4,Green,True,False,True,False,b'Alejandro Mirabal',0.04
-Battlefront Krushok,Creature,Beast,Fate Reforged,Uncommon,5,Green,True,False,True,False,b'Steve Prescott',0.08
-Cached Defenses,Sorcery,None,Fate Reforged,Uncommon,3,Green,True,False,True,False,b'Zack Stella',0.06
-Destructor Dragon,Creature,Dragon,Fate Reforged,Uncommon,6,Green,True,False,True,True,b'Peter Mohrbacher',0.17
-Feral Krushok,Creature,Beast,Fate Reforged,Common,5,Green,True,False,True,True,b'Kev Walker',0.05
-Formless Nurturing,Sorcery,None,Fate Reforged,Common,4,Green,True,False,True,True,b'Cliff Childs',0.02
-Frontier Mastodon,Creature,Elephant,Fate Reforged,Common,3,Green,True,False,True,True,b'Nils Hamm',0.03
-Frontier Siege,Enchantment,None,Fate Reforged,Rare,4,Green,True,False,True,True,b'James Ryman',0.42
-Fruit of the First Tree,Enchantment,Aura,Fate Reforged,Uncommon,4,Green,True,False,True,False,b'Ryan Yee',0.13
-Hunt the Weak,Sorcery,None,Fate Reforged,Common,4,Green,True,False,True,True,b'Lars Grant-West',0.04
-Map the Wastes,Sorcery,None,Fate Reforged,Common,3,Green,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.1
-Return to the Earth,Instant,None,Fate Reforged,Common,4,Green,True,False,True,True,b'Mark Winters',0.07
-Ruthless Instincts,Instant,None,Fate Reforged,Uncommon,3,Green,True,False,True,False,b'Lius Lasahido',0.11
-Sandsteppe Mastodon,Creature,Elephant,Fate Reforged,Rare,7,Green,True,False,True,True,b'James Zapata',0.12
-Shamanic Revelation,Sorcery,None,Fate Reforged,Rare,5,Green,True,False,True,True,b'Cynthia Sheppard',0.86
-Sudden Reclamation,Instant,None,Fate Reforged,Uncommon,4,Green,True,False,True,False,b'Jack Wang',0.12
-Temur Runemark,Enchantment,Aura,Fate Reforged,Common,3,Green,True,False,True,False,b'Ryan Alexander Lee',0.03
-Temur Sabertooth,Creature,Cat,Fate Reforged,Uncommon,4,Green,True,False,True,True,b'Mike Sass',2.04
-Temur War Shaman,Creature,Human Shaman,Fate Reforged,Rare,6,Green,True,False,True,True,b'Nils Hamm',0.28
-Warden of the First Tree,Creature,Human,Fate Reforged,Mythic Rare,1,Green,True,False,True,True,b'Ryan Alexander Lee',0.49
-Whisperer of the Wilds,Creature,Human Shaman,Fate Reforged,Common,2,Green,True,False,True,False,b'David Gaillet',0.14
-Whisperwood Elemental,Creature,Elemental,Fate Reforged,Mythic Rare,5,Green,True,False,True,False,b'Raymond Swanland',1.42
-Wildcall,Sorcery,None,Fate Reforged,Rare,3,Green,True,False,True,True,b'Adam Paquette',0.11
-Winds of Qal Sisma,Instant,None,Fate Reforged,Uncommon,2,Green,True,False,True,False,b'Howard Lyon',0.17
-Yasova Dragonclaw,Legendary Creature,Human Warrior,Fate Reforged,Rare,3,Green,True,False,True,True,b'Winona Nelson',0.24
-"Atarka, World Render",Legendary Creature,Dragon,Fate Reforged,Rare,7,Gold,True,False,True,True,b'Karl Kopinski',0.48
-Cunning Strike,Instant,None,Fate Reforged,Common,5,Gold,True,False,True,False,b'Clint Cearley',0.05
-"Dromoka, the Eternal",Legendary Creature,Dragon,Fate Reforged,Rare,5,Gold,True,False,True,True,b'Eric Deschamps',0.28
-Ethereal Ambush,Instant,None,Fate Reforged,Common,5,Gold,True,False,True,True,b'Lius Lasahido',0.09
-Grim Contest,Instant,None,Fate Reforged,Common,3,Gold,True,False,True,True,b'Phill Simmer',0.09
-Harsh Sustenance,Instant,None,Fate Reforged,Common,3,Gold,True,False,True,False,b'Cynthia Sheppard',0.1
-"Kolaghan, the Storm's Fury",Legendary Creature,Dragon,Fate Reforged,Rare,5,Gold,True,False,True,True,b'Jaime Jones',0.42
-"Ojutai, Soul of Winter",Legendary Creature,Dragon,Fate Reforged,Rare,7,Gold,True,False,True,True,b'Chase Stone',0.27
-"Silumgar, the Drifting Death",Legendary Creature,Dragon,Fate Reforged,Rare,6,Gold,True,False,True,True,b'Steven Belledin',0.34
-War Flare,Instant,None,Fate Reforged,Common,4,Gold,True,False,True,False,b'Karl Kopinski',0.06
-Goblin Boom Keg,Artifact,None,Fate Reforged,Uncommon,4,Colorless,True,False,True,False,b'Viktor Titov',0.06
-Hero's Blade,Artifact,Equipment,Fate Reforged,Uncommon,2,Colorless,True,False,True,True,b'Aaron Miller',0.26
-Hewed Stone Retainers,Artifact Creature,Golem,Fate Reforged,Uncommon,3,Colorless,True,False,True,True,b'David Seguin',0.09
-Pilgrim of the Fires,Artifact Creature,Golem,Fate Reforged,Uncommon,7,Colorless,True,False,True,False,b'Izzy',0.08
-Scroll of the Masters,Artifact,None,Fate Reforged,Rare,2,Colorless,True,False,True,False,b'Lake Hurwitz',0.22
-Ugin's Construct,Artifact Creature,Construct,Fate Reforged,Uncommon,4,Colorless,True,False,True,True,b'Peter Mohrbacher',0.09
-Bloodfell Caves,Land,None,Fate Reforged,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.11
-Blossoming Sands,Land,None,Fate Reforged,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.11
-Crucible of the Spirit Dragon,Land,None,Fate Reforged,Rare,0,Colorless,True,False,True,True,b'Jung Park',0.34
-Dismal Backwater,Land,None,Fate Reforged,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.13
-Jungle Hollow,Land,None,Fate Reforged,Common,0,Colorless,True,True,True,True,b'Eytan Zana',0.1
-Rugged Highlands,Land,None,Fate Reforged,Common,0,Colorless,True,True,True,True,b'Eytan Zana',0.11
-Scoured Barrens,Land,None,Fate Reforged,Common,0,Colorless,True,True,True,True,b'Eytan Zana',0.11
-Swiftwater Cliffs,Land,None,Fate Reforged,Common,0,Colorless,True,True,True,True,b'Eytan Zana',0.14
-Thornwood Falls,Land,None,Fate Reforged,Common,0,Colorless,True,True,True,True,b'Eytan Zana',0.11
-Tranquil Cove,Land,None,Fate Reforged,Common,0,Colorless,True,True,True,True,b'John Avon',0.1
-Wind-Scarred Crag,Land,None,Fate Reforged,Common,0,Colorless,True,True,True,True,b'Eytan Zana',0.11
-Plains,Basic Land,Plains,Fate Reforged,Common,0,Colorless,True,True,True,True,b'Noah Bradley',0.13
-Plains,Basic Land,Plains,Fate Reforged,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.15
-Island,Basic Land,Island,Fate Reforged,Common,0,Colorless,True,True,True,True,b'Florian de Gesincourt',0.15
-Island,Basic Land,Island,Fate Reforged,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.16
-Swamp,Basic Land,Swamp,Fate Reforged,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.15
-Swamp,Basic Land,Swamp,Fate Reforged,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.11
-Mountain,Basic Land,Mountain,Fate Reforged,Common,0,Colorless,True,True,True,True,b'Noah Bradley',0.14
-Mountain,Basic Land,Mountain,Fate Reforged,Common,0,Colorless,True,True,True,True,b'Florian de Gesincourt',0.16
-Forest,Basic Land,Forest,Fate Reforged,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.13
-Forest,Basic Land,Forest,Fate Reforged,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.12
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Ugin the Spirit Dragon,Planeswalker,Ugin,Fate Reforged,Mythic Rare,8,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',36.29,True
+Abzan Advantage,Instant,None,Fate Reforged,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Winona Nelson',0.09,False
+Abzan Runemark,Enchantment,Aura,Fate Reforged,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'James Ryman',0.07,False
+Abzan Skycaptain,Creature,Bird Soldier,Fate Reforged,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Stewart',0.03,False
+Arashin Cleric,Creature,Human Cleric,Fate Reforged,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Chris Rahn',0.12,False
+Aven Skirmisher,Creature,Bird Warrior,Fate Reforged,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Jason Rainville',0.06,False
+Channel Harm,Instant,None,Fate Reforged,Uncommon,6,White,Legal,Not Legal,Legal,Legal,Legal,False,b'David Gaillet',0.08,False
+Citadel Siege,Enchantment,None,Fate Reforged,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.26,False
+Daghatar the Adamant,Creature,Human Warrior,Fate Reforged,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Zack Stella',0.21,True
+Dragon Bell Monk,Creature,Human Monk,Fate Reforged,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Lius Lasahido',0.04,False
+Dragonscale General,Creature,Human Warrior,Fate Reforged,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',0.22,False
+Elite Scaleguard,Creature,Human Soldier,Fate Reforged,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.14,False
+Great-Horn Krushok,Creature,Beast,Fate Reforged,Common,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'YW Tang',0.05,False
+Honor's Reward,Instant,None,Fate Reforged,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Izzy',0.11,False
+Jeskai Barricade,Creature,Wall,Fate Reforged,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Noah Bradley',0.44,False
+Lightform,Enchantment,None,Fate Reforged,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.12,False
+Lotus-Eye Mystics,Creature,Human Monk,Fate Reforged,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.07,False
+Mardu Woe-Reaper,Creature,Human Warrior,Fate Reforged,Uncommon,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Willian Murai',0.28,False
+Mastery of the Unseen,Enchantment,None,Fate Reforged,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',0.19,False
+Monastery Mentor,Creature,Human Monk,Fate Reforged,Mythic Rare,3,White,Legal,Not Legal,Legal,Restrict.,Legal,True,b'Magali Villeneuve',17.34,False
+Pressure Point,Instant,None,Fate Reforged,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Chase Stone',0.06,False
+Rally the Ancestors,Instant,None,Fate Reforged,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.94,False
+Sage's Reverie,Enchantment,Aura,Fate Reforged,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Rainville',0.21,False
+Sandblast,Instant,None,Fate Reforged,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Min Yum',0.06,False
+Sandsteppe Outcast,Creature,Human Warrior,Fate Reforged,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Wesley Burt',0.09,False
+Soul Summons,Sorcery,None,Fate Reforged,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Johann Bodin',0.01,False
+Soulfire Grand Master,Creature,Human Monk,Fate Reforged,Mythic Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Johannes Voss',2.51,False
+Valorous Stance,Instant,None,Fate Reforged,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Willian Murai',0.29,False
+Wandering Champion,Creature,Human Monk,Fate Reforged,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Willian Murai',0.07,False
+Wardscale Dragon,Creature,Dragon,Fate Reforged,Uncommon,6,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Jason Rainville',0.14,False
+Aven Surveyor,Creature,Bird Scout,Fate Reforged,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'David Gaillet',0.03,False
+Cloudform,Enchantment,None,Fate Reforged,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Noah Bradley',0.11,False
+Enhanced Awareness,Instant,None,Fate Reforged,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Ryan Alexander Lee',0.05,False
+Fascination,Sorcery,None,Fate Reforged,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.16,False
+Frost Walker,Creature,Elemental,Fate Reforged,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Bierek',0.1,False
+Jeskai Infiltrator,Creature,Human Monk,Fate Reforged,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Cynthia Sheppard',0.17,False
+Jeskai Runemark,Enchantment,Aura,Fate Reforged,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Jaime Jones',0.04,False
+Jeskai Sage,Creature,Human Monk,Fate Reforged,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Craig J Spearing',0.07,False
+Lotus Path Djinn,Creature,Djinn Monk,Fate Reforged,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Argyle',0.06,False
+Marang River Prowler,Creature,Human Rogue,Fate Reforged,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Yefim Kligerman',0.12,False
+Mindscour Dragon,Creature,Dragon,Fate Reforged,Uncommon,6,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Wesley Burt',0.12,False
+Mistfire Adept,Creature,Human Monk,Fate Reforged,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Clint Cearley',0.1,False
+Monastery Siege,Enchantment,None,Fate Reforged,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Winters',0.58,False
+Neutralizing Blast,Instant,None,Fate Reforged,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.08,False
+Rakshasa's Disdain,Instant,None,Fate Reforged,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Seb McKinnon',0.07,False
+Reality Shift,Instant,None,Fate Reforged,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Howard Lyon',0.71,False
+Refocus,Instant,None,Fate Reforged,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.08,False
+Renowned Weaponsmith,Creature,Human Artificer,Fate Reforged,Uncommon,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Eric Deschamps',0.16,False
+Rite of Undoing,Instant,None,Fate Reforged,Uncommon,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Anastasia Ovchinnikova',0.08,False
+Sage-Eye Avengers,Creature,Djinn Monk,Fate Reforged,Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.11,False
+Shifting Loyalties,Sorcery,None,Fate Reforged,Uncommon,6,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'James Ryman',0.08,False
+Shu Yun the Silent Tempest,Creature,Human Monk,Fate Reforged,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'David Gaillet',0.28,True
+Sultai Skullkeeper,Creature,Naga Shaman,Fate Reforged,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Barger',0.02,False
+Supplant Form,Instant,None,Fate Reforged,Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.27,False
+Temporal Trespass,Sorcery,None,Fate Reforged,Mythic Rare,11,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Clint Cearley',4.65,False
+Torrent Elemental,Creature,Elemental,Fate Reforged,Mythic Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'James Paick',0.52,False
+Whisk Away,Instant,None,Fate Reforged,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Zack Stella',0.05,False
+Will of the Naga,Instant,None,Fate Reforged,Common,6,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne Reynolds',0.04,False
+Write into Being,Sorcery,None,Fate Reforged,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Yeong-Hao Han',0.12,False
+Alesha's Vanguard,Creature,Orc Warrior,Fate Reforged,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Torstein Nordstrand',0.04,False
+Ancestral Vengeance,Enchantment,Aura,Fate Reforged,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Yohann Schepacz',0.05,False
+Archfiend of Depravity,Creature,Demon,Fate Reforged,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',1.83,False
+Battle Brawler,Creature,Orc Warrior,Fate Reforged,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Karl Kopinski',0.1,False
+Brutal Hordechief,Creature,Orc Warrior,Fate Reforged,Mythic Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Tyler Jacobson',0.73,False
+Crux of Fate,Sorcery,None,Fate Reforged,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Komarck',1.65,False
+Dark Deal,Sorcery,None,Fate Reforged,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Scott Murphy',1.15,False
+Diplomacy of the Wastes,Sorcery,None,Fate Reforged,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Jack Wang',0.07,False
+Douse in Gloom,Instant,None,Fate Reforged,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Yee',0.03,False
+Fearsome Awakening,Sorcery,None,Fate Reforged,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'V\xc3\xa9ronique Meignaud',0.25,False
+Ghastly Conscription,Sorcery,None,Fate Reforged,Mythic Rare,7,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'YW Tang',0.3,False
+Grave Strength,Sorcery,None,Fate Reforged,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Simpson',0.12,False
+Gurmag Angler,Creature,Zombie Fish,Fate Reforged,Common,7,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'YW Tang',0.14,False
+Hooded Assassin,Creature,Human Assassin,Fate Reforged,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Stewart',0.09,False
+Mardu Shadowspear,Creature,Human Warrior,Fate Reforged,Uncommon,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.14,False
+Mardu Strike Leader,Creature,Human Warrior,Fate Reforged,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Rainville',0.29,False
+Merciless Executioner,Creature,Orc Warrior,Fate Reforged,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'David Palumbo',0.64,False
+Noxious Dragon,Creature,Dragon,Fate Reforged,Uncommon,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.1,False
+Orc Sureshot,Creature,Orc Archer,Fate Reforged,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.11,False
+Palace Siege,Enchantment,None,Fate Reforged,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',1.0,False
+Qarsi High Priest,Creature,Human Cleric,Fate Reforged,Uncommon,1,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Viktor Titov',0.08,False
+Reach of Shadows,Instant,None,Fate Reforged,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Daarken',0.04,False
+Sibsig Host,Creature,Zombie,Fate Reforged,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Prescott',0.04,False
+Sibsig Muckdraggers,Creature,Zombie,Fate Reforged,Uncommon,9,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Zack Stella',0.08,False
+Soulflayer,Creature,Demon,Fate Reforged,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Seb McKinnon',0.39,False
+Sultai Emissary,Creature,Zombie Warrior,Fate Reforged,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Mathias Kollros',0.15,False
+Sultai Runemark,Enchantment,Aura,Fate Reforged,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',0.06,False
+Tasigur the Golden Fang,Creature,Human Shaman,Fate Reforged,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.48,True
+Tasigur's Cruelty,Sorcery,None,Fate Reforged,Common,6,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Chris Rahn',0.12,False
+Typhoid Rats,Creature,Rat,Fate Reforged,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Kendall',0.13,False
+Alesha Who Smiles at Death,Creature,Human Warrior,Fate Reforged,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Anastasia Ovchinnikova',0.33,True
+Arcbond,Instant,None,Fate Reforged,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',0.32,False
+Bathe in Dragonfire,Sorcery,None,Fate Reforged,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rallis',0.03,False
+Bloodfire Enforcers,Creature,Human Monk,Fate Reforged,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Yefim Kligerman',0.07,False
+Break Through the Line,Enchantment,None,Fate Reforged,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Clint Cearley',0.15,False
+Collateral Damage,Instant,None,Fate Reforged,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Barger',0.11,False
+Defiant Ogre,Creature,Ogre Warrior,Fate Reforged,Common,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Craig J Spearing',0.01,False
+Dragonrage,Instant,None,Fate Reforged,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Tomasz Jedruszek',0.15,False
+Fierce Invocation,Sorcery,None,Fate Reforged,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Tyler Jacobson',0.05,False
+Flamerush Rider,Creature,Human Warrior,Fate Reforged,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Min Yum',0.16,False
+Flamewake Phoenix,Creature,Phoenix,Fate Reforged,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Min Yum',0.64,False
+Friendly Fire,Instant,None,Fate Reforged,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony Palumbo',0.05,False
+Goblin Heelcutter,Creature,Goblin Berserker,Fate Reforged,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Jesper Ejsing',0.13,False
+Gore Swine,Creature,Boar,Fate Reforged,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jack Wang',0.04,False
+Humble Defector,Creature,Human Rogue,Fate Reforged,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',0.19,False
+Hungering Yeti,Creature,Yeti,Fate Reforged,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Tyler Jacobson',0.07,False
+Lightning Shrieker,Creature,Dragon,Fate Reforged,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',0.14,False
+Mardu Runemark,Enchantment,Aura,Fate Reforged,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Viktor Titov',0.06,False
+Mardu Scout,Creature,Goblin Scout,Fate Reforged,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.07,False
+Mob Rule,Sorcery,None,Fate Reforged,Rare,6,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Jakub Kasper',0.45,False
+Outpost Siege,Enchantment,None,Fate Reforged,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.51,False
+Pyrotechnics,Sorcery,None,Fate Reforged,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.07,False
+Rageform,Enchantment,None,Fate Reforged,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Richard Wright',0.07,False
+Shaman of the Great Hunt,Creature,Orc Shaman,Fate Reforged,Mythic Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Alexander Lee',0.66,False
+Shockmaw Dragon,Creature,Dragon,Fate Reforged,Uncommon,6,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Alejandro Mirabal',0.15,False
+Smoldering Efreet,Creature,Efreet Monk,Fate Reforged,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Chase Stone',0.05,False
+Temur Battle Rage,Instant,None,Fate Reforged,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',0.47,False
+Vaultbreaker,Creature,Orc Rogue,Fate Reforged,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne Reynolds',0.08,False
+Wild Slash,Instant,None,Fate Reforged,Uncommon,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Raymond Swanland',0.91,False
+Abzan Beastmaster,Creature,Dog Shaman,Fate Reforged,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Winona Nelson',0.13,False
+Abzan Kin-Guard,Creature,Human Warrior,Fate Reforged,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Craig J Spearing',0.1,False
+Ainok Guide,Creature,Dog Scout,Fate Reforged,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Lucas Graciano',0.09,False
+Ambush Krotiq,Creature,Insect,Fate Reforged,Common,6,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Filip Burburan',0.04,False
+Arashin War Beast,Creature,Beast,Fate Reforged,Uncommon,7,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Deschamps',0.06,False
+Archers of Qarsi,Creature,Naga Archer,Fate Reforged,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Alejandro Mirabal',0.05,False
+Battlefront Krushok,Creature,Beast,Fate Reforged,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Prescott',0.11,False
+Cached Defenses,Sorcery,None,Fate Reforged,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Zack Stella',0.06,False
+Destructor Dragon,Creature,Dragon,Fate Reforged,Uncommon,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Peter Mohrbacher',0.17,False
+Feral Krushok,Creature,Beast,Fate Reforged,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.05,False
+Formless Nurturing,Sorcery,None,Fate Reforged,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Cliff Childs',0.01,False
+Frontier Mastodon,Creature,Elephant,Fate Reforged,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.04,False
+Frontier Siege,Enchantment,None,Fate Reforged,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'James Ryman',0.47,False
+Fruit of the First Tree,Enchantment,Aura,Fate Reforged,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Ryan Yee',0.12,False
+Hunt the Weak,Sorcery,None,Fate Reforged,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.08,False
+Map the Wastes,Sorcery,None,Fate Reforged,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',0.1,False
+Return to the Earth,Instant,None,Fate Reforged,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Winters',0.08,False
+Ruthless Instincts,Instant,None,Fate Reforged,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Lius Lasahido',0.11,False
+Sandsteppe Mastodon,Creature,Elephant,Fate Reforged,Rare,7,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'James Zapata',0.14,False
+Shamanic Revelation,Sorcery,None,Fate Reforged,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Cynthia Sheppard',0.97,False
+Sudden Reclamation,Instant,None,Fate Reforged,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Jack Wang',0.11,False
+Temur Runemark,Enchantment,Aura,Fate Reforged,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Ryan Alexander Lee',0.03,False
+Temur Sabertooth,Creature,Cat,Fate Reforged,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Sass',3.27,False
+Temur War Shaman,Creature,Human Shaman,Fate Reforged,Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.26,False
+Warden of the First Tree,Creature,Human,Fate Reforged,Mythic Rare,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Alexander Lee',0.54,False
+Whisperer of the Wilds,Creature,Human Shaman,Fate Reforged,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'David Gaillet',0.17,False
+Whisperwood Elemental,Creature,Elemental,Fate Reforged,Mythic Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Raymond Swanland',1.26,False
+Wildcall,Sorcery,None,Fate Reforged,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.12,False
+Winds of Qal Sisma,Instant,None,Fate Reforged,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Howard Lyon',0.15,False
+Yasova Dragonclaw,Creature,Human Warrior,Fate Reforged,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Winona Nelson',0.29,True
+Atarka World Render,Creature,Dragon,Fate Reforged,Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.45,True
+Cunning Strike,Instant,None,Fate Reforged,Common,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Clint Cearley',0.04,False
+Dromoka the Eternal,Creature,Dragon,Fate Reforged,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Deschamps',0.3,True
+Ethereal Ambush,Instant,None,Fate Reforged,Common,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Lius Lasahido',0.11,False
+Grim Contest,Instant,None,Fate Reforged,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Phill Simmer',0.09,False
+Harsh Sustenance,Instant,None,Fate Reforged,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Cynthia Sheppard',0.11,False
+Kolaghan the Storm's Fury,Creature,Dragon,Fate Reforged,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',0.41,True
+Ojutai Soul of Winter,Creature,Dragon,Fate Reforged,Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Chase Stone',0.24,True
+Silumgar the Drifting Death,Creature,Dragon,Fate Reforged,Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.38,True
+War Flare,Instant,None,Fate Reforged,Common,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Karl Kopinski',0.06,False
+Goblin Boom Keg,Artifact,None,Fate Reforged,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Viktor Titov',0.11,False
+Hero's Blade,Artifact,Equipment,Fate Reforged,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Aaron Miller',0.27,False
+Hewed Stone Retainers,Artifact Creature,Golem,Fate Reforged,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'David Seguin',0.11,False
+Pilgrim of the Fires,Artifact Creature,Golem,Fate Reforged,Uncommon,7,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Izzy',0.08,False
+Scroll of the Masters,Artifact,None,Fate Reforged,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Lake Hurwitz',0.21,False
+Ugin's Construct,Artifact Creature,Construct,Fate Reforged,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Peter Mohrbacher',0.09,False
+Bloodfell Caves,Land,None,Fate Reforged,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.13,False
+Blossoming Sands,Land,None,Fate Reforged,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Sam Burley',0.11,False
+Crucible of the Spirit Dragon,Land,None,Fate Reforged,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jung Park',0.3,False
+Dismal Backwater,Land,None,Fate Reforged,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Sam Burley',0.13,False
+Jungle Hollow,Land,None,Fate Reforged,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Eytan Zana',0.12,False
+Rugged Highlands,Land,None,Fate Reforged,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Eytan Zana',0.1,False
+Scoured Barrens,Land,None,Fate Reforged,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Eytan Zana',0.12,False
+Swiftwater Cliffs,Land,None,Fate Reforged,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Eytan Zana',0.12,False
+Thornwood Falls,Land,None,Fate Reforged,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Eytan Zana',0.11,False
+Tranquil Cove,Land,None,Fate Reforged,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.11,False
+Wind-Scarred Crag,Land,None,Fate Reforged,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Eytan Zana',0.11,False
+Plains,Basic Land,Plains,Fate Reforged,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Noah Bradley',0.14,False
+Plains,Basic Land,Plains,Fate Reforged,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Sam Burley',0.16,False
+Island,Basic Land,Island,Fate Reforged,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Florian de Gesincourt',0.15,False
+Island,Basic Land,Island,Fate Reforged,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Titus Lunter',0.2,False
+Swamp,Basic Land,Swamp,Fate Reforged,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Sam Burley',0.15,False
+Swamp,Basic Land,Swamp,Fate Reforged,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.13,False
+Mountain,Basic Land,Mountain,Fate Reforged,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Noah Bradley',0.14,False
+Mountain,Basic Land,Mountain,Fate Reforged,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Florian de Gesincourt',0.15,False
+Forest,Basic Land,Forest,Fate Reforged,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Titus Lunter',0.14,False
+Forest,Basic Land,Forest,Fate Reforged,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.15,False

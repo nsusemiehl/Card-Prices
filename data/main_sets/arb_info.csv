@@ -1,146 +1,146 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Ardent Plea,Enchantment,None,Alara Reborn,Uncommon,3,Gold,True,False,True,False,b'Chippy',0.58
-Aven Mimeomancer,Creature,Bird Wizard,Alara Reborn,Rare,3,Gold,True,False,True,False,b'Jesper Ejsing',0.62
-Ethercaste Knight,Artifact Creature,Human Knight,Alara Reborn,Common,2,Gold,True,False,True,True,b'Steven Belledin',0.12
-Ethersworn Shieldmage,Artifact Creature,Vedalken Wizard,Alara Reborn,Common,3,Gold,True,False,True,True,b'Daarken',0.1
-Fieldmist Borderpost,Artifact,None,Alara Reborn,Common,3,Gold,True,False,True,True,b'Michael Bruinsma',0.26
-Filigree Angel,Artifact Creature,Angel,Alara Reborn,Rare,8,Gold,True,False,True,True,b'Richard Whitters',0.28
-Glassdust Hulk,Artifact Creature,Golem,Alara Reborn,Common,5,Gold,True,False,True,True,b'Franz Vohwinkel',0.1
-Meddling Mage,Creature,Human Wizard,Alara Reborn,Rare,2,Gold,True,False,True,True,b'Todd Lockwood',7.4
-Offering to Asha,Instant,None,Alara Reborn,Common,4,Gold,True,False,True,False,b'Daarken',0.05
-Sanctum Plowbeast,Artifact Creature,Beast,Alara Reborn,Common,6,Gold,True,False,True,False,b'Anthony Francisco',0.17
-Shield of the Righteous,Artifact,Equipment,Alara Reborn,Uncommon,2,Gold,True,False,True,False,b'David Palumbo',0.16
-Sovereigns of Lost Alara,Creature,Spirit,Alara Reborn,Rare,6,Gold,True,False,True,True,b'Donato Giancola',0.62
-Stormcaller's Boon,Enchantment,None,Alara Reborn,Common,4,Gold,True,False,True,False,b'Brandon Kitkouski',0.08
-Talon Trooper,Creature,Bird Scout,Alara Reborn,Common,3,Gold,True,False,True,True,b'Matt Stewart',0.05
-Unbender Tine,Artifact,None,Alara Reborn,Uncommon,4,Gold,True,False,True,True,b'Greg Hildebrandt',0.2
-Wall of Denial,Creature,Wall,Alara Reborn,Uncommon,3,Gold,True,False,True,True,b'Howard Lyon',1.06
-Architects of Will,Artifact Creature,Human Wizard,Alara Reborn,Common,4,Gold,True,False,True,True,b'Matt Stewart',0.27
-Brainbite,Sorcery,None,Alara Reborn,Common,4,Gold,True,False,True,False,b'Mark Hyzer',0.07
-Deny Reality,Sorcery,None,Alara Reborn,Common,5,Gold,True,False,True,True,b'Jean-S\xc3\xa9bastien Rossbach',0.13
-Etherium Abomination,Artifact Creature,Horror,Alara Reborn,Common,5,Gold,True,False,True,False,b'Mitch Cotie',0.09
-Illusory Demon,Creature,Demon Illusion,Alara Reborn,Uncommon,3,Gold,True,False,True,False,b'Nils Hamm',0.13
-Jhessian Zombies,Creature,Zombie,Alara Reborn,Common,6,Gold,True,False,True,True,b'Ash Wood',0.16
-Kathari Remnant,Creature,Bird Skeleton,Alara Reborn,Uncommon,4,Gold,True,False,True,True,b'Anthony S. Waters',0.12
-Lich Lord of Unx,Creature,Zombie Wizard,Alara Reborn,Rare,3,Gold,True,False,True,False,b'Dave Allsop',7.98
-Mask of Riddles,Artifact,Equipment,Alara Reborn,Uncommon,2,Gold,True,False,True,False,b'Matt Cavotta',0.34
-Mind Funeral,Sorcery,None,Alara Reborn,Uncommon,3,Gold,True,False,True,True,b'rk post',2.99
-Mistvein Borderpost,Artifact,None,Alara Reborn,Common,3,Gold,True,False,True,True,b'Pete Venters',0.26
-Nemesis of Reason,Creature,Leviathan Horror,Alara Reborn,Rare,5,Gold,True,False,True,True,b'Mark Tedin',5.67
-Soul Manipulation,Instant,None,Alara Reborn,Common,3,Gold,True,False,True,True,b'Carl Critchlow',0.25
-Soulquake,Sorcery,None,Alara Reborn,Rare,7,Gold,True,False,True,False,b'Warren Mahy',0.22
-Time Sieve,Artifact,None,Alara Reborn,Rare,2,Gold,True,False,True,True,b'Franz Vohwinkel',10.27
-Vedalken Ghoul,Creature,Vedalken Zombie,Alara Reborn,Common,2,Gold,True,False,True,False,b'Dave Kendall',0.17
-Anathemancer,Creature,Zombie Wizard,Alara Reborn,Uncommon,3,Gold,True,False,True,True,b'Richard Whitters',0.29
-Bituminous Blast,Instant,None,Alara Reborn,Uncommon,5,Gold,True,False,True,True,b'Raymond Swanland',0.15
-Breath of Malfegor,Instant,None,Alara Reborn,Common,5,Gold,True,False,True,True,b'Vance Kovacs',0.12
-Deathbringer Thoctar,Creature,Zombie Beast,Alara Reborn,Rare,6,Gold,True,False,True,True,b'Karl Kopinski',0.48
-Defiler of Souls,Creature,Demon,Alara Reborn,Mythic Rare,6,Gold,True,False,True,False,b'Paul Bonner',2.32
-Demonic Dread,Sorcery,None,Alara Reborn,Common,3,Gold,True,False,True,False,b'Thomas M. Baxa',0.24
-Demonspine Whip,Artifact,Equipment,Alara Reborn,Uncommon,2,Gold,True,False,True,False,b'Mark Hyzer',0.15
-Igneous Pouncer,Creature,Elemental,Alara Reborn,Common,6,Gold,True,False,True,True,b'Chippy',0.13
-Kathari Bomber,Creature,Bird Shaman,Alara Reborn,Common,3,Gold,True,False,True,True,b'Carl Critchlow',0.08
-Lightning Reaver,Creature,Zombie Beast,Alara Reborn,Rare,5,Gold,True,False,True,False,b'Cyril Van Der Haegen',0.63
-Monstrous Carabid,Creature,Insect,Alara Reborn,Common,5,Gold,True,False,True,False,b'Pete Venters',0.3
-Sanity Gnawers,Creature,Rat,Alara Reborn,Uncommon,3,Gold,True,False,True,False,b'Pete Venters',0.09
-Singe-Mind Ogre,Creature,Ogre Mutant,Alara Reborn,Common,4,Gold,True,False,True,False,b'Daarken',0.08
-Terminate,Instant,None,Alara Reborn,Common,2,Gold,True,False,True,True,b'Wayne Reynolds',0.75
-Thought Hemorrhage,Sorcery,None,Alara Reborn,Rare,4,Gold,True,False,True,False,b'Chippy',0.2
-Veinfire Borderpost,Artifact,None,Alara Reborn,Common,3,Gold,True,False,True,False,b'Ralph Horsley',0.29
-Blitz Hellion,Creature,Hellion,Alara Reborn,Rare,5,Gold,True,False,True,False,b'Anthony S. Waters',0.26
-Bloodbraid Elf,Creature,Elf Berserker,Alara Reborn,Uncommon,4,Gold,True,False,True,True,b'Dominick Domingo',1.33
-Colossal Might,Instant,None,Alara Reborn,Common,2,Gold,True,False,True,True,b'Justin Sweet',0.22
-Deadshot Minotaur,Creature,Minotaur,Alara Reborn,Common,5,Gold,True,False,True,False,b'Jason Chan',0.19
-Dragon Broodmother,Creature,Dragon,Alara Reborn,Mythic Rare,6,Gold,True,False,True,True,b'Jaime Jones',16.35
-Firewild Borderpost,Artifact,None,Alara Reborn,Common,3,Gold,True,False,True,False,b'Jean-S\xc3\xa9bastien Rossbach',0.26
-Godtracker of Jund,Creature,Elf Shaman,Alara Reborn,Common,3,Gold,True,False,True,False,b'Justin Sweet',0.08
-Gorger Wurm,Creature,Wurm,Alara Reborn,Common,5,Gold,True,False,True,False,b'Paolo Parente',0.09
-Mage Slayer,Artifact,Equipment,Alara Reborn,Uncommon,3,Gold,True,False,True,True,b'Lars Grant-West',1.07
-Predatory Advantage,Enchantment,None,Alara Reborn,Rare,5,Gold,True,False,True,False,b'Raymond Swanland',0.35
-Rhox Brute,Creature,Rhino Warrior,Alara Reborn,Common,4,Gold,True,False,True,True,b'Raymond Swanland',0.06
-Spellbreaker Behemoth,Creature,Beast,Alara Reborn,Rare,4,Gold,True,False,True,True,b'Jason Chan',0.87
-Valley Rannet,Creature,Beast,Alara Reborn,Common,6,Gold,True,False,True,True,b'Dave Allsop',0.07
-Vengeful Rebirth,Sorcery,None,Alara Reborn,Uncommon,6,Gold,True,False,True,True,b'Vance Kovacs',0.08
-Violent Outburst,Instant,None,Alara Reborn,Common,3,Gold,True,False,True,False,b'Richard Whitters',0.36
-Vithian Renegades,Creature,Human Shaman,Alara Reborn,Uncommon,3,Gold,True,False,True,False,b'rk post',0.23
-Behemoth Sledge,Artifact,Equipment,Alara Reborn,Uncommon,3,Gold,True,False,True,True,b'Steve Prescott',0.25
-Captured Sunlight,Sorcery,None,Alara Reborn,Common,4,Gold,True,False,True,False,b'Nils Hamm',0.07
-Dauntless Escort,Creature,Rhino Soldier,Alara Reborn,Rare,3,Gold,True,False,True,True,b'Volkan Ba\xc7\xb5a',1.32
-Enlisted Wurm,Creature,Wurm,Alara Reborn,Uncommon,6,Gold,True,False,True,True,b'Steve Prescott',0.15
-Grizzled Leotau,Creature,Cat,Alara Reborn,Common,2,Gold,True,False,True,False,b'Lars Grant-West',0.28
-Knight of New Alara,Creature,Human Knight,Alara Reborn,Rare,4,Gold,True,False,True,True,b'Chris Rahn',0.69
-Knotvine Paladin,Creature,Human Knight,Alara Reborn,Rare,2,Gold,True,False,True,True,b'Matt Stewart',0.4
-Leonin Armorguard,Creature,Cat Soldier,Alara Reborn,Common,4,Gold,True,False,True,False,b'Steven Belledin',0.1
-Mycoid Shepherd,Creature,Fungus,Alara Reborn,Rare,4,Gold,True,False,True,True,b'Trevor Claxton',0.27
-Pale Recluse,Creature,Spider,Alara Reborn,Common,6,Gold,True,False,True,True,b'Cyril Van Der Haegen',0.15
-Qasali Pridemage,Creature,Cat Wizard,Alara Reborn,Common,2,Gold,True,False,True,True,b'Chris Rahn',0.64
-Reborn Hope,Sorcery,None,Alara Reborn,Uncommon,2,Gold,True,False,True,False,b'Warren Mahy',0.28
-Sigil Captain,Creature,Rhino Soldier,Alara Reborn,Uncommon,4,Gold,True,False,True,True,b'Howard Lyon',0.29
-Sigil of the Nayan Gods,Enchantment,Aura,Alara Reborn,Common,3,Gold,True,False,True,False,b'Warren Mahy',0.19
-Sigiled Behemoth,Creature,Beast,Alara Reborn,Common,6,Gold,True,False,True,False,b'Donato Giancola',0.06
-Wildfield Borderpost,Artifact,None,Alara Reborn,Common,3,Gold,True,False,True,False,b'Zoltan Boros',0.23
-Identity Crisis,Sorcery,None,Alara Reborn,Rare,6,Gold,True,False,True,False,b'Thomas M. Baxa',0.39
-Necromancer's Covenant,Enchantment,None,Alara Reborn,Rare,6,Gold,True,False,True,True,b'Thomas M. Baxa',0.69
-Tainted Sigil,Artifact,None,Alara Reborn,Uncommon,3,Gold,True,False,True,False,b'Chippy',0.61
-Vectis Dominator,Artifact Creature,Human Wizard,Alara Reborn,Common,3,Gold,True,False,True,False,b'Zoltan Boros',0.08
-Zealous Persecution,Instant,None,Alara Reborn,Uncommon,2,Gold,True,False,True,True,b'Christopher Moeller',0.3
-Cloven Casting,Enchantment,None,Alara Reborn,Rare,7,Gold,True,False,True,False,b'Vance Kovacs',0.26
-Double Negative,Instant,None,Alara Reborn,Uncommon,3,Gold,True,False,True,False,b'Paolo Parente',0.19
-Magefire Wings,Enchantment,Aura,Alara Reborn,Common,2,Gold,True,False,True,False,b'Zoltan Boros',0.07
-Skyclaw Thrash,Artifact Creature,Viashino Warrior,Alara Reborn,Uncommon,5,Gold,True,False,True,False,b'Jaime Jones',0.25
-Spellbound Dragon,Creature,Dragon,Alara Reborn,Rare,5,Gold,True,False,True,True,b'Jesper Ejsing',0.35
-Lord of Extinction,Creature,Elemental,Alara Reborn,Mythic Rare,5,Gold,True,False,True,True,b'Izzy',4.87
-Maelstrom Pulse,Sorcery,None,Alara Reborn,Rare,3,Gold,True,False,True,True,b'Anthony Francisco',3.7
-Marrow Chomper,Creature,Zombie Lizard,Alara Reborn,Uncommon,5,Gold,True,False,True,False,b'Lars Grant-West',0.17
-Morbid Bloom,Sorcery,None,Alara Reborn,Uncommon,6,Gold,True,False,True,False,b'Trevor Claxton',0.24
-Putrid Leech,Creature,Zombie Leech,Alara Reborn,Common,2,Gold,True,False,True,True,b'Dave Allsop',0.14
-Cerodon Yearling,Creature,Beast,Alara Reborn,Common,2,Gold,True,False,True,True,b'Christopher Moeller',0.13
-Fight to the Death,Instant,None,Alara Reborn,Rare,2,Gold,True,False,True,False,b'Michael Komarck',0.54
-Glory of Warfare,Enchantment,None,Alara Reborn,Rare,4,Gold,True,False,True,True,b'Paolo Parente',1.07
-Intimidation Bolt,Instant,None,Alara Reborn,Uncommon,3,Gold,True,False,True,False,b'Michael Bruinsma',0.49
-Stun Sniper,Creature,Human Archer,Alara Reborn,Uncommon,2,Gold,True,False,True,True,b'Steve Prescott',0.1
-Lorescale Coatl,Creature,Snake,Alara Reborn,Uncommon,3,Gold,True,False,True,True,b'Greg Staples',0.16
-Nulltread Gargantuan,Creature,Beast,Alara Reborn,Uncommon,3,Gold,True,False,True,False,b'Anthony Francisco',0.24
-Sages of the Anima,Creature,Elf Wizard,Alara Reborn,Rare,5,Gold,True,False,True,False,b'Kev Walker',0.3
-Vedalken Heretic,Creature,Vedalken Rogue,Alara Reborn,Rare,2,Gold,True,False,True,False,b'Greg Staples',0.22
-Winged Coatl,Creature,Snake,Alara Reborn,Common,3,Gold,True,False,True,True,b'Izzy',0.24
-Enigma Sphinx,Artifact Creature,Sphinx,Alara Reborn,Rare,7,Gold,True,False,True,True,b'Chris Rahn',0.44
-Esper Sojourners,Artifact Creature,Vedalken Wizard,Alara Reborn,Common,3,Gold,True,False,True,False,b'John Avon',0.12
-Etherwrought Page,Artifact,None,Alara Reborn,Uncommon,4,Gold,True,False,True,False,b'Howard Lyon',0.19
-Sen Triplets,Legendary Artifact Creature,Human Wizard,Alara Reborn,Mythic Rare,5,Gold,True,False,True,True,b'Greg Staples',48.07
-Sphinx of the Steel Wind,Artifact Creature,Sphinx,Alara Reborn,Mythic Rare,8,Gold,True,False,True,True,b'Kev Walker',1.06
-Drastic Revelation,Sorcery,None,Alara Reborn,Uncommon,5,Gold,True,False,True,False,b'Trevor Claxton',0.09
-Grixis Sojourners,Creature,Zombie Ogre,Alara Reborn,Common,4,Gold,True,False,True,False,b'John Avon',0.04
-Thraximundar,Legendary Creature,Zombie Assassin,Alara Reborn,Mythic Rare,7,Gold,True,False,True,True,b'Raymond Swanland',1.34
-"Unscythe, Killer of Kings",Legendary Artifact,Equipment,Alara Reborn,Rare,4,Gold,True,False,True,False,b'Karl Kopinski',1.38
-Dragon Appeasement,Enchantment,None,Alara Reborn,Uncommon,6,Gold,True,False,True,False,b'Paul Bonner',0.12
-Jund Sojourners,Creature,Viashino Shaman,Alara Reborn,Common,3,Gold,True,False,True,False,b'John Avon',0.07
-"Karrthus, Tyrant of Jund",Legendary Creature,Dragon,Alara Reborn,Mythic Rare,7,Gold,True,False,True,True,b'Dave Kendall',21.37
-Lavalanche,Sorcery,None,Alara Reborn,Rare,4,Gold,True,False,True,True,b'Steve Argyle',0.38
-Madrush Cyclops,Creature,Cyclops Warrior,Alara Reborn,Rare,4,Gold,True,False,True,False,b'Wayne Reynolds',0.29
-Gloryscale Viashino,Creature,Viashino Soldier,Alara Reborn,Uncommon,4,Gold,True,False,True,False,b'Volkan Ba\xc7\xb5a',0.14
-Mayael's Aria,Enchantment,None,Alara Reborn,Rare,3,Gold,True,False,True,False,b'Steve Argyle',6.29
-Naya Sojourners,Creature,Elf Shaman,Alara Reborn,Common,5,Gold,True,False,True,True,b'John Avon',0.06
-Retaliator Griffin,Creature,Griffin,Alara Reborn,Rare,4,Gold,True,False,True,True,b'Jesper Ejsing',0.3
-"Uril, the Miststalker",Legendary Creature,Beast,Alara Reborn,Mythic Rare,5,Gold,True,False,True,False,b'Jaime Jones',9.43
-Bant Sojourners,Creature,Human Soldier,Alara Reborn,Common,4,Gold,True,False,True,False,b'John Avon',0.15
-Finest Hour,Enchantment,None,Alara Reborn,Rare,5,Gold,True,False,True,True,b'Michael Komarck',0.65
-Flurry of Wings,Instant,None,Alara Reborn,Uncommon,3,Gold,True,False,True,False,b'Matt Cavotta',0.33
-"Jenara, Asura of War",Legendary Creature,Angel,Alara Reborn,Mythic Rare,3,Gold,True,False,True,True,b'Chris Rahn',2.17
-Wargate,Sorcery,None,Alara Reborn,Rare,4,Gold,True,False,True,True,b'Franz Vohwinkel',6.04
-Maelstrom Nexus,Enchantment,None,Alara Reborn,Mythic Rare,5,Gold,True,False,True,True,b'Steven Belledin',14.19
-Arsenal Thresher,Artifact Creature,Construct,Alara Reborn,Common,5,Gold,True,False,True,True,b'Ralph Horsley',0.11
-Esper Stormblade,Artifact Creature,Vedalken Wizard,Alara Reborn,Common,3,Gold,True,False,True,False,b'Matt Stewart',0.17
-Thopter Foundry,Artifact,None,Alara Reborn,Uncommon,3,Gold,True,False,True,True,b'Ralph Horsley',1.93
-Grixis Grimblade,Creature,Zombie Warrior,Alara Reborn,Common,3,Gold,True,False,True,False,b'Trevor Claxton',0.21
-Sewn-Eye Drake,Creature,Zombie Drake,Alara Reborn,Common,5,Gold,True,False,True,False,b'Anthony S. Waters',0.08
-Slave of Bolas,Sorcery,None,Alara Reborn,Uncommon,6,Gold,True,False,True,True,b'Steve Argyle',0.45
-Giant Ambush Beetle,Creature,Insect,Alara Reborn,Uncommon,6,Gold,True,False,True,False,b'Carl Critchlow',0.1
-Jund Hackblade,Creature,Goblin Berserker,Alara Reborn,Common,3,Gold,True,False,True,False,b'Dan Dos Santos',0.28
-Sangrite Backlash,Enchantment,Aura,Alara Reborn,Common,3,Gold,True,False,True,False,b'Cyril Van Der Haegen',0.14
-Marisi's Twinclaws,Creature,Cat Warrior,Alara Reborn,Uncommon,5,Gold,True,False,True,True,b'Izzy',0.19
-Naya Hushblade,Creature,Elf Rogue,Alara Reborn,Common,3,Gold,True,False,True,False,b'Jason Chan',0.27
-Trace of Abundance,Enchantment,Aura,Alara Reborn,Common,3,Gold,True,False,True,False,b'Dave Kendall',0.24
-Bant Sureblade,Creature,Human Soldier,Alara Reborn,Common,3,Gold,True,False,True,False,b'Michael Komarck',0.19
-Crystallization,Enchantment,Aura,Alara Reborn,Common,3,Gold,True,False,True,False,b'Zoltan Boros',0.21
-Messenger Falcons,Creature,Bird,Alara Reborn,Uncommon,5,Gold,True,False,True,False,b'David Palumbo',0.14
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Ardent Plea,Enchantment,None,Alara Reborn,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Chippy',0.58,False
+Aven Mimeomancer,Creature,Bird Wizard,Alara Reborn,Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Jesper Ejsing',0.7,False
+Ethercaste Knight,Artifact Creature,Human Knight,Alara Reborn,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.13,False
+Ethersworn Shieldmage,Artifact Creature,Vedalken Wizard,Alara Reborn,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.11,False
+Fieldmist Borderpost,Artifact,None,Alara Reborn,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Bruinsma',0.25,False
+Filigree Angel,Artifact Creature,Angel,Alara Reborn,Rare,8,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Whitters',0.3,False
+Glassdust Hulk,Artifact Creature,Golem,Alara Reborn,Common,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',0.1,False
+Meddling Mage,Creature,Human Wizard,Alara Reborn,Rare,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Todd Lockwood',7.02,False
+Offering to Asha,Instant,None,Alara Reborn,Common,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Daarken',0.08,False
+Sanctum Plowbeast,Artifact Creature,Beast,Alara Reborn,Common,6,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony Francisco',0.18,False
+Shield of the Righteous,Artifact,Equipment,Alara Reborn,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'David Palumbo',0.16,False
+Sovereigns of Lost Alara,Creature,Spirit,Alara Reborn,Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.66,False
+Stormcaller's Boon,Enchantment,None,Alara Reborn,Common,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Brandon Kitkouski',0.08,False
+Talon Trooper,Creature,Bird Scout,Alara Reborn,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.08,False
+Unbender Tine,Artifact,None,Alara Reborn,Uncommon,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Hildebrandt',0.21,False
+Wall of Denial,Creature,Wall,Alara Reborn,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Howard Lyon',1.27,False
+Architects of Will,Artifact Creature,Human Wizard,Alara Reborn,Common,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.3,False
+Brainbite,Sorcery,None,Alara Reborn,Common,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Hyzer',0.07,False
+Deny Reality,Sorcery,None,Alara Reborn,Common,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jean-S\xc3\xa9bastien Rossbach',0.12,False
+Etherium Abomination,Artifact Creature,Horror,Alara Reborn,Common,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Mitch Cotie',0.1,False
+Illusory Demon,Creature,Demon Illusion,Alara Reborn,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Nils Hamm',0.16,False
+Jhessian Zombies,Creature,Zombie,Alara Reborn,Common,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Ash Wood',0.16,False
+Kathari Remnant,Creature,Bird Skeleton,Alara Reborn,Uncommon,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',0.11,False
+Lich Lord of Unx,Creature,Zombie Wizard,Alara Reborn,Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Allsop',7.8,False
+Mask of Riddles,Artifact,Equipment,Alara Reborn,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.35,False
+Mind Funeral,Sorcery,None,Alara Reborn,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',2.88,False
+Mistvein Borderpost,Artifact,None,Alara Reborn,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.25,False
+Nemesis of Reason,Creature,Leviathan Horror,Alara Reborn,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',5.62,False
+Soul Manipulation,Instant,None,Alara Reborn,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.24,False
+Soulquake,Sorcery,None,Alara Reborn,Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Warren Mahy',0.27,False
+Time Sieve,Artifact,None,Alara Reborn,Rare,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',9.86,False
+Vedalken Ghoul,Creature,Vedalken Zombie,Alara Reborn,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Kendall',0.18,False
+Anathemancer,Creature,Zombie Wizard,Alara Reborn,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Whitters',0.33,False
+Bituminous Blast,Instant,None,Alara Reborn,Uncommon,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.16,False
+Breath of Malfegor,Instant,None,Alara Reborn,Common,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Vance Kovacs',0.15,False
+Deathbringer Thoctar,Creature,Zombie Beast,Alara Reborn,Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.5,False
+Defiler of Souls,Creature,Demon,Alara Reborn,Mythic Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Paul Bonner',2.33,False
+Demonic Dread,Sorcery,None,Alara Reborn,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.24,False
+Demonspine Whip,Artifact,Equipment,Alara Reborn,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Hyzer',0.14,False
+Igneous Pouncer,Creature,Elemental,Alara Reborn,Common,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Chippy',0.12,False
+Kathari Bomber,Creature,Bird Shaman,Alara Reborn,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.08,False
+Lightning Reaver,Creature,Zombie Beast,Alara Reborn,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Cyril Van Der Haegen',0.69,False
+Monstrous Carabid,Creature,Insect,Alara Reborn,Common,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.27,False
+Sanity Gnawers,Creature,Rat,Alara Reborn,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.1,False
+Singe-Mind Ogre,Creature,Ogre Mutant,Alara Reborn,Common,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Daarken',0.09,False
+Terminate,Instant,None,Alara Reborn,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.7,False
+Thought Hemorrhage,Sorcery,None,Alara Reborn,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Chippy',0.21,False
+Veinfire Borderpost,Artifact,None,Alara Reborn,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Ralph Horsley',0.26,False
+Blitz Hellion,Creature,Hellion,Alara Reborn,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony S. Waters',0.26,False
+Bloodbraid Elf,Creature,Elf Berserker,Alara Reborn,Uncommon,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Dominick Domingo',1.43,False
+Colossal Might,Instant,None,Alara Reborn,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Sweet',0.24,False
+Deadshot Minotaur,Creature,Minotaur,Alara Reborn,Common,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Jason Chan',0.19,False
+Dragon Broodmother,Creature,Dragon,Alara Reborn,Mythic Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',14.71,False
+Firewild Borderpost,Artifact,None,Alara Reborn,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Jean-S\xc3\xa9bastien Rossbach',0.27,False
+Godtracker of Jund,Creature,Elf Shaman,Alara Reborn,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Justin Sweet',0.07,False
+Gorger Wurm,Creature,Wurm,Alara Reborn,Common,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.1,False
+Mage Slayer,Artifact,Equipment,Alara Reborn,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Lars Grant-West',1.4,False
+Predatory Advantage,Enchantment,None,Alara Reborn,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Raymond Swanland',0.35,False
+Rhox Brute,Creature,Rhino Warrior,Alara Reborn,Common,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.08,False
+Spellbreaker Behemoth,Creature,Beast,Alara Reborn,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',0.92,False
+Valley Rannet,Creature,Beast,Alara Reborn,Common,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Allsop',0.1,False
+Vengeful Rebirth,Sorcery,None,Alara Reborn,Uncommon,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Vance Kovacs',0.09,False
+Violent Outburst,Instant,None,Alara Reborn,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Richard Whitters',0.41,False
+Vithian Renegades,Creature,Human Shaman,Alara Reborn,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'rk post',0.24,False
+Behemoth Sledge,Artifact,Equipment,Alara Reborn,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.3,False
+Captured Sunlight,Sorcery,None,Alara Reborn,Common,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Nils Hamm',0.07,False
+Dauntless Escort,Creature,Rhino Soldier,Alara Reborn,Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',1.65,False
+Enlisted Wurm,Creature,Wurm,Alara Reborn,Uncommon,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.16,False
+Grizzled Leotau,Creature,Cat,Alara Reborn,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Lars Grant-West',0.28,False
+Knight of New Alara,Creature,Human Knight,Alara Reborn,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.73,False
+Knotvine Paladin,Creature,Human Knight,Alara Reborn,Rare,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.4,False
+Leonin Armorguard,Creature,Cat Soldier,Alara Reborn,Common,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Steven Belledin',0.11,False
+Mycoid Shepherd,Creature,Fungus,Alara Reborn,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Trevor Claxton',0.28,False
+Pale Recluse,Creature,Spider,Alara Reborn,Common,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Cyril Van Der Haegen',0.14,False
+Qasali Pridemage,Creature,Cat Wizard,Alara Reborn,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.71,False
+Reborn Hope,Sorcery,None,Alara Reborn,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Warren Mahy',0.28,False
+Sigil Captain,Creature,Rhino Soldier,Alara Reborn,Uncommon,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Howard Lyon',0.31,False
+Sigil of the Nayan Gods,Enchantment,Aura,Alara Reborn,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Warren Mahy',0.2,False
+Sigiled Behemoth,Creature,Beast,Alara Reborn,Common,6,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Donato Giancola',0.08,False
+Wildfield Borderpost,Artifact,None,Alara Reborn,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.22,False
+Identity Crisis,Sorcery,None,Alara Reborn,Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.47,False
+Necromancer's Covenant,Enchantment,None,Alara Reborn,Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Thomas M. Baxa',0.65,False
+Tainted Sigil,Artifact,None,Alara Reborn,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Chippy',0.59,False
+Vectis Dominator,Artifact Creature,Human Wizard,Alara Reborn,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.08,False
+Zealous Persecution,Instant,None,Alara Reborn,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.26,False
+Cloven Casting,Enchantment,None,Alara Reborn,Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Vance Kovacs',0.32,False
+Double Negative,Instant,None,Alara Reborn,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.16,False
+Magefire Wings,Enchantment,Aura,Alara Reborn,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.09,False
+Skyclaw Thrash,Artifact Creature,Viashino Warrior,Alara Reborn,Uncommon,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Jaime Jones',0.23,False
+Spellbound Dragon,Creature,Dragon,Alara Reborn,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.35,False
+Lord of Extinction,Creature,Elemental,Alara Reborn,Mythic Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',5.59,False
+Maelstrom Pulse,Sorcery,None,Alara Reborn,Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony Francisco',3.25,False
+Marrow Chomper,Creature,Zombie Lizard,Alara Reborn,Uncommon,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Lars Grant-West',0.21,False
+Morbid Bloom,Sorcery,None,Alara Reborn,Uncommon,6,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Trevor Claxton',0.24,False
+Putrid Leech,Creature,Zombie Leech,Alara Reborn,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Allsop',0.13,False
+Cerodon Yearling,Creature,Beast,Alara Reborn,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.12,False
+Fight to the Death,Instant,None,Alara Reborn,Rare,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Komarck',0.56,False
+Glory of Warfare,Enchantment,None,Alara Reborn,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',1.04,False
+Intimidation Bolt,Instant,None,Alara Reborn,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Bruinsma',0.53,False
+Stun Sniper,Creature,Human Archer,Alara Reborn,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.12,False
+Lorescale Coatl,Creature,Snake,Alara Reborn,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.2,False
+Nulltread Gargantuan,Creature,Beast,Alara Reborn,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony Francisco',0.23,False
+Sages of the Anima,Creature,Elf Wizard,Alara Reborn,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.28,False
+Vedalken Heretic,Creature,Vedalken Rogue,Alara Reborn,Rare,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.25,False
+Winged Coatl,Creature,Snake,Alara Reborn,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.22,False
+Enigma Sphinx,Artifact Creature,Sphinx,Alara Reborn,Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.47,False
+Esper Sojourners,Artifact Creature,Vedalken Wizard,Alara Reborn,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.14,False
+Etherwrought Page,Artifact,None,Alara Reborn,Uncommon,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Howard Lyon',0.22,False
+Sen Triplets,Artifact Creature,Human Wizard,Alara Reborn,Mythic Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',45.2,True
+Sphinx of the Steel Wind,Artifact Creature,Sphinx,Alara Reborn,Mythic Rare,8,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',1.14,False
+Drastic Revelation,Sorcery,None,Alara Reborn,Uncommon,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Trevor Claxton',0.09,False
+Grixis Sojourners,Creature,Zombie Ogre,Alara Reborn,Common,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.05,False
+Thraximundar,Creature,Zombie Assassin,Alara Reborn,Mythic Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',1.4,True
+Unscythe Killer of Kings,Artifact,Equipment,Alara Reborn,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Karl Kopinski',1.37,True
+Dragon Appeasement,Enchantment,None,Alara Reborn,Uncommon,6,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Paul Bonner',0.13,False
+Jund Sojourners,Creature,Viashino Shaman,Alara Reborn,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.07,False
+Karrthus Tyrant of Jund,Creature,Dragon,Alara Reborn,Mythic Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Kendall',16.93,True
+Lavalanche,Sorcery,None,Alara Reborn,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Argyle',0.38,False
+Madrush Cyclops,Creature,Cyclops Warrior,Alara Reborn,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne Reynolds',0.27,False
+Gloryscale Viashino,Creature,Viashino Soldier,Alara Reborn,Uncommon,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Volkan Ba\xc7\xb5a',0.14,False
+Mayael's Aria,Enchantment,None,Alara Reborn,Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Argyle',6.66,False
+Naya Sojourners,Creature,Elf Shaman,Alara Reborn,Common,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.07,False
+Retaliator Griffin,Creature,Griffin,Alara Reborn,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.3,False
+Uril the Miststalker,Creature,Beast,Alara Reborn,Mythic Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Jaime Jones',10.33,True
+Bant Sojourners,Creature,Human Soldier,Alara Reborn,Common,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.12,False
+Finest Hour,Enchantment,None,Alara Reborn,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Komarck',0.65,False
+Flurry of Wings,Instant,None,Alara Reborn,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.33,False
+Jenara Asura of War,Creature,Angel,Alara Reborn,Mythic Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',2.17,True
+Wargate,Sorcery,None,Alara Reborn,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',4.75,False
+Maelstrom Nexus,Enchantment,None,Alara Reborn,Mythic Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',11.96,False
+Arsenal Thresher,Artifact Creature,Construct,Alara Reborn,Common,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Ralph Horsley',0.11,False
+Esper Stormblade,Artifact Creature,Vedalken Wizard,Alara Reborn,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Stewart',0.18,False
+Thopter Foundry,Artifact,None,Alara Reborn,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Ralph Horsley',1.22,False
+Grixis Grimblade,Creature,Zombie Warrior,Alara Reborn,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Trevor Claxton',0.22,False
+Sewn-Eye Drake,Creature,Zombie Drake,Alara Reborn,Common,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony S. Waters',0.08,False
+Slave of Bolas,Sorcery,None,Alara Reborn,Uncommon,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Argyle',0.43,False
+Giant Ambush Beetle,Creature,Insect,Alara Reborn,Uncommon,6,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.11,False
+Jund Hackblade,Creature,Goblin Berserker,Alara Reborn,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Dos Santos',0.22,False
+Sangrite Backlash,Enchantment,Aura,Alara Reborn,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Cyril Van Der Haegen',0.13,False
+Marisi's Twinclaws,Creature,Cat Warrior,Alara Reborn,Uncommon,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.29,False
+Naya Hushblade,Creature,Elf Rogue,Alara Reborn,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Jason Chan',0.25,False
+Trace of Abundance,Enchantment,Aura,Alara Reborn,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Kendall',0.27,False
+Bant Sureblade,Creature,Human Soldier,Alara Reborn,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Komarck',0.16,False
+Crystallization,Enchantment,Aura,Alara Reborn,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.2,False
+Messenger Falcons,Creature,Bird,Alara Reborn,Uncommon,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'David Palumbo',0.16,False

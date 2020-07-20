@@ -1,181 +1,181 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Aurora Eidolon,Creature,Spirit,Dissension,Common,4,White,True,False,True,False,b'Justin Sweet',0.09
-Azorius Herald,Creature,Spirit,Dissension,Uncommon,3,White,True,False,True,True,b'Justin Sweet',0.23
-Beacon Hawk,Creature,Bird,Dissension,Common,2,White,True,False,True,False,b'William Simpson',0.1
-Blessing of the Nephilim,Enchantment,Aura,Dissension,Uncommon,1,White,True,False,True,False,b'Greg Hildebrandt',0.35
-Brace for Impact,Instant,None,Dissension,Uncommon,5,White,True,False,True,False,b'Dan Scott',0.09
-Carom,Instant,None,Dissension,Common,2,White,True,False,True,False,b'Alex Horley-Orlandelli',0.08
-Celestial Ancient,Creature,Elemental,Dissension,Rare,5,White,True,False,True,True,b'Mark Tedin',0.46
-Condemn,Instant,None,Dissension,Uncommon,1,White,True,False,True,True,b'Daren Bader',0.3
-Freewind Equenaut,Creature,Human Archer,Dissension,Common,3,White,True,False,True,True,b'Rebecca Guay',0.07
-Guardian of the Guildpact,Creature,Spirit,Dissension,Common,4,White,True,False,True,False,b'Fred Hooper',0.63
-Haazda Exonerator,Creature,Human Cleric,Dissension,Common,1,White,True,False,True,False,b'Kev Walker',0.04
-Haazda Shield Mate,Creature,Human Soldier,Dissension,Rare,3,White,True,False,True,False,b'Ron Spears',0.2
-Mistral Charger,Creature,Pegasus,Dissension,Uncommon,2,White,True,False,True,True,b'Terese Nielsen',0.1
-Paladin of Prahv,Creature,Human Knight,Dissension,Uncommon,6,White,True,False,True,True,b'William Simpson',0.13
-Proclamation of Rebirth,Sorcery,None,Dissension,Rare,3,White,True,False,True,True,b'William Simpson',3.41
-Proper Burial,Enchantment,None,Dissension,Rare,4,White,True,False,True,False,b'Luca Zontini',1.21
-Soulsworn Jury,Creature,Spirit,Dissension,Common,3,White,True,False,True,True,b'Zoltan Boros',0.15
-Steeling Stance,Instant,None,Dissension,Common,3,White,True,False,True,False,b'Randy Gallegos',0.07
-Stoic Ephemera,Creature,Spirit,Dissension,Uncommon,3,White,True,False,True,True,b'Randy Gallegos',0.1
-Valor Made Real,Instant,None,Dissension,Common,1,White,True,False,True,True,b'Jeff Miracola',0.09
-Wakestone Gargoyle,Creature,Gargoyle,Dissension,Rare,4,White,True,False,True,True,b'Jim Murray',0.27
-Court Hussar,Creature,Vedalken Knight,Dissension,Uncommon,3,Blue,True,False,True,True,b'Ron Spears',0.1
-Cytoplast Manipulator,Creature,Human Wizard Mutant,Dissension,Rare,4,Blue,True,False,True,False,b'Dan Scott',5.27
-Enigma Eidolon,Creature,Spirit,Dissension,Common,4,Blue,True,False,True,False,b'Shishizaru',0.08
-Govern the Guildless,Sorcery,None,Dissension,Rare,6,Blue,True,False,True,False,b'Alex Horley-Orlandelli',0.26
-Helium Squirter,Creature,Beast Mutant,Dissension,Common,5,Blue,True,False,True,True,b'Hideaki Takamura',0.09
-Novijen Sages,Creature,Human Advisor Mutant,Dissension,Rare,6,Blue,True,False,True,True,b'Luca Zontini',0.28
-Ocular Halo,Enchantment,Aura,Dissension,Common,4,Blue,True,False,True,False,b'Ralph Horsley',0.09
-Plaxmanta,Creature,Beast,Dissension,Uncommon,2,Blue,True,False,True,True,b'Alan Pollack',0.15
-Psychic Possession,Enchantment,Aura,Dissension,Rare,4,Blue,True,False,True,False,b'Mark Tedin',2.36
-Silkwing Scout,Creature,Faerie Scout,Dissension,Common,3,Blue,True,False,True,False,b'Rebecca Guay',0.1
-Skyscribing,Sorcery,None,Dissension,Uncommon,3,Blue,True,False,True,True,b'Luca Zontini',0.24
-Spell Snare,Instant,None,Dissension,Uncommon,1,Blue,True,False,True,True,b'Hideaki Takamura',1.31
-Tidespout Tyrant,Creature,Djinn,Dissension,Rare,8,Blue,True,False,True,True,b'Dany Orizio',1.75
-Vigean Graftmage,Creature,Vedalken Wizard Mutant,Dissension,Uncommon,3,Blue,True,False,True,True,b'Alan Pollack',0.22
-Vision Skeins,Instant,None,Dissension,Common,2,Blue,True,False,True,True,b'Aleksi Briclot',0.17
-Writ of Passage,Enchantment,Aura,Dissension,Common,1,Blue,True,False,True,False,b'Luca Zontini',0.13
-Bond of Agony,Sorcery,None,Dissension,Uncommon,2,Black,True,False,True,False,b'Luca Zontini',0.66
-Brain Pry,Sorcery,None,Dissension,Uncommon,2,Black,True,False,True,False,b'Jim Nelson',0.15
-Crypt Champion,Creature,Zombie,Dissension,Uncommon,4,Black,True,False,True,True,b'Pete Venters',0.15
-Delirium Skeins,Sorcery,None,Dissension,Common,3,Black,True,False,True,True,b'Aleksi Briclot',0.15
-Demon's Jester,Creature,Imp,Dissension,Common,4,Black,True,False,True,True,b'Pete Venters',0.08
-Drekavac,Creature,Beast,Dissension,Uncommon,2,Black,True,False,True,False,b'Carl Critchlow',0.09
-Enemy of the Guildpact,Creature,Spirit,Dissension,Common,5,Black,True,False,True,False,b'Fred Hooper',0.05
-Entropic Eidolon,Creature,Spirit,Dissension,Common,4,Black,True,False,True,False,b'Aleksi Briclot',0.07
-Infernal Tutor,Sorcery,None,Dissension,Rare,2,Black,True,False,True,False,b'Kev Walker',7.29
-Macabre Waltz,Sorcery,None,Dissension,Common,2,Black,True,False,True,True,b'Jim Murray',0.08
-Nettling Curse,Enchantment,Aura,Dissension,Common,3,Black,True,False,True,False,b'Jeremy Jarvis',0.09
-Nightcreep,Instant,None,Dissension,Uncommon,2,Black,True,False,True,False,b'Jeff Miracola',0.16
-Nihilistic Glee,Enchantment,None,Dissension,Rare,4,Black,True,False,True,False,b'Ron Spears',0.15
-Ragamuffyn,Creature,Zombie Cleric,Dissension,Uncommon,3,Black,True,False,True,False,b'rk post',0.11
-Ratcatcher,Creature,Ogre Rogue,Dissension,Rare,6,Black,True,False,True,True,b'Dan Scott',0.9
-Seal of Doom,Enchantment,None,Dissension,Common,3,Black,True,False,True,True,b'Ralph Horsley',0.11
-Slaughterhouse Bouncer,Creature,Ogre Warrior,Dissension,Common,5,Black,True,False,True,False,b'Greg Staples',0.07
-Slithering Shade,Creature,Shade,Dissension,Uncommon,1,Black,True,False,True,False,b'Daren Bader',0.1
-Unliving Psychopath,Creature,Zombie Assassin,Dissension,Rare,4,Black,True,False,True,False,b'Greg Staples',0.24
-Vesper Ghoul,Creature,Zombie Druid,Dissension,Common,3,Black,True,False,True,True,b'Thomas M. Baxa',0.12
-Wit's End,Sorcery,None,Dissension,Rare,7,Black,True,False,True,True,b'Kev Walker',0.3
-Cackling Flames,Instant,None,Dissension,Common,4,Red,True,False,True,True,b'Shishizaru',0.07
-Demonfire,Sorcery,None,Dissension,Rare,2,Red,True,False,True,True,b'Greg Staples',0.38
-Flame-Kin War Scout,Creature,Elemental Scout,Dissension,Uncommon,4,Red,True,False,True,False,b'Fred Hooper',0.09
-Flaring Flame-Kin,Creature,Elemental Warrior,Dissension,Uncommon,3,Red,True,False,True,True,b'Brian Hagan',0.08
-Gnat Alley Creeper,Creature,Human Rogue,Dissension,Uncommon,3,Red,True,False,True,False,b'Pete Venters',0.12
-Ignorant Bliss,Instant,None,Dissension,Uncommon,2,Red,True,False,True,False,b'Jeff Miracola',0.11
-Kill-Suit Cultist,Creature,Goblin Berserker,Dissension,Common,1,Red,True,False,True,False,b'Alex Horley-Orlandelli',0.07
-Kindle the Carnage,Sorcery,None,Dissension,Uncommon,3,Red,True,False,True,False,b'Dany Orizio',0.12
-Ogre Gatecrasher,Creature,Ogre Rogue,Dissension,Common,4,Red,True,False,True,True,b'Daren Bader',0.1
-Psychotic Fury,Instant,None,Dissension,Common,2,Red,True,False,True,False,b'Kev Walker',0.43
-Rakdos Pit Dragon,Creature,Dragon,Dissension,Rare,4,Red,True,False,True,True,b'Kev Walker',0.41
-Sandstorm Eidolon,Creature,Spirit,Dissension,Common,4,Red,True,False,True,False,b'Brian Hagan',0.05
-Seal of Fire,Enchantment,None,Dissension,Common,1,Red,True,False,True,True,b'Ralph Horsley',0.16
-Squealing Devil,Creature,Devil,Dissension,Uncommon,2,Red,True,False,True,False,b'Matt Cavotta',0.09
-Stalking Vengeance,Creature,Avatar,Dissension,Rare,7,Red,True,False,True,True,b'Anthony S. Waters',0.84
-Stormscale Anarch,Creature,Viashino Shaman,Dissension,Rare,4,Red,True,False,True,False,b'Ralph Horsley',0.15
-Taste for Mayhem,Enchantment,Aura,Dissension,Common,1,Red,True,False,True,False,b'Greg Hildebrandt',0.13
-Utvara Scalper,Creature,Goblin Scout,Dissension,Common,2,Red,True,False,True,False,b'Christopher Rush',0.07
-War's Toll,Enchantment,None,Dissension,Rare,4,Red,True,False,True,True,b'Dana Knutson',1.5
-Weight of Spires,Instant,None,Dissension,Uncommon,1,Red,True,False,True,False,b'Michael Sutfin',0.09
-Whiptail Moloch,Creature,Lizard,Dissension,Common,5,Red,True,False,True,False,b'Darrell Riche',0.06
-Aquastrand Spider,Creature,Spider Mutant,Dissension,Common,2,Green,True,False,True,True,b'Dany Orizio',0.11
-Cytoplast Root-Kin,Creature,Elemental Mutant,Dissension,Rare,4,Green,True,False,True,True,b'Thomas M. Baxa',0.52
-Cytospawn Shambler,Creature,Elemental Mutant,Dissension,Common,7,Green,True,False,True,False,b'Anthony S. Waters',0.11
-Elemental Resonance,Enchantment,Aura,Dissension,Rare,4,Green,True,False,True,False,b'Mark Tedin',0.82
-Fertile Imagination,Sorcery,None,Dissension,Uncommon,4,Green,True,False,True,True,b'Dan Scott',0.21
-Flash Foliage,Instant,None,Dissension,Uncommon,3,Green,True,False,True,False,b'Ron Spears',0.11
-Indrik Stomphowler,Creature,Beast,Dissension,Uncommon,5,Green,True,False,True,True,b'Carl Critchlow',0.11
-Loaming Shaman,Creature,Centaur Shaman,Dissension,Rare,3,Green,True,True,True,True,b'Carl Critchlow',0.58
-Might of the Nephilim,Instant,None,Dissension,Uncommon,2,Green,True,False,True,False,b'Paolo Parente',0.14
-Patagia Viper,Creature,Snake,Dissension,Uncommon,4,Green,True,False,True,True,b'Christopher Moeller',0.17
-Protean Hulk,Creature,Beast,Dissension,Rare,7,Green,True,False,True,True,b'Matt Cavotta',7.55
-Simic Basilisk,Creature,Basilisk Mutant,Dissension,Uncommon,6,Green,True,False,True,False,b'Luca Zontini',0.14
-Simic Initiate,Creature,Human Mutant,Dissension,Common,1,Green,True,False,True,True,b'Dany Orizio',0.12
-Simic Ragworm,Creature,Worm,Dissension,Common,4,Green,True,False,True,False,b'Nick Percival',0.1
-Sporeback Troll,Creature,Troll Mutant,Dissension,Common,4,Green,True,False,True,False,b'Dan Scott',0.21
-Sprouting Phytohydra,Creature,Plant Hydra,Dissension,Rare,5,Green,True,False,True,False,b'Heather Hudson',3.04
-Stomp and Howl,Sorcery,None,Dissension,Uncommon,3,Green,True,False,True,False,b'Carl Critchlow',0.11
-Street Savvy,Enchantment,Aura,Dissension,Common,1,Green,True,False,True,False,b'Kev Walker',0.05
-Thrive,Sorcery,None,Dissension,Common,2,Green,True,False,True,True,b'Daren Bader',0.12
-Utopia Sprawl,Enchantment,Aura,Dissension,Common,1,Green,True,False,True,True,b'Ron Spears',3.5
-Verdant Eidolon,Creature,Spirit,Dissension,Common,4,Green,True,False,True,True,b'Tsutomu Kawade',0.11
-Aethermage's Touch,Instant,None,Dissension,Rare,4,Gold,True,False,True,True,b'Randy Gallegos',0.15
-Anthem of Rakdos,Enchantment,None,Dissension,Rare,5,Gold,True,False,True,False,b'Ralph Horsley',0.41
-Assault Zeppelid,Creature,Beast,Dissension,Common,4,Gold,True,False,True,False,b'Jeremy Jarvis',0.12
-Azorius Aethermage,Creature,Human Wizard,Dissension,Uncommon,3,Gold,True,False,True,False,b'Heather Hudson',0.14
-Azorius First-Wing,Creature,Griffin,Dissension,Common,2,Gold,True,False,True,False,b'Alex Horley-Orlandelli',0.08
-Azorius Ploy,Instant,None,Dissension,Uncommon,4,Gold,True,False,True,False,b'Michael Sutfin',0.09
-Coiling Oracle,Creature,Snake Elf Druid,Dissension,Common,2,Gold,True,False,True,True,b'Mark Zug',0.24
-Cytoshape,Instant,None,Dissension,Rare,3,Gold,True,False,True,False,b'Alan Pollack',0.31
-Dread Slag,Creature,Horror,Dissension,Rare,5,Gold,True,False,True,False,b'Anthony S. Waters',0.22
-Experiment Kraj,Legendary Creature,Ooze Mutant,Dissension,Rare,6,Gold,True,False,True,True,b'Mark Tedin',1.8
-Gobhobbler Rats,Creature,Rat,Dissension,Common,2,Gold,True,False,True,False,b'Michael Sutfin',0.09
-Grand Arbiter Augustin IV,Legendary Creature,Human Advisor,Dissension,Rare,4,Gold,True,False,True,True,b'Zoltan Boros',16.11
-Hellhole Rats,Creature,Rat,Dissension,Uncommon,4,Gold,True,False,True,False,b'Kev Walker',0.26
-Isperia the Inscrutable,Legendary Creature,Sphinx,Dissension,Rare,5,Gold,True,False,True,True,b'Greg Staples',0.2
-Jagged Poppet,Creature,Ogre Warrior,Dissension,Uncommon,3,Gold,True,False,True,True,b'Jeff Miracola',0.13
-Leafdrake Roost,Enchantment,Aura,Dissension,Uncommon,5,Gold,True,False,True,True,b'Nick Percival',0.11
-"Lyzolda, the Blood Witch",Legendary Creature,Human Cleric,Dissension,Rare,3,Gold,True,False,True,True,b'Jim Nelson',0.29
-"Momir Vig, Simic Visionary",Legendary Creature,Elf Wizard,Dissension,Rare,5,Gold,True,False,True,True,b'Zoltan Boros',1.89
-Omnibian,Creature,Frog,Dissension,Rare,4,Gold,True,False,True,True,b'Jim Nelson',0.34
-Overrule,Instant,None,Dissension,Common,3,Gold,True,False,True,True,b'Alan Pollack',0.11
-Pain Magnification,Enchantment,None,Dissension,Uncommon,3,Gold,True,False,True,False,b'Aleksi Briclot',1.01
-Palliation Accord,Enchantment,None,Dissension,Uncommon,5,Gold,True,False,True,False,b'William Simpson',0.21
-Plaxcaster Frogling,Creature,Frog Mutant,Dissension,Uncommon,3,Gold,True,False,True,True,b'Greg Staples',0.39
-Plumes of Peace,Enchantment,Aura,Dissension,Common,3,Gold,True,False,True,True,b'Justin Sweet',0.09
-Pride of the Clouds,Creature,Elemental Cat,Dissension,Rare,2,Gold,True,False,True,True,b'Rebecca Guay',2.61
-Rain of Gore,Enchantment,None,Dissension,Rare,2,Gold,True,False,True,False,b'Fred Hooper',4.04
-Rakdos Augermage,Creature,Human Wizard,Dissension,Rare,3,Gold,True,False,True,False,b'Zoltan Boros',0.33
-Rakdos Ickspitter,Creature,Thrull,Dissension,Common,3,Gold,True,False,True,False,b'Christopher Rush',0.13
-Rakdos the Defiler,Legendary Creature,Demon,Dissension,Rare,6,Gold,True,False,True,True,b'Zoltan Boros',1.29
-Simic Sky Swallower,Creature,Leviathan,Dissension,Rare,7,Gold,True,False,True,True,b'rk post',0.36
-Sky Hussar,Creature,Human Knight,Dissension,Uncommon,5,Gold,True,False,True,True,b'Kev Walker',0.26
-Swift Silence,Instant,None,Dissension,Rare,5,Gold,True,False,True,False,b'Greg Staples',0.26
-Trygon Predator,Creature,Beast,Dissension,Uncommon,3,Gold,True,False,True,True,b'Carl Critchlow',0.37
-Twinstrike,Instant,None,Dissension,Uncommon,5,Gold,True,False,True,False,b'Christopher Rush',0.1
-Vigean Hydropon,Creature,Plant Mutant,Dissension,Common,3,Gold,True,False,True,False,b'Anthony S. Waters',0.14
-Vigean Intuition,Instant,None,Dissension,Uncommon,5,Gold,True,False,True,False,b'Alex Horley-Orlandelli',0.06
-Voidslime,Instant,None,Dissension,Rare,3,Gold,True,False,True,True,b'Jim Murray',4.18
-Windreaver,Creature,Elemental,Dissension,Rare,5,Gold,True,False,True,True,b'Aleksi Briclot',0.23
-Wrecking Ball,Instant,None,Dissension,Common,4,Gold,True,False,True,True,b'Ron Spears',0.13
-Avatar of Discord,Creature,Avatar,Dissension,Rare,6,Gold,True,False,True,True,b'rk post',0.84
-Azorius Guildmage,Creature,Vedalken Wizard,Dissension,Uncommon,4,Gold,True,False,True,True,b'Christopher Moeller',0.29
-Biomantic Mastery,Sorcery,None,Dissension,Rare,10,Gold,True,False,True,True,b'Dan Scott',0.35
-Dovescape,Enchantment,None,Dissension,Rare,9,Gold,True,False,True,True,b'Shishizaru',1.09
-Minister of Impediments,Creature,Human Advisor,Dissension,Common,4,Gold,True,False,True,False,b'Brian Hagan',0.12
-Rakdos Guildmage,Creature,Zombie Shaman,Dissension,Uncommon,4,Gold,True,False,True,True,b'Jeremy Jarvis',0.12
-Riot Spikes,Enchantment,Aura,Dissension,Common,2,Gold,True,False,True,True,b'Christopher Moeller',0.14
-Shielding Plax,Enchantment,Aura,Dissension,Common,4,Gold,True,False,True,True,b'Brian Hagan',0.12
-Simic Guildmage,Creature,Elf Wizard,Dissension,Uncommon,4,Gold,True,False,True,False,b'Aleksi Briclot',0.43
-Bound,Instant,None,Dissension,Rare,5,Gold,True,False,True,False,b'Jim Nelson',0.42
-Crime,Sorcery,None,Dissension,Rare,5,Gold,True,False,True,False,b'Randy Gallegos',0.64
-Hide,Instant,None,Dissension,Rare,2,Gold,True,False,True,False,b'Zoltan Boros',2.18
-Hit,Instant,None,Dissension,Uncommon,3,Gold,True,False,True,False,b'Darrell Riche',0.14
-Odds,Instant,None,Dissension,Rare,2,Gold,True,False,True,False,b'Michael Sutfin',0.5
-Pure,Sorcery,None,Dissension,Uncommon,3,Gold,True,False,True,False,b'Paolo Parente',0.11
-Research,Instant,None,Dissension,Rare,2,Gold,True,False,True,False,b'Greg Staples',0.54
-Rise,Sorcery,None,Dissension,Uncommon,2,Gold,True,False,True,True,b'Pete Venters',0.34
-Supply,Sorcery,None,Dissension,Uncommon,3,Gold,True,False,True,True,b'Daren Bader',0.28
-Trial,Instant,None,Dissension,Uncommon,2,Gold,True,False,True,True,b'Ron Spears',0.08
-Azorius Signet,Artifact,None,Dissension,Common,2,Colorless,True,False,True,True,b'Greg Hildebrandt',1.39
-Bronze Bombshell,Artifact Creature,Construct,Dissension,Rare,4,Colorless,True,False,True,False,b'Martina Pilcerova',1.31
-Evolution Vat,Artifact,None,Dissension,Rare,3,Colorless,True,False,True,False,b'John Avon',0.53
-Magewright's Stone,Artifact,None,Dissension,Uncommon,2,Colorless,True,False,True,True,b'Carl Critchlow',2.84
-Muse Vessel,Artifact,None,Dissension,Rare,4,Colorless,True,False,True,False,b'Christopher Rush',0.3
-Rakdos Riteknife,Artifact,Equipment,Dissension,Rare,2,Colorless,True,False,True,False,b'Jim Nelson',0.29
-Rakdos Signet,Artifact,None,Dissension,Common,2,Colorless,True,False,True,True,b'Greg Hildebrandt',1.02
-Simic Signet,Artifact,None,Dissension,Common,2,Colorless,True,False,True,True,b'Greg Hildebrandt',0.44
-Skullmead Cauldron,Artifact,None,Dissension,Uncommon,4,Colorless,True,False,True,False,b'Martina Pilcerova',0.09
-Transguild Courier,Artifact Creature,Golem,Dissension,Uncommon,4,Colorless,True,False,True,False,b'John Avon',0.32
-Walking Archive,Artifact Creature,Golem,Dissension,Rare,3,Colorless,True,False,True,False,b'Heather Hudson',3.26
-Azorius Chancery,Land,None,Dissension,Common,0,Colorless,True,False,True,True,b'John Avon',0.21
-Blood Crypt,Land,Swamp Mountain,Dissension,Rare,0,Colorless,True,True,True,True,b'Rob Alexander',23.16
-Breeding Pool,Land,Forest Island,Dissension,Rare,0,Colorless,True,True,True,True,b'Rob Alexander',33.32
-Ghost Quarter,Land,None,Dissension,Uncommon,0,Colorless,True,False,True,True,b'Heather Hudson',2.22
-Hallowed Fountain,Land,Plains Island,Dissension,Rare,0,Colorless,True,True,True,True,b'Rob Alexander',28.26
-"Novijen, Heart of Progress",Land,None,Dissension,Uncommon,0,Colorless,True,False,True,True,b'Martina Pilcerova',0.64
-Pillar of the Paruns,Land,None,Dissension,Rare,0,Colorless,True,False,True,False,b'Dany Orizio',17.82
-"Prahv, Spires of Order",Land,None,Dissension,Uncommon,0,Colorless,True,False,True,False,b'Martina Pilcerova',0.27
-Rakdos Carnarium,Land,None,Dissension,Common,0,Colorless,True,False,True,True,b'John Avon',0.25
-"Rix Maadi, Dungeon Palace",Land,None,Dissension,Uncommon,0,Colorless,True,False,True,True,b'Martina Pilcerova',0.27
-Simic Growth Chamber,Land,None,Dissension,Common,0,Colorless,True,False,True,True,b'John Avon',0.46
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Aurora Eidolon,Creature,Spirit,Dissension,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Justin Sweet',0.09,False
+Azorius Herald,Creature,Spirit,Dissension,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Sweet',0.23,False
+Beacon Hawk,Creature,Bird,Dissension,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'William Simpson',0.1,False
+Blessing of the Nephilim,Enchantment,Aura,Dissension,Uncommon,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Hildebrandt',0.37,False
+Brace for Impact,Instant,None,Dissension,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.08,False
+Carom,Instant,None,Dissension,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Alex Horley-Orlandelli',0.08,False
+Celestial Ancient,Creature,Elemental,Dissension,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.48,False
+Condemn,Instant,None,Dissension,Uncommon,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.3,False
+Freewind Equenaut,Creature,Human Archer,Dissension,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',0.09,False
+Guardian of the Guildpact,Creature,Spirit,Dissension,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Fred Hooper',0.63,False
+Haazda Exonerator,Creature,Human Cleric,Dissension,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.04,False
+Haazda Shield Mate,Creature,Human Soldier,Dissension,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spears',0.2,False
+Mistral Charger,Creature,Pegasus,Dissension,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.1,False
+Paladin of Prahv,Creature,Human Knight,Dissension,Uncommon,6,White,Legal,Not Legal,Legal,Legal,Legal,True,b'William Simpson',0.12,False
+Proclamation of Rebirth,Sorcery,None,Dissension,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'William Simpson',2.55,False
+Proper Burial,Enchantment,None,Dissension,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Luca Zontini',1.2,False
+Soulsworn Jury,Creature,Spirit,Dissension,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.15,False
+Steeling Stance,Instant,None,Dissension,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Gallegos',0.07,False
+Stoic Ephemera,Creature,Spirit,Dissension,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.08,False
+Valor Made Real,Instant,None,Dissension,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.1,False
+Wakestone Gargoyle,Creature,Gargoyle,Dissension,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Murray',0.27,False
+Court Hussar,Creature,Vedalken Knight,Dissension,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spears',0.13,False
+Cytoplast Manipulator,Creature,Human Wizard Mutant,Dissension,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',5.24,False
+Enigma Eidolon,Creature,Spirit,Dissension,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Shishizaru',0.07,False
+Govern the Guildless,Sorcery,None,Dissension,Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Alex Horley-Orlandelli',0.25,False
+Helium Squirter,Creature,Beast Mutant,Dissension,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Hideaki Takamura',0.1,False
+Novijen Sages,Creature,Human Advisor Mutant,Dissension,Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Luca Zontini',0.34,False
+Ocular Halo,Enchantment,Aura,Dissension,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Ralph Horsley',0.09,False
+Plaxmanta,Creature,Beast,Dissension,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.15,False
+Psychic Possession,Enchantment,Aura,Dissension,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',2.24,False
+Silkwing Scout,Creature,Faerie Scout,Dissension,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Rebecca Guay',0.07,False
+Skyscribing,Sorcery,None,Dissension,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Luca Zontini',0.25,False
+Spell Snare,Instant,None,Dissension,Uncommon,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Hideaki Takamura',1.13,False
+Tidespout Tyrant,Creature,Djinn,Dissension,Rare,8,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Dany Orizio',1.74,False
+Vigean Graftmage,Creature,Vedalken Wizard Mutant,Dissension,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.23,False
+Vision Skeins,Instant,None,Dissension,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',0.16,False
+Writ of Passage,Enchantment,Aura,Dissension,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Luca Zontini',0.12,False
+Bond of Agony,Sorcery,None,Dissension,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Luca Zontini',0.66,False
+Brain Pry,Sorcery,None,Dissension,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.13,False
+Crypt Champion,Creature,Zombie,Dissension,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.14,False
+Delirium Skeins,Sorcery,None,Dissension,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',0.21,False
+Demon's Jester,Creature,Imp,Dissension,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.08,False
+Drekavac,Creature,Beast,Dissension,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.07,False
+Enemy of the Guildpact,Creature,Spirit,Dissension,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Fred Hooper',0.12,False
+Entropic Eidolon,Creature,Spirit,Dissension,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Aleksi Briclot',0.07,False
+Infernal Tutor,Sorcery,None,Dissension,Rare,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',5.63,False
+Macabre Waltz,Sorcery,None,Dissension,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Murray',0.11,False
+Nettling Curse,Enchantment,Aura,Dissension,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Jeremy Jarvis',0.09,False
+Nightcreep,Instant,None,Dissension,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Miracola',0.15,False
+Nihilistic Glee,Enchantment,None,Dissension,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spears',0.17,False
+Ragamuffyn,Creature,Zombie Cleric,Dissension,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'rk post',0.11,False
+Ratcatcher,Creature,Ogre Rogue,Dissension,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',1.07,False
+Seal of Doom,Enchantment,None,Dissension,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Ralph Horsley',0.1,False
+Slaughterhouse Bouncer,Creature,Ogre Warrior,Dissension,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.08,False
+Slithering Shade,Creature,Shade,Dissension,Uncommon,1,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.11,False
+Unliving Psychopath,Creature,Zombie Assassin,Dissension,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.25,False
+Vesper Ghoul,Creature,Zombie Druid,Dissension,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Thomas M. Baxa',0.14,False
+Wit's End,Sorcery,None,Dissension,Rare,7,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.29,False
+Cackling Flames,Instant,None,Dissension,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Shishizaru',0.07,False
+Demonfire,Sorcery,None,Dissension,Rare,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.46,False
+Flame-Kin War Scout,Creature,Elemental Scout,Dissension,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Fred Hooper',0.09,False
+Flaring Flame-Kin,Creature,Elemental Warrior,Dissension,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Hagan',0.1,False
+Gnat Alley Creeper,Creature,Human Rogue,Dissension,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.1,False
+Ignorant Bliss,Instant,None,Dissension,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Miracola',0.12,False
+Kill-Suit Cultist,Creature,Goblin Berserker,Dissension,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Alex Horley-Orlandelli',0.07,False
+Kindle the Carnage,Sorcery,None,Dissension,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Dany Orizio',0.14,False
+Ogre Gatecrasher,Creature,Ogre Rogue,Dissension,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.11,False
+Psychotic Fury,Instant,None,Dissension,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.66,False
+Rakdos Pit Dragon,Creature,Dragon,Dissension,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.38,False
+Sandstorm Eidolon,Creature,Spirit,Dissension,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Brian Hagan',0.06,False
+Seal of Fire,Enchantment,None,Dissension,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ralph Horsley',0.29,False
+Squealing Devil,Creature,Devil,Dissension,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.1,False
+Stalking Vengeance,Creature,Avatar,Dissension,Rare,7,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',0.87,False
+Stormscale Anarch,Creature,Viashino Shaman,Dissension,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Ralph Horsley',0.12,False
+Taste for Mayhem,Enchantment,Aura,Dissension,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Hildebrandt',0.15,False
+Utvara Scalper,Creature,Goblin Scout,Dissension,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Rush',0.07,False
+War's Toll,Enchantment,None,Dissension,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dana Knutson',1.98,False
+Weight of Spires,Instant,None,Dissension,Uncommon,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',0.12,False
+Whiptail Moloch,Creature,Lizard,Dissension,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Darrell Riche',0.06,False
+Aquastrand Spider,Creature,Spider Mutant,Dissension,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Dany Orizio',0.11,False
+Cytoplast Root-Kin,Creature,Elemental Mutant,Dissension,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Thomas M. Baxa',0.53,False
+Cytospawn Shambler,Creature,Elemental Mutant,Dissension,Common,7,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony S. Waters',0.13,False
+Elemental Resonance,Enchantment,Aura,Dissension,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',0.93,False
+Fertile Imagination,Sorcery,None,Dissension,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.22,False
+Flash Foliage,Instant,None,Dissension,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spears',0.13,False
+Indrik Stomphowler,Creature,Beast,Dissension,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.11,False
+Loaming Shaman,Creature,Centaur Shaman,Dissension,Rare,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.58,False
+Might of the Nephilim,Instant,None,Dissension,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.17,False
+Patagia Viper,Creature,Snake,Dissension,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.16,False
+Protean Hulk,Creature,Beast,Dissension,Rare,7,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',9.32,False
+Simic Basilisk,Creature,Basilisk Mutant,Dissension,Uncommon,6,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Luca Zontini',0.15,False
+Simic Initiate,Creature,Human Mutant,Dissension,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Dany Orizio',0.14,False
+Simic Ragworm,Creature,Worm,Dissension,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Nick Percival',0.1,False
+Sporeback Troll,Creature,Troll Mutant,Dissension,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.19,False
+Sprouting Phytohydra,Creature,Plant Hydra,Dissension,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',3.03,False
+Stomp and Howl,Sorcery,None,Dissension,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.09,False
+Street Savvy,Enchantment,Aura,Dissension,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.07,False
+Thrive,Sorcery,None,Dissension,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.12,False
+Utopia Sprawl,Enchantment,Aura,Dissension,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spears',5.33,False
+Verdant Eidolon,Creature,Spirit,Dissension,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Tsutomu Kawade',0.11,False
+Aethermage's Touch,Instant,None,Dissension,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.17,False
+Anthem of Rakdos,Enchantment,None,Dissension,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Ralph Horsley',0.47,False
+Assault Zeppelid,Creature,Beast,Dissension,Common,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Jeremy Jarvis',0.12,False
+Azorius Aethermage,Creature,Human Wizard,Dissension,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.14,False
+Azorius First-Wing,Creature,Griffin,Dissension,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Alex Horley-Orlandelli',0.13,False
+Azorius Ploy,Instant,None,Dissension,Uncommon,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',0.09,False
+Coiling Oracle,Creature,Snake Elf Druid,Dissension,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.29,False
+Cytoshape,Instant,None,Dissension,Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Pollack',0.32,False
+Dread Slag,Creature,Horror,Dissension,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony S. Waters',0.2,False
+Experiment Kraj,Creature,Ooze Mutant,Dissension,Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',1.38,True
+Gobhobbler Rats,Creature,Rat,Dissension,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',0.1,False
+Grand Arbiter Augustin IV,Creature,Human Advisor,Dissension,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',16.57,True
+Hellhole Rats,Creature,Rat,Dissension,Uncommon,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.26,False
+Isperia the Inscrutable,Creature,Sphinx,Dissension,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.17,True
+Jagged Poppet,Creature,Ogre Warrior,Dissension,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.13,False
+Leafdrake Roost,Enchantment,Aura,Dissension,Uncommon,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Nick Percival',0.11,False
+Lyzolda the Blood Witch,Creature,Human Cleric,Dissension,Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Nelson',0.39,True
+Momir Vig Simic Visionary,Creature,Elf Wizard,Dissension,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',1.95,True
+Omnibian,Creature,Frog,Dissension,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Nelson',0.32,False
+Overrule,Instant,None,Dissension,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.13,False
+Pain Magnification,Enchantment,None,Dissension,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Aleksi Briclot',1.59,False
+Palliation Accord,Enchantment,None,Dissension,Uncommon,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'William Simpson',0.22,False
+Plaxcaster Frogling,Creature,Frog Mutant,Dissension,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.4,False
+Plumes of Peace,Enchantment,Aura,Dissension,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Sweet',0.09,False
+Pride of the Clouds,Creature,Elemental Cat,Dissension,Rare,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',2.7,False
+Rain of Gore,Enchantment,None,Dissension,Rare,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Fred Hooper',4.01,False
+Rakdos Augermage,Creature,Human Wizard,Dissension,Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.31,False
+Rakdos Ickspitter,Creature,Thrull,Dissension,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Rush',0.13,False
+Rakdos the Defiler,Creature,Demon,Dissension,Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',1.18,True
+Simic Sky Swallower,Creature,Leviathan,Dissension,Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',0.4,False
+Sky Hussar,Creature,Human Knight,Dissension,Uncommon,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.26,False
+Swift Silence,Instant,None,Dissension,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.26,False
+Trygon Predator,Creature,Beast,Dissension,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.35,False
+Twinstrike,Instant,None,Dissension,Uncommon,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Rush',0.12,False
+Vigean Hydropon,Creature,Plant Mutant,Dissension,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony S. Waters',0.14,False
+Vigean Intuition,Instant,None,Dissension,Uncommon,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Alex Horley-Orlandelli',0.07,False
+Voidslime,Instant,None,Dissension,Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Murray',4.91,False
+Windreaver,Creature,Elemental,Dissension,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',0.21,False
+Wrecking Ball,Instant,None,Dissension,Common,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spears',0.13,False
+Avatar of Discord,Creature,Avatar,Dissension,Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',0.8,False
+Azorius Guildmage,Creature,Vedalken Wizard,Dissension,Uncommon,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.25,False
+Biomantic Mastery,Sorcery,None,Dissension,Rare,10,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.39,False
+Dovescape,Enchantment,None,Dissension,Rare,9,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Shishizaru',1.24,False
+Minister of Impediments,Creature,Human Advisor,Dissension,Common,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Brian Hagan',0.1,False
+Rakdos Guildmage,Creature,Zombie Shaman,Dissension,Uncommon,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeremy Jarvis',0.11,False
+Riot Spikes,Enchantment,Aura,Dissension,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.09,False
+Shielding Plax,Enchantment,Aura,Dissension,Common,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Hagan',0.12,False
+Simic Guildmage,Creature,Elf Wizard,Dissension,Uncommon,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Aleksi Briclot',0.43,False
+Bound,Instant,None,Dissension,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.43,False
+Crime,Sorcery,None,Dissension,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Gallegos',0.66,False
+Hide,Instant,None,Dissension,Rare,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',1.66,False
+Hit,Instant,None,Dissension,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Darrell Riche',0.16,False
+Odds,Instant,None,Dissension,Rare,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',0.5,False
+Pure,Sorcery,None,Dissension,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.11,False
+Research,Instant,None,Dissension,Rare,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.56,False
+Rise,Sorcery,None,Dissension,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.34,False
+Supply,Sorcery,None,Dissension,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.29,False
+Trial,Instant,None,Dissension,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spears',0.09,False
+Azorius Signet,Artifact,None,Dissension,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Hildebrandt',1.6,False
+Bronze Bombshell,Artifact Creature,Construct,Dissension,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Martina Pilcerova',1.36,False
+Evolution Vat,Artifact,None,Dissension,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.53,False
+Magewright's Stone,Artifact,None,Dissension,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',3.63,False
+Muse Vessel,Artifact,None,Dissension,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Rush',0.33,False
+Rakdos Riteknife,Artifact,Equipment,Dissension,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.33,False
+Rakdos Signet,Artifact,None,Dissension,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Hildebrandt',1.18,False
+Simic Signet,Artifact,None,Dissension,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Hildebrandt',0.38,False
+Skullmead Cauldron,Artifact,None,Dissension,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Martina Pilcerova',0.09,False
+Transguild Courier,Artifact Creature,Golem,Dissension,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.31,False
+Walking Archive,Artifact Creature,Golem,Dissension,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',2.94,False
+Azorius Chancery,Land,None,Dissension,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.23,False
+Blood Crypt,Land,Swamp Mountain,Dissension,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',24.28,False
+Breeding Pool,Land,Forest Island,Dissension,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',34.22,False
+Ghost Quarter,Land,None,Dissension,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',2.14,False
+Hallowed Fountain,Land,Plains Island,Dissension,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',27.79,False
+Novijen Heart of Progress,Land,None,Dissension,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Martina Pilcerova',0.6,False
+Pillar of the Paruns,Land,None,Dissension,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Dany Orizio',15.03,False
+Prahv Spires of Order,Land,None,Dissension,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Martina Pilcerova',0.27,False
+Rakdos Carnarium,Land,None,Dissension,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.24,False
+Rix Maadi Dungeon Palace,Land,None,Dissension,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Martina Pilcerova',0.28,False
+Simic Growth Chamber,Land,None,Dissension,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.47,False

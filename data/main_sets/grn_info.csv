@@ -1,274 +1,274 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Blade Instructor,Creature,Human Soldier,Guilds of Ravnica,Common,3,White,True,True,True,True,b'Zoltan Boros',0.02
-Bounty Agent,Creature,Human Soldier,Guilds of Ravnica,Rare,2,White,True,True,True,True,b'Randy Vargas',0.29
-Candlelight Vigil,Enchantment,Aura,Guilds of Ravnica,Common,4,White,True,True,True,True,b'Alexander Forssberg',0.04
-Citywide Bust,Sorcery,None,Guilds of Ravnica,Rare,3,White,True,True,True,True,b'Victor Adame Minguez',0.29
-Collar the Culprit,Instant,None,Guilds of Ravnica,Common,4,White,True,True,True,True,b'Victor Adame Minguez',0.02
-Conclave Tribunal,Enchantment,None,Guilds of Ravnica,Uncommon,4,White,True,True,True,True,b'Seb McKinnon',0.19
-Crush Contraband,Instant,None,Guilds of Ravnica,Uncommon,4,White,True,True,True,True,b'Jason A. Engle',0.32
-Dawn of Hope,Enchantment,None,Guilds of Ravnica,Rare,2,White,True,True,True,True,b'Sung Choi',2.24
-Demotion,Enchantment,Aura,Guilds of Ravnica,Uncommon,1,White,True,True,True,True,b'Joe Slucher',0.07
-Divine Visitation,Enchantment,None,Guilds of Ravnica,Mythic Rare,5,White,True,True,True,True,b'Victor Adame Minguez',11.78
-Flight of Equenauts,Creature,Human Knight,Guilds of Ravnica,Uncommon,8,White,True,True,True,True,b'Zezhou Chen',0.03
-Gird for Battle,Sorcery,None,Guilds of Ravnica,Uncommon,1,White,True,True,True,True,b'Jakub Kasper',0.2
-Haazda Marshal,Creature,Human Soldier,Guilds of Ravnica,Uncommon,1,White,True,True,True,True,b'Josh Hass',0.15
-Healer's Hawk,Creature,Bird,Guilds of Ravnica,Common,1,White,True,True,True,True,b'Milivoj \xc4\x86eran',0.29
-Hunted Witness,Creature,Human,Guilds of Ravnica,Common,1,White,True,True,True,True,b'David Palumbo',0.12
-Inspiring Unicorn,Creature,Unicorn,Guilds of Ravnica,Uncommon,4,White,True,True,True,True,b'Even Amundsen',0.07
-Intrusive Packbeast,Creature,Beast,Guilds of Ravnica,Common,5,White,True,True,True,True,b'Jason Felix',0.01
-Ledev Guardian,Creature,Human Knight,Guilds of Ravnica,Common,4,White,True,True,True,True,b'Kimonas Theodossiou',0.03
-Light of the Legion,Creature,Angel,Guilds of Ravnica,Rare,6,White,True,True,True,True,b'Alex Konstad',0.19
-Loxodon Restorer,Creature,Elephant Cleric,Guilds of Ravnica,Common,6,White,True,True,True,True,b'Svetlin Velinov',0.03
-Luminous Bonds,Enchantment,Aura,Guilds of Ravnica,Common,3,White,True,True,True,True,b'Mark Behm',0.03
-Parhelion Patrol,Creature,Human Knight,Guilds of Ravnica,Common,4,White,True,True,True,True,b'Even Amundsen',0.04
-Righteous Blow,Instant,None,Guilds of Ravnica,Common,1,White,True,True,True,True,b'Izzy',0.03
-Roc Charger,Creature,Bird,Guilds of Ravnica,Uncommon,3,White,True,True,True,True,b'Titus Lunter',0.05
-Skyline Scout,Creature,Human Scout,Guilds of Ravnica,Common,2,White,True,True,True,True,b'Paul Scott Canavan',0.03
-Sunhome Stalwart,Creature,Human Soldier,Guilds of Ravnica,Uncommon,2,White,True,True,True,True,b'Matt Stewart',0.08
-Sworn Companions,Sorcery,None,Guilds of Ravnica,Common,3,White,True,True,True,True,b'Jason Rainville',0.07
-Take Heart,Instant,None,Guilds of Ravnica,Common,1,White,True,True,True,True,b'Lucas Graciano',0.1
-Tenth District Guard,Creature,Human Soldier,Guilds of Ravnica,Common,2,White,True,True,True,True,b'Craig J Spearing',0.03
-Venerated Loxodon,Creature,Elephant Cleric,Guilds of Ravnica,Rare,5,White,True,True,True,True,b'Zack Stella',0.52
-Capture Sphere,Enchantment,Aura,Guilds of Ravnica,Common,4,Blue,True,True,True,True,b'Mark Behm',0.03
-Chemister's Insight,Instant,None,Guilds of Ravnica,Uncommon,4,Blue,True,True,True,True,b'Josh Hass',0.2
-Citywatch Sphinx,Creature,Sphinx,Guilds of Ravnica,Uncommon,6,Blue,True,True,True,True,b'Magali Villeneuve',0.03
-Dazzling Lights,Instant,None,Guilds of Ravnica,Common,1,Blue,True,True,True,True,b'Robbie Trevino',0.03
-Devious Cover-Up,Instant,None,Guilds of Ravnica,Common,4,Blue,True,True,True,True,b'Micah Epstein',0.08
-Dimir Informant,Creature,Human Rogue,Guilds of Ravnica,Common,3,Blue,True,True,True,True,b'Lucas Graciano',0.04
-Disdainful Stroke,Instant,None,Guilds of Ravnica,Common,2,Blue,True,True,True,True,b'Deruchenko Alexander',0.11
-Dream Eater,Creature,Nightmare Sphinx,Guilds of Ravnica,Mythic Rare,6,Blue,True,True,True,True,b'Daarken',0.96
-Drowned Secrets,Enchantment,None,Guilds of Ravnica,Rare,2,Blue,True,True,True,True,b'Alexander Forssberg',1.09
-Enhanced Surveillance,Enchantment,None,Guilds of Ravnica,Uncommon,2,Blue,True,True,True,True,b'Grzegorz Rutkowski',0.13
-Guild Summit,Enchantment,None,Guilds of Ravnica,Uncommon,3,Blue,True,True,True,True,b'Sidharth Chaturvedi',0.27
-Leapfrog,Creature,Frog,Guilds of Ravnica,Common,3,Blue,True,True,True,True,b'Aaron Miller',0.04
-Maximize Altitude,Sorcery,None,Guilds of Ravnica,Common,1,Blue,True,True,True,True,b'Mike Bierek',0.06
-Mission Briefing,Instant,None,Guilds of Ravnica,Rare,2,Blue,True,True,True,True,b'Matt Stewart',0.89
-Murmuring Mystic,Creature,Human Wizard,Guilds of Ravnica,Uncommon,4,Blue,True,True,True,True,b'Mark Winters',0.25
-Muse Drake,Creature,Drake,Guilds of Ravnica,Common,4,Blue,True,True,True,True,b'Titus Lunter',0.02
-Narcomoeba,Creature,Illusion,Guilds of Ravnica,Rare,2,Blue,True,True,True,True,b'Howard Lyon',0.39
-Nightveil Sprite,Creature,Faerie Rogue,Guilds of Ravnica,Uncommon,2,Blue,True,True,True,True,b'Uriah Voth',0.23
-Omnispell Adept,Creature,Human Wizard,Guilds of Ravnica,Rare,5,Blue,True,True,True,True,b'Jason Rainville',0.22
-Passwall Adept,Creature,Human Wizard,Guilds of Ravnica,Common,2,Blue,True,True,True,True,b'John Thacker',0.02
-Quasiduplicate,Sorcery,None,Guilds of Ravnica,Rare,3,Blue,True,True,True,True,b'Dmitry Burmak',0.67
-Radical Idea,Instant,None,Guilds of Ravnica,Common,2,Blue,True,True,True,True,b'Izzy',0.11
-Selective Snare,Sorcery,None,Guilds of Ravnica,Uncommon,2,Blue,True,True,True,True,b'Alex Konstad',0.08
-Sinister Sabotage,Instant,None,Guilds of Ravnica,Uncommon,3,Blue,True,True,True,True,b'Mathias Kollros',0.23
-Thoughtbound Phantasm,Creature,Spirit,Guilds of Ravnica,Uncommon,1,Blue,True,True,True,True,b'Johann Bodin',0.12
-Unexplained Disappearance,Instant,None,Guilds of Ravnica,Common,2,Blue,True,True,True,True,b'Izzy',0.06
-Vedalken Mesmerist,Creature,Vedalken Wizard,Guilds of Ravnica,Common,2,Blue,True,True,True,True,b'Zezhou Chen',0.02
-Wall of Mist,Creature,Wall,Guilds of Ravnica,Common,2,Blue,True,True,True,True,b'Tianhua X',0.05
-Watcher in the Mist,Creature,Spirit,Guilds of Ravnica,Common,5,Blue,True,True,True,True,b'Ryan Yee',0.03
-Wishcoin Crab,Creature,Crab,Guilds of Ravnica,Common,4,Blue,True,True,True,True,b'James Paick',0.03
-Barrier of Bones,Creature,Skeleton Wall,Guilds of Ravnica,Common,1,Black,True,True,True,True,b'Vincent Proce',0.05
-Bartizan Bats,Creature,Bat,Guilds of Ravnica,Common,4,Black,True,True,True,True,b'Nils Hamm',0.02
-Blood Operative,Creature,Vampire Assassin,Guilds of Ravnica,Rare,3,Black,True,True,True,True,b'Livia Prima',0.13
-Burglar Rat,Creature,Rat,Guilds of Ravnica,Common,2,Black,True,True,True,True,b'Tyler Walpole',0.16
-Child of Night,Creature,Vampire,Guilds of Ravnica,Common,2,Black,True,True,True,True,b'Igor Kieryluk',0.08
-Creeping Chill,Sorcery,None,Guilds of Ravnica,Uncommon,4,Black,True,True,True,True,b'Wisnu Tan',0.55
-Dead Weight,Enchantment,Aura,Guilds of Ravnica,Common,1,Black,True,True,True,True,b'Lake Hurwitz',0.1
-Deadly Visit,Sorcery,None,Guilds of Ravnica,Common,5,Black,True,True,True,True,b'Scott Murphy',0.04
-Doom Whisperer,Creature,Nightmare Demon,Guilds of Ravnica,Mythic Rare,5,Black,True,True,True,True,b'Vincent Proce',3.35
-Douser of Lights,Creature,Horror,Guilds of Ravnica,Common,5,Black,True,True,True,True,b'Darek Zabrocki',0.02
-Gruesome Menagerie,Sorcery,None,Guilds of Ravnica,Rare,5,Black,True,True,True,True,b'Yeong-Hao Han',0.24
-Hired Poisoner,Creature,Human Assassin,Guilds of Ravnica,Common,1,Black,True,True,True,True,b'Joe Slucher',0.06
-Kraul Swarm,Creature,Insect Warrior,Guilds of Ravnica,Uncommon,5,Black,True,True,True,True,b'Jehan Choo',0.03
-Lotleth Giant,Creature,Zombie Giant,Guilds of Ravnica,Uncommon,7,Black,True,True,True,True,b'Alex Konstad',0.1
-Mausoleum Secrets,Instant,None,Guilds of Ravnica,Rare,2,Black,True,True,True,True,b'Adam Paquette',0.66
-Mephitic Vapors,Sorcery,None,Guilds of Ravnica,Common,3,Black,True,True,True,True,b'Darek Zabrocki',0.03
-Midnight Reaper,Creature,Zombie Knight,Guilds of Ravnica,Rare,3,Black,True,True,True,True,b'Sidharth Chaturvedi',0.51
-Moodmark Painter,Creature,Human Shaman,Guilds of Ravnica,Common,4,Black,True,True,True,True,b'Scott Murphy',0.01
-Necrotic Wound,Instant,None,Guilds of Ravnica,Uncommon,1,Black,True,True,True,True,b'Randy Vargas',0.14
-Never Happened,Sorcery,None,Guilds of Ravnica,Common,3,Black,True,True,True,True,b'Aaron Miller',0.02
-Pilfering Imp,Creature,Imp,Guilds of Ravnica,Uncommon,1,Black,True,True,True,True,b'Igor Kieryluk',0.13
-Plaguecrafter,Creature,Human Shaman,Guilds of Ravnica,Uncommon,3,Black,True,True,True,True,b'Anna Steinbauer',0.26
-Price of Fame,Instant,None,Guilds of Ravnica,Uncommon,4,Black,True,True,True,True,b'Winona Nelson',0.19
-Ritual of Soot,Sorcery,None,Guilds of Ravnica,Rare,4,Black,True,True,True,True,b'Dimitar Marinski',0.78
-Severed Strands,Sorcery,None,Guilds of Ravnica,Common,2,Black,True,True,True,True,b'Zack Stella',0.07
-Spinal Centipede,Creature,Insect,Guilds of Ravnica,Common,3,Black,True,True,True,True,b'Zezhou Chen',0.03
-Undercity Necrolisk,Creature,Zombie Lizard,Guilds of Ravnica,Uncommon,4,Black,True,True,True,True,b'Tomasz Jedruszek',0.02
-Veiled Shade,Creature,Shade,Guilds of Ravnica,Common,3,Black,True,True,True,True,b'Anna Steinbauer',0.02
-Vicious Rumors,Sorcery,None,Guilds of Ravnica,Common,1,Black,True,True,True,True,b'David Palumbo',0.16
-Whispering Snitch,Creature,Vampire Rogue,Guilds of Ravnica,Uncommon,2,Black,True,True,True,True,b'Jason Rainville',0.05
-Arclight Phoenix,Creature,Phoenix,Guilds of Ravnica,Mythic Rare,4,Red,True,True,True,True,b'Slawomir Maniak',4.96
-Barging Sergeant,Creature,Minotaur Soldier,Guilds of Ravnica,Common,5,Red,True,True,True,True,b'Filip Burburan',0.02
-Book Devourer,Creature,Beast,Guilds of Ravnica,Uncommon,6,Red,True,True,True,True,b'Kev Walker',0.04
-Command the Storm,Instant,None,Guilds of Ravnica,Common,5,Red,True,True,True,True,b'Jason Rainville',0.05
-Cosmotronic Wave,Sorcery,None,Guilds of Ravnica,Common,4,Red,True,True,True,True,b'Titus Lunter',0.1
-Direct Current,Sorcery,None,Guilds of Ravnica,Common,3,Red,True,True,True,True,b'Dan Scott',0.03
-Electrostatic Field,Creature,Wall,Guilds of Ravnica,Uncommon,2,Red,True,True,True,True,b'Dan Scott',0.5
-Erratic Cyclops,Creature,Cyclops Shaman,Guilds of Ravnica,Rare,4,Red,True,True,True,True,b'Milivoj \xc4\x86eran',0.11
-Experimental Frenzy,Enchantment,None,Guilds of Ravnica,Rare,4,Red,True,True,True,True,b'Simon Dominic',0.3
-Fearless Halberdier,Creature,Human Warrior,Guilds of Ravnica,Common,3,Red,True,True,True,True,b'Suzanne Helmigh',0.01
-Fire Urchin,Creature,Elemental,Guilds of Ravnica,Common,2,Red,True,True,True,True,b'Deruchenko Alexander',0.04
-Goblin Banneret,Creature,Goblin Soldier,Guilds of Ravnica,Uncommon,1,Red,True,True,True,True,b'Viktor Titov',0.13
-Goblin Cratermaker,Creature,Goblin Warrior,Guilds of Ravnica,Uncommon,2,Red,True,True,True,True,b'Svetlin Velinov',0.2
-Goblin Locksmith,Creature,Goblin Rogue,Guilds of Ravnica,Common,2,Red,True,True,True,True,b'Mark Behm',0.02
-Gravitic Punch,Sorcery,None,Guilds of Ravnica,Common,4,Red,True,True,True,True,b'Randy Vargas',0.09
-Hellkite Whelp,Creature,Dragon,Guilds of Ravnica,Uncommon,5,Red,True,True,True,True,b'Johann Bodin',0.04
-Inescapable Blaze,Instant,None,Guilds of Ravnica,Uncommon,6,Red,True,True,True,True,b'Steve Argyle',0.05
-Lava Coil,Sorcery,None,Guilds of Ravnica,Uncommon,2,Red,True,True,True,True,b'Wesley Burt',0.47
-Legion Warboss,Creature,Goblin Soldier,Guilds of Ravnica,Rare,3,Red,True,True,True,True,b'Alex Konstad',1.88
-Maniacal Rage,Enchantment,Aura,Guilds of Ravnica,Common,2,Red,True,True,True,True,b'Heonhwa Choe',0.03
-Maximize Velocity,Sorcery,None,Guilds of Ravnica,Common,1,Red,True,True,True,True,b'Svetlin Velinov',0.1
-Ornery Goblin,Creature,Goblin Warrior,Guilds of Ravnica,Common,2,Red,True,True,True,True,b'Johann Bodin',0.02
-Risk Factor,Instant,None,Guilds of Ravnica,Rare,3,Red,True,True,True,True,b'Chris Seaman',1.44
-Rubblebelt Boar,Creature,Boar,Guilds of Ravnica,Common,4,Red,True,True,True,True,b'Tomasz Jedruszek',0.03
-Runaway Steam-Kin,Creature,Elemental,Guilds of Ravnica,Rare,2,Red,True,True,True,True,b'Jason Felix',0.48
-Smelt-Ward Minotaur,Creature,Minotaur Warrior,Guilds of Ravnica,Uncommon,3,Red,True,True,True,True,b'Wisnu Tan',0.06
-Street Riot,Enchantment,None,Guilds of Ravnica,Uncommon,5,Red,True,True,True,True,b'Tomasz Jedruszek',0.08
-Sure Strike,Instant,None,Guilds of Ravnica,Common,2,Red,True,True,True,True,b'Steve Argyle',0.04
-Torch Courier,Creature,Goblin,Guilds of Ravnica,Common,1,Red,True,True,True,True,b'Mark Zug',0.09
-Wojek Bodyguard,Creature,Human Soldier,Guilds of Ravnica,Common,3,Red,True,True,True,True,b'Tyler Walpole',0.02
-Affectionate Indrik,Creature,Beast,Guilds of Ravnica,Uncommon,6,Green,True,True,True,True,b'Steve Prescott',0.05
-Arboretum Elemental,Creature,Elemental,Guilds of Ravnica,Uncommon,9,Green,True,True,True,True,b'James Paick',0.06
-Beast Whisperer,Creature,Elf Druid,Guilds of Ravnica,Rare,4,Green,True,True,True,True,b'Matt Stewart',2.33
-Bounty of Might,Instant,None,Guilds of Ravnica,Rare,6,Green,True,True,True,True,b'Even Amundsen',0.15
-Circuitous Route,Sorcery,None,Guilds of Ravnica,Uncommon,4,Green,True,True,True,True,b'Milivoj \xc4\x86eran',0.72
-Crushing Canopy,Instant,None,Guilds of Ravnica,Common,3,Green,True,True,True,True,b'Simon Dominic',0.05
-Devkarin Dissident,Creature,Elf Warrior,Guilds of Ravnica,Common,2,Green,True,True,True,True,b'Mark Zug',0.03
-District Guide,Creature,Elf Scout,Guilds of Ravnica,Uncommon,3,Green,True,True,True,True,b'Tianhua X',0.11
-Generous Stray,Creature,Cat,Guilds of Ravnica,Common,3,Green,True,True,True,True,b'Milivoj \xc4\x86eran',0.08
-Golgari Raiders,Creature,Elf Warrior,Guilds of Ravnica,Uncommon,4,Green,True,True,True,True,b'David Palumbo',0.12
-Grappling Sundew,Creature,Plant,Guilds of Ravnica,Uncommon,2,Green,True,True,True,True,b'Sung Choi',0.04
-Hatchery Spider,Creature,Spider,Guilds of Ravnica,Rare,7,Green,True,True,True,True,b'Livia Prima',0.18
-Hitchclaw Recluse,Creature,Spider,Guilds of Ravnica,Common,3,Green,True,True,True,True,b'Mike Bierek',0.02
-Ironshell Beetle,Creature,Insect,Guilds of Ravnica,Common,2,Green,True,True,True,True,b'Kev Walker',0.05
-Kraul Foragers,Creature,Insect Scout,Guilds of Ravnica,Common,5,Green,True,True,True,True,b'Aaron Miller',0.03
-Kraul Harpooner,Creature,Insect Warrior,Guilds of Ravnica,Uncommon,2,Green,True,True,True,True,b'Kev Walker',0.12
-Might of the Masses,Instant,None,Guilds of Ravnica,Uncommon,1,Green,True,True,True,True,b'Alex Konstad',0.08
-Nullhide Ferox,Creature,Beast,Guilds of Ravnica,Mythic Rare,4,Green,True,True,True,True,b'Filip Burburan',0.72
-Pack's Favor,Instant,None,Guilds of Ravnica,Common,3,Green,True,True,True,True,b'Lius Lasahido',0.02
-Pause for Reflection,Instant,None,Guilds of Ravnica,Common,3,Green,True,True,True,True,b'Alayna Danner',0.05
-Pelt Collector,Creature,Elf Warrior,Guilds of Ravnica,Rare,1,Green,True,True,True,True,b'Zoltan Boros',1.65
-Portcullis Vine,Creature,Plant Wall,Guilds of Ravnica,Common,1,Green,True,True,True,True,b'James Paick',0.05
-Prey Upon,Sorcery,None,Guilds of Ravnica,Common,1,Green,True,True,True,True,b'G-host Lee',0.06
-Siege Wurm,Creature,Wurm,Guilds of Ravnica,Common,7,Green,True,True,True,True,b'Filip Burburan',0.03
-Sprouting Renewal,Sorcery,None,Guilds of Ravnica,Uncommon,3,Green,True,True,True,True,b'James Paick',0.08
-Urban Utopia,Enchantment,Aura,Guilds of Ravnica,Common,2,Green,True,True,True,True,b'Jedd Chevrier',0.08
-Vigorspore Wurm,Creature,Wurm,Guilds of Ravnica,Common,6,Green,True,True,True,True,b'Jason Felix',0.03
-Vivid Revival,Sorcery,None,Guilds of Ravnica,Rare,5,Green,True,True,True,True,b'Yeong-Hao Han',0.11
-Wary Okapi,Creature,Antelope,Guilds of Ravnica,Common,3,Green,True,True,True,True,b'Jason Felix',0.02
-Wild Ceratok,Creature,Rhino,Guilds of Ravnica,Common,4,Green,True,True,True,True,b'Svetlin Velinov',0.02
-Artful Takedown,Instant,None,Guilds of Ravnica,Common,4,Gold,True,True,True,True,b'Mike Bierek',0.02
-Assassin's Trophy,Instant,None,Guilds of Ravnica,Rare,2,Gold,True,True,True,True,b'Seb McKinnon',12.21
-"Aurelia, Exemplar of Justice",Legendary Creature,Angel,Guilds of Ravnica,Mythic Rare,4,Gold,True,True,True,True,b'Chris Rahn',1.69
-Beacon Bolt,Sorcery,None,Guilds of Ravnica,Uncommon,3,Gold,True,True,True,True,b'Titus Lunter',0.2
-Beamsplitter Mage,Creature,Vedalken Wizard,Guilds of Ravnica,Uncommon,2,Gold,True,True,True,True,b'Svetlin Velinov',0.06
-Boros Challenger,Creature,Human Soldier,Guilds of Ravnica,Uncommon,2,Gold,True,True,True,True,b'Gabor Szikszai',0.11
-Camaraderie,Sorcery,None,Guilds of Ravnica,Rare,6,Gold,True,True,True,True,b'Sidharth Chaturvedi',0.3
-Centaur Peacemaker,Creature,Centaur Cleric,Guilds of Ravnica,Common,3,Gold,True,True,True,True,b'Raoul Vitale',0.02
-Chance for Glory,Instant,None,Guilds of Ravnica,Mythic Rare,3,Gold,True,True,True,True,b'Bram Sels',0.91
-Charnel Troll,Creature,Troll,Guilds of Ravnica,Rare,3,Gold,True,True,True,True,b'Daniel Ljunggren',0.3
-Conclave Cavalier,Creature,Centaur Knight,Guilds of Ravnica,Uncommon,4,Gold,True,True,True,True,b'Tomasz Jedruszek',0.11
-Conclave Guildmage,Creature,Elf Cleric,Guilds of Ravnica,Uncommon,2,Gold,True,True,True,True,b'Jason Rainville',0.08
-Crackling Drake,Creature,Drake,Guilds of Ravnica,Uncommon,4,Gold,True,True,True,True,b'Victor Adame Minguez',0.25
-Darkblade Agent,Creature,Human Assassin,Guilds of Ravnica,Common,3,Gold,True,True,True,True,b'Joe Slucher',0.02
-Deafening Clarion,Sorcery,None,Guilds of Ravnica,Rare,3,Gold,True,True,True,True,b'Adam Paquette',0.33
-Dimir Spybug,Creature,Insect,Guilds of Ravnica,Uncommon,2,Gold,True,True,True,True,b'James Paick',0.13
-Disinformation Campaign,Enchantment,None,Guilds of Ravnica,Uncommon,3,Gold,True,True,True,True,b'Anthony Palumbo',0.16
-"Emmara, Soul of the Accord",Legendary Creature,Elf Cleric,Guilds of Ravnica,Rare,2,Gold,True,True,True,True,b'Mark Winters',0.39
-Erstwhile Trooper,Creature,Zombie Soldier,Guilds of Ravnica,Common,3,Gold,True,True,True,True,b'Jason A. Engle',0.03
-"Etrata, the Silencer",Legendary Creature,Vampire Assassin,Guilds of Ravnica,Rare,4,Gold,True,True,True,True,b'Bastien L. Deharme',0.46
-Firemind's Research,Enchantment,None,Guilds of Ravnica,Rare,2,Gold,True,True,True,True,b'Grzegorz Rutkowski',0.3
-Garrison Sergeant,Creature,Viashino Soldier,Guilds of Ravnica,Common,5,Gold,True,True,True,True,b'Gabor Szikszai',0.02
-Glowspore Shaman,Creature,Elf Shaman,Guilds of Ravnica,Uncommon,2,Gold,True,True,True,True,b'Lars Grant-West',0.2
-Goblin Electromancer,Creature,Goblin Wizard,Guilds of Ravnica,Common,2,Gold,True,True,True,True,b'Svetlin Velinov',0.12
-Golgari Findbroker,Creature,Elf Shaman,Guilds of Ravnica,Uncommon,4,Gold,True,True,True,True,b'Bram Sels',0.12
-Hammer Dropper,Creature,Giant Soldier,Guilds of Ravnica,Common,4,Gold,True,True,True,True,b'Lake Hurwitz',0.02
-House Guildmage,Creature,Human Wizard,Guilds of Ravnica,Uncommon,2,Gold,True,True,True,True,b'Winona Nelson',0.12
-Hypothesizzle,Instant,None,Guilds of Ravnica,Common,5,Gold,True,True,True,True,b'Chris Seaman',0.03
-Ionize,Instant,None,Guilds of Ravnica,Rare,3,Gold,True,True,True,True,b'Chase Stone',1.01
-"Izoni, Thousand-Eyed",Legendary Creature,Elf Shaman,Guilds of Ravnica,Rare,6,Gold,True,True,True,True,b'Eric Deschamps',0.39
-Join Shields,Instant,None,Guilds of Ravnica,Uncommon,5,Gold,True,True,True,True,b'Winona Nelson',0.12
-Justice Strike,Instant,None,Guilds of Ravnica,Uncommon,2,Gold,True,True,True,True,b'Clint Cearley',0.19
-Knight of Autumn,Creature,Dryad Knight,Guilds of Ravnica,Rare,3,Gold,True,True,True,True,b'Ryan Pancoast',1.93
-"Lazav, the Multifarious",Legendary Creature,Shapeshifter,Guilds of Ravnica,Mythic Rare,2,Gold,True,True,True,True,b'Yongjae Choi',2.23
-League Guildmage,Creature,Human Wizard,Guilds of Ravnica,Uncommon,2,Gold,True,True,True,True,b'Svetlin Velinov',0.12
-Ledev Champion,Creature,Elf Knight,Guilds of Ravnica,Uncommon,3,Gold,True,True,True,True,b'Daarken',0.07
-Legion Guildmage,Creature,Human Wizard,Guilds of Ravnica,Uncommon,2,Gold,True,True,True,True,b'Zack Stella',0.07
-March of the Multitudes,Instant,None,Guilds of Ravnica,Mythic Rare,4,Gold,True,True,True,True,b'Zack Stella',1.72
-Mnemonic Betrayal,Sorcery,None,Guilds of Ravnica,Mythic Rare,3,Gold,True,True,True,True,b'Clint Cearley',0.91
-Molderhulk,Creature,Fungus Zombie,Guilds of Ravnica,Uncommon,9,Gold,True,True,True,True,b'Titus Lunter',0.19
-Nightveil Predator,Creature,Vampire,Guilds of Ravnica,Uncommon,4,Gold,True,True,True,True,b'Darek Zabrocki',0.23
-"Niv-Mizzet, Parun",Legendary Creature,Dragon Wizard,Guilds of Ravnica,Rare,6,Gold,True,True,True,True,b'Svetlin Velinov',2.01
-Notion Rain,Sorcery,None,Guilds of Ravnica,Common,3,Gold,True,True,True,True,b'Lius Lasahido',0.13
-Ochran Assassin,Creature,Elf Assassin,Guilds of Ravnica,Uncommon,3,Gold,True,True,True,True,b'Anna Steinbauer',0.14
-"Ral, Izzet Viceroy",Legendary Planeswalker,Ral,Guilds of Ravnica,Mythic Rare,5,Gold,True,True,True,True,b'Kieran Yanner',1.48
-Rhizome Lurcher,Creature,Fungus Zombie,Guilds of Ravnica,Common,4,Gold,True,True,True,True,b'Mathias Kollros',0.08
-Rosemane Centaur,Creature,Centaur Soldier,Guilds of Ravnica,Common,5,Gold,True,True,True,True,b'Nils Hamm',0.03
-Skyknight Legionnaire,Creature,Human Knight,Guilds of Ravnica,Common,3,Gold,True,True,True,True,b'Chase Stone',0.05
-Sonic Assault,Instant,None,Guilds of Ravnica,Common,3,Gold,True,True,True,True,b'Tyler Walpole',0.03
-Sumala Woodshaper,Creature,Elf Druid,Guilds of Ravnica,Common,4,Gold,True,True,True,True,b'Sara Winters',0.05
-Swarm Guildmage,Creature,Elf Shaman,Guilds of Ravnica,Uncommon,2,Gold,True,True,True,True,b'Simon Dominic',0.06
-Swathcutter Giant,Creature,Giant Soldier,Guilds of Ravnica,Uncommon,6,Gold,True,True,True,True,b'Aaron Miller',0.05
-Swiftblade Vindicator,Creature,Human Soldier,Guilds of Ravnica,Rare,2,Gold,True,True,True,True,b'Viktor Titov',0.55
-"Tajic, Legion's Edge",Legendary Creature,Human Soldier,Guilds of Ravnica,Rare,3,Gold,True,True,True,True,b'Anthony Palumbo',0.5
-Thief of Sanity,Creature,Specter,Guilds of Ravnica,Rare,3,Gold,True,True,True,True,b'Igor Kieryluk',1.72
-Thought Erasure,Sorcery,None,Guilds of Ravnica,Uncommon,2,Gold,True,True,True,True,b'Anna Steinbauer',0.92
-Thousand-Year Storm,Enchantment,None,Guilds of Ravnica,Mythic Rare,6,Gold,True,True,True,True,b'Dimitar Marinski',4.7
-Trostani Discordant,Legendary Creature,Dryad,Guilds of Ravnica,Mythic Rare,5,Gold,True,True,True,True,b'Chase Stone',1.31
-Truefire Captain,Creature,Human Knight,Guilds of Ravnica,Uncommon,4,Gold,True,True,True,True,b'Chris Rallis',0.14
-Undercity Uprising,Sorcery,None,Guilds of Ravnica,Common,4,Gold,True,True,True,True,b'Magali Villeneuve',0.07
-Underrealm Lich,Creature,Zombie Elf Shaman,Guilds of Ravnica,Mythic Rare,5,Gold,True,True,True,True,b'Anna Steinbauer',2.95
-Unmoored Ego,Sorcery,None,Guilds of Ravnica,Rare,3,Gold,True,True,True,True,b'Volkan Ba\xc7\xb5a',0.69
-"Vraska, Golgari Queen",Legendary Planeswalker,Vraska,Guilds of Ravnica,Mythic Rare,4,Gold,True,True,True,True,b'Magali Villeneuve',3.2
-Wee Dragonauts,Creature,Faerie Wizard,Guilds of Ravnica,Uncommon,3,Gold,True,True,True,True,b'Greg Staples',0.08
-Worldsoul Colossus,Creature,Elemental,Guilds of Ravnica,Uncommon,3,Gold,True,True,True,True,b'James Paick',0.08
-Fresh-Faced Recruit,Creature,Human Soldier,Guilds of Ravnica,Common,3,Gold,True,True,True,True,b'Anthony Palumbo',0.03
-Piston-Fist Cyclops,Creature,Cyclops,Guilds of Ravnica,Common,5,Gold,True,True,True,True,b'Wayne Reynolds',0.02
-Pitiless Gorgon,Creature,Gorgon,Guilds of Ravnica,Common,5,Gold,True,True,True,True,b'Alex Konstad',0.07
-Vernadi Shieldmate,Creature,Human Soldier,Guilds of Ravnica,Common,3,Gold,True,True,True,True,b'Matt Stewart',0.04
-Whisper Agent,Creature,Human Rogue,Guilds of Ravnica,Common,5,Gold,True,True,True,True,b'Deruchenko Alexander',0.15
-Assure,Instant,None,Guilds of Ravnica,Rare,4,Gold,True,True,True,True,b'Jason A. Engle',0.16
-Connive,Sorcery,None,Guilds of Ravnica,Rare,6,Gold,True,True,True,True,b'Dan Scott',0.35
-Discovery,Sorcery,None,Guilds of Ravnica,Uncommon,3,Gold,True,True,True,True,b'Mark Behm',0.49
-Expansion,Instant,None,Guilds of Ravnica,Rare,4,Gold,True,True,True,True,b'Deruchenko Alexander',1.94
-Find,Sorcery,None,Guilds of Ravnica,Rare,4,Gold,True,True,True,True,b'Tomasz Jedruszek',0.26
-Flower,Sorcery,None,Guilds of Ravnica,Uncommon,2,Gold,True,True,True,True,b'Dmitry Burmak',0.1
-Integrity,Instant,None,Guilds of Ravnica,Uncommon,2,Gold,True,True,True,True,b'Ben Maier',0.18
-Invert,Instant,None,Guilds of Ravnica,Uncommon,2,Gold,True,True,True,True,b'Mathias Kollros',0.08
-Response,Instant,None,Guilds of Ravnica,Rare,4,Gold,True,True,True,True,b'Daarken',0.24
-Status,Instant,None,Guilds of Ravnica,Uncommon,2,Gold,True,True,True,True,b'Ben Wootten',0.15
-Boros Locket,Artifact,None,Guilds of Ravnica,Common,3,Colorless,True,True,True,True,b'Aaron Miller',0.14
-Chamber Sentry,Artifact Creature,Construct,Guilds of Ravnica,Rare,1,Colorless,True,True,True,True,b'Adam Paquette',0.22
-Chromatic Lantern,Artifact,None,Guilds of Ravnica,Rare,3,Colorless,True,True,True,True,b'Jung Park',7.01
-Dimir Locket,Artifact,None,Guilds of Ravnica,Common,3,Colorless,True,True,True,True,b'Zezhou Chen',0.14
-Gatekeeper Gargoyle,Artifact Creature,Gargoyle,Guilds of Ravnica,Uncommon,6,Colorless,True,True,True,True,b'Adam Paquette',0.08
-Glaive of the Guildpact,Artifact,Equipment,Guilds of Ravnica,Uncommon,2,Colorless,True,True,True,True,b'Volkan Ba\xc7\xb5a',0.07
-Golgari Locket,Artifact,None,Guilds of Ravnica,Common,3,Colorless,True,True,True,True,b'Milivoj \xc4\x86eran',0.11
-Izzet Locket,Artifact,None,Guilds of Ravnica,Common,3,Colorless,True,True,True,True,b'Dmitry Burmak',0.12
-Rampaging Monument,Artifact Creature,Cleric,Guilds of Ravnica,Uncommon,4,Colorless,True,True,True,True,b'Tyler Walpole',0.05
-Selesnya Locket,Artifact,None,Guilds of Ravnica,Common,3,Colorless,True,True,True,True,b'Winona Nelson',0.09
-Silent Dart,Artifact,None,Guilds of Ravnica,Uncommon,1,Colorless,True,True,True,True,b'Yeong-Hao Han',0.06
-Wand of Vertebrae,Artifact,None,Guilds of Ravnica,Uncommon,1,Colorless,True,True,True,True,b'Volkan Ba\xc7\xb5a',0.11
-Boros Guildgate,Land,Gate,Guilds of Ravnica,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.07
-Boros Guildgate,Land,Gate,Guilds of Ravnica,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.07
-Dimir Guildgate,Land,Gate,Guilds of Ravnica,Common,0,Colorless,True,True,True,True,b'Cliff Childs',0.09
-Dimir Guildgate,Land,Gate,Guilds of Ravnica,Common,0,Colorless,True,True,True,True,b'Cliff Childs',0.12
-Gateway Plaza,Land,Gate,Guilds of Ravnica,Common,0,Colorless,True,True,True,True,b'Jedd Chevrier',0.1
-Golgari Guildgate,Land,Gate,Guilds of Ravnica,Common,0,Colorless,True,True,True,True,b'Eytan Zana',0.08
-Golgari Guildgate,Land,Gate,Guilds of Ravnica,Common,0,Colorless,True,True,True,True,b'Eytan Zana',0.09
-Guildmages' Forum,Land,None,Guilds of Ravnica,Rare,0,Colorless,True,True,True,True,b'Adam Paquette',0.34
-Izzet Guildgate,Land,Gate,Guilds of Ravnica,Common,0,Colorless,True,True,True,True,b'Kirsten Zirngibl',0.08
-Izzet Guildgate,Land,Gate,Guilds of Ravnica,Common,0,Colorless,True,True,True,True,b'Kirsten Zirngibl',0.07
-Overgrown Tomb,Land,Swamp Forest,Guilds of Ravnica,Rare,0,Colorless,True,True,True,True,b'Yeong-Hao Han',11.58
-Sacred Foundry,Land,Mountain Plains,Guilds of Ravnica,Rare,0,Colorless,True,True,True,True,b'Adam Paquette',10.57
-Selesnya Guildgate,Land,Gate,Guilds of Ravnica,Common,0,Colorless,True,True,True,True,b'Dimitar Marinski',0.08
-Selesnya Guildgate,Land,Gate,Guilds of Ravnica,Common,0,Colorless,True,True,True,True,b'Dimitar Marinski',0.08
-Steam Vents,Land,Island Mountain,Guilds of Ravnica,Rare,0,Colorless,True,True,True,True,b'Jonas De Ro',10.17
-Temple Garden,Land,Forest Plains,Guilds of Ravnica,Rare,0,Colorless,True,True,True,True,b'Titus Lunter',10.21
-Watery Grave,Land,Island Swamp,Guilds of Ravnica,Rare,0,Colorless,True,True,True,True,b'Cliff Childs',9.17
-Plains,Basic Land,Plains,Guilds of Ravnica,Common,0,Colorless,True,True,True,True,b'Richard Wright',0.17
-Island,Basic Land,Island,Guilds of Ravnica,Common,0,Colorless,True,True,True,True,b'Richard Wright',0.4
-Swamp,Basic Land,Swamp,Guilds of Ravnica,Common,0,Colorless,True,True,True,True,b'Richard Wright',0.43
-Mountain,Basic Land,Mountain,Guilds of Ravnica,Common,0,Colorless,True,True,True,True,b'Richard Wright',0.28
-Forest,Basic Land,Forest,Guilds of Ravnica,Common,0,Colorless,True,True,True,True,b'Richard Wright',0.33
-"Ral, Caller of Storms",Legendary Planeswalker,Ral,Guilds of Ravnica,Mythic Rare,6,Gold,True,True,True,False,b'Kieran Yanner',1.21
-Ral's Dispersal,Instant,None,Guilds of Ravnica,Rare,5,Blue,True,True,True,False,b'Lake Hurwitz',0.21
-Precision Bolt,Sorcery,None,Guilds of Ravnica,Common,3,Red,True,True,True,False,b'Grzegorz Rutkowski',0.13
-Ral's Staticaster,Creature,Viashino Wizard,Guilds of Ravnica,Uncommon,4,Gold,True,True,True,False,b'Even Amundsen',0.1
-"Vraska, Regal Gorgon",Legendary Planeswalker,Vraska,Guilds of Ravnica,Mythic Rare,7,Gold,True,True,True,False,b'Magali Villeneuve',1.32
-Kraul Raider,Creature,Insect Warrior,Guilds of Ravnica,Common,3,Black,True,True,True,False,b'Ben Wootten',0.11
-Attendant of Vraska,Creature,Zombie Soldier,Guilds of Ravnica,Uncommon,3,Gold,True,True,True,False,b'Magali Villeneuve',0.14
-Vraska's Stoneglare,Sorcery,None,Guilds of Ravnica,Rare,6,Gold,True,True,True,False,b'Yongjae Choi',0.17
-Impervious Greatwurm,Creature,Wurm,Guilds of Ravnica,Mythic Rare,10,Green,True,True,True,True,b'Simon Dominic',2.63
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Blade Instructor,Creature,Human Soldier,Guilds of Ravnica,Common,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.03,False
+Bounty Agent,Creature,Human Soldier,Guilds of Ravnica,Rare,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Randy Vargas',0.22,False
+Candlelight Vigil,Enchantment,Aura,Guilds of Ravnica,Common,4,White,Legal,Legal,Legal,Legal,Legal,True,b'Alexander Forssberg',0.05,False
+Citywide Bust,Sorcery,None,Guilds of Ravnica,Rare,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Victor Adame Minguez',0.24,False
+Collar the Culprit,Instant,None,Guilds of Ravnica,Common,4,White,Legal,Legal,Legal,Legal,Legal,True,b'Victor Adame Minguez',0.05,False
+Conclave Tribunal,Enchantment,None,Guilds of Ravnica,Uncommon,4,White,Legal,Legal,Legal,Legal,Legal,True,b'Seb McKinnon',0.11,False
+Crush Contraband,Instant,None,Guilds of Ravnica,Uncommon,4,White,Legal,Legal,Legal,Legal,Legal,True,b'Jason A. Engle',0.31,False
+Dawn of Hope,Enchantment,None,Guilds of Ravnica,Rare,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Sung Choi',2.35,False
+Demotion,Enchantment,Aura,Guilds of Ravnica,Uncommon,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Joe Slucher',0.08,False
+Divine Visitation,Enchantment,None,Guilds of Ravnica,Mythic Rare,5,White,Legal,Legal,Legal,Legal,Legal,True,b'Victor Adame Minguez',14.62,False
+Flight of Equenauts,Creature,Human Knight,Guilds of Ravnica,Uncommon,8,White,Legal,Legal,Legal,Legal,Legal,True,b'Zezhou Chen',0.04,False
+Gird for Battle,Sorcery,None,Guilds of Ravnica,Uncommon,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Jakub Kasper',0.16,False
+Haazda Marshal,Creature,Human Soldier,Guilds of Ravnica,Uncommon,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Josh Hass',0.12,False
+Healer's Hawk,Creature,Bird,Guilds of Ravnica,Common,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Milivoj \xc4\x86eran',0.35,False
+Hunted Witness,Creature,Human,Guilds of Ravnica,Common,1,White,Legal,Legal,Legal,Legal,Legal,True,b'David Palumbo',0.11,False
+Inspiring Unicorn,Creature,Unicorn,Guilds of Ravnica,Uncommon,4,White,Legal,Legal,Legal,Legal,Legal,True,b'Even Amundsen',0.08,False
+Intrusive Packbeast,Creature,Beast,Guilds of Ravnica,Common,5,White,Legal,Legal,Legal,Legal,Legal,True,b'Jason Felix',0.02,False
+Ledev Guardian,Creature,Human Knight,Guilds of Ravnica,Common,4,White,Legal,Legal,Legal,Legal,Legal,True,b'Kimonas Theodossiou',0.03,False
+Light of the Legion,Creature,Angel,Guilds of Ravnica,Rare,6,White,Legal,Legal,Legal,Legal,Legal,True,b'Alex Konstad',0.2,False
+Loxodon Restorer,Creature,Elephant Cleric,Guilds of Ravnica,Common,6,White,Legal,Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.04,False
+Luminous Bonds,Enchantment,Aura,Guilds of Ravnica,Common,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Mark Behm',0.04,False
+Parhelion Patrol,Creature,Human Knight,Guilds of Ravnica,Common,4,White,Legal,Legal,Legal,Legal,Legal,True,b'Even Amundsen',0.05,False
+Righteous Blow,Instant,None,Guilds of Ravnica,Common,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Izzy',0.03,False
+Roc Charger,Creature,Bird,Guilds of Ravnica,Uncommon,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Titus Lunter',0.06,False
+Skyline Scout,Creature,Human Scout,Guilds of Ravnica,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Paul Scott Canavan',0.02,False
+Sunhome Stalwart,Creature,Human Soldier,Guilds of Ravnica,Uncommon,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.1,False
+Sworn Companions,Sorcery,None,Guilds of Ravnica,Common,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Jason Rainville',0.08,False
+Take Heart,Instant,None,Guilds of Ravnica,Common,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Lucas Graciano',0.06,False
+Tenth District Guard,Creature,Human Soldier,Guilds of Ravnica,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Craig J Spearing',0.02,False
+Venerated Loxodon,Creature,Elephant Cleric,Guilds of Ravnica,Rare,5,White,Legal,Legal,Legal,Legal,Legal,True,b'Zack Stella',0.48,False
+Capture Sphere,Enchantment,Aura,Guilds of Ravnica,Common,4,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Mark Behm',0.05,False
+Chemister's Insight,Instant,None,Guilds of Ravnica,Uncommon,4,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Josh Hass',0.27,False
+Citywatch Sphinx,Creature,Sphinx,Guilds of Ravnica,Uncommon,6,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Magali Villeneuve',0.04,False
+Dazzling Lights,Instant,None,Guilds of Ravnica,Common,1,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Robbie Trevino',0.04,False
+Devious Cover-Up,Instant,None,Guilds of Ravnica,Common,4,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Micah Epstein',0.06,False
+Dimir Informant,Creature,Human Rogue,Guilds of Ravnica,Common,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Lucas Graciano',0.04,False
+Disdainful Stroke,Instant,None,Guilds of Ravnica,Common,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Deruchenko Alexander',0.08,False
+Dream Eater,Creature,Nightmare Sphinx,Guilds of Ravnica,Mythic Rare,6,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Daarken',1.1,False
+Drowned Secrets,Enchantment,None,Guilds of Ravnica,Rare,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Alexander Forssberg',1.6,False
+Enhanced Surveillance,Enchantment,None,Guilds of Ravnica,Uncommon,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Grzegorz Rutkowski',0.15,False
+Guild Summit,Enchantment,None,Guilds of Ravnica,Uncommon,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Sidharth Chaturvedi',0.16,False
+Leapfrog,Creature,Frog,Guilds of Ravnica,Common,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Aaron Miller',0.03,False
+Maximize Altitude,Sorcery,None,Guilds of Ravnica,Common,1,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Mike Bierek',0.06,False
+Mission Briefing,Instant,None,Guilds of Ravnica,Rare,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.85,False
+Murmuring Mystic,Creature,Human Wizard,Guilds of Ravnica,Uncommon,4,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Mark Winters',0.25,False
+Muse Drake,Creature,Drake,Guilds of Ravnica,Common,4,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Titus Lunter',0.04,False
+Narcomoeba,Creature,Illusion,Guilds of Ravnica,Rare,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Howard Lyon',0.44,False
+Nightveil Sprite,Creature,Faerie Rogue,Guilds of Ravnica,Uncommon,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Uriah Voth',0.23,False
+Omnispell Adept,Creature,Human Wizard,Guilds of Ravnica,Rare,5,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Jason Rainville',0.28,False
+Passwall Adept,Creature,Human Wizard,Guilds of Ravnica,Common,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'John Thacker',0.03,False
+Quasiduplicate,Sorcery,None,Guilds of Ravnica,Rare,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Dmitry Burmak',0.76,False
+Radical Idea,Instant,None,Guilds of Ravnica,Common,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Izzy',0.08,False
+Selective Snare,Sorcery,None,Guilds of Ravnica,Uncommon,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Alex Konstad',0.08,False
+Sinister Sabotage,Instant,None,Guilds of Ravnica,Uncommon,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Mathias Kollros',0.18,False
+Thoughtbound Phantasm,Creature,Spirit,Guilds of Ravnica,Uncommon,1,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Johann Bodin',0.14,False
+Unexplained Disappearance,Instant,None,Guilds of Ravnica,Common,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Izzy',0.08,False
+Vedalken Mesmerist,Creature,Vedalken Wizard,Guilds of Ravnica,Common,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Zezhou Chen',0.03,False
+Wall of Mist,Creature,Wall,Guilds of Ravnica,Common,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Tianhua X',0.05,False
+Watcher in the Mist,Creature,Spirit,Guilds of Ravnica,Common,5,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Ryan Yee',0.03,False
+Wishcoin Crab,Creature,Crab,Guilds of Ravnica,Common,4,Blue,Legal,Legal,Legal,Legal,Legal,True,b'James Paick',0.04,False
+Barrier of Bones,Creature,Skeleton Wall,Guilds of Ravnica,Common,1,Black,Legal,Legal,Legal,Legal,Legal,True,b'Vincent Proce',0.07,False
+Bartizan Bats,Creature,Bat,Guilds of Ravnica,Common,4,Black,Legal,Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.03,False
+Blood Operative,Creature,Vampire Assassin,Guilds of Ravnica,Rare,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Livia Prima',0.17,False
+Burglar Rat,Creature,Rat,Guilds of Ravnica,Common,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Tyler Walpole',0.17,False
+Child of Night,Creature,Vampire,Guilds of Ravnica,Common,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.08,False
+Creeping Chill,Sorcery,None,Guilds of Ravnica,Uncommon,4,Black,Legal,Legal,Legal,Legal,Legal,True,b'Wisnu Tan',0.59,False
+Dead Weight,Enchantment,Aura,Guilds of Ravnica,Common,1,Black,Legal,Legal,Legal,Legal,Legal,True,b'Lake Hurwitz',0.1,False
+Deadly Visit,Sorcery,None,Guilds of Ravnica,Common,5,Black,Legal,Legal,Legal,Legal,Legal,True,b'Scott Murphy',0.04,False
+Doom Whisperer,Creature,Nightmare Demon,Guilds of Ravnica,Mythic Rare,5,Black,Legal,Legal,Legal,Legal,Legal,True,b'Vincent Proce',4.2,False
+Douser of Lights,Creature,Horror,Guilds of Ravnica,Common,5,Black,Legal,Legal,Legal,Legal,Legal,True,b'Darek Zabrocki',0.03,False
+Gruesome Menagerie,Sorcery,None,Guilds of Ravnica,Rare,5,Black,Legal,Legal,Legal,Legal,Legal,True,b'Yeong-Hao Han',0.23,False
+Hired Poisoner,Creature,Human Assassin,Guilds of Ravnica,Common,1,Black,Legal,Legal,Legal,Legal,Legal,True,b'Joe Slucher',0.08,False
+Kraul Swarm,Creature,Insect Warrior,Guilds of Ravnica,Uncommon,5,Black,Legal,Legal,Legal,Legal,Legal,True,b'Jehan Choo',0.02,False
+Lotleth Giant,Creature,Zombie Giant,Guilds of Ravnica,Uncommon,7,Black,Legal,Legal,Legal,Legal,Legal,True,b'Alex Konstad',0.09,False
+Mausoleum Secrets,Instant,None,Guilds of Ravnica,Rare,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.64,False
+Mephitic Vapors,Sorcery,None,Guilds of Ravnica,Common,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Darek Zabrocki',0.05,False
+Midnight Reaper,Creature,Zombie Knight,Guilds of Ravnica,Rare,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Sidharth Chaturvedi',0.43,False
+Moodmark Painter,Creature,Human Shaman,Guilds of Ravnica,Common,4,Black,Legal,Legal,Legal,Legal,Legal,True,b'Scott Murphy',0.02,False
+Necrotic Wound,Instant,None,Guilds of Ravnica,Uncommon,1,Black,Legal,Legal,Legal,Legal,Legal,True,b'Randy Vargas',0.1,False
+Never Happened,Sorcery,None,Guilds of Ravnica,Common,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Aaron Miller',0.02,False
+Pilfering Imp,Creature,Imp,Guilds of Ravnica,Uncommon,1,Black,Legal,Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.1,False
+Plaguecrafter,Creature,Human Shaman,Guilds of Ravnica,Uncommon,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Anna Steinbauer',0.22,False
+Price of Fame,Instant,None,Guilds of Ravnica,Uncommon,4,Black,Legal,Legal,Legal,Legal,Legal,True,b'Winona Nelson',0.18,False
+Ritual of Soot,Sorcery,None,Guilds of Ravnica,Rare,4,Black,Legal,Legal,Legal,Legal,Legal,True,b'Dimitar Marinski',0.76,False
+Severed Strands,Sorcery,None,Guilds of Ravnica,Common,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Zack Stella',0.06,False
+Spinal Centipede,Creature,Insect,Guilds of Ravnica,Common,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Zezhou Chen',0.04,False
+Undercity Necrolisk,Creature,Zombie Lizard,Guilds of Ravnica,Uncommon,4,Black,Legal,Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.04,False
+Veiled Shade,Creature,Shade,Guilds of Ravnica,Common,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Anna Steinbauer',0.02,False
+Vicious Rumors,Sorcery,None,Guilds of Ravnica,Common,1,Black,Legal,Legal,Legal,Legal,Legal,True,b'David Palumbo',0.15,False
+Whispering Snitch,Creature,Vampire Rogue,Guilds of Ravnica,Uncommon,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Jason Rainville',0.09,False
+Arclight Phoenix,Creature,Phoenix,Guilds of Ravnica,Mythic Rare,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',3.92,False
+Barging Sergeant,Creature,Minotaur Soldier,Guilds of Ravnica,Common,5,Red,Legal,Legal,Legal,Legal,Legal,True,b'Filip Burburan',0.02,False
+Book Devourer,Creature,Beast,Guilds of Ravnica,Uncommon,6,Red,Legal,Legal,Legal,Legal,Legal,True,b'Kev Walker',0.06,False
+Command the Storm,Instant,None,Guilds of Ravnica,Common,5,Red,Legal,Legal,Legal,Legal,Legal,True,b'Jason Rainville',0.08,False
+Cosmotronic Wave,Sorcery,None,Guilds of Ravnica,Common,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Titus Lunter',0.07,False
+Direct Current,Sorcery,None,Guilds of Ravnica,Common,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'Dan Scott',0.04,False
+Electrostatic Field,Creature,Wall,Guilds of Ravnica,Uncommon,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Dan Scott',0.55,False
+Erratic Cyclops,Creature,Cyclops Shaman,Guilds of Ravnica,Rare,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Milivoj \xc4\x86eran',0.15,False
+Experimental Frenzy,Enchantment,None,Guilds of Ravnica,Rare,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Simon Dominic',0.19,False
+Fearless Halberdier,Creature,Human Warrior,Guilds of Ravnica,Common,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'Suzanne Helmigh',0.02,False
+Fire Urchin,Creature,Elemental,Guilds of Ravnica,Common,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Deruchenko Alexander',0.05,False
+Goblin Banneret,Creature,Goblin Soldier,Guilds of Ravnica,Uncommon,1,Red,Legal,Legal,Legal,Legal,Legal,True,b'Viktor Titov',0.15,False
+Goblin Cratermaker,Creature,Goblin Warrior,Guilds of Ravnica,Uncommon,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.18,False
+Goblin Locksmith,Creature,Goblin Rogue,Guilds of Ravnica,Common,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Mark Behm',0.03,False
+Gravitic Punch,Sorcery,None,Guilds of Ravnica,Common,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Randy Vargas',0.09,False
+Hellkite Whelp,Creature,Dragon,Guilds of Ravnica,Uncommon,5,Red,Legal,Legal,Legal,Legal,Legal,True,b'Johann Bodin',0.05,False
+Inescapable Blaze,Instant,None,Guilds of Ravnica,Uncommon,6,Red,Legal,Legal,Legal,Legal,Legal,True,b'Steve Argyle',0.11,False
+Lava Coil,Sorcery,None,Guilds of Ravnica,Uncommon,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Wesley Burt',0.4,False
+Legion Warboss,Creature,Goblin Soldier,Guilds of Ravnica,Rare,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'Alex Konstad',2.61,False
+Maniacal Rage,Enchantment,Aura,Guilds of Ravnica,Common,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Heonhwa Choe',0.02,False
+Maximize Velocity,Sorcery,None,Guilds of Ravnica,Common,1,Red,Legal,Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.07,False
+Ornery Goblin,Creature,Goblin Warrior,Guilds of Ravnica,Common,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Johann Bodin',0.04,False
+Risk Factor,Instant,None,Guilds of Ravnica,Rare,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'Chris Seaman',1.57,False
+Rubblebelt Boar,Creature,Boar,Guilds of Ravnica,Common,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.03,False
+Runaway Steam-Kin,Creature,Elemental,Guilds of Ravnica,Rare,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Jason Felix',0.42,False
+Smelt-Ward Minotaur,Creature,Minotaur Warrior,Guilds of Ravnica,Uncommon,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'Wisnu Tan',0.08,False
+Street Riot,Enchantment,None,Guilds of Ravnica,Uncommon,5,Red,Legal,Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.08,False
+Sure Strike,Instant,None,Guilds of Ravnica,Common,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Steve Argyle',0.05,False
+Torch Courier,Creature,Goblin,Guilds of Ravnica,Common,1,Red,Legal,Legal,Legal,Legal,Legal,True,b'Mark Zug',0.11,False
+Wojek Bodyguard,Creature,Human Soldier,Guilds of Ravnica,Common,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'Tyler Walpole',0.04,False
+Affectionate Indrik,Creature,Beast,Guilds of Ravnica,Uncommon,6,Green,Legal,Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.06,False
+Arboretum Elemental,Creature,Elemental,Guilds of Ravnica,Uncommon,9,Green,Legal,Legal,Legal,Legal,Legal,True,b'James Paick',0.08,False
+Beast Whisperer,Creature,Elf Druid,Guilds of Ravnica,Rare,4,Green,Legal,Legal,Legal,Legal,Legal,True,b'Matt Stewart',2.66,False
+Bounty of Might,Instant,None,Guilds of Ravnica,Rare,6,Green,Legal,Legal,Legal,Legal,Legal,True,b'Even Amundsen',0.2,False
+Circuitous Route,Sorcery,None,Guilds of Ravnica,Uncommon,4,Green,Legal,Legal,Legal,Legal,Legal,True,b'Milivoj \xc4\x86eran',0.62,False
+Crushing Canopy,Instant,None,Guilds of Ravnica,Common,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Simon Dominic',0.05,False
+Devkarin Dissident,Creature,Elf Warrior,Guilds of Ravnica,Common,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Mark Zug',0.03,False
+District Guide,Creature,Elf Scout,Guilds of Ravnica,Uncommon,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Tianhua X',0.09,False
+Generous Stray,Creature,Cat,Guilds of Ravnica,Common,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Milivoj \xc4\x86eran',0.07,False
+Golgari Raiders,Creature,Elf Warrior,Guilds of Ravnica,Uncommon,4,Green,Legal,Legal,Legal,Legal,Legal,True,b'David Palumbo',0.11,False
+Grappling Sundew,Creature,Plant,Guilds of Ravnica,Uncommon,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Sung Choi',0.06,False
+Hatchery Spider,Creature,Spider,Guilds of Ravnica,Rare,7,Green,Legal,Legal,Legal,Legal,Legal,True,b'Livia Prima',0.16,False
+Hitchclaw Recluse,Creature,Spider,Guilds of Ravnica,Common,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Mike Bierek',0.04,False
+Ironshell Beetle,Creature,Insect,Guilds of Ravnica,Common,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Kev Walker',0.06,False
+Kraul Foragers,Creature,Insect Scout,Guilds of Ravnica,Common,5,Green,Legal,Legal,Legal,Legal,Legal,True,b'Aaron Miller',0.04,False
+Kraul Harpooner,Creature,Insect Warrior,Guilds of Ravnica,Uncommon,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Kev Walker',0.11,False
+Might of the Masses,Instant,None,Guilds of Ravnica,Uncommon,1,Green,Legal,Legal,Legal,Legal,Legal,True,b'Alex Konstad',0.09,False
+Nullhide Ferox,Creature,Beast,Guilds of Ravnica,Mythic Rare,4,Green,Legal,Legal,Legal,Legal,Legal,True,b'Filip Burburan',0.84,False
+Pack's Favor,Instant,None,Guilds of Ravnica,Common,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Lius Lasahido',0.02,False
+Pause for Reflection,Instant,None,Guilds of Ravnica,Common,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Alayna Danner',0.07,False
+Pelt Collector,Creature,Elf Warrior,Guilds of Ravnica,Rare,1,Green,Legal,Legal,Legal,Legal,Legal,True,b'Zoltan Boros',1.91,False
+Portcullis Vine,Creature,Plant Wall,Guilds of Ravnica,Common,1,Green,Legal,Legal,Legal,Legal,Legal,True,b'James Paick',0.08,False
+Prey Upon,Sorcery,None,Guilds of Ravnica,Common,1,Green,Legal,Legal,Legal,Legal,Legal,True,b'G-host Lee',0.07,False
+Siege Wurm,Creature,Wurm,Guilds of Ravnica,Common,7,Green,Legal,Legal,Legal,Legal,Legal,True,b'Filip Burburan',0.03,False
+Sprouting Renewal,Sorcery,None,Guilds of Ravnica,Uncommon,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'James Paick',0.12,False
+Urban Utopia,Enchantment,Aura,Guilds of Ravnica,Common,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Jedd Chevrier',0.1,False
+Vigorspore Wurm,Creature,Wurm,Guilds of Ravnica,Common,6,Green,Legal,Legal,Legal,Legal,Legal,True,b'Jason Felix',0.05,False
+Vivid Revival,Sorcery,None,Guilds of Ravnica,Rare,5,Green,Legal,Legal,Legal,Legal,Legal,True,b'Yeong-Hao Han',0.12,False
+Wary Okapi,Creature,Antelope,Guilds of Ravnica,Common,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Jason Felix',0.03,False
+Wild Ceratok,Creature,Rhino,Guilds of Ravnica,Common,4,Green,Legal,Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.03,False
+Artful Takedown,Instant,None,Guilds of Ravnica,Common,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Mike Bierek',0.04,False
+Assassin's Trophy,Instant,None,Guilds of Ravnica,Rare,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Seb McKinnon',12.22,False
+Aurelia Exemplar of Justice,Creature,Angel,Guilds of Ravnica,Mythic Rare,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Chris Rahn',1.55,True
+Beacon Bolt,Sorcery,None,Guilds of Ravnica,Uncommon,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Titus Lunter',0.13,False
+Beamsplitter Mage,Creature,Vedalken Wizard,Guilds of Ravnica,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.12,False
+Boros Challenger,Creature,Human Soldier,Guilds of Ravnica,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Gabor Szikszai',0.13,False
+Camaraderie,Sorcery,None,Guilds of Ravnica,Rare,6,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Sidharth Chaturvedi',0.25,False
+Centaur Peacemaker,Creature,Centaur Cleric,Guilds of Ravnica,Common,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Raoul Vitale',0.03,False
+Chance for Glory,Instant,None,Guilds of Ravnica,Mythic Rare,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Bram Sels',1.3,False
+Charnel Troll,Creature,Troll,Guilds of Ravnica,Rare,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',0.28,False
+Conclave Cavalier,Creature,Centaur Knight,Guilds of Ravnica,Uncommon,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.12,False
+Conclave Guildmage,Creature,Elf Cleric,Guilds of Ravnica,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Jason Rainville',0.08,False
+Crackling Drake,Creature,Drake,Guilds of Ravnica,Uncommon,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Victor Adame Minguez',0.25,False
+Darkblade Agent,Creature,Human Assassin,Guilds of Ravnica,Common,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Joe Slucher',0.03,False
+Deafening Clarion,Sorcery,None,Guilds of Ravnica,Rare,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.28,False
+Dimir Spybug,Creature,Insect,Guilds of Ravnica,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'James Paick',0.16,False
+Disinformation Campaign,Enchantment,None,Guilds of Ravnica,Uncommon,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Anthony Palumbo',0.17,False
+Emmara Soul of the Accord,Creature,Elf Cleric,Guilds of Ravnica,Rare,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Mark Winters',0.37,True
+Erstwhile Trooper,Creature,Zombie Soldier,Guilds of Ravnica,Common,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Jason A. Engle',0.02,False
+Etrata the Silencer,Creature,Vampire Assassin,Guilds of Ravnica,Rare,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Bastien L. Deharme',0.46,True
+Firemind's Research,Enchantment,None,Guilds of Ravnica,Rare,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Grzegorz Rutkowski',0.29,False
+Garrison Sergeant,Creature,Viashino Soldier,Guilds of Ravnica,Common,5,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Gabor Szikszai',0.02,False
+Glowspore Shaman,Creature,Elf Shaman,Guilds of Ravnica,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.2,False
+Goblin Electromancer,Creature,Goblin Wizard,Guilds of Ravnica,Common,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.1,False
+Golgari Findbroker,Creature,Elf Shaman,Guilds of Ravnica,Uncommon,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Bram Sels',0.14,False
+Hammer Dropper,Creature,Giant Soldier,Guilds of Ravnica,Common,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Lake Hurwitz',0.03,False
+House Guildmage,Creature,Human Wizard,Guilds of Ravnica,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Winona Nelson',0.11,False
+Hypothesizzle,Instant,None,Guilds of Ravnica,Common,5,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Chris Seaman',0.06,False
+Ionize,Instant,None,Guilds of Ravnica,Rare,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Chase Stone',1.01,False
+Izoni Thousand-Eyed,Creature,Elf Shaman,Guilds of Ravnica,Rare,6,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Eric Deschamps',0.48,True
+Join Shields,Instant,None,Guilds of Ravnica,Uncommon,5,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Winona Nelson',0.1,False
+Justice Strike,Instant,None,Guilds of Ravnica,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Clint Cearley',0.22,False
+Knight of Autumn,Creature,Dryad Knight,Guilds of Ravnica,Rare,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Ryan Pancoast',2.46,False
+Lazav the Multifarious,Creature,Shapeshifter,Guilds of Ravnica,Mythic Rare,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Yongjae Choi',2.4,True
+League Guildmage,Creature,Human Wizard,Guilds of Ravnica,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.09,False
+Ledev Champion,Creature,Elf Knight,Guilds of Ravnica,Uncommon,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Daarken',0.09,False
+Legion Guildmage,Creature,Human Wizard,Guilds of Ravnica,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Zack Stella',0.11,False
+March of the Multitudes,Instant,None,Guilds of Ravnica,Mythic Rare,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Zack Stella',1.67,False
+Mnemonic Betrayal,Sorcery,None,Guilds of Ravnica,Mythic Rare,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Clint Cearley',0.86,False
+Molderhulk,Creature,Fungus Zombie,Guilds of Ravnica,Uncommon,9,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Titus Lunter',0.18,False
+Nightveil Predator,Creature,Vampire,Guilds of Ravnica,Uncommon,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Darek Zabrocki',0.24,False
+Niv-Mizzet Parun,Creature,Dragon Wizard,Guilds of Ravnica,Rare,6,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',3.28,True
+Notion Rain,Sorcery,None,Guilds of Ravnica,Common,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Lius Lasahido',0.08,False
+Ochran Assassin,Creature,Elf Assassin,Guilds of Ravnica,Uncommon,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Anna Steinbauer',0.12,False
+Ral Izzet Viceroy,Planeswalker,Ral,Guilds of Ravnica,Mythic Rare,5,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Kieran Yanner',1.15,True
+Rhizome Lurcher,Creature,Fungus Zombie,Guilds of Ravnica,Common,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Mathias Kollros',0.12,False
+Rosemane Centaur,Creature,Centaur Soldier,Guilds of Ravnica,Common,5,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.03,False
+Skyknight Legionnaire,Creature,Human Knight,Guilds of Ravnica,Common,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Chase Stone',0.06,False
+Sonic Assault,Instant,None,Guilds of Ravnica,Common,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Tyler Walpole',0.05,False
+Sumala Woodshaper,Creature,Elf Druid,Guilds of Ravnica,Common,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Sara Winters',0.05,False
+Swarm Guildmage,Creature,Elf Shaman,Guilds of Ravnica,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Simon Dominic',0.09,False
+Swathcutter Giant,Creature,Giant Soldier,Guilds of Ravnica,Uncommon,6,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Aaron Miller',0.06,False
+Swiftblade Vindicator,Creature,Human Soldier,Guilds of Ravnica,Rare,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Viktor Titov',0.53,False
+Tajic Legion's Edge,Creature,Human Soldier,Guilds of Ravnica,Rare,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Anthony Palumbo',0.61,True
+Thief of Sanity,Creature,Specter,Guilds of Ravnica,Rare,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',1.96,False
+Thought Erasure,Sorcery,None,Guilds of Ravnica,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Anna Steinbauer',0.74,False
+Thousand-Year Storm,Enchantment,None,Guilds of Ravnica,Mythic Rare,6,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Dimitar Marinski',8.88,False
+Trostani Discordant,Creature,Dryad,Guilds of Ravnica,Mythic Rare,5,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Chase Stone',1.41,True
+Truefire Captain,Creature,Human Knight,Guilds of Ravnica,Uncommon,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Chris Rallis',0.15,False
+Undercity Uprising,Sorcery,None,Guilds of Ravnica,Common,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Magali Villeneuve',0.06,False
+Underrealm Lich,Creature,Zombie Elf Shaman,Guilds of Ravnica,Mythic Rare,5,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Anna Steinbauer',6.99,False
+Unmoored Ego,Sorcery,None,Guilds of Ravnica,Rare,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',0.61,False
+Vraska Golgari Queen,Planeswalker,Vraska,Guilds of Ravnica,Mythic Rare,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Magali Villeneuve',2.3,True
+Wee Dragonauts,Creature,Faerie Wizard,Guilds of Ravnica,Uncommon,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Greg Staples',0.13,False
+Worldsoul Colossus,Creature,Elemental,Guilds of Ravnica,Uncommon,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'James Paick',0.1,False
+Fresh-Faced Recruit,Creature,Human Soldier,Guilds of Ravnica,Common,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Anthony Palumbo',0.04,False
+Piston-Fist Cyclops,Creature,Cyclops,Guilds of Ravnica,Common,5,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.04,False
+Pitiless Gorgon,Creature,Gorgon,Guilds of Ravnica,Common,5,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Alex Konstad',0.08,False
+Vernadi Shieldmate,Creature,Human Soldier,Guilds of Ravnica,Common,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.03,False
+Whisper Agent,Creature,Human Rogue,Guilds of Ravnica,Common,5,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Deruchenko Alexander',0.1,False
+Assure,Instant,None,Guilds of Ravnica,Rare,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Jason A. Engle',0.21,False
+Connive,Sorcery,None,Guilds of Ravnica,Rare,6,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Dan Scott',0.34,False
+Discovery,Sorcery,None,Guilds of Ravnica,Uncommon,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Mark Behm',0.44,False
+Expansion,Instant,None,Guilds of Ravnica,Rare,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Deruchenko Alexander',4.06,False
+Find,Sorcery,None,Guilds of Ravnica,Rare,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.18,False
+Flower,Sorcery,None,Guilds of Ravnica,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Dmitry Burmak',0.12,False
+Integrity,Instant,None,Guilds of Ravnica,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Ben Maier',0.1,False
+Invert,Instant,None,Guilds of Ravnica,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Mathias Kollros',0.11,False
+Response,Instant,None,Guilds of Ravnica,Rare,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Daarken',0.23,False
+Status,Instant,None,Guilds of Ravnica,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Ben Wootten',0.12,False
+Boros Locket,Artifact,None,Guilds of Ravnica,Common,3,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Aaron Miller',0.11,False
+Chamber Sentry,Artifact Creature,Construct,Guilds of Ravnica,Rare,1,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.25,False
+Chromatic Lantern,Artifact,None,Guilds of Ravnica,Rare,3,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jung Park',7.64,False
+Dimir Locket,Artifact,None,Guilds of Ravnica,Common,3,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Zezhou Chen',0.1,False
+Gatekeeper Gargoyle,Artifact Creature,Gargoyle,Guilds of Ravnica,Uncommon,6,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.08,False
+Glaive of the Guildpact,Artifact,Equipment,Guilds of Ravnica,Uncommon,2,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',0.09,False
+Golgari Locket,Artifact,None,Guilds of Ravnica,Common,3,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Milivoj \xc4\x86eran',0.09,False
+Izzet Locket,Artifact,None,Guilds of Ravnica,Common,3,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Dmitry Burmak',0.1,False
+Rampaging Monument,Artifact Creature,Cleric,Guilds of Ravnica,Uncommon,4,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Tyler Walpole',0.08,False
+Selesnya Locket,Artifact,None,Guilds of Ravnica,Common,3,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Winona Nelson',0.08,False
+Silent Dart,Artifact,None,Guilds of Ravnica,Uncommon,1,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Yeong-Hao Han',0.05,False
+Wand of Vertebrae,Artifact,None,Guilds of Ravnica,Uncommon,1,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',0.07,False
+Boros Guildgate,Land,Gate,Guilds of Ravnica,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Titus Lunter',0.07,False
+Boros Guildgate,Land,Gate,Guilds of Ravnica,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Titus Lunter',0.1,False
+Dimir Guildgate,Land,Gate,Guilds of Ravnica,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Cliff Childs',0.08,False
+Dimir Guildgate,Land,Gate,Guilds of Ravnica,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Cliff Childs',0.07,False
+Gateway Plaza,Land,Gate,Guilds of Ravnica,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jedd Chevrier',0.09,False
+Golgari Guildgate,Land,Gate,Guilds of Ravnica,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Eytan Zana',0.08,False
+Golgari Guildgate,Land,Gate,Guilds of Ravnica,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Eytan Zana',0.08,False
+Guildmages' Forum,Land,None,Guilds of Ravnica,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.33,False
+Izzet Guildgate,Land,Gate,Guilds of Ravnica,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Kirsten Zirngibl',0.08,False
+Izzet Guildgate,Land,Gate,Guilds of Ravnica,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Kirsten Zirngibl',0.09,False
+Overgrown Tomb,Land,Swamp Forest,Guilds of Ravnica,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Yeong-Hao Han',12.05,False
+Sacred Foundry,Land,Mountain Plains,Guilds of Ravnica,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',14.65,False
+Selesnya Guildgate,Land,Gate,Guilds of Ravnica,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Dimitar Marinski',0.06,False
+Selesnya Guildgate,Land,Gate,Guilds of Ravnica,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Dimitar Marinski',0.08,False
+Steam Vents,Land,Island Mountain,Guilds of Ravnica,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jonas De Ro',10.95,False
+Temple Garden,Land,Forest Plains,Guilds of Ravnica,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Titus Lunter',10.7,False
+Watery Grave,Land,Island Swamp,Guilds of Ravnica,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Cliff Childs',8.62,False
+Plains,Basic Land,Plains,Guilds of Ravnica,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Richard Wright',0.16,False
+Island,Basic Land,Island,Guilds of Ravnica,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Richard Wright',0.32,False
+Swamp,Basic Land,Swamp,Guilds of Ravnica,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Richard Wright',0.29,False
+Mountain,Basic Land,Mountain,Guilds of Ravnica,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Richard Wright',0.24,False
+Forest,Basic Land,Forest,Guilds of Ravnica,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Richard Wright',0.24,False
+Ral Caller of Storms,Planeswalker,Ral,Guilds of Ravnica,Mythic Rare,6,Gold,Legal,Legal,Legal,Legal,Legal,False,b'Kieran Yanner',1.24,True
+Ral's Dispersal,Instant,None,Guilds of Ravnica,Rare,5,Blue,Legal,Legal,Legal,Legal,Legal,False,b'Lake Hurwitz',0.18,False
+Precision Bolt,Sorcery,None,Guilds of Ravnica,Common,3,Red,Legal,Legal,Legal,Legal,Legal,False,b'Grzegorz Rutkowski',0.15,False
+Ral's Staticaster,Creature,Viashino Wizard,Guilds of Ravnica,Uncommon,4,Gold,Legal,Legal,Legal,Legal,Legal,False,b'Even Amundsen',0.13,False
+Vraska Regal Gorgon,Planeswalker,Vraska,Guilds of Ravnica,Mythic Rare,7,Gold,Legal,Legal,Legal,Legal,Legal,False,b'Magali Villeneuve',1.66,True
+Kraul Raider,Creature,Insect Warrior,Guilds of Ravnica,Common,3,Black,Legal,Legal,Legal,Legal,Legal,False,b'Ben Wootten',0.13,False
+Attendant of Vraska,Creature,Zombie Soldier,Guilds of Ravnica,Uncommon,3,Gold,Legal,Legal,Legal,Legal,Legal,False,b'Magali Villeneuve',0.16,False
+Vraska's Stoneglare,Sorcery,None,Guilds of Ravnica,Rare,6,Gold,Legal,Legal,Legal,Legal,Legal,False,b'Yongjae Choi',0.23,False
+Impervious Greatwurm,Creature,Wurm,Guilds of Ravnica,Mythic Rare,10,Green,Legal,Legal,Legal,Legal,Legal,True,b'Simon Dominic',4.14,False

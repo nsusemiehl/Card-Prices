@@ -1,250 +1,250 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Akrasan Squire,Creature,Human Soldier,Shards of Alara,Common,1,White,True,False,True,True,b'Todd Lockwood',0.21
-Angel's Herald,Creature,Human Cleric,Shards of Alara,Uncommon,1,White,True,False,True,True,b'Greg Staples',0.07
-Angelic Benediction,Enchantment,None,Shards of Alara,Uncommon,4,White,True,False,True,True,b'Michael Komarck',0.11
-Angelsong,Instant,None,Shards of Alara,Common,2,White,True,False,True,True,b'Sal Villagran',0.2
-Bant Battlemage,Creature,Human Wizard,Shards of Alara,Uncommon,3,White,True,False,True,True,b'Donato Giancola',0.15
-Battlegrace Angel,Creature,Angel,Shards of Alara,Rare,5,White,True,False,True,True,b'Matt Stewart',0.55
-Cradle of Vitality,Enchantment,None,Shards of Alara,Rare,4,White,True,False,True,True,b'Trevor Hairsine',1.17
-Dispeller's Capsule,Artifact,None,Shards of Alara,Common,1,White,True,False,True,True,b'Franz Vohwinkel',0.12
-"Elspeth, Knight-Errant",Legendary Planeswalker,Elspeth,Shards of Alara,Mythic Rare,4,White,True,False,True,True,b'Volkan Ba\xc7\xb5a',11.31
-Ethersworn Canonist,Artifact Creature,Human Cleric,Shards of Alara,Rare,2,White,True,False,True,True,b'Izzy',5.6
-Excommunicate,Sorcery,None,Shards of Alara,Common,3,White,True,False,True,True,b'Matt Stewart',0.16
-Guardians of Akrasa,Creature,Human Soldier,Shards of Alara,Common,3,White,True,False,True,True,b'Alan Pollack',0.09
-Gustrider Exuberant,Creature,Human Wizard,Shards of Alara,Common,3,White,True,False,True,True,b'Wayne Reynolds',0.08
-Invincible Hymn,Sorcery,None,Shards of Alara,Rare,8,White,True,False,True,True,b'Matt Stewart',0.4
-Knight of the Skyward Eye,Creature,Human Knight,Shards of Alara,Common,2,White,True,False,True,True,b'Matt Stewart',0.06
-Knight of the White Orchid,Creature,Human Knight,Shards of Alara,Rare,2,White,True,False,True,True,b'Mark Zug',6.61
-Knight-Captain of Eos,Creature,Human Knight,Shards of Alara,Rare,5,White,True,False,True,True,b'Chris Rahn',1.96
-Marble Chalice,Artifact,None,Shards of Alara,Common,3,White,True,False,True,True,b'Howard Lyon',0.11
-Metallurgeon,Artifact Creature,Human Artificer,Shards of Alara,Uncommon,2,White,True,False,True,True,b'Warren Mahy',0.1
-Oblivion Ring,Enchantment,None,Shards of Alara,Common,3,White,True,False,True,True,b'Franz Vohwinkel',0.29
-Ranger of Eos,Creature,Human Soldier,Shards of Alara,Rare,4,White,True,False,True,True,b'Volkan Ba\xc7\xb5a',2.18
-Resounding Silence,Instant,None,Shards of Alara,Common,4,White,True,False,True,True,b'Mark Zug',0.09
-Rockcaster Platoon,Creature,Rhino Soldier,Shards of Alara,Uncommon,7,White,True,False,True,True,b'David Palumbo',0.07
-Sanctum Gargoyle,Artifact Creature,Gargoyle,Shards of Alara,Common,4,White,True,False,True,True,b'Shelly Wan',0.09
-Scourglass,Artifact,None,Shards of Alara,Rare,5,White,True,False,True,True,b'Matt Cavotta',2.45
-Sighted-Caste Sorcerer,Creature,Human Wizard,Shards of Alara,Common,2,White,True,False,True,True,b'Chris Rahn',0.09
-Sigiled Paladin,Creature,Human Knight,Shards of Alara,Uncommon,2,White,True,False,True,True,b'Greg Staples',0.4
-Soul's Grace,Instant,None,Shards of Alara,Common,2,White,True,False,True,True,b'Christopher Moeller',0.12
-Sunseed Nurturer,Creature,Human Druid Wizard,Shards of Alara,Uncommon,3,White,True,False,True,True,b'Steve Argyle',0.06
-Welkin Guide,Creature,Bird Cleric,Shards of Alara,Common,5,White,True,False,True,True,b'David Palumbo',0.1
-Yoked Plowbeast,Creature,Beast,Shards of Alara,Common,7,White,True,False,True,True,b'Steve Argyle',0.08
-Call to Heel,Instant,None,Shards of Alara,Common,2,Blue,True,False,True,True,b'Randy Gallegos',0.08
-Cancel,Instant,None,Shards of Alara,Common,3,Blue,True,False,True,True,b'David Palumbo',0.08
-Cathartic Adept,Creature,Human Wizard,Shards of Alara,Common,1,Blue,True,False,True,True,b'Carl Critchlow',0.15
-Cloudheath Drake,Artifact Creature,Drake,Shards of Alara,Common,5,Blue,True,False,True,True,b'Izzy',0.04
-Coma Veil,Enchantment,Aura,Shards of Alara,Common,5,Blue,True,False,True,True,b'Dan Scott',0.05
-Courier's Capsule,Artifact,None,Shards of Alara,Common,2,Blue,True,False,True,True,b'Andrew Murray',0.18
-Covenant of Minds,Sorcery,None,Shards of Alara,Rare,5,Blue,True,False,True,True,b'Dan Seagrave',0.16
-Dawnray Archer,Creature,Human Archer,Shards of Alara,Uncommon,3,Blue,True,False,True,True,b'Dan Dos Santos',0.08
-Esper Battlemage,Artifact Creature,Human Wizard,Shards of Alara,Uncommon,3,Blue,True,False,True,True,b'Matt Cavotta',0.14
-Etherium Astrolabe,Artifact,None,Shards of Alara,Uncommon,3,Blue,True,False,True,True,b'Michael Bruinsma',0.12
-Etherium Sculptor,Artifact Creature,Vedalken Artificer,Shards of Alara,Common,2,Blue,True,False,True,True,b'Steven Belledin',0.34
-Fatestitcher,Creature,Zombie Wizard,Shards of Alara,Uncommon,4,Blue,True,False,True,True,b'E. M. Gist',1.28
-Filigree Sages,Artifact Creature,Vedalken Wizard,Shards of Alara,Uncommon,4,Blue,True,False,True,True,b'Dan Scott',0.22
-Gather Specimens,Instant,None,Shards of Alara,Rare,6,Blue,True,False,True,True,b'Michael Bruinsma',0.62
-Jhessian Lookout,Creature,Human Scout,Shards of Alara,Common,2,Blue,True,False,True,True,b'Donato Giancola',0.07
-Kathari Screecher,Creature,Bird Soldier,Shards of Alara,Common,3,Blue,True,False,True,True,b'Pete Venters',0.07
-Kederekt Leviathan,Creature,Leviathan,Shards of Alara,Rare,8,Blue,True,False,True,True,b'Mark Hyzer',4.57
-Master of Etherium,Artifact Creature,Vedalken Wizard,Shards of Alara,Rare,3,Blue,True,False,True,True,b'Matt Cavotta',2.75
-Memory Erosion,Enchantment,None,Shards of Alara,Rare,3,Blue,True,False,True,True,b'Howard Lyon',1.81
-Mindlock Orb,Artifact,None,Shards of Alara,Rare,4,Blue,True,False,True,True,b'rk post',0.46
-Outrider of Jhess,Creature,Human Knight,Shards of Alara,Common,4,Blue,True,False,True,True,b'Alan Pollack',0.09
-Protomatter Powder,Artifact,None,Shards of Alara,Uncommon,3,Blue,True,False,True,True,b'Francis Tsai',0.13
-Resounding Wave,Instant,None,Shards of Alara,Common,3,Blue,True,False,True,True,b'Izzy',0.16
-Sharding Sphinx,Artifact Creature,Sphinx,Shards of Alara,Rare,6,Blue,True,False,True,True,b'Michael Bruinsma',0.37
-Skill Borrower,Artifact Creature,Human Wizard,Shards of Alara,Rare,3,Blue,True,False,True,True,b'Shelly Wan',0.36
-Spell Snip,Instant,None,Shards of Alara,Common,3,Blue,True,False,True,True,b'Michael Sutfin',0.11
-Sphinx's Herald,Artifact Creature,Vedalken Wizard,Shards of Alara,Uncommon,1,Blue,True,False,True,True,b'Dan Scott',0.15
-Steelclad Serpent,Artifact Creature,Serpent,Shards of Alara,Common,6,Blue,True,False,True,True,b'Carl Critchlow',0.07
-Tezzeret the Seeker,Legendary Planeswalker,Tezzeret,Shards of Alara,Mythic Rare,5,Blue,True,False,True,True,b'Anthony Francisco',16.39
-Tortoise Formation,Instant,None,Shards of Alara,Common,4,Blue,True,False,True,True,b'Mark Zug',0.04
-Vectis Silencers,Artifact Creature,Human Rogue,Shards of Alara,Common,3,Blue,True,False,True,True,b'Steven Belledin',0.07
-Ad Nauseam,Instant,None,Shards of Alara,Rare,5,Black,True,False,True,True,b'Jeremy Jarvis',22.89
-Archdemon of Unx,Creature,Demon,Shards of Alara,Rare,7,Black,True,False,True,True,b'Dave Allsop',0.24
-Banewasp Affliction,Enchantment,Aura,Shards of Alara,Common,2,Black,True,False,True,True,b'Dave Allsop',0.07
-Blister Beetle,Creature,Insect,Shards of Alara,Common,2,Black,True,False,True,True,b'Anthony S. Waters',0.05
-Bone Splinters,Sorcery,None,Shards of Alara,Common,1,Black,True,True,True,True,b'Cole Eastburn',0.09
-Corpse Connoisseur,Creature,Zombie Wizard,Shards of Alara,Uncommon,5,Black,True,False,True,True,b'Mark Hyzer',0.33
-Cunning Lethemancer,Creature,Human Wizard,Shards of Alara,Rare,3,Black,True,False,True,True,b'Paul Bonner',0.68
-Death Baron,Creature,Zombie Wizard,Shards of Alara,Rare,3,Black,True,False,True,True,b'Nils Hamm',3.39
-Deathgreeter,Creature,Human Shaman,Shards of Alara,Common,1,Black,True,False,True,True,b'Dominick Domingo',0.55
-Demon's Herald,Creature,Human Wizard,Shards of Alara,Uncommon,1,Black,True,False,True,True,b'Karl Kopinski',0.11
-Dreg Reaver,Creature,Zombie Beast,Shards of Alara,Common,5,Black,True,False,True,True,b'Thomas M. Baxa',0.08
-Dregscape Zombie,Creature,Zombie,Shards of Alara,Common,2,Black,True,False,True,True,b'Lars Grant-West',0.1
-Executioner's Capsule,Artifact,None,Shards of Alara,Common,1,Black,True,False,True,True,b'Warren Mahy',0.2
-Fleshbag Marauder,Creature,Zombie Warrior,Shards of Alara,Uncommon,3,Black,True,False,True,True,b'Pete Venters',0.33
-Glaze Fiend,Artifact Creature,Illusion,Shards of Alara,Common,2,Black,True,False,True,True,b'Joshua Hagler',0.13
-Grixis Battlemage,Creature,Human Wizard,Shards of Alara,Uncommon,3,Black,True,False,True,True,b'Nils Hamm',0.1
-Immortal Coil,Artifact,None,Shards of Alara,Rare,4,Black,True,False,True,True,b'Dan Scott',0.29
-Infest,Sorcery,None,Shards of Alara,Uncommon,3,Black,True,False,True,True,b'Karl Kopinski',0.11
-Onyx Goblet,Artifact,None,Shards of Alara,Common,3,Black,True,False,True,True,b'rk post',0.09
-Puppet Conjurer,Artifact Creature,Human Wizard,Shards of Alara,Uncommon,2,Black,True,False,True,True,b'Steven Belledin',0.1
-Resounding Scream,Sorcery,None,Shards of Alara,Common,3,Black,True,False,True,True,b'Thomas M. Baxa',0.06
-Salvage Titan,Artifact Creature,Golem,Shards of Alara,Rare,6,Black,True,False,True,True,b'Anthony Francisco',0.4
-Scavenger Drake,Creature,Drake,Shards of Alara,Uncommon,4,Black,True,False,True,True,b'Trevor Claxton',0.09
-Shadowfeed,Instant,None,Shards of Alara,Common,1,Black,True,False,True,True,b'Dave Kendall',0.08
-Shore Snapper,Creature,Beast,Shards of Alara,Common,3,Black,True,False,True,True,b'Dave Kendall',0.07
-Skeletal Kathari,Creature,Bird Skeleton,Shards of Alara,Common,5,Black,True,False,True,True,b'Carl Critchlow',0.17
-Tar Fiend,Creature,Elemental,Shards of Alara,Rare,6,Black,True,False,True,True,b'Anthony S. Waters',0.22
-Undead Leotau,Creature,Zombie Cat,Shards of Alara,Common,6,Black,True,False,True,True,b'Carl Critchlow',0.07
-Vein Drinker,Creature,Vampire,Shards of Alara,Rare,6,Black,True,False,True,True,b'Lars Grant-West',0.21
-Viscera Dragger,Creature,Zombie Ogre Warrior,Shards of Alara,Common,4,Black,True,False,True,True,b'Ralph Horsley',0.16
-Bloodpyre Elemental,Creature,Elemental,Shards of Alara,Common,5,Red,True,False,True,True,b'Trevor Claxton',0.07
-Bloodthorn Taunter,Creature,Human Scout,Shards of Alara,Common,2,Red,True,False,True,True,b'Jesper Ejsing',0.09
-Caldera Hellion,Creature,Hellion,Shards of Alara,Rare,5,Red,True,False,True,True,b'Raymond Swanland',0.29
-Crucible of Fire,Enchantment,None,Shards of Alara,Rare,4,Red,True,False,True,True,b'Dominick Domingo',0.52
-Dragon Fodder,Sorcery,None,Shards of Alara,Common,2,Red,True,False,True,True,b'Jaime Jones',0.12
-Dragon's Herald,Creature,Goblin Shaman,Shards of Alara,Uncommon,1,Red,True,False,True,True,b'Daarken',0.12
-Exuberant Firestoker,Creature,Human Druid Shaman,Shards of Alara,Uncommon,3,Red,True,False,True,True,b'Zoltan Boros',0.15
-Flameblast Dragon,Creature,Dragon,Shards of Alara,Rare,6,Red,True,False,True,True,b'Jaime Jones',0.56
-Goblin Assault,Enchantment,None,Shards of Alara,Rare,3,Red,True,False,True,True,b'Jaime Jones',0.57
-Goblin Mountaineer,Creature,Goblin Scout,Shards of Alara,Common,1,Red,True,False,True,True,b'Michael Ryan',0.1
-Hell's Thunder,Creature,Elemental,Shards of Alara,Rare,3,Red,True,False,True,True,b'Karl Kopinski',0.27
-Hissing Iguanar,Creature,Lizard,Shards of Alara,Common,3,Red,True,False,True,True,b'Brandon Kitkouski',0.1
-Incurable Ogre,Creature,Ogre Mutant,Shards of Alara,Common,4,Red,True,False,True,True,b'Carl Critchlow',0.07
-Jund Battlemage,Creature,Human Shaman,Shards of Alara,Uncommon,3,Red,True,False,True,True,b'Vance Kovacs',0.07
-Lightning Talons,Enchantment,Aura,Shards of Alara,Common,3,Red,True,False,True,True,b'Pete Venters',0.07
-Magma Spray,Instant,None,Shards of Alara,Common,1,Red,True,False,True,True,b'Jarreau Wimberly',0.15
-Predator Dragon,Creature,Dragon,Shards of Alara,Rare,6,Red,True,False,True,True,b'Raymond Swanland',0.73
-Resounding Thunder,Instant,None,Shards of Alara,Common,3,Red,True,False,True,True,b'Jon Foster',0.09
-Ridge Rannet,Creature,Beast,Shards of Alara,Common,7,Red,True,False,True,True,b'Jim Murray',0.08
-Rockslide Elemental,Creature,Elemental,Shards of Alara,Uncommon,3,Red,True,False,True,True,b'Joshua Hagler',0.19
-Scourge Devil,Creature,Devil,Shards of Alara,Uncommon,5,Red,True,False,True,True,b'Dave Kendall',0.09
-Skeletonize,Instant,None,Shards of Alara,Uncommon,5,Red,True,False,True,True,b'Karl Kopinski',0.04
-Soul's Fire,Instant,None,Shards of Alara,Common,3,Red,True,False,True,True,b'Wayne Reynolds',0.28
-Thorn-Thrash Viashino,Creature,Viashino Warrior,Shards of Alara,Common,4,Red,True,False,True,True,b'Jon Foster',0.06
-Thunder-Thrash Elder,Creature,Viashino Warrior,Shards of Alara,Uncommon,3,Red,True,False,True,True,b'Brandon Kitkouski',0.1
-Viashino Skeleton,Creature,Viashino Skeleton,Shards of Alara,Common,4,Red,True,False,True,True,b'Cole Eastburn',0.04
-Vicious Shadows,Enchantment,None,Shards of Alara,Rare,7,Red,True,False,True,True,b'Joshua Hagler',3.53
-Vithian Stinger,Creature,Human Shaman,Shards of Alara,Common,3,Red,True,False,True,True,b'Dave Kendall',0.1
-Volcanic Submersion,Sorcery,None,Shards of Alara,Common,5,Red,True,False,True,True,b'Trevor Claxton',0.07
-Where Ancients Tread,Enchantment,None,Shards of Alara,Rare,5,Red,True,False,True,True,b'Zoltan Boros',0.49
-Algae Gharial,Creature,Crocodile,Shards of Alara,Uncommon,4,Green,True,False,True,True,b'Michael Ryan',0.05
-Behemoth's Herald,Creature,Elf Shaman,Shards of Alara,Uncommon,1,Green,True,False,True,True,b'Paolo Parente',0.14
-Cavern Thoctar,Creature,Beast,Shards of Alara,Common,6,Green,True,False,True,True,b'Jean-S\xc3\xa9bastien Rossbach',0.07
-Court Archers,Creature,Human Archer,Shards of Alara,Common,3,Green,True,False,True,True,b'Randy Gallegos',0.12
-Cylian Elf,Creature,Elf Scout,Shards of Alara,Common,2,Green,True,False,True,True,b'Steve Prescott',0.09
-Druid of the Anima,Creature,Elf Druid,Shards of Alara,Common,2,Green,True,False,True,True,b'Jim Murray',0.24
-Drumhunter,Creature,Human Druid Warrior,Shards of Alara,Uncommon,4,Green,True,False,True,True,b'Jim Murray',0.74
-Elvish Visionary,Creature,Elf Shaman,Shards of Alara,Common,2,Green,True,False,True,True,b'D. Alexander Gregory',0.17
-Feral Hydra,Creature,Hydra Beast,Shards of Alara,Rare,2,Green,True,False,True,True,b'Steve Prescott',0.57
-Gift of the Gargantuan,Sorcery,None,Shards of Alara,Common,3,Green,True,False,True,True,b'Jean-S\xc3\xa9bastien Rossbach',0.09
-Godtoucher,Creature,Elf Cleric,Shards of Alara,Common,4,Green,True,False,True,True,b'Jesper Ejsing',0.09
-Jungle Weaver,Creature,Spider,Shards of Alara,Common,7,Green,True,False,True,True,b'Trevor Hairsine',0.12
-Keeper of Progenitus,Creature,Elf Druid,Shards of Alara,Rare,4,Green,True,False,True,True,b'Kev Walker',1.22
-Lush Growth,Enchantment,Aura,Shards of Alara,Common,1,Green,True,False,True,True,b'Jesper Ejsing',0.13
-Mighty Emergence,Enchantment,None,Shards of Alara,Uncommon,3,Green,True,False,True,True,b'Steve Prescott',0.14
-Manaplasm,Creature,Ooze,Shards of Alara,Rare,3,Green,True,False,True,True,b'Daarken',0.19
-Mosstodon,Creature,Plant Elephant,Shards of Alara,Common,5,Green,True,False,True,True,b'Paolo Parente',0.09
-Mycoloth,Creature,Fungus,Shards of Alara,Rare,5,Green,True,False,True,True,b'Raymond Swanland',3.15
-Naturalize,Instant,None,Shards of Alara,Common,2,Green,True,False,True,True,b'Trevor Hairsine',0.07
-Naya Battlemage,Creature,Human Shaman,Shards of Alara,Uncommon,3,Green,True,False,True,True,b'Steve Argyle',0.09
-Ooze Garden,Enchantment,None,Shards of Alara,Rare,2,Green,True,False,True,True,b'Anthony S. Waters',0.29
-Resounding Roar,Instant,None,Shards of Alara,Common,2,Green,True,False,True,True,b'Steve Prescott',0.09
-Rhox Charger,Creature,Rhino Soldier,Shards of Alara,Uncommon,4,Green,True,False,True,True,b'Chris Rahn',0.15
-Sacellum Godspeaker,Creature,Elf Druid,Shards of Alara,Rare,3,Green,True,False,True,True,b'Wayne Reynolds',0.21
-Savage Hunger,Enchantment,Aura,Shards of Alara,Common,3,Green,True,False,True,True,b'Trevor Claxton',0.07
-Skullmulcher,Creature,Elemental,Shards of Alara,Rare,5,Green,True,False,True,True,b'Michael Ryan',0.41
-Soul's Might,Sorcery,None,Shards of Alara,Common,5,Green,True,False,True,True,b'Kev Walker',0.21
-Spearbreaker Behemoth,Creature,Beast,Shards of Alara,Rare,7,Green,True,False,True,True,b'Christopher Moeller',2.75
-Topan Ascetic,Creature,Human Monk,Shards of Alara,Uncommon,3,Green,True,False,True,True,b'Sal Villagran',0.06
-Wild Nacatl,Creature,Cat Warrior,Shards of Alara,Common,1,Green,True,False,True,True,b'Wayne Reynolds',0.51
-Agony Warp,Instant,None,Shards of Alara,Common,2,Gold,True,False,True,True,b'Dave Allsop',0.1
-Ajani Vengeant,Legendary Planeswalker,Ajani,Shards of Alara,Mythic Rare,4,Gold,True,False,True,True,b'Wayne Reynolds',5.53
-Bant Charm,Instant,None,Shards of Alara,Uncommon,3,Gold,True,False,True,True,b'Randy Gallegos',0.4
-Blightning,Sorcery,None,Shards of Alara,Common,3,Gold,True,False,True,True,b'Thomas M. Baxa',0.32
-Blood Cultist,Creature,Human Wizard,Shards of Alara,Uncommon,3,Gold,True,False,True,True,b'Karl Kopinski',0.15
-Branching Bolt,Instant,None,Shards of Alara,Common,3,Gold,True,False,True,True,b'Vance Kovacs',0.11
-Brilliant Ultimatum,Sorcery,None,Shards of Alara,Rare,7,Gold,True,False,True,True,b'Anthony Francisco',1.11
-Broodmate Dragon,Creature,Dragon,Shards of Alara,Rare,6,Gold,True,False,True,True,b'Vance Kovacs',0.35
-Bull Cerodon,Creature,Beast,Shards of Alara,Uncommon,6,Gold,True,False,True,True,b'Jesper Ejsing',0.07
-Carrion Thrash,Creature,Viashino Warrior,Shards of Alara,Common,5,Gold,True,False,True,True,b'Jaime Jones',0.06
-Clarion Ultimatum,Sorcery,None,Shards of Alara,Rare,7,Gold,True,False,True,True,b'Michael Komarck',0.28
-Cruel Ultimatum,Sorcery,None,Shards of Alara,Rare,7,Gold,True,False,True,True,b'Ralph Horsley',0.37
-Deft Duelist,Creature,Human Rogue,Shards of Alara,Common,2,Gold,True,False,True,True,b'David Palumbo',0.1
-Empyrial Archangel,Creature,Angel,Shards of Alara,Mythic Rare,8,Gold,True,False,True,True,b'Greg Staples',2.27
-Esper Charm,Instant,None,Shards of Alara,Uncommon,3,Gold,True,False,True,True,b'Michael Bruinsma',0.67
-Fire-Field Ogre,Creature,Ogre Mutant,Shards of Alara,Uncommon,4,Gold,True,False,True,True,b'Mitch Cotie',0.1
-Goblin Deathraiders,Creature,Goblin Warrior,Shards of Alara,Common,2,Gold,True,False,True,True,b'Raymond Swanland',0.1
-Godsire,Creature,Beast,Shards of Alara,Mythic Rare,8,Gold,True,False,True,True,b'Jim Murray',12.27
-Grixis Charm,Instant,None,Shards of Alara,Uncommon,3,Gold,True,False,True,True,b'Lars Grant-West',0.13
-Hellkite Overlord,Creature,Dragon,Shards of Alara,Mythic Rare,8,Gold,True,False,True,True,b'Justin Sweet',5.17
-Hindering Light,Instant,None,Shards of Alara,Common,2,Gold,True,False,True,True,b'Chris Rahn',0.48
-Jhessian Infiltrator,Creature,Human Rogue,Shards of Alara,Uncommon,2,Gold,True,False,True,True,b'Donato Giancola',0.26
-Jund Charm,Instant,None,Shards of Alara,Uncommon,3,Gold,True,False,True,True,b'Brandon Kitkouski',0.27
-Kederekt Creeper,Creature,Horror,Shards of Alara,Common,3,Gold,True,False,True,True,b'Mark Hyzer',0.12
-Kiss of the Amesha,Sorcery,None,Shards of Alara,Uncommon,6,Gold,True,False,True,True,b'Todd Lockwood',0.08
-Kresh the Bloodbraided,Legendary Creature,Human Warrior,Shards of Alara,Mythic Rare,5,Gold,True,False,True,True,b'Raymond Swanland',4.06
-Mayael the Anima,Legendary Creature,Elf Shaman,Shards of Alara,Mythic Rare,3,Gold,True,False,True,True,b'Jason Chan',1.16
-Naya Charm,Instant,None,Shards of Alara,Uncommon,3,Gold,True,False,True,True,b'Jesper Ejsing',0.28
-Necrogenesis,Enchantment,None,Shards of Alara,Uncommon,2,Gold,True,False,True,True,b'Trevor Claxton',0.19
-Prince of Thralls,Creature,Demon,Shards of Alara,Mythic Rare,8,Gold,True,False,True,True,b'Paul Bonner',3.2
-Punish Ignorance,Instant,None,Shards of Alara,Rare,4,Gold,True,False,True,True,b'Shelly Wan',0.26
-Qasali Ambusher,Creature,Cat Warrior,Shards of Alara,Uncommon,3,Gold,True,False,True,True,b'Kev Walker',0.75
-Rafiq of the Many,Legendary Creature,Human Knight,Shards of Alara,Mythic Rare,4,Gold,True,False,True,True,b'Michael Komarck',6.79
-Rakeclaw Gargantuan,Creature,Beast,Shards of Alara,Common,5,Gold,True,False,True,True,b'Jesper Ejsing',0.1
-Realm Razer,Creature,Beast,Shards of Alara,Rare,6,Gold,True,False,True,True,b'Hideaki Takamura',0.34
-Rhox War Monk,Creature,Rhino Monk,Shards of Alara,Uncommon,3,Gold,True,False,True,True,b'Dan Dos Santos',0.11
-Rip-Clan Crasher,Creature,Human Warrior,Shards of Alara,Common,2,Gold,True,False,True,True,b'Justin Sweet',0.14
-Sangrite Surge,Sorcery,None,Shards of Alara,Uncommon,6,Gold,True,False,True,True,b'Jarreau Wimberly',0.06
-Sarkhan Vol,Legendary Planeswalker,Sarkhan,Shards of Alara,Mythic Rare,4,Gold,True,False,True,True,b'Daarken',6.0
-Sedraxis Specter,Creature,Specter,Shards of Alara,Rare,3,Gold,True,False,True,True,b'Cole Eastburn',0.18
-"Sedris, the Traitor King",Legendary Creature,Zombie Warrior,Shards of Alara,Mythic Rare,6,Gold,True,False,True,True,b'Paul Bonner',3.16
-Sharuum the Hegemon,Legendary Artifact Creature,Sphinx,Shards of Alara,Mythic Rare,6,Gold,True,False,True,True,b'Izzy',0.85
-Sigil Blessing,Instant,None,Shards of Alara,Common,2,Gold,True,False,True,True,b'Matt Stewart',0.14
-Sphinx Sovereign,Artifact Creature,Sphinx,Shards of Alara,Mythic Rare,8,Gold,True,False,True,True,b'Chippy',2.22
-Sprouting Thrinax,Creature,Lizard,Shards of Alara,Uncommon,3,Gold,True,False,True,True,b'Jarreau Wimberly',0.11
-Steward of Valeron,Creature,Human Druid Knight,Shards of Alara,Common,2,Gold,True,False,True,True,b'Greg Staples',0.18
-Stoic Angel,Creature,Angel,Shards of Alara,Rare,4,Gold,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.61
-Swerve,Instant,None,Shards of Alara,Uncommon,2,Gold,True,False,True,True,b'Karl Kopinski',0.32
-Thoughtcutter Agent,Artifact Creature,Human Rogue,Shards of Alara,Uncommon,2,Gold,True,False,True,True,b'Cyril Van Der Haegen',0.11
-Tidehollow Sculler,Artifact Creature,Zombie,Shards of Alara,Uncommon,2,Gold,True,False,True,True,b'rk post',0.7
-Tidehollow Strix,Artifact Creature,Bird,Shards of Alara,Common,2,Gold,True,False,True,True,b'Cyril Van Der Haegen',0.14
-Titanic Ultimatum,Sorcery,None,Shards of Alara,Rare,7,Gold,True,False,True,True,b'Steve Prescott',1.35
-Tower Gargoyle,Artifact Creature,Gargoyle,Shards of Alara,Uncommon,4,Gold,True,False,True,True,b'Matt Cavotta',0.12
-Violent Ultimatum,Sorcery,None,Shards of Alara,Rare,7,Gold,True,False,True,True,b'Raymond Swanland',0.64
-Waveskimmer Aven,Creature,Bird Soldier,Shards of Alara,Common,5,Gold,True,False,True,True,b'Mark Zug',0.08
-Windwright Mage,Artifact Creature,Human Wizard,Shards of Alara,Common,3,Gold,True,False,True,True,b'Chippy',0.1
-Woolly Thoctar,Creature,Beast,Shards of Alara,Uncommon,3,Gold,True,False,True,True,b'Wayne Reynolds',0.19
-Lich's Mirror,Artifact,None,Shards of Alara,Mythic Rare,5,Colorless,True,False,True,True,b'Ash Wood',4.69
-Minion Reflector,Artifact,None,Shards of Alara,Rare,5,Colorless,True,False,True,True,b'Mark Tedin',1.51
-Obelisk of Bant,Artifact,None,Shards of Alara,Common,3,Colorless,True,False,True,True,b'David Palumbo',0.16
-Obelisk of Esper,Artifact,None,Shards of Alara,Common,3,Colorless,True,False,True,True,b'Francis Tsai',0.17
-Obelisk of Grixis,Artifact,None,Shards of Alara,Common,3,Colorless,True,False,True,True,b'Nils Hamm',0.16
-Obelisk of Jund,Artifact,None,Shards of Alara,Common,3,Colorless,True,False,True,True,b'Brandon Kitkouski',0.12
-Obelisk of Naya,Artifact,None,Shards of Alara,Common,3,Colorless,True,False,True,True,b'Steve Prescott',0.14
-Quietus Spike,Artifact,Equipment,Shards of Alara,Rare,3,Colorless,True,False,True,True,b'Mark Brill',1.66
-Relic of Progenitus,Artifact,None,Shards of Alara,Common,1,Colorless,True,False,True,True,b'Jean-S\xc3\xa9bastien Rossbach',1.72
-Sigil of Distinction,Artifact,Equipment,Shards of Alara,Rare,1,Colorless,True,False,True,True,b'Alan Pollack',0.91
-Arcane Sanctum,Land,None,Shards of Alara,Uncommon,0,Colorless,True,False,True,True,b'Anthony Francisco',1.3
-Bant Panorama,Land,None,Shards of Alara,Common,0,Colorless,True,False,True,True,b'Donato Giancola',1.57
-Crumbling Necropolis,Land,None,Shards of Alara,Uncommon,0,Colorless,True,False,True,True,b'Dave Kendall',0.38
-Esper Panorama,Land,None,Shards of Alara,Common,0,Colorless,True,False,True,True,b'Franz Vohwinkel',0.76
-Grixis Panorama,Land,None,Shards of Alara,Common,0,Colorless,True,False,True,True,b'Nils Hamm',1.25
-Jund Panorama,Land,None,Shards of Alara,Common,0,Colorless,True,False,True,True,b'Jaime Jones',0.82
-Jungle Shrine,Land,None,Shards of Alara,Uncommon,0,Colorless,True,False,True,True,b'Wayne Reynolds',0.42
-Naya Panorama,Land,None,Shards of Alara,Common,0,Colorless,True,False,True,True,b'Hideaki Takamura',0.6
-Savage Lands,Land,None,Shards of Alara,Uncommon,0,Colorless,True,False,True,True,b'Vance Kovacs',0.99
-Seaside Citadel,Land,None,Shards of Alara,Uncommon,0,Colorless,True,False,True,True,b'Volkan Ba\xc7\xb5a',1.47
-Plains,Basic Land,Plains,Shards of Alara,Common,0,Colorless,True,True,True,True,b'Zoltan Boros',0.14
-Plains,Basic Land,Plains,Shards of Alara,Common,0,Colorless,True,True,True,True,b'Michael Komarck',0.16
-Plains,Basic Land,Plains,Shards of Alara,Common,0,Colorless,True,True,True,True,b'Michael Komarck',0.16
-Plains,Basic Land,Plains,Shards of Alara,Common,0,Colorless,True,True,True,True,b'Chippy',0.63
-Island,Basic Land,Island,Shards of Alara,Common,0,Colorless,True,True,True,True,b'Michael Komarck',0.25
-Island,Basic Land,Island,Shards of Alara,Common,0,Colorless,True,True,True,True,b'Chippy',0.22
-Island,Basic Land,Island,Shards of Alara,Common,0,Colorless,True,True,True,True,b'Chippy',0.64
-Island,Basic Land,Island,Shards of Alara,Common,0,Colorless,True,True,True,True,b'Mark Tedin',0.19
-Swamp,Basic Land,Swamp,Shards of Alara,Common,0,Colorless,True,True,True,True,b'Chippy',0.58
-Swamp,Basic Land,Swamp,Shards of Alara,Common,0,Colorless,True,True,True,True,b'Mark Tedin',0.13
-Swamp,Basic Land,Swamp,Shards of Alara,Common,0,Colorless,True,True,True,True,b'Mark Tedin',0.18
-Swamp,Basic Land,Swamp,Shards of Alara,Common,0,Colorless,True,True,True,True,b'Aleksi Briclot',0.23
-Mountain,Basic Land,Mountain,Shards of Alara,Common,0,Colorless,True,True,True,True,b'Mark Tedin',0.3
-Mountain,Basic Land,Mountain,Shards of Alara,Common,0,Colorless,True,True,True,True,b'Aleksi Briclot',0.23
-Mountain,Basic Land,Mountain,Shards of Alara,Common,0,Colorless,True,True,True,True,b'Aleksi Briclot',0.22
-Mountain,Basic Land,Mountain,Shards of Alara,Common,0,Colorless,True,True,True,True,b'Zoltan Boros',0.23
-Forest,Basic Land,Forest,Shards of Alara,Common,0,Colorless,True,True,True,True,b'Aleksi Briclot',0.3
-Forest,Basic Land,Forest,Shards of Alara,Common,0,Colorless,True,True,True,True,b'Zoltan Boros',0.2
-Forest,Basic Land,Forest,Shards of Alara,Common,0,Colorless,True,True,True,True,b'Zoltan Boros',0.42
-Forest,Basic Land,Forest,Shards of Alara,Common,0,Colorless,True,True,True,True,b'Michael Komarck',0.24
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Akrasan Squire,Creature,Human Soldier,Shards of Alara,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Todd Lockwood',0.21,False
+Angel's Herald,Creature,Human Cleric,Shards of Alara,Uncommon,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.08,False
+Angelic Benediction,Enchantment,None,Shards of Alara,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Komarck',0.11,False
+Angelsong,Instant,None,Shards of Alara,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Sal Villagran',0.29,False
+Bant Battlemage,Creature,Human Wizard,Shards of Alara,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.14,False
+Battlegrace Angel,Creature,Angel,Shards of Alara,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.56,False
+Cradle of Vitality,Enchantment,None,Shards of Alara,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Trevor Hairsine',1.16,False
+Dispeller's Capsule,Artifact,None,Shards of Alara,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',0.1,False
+Elspeth Knight-Errant,Planeswalker,Elspeth,Shards of Alara,Mythic Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',10.52,True
+Ethersworn Canonist,Artifact Creature,Human Cleric,Shards of Alara,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',5.99,False
+Excommunicate,Sorcery,None,Shards of Alara,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.04,False
+Guardians of Akrasa,Creature,Human Soldier,Shards of Alara,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.09,False
+Gustrider Exuberant,Creature,Human Wizard,Shards of Alara,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.08,False
+Invincible Hymn,Sorcery,None,Shards of Alara,Rare,8,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.51,False
+Knight of the Skyward Eye,Creature,Human Knight,Shards of Alara,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.06,False
+Knight of the White Orchid,Creature,Human Knight,Shards of Alara,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',5.81,False
+Knight-Captain of Eos,Creature,Human Knight,Shards of Alara,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',2.78,False
+Marble Chalice,Artifact,None,Shards of Alara,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Howard Lyon',0.1,False
+Metallurgeon,Artifact Creature,Human Artificer,Shards of Alara,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Warren Mahy',0.1,False
+Oblivion Ring,Enchantment,None,Shards of Alara,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',0.27,False
+Ranger of Eos,Creature,Human Soldier,Shards of Alara,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',2.35,False
+Resounding Silence,Instant,None,Shards of Alara,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.09,False
+Rockcaster Platoon,Creature,Rhino Soldier,Shards of Alara,Uncommon,7,White,Legal,Not Legal,Legal,Legal,Legal,True,b'David Palumbo',0.07,False
+Sanctum Gargoyle,Artifact Creature,Gargoyle,Shards of Alara,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Shelly Wan',0.1,False
+Scourglass,Artifact,None,Shards of Alara,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',2.55,False
+Sighted-Caste Sorcerer,Creature,Human Wizard,Shards of Alara,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.1,False
+Sigiled Paladin,Creature,Human Knight,Shards of Alara,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.38,False
+Soul's Grace,Instant,None,Shards of Alara,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.12,False
+Sunseed Nurturer,Creature,Human Druid Wizard,Shards of Alara,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Argyle',0.09,False
+Welkin Guide,Creature,Bird Cleric,Shards of Alara,Common,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'David Palumbo',0.08,False
+Yoked Plowbeast,Creature,Beast,Shards of Alara,Common,7,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Argyle',0.11,False
+Call to Heel,Instant,None,Shards of Alara,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.1,False
+Cancel,Instant,None,Shards of Alara,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'David Palumbo',0.07,False
+Cathartic Adept,Creature,Human Wizard,Shards of Alara,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.15,False
+Cloudheath Drake,Artifact Creature,Drake,Shards of Alara,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.04,False
+Coma Veil,Enchantment,Aura,Shards of Alara,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.05,False
+Courier's Capsule,Artifact,None,Shards of Alara,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Murray',0.15,False
+Covenant of Minds,Sorcery,None,Shards of Alara,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Seagrave',0.2,False
+Dawnray Archer,Creature,Human Archer,Shards of Alara,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Dos Santos',0.1,False
+Esper Battlemage,Artifact Creature,Human Wizard,Shards of Alara,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.13,False
+Etherium Astrolabe,Artifact,None,Shards of Alara,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Bruinsma',0.12,False
+Etherium Sculptor,Artifact Creature,Vedalken Artificer,Shards of Alara,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.31,False
+Fatestitcher,Creature,Zombie Wizard,Shards of Alara,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'E. M. Gist',1.91,False
+Filigree Sages,Artifact Creature,Vedalken Wizard,Shards of Alara,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.77,False
+Gather Specimens,Instant,None,Shards of Alara,Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Bruinsma',0.65,False
+Jhessian Lookout,Creature,Human Scout,Shards of Alara,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.05,False
+Kathari Screecher,Creature,Bird Soldier,Shards of Alara,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.05,False
+Kederekt Leviathan,Creature,Leviathan,Shards of Alara,Rare,8,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Hyzer',4.51,False
+Master of Etherium,Artifact Creature,Vedalken Wizard,Shards of Alara,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',2.85,False
+Memory Erosion,Enchantment,None,Shards of Alara,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Howard Lyon',1.74,False
+Mindlock Orb,Artifact,None,Shards of Alara,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',0.46,False
+Outrider of Jhess,Creature,Human Knight,Shards of Alara,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.08,False
+Protomatter Powder,Artifact,None,Shards of Alara,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Francis Tsai',0.12,False
+Resounding Wave,Instant,None,Shards of Alara,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.17,False
+Sharding Sphinx,Artifact Creature,Sphinx,Shards of Alara,Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Bruinsma',0.4,False
+Skill Borrower,Artifact Creature,Human Wizard,Shards of Alara,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Shelly Wan',0.41,False
+Spell Snip,Instant,None,Shards of Alara,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Sutfin',0.1,False
+Sphinx's Herald,Artifact Creature,Vedalken Wizard,Shards of Alara,Uncommon,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.13,False
+Steelclad Serpent,Artifact Creature,Serpent,Shards of Alara,Common,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.09,False
+Tezzeret the Seeker,Planeswalker,Tezzeret,Shards of Alara,Mythic Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony Francisco',15.41,True
+Tortoise Formation,Instant,None,Shards of Alara,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.05,False
+Vectis Silencers,Artifact Creature,Human Rogue,Shards of Alara,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.07,False
+Ad Nauseam,Instant,None,Shards of Alara,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeremy Jarvis',27.92,False
+Archdemon of Unx,Creature,Demon,Shards of Alara,Rare,7,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Allsop',0.21,False
+Banewasp Affliction,Enchantment,Aura,Shards of Alara,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Allsop',0.07,False
+Blister Beetle,Creature,Insect,Shards of Alara,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',0.05,False
+Bone Splinters,Sorcery,None,Shards of Alara,Common,1,Black,Legal,Legal,Legal,Legal,Legal,True,b'Cole Eastburn',0.09,False
+Corpse Connoisseur,Creature,Zombie Wizard,Shards of Alara,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Hyzer',0.44,False
+Cunning Lethemancer,Creature,Human Wizard,Shards of Alara,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Paul Bonner',0.62,False
+Death Baron,Creature,Zombie Wizard,Shards of Alara,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',3.23,False
+Deathgreeter,Creature,Human Shaman,Shards of Alara,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Dominick Domingo',0.51,False
+Demon's Herald,Creature,Human Wizard,Shards of Alara,Uncommon,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.1,False
+Dreg Reaver,Creature,Zombie Beast,Shards of Alara,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Thomas M. Baxa',0.08,False
+Dregscape Zombie,Creature,Zombie,Shards of Alara,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.09,False
+Executioner's Capsule,Artifact,None,Shards of Alara,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Warren Mahy',0.25,False
+Fleshbag Marauder,Creature,Zombie Warrior,Shards of Alara,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.34,False
+Glaze Fiend,Artifact Creature,Illusion,Shards of Alara,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Joshua Hagler',0.12,False
+Grixis Battlemage,Creature,Human Wizard,Shards of Alara,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.1,False
+Immortal Coil,Artifact,None,Shards of Alara,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.31,False
+Infest,Sorcery,None,Shards of Alara,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.11,False
+Onyx Goblet,Artifact,None,Shards of Alara,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',0.09,False
+Puppet Conjurer,Artifact Creature,Human Wizard,Shards of Alara,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.11,False
+Resounding Scream,Sorcery,None,Shards of Alara,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Thomas M. Baxa',0.06,False
+Salvage Titan,Artifact Creature,Golem,Shards of Alara,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony Francisco',0.4,False
+Scavenger Drake,Creature,Drake,Shards of Alara,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Trevor Claxton',0.11,False
+Shadowfeed,Instant,None,Shards of Alara,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Kendall',0.09,False
+Shore Snapper,Creature,Beast,Shards of Alara,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Kendall',0.07,False
+Skeletal Kathari,Creature,Bird Skeleton,Shards of Alara,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.13,False
+Tar Fiend,Creature,Elemental,Shards of Alara,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',0.26,False
+Undead Leotau,Creature,Zombie Cat,Shards of Alara,Common,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.08,False
+Vein Drinker,Creature,Vampire,Shards of Alara,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.2,False
+Viscera Dragger,Creature,Zombie Ogre Warrior,Shards of Alara,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Ralph Horsley',0.16,False
+Bloodpyre Elemental,Creature,Elemental,Shards of Alara,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Trevor Claxton',0.06,False
+Bloodthorn Taunter,Creature,Human Scout,Shards of Alara,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.1,False
+Caldera Hellion,Creature,Hellion,Shards of Alara,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.3,False
+Crucible of Fire,Enchantment,None,Shards of Alara,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dominick Domingo',0.53,False
+Dragon Fodder,Sorcery,None,Shards of Alara,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',0.14,False
+Dragon's Herald,Creature,Goblin Shaman,Shards of Alara,Uncommon,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.11,False
+Exuberant Firestoker,Creature,Human Druid Shaman,Shards of Alara,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.13,False
+Flameblast Dragon,Creature,Dragon,Shards of Alara,Rare,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',0.6,False
+Goblin Assault,Enchantment,None,Shards of Alara,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',0.59,False
+Goblin Mountaineer,Creature,Goblin Scout,Shards of Alara,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Ryan',0.1,False
+Hell's Thunder,Creature,Elemental,Shards of Alara,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.32,False
+Hissing Iguanar,Creature,Lizard,Shards of Alara,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Brandon Kitkouski',0.1,False
+Incurable Ogre,Creature,Ogre Mutant,Shards of Alara,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.07,False
+Jund Battlemage,Creature,Human Shaman,Shards of Alara,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Vance Kovacs',0.08,False
+Lightning Talons,Enchantment,Aura,Shards of Alara,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.07,False
+Magma Spray,Instant,None,Shards of Alara,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jarreau Wimberly',0.16,False
+Predator Dragon,Creature,Dragon,Shards of Alara,Rare,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.73,False
+Resounding Thunder,Instant,None,Shards of Alara,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jon Foster',0.1,False
+Ridge Rannet,Creature,Beast,Shards of Alara,Common,7,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Murray',0.12,False
+Rockslide Elemental,Creature,Elemental,Shards of Alara,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Joshua Hagler',0.2,False
+Scourge Devil,Creature,Devil,Shards of Alara,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Kendall',0.09,False
+Skeletonize,Instant,None,Shards of Alara,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.04,False
+Soul's Fire,Instant,None,Shards of Alara,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.29,False
+Thorn-Thrash Viashino,Creature,Viashino Warrior,Shards of Alara,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jon Foster',0.06,False
+Thunder-Thrash Elder,Creature,Viashino Warrior,Shards of Alara,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Brandon Kitkouski',0.1,False
+Viashino Skeleton,Creature,Viashino Skeleton,Shards of Alara,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Cole Eastburn',0.04,False
+Vicious Shadows,Enchantment,None,Shards of Alara,Rare,7,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Joshua Hagler',3.49,False
+Vithian Stinger,Creature,Human Shaman,Shards of Alara,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Kendall',0.12,False
+Volcanic Submersion,Sorcery,None,Shards of Alara,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Trevor Claxton',0.07,False
+Where Ancients Tread,Enchantment,None,Shards of Alara,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.48,False
+Algae Gharial,Creature,Crocodile,Shards of Alara,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Ryan',0.06,False
+Behemoth's Herald,Creature,Elf Shaman,Shards of Alara,Uncommon,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.14,False
+Cavern Thoctar,Creature,Beast,Shards of Alara,Common,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jean-S\xc3\xa9bastien Rossbach',0.07,False
+Court Archers,Creature,Human Archer,Shards of Alara,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.13,False
+Cylian Elf,Creature,Elf Scout,Shards of Alara,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.09,False
+Druid of the Anima,Creature,Elf Druid,Shards of Alara,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Murray',0.23,False
+Drumhunter,Creature,Human Druid Warrior,Shards of Alara,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Murray',0.43,False
+Elvish Visionary,Creature,Elf Shaman,Shards of Alara,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'D. Alexander Gregory',0.2,False
+Feral Hydra,Creature,Hydra Beast,Shards of Alara,Rare,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.65,False
+Gift of the Gargantuan,Sorcery,None,Shards of Alara,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jean-S\xc3\xa9bastien Rossbach',0.1,False
+Godtoucher,Creature,Elf Cleric,Shards of Alara,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.09,False
+Jungle Weaver,Creature,Spider,Shards of Alara,Common,7,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Trevor Hairsine',0.24,False
+Keeper of Progenitus,Creature,Elf Druid,Shards of Alara,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',1.14,False
+Lush Growth,Enchantment,Aura,Shards of Alara,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.13,False
+Mighty Emergence,Enchantment,None,Shards of Alara,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.13,False
+Manaplasm,Creature,Ooze,Shards of Alara,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.2,False
+Mosstodon,Creature,Plant Elephant,Shards of Alara,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.09,False
+Mycoloth,Creature,Fungus,Shards of Alara,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',2.9,False
+Naturalize,Instant,None,Shards of Alara,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Trevor Hairsine',0.09,False
+Naya Battlemage,Creature,Human Shaman,Shards of Alara,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Argyle',0.09,False
+Ooze Garden,Enchantment,None,Shards of Alara,Rare,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',0.32,False
+Resounding Roar,Instant,None,Shards of Alara,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.09,False
+Rhox Charger,Creature,Rhino Soldier,Shards of Alara,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.17,False
+Sacellum Godspeaker,Creature,Elf Druid,Shards of Alara,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.2,False
+Savage Hunger,Enchantment,Aura,Shards of Alara,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Trevor Claxton',0.09,False
+Skullmulcher,Creature,Elemental,Shards of Alara,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Ryan',0.4,False
+Soul's Might,Sorcery,None,Shards of Alara,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.22,False
+Spearbreaker Behemoth,Creature,Beast,Shards of Alara,Rare,7,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',2.79,False
+Topan Ascetic,Creature,Human Monk,Shards of Alara,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Sal Villagran',0.07,False
+Wild Nacatl,Creature,Cat Warrior,Shards of Alara,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.41,False
+Agony Warp,Instant,None,Shards of Alara,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Allsop',0.12,False
+Ajani Vengeant,Planeswalker,Ajani,Shards of Alara,Mythic Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',5.41,True
+Bant Charm,Instant,None,Shards of Alara,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.38,False
+Blightning,Sorcery,None,Shards of Alara,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Thomas M. Baxa',0.36,False
+Blood Cultist,Creature,Human Wizard,Shards of Alara,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.16,False
+Branching Bolt,Instant,None,Shards of Alara,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Vance Kovacs',0.1,False
+Brilliant Ultimatum,Sorcery,None,Shards of Alara,Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony Francisco',1.16,False
+Broodmate Dragon,Creature,Dragon,Shards of Alara,Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Vance Kovacs',0.31,False
+Bull Cerodon,Creature,Beast,Shards of Alara,Uncommon,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.07,False
+Carrion Thrash,Creature,Viashino Warrior,Shards of Alara,Common,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',0.06,False
+Clarion Ultimatum,Sorcery,None,Shards of Alara,Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Komarck',0.29,False
+Cruel Ultimatum,Sorcery,None,Shards of Alara,Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Ralph Horsley',0.41,False
+Deft Duelist,Creature,Human Rogue,Shards of Alara,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'David Palumbo',0.11,False
+Empyrial Archangel,Creature,Angel,Shards of Alara,Mythic Rare,8,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',2.23,False
+Esper Charm,Instant,None,Shards of Alara,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Bruinsma',0.62,False
+Fire-Field Ogre,Creature,Ogre Mutant,Shards of Alara,Uncommon,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Mitch Cotie',0.1,False
+Goblin Deathraiders,Creature,Goblin Warrior,Shards of Alara,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.1,False
+Godsire,Creature,Beast,Shards of Alara,Mythic Rare,8,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Murray',12.21,False
+Grixis Charm,Instant,None,Shards of Alara,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.15,False
+Hellkite Overlord,Creature,Dragon,Shards of Alara,Mythic Rare,8,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Sweet',5.51,False
+Hindering Light,Instant,None,Shards of Alara,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.49,False
+Jhessian Infiltrator,Creature,Human Rogue,Shards of Alara,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.28,False
+Jund Charm,Instant,None,Shards of Alara,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Brandon Kitkouski',0.28,False
+Kederekt Creeper,Creature,Horror,Shards of Alara,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Hyzer',0.1,False
+Kiss of the Amesha,Sorcery,None,Shards of Alara,Uncommon,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Todd Lockwood',0.07,False
+Kresh the Bloodbraided,Creature,Human Warrior,Shards of Alara,Mythic Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',4.19,True
+Mayael the Anima,Creature,Elf Shaman,Shards of Alara,Mythic Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',1.22,True
+Naya Charm,Instant,None,Shards of Alara,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.28,False
+Necrogenesis,Enchantment,None,Shards of Alara,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Trevor Claxton',0.22,False
+Prince of Thralls,Creature,Demon,Shards of Alara,Mythic Rare,8,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Paul Bonner',3.21,False
+Punish Ignorance,Instant,None,Shards of Alara,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Shelly Wan',0.26,False
+Qasali Ambusher,Creature,Cat Warrior,Shards of Alara,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.72,False
+Rafiq of the Many,Creature,Human Knight,Shards of Alara,Mythic Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Komarck',6.73,True
+Rakeclaw Gargantuan,Creature,Beast,Shards of Alara,Common,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.11,False
+Realm Razer,Creature,Beast,Shards of Alara,Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Hideaki Takamura',0.36,False
+Rhox War Monk,Creature,Rhino Monk,Shards of Alara,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Dos Santos',0.15,False
+Rip-Clan Crasher,Creature,Human Warrior,Shards of Alara,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Sweet',0.14,False
+Sangrite Surge,Sorcery,None,Shards of Alara,Uncommon,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jarreau Wimberly',0.06,False
+Sarkhan Vol,Planeswalker,Sarkhan,Shards of Alara,Mythic Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',5.74,True
+Sedraxis Specter,Creature,Specter,Shards of Alara,Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Cole Eastburn',0.3,False
+Sedris the Traitor King,Creature,Zombie Warrior,Shards of Alara,Mythic Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Paul Bonner',3.35,True
+Sharuum the Hegemon,Artifact Creature,Sphinx,Shards of Alara,Mythic Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.87,True
+Sigil Blessing,Instant,None,Shards of Alara,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.12,False
+Sphinx Sovereign,Artifact Creature,Sphinx,Shards of Alara,Mythic Rare,8,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Chippy',2.06,False
+Sprouting Thrinax,Creature,Lizard,Shards of Alara,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jarreau Wimberly',0.12,False
+Steward of Valeron,Creature,Human Druid Knight,Shards of Alara,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.19,False
+Stoic Angel,Creature,Angel,Shards of Alara,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',0.59,False
+Swerve,Instant,None,Shards of Alara,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.31,False
+Thoughtcutter Agent,Artifact Creature,Human Rogue,Shards of Alara,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Cyril Van Der Haegen',0.11,False
+Tidehollow Sculler,Artifact Creature,Zombie,Shards of Alara,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',0.73,False
+Tidehollow Strix,Artifact Creature,Bird,Shards of Alara,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Cyril Van Der Haegen',0.15,False
+Titanic Ultimatum,Sorcery,None,Shards of Alara,Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',1.01,False
+Tower Gargoyle,Artifact Creature,Gargoyle,Shards of Alara,Uncommon,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.11,False
+Violent Ultimatum,Sorcery,None,Shards of Alara,Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.63,False
+Waveskimmer Aven,Creature,Bird Soldier,Shards of Alara,Common,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.09,False
+Windwright Mage,Artifact Creature,Human Wizard,Shards of Alara,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Chippy',0.1,False
+Woolly Thoctar,Creature,Beast,Shards of Alara,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.22,False
+Lich's Mirror,Artifact,None,Shards of Alara,Mythic Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Ash Wood',4.6,False
+Minion Reflector,Artifact,None,Shards of Alara,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',2.03,False
+Obelisk of Bant,Artifact,None,Shards of Alara,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'David Palumbo',0.18,False
+Obelisk of Esper,Artifact,None,Shards of Alara,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Francis Tsai',0.19,False
+Obelisk of Grixis,Artifact,None,Shards of Alara,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.17,False
+Obelisk of Jund,Artifact,None,Shards of Alara,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Brandon Kitkouski',0.13,False
+Obelisk of Naya,Artifact,None,Shards of Alara,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.16,False
+Quietus Spike,Artifact,Equipment,Shards of Alara,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Brill',2.04,False
+Relic of Progenitus,Artifact,None,Shards of Alara,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jean-S\xc3\xa9bastien Rossbach',1.51,False
+Sigil of Distinction,Artifact,Equipment,Shards of Alara,Rare,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.87,False
+Arcane Sanctum,Land,None,Shards of Alara,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony Francisco',1.25,False
+Bant Panorama,Land,None,Shards of Alara,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',1.57,False
+Crumbling Necropolis,Land,None,Shards of Alara,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Kendall',0.43,False
+Esper Panorama,Land,None,Shards of Alara,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',1.33,False
+Grixis Panorama,Land,None,Shards of Alara,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',1.3,False
+Jund Panorama,Land,None,Shards of Alara,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',0.92,False
+Jungle Shrine,Land,None,Shards of Alara,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.45,False
+Naya Panorama,Land,None,Shards of Alara,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Hideaki Takamura',0.68,False
+Savage Lands,Land,None,Shards of Alara,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Vance Kovacs',0.98,False
+Seaside Citadel,Land,None,Shards of Alara,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',1.85,False
+Plains,Basic Land,Plains,Shards of Alara,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.18,False
+Plains,Basic Land,Plains,Shards of Alara,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Michael Komarck',0.2,False
+Plains,Basic Land,Plains,Shards of Alara,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Michael Komarck',0.18,False
+Plains,Basic Land,Plains,Shards of Alara,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Chippy',0.63,False
+Island,Basic Land,Island,Shards of Alara,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Michael Komarck',0.28,False
+Island,Basic Land,Island,Shards of Alara,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Chippy',0.24,False
+Island,Basic Land,Island,Shards of Alara,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Chippy',0.66,False
+Island,Basic Land,Island,Shards of Alara,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.19,False
+Swamp,Basic Land,Swamp,Shards of Alara,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Chippy',0.59,False
+Swamp,Basic Land,Swamp,Shards of Alara,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.15,False
+Swamp,Basic Land,Swamp,Shards of Alara,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.22,False
+Swamp,Basic Land,Swamp,Shards of Alara,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',0.3,False
+Mountain,Basic Land,Mountain,Shards of Alara,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.29,False
+Mountain,Basic Land,Mountain,Shards of Alara,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',0.27,False
+Mountain,Basic Land,Mountain,Shards of Alara,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',0.24,False
+Mountain,Basic Land,Mountain,Shards of Alara,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.27,False
+Forest,Basic Land,Forest,Shards of Alara,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',0.31,False
+Forest,Basic Land,Forest,Shards of Alara,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.21,False
+Forest,Basic Land,Forest,Shards of Alara,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.44,False
+Forest,Basic Land,Forest,Shards of Alara,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Michael Komarck',0.26,False

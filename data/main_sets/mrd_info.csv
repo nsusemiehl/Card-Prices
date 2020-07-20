@@ -1,307 +1,307 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Altar's Light,Instant,None,Mirrodin,Uncommon,4,White,True,False,True,False,b'Daren Bader',0.1
-Arrest,Enchantment,Aura,Mirrodin,Common,3,White,True,False,True,True,b'Tim Hildebrandt',0.09
-Auriok Bladewarden,Creature,Human Soldier,Mirrodin,Uncommon,2,White,True,False,True,False,b'Dave Dorman',0.16
-Auriok Steelshaper,Creature,Human Soldier,Mirrodin,Rare,2,White,True,False,True,False,b'Dany Orizio',1.39
-Auriok Transfixer,Creature,Human Scout,Mirrodin,Common,1,White,True,False,True,False,b'Stephen Tappin',0.08
-Awe Strike,Instant,None,Mirrodin,Common,1,White,True,False,True,False,b'Scott M. Fischer',0.17
-Blinding Beam,Instant,None,Mirrodin,Common,3,White,True,False,True,True,b'Doug Chaffee',0.08
-Leonin Abunas,Creature,Cat Cleric,Mirrodin,Rare,4,White,True,False,True,True,b'Darrell Riche',2.5
-Leonin Den-Guard,Creature,Cat Soldier,Mirrodin,Common,2,White,True,False,True,True,b'Todd Lockwood',0.14
-Leonin Elder,Creature,Cat Cleric,Mirrodin,Common,1,White,True,False,True,True,b'Todd Lockwood',0.17
-Leonin Skyhunter,Creature,Cat Knight,Mirrodin,Uncommon,2,White,True,False,True,True,b'Kev Walker',0.16
-Loxodon Mender,Creature,Elephant Cleric,Mirrodin,Common,6,White,True,False,True,False,b'Heather Hudson',0.11
-Loxodon Peacekeeper,Creature,Elephant Soldier,Mirrodin,Rare,2,White,True,False,True,False,b'Michael Sutfin',0.18
-Loxodon Punisher,Creature,Elephant Soldier,Mirrodin,Rare,4,White,True,False,True,False,b'Terese Nielsen',0.23
-Luminous Angel,Creature,Angel,Mirrodin,Rare,7,White,True,False,True,True,b'Matthew D. Wilson',0.42
-Raise the Alarm,Instant,None,Mirrodin,Common,2,White,True,True,True,True,b'John Matson',0.12
-Razor Barrier,Instant,None,Mirrodin,Common,2,White,True,False,True,True,b'Ron Spencer',0.09
-Roar of the Kha,Instant,None,Mirrodin,Uncommon,2,White,True,False,True,False,b'Matt Cavotta',0.13
-Rule of Law,Enchantment,None,Mirrodin,Rare,3,White,True,True,True,True,b'Scott M. Fischer',0.61
-Second Sunrise,Instant,None,Mirrodin,Rare,3,White,False,False,True,False,b'Greg Staples',2.15
-Skyhunter Cub,Creature,Cat Knight,Mirrodin,Common,3,White,True,False,True,True,b'Pete Venters',0.1
-Skyhunter Patrol,Creature,Cat Knight,Mirrodin,Common,4,White,True,False,True,True,b'Matt Cavotta',0.11
-Slith Ascendant,Creature,Slith,Mirrodin,Uncommon,3,White,True,False,True,False,b'Justin Sweet',0.13
-Solar Tide,Sorcery,None,Mirrodin,Rare,6,White,True,False,True,False,b'Dave Dorman',1.05
-Soul Nova,Instant,None,Mirrodin,Uncommon,5,White,True,False,True,False,b'Keith Garletts',0.09
-Sphere of Purity,Enchantment,None,Mirrodin,Common,4,White,True,False,True,False,b'Thomas Gianni',0.08
-Taj-Nar Swordsmith,Creature,Cat Soldier,Mirrodin,Uncommon,4,White,True,False,True,True,b'Todd Lockwood',0.18
-Tempest of Light,Instant,None,Mirrodin,Uncommon,3,White,True,False,True,True,b'Wayne England',0.17
-Annul,Instant,None,Mirrodin,Common,1,Blue,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.2
-Assert Authority,Instant,None,Mirrodin,Uncommon,7,Blue,True,False,True,False,b'Greg Hildebrandt',0.12
-Broodstar,Creature,Beast,Mirrodin,Rare,10,Blue,True,False,True,True,b'Glen Angus',0.67
-Disarm,Instant,None,Mirrodin,Common,1,Blue,True,False,True,False,b'Alex Horley-Orlandelli',0.13
-Domineer,Enchantment,Aura,Mirrodin,Uncommon,3,Blue,True,False,True,False,b'Jon Foster',0.09
-Dream's Grip,Instant,None,Mirrodin,Common,1,Blue,True,False,True,False,b'Jim Nelson',0.74
-Fabricate,Sorcery,None,Mirrodin,Uncommon,3,Blue,True,False,True,True,b'Glen Angus',4.7
-Fatespinner,Creature,Human Wizard,Mirrodin,Rare,3,Blue,True,False,True,True,b'rk post',5.78
-Inertia Bubble,Enchantment,Aura,Mirrodin,Common,2,Blue,True,False,True,False,b'Hugh Jamieson',0.11
-Looming Hoverguard,Creature,Drone,Mirrodin,Uncommon,6,Blue,True,False,True,False,b'Scott M. Fischer',0.09
-Lumengrid Augur,Creature,Vedalken Wizard,Mirrodin,Rare,4,Blue,True,False,True,False,b'rk post',0.2
-Lumengrid Sentinel,Creature,Human Wizard,Mirrodin,Uncommon,3,Blue,True,False,True,False,b'Scott M. Fischer',0.08
-Lumengrid Warden,Creature,Human Wizard,Mirrodin,Common,2,Blue,True,False,True,True,b'Matt Thompson',0.06
-March of the Machines,Enchantment,None,Mirrodin,Rare,4,Blue,True,False,True,True,b'Ben Thompson',0.48
-Neurok Familiar,Creature,Bird,Mirrodin,Common,2,Blue,True,False,True,False,"b'Edward P. Beard, Jr.'",0.07
-Neurok Spy,Creature,Human Rogue,Mirrodin,Common,3,Blue,True,False,True,False,b'Daren Bader',0.05
-Override,Instant,None,Mirrodin,Common,3,Blue,True,False,True,False,b'Hugh Jamieson',0.11
-Psychic Membrane,Creature,Wall,Mirrodin,Uncommon,3,Blue,True,False,True,False,b'Tony Szczudlo',0.29
-Quicksilver Elemental,Creature,Elemental,Mirrodin,Rare,5,Blue,True,False,True,False,b'Tony Szczudlo',0.87
-Regress,Instant,None,Mirrodin,Common,3,Blue,True,False,True,True,b'Randy Gallegos',0.09
-Shared Fate,Enchantment,None,Mirrodin,Rare,5,Blue,True,False,True,False,b'Matt Cavotta',0.57
-Slith Strider,Creature,Slith,Mirrodin,Uncommon,3,Blue,True,False,True,True,b'Justin Sweet',0.19
-Somber Hoverguard,Creature,Drone,Mirrodin,Common,6,Blue,True,False,True,True,b'Adam Rex',0.07
-Temporal Cascade,Sorcery,None,Mirrodin,Rare,7,Blue,True,False,True,False,b'Puddnhead',0.35
-Thirst for Knowledge,Instant,None,Mirrodin,Uncommon,3,Blue,True,False,True,True,b'Ben Thompson',0.38
-Thoughtcast,Sorcery,None,Mirrodin,Common,5,Blue,True,False,True,True,b'Greg Hildebrandt',0.31
-Vedalken Archmage,Creature,Vedalken Wizard,Mirrodin,Rare,4,Blue,True,False,True,False,b'Kev Walker',10.43
-Wanderguard Sentry,Creature,Drone,Mirrodin,Common,5,Blue,True,False,True,True,b'Luca Zontini',0.06
-Barter in Blood,Sorcery,None,Mirrodin,Uncommon,4,Black,True,False,True,True,b'Paolo Parente',0.11
-Betrayal of Flesh,Instant,None,Mirrodin,Uncommon,6,Black,True,False,True,True,b'Wayne England',0.15
-Chimney Imp,Creature,Imp,Mirrodin,Common,5,Black,True,False,True,True,b'Christopher Moeller',0.06
-Consume Spirit,Sorcery,None,Mirrodin,Common,3,Black,True,False,True,True,b'Matt Thompson',0.19
-Contaminated Bond,Enchantment,Aura,Mirrodin,Common,2,Black,True,False,True,True,b'Thomas M. Baxa',0.08
-Disciple of the Vault,Creature,Human Cleric,Mirrodin,Common,1,Black,True,False,True,True,b'Matt Thompson',0.25
-Dross Harvester,Creature,Horror,Mirrodin,Rare,3,Black,True,False,True,False,b'Michael Sutfin',0.4
-Dross Prowler,Creature,Zombie,Mirrodin,Common,3,Black,True,False,True,False,b'Michael Sutfin',0.1
-Flayed Nim,Creature,Skeleton,Mirrodin,Uncommon,4,Black,True,False,True,False,b'Trevor Hairsine',0.15
-Grim Reminder,Instant,None,Mirrodin,Rare,3,Black,True,False,True,False,b'Wayne England',0.2
-Irradiate,Instant,None,Mirrodin,Common,4,Black,True,False,True,False,b'Dave Dorman',0.05
-Moriok Scavenger,Creature,Human Rogue,Mirrodin,Common,4,Black,True,False,True,False,b'Puddnhead',0.08
-Necrogen Mists,Enchantment,None,Mirrodin,Rare,3,Black,True,False,True,False,b'Alex Horley-Orlandelli',3.58
-Nim Devourer,Creature,Zombie,Mirrodin,Rare,5,Black,True,False,True,False,b'Adam Rex',0.24
-Nim Lasher,Creature,Zombie,Mirrodin,Common,3,Black,True,False,True,False,b'Adam Rex',0.07
-Nim Shambler,Creature,Zombie,Mirrodin,Uncommon,4,Black,True,False,True,False,b'Adam Rex',0.08
-Nim Shrieker,Creature,Zombie,Mirrodin,Common,4,Black,True,False,True,False,b'Adam Rex',0.06
-Promise of Power,Sorcery,None,Mirrodin,Rare,5,Black,True,False,True,True,b'Kev Walker',0.41
-Reiver Demon,Creature,Demon,Mirrodin,Rare,8,Black,True,False,True,True,b'Brom',1.35
-Relic Bane,Enchantment,Aura,Mirrodin,Uncommon,3,Black,True,False,True,False,b'Eric Peterson',0.08
-Slith Bloodletter,Creature,Slith,Mirrodin,Uncommon,2,Black,True,False,True,False,b'Justin Sweet',0.09
-Spoils of the Vault,Instant,None,Mirrodin,Rare,1,Black,True,False,True,True,b'Thomas M. Baxa',0.77
-Terror,Instant,None,Mirrodin,Common,2,Black,True,False,True,True,b'Puddnhead',0.11
-Vermiculos,Creature,Horror,Mirrodin,Rare,5,Black,True,False,True,False,b'Daren Bader',0.19
-Wail of the Nim,Instant,None,Mirrodin,Common,3,Black,True,False,True,False,b'John Matson',0.16
-Wall of Blood,Creature,Wall,Mirrodin,Uncommon,3,Black,True,False,True,False,b'Tony Szczudlo',0.72
-Woebearer,Creature,Zombie,Mirrodin,Uncommon,5,Black,True,False,True,True,b'Matt Thompson',0.11
-Wrench Mind,Sorcery,None,Mirrodin,Common,2,Black,True,False,True,True,b'Pete Venters',0.25
-Arc-Slogger,Creature,Beast,Mirrodin,Rare,5,Red,True,False,True,False,b'Jeff Easley',0.13
-Atog,Creature,Atog,Mirrodin,Uncommon,2,Red,True,False,True,True,b'Puddnhead',0.33
-Confusion in the Ranks,Enchantment,None,Mirrodin,Rare,5,Red,True,False,True,False,b'Ron Spencer',2.09
-Detonate,Sorcery,None,Mirrodin,Uncommon,2,Red,True,False,True,True,b'Dave Dorman',0.09
-Electrostatic Bolt,Instant,None,Mirrodin,Common,1,Red,True,False,True,False,b'Randy Gallegos',0.09
-Fiery Gambit,Sorcery,None,Mirrodin,Rare,3,Red,True,False,True,True,b'Scott M. Fischer',3.45
-Fists of the Anvil,Instant,None,Mirrodin,Common,2,Red,True,False,True,True,b'Pete Venters',0.16
-Forge Armor,Instant,None,Mirrodin,Uncommon,5,Red,True,False,True,False,b'Tony Szczudlo',0.08
-Fractured Loyalty,Enchantment,Aura,Mirrodin,Uncommon,2,Red,True,False,True,False,b'Greg Staples',0.1
-Goblin Striker,Creature,Goblin Berserker,Mirrodin,Common,2,Red,True,False,True,True,b'Kevin Dobler',0.08
-Grab the Reins,Instant,None,Mirrodin,Uncommon,4,Red,True,False,True,True,b'Michael Sutfin',0.27
-Incite War,Instant,None,Mirrodin,Common,3,Red,True,False,True,False,b'Alex Horley-Orlandelli',0.09
-Krark-Clan Grunt,Creature,Goblin Warrior,Mirrodin,Common,3,Red,True,False,True,False,b'Thomas M. Baxa',0.08
-Krark-Clan Shaman,Creature,Goblin Shaman,Mirrodin,Common,1,Red,True,False,True,False,b'Thomas M. Baxa',0.27
-Mass Hysteria,Enchantment,None,Mirrodin,Rare,1,Red,True,False,True,False,b'Adam Rex',4.16
-Megatog,Creature,Atog,Mirrodin,Rare,6,Red,True,False,True,False,b'Pete Venters',0.18
-Molten Rain,Sorcery,None,Mirrodin,Common,3,Red,True,False,True,True,b'Hugh Jamieson',0.6
-Ogre Leadfoot,Creature,Ogre,Mirrodin,Common,5,Red,True,False,True,False,b'Heather Hudson',0.12
-Rustmouth Ogre,Creature,Ogre,Mirrodin,Uncommon,6,Red,True,False,True,False,b'Brian Sn\xc3\xb5ddy',0.1
-Seething Song,Instant,None,Mirrodin,Common,3,Red,False,False,True,True,b'Martina Pilcerova',0.84
-Shatter,Instant,None,Mirrodin,Common,2,Red,True,False,True,True,b'Tim Hildebrandt',0.03
-Shrapnel Blast,Instant,None,Mirrodin,Uncommon,2,Red,True,False,True,True,b'Dave Dorman',0.28
-Slith Firewalker,Creature,Slith,Mirrodin,Uncommon,2,Red,True,False,True,True,b'Justin Sweet',0.08
-Spikeshot Goblin,Creature,Goblin Shaman,Mirrodin,Common,3,Red,True,False,True,True,b'Alan Pollack',0.12
-Trash for Treasure,Sorcery,None,Mirrodin,Rare,3,Red,True,False,True,True,b'Lars Grant-West',1.43
-Vulshok Battlemaster,Creature,Human Warrior,Mirrodin,Rare,5,Red,True,False,True,False,b'Kev Walker',0.25
-Vulshok Berserker,Creature,Human Berserker,Mirrodin,Common,4,Red,True,False,True,True,b'Pete Venters',0.03
-War Elemental,Creature,Elemental,Mirrodin,Rare,3,Red,True,False,True,False,b'Anthony S. Waters',1.01
-Battlegrowth,Instant,None,Mirrodin,Common,1,Green,True,False,True,False,b'John Matson',0.12
-Bloodscent,Instant,None,Mirrodin,Uncommon,4,Green,True,False,True,True,b'Matt Cavotta',0.09
-Brown Ouphe,Creature,Ouphe,Mirrodin,Uncommon,1,Green,True,False,True,True,b'Greg Hildebrandt',0.1
-Copperhoof Vorrac,Creature,Boar Beast,Mirrodin,Rare,5,Green,True,False,True,False,b'Matt Cavotta',0.33
-Creeping Mold,Sorcery,None,Mirrodin,Uncommon,4,Green,True,False,True,True,b'Dany Orizio',0.1
-Deconstruct,Sorcery,None,Mirrodin,Common,3,Green,True,False,True,False,b'D. Alexander Gregory',0.12
-Fangren Hunter,Creature,Beast,Mirrodin,Common,5,Green,True,False,True,True,b'Darrell Riche',0.07
-Glissa Sunseeker,Legendary Creature,Elf,Mirrodin,Rare,4,Green,True,False,True,False,b'Brom',1.15
-Groffskithur,Creature,Beast,Mirrodin,Common,6,Green,True,False,True,True,b'John Matson',0.07
-Hum of the Radix,Enchantment,None,Mirrodin,Rare,4,Green,True,False,True,False,b'John Avon',0.4
-Journey of Discovery,Sorcery,None,Mirrodin,Common,3,Green,True,False,True,False,b'John Matson',0.28
-Living Hive,Creature,Elemental Insect,Mirrodin,Rare,8,Green,True,False,True,True,b'Anthony S. Waters',0.35
-Molder Slug,Creature,Slug Beast,Mirrodin,Rare,5,Green,True,False,True,True,b'Heather Hudson',0.47
-One Dozen Eyes,Sorcery,None,Mirrodin,Uncommon,6,Green,True,False,True,True,b'Darrell Riche',0.08
-Plated Slagwurm,Creature,Wurm,Mirrodin,Rare,7,Green,True,False,True,True,b'Justin Sweet',0.26
-Predator's Strike,Instant,None,Mirrodin,Common,2,Green,True,False,True,True,b'Tony Szczudlo',0.26
-Slith Predator,Creature,Slith,Mirrodin,Uncommon,2,Green,True,False,True,False,b'Justin Sweet',0.1
-Sylvan Scrying,Sorcery,None,Mirrodin,Uncommon,2,Green,True,False,True,True,b'Scott M. Fischer',1.08
-Tel-Jilad Archers,Creature,Elf Archer,Mirrodin,Common,5,Green,True,False,True,False,b'Marcelo Vignali',0.07
-Tel-Jilad Chosen,Creature,Elf Warrior,Mirrodin,Common,2,Green,True,False,True,False,b'Matthew D. Wilson',0.09
-Tel-Jilad Exile,Creature,Troll Warrior,Mirrodin,Common,4,Green,True,False,True,False,b'Justin Sweet',0.06
-Tooth and Nail,Sorcery,None,Mirrodin,Rare,7,Green,True,False,True,True,b'Greg Hildebrandt',17.22
-Troll Ascetic,Creature,Troll Shaman,Mirrodin,Rare,3,Green,True,False,True,True,b'Puddnhead',0.33
-Trolls of Tel-Jilad,Creature,Troll Shaman,Mirrodin,Uncommon,7,Green,True,False,True,False,b'Marcelo Vignali',0.08
-Turn to Dust,Instant,None,Mirrodin,Common,1,Green,True,False,True,False,b'Wayne England',0.09
-Viridian Joiner,Creature,Elf Druid,Mirrodin,Common,3,Green,True,False,True,False,b'Daren Bader',0.26
-Viridian Shaman,Creature,Elf Shaman,Mirrodin,Uncommon,3,Green,True,False,True,True,b'Scott M. Fischer',0.13
-Wurmskin Forger,Creature,Elf Warrior,Mirrodin,Common,7,Green,True,False,True,False,b'Justin Sweet',0.03
-Aether Spellbomb,Artifact,None,Mirrodin,Common,1,Colorless,True,False,True,True,b'Jim Nelson',0.26
-Alpha Myr,Artifact Creature,Myr,Mirrodin,Common,2,Colorless,True,False,True,True,b'Dany Orizio',0.1
-Altar of Shadows,Artifact,None,Mirrodin,Rare,7,Colorless,True,False,True,False,b'Sam Wood',0.32
-Banshee's Blade,Artifact,Equipment,Mirrodin,Uncommon,2,Colorless,True,False,True,False,b'Bradley Williams',0.25
-Blinkmoth Urn,Artifact,None,Mirrodin,Rare,5,Colorless,True,False,True,True,b'David Martin',1.22
-Bonesplitter,Artifact,Equipment,Mirrodin,Common,1,Colorless,True,False,True,True,b'Darrell Riche',0.28
-"Bosh, Iron Golem",Legendary Artifact Creature,Golem,Mirrodin,Rare,8,Colorless,True,False,True,True,b'Brom',0.25
-Bottle Gnomes,Artifact Creature,Gnome,Mirrodin,Uncommon,3,Colorless,True,False,True,True,b'Ben Thompson',0.15
-Cathodion,Artifact Creature,Construct,Mirrodin,Uncommon,3,Colorless,True,False,True,True,b'Eric Peterson',0.11
-Chalice of the Void,Artifact,None,Mirrodin,Rare,2,Colorless,True,False,True,True,b'Mark Zug',43.94
-Chromatic Sphere,Artifact,None,Mirrodin,Common,1,Colorless,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.59
-Chrome Mox,Artifact,None,Mirrodin,Rare,0,Colorless,False,False,True,True,b'Donato Giancola',52.07
-Clockwork Beetle,Artifact Creature,Insect,Mirrodin,Common,1,Colorless,True,False,True,False,b'Arnie Swekel',0.1
-Clockwork Condor,Artifact Creature,Bird,Mirrodin,Common,4,Colorless,True,False,True,True,b'Arnie Swekel',0.1
-Clockwork Dragon,Artifact Creature,Dragon,Mirrodin,Rare,7,Colorless,True,False,True,False,b'Arnie Swekel',0.45
-Clockwork Vorrac,Artifact Creature,Boar Beast,Mirrodin,Uncommon,5,Colorless,True,False,True,False,b'Arnie Swekel',0.1
-Cobalt Golem,Artifact Creature,Golem,Mirrodin,Common,4,Colorless,True,False,True,False,b'Paolo Parente',0.15
-Copper Myr,Artifact Creature,Myr,Mirrodin,Common,2,Colorless,True,False,True,True,b'Kev Walker',0.13
-Crystal Shard,Artifact,None,Mirrodin,Uncommon,3,Colorless,True,False,True,True,b'Doug Chaffee',3.68
-Culling Scales,Artifact,None,Mirrodin,Rare,3,Colorless,True,False,True,False,b'Daren Bader',0.38
-Damping Matrix,Artifact,None,Mirrodin,Rare,3,Colorless,True,False,True,True,b'Mike Dringenberg',0.43
-Dead-Iron Sledge,Artifact,Equipment,Mirrodin,Uncommon,1,Colorless,True,False,True,False,b'Ray Lago',0.17
-Dragon Blood,Artifact,None,Mirrodin,Uncommon,3,Colorless,True,False,True,True,b'Ron Spencer',0.13
-Dross Scorpion,Artifact Creature,Scorpion,Mirrodin,Common,4,Colorless,True,False,True,False,b'Jim Nelson',0.29
-Duplicant,Artifact Creature,Shapeshifter,Mirrodin,Rare,6,Colorless,True,False,True,True,b'Thomas M. Baxa',2.13
-Duskworker,Artifact Creature,Construct,Mirrodin,Uncommon,4,Colorless,True,False,True,False,b'Greg Staples',0.14
-Elf Replica,Artifact Creature,Elf,Mirrodin,Common,3,Colorless,True,False,True,False,b'Carl Critchlow',0.09
-Empyrial Plate,Artifact,Equipment,Mirrodin,Rare,2,Colorless,True,False,True,True,b'Paolo Parente',0.47
-Extraplanar Lens,Artifact,None,Mirrodin,Rare,3,Colorless,True,False,True,True,b'Lars Grant-West',32.41
-Farsight Mask,Artifact,None,Mirrodin,Uncommon,5,Colorless,True,False,True,True,b'Ben Thompson',0.19
-Fireshrieker,Artifact,Equipment,Mirrodin,Uncommon,3,Colorless,True,False,True,True,b'Christopher Moeller',0.34
-Frogmite,Artifact Creature,Frog,Mirrodin,Common,4,Colorless,True,False,True,True,b'Terese Nielsen',0.19
-Galvanic Key,Artifact,None,Mirrodin,Common,2,Colorless,True,False,True,False,b'Tony Szczudlo',0.1
-Gate to the Aether,Artifact,None,Mirrodin,Rare,6,Colorless,True,False,True,False,b'Pete Venters',1.68
-Gilded Lotus,Artifact,None,Mirrodin,Rare,5,Colorless,True,False,True,True,b'Martina Pilcerova',4.9
-Goblin Charbelcher,Artifact,None,Mirrodin,Rare,4,Colorless,True,False,True,True,b'Stephen Tappin',1.09
-Goblin Dirigible,Artifact Creature,Construct,Mirrodin,Uncommon,6,Colorless,True,False,True,False,b'Michael Sutfin',0.1
-Goblin Replica,Artifact Creature,Goblin,Mirrodin,Common,3,Colorless,True,False,True,False,b'Carl Critchlow',0.08
-Goblin War Wagon,Artifact Creature,Juggernaut,Mirrodin,Common,4,Colorless,True,False,True,False,b'Doug Chaffee',0.05
-Gold Myr,Artifact Creature,Myr,Mirrodin,Common,2,Colorless,True,False,True,True,b'Kev Walker',0.19
-Golem-Skin Gauntlets,Artifact,Equipment,Mirrodin,Uncommon,1,Colorless,True,False,True,False,b'Alan Pollack',0.75
-Granite Shard,Artifact,None,Mirrodin,Uncommon,3,Colorless,True,False,True,False,b'Doug Chaffee',0.07
-Grid Monitor,Artifact Creature,Construct,Mirrodin,Rare,4,Colorless,True,False,True,False,b'Arnie Swekel',0.62
-Heartwood Shard,Artifact,None,Mirrodin,Uncommon,3,Colorless,True,False,True,False,b'Doug Chaffee',0.15
-Hematite Golem,Artifact Creature,Golem,Mirrodin,Common,4,Colorless,True,False,True,False,b'Paolo Parente',0.09
-Icy Manipulator,Artifact,None,Mirrodin,Uncommon,4,Colorless,True,False,True,True,b'Mark Zug',0.22
-Iron Myr,Artifact Creature,Myr,Mirrodin,Common,2,Colorless,True,False,True,True,b'Kev Walker',0.24
-Isochron Scepter,Artifact,None,Mirrodin,Uncommon,2,Colorless,True,False,True,True,b'Mark Harrison',10.27
-Jinxed Choker,Artifact,None,Mirrodin,Rare,3,Colorless,True,False,True,False,b'Mike Dringenberg',0.45
-Krark's Thumb,Legendary Artifact,None,Mirrodin,Rare,2,Colorless,True,False,True,False,b'Ron Spencer',4.99
-Leaden Myr,Artifact Creature,Myr,Mirrodin,Common,2,Colorless,True,False,True,True,b'Kev Walker',0.21
-Leonin Bladetrap,Artifact,None,Mirrodin,Uncommon,3,Colorless,True,False,True,True,b'Randy Gallegos',0.07
-Leonin Scimitar,Artifact,Equipment,Mirrodin,Common,1,Colorless,True,False,True,True,b'Doug Chaffee',0.11
-Leonin Sun Standard,Artifact,None,Mirrodin,Rare,2,Colorless,True,False,True,False,b'Jim Nelson',0.31
-Leveler,Artifact Creature,Juggernaut,Mirrodin,Rare,5,Colorless,True,False,True,True,b'Carl Critchlow',2.93
-Liar's Pendulum,Artifact,None,Mirrodin,Rare,1,Colorless,True,False,True,False,b'Christopher Moeller',0.28
-Lifespark Spellbomb,Artifact,None,Mirrodin,Common,1,Colorless,True,False,True,False,b'Jim Nelson',0.12
-Lightning Coils,Artifact,None,Mirrodin,Rare,3,Colorless,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.73
-Lightning Greaves,Artifact,Equipment,Mirrodin,Uncommon,2,Colorless,True,False,True,True,b'Jeremy Jarvis',6.48
-Lodestone Myr,Artifact Creature,Myr,Mirrodin,Rare,4,Colorless,True,False,True,True,b'Greg Staples',0.29
-Loxodon Warhammer,Artifact,Equipment,Mirrodin,Uncommon,3,Colorless,True,False,True,True,b'Jeremy Jarvis',0.97
-Malachite Golem,Artifact Creature,Golem,Mirrodin,Common,6,Colorless,True,False,True,False,b'Paolo Parente',0.07
-Mask of Memory,Artifact,Equipment,Mirrodin,Uncommon,2,Colorless,True,False,True,True,b'Alan Pollack',1.55
-Mesmeric Orb,Artifact,None,Mirrodin,Rare,2,Colorless,True,False,True,True,b'David Martin',19.36
-Mind's Eye,Artifact,None,Mirrodin,Rare,5,Colorless,True,False,True,True,"b'Edward P. Beard, Jr.'",4.75
-Mindslaver,Legendary Artifact,None,Mirrodin,Rare,6,Colorless,True,False,True,True,b'Glen Angus',5.82
-Mindstorm Crown,Artifact,None,Mirrodin,Uncommon,3,Colorless,True,False,True,False,b'Ben Thompson',0.1
-Mirror Golem,Artifact Creature,Golem,Mirrodin,Uncommon,6,Colorless,True,False,True,False,b'Franz Vohwinkel',0.13
-Mourner's Shield,Artifact,None,Mirrodin,Uncommon,4,Colorless,True,False,True,False,b'Carl Critchlow',0.09
-Myr Adapter,Artifact Creature,Myr,Mirrodin,Common,3,Colorless,True,False,True,False,b'Ben Thompson',0.1
-Myr Enforcer,Artifact Creature,Myr,Mirrodin,Common,7,Colorless,True,False,True,True,b'Greg Staples',0.21
-Myr Incubator,Artifact,None,Mirrodin,Rare,6,Colorless,True,False,True,True,b'Alex Horley-Orlandelli',0.43
-Myr Mindservant,Artifact Creature,Myr,Mirrodin,Uncommon,1,Colorless,True,False,True,False,b'Dave Dorman',0.2
-Myr Prototype,Artifact Creature,Myr,Mirrodin,Uncommon,5,Colorless,True,False,True,False,b'Dave Dorman',0.17
-Myr Retriever,Artifact Creature,Myr,Mirrodin,Uncommon,2,Colorless,True,False,True,True,b'Trevor Hairsine',0.92
-Necrogen Spellbomb,Artifact,None,Mirrodin,Common,1,Colorless,True,False,True,False,b'Jim Nelson',0.19
-Needlebug,Artifact Creature,Insect,Mirrodin,Uncommon,4,Colorless,True,False,True,False,b'Paolo Parente',0.12
-Neurok Hoversail,Artifact,Equipment,Mirrodin,Common,1,Colorless,True,False,True,False,b'Alan Pollack',0.17
-Nightmare Lash,Artifact,Equipment,Mirrodin,Rare,4,Colorless,True,False,True,False,b'Puddnhead',1.66
-Nim Replica,Artifact Creature,Zombie,Mirrodin,Common,3,Colorless,True,False,True,False,b'Carl Critchlow',0.05
-Nuisance Engine,Artifact,None,Mirrodin,Uncommon,3,Colorless,True,False,True,True,b'Stephen Tappin',0.18
-Oblivion Stone,Artifact,None,Mirrodin,Rare,3,Colorless,True,False,True,True,b'Sam Wood',6.96
-Omega Myr,Artifact Creature,Myr,Mirrodin,Common,2,Colorless,True,False,True,False,b'Dany Orizio',0.1
-Ornithopter,Artifact Creature,Thopter,Mirrodin,Uncommon,0,Colorless,True,False,True,True,b'Dana Knutson',0.3
-Pearl Shard,Artifact,None,Mirrodin,Uncommon,3,Colorless,True,False,True,False,b'Doug Chaffee',0.06
-Pentavus,Artifact Creature,Construct,Mirrodin,Rare,7,Colorless,True,False,True,True,b'Greg Staples',0.22
-Pewter Golem,Artifact Creature,Golem,Mirrodin,Common,5,Colorless,True,False,True,False,b'Paolo Parente',0.09
-Platinum Angel,Artifact Creature,Angel,Mirrodin,Rare,7,Colorless,True,False,True,True,b'Brom',5.29
-Power Conduit,Artifact,None,Mirrodin,Uncommon,2,Colorless,True,False,True,False,b'Todd Lockwood',0.73
-Proteus Staff,Artifact,None,Mirrodin,Rare,3,Colorless,True,False,True,False,b'Trevor Hairsine',3.78
-Psychogenic Probe,Artifact,None,Mirrodin,Rare,2,Colorless,True,False,True,False,b'Jeremy Jarvis',0.2
-Pyrite Spellbomb,Artifact,None,Mirrodin,Common,1,Colorless,True,False,True,True,b'Jim Nelson',0.18
-Quicksilver Fountain,Artifact,None,Mirrodin,Rare,3,Colorless,True,False,True,False,b'Trevor Hairsine',1.93
-Rust Elemental,Artifact Creature,Elemental,Mirrodin,Uncommon,4,Colorless,True,False,True,False,b'Arnie Swekel',0.3
-Rustspore Ram,Artifact Creature,Sheep,Mirrodin,Uncommon,4,Colorless,True,False,True,False,b'Arnie Swekel',0.09
-Scale of Chiss-Goria,Artifact,None,Mirrodin,Common,3,Colorless,True,False,True,False,b'Alan Pollack',0.1
-Scrabbling Claws,Artifact,None,Mirrodin,Uncommon,1,Colorless,True,True,True,True,b'Thomas M. Baxa',0.22
-Sculpting Steel,Artifact,None,Mirrodin,Rare,3,Colorless,True,False,True,True,b'Heather Hudson',6.52
-Scythe of the Wretched,Artifact,Equipment,Mirrodin,Rare,2,Colorless,True,False,True,False,b'Matt Cavotta',2.41
-Serum Tank,Artifact,None,Mirrodin,Uncommon,3,Colorless,True,False,True,True,b'Corey D. Macourek',0.1
-Silver Myr,Artifact Creature,Myr,Mirrodin,Common,2,Colorless,True,False,True,True,b'Kev Walker',0.26
-Skeleton Shard,Artifact,None,Mirrodin,Uncommon,3,Colorless,True,False,True,True,b'Doug Chaffee',0.16
-Slagwurm Armor,Artifact,Equipment,Mirrodin,Common,1,Colorless,True,False,True,True,b'Justin Sweet',0.38
-Soldier Replica,Artifact Creature,Soldier,Mirrodin,Common,3,Colorless,True,False,True,False,b'Carl Critchlow',0.04
-Solemn Simulacrum,Artifact Creature,Golem,Mirrodin,Rare,4,Colorless,True,False,True,True,b'Greg Staples',6.14
-Soul Foundry,Artifact,None,Mirrodin,Rare,4,Colorless,True,False,True,True,b'Arnie Swekel',1.03
-Spellweaver Helix,Artifact,None,Mirrodin,Rare,3,Colorless,True,False,True,False,b'Luca Zontini',0.27
-Steel Wall,Artifact Creature,Wall,Mirrodin,Common,1,Colorless,True,False,True,True,b'David Day',0.27
-Sun Droplet,Artifact,None,Mirrodin,Uncommon,2,Colorless,True,False,True,True,b'Greg Hildebrandt',0.62
-Sunbeam Spellbomb,Artifact,None,Mirrodin,Common,1,Colorless,True,False,True,False,b'Jim Nelson',0.17
-Sword of Kaldra,Legendary Artifact,Equipment,Mirrodin,Rare,4,Colorless,True,False,True,True,b'Donato Giancola',7.61
-Synod Sanctum,Artifact,None,Mirrodin,Uncommon,1,Colorless,True,False,True,True,b'Dana Knutson',0.35
-Talisman of Dominance,Artifact,None,Mirrodin,Uncommon,2,Colorless,True,False,True,True,b'Mike Dringenberg',5.09
-Talisman of Impulse,Artifact,None,Mirrodin,Uncommon,2,Colorless,True,False,True,False,b'Mike Dringenberg',0.51
-Talisman of Indulgence,Artifact,None,Mirrodin,Uncommon,2,Colorless,True,False,True,True,b'Mike Dringenberg',3.05
-Talisman of Progress,Artifact,None,Mirrodin,Uncommon,2,Colorless,True,False,True,True,b'Mike Dringenberg',7.37
-Talisman of Unity,Artifact,None,Mirrodin,Uncommon,2,Colorless,True,False,True,False,b'Mike Dringenberg',1.14
-Tanglebloom,Artifact,None,Mirrodin,Common,1,Colorless,True,False,True,True,b'Val Mayerik',0.05
-Tangleroot,Artifact,None,Mirrodin,Rare,3,Colorless,True,False,True,False,b'Dana Knutson',0.29
-Tel-Jilad Stylus,Artifact,None,Mirrodin,Uncommon,1,Colorless,True,False,True,False,b'Darrell Riche',0.29
-Thought Prison,Artifact,None,Mirrodin,Uncommon,5,Colorless,True,False,True,False,b'Glen Angus',0.11
-Timesifter,Artifact,None,Mirrodin,Rare,5,Colorless,True,False,True,False,b'Dany Orizio',1.47
-Titanium Golem,Artifact Creature,Golem,Mirrodin,Common,5,Colorless,True,False,True,False,b'Paolo Parente',0.08
-Tooth of Chiss-Goria,Artifact,None,Mirrodin,Common,3,Colorless,True,False,True,False,b'Alan Pollack',0.11
-Tower of Champions,Artifact,None,Mirrodin,Rare,4,Colorless,True,False,True,False,b'Greg Staples',0.34
-Tower of Eons,Artifact,None,Mirrodin,Rare,4,Colorless,True,False,True,True,b'John Avon',0.3
-Tower of Fortunes,Artifact,None,Mirrodin,Rare,4,Colorless,True,False,True,True,b'Matt Cavotta',0.38
-Tower of Murmurs,Artifact,None,Mirrodin,Rare,4,Colorless,True,False,True,True,b'Glen Angus',0.24
-Triskelion,Artifact Creature,Construct,Mirrodin,Rare,6,Colorless,True,False,True,True,b'Christopher Moeller',1.01
-Viridian Longbow,Artifact,Equipment,Mirrodin,Common,1,Colorless,True,False,True,False,b'Jeremy Jarvis',0.62
-Vorrac Battlehorns,Artifact,Equipment,Mirrodin,Common,2,Colorless,True,False,True,False,b'David Martin',0.37
-Vulshok Battlegear,Artifact,Equipment,Mirrodin,Uncommon,3,Colorless,True,False,True,True,b'Kevin Dobler',0.1
-Vulshok Gauntlets,Artifact,Equipment,Mirrodin,Common,2,Colorless,True,False,True,True,b'Richard Sardinha',0.11
-Welding Jar,Artifact,None,Mirrodin,Common,0,Colorless,True,False,True,True,b'Mark Brill',0.93
-Wizard Replica,Artifact Creature,Wizard,Mirrodin,Common,3,Colorless,True,False,True,True,b'Carl Critchlow',0.1
-Worldslayer,Artifact,Equipment,Mirrodin,Rare,5,Colorless,True,False,True,True,b'Greg Staples',1.17
-Yotian Soldier,Artifact Creature,Soldier,Mirrodin,Common,3,Colorless,True,False,True,True,b'Luca Zontini',0.07
-Ancient Den,Artifact Land,None,Mirrodin,Common,0,Colorless,False,False,True,True,b'Rob Alexander',2.49
-Blinkmoth Well,Land,None,Mirrodin,Uncommon,0,Colorless,True,False,True,False,b'David Martin',0.27
-Cloudpost,Land,Locus,Mirrodin,Common,0,Colorless,False,False,True,True,b'Martina Pilcerova',0.41
-Glimmervoid,Land,None,Mirrodin,Rare,0,Colorless,True,False,True,True,b'Lars Grant-West',5.56
-Great Furnace,Artifact Land,None,Mirrodin,Common,0,Colorless,False,False,True,True,b'Rob Alexander',0.55
-Seat of the Synod,Artifact Land,None,Mirrodin,Common,0,Colorless,False,False,True,True,b'John Avon',0.62
-Stalking Stones,Land,None,Mirrodin,Uncommon,0,Colorless,True,False,True,True,b'David Day',0.17
-Tree of Tales,Artifact Land,None,Mirrodin,Common,0,Colorless,False,False,True,True,b'John Avon',0.85
-Vault of Whispers,Artifact Land,None,Mirrodin,Common,0,Colorless,False,False,True,True,b'Rob Alexander',0.48
-Plains,Basic Land,Plains,Mirrodin,Common,0,Colorless,True,True,True,True,b'Mark Tedin',0.12
-Plains,Basic Land,Plains,Mirrodin,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.15
-Plains,Basic Land,Plains,Mirrodin,Common,0,Colorless,True,True,True,True,b'Martina Pilcerova',0.2
-Plains,Basic Land,Plains,Mirrodin,Common,0,Colorless,True,True,True,True,b'John Avon',0.2
-Island,Basic Land,Island,Mirrodin,Common,0,Colorless,True,True,True,True,b'Mark Tedin',0.32
-Island,Basic Land,Island,Mirrodin,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.23
-Island,Basic Land,Island,Mirrodin,Common,0,Colorless,True,True,True,True,b'Martina Pilcerova',0.16
-Island,Basic Land,Island,Mirrodin,Common,0,Colorless,True,True,True,True,b'John Avon',0.17
-Swamp,Basic Land,Swamp,Mirrodin,Common,0,Colorless,True,True,True,True,b'Mark Tedin',0.16
-Swamp,Basic Land,Swamp,Mirrodin,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.22
-Swamp,Basic Land,Swamp,Mirrodin,Common,0,Colorless,True,True,True,True,b'Martina Pilcerova',0.2
-Swamp,Basic Land,Swamp,Mirrodin,Common,0,Colorless,True,True,True,True,b'John Avon',0.21
-Mountain,Basic Land,Mountain,Mirrodin,Common,0,Colorless,True,True,True,True,b'Mark Tedin',0.18
-Mountain,Basic Land,Mountain,Mirrodin,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.16
-Mountain,Basic Land,Mountain,Mirrodin,Common,0,Colorless,True,True,True,True,b'Martina Pilcerova',0.13
-Mountain,Basic Land,Mountain,Mirrodin,Common,0,Colorless,True,True,True,True,b'John Avon',0.2
-Forest,Basic Land,Forest,Mirrodin,Common,0,Colorless,True,True,True,True,b'Mark Tedin',0.2
-Forest,Basic Land,Forest,Mirrodin,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.15
-Forest,Basic Land,Forest,Mirrodin,Common,0,Colorless,True,True,True,True,b'Martina Pilcerova',0.17
-Forest,Basic Land,Forest,Mirrodin,Common,0,Colorless,True,True,True,True,b'John Avon',0.15
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Altar's Light,Instant,None,Mirrodin,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.1,False
+Arrest,Enchantment,Aura,Mirrodin,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Tim Hildebrandt',0.09,False
+Auriok Bladewarden,Creature,Human Soldier,Mirrodin,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Dorman',0.15,False
+Auriok Steelshaper,Creature,Human Soldier,Mirrodin,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Dany Orizio',1.42,False
+Auriok Transfixer,Creature,Human Scout,Mirrodin,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Stephen Tappin',0.08,False
+Awe Strike,Instant,None,Mirrodin,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',0.17,False
+Blinding Beam,Instant,None,Mirrodin,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Doug Chaffee',0.09,False
+Leonin Abunas,Creature,Cat Cleric,Mirrodin,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Darrell Riche',2.67,False
+Leonin Den-Guard,Creature,Cat Soldier,Mirrodin,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Todd Lockwood',0.14,False
+Leonin Elder,Creature,Cat Cleric,Mirrodin,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Todd Lockwood',0.17,False
+Leonin Skyhunter,Creature,Cat Knight,Mirrodin,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.17,False
+Loxodon Mender,Creature,Elephant Cleric,Mirrodin,Common,6,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.1,False
+Loxodon Peacekeeper,Creature,Elephant Soldier,Mirrodin,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',0.2,False
+Loxodon Punisher,Creature,Elephant Soldier,Mirrodin,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.27,False
+Luminous Angel,Creature,Angel,Mirrodin,Rare,7,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Matthew D. Wilson',0.42,False
+Raise the Alarm,Instant,None,Mirrodin,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'John Matson',0.15,False
+Razor Barrier,Instant,None,Mirrodin,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.11,False
+Roar of the Kha,Instant,None,Mirrodin,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.16,False
+Rule of Law,Enchantment,None,Mirrodin,Rare,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',0.64,False
+Second Sunrise,Instant,None,Mirrodin,Rare,3,White,Banned,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',2.18,False
+Skyhunter Cub,Creature,Cat Knight,Mirrodin,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.13,False
+Skyhunter Patrol,Creature,Cat Knight,Mirrodin,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.11,False
+Slith Ascendant,Creature,Slith,Mirrodin,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Justin Sweet',0.09,False
+Solar Tide,Sorcery,None,Mirrodin,Rare,6,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Dorman',0.99,False
+Soul Nova,Instant,None,Mirrodin,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Keith Garletts',0.1,False
+Sphere of Purity,Enchantment,None,Mirrodin,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas Gianni',0.08,False
+Taj-Nar Swordsmith,Creature,Cat Soldier,Mirrodin,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Todd Lockwood',0.17,False
+Tempest of Light,Instant,None,Mirrodin,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne England',0.15,False
+Annul,Instant,None,Mirrodin,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.18,False
+Assert Authority,Instant,None,Mirrodin,Uncommon,7,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Hildebrandt',0.13,False
+Broodstar,Creature,Beast,Mirrodin,Rare,10,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Glen Angus',0.63,False
+Disarm,Instant,None,Mirrodin,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Alex Horley-Orlandelli',0.12,False
+Domineer,Enchantment,Aura,Mirrodin,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Jon Foster',0.11,False
+Dream's Grip,Instant,None,Mirrodin,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.64,False
+Fabricate,Sorcery,None,Mirrodin,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Glen Angus',6.14,False
+Fatespinner,Creature,Human Wizard,Mirrodin,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',4.87,False
+Inertia Bubble,Enchantment,Aura,Mirrodin,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Hugh Jamieson',0.11,False
+Looming Hoverguard,Creature,Drone,Mirrodin,Uncommon,6,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',0.09,False
+Lumengrid Augur,Creature,Vedalken Wizard,Mirrodin,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'rk post',0.21,False
+Lumengrid Sentinel,Creature,Human Wizard,Mirrodin,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',0.11,False
+Lumengrid Warden,Creature,Human Wizard,Mirrodin,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Thompson',0.06,False
+March of the Machines,Enchantment,None,Mirrodin,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Ben Thompson',0.52,False
+Neurok Familiar,Creature,Bird,Mirrodin,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,"b'Edward P. Beard, Jr.'",0.06,False
+Neurok Spy,Creature,Human Rogue,Mirrodin,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.03,False
+Override,Instant,None,Mirrodin,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Hugh Jamieson',0.11,False
+Psychic Membrane,Creature,Wall,Mirrodin,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Tony Szczudlo',0.3,False
+Quicksilver Elemental,Creature,Elemental,Mirrodin,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Tony Szczudlo',0.78,False
+Regress,Instant,None,Mirrodin,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.08,False
+Shared Fate,Enchantment,None,Mirrodin,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.6,False
+Slith Strider,Creature,Slith,Mirrodin,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Sweet',0.14,False
+Somber Hoverguard,Creature,Drone,Mirrodin,Common,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',0.07,False
+Temporal Cascade,Sorcery,None,Mirrodin,Rare,7,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Puddnhead',0.35,False
+Thirst for Knowledge,Instant,None,Mirrodin,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Ben Thompson',0.35,False
+Thoughtcast,Sorcery,None,Mirrodin,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Hildebrandt',0.29,False
+Vedalken Archmage,Creature,Vedalken Wizard,Mirrodin,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',9.87,False
+Wanderguard Sentry,Creature,Drone,Mirrodin,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Luca Zontini',0.05,False
+Barter in Blood,Sorcery,None,Mirrodin,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.1,False
+Betrayal of Flesh,Instant,None,Mirrodin,Uncommon,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne England',0.15,False
+Chimney Imp,Creature,Imp,Mirrodin,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.09,False
+Consume Spirit,Sorcery,None,Mirrodin,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Thompson',0.17,False
+Contaminated Bond,Enchantment,Aura,Mirrodin,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Thomas M. Baxa',0.09,False
+Disciple of the Vault,Creature,Human Cleric,Mirrodin,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Thompson',0.27,False
+Dross Harvester,Creature,Horror,Mirrodin,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',0.39,False
+Dross Prowler,Creature,Zombie,Mirrodin,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',0.1,False
+Flayed Nim,Creature,Skeleton,Mirrodin,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Trevor Hairsine',0.12,False
+Grim Reminder,Instant,None,Mirrodin,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne England',0.19,False
+Irradiate,Instant,None,Mirrodin,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Dorman',0.06,False
+Moriok Scavenger,Creature,Human Rogue,Mirrodin,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Puddnhead',0.09,False
+Necrogen Mists,Enchantment,None,Mirrodin,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Alex Horley-Orlandelli',4.29,False
+Nim Devourer,Creature,Zombie,Mirrodin,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Rex',0.28,False
+Nim Lasher,Creature,Zombie,Mirrodin,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Rex',0.08,False
+Nim Shambler,Creature,Zombie,Mirrodin,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Rex',0.08,False
+Nim Shrieker,Creature,Zombie,Mirrodin,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Rex',0.07,False
+Promise of Power,Sorcery,None,Mirrodin,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.47,False
+Reiver Demon,Creature,Demon,Mirrodin,Rare,8,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Brom',1.42,False
+Relic Bane,Enchantment,Aura,Mirrodin,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Eric Peterson',0.08,False
+Slith Bloodletter,Creature,Slith,Mirrodin,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Justin Sweet',0.09,False
+Spoils of the Vault,Instant,None,Mirrodin,Rare,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Thomas M. Baxa',0.86,False
+Terror,Instant,None,Mirrodin,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Puddnhead',0.11,False
+Vermiculos,Creature,Horror,Mirrodin,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.19,False
+Wail of the Nim,Instant,None,Mirrodin,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'John Matson',0.15,False
+Wall of Blood,Creature,Wall,Mirrodin,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Tony Szczudlo',0.68,False
+Woebearer,Creature,Zombie,Mirrodin,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Thompson',0.11,False
+Wrench Mind,Sorcery,None,Mirrodin,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.29,False
+Arc-Slogger,Creature,Beast,Mirrodin,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Easley',0.14,False
+Atog,Creature,Atog,Mirrodin,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Puddnhead',0.31,False
+Confusion in the Ranks,Enchantment,None,Mirrodin,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',2.05,False
+Detonate,Sorcery,None,Mirrodin,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Dorman',0.1,False
+Electrostatic Bolt,Instant,None,Mirrodin,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Gallegos',0.11,False
+Fiery Gambit,Sorcery,None,Mirrodin,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',3.42,False
+Fists of the Anvil,Instant,None,Mirrodin,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.18,False
+Forge Armor,Instant,None,Mirrodin,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Tony Szczudlo',0.09,False
+Fractured Loyalty,Enchantment,Aura,Mirrodin,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.1,False
+Goblin Striker,Creature,Goblin Berserker,Mirrodin,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Kevin Dobler',0.08,False
+Grab the Reins,Instant,None,Mirrodin,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Sutfin',0.29,False
+Incite War,Instant,None,Mirrodin,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Alex Horley-Orlandelli',0.09,False
+Krark-Clan Grunt,Creature,Goblin Warrior,Mirrodin,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.08,False
+Krark-Clan Shaman,Creature,Goblin Shaman,Mirrodin,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.26,False
+Mass Hysteria,Enchantment,None,Mirrodin,Rare,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Rex',5.36,False
+Megatog,Creature,Atog,Mirrodin,Rare,6,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.2,False
+Molten Rain,Sorcery,None,Mirrodin,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Hugh Jamieson',0.63,False
+Ogre Leadfoot,Creature,Ogre,Mirrodin,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.12,False
+Rustmouth Ogre,Creature,Ogre,Mirrodin,Uncommon,6,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Brian Sn\xc3\xb5ddy',0.1,False
+Seething Song,Instant,None,Mirrodin,Common,3,Red,Banned,Not Legal,Legal,Legal,Legal,True,b'Martina Pilcerova',0.84,False
+Shatter,Instant,None,Mirrodin,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Tim Hildebrandt',0.04,False
+Shrapnel Blast,Instant,None,Mirrodin,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Dorman',0.26,False
+Slith Firewalker,Creature,Slith,Mirrodin,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Sweet',0.09,False
+Spikeshot Goblin,Creature,Goblin Shaman,Mirrodin,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.13,False
+Trash for Treasure,Sorcery,None,Mirrodin,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Lars Grant-West',1.37,False
+Vulshok Battlemaster,Creature,Human Warrior,Mirrodin,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.25,False
+Vulshok Berserker,Creature,Human Berserker,Mirrodin,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.03,False
+War Elemental,Creature,Elemental,Mirrodin,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony S. Waters',0.95,False
+Battlegrowth,Instant,None,Mirrodin,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'John Matson',0.11,False
+Bloodscent,Instant,None,Mirrodin,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.09,False
+Brown Ouphe,Creature,Ouphe,Mirrodin,Uncommon,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Hildebrandt',0.1,False
+Copperhoof Vorrac,Creature,Boar Beast,Mirrodin,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.31,False
+Creeping Mold,Sorcery,None,Mirrodin,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Dany Orizio',0.09,False
+Deconstruct,Sorcery,None,Mirrodin,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'D. Alexander Gregory',0.12,False
+Fangren Hunter,Creature,Beast,Mirrodin,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Darrell Riche',0.08,False
+Glissa Sunseeker,Creature,Elf,Mirrodin,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Brom',1.06,True
+Groffskithur,Creature,Beast,Mirrodin,Common,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',0.08,False
+Hum of the Radix,Enchantment,None,Mirrodin,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.43,False
+Journey of Discovery,Sorcery,None,Mirrodin,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'John Matson',0.3,False
+Living Hive,Creature,Elemental Insect,Mirrodin,Rare,8,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',0.37,False
+Molder Slug,Creature,Slug Beast,Mirrodin,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.47,False
+One Dozen Eyes,Sorcery,None,Mirrodin,Uncommon,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Darrell Riche',0.08,False
+Plated Slagwurm,Creature,Wurm,Mirrodin,Rare,7,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Sweet',0.28,False
+Predator's Strike,Instant,None,Mirrodin,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Tony Szczudlo',0.28,False
+Slith Predator,Creature,Slith,Mirrodin,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Justin Sweet',0.1,False
+Sylvan Scrying,Sorcery,None,Mirrodin,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',1.04,False
+Tel-Jilad Archers,Creature,Elf Archer,Mirrodin,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Marcelo Vignali',0.07,False
+Tel-Jilad Chosen,Creature,Elf Warrior,Mirrodin,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Matthew D. Wilson',0.09,False
+Tel-Jilad Exile,Creature,Troll Warrior,Mirrodin,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Justin Sweet',0.05,False
+Tooth and Nail,Sorcery,None,Mirrodin,Rare,7,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Hildebrandt',17.61,False
+Troll Ascetic,Creature,Troll Shaman,Mirrodin,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Puddnhead',0.38,False
+Trolls of Tel-Jilad,Creature,Troll Shaman,Mirrodin,Uncommon,7,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Marcelo Vignali',0.09,False
+Turn to Dust,Instant,None,Mirrodin,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne England',0.08,False
+Viridian Joiner,Creature,Elf Druid,Mirrodin,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.26,False
+Viridian Shaman,Creature,Elf Shaman,Mirrodin,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',0.13,False
+Wurmskin Forger,Creature,Elf Warrior,Mirrodin,Common,7,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Justin Sweet',0.06,False
+Aether Spellbomb,Artifact,None,Mirrodin,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Nelson',0.3,False
+Alpha Myr,Artifact Creature,Myr,Mirrodin,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dany Orizio',0.1,False
+Altar of Shadows,Artifact,None,Mirrodin,Rare,7,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Sam Wood',0.41,False
+Banshee's Blade,Artifact,Equipment,Mirrodin,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Bradley Williams',0.24,False
+Blinkmoth Urn,Artifact,None,Mirrodin,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'David Martin',1.19,False
+Bonesplitter,Artifact,Equipment,Mirrodin,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Darrell Riche',0.3,False
+Bosh Iron Golem,Artifact Creature,Golem,Mirrodin,Rare,8,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Brom',0.28,True
+Bottle Gnomes,Artifact Creature,Gnome,Mirrodin,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Ben Thompson',0.15,False
+Cathodion,Artifact Creature,Construct,Mirrodin,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Peterson',0.11,False
+Chalice of the Void,Artifact,None,Mirrodin,Rare,2,Colorless,Legal,Not Legal,Legal,Restrict.,Legal,True,b'Mark Zug',39.3,False
+Chromatic Sphere,Artifact,None,Mirrodin,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.54,False
+Chrome Mox,Artifact,None,Mirrodin,Rare,0,Colorless,Banned,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',58.39,False
+Clockwork Beetle,Artifact Creature,Insect,Mirrodin,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Arnie Swekel',0.1,False
+Clockwork Condor,Artifact Creature,Bird,Mirrodin,Common,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Arnie Swekel',0.1,False
+Clockwork Dragon,Artifact Creature,Dragon,Mirrodin,Rare,7,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Arnie Swekel',0.45,False
+Clockwork Vorrac,Artifact Creature,Boar Beast,Mirrodin,Uncommon,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Arnie Swekel',0.1,False
+Cobalt Golem,Artifact Creature,Golem,Mirrodin,Common,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.13,False
+Copper Myr,Artifact Creature,Myr,Mirrodin,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.15,False
+Crystal Shard,Artifact,None,Mirrodin,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Doug Chaffee',2.68,False
+Culling Scales,Artifact,None,Mirrodin,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.41,False
+Damping Matrix,Artifact,None,Mirrodin,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Dringenberg',0.5,False
+Dead-Iron Sledge,Artifact,Equipment,Mirrodin,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Ray Lago',0.16,False
+Dragon Blood,Artifact,None,Mirrodin,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.13,False
+Dross Scorpion,Artifact Creature,Scorpion,Mirrodin,Common,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.23,False
+Duplicant,Artifact Creature,Shapeshifter,Mirrodin,Rare,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Thomas M. Baxa',1.9,False
+Duskworker,Artifact Creature,Construct,Mirrodin,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.13,False
+Elf Replica,Artifact Creature,Elf,Mirrodin,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.1,False
+Empyrial Plate,Artifact,Equipment,Mirrodin,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.48,False
+Extraplanar Lens,Artifact,None,Mirrodin,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Lars Grant-West',33.4,False
+Farsight Mask,Artifact,None,Mirrodin,Uncommon,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Ben Thompson',0.24,False
+Fireshrieker,Artifact,Equipment,Mirrodin,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.48,False
+Frogmite,Artifact Creature,Frog,Mirrodin,Common,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.19,False
+Galvanic Key,Artifact,None,Mirrodin,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Tony Szczudlo',0.12,False
+Gate to the Aether,Artifact,None,Mirrodin,Rare,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',1.49,False
+Gilded Lotus,Artifact,None,Mirrodin,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Martina Pilcerova',5.01,False
+Goblin Charbelcher,Artifact,None,Mirrodin,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Stephen Tappin',1.11,False
+Goblin Dirigible,Artifact Creature,Construct,Mirrodin,Uncommon,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',0.11,False
+Goblin Replica,Artifact Creature,Goblin,Mirrodin,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.08,False
+Goblin War Wagon,Artifact Creature,Juggernaut,Mirrodin,Common,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Doug Chaffee',0.07,False
+Gold Myr,Artifact Creature,Myr,Mirrodin,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.21,False
+Golem-Skin Gauntlets,Artifact,Equipment,Mirrodin,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Pollack',0.76,False
+Granite Shard,Artifact,None,Mirrodin,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Doug Chaffee',0.08,False
+Grid Monitor,Artifact Creature,Construct,Mirrodin,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Arnie Swekel',0.64,False
+Heartwood Shard,Artifact,None,Mirrodin,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Doug Chaffee',0.16,False
+Hematite Golem,Artifact Creature,Golem,Mirrodin,Common,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.09,False
+Icy Manipulator,Artifact,None,Mirrodin,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.24,False
+Iron Myr,Artifact Creature,Myr,Mirrodin,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.25,False
+Isochron Scepter,Artifact,None,Mirrodin,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Harrison',12.54,False
+Jinxed Choker,Artifact,None,Mirrodin,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Dringenberg',0.45,False
+Krark's Thumb,Artifact,None,Mirrodin,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',5.23,True
+Leaden Myr,Artifact Creature,Myr,Mirrodin,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.25,False
+Leonin Bladetrap,Artifact,None,Mirrodin,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.08,False
+Leonin Scimitar,Artifact,Equipment,Mirrodin,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Doug Chaffee',0.12,False
+Leonin Sun Standard,Artifact,None,Mirrodin,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.36,False
+Leveler,Artifact Creature,Juggernaut,Mirrodin,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',2.85,False
+Liar's Pendulum,Artifact,None,Mirrodin,Rare,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.29,False
+Lifespark Spellbomb,Artifact,None,Mirrodin,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.13,False
+Lightning Coils,Artifact,None,Mirrodin,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.72,False
+Lightning Greaves,Artifact,Equipment,Mirrodin,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeremy Jarvis',7.09,False
+Lodestone Myr,Artifact Creature,Myr,Mirrodin,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.26,False
+Loxodon Warhammer,Artifact,Equipment,Mirrodin,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeremy Jarvis',0.92,False
+Malachite Golem,Artifact Creature,Golem,Mirrodin,Common,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.09,False
+Mask of Memory,Artifact,Equipment,Mirrodin,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',1.46,False
+Mesmeric Orb,Artifact,None,Mirrodin,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'David Martin',22.09,False
+Mind's Eye,Artifact,None,Mirrodin,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,"b'Edward P. Beard, Jr.'",4.13,False
+Mindslaver,Artifact,None,Mirrodin,Rare,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Glen Angus',5.23,True
+Mindstorm Crown,Artifact,None,Mirrodin,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Ben Thompson',0.12,False
+Mirror Golem,Artifact Creature,Golem,Mirrodin,Uncommon,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Franz Vohwinkel',0.12,False
+Mourner's Shield,Artifact,None,Mirrodin,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.09,False
+Myr Adapter,Artifact Creature,Myr,Mirrodin,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Ben Thompson',0.1,False
+Myr Enforcer,Artifact Creature,Myr,Mirrodin,Common,7,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.23,False
+Myr Incubator,Artifact,None,Mirrodin,Rare,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alex Horley-Orlandelli',0.45,False
+Myr Mindservant,Artifact Creature,Myr,Mirrodin,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Dorman',0.19,False
+Myr Prototype,Artifact Creature,Myr,Mirrodin,Uncommon,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Dorman',0.17,False
+Myr Retriever,Artifact Creature,Myr,Mirrodin,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Trevor Hairsine',0.93,False
+Necrogen Spellbomb,Artifact,None,Mirrodin,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.2,False
+Needlebug,Artifact Creature,Insect,Mirrodin,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.14,False
+Neurok Hoversail,Artifact,Equipment,Mirrodin,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Pollack',0.18,False
+Nightmare Lash,Artifact,Equipment,Mirrodin,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Puddnhead',1.8,False
+Nim Replica,Artifact Creature,Zombie,Mirrodin,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.05,False
+Nuisance Engine,Artifact,None,Mirrodin,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Stephen Tappin',0.18,False
+Oblivion Stone,Artifact,None,Mirrodin,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Sam Wood',5.78,False
+Omega Myr,Artifact Creature,Myr,Mirrodin,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Dany Orizio',0.09,False
+Ornithopter,Artifact Creature,Thopter,Mirrodin,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dana Knutson',0.28,False
+Pearl Shard,Artifact,None,Mirrodin,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Doug Chaffee',0.07,False
+Pentavus,Artifact Creature,Construct,Mirrodin,Rare,7,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.23,False
+Pewter Golem,Artifact Creature,Golem,Mirrodin,Common,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.11,False
+Platinum Angel,Artifact Creature,Angel,Mirrodin,Rare,7,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Brom',6.47,False
+Power Conduit,Artifact,None,Mirrodin,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Todd Lockwood',0.75,False
+Proteus Staff,Artifact,None,Mirrodin,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Trevor Hairsine',3.61,False
+Psychogenic Probe,Artifact,None,Mirrodin,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Jeremy Jarvis',0.27,False
+Pyrite Spellbomb,Artifact,None,Mirrodin,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Nelson',0.18,False
+Quicksilver Fountain,Artifact,None,Mirrodin,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Trevor Hairsine',2.06,False
+Rust Elemental,Artifact Creature,Elemental,Mirrodin,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Arnie Swekel',0.34,False
+Rustspore Ram,Artifact Creature,Sheep,Mirrodin,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Arnie Swekel',0.09,False
+Scale of Chiss-Goria,Artifact,None,Mirrodin,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Pollack',0.1,False
+Scrabbling Claws,Artifact,None,Mirrodin,Uncommon,1,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Thomas M. Baxa',0.18,False
+Sculpting Steel,Artifact,None,Mirrodin,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',6.1,False
+Scythe of the Wretched,Artifact,Equipment,Mirrodin,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',2.5,False
+Serum Tank,Artifact,None,Mirrodin,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Corey D. Macourek',0.13,False
+Silver Myr,Artifact Creature,Myr,Mirrodin,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.28,False
+Skeleton Shard,Artifact,None,Mirrodin,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Doug Chaffee',0.16,False
+Slagwurm Armor,Artifact,Equipment,Mirrodin,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Sweet',0.43,False
+Soldier Replica,Artifact Creature,Soldier,Mirrodin,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.04,False
+Solemn Simulacrum,Artifact Creature,Golem,Mirrodin,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',5.13,False
+Soul Foundry,Artifact,None,Mirrodin,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Arnie Swekel',0.83,False
+Spellweaver Helix,Artifact,None,Mirrodin,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Luca Zontini',0.26,False
+Steel Wall,Artifact Creature,Wall,Mirrodin,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'David Day',0.33,False
+Sun Droplet,Artifact,None,Mirrodin,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Hildebrandt',0.61,False
+Sunbeam Spellbomb,Artifact,None,Mirrodin,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.19,False
+Sword of Kaldra,Artifact,Equipment,Mirrodin,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',7.5,True
+Synod Sanctum,Artifact,None,Mirrodin,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dana Knutson',0.39,False
+Talisman of Dominance,Artifact,None,Mirrodin,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Dringenberg',4.78,False
+Talisman of Impulse,Artifact,None,Mirrodin,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Dringenberg',0.67,False
+Talisman of Indulgence,Artifact,None,Mirrodin,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Dringenberg',3.84,False
+Talisman of Progress,Artifact,None,Mirrodin,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Dringenberg',10.79,False
+Talisman of Unity,Artifact,None,Mirrodin,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Dringenberg',1.66,False
+Tanglebloom,Artifact,None,Mirrodin,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Val Mayerik',0.09,False
+Tangleroot,Artifact,None,Mirrodin,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Dana Knutson',0.33,False
+Tel-Jilad Stylus,Artifact,None,Mirrodin,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Darrell Riche',0.31,False
+Thought Prison,Artifact,None,Mirrodin,Uncommon,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Glen Angus',0.14,False
+Timesifter,Artifact,None,Mirrodin,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Dany Orizio',1.67,False
+Titanium Golem,Artifact Creature,Golem,Mirrodin,Common,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.09,False
+Tooth of Chiss-Goria,Artifact,None,Mirrodin,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Pollack',0.12,False
+Tower of Champions,Artifact,None,Mirrodin,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.35,False
+Tower of Eons,Artifact,None,Mirrodin,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.32,False
+Tower of Fortunes,Artifact,None,Mirrodin,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.42,False
+Tower of Murmurs,Artifact,None,Mirrodin,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Glen Angus',0.27,False
+Triskelion,Artifact Creature,Construct,Mirrodin,Rare,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',1.06,False
+Viridian Longbow,Artifact,Equipment,Mirrodin,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Jeremy Jarvis',0.68,False
+Vorrac Battlehorns,Artifact,Equipment,Mirrodin,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'David Martin',0.32,False
+Vulshok Battlegear,Artifact,Equipment,Mirrodin,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Kevin Dobler',0.12,False
+Vulshok Gauntlets,Artifact,Equipment,Mirrodin,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Sardinha',0.11,False
+Welding Jar,Artifact,None,Mirrodin,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Brill',1.04,False
+Wizard Replica,Artifact Creature,Wizard,Mirrodin,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.13,False
+Worldslayer,Artifact,Equipment,Mirrodin,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.91,False
+Yotian Soldier,Artifact Creature,Soldier,Mirrodin,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Luca Zontini',0.08,False
+Ancient Den,Artifact Land,None,Mirrodin,Common,0,Colorless,Banned,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',2.01,False
+Blinkmoth Well,Land,None,Mirrodin,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'David Martin',0.28,False
+Cloudpost,Land,Locus,Mirrodin,Common,0,Colorless,Banned,Not Legal,Legal,Legal,Legal,True,b'Martina Pilcerova',0.31,False
+Glimmervoid,Land,None,Mirrodin,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Lars Grant-West',5.41,False
+Great Furnace,Artifact Land,None,Mirrodin,Common,0,Colorless,Banned,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.52,False
+Seat of the Synod,Artifact Land,None,Mirrodin,Common,0,Colorless,Banned,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.74,False
+Stalking Stones,Land,None,Mirrodin,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'David Day',0.2,False
+Tree of Tales,Artifact Land,None,Mirrodin,Common,0,Colorless,Banned,Not Legal,Legal,Legal,Legal,True,b'John Avon',1.01,False
+Vault of Whispers,Artifact Land,None,Mirrodin,Common,0,Colorless,Banned,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.59,False
+Plains,Basic Land,Plains,Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.13,False
+Plains,Basic Land,Plains,Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.15,False
+Plains,Basic Land,Plains,Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Martina Pilcerova',0.2,False
+Plains,Basic Land,Plains,Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.2,False
+Island,Basic Land,Island,Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.3,False
+Island,Basic Land,Island,Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.19,False
+Island,Basic Land,Island,Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Martina Pilcerova',0.16,False
+Island,Basic Land,Island,Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.18,False
+Swamp,Basic Land,Swamp,Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.18,False
+Swamp,Basic Land,Swamp,Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.22,False
+Swamp,Basic Land,Swamp,Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Martina Pilcerova',0.2,False
+Swamp,Basic Land,Swamp,Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.21,False
+Mountain,Basic Land,Mountain,Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.19,False
+Mountain,Basic Land,Mountain,Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.16,False
+Mountain,Basic Land,Mountain,Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Martina Pilcerova',0.16,False
+Mountain,Basic Land,Mountain,Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.19,False
+Forest,Basic Land,Forest,Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.2,False
+Forest,Basic Land,Forest,Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.15,False
+Forest,Basic Land,Forest,Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Martina Pilcerova',0.18,False
+Forest,Basic Land,Forest,Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.15,False

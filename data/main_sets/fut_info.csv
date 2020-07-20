@@ -1,177 +1,177 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Angel of Salvation,Creature,Angel,Future Sight,Rare,8,White,True,False,True,True,b'D. Alexander Gregory',0.37
-Augur il-Vec,Creature,Human Cleric,Future Sight,Common,2,White,True,False,True,False,b'Daren Bader',0.14
-Barren Glory,Enchantment,None,Future Sight,Rare,6,White,True,False,True,False,b'Dave Kendall',0.59
-Dust of Moments,Instant,None,Future Sight,Uncommon,3,White,True,False,True,False,b'Zoltan Boros',0.09
-Even the Odds,Instant,None,Future Sight,Uncommon,3,White,True,False,True,False,b'Shishizaru',0.1
-Gift of Granite,Enchantment,Aura,Future Sight,Common,1,White,True,False,True,False,b'Hideaki Takamura',0.06
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Angel of Salvation,Creature,Angel,Future Sight,Rare,8,White,Legal,Not Legal,Legal,Legal,Legal,True,b'D. Alexander Gregory',0.37,False
+Augur il-Vec,Creature,Human Cleric,Future Sight,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.14,False
+Barren Glory,Enchantment,None,Future Sight,Rare,6,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Kendall',0.56,False
+Dust of Moments,Instant,None,Future Sight,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.1,False
+Even the Odds,Instant,None,Future Sight,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Shishizaru',0.12,False
+Gift of Granite,Enchantment,Aura,Future Sight,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Hideaki Takamura',0.06,False
 Intervention Pact,"Color Indicator: White
-          Instant",None,Future Sight,Rare,0,Colorless,True,False,True,False,b'Dave Kendall',1.8
-Judge Unworthy,Instant,None,Future Sight,Common,2,White,True,False,True,False,b'Greg Staples',0.08
-Lost Auramancers,Creature,Human Wizard,Future Sight,Uncommon,4,White,True,False,True,False,b'Brandon Kitkouski',0.73
-Magus of the Moat,Creature,Human Wizard,Future Sight,Rare,4,White,True,False,True,True,b'John Avon',8.22
-Marshaling Cry,Sorcery,None,Future Sight,Common,3,White,True,False,True,False,b'Vance Kovacs',0.15
-Saltskitter,Creature,Wurm,Future Sight,Common,4,White,True,False,True,False,b'Chippy',0.15
-Samite Censer-Bearer,Creature,Human Rebel Cleric,Future Sight,Common,1,White,True,False,True,False,b'William Simpson',0.03
-Scout's Warning,Instant,None,Future Sight,Rare,1,White,True,False,True,False,b'Zoltan Boros',1.35
-Spirit en-Dal,Creature,Spirit,Future Sight,Uncommon,3,White,True,False,True,False,b'Daren Bader',0.31
-Aven Mindcensor,Creature,Bird Wizard,Future Sight,Uncommon,3,White,True,False,True,True,b'Rebecca Guay',1.57
-Blade of the Sixth Pride,Creature,Cat Rebel,Future Sight,Common,2,White,True,False,True,False,b'Justin Sweet',0.13
-Bound in Silence,Tribal Enchantment,Rebel Aura,Future Sight,Uncommon,3,White,True,False,True,True,b'William Simpson',0.09
-Daybreak Coronet,Enchantment,Aura,Future Sight,Rare,2,White,True,False,True,True,b'Scott Hampton',2.99
-Goldmeadow Lookout,Creature,Kithkin Spellshaper,Future Sight,Uncommon,4,White,True,False,True,False,b'Steve Prescott',0.12
-Imperial Mask,Enchantment,None,Future Sight,Rare,5,White,True,False,True,False,b'Christopher Moeller',0.44
-Lucent Liminid,Enchantment Creature,Elemental,Future Sight,Common,5,White,True,False,True,False,b'Eric Fortune',0.06
-Lumithread Field,Enchantment,None,Future Sight,Common,2,White,True,False,True,True,b'Scott Altmann',0.15
-Lymph Sliver,Creature,Sliver,Future Sight,Common,5,White,True,False,True,False,b'Ittoku',0.2
-Mistmeadow Skulk,Creature,Kithkin Rogue,Future Sight,Uncommon,2,White,True,False,True,True,b'Omar Rayyan',0.11
-"Oriss, Samite Guardian",Legendary Creature,Human Cleric,Future Sight,Rare,3,White,True,False,True,False,b'Michael Komarck',0.54
-Patrician's Scorn,Instant,None,Future Sight,Common,4,White,True,False,True,False,b'John Avon',0.18
-Ramosian Revivalist,Creature,Human Rebel Cleric,Future Sight,Uncommon,4,White,True,False,True,False,b'Matt Stewart',0.18
-Seht's Tiger,Creature,Cat,Future Sight,Rare,4,White,True,False,True,True,b'Thomas Gianni',0.43
-Aven Augur,Creature,Bird Wizard,Future Sight,Common,4,Blue,True,False,True,False,b'Dan Scott',0.08
-Cloudseeder,Creature,Faerie Spellshaper,Future Sight,Uncommon,2,Blue,True,False,True,False,b'Tsutomu Kawade',0.17
-Cryptic Annelid,Creature,Worm Beast,Future Sight,Uncommon,4,Blue,True,False,True,True,b'Anthony S. Waters',0.18
-Delay,Instant,None,Future Sight,Uncommon,2,Blue,True,False,True,True,b'Ron Spears',7.24
-Foresee,Sorcery,None,Future Sight,Common,4,Blue,True,False,True,True,b'Ron Spears',0.12
-Leaden Fists,Enchantment,Aura,Future Sight,Common,3,Blue,True,False,True,False,b'Shishizaru',0.05
-Maelstrom Djinn,Creature,Djinn,Future Sight,Rare,8,Blue,True,False,True,False,b'Hideaki Takamura',0.26
-Magus of the Future,Creature,Human Wizard,Future Sight,Rare,5,Blue,True,False,True,False,b'Anthony Francisco',1.41
-Mystic Speculation,Sorcery,None,Future Sight,Uncommon,1,Blue,True,False,True,False,b'Trevor Hairsine',1.18
+          Instant",None,Future Sight,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Kendall',1.68,False
+Judge Unworthy,Instant,None,Future Sight,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.09,False
+Lost Auramancers,Creature,Human Wizard,Future Sight,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Brandon Kitkouski',0.74,False
+Magus of the Moat,Creature,Human Wizard,Future Sight,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',7.96,False
+Marshaling Cry,Sorcery,None,Future Sight,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Vance Kovacs',0.15,False
+Saltskitter,Creature,Wurm,Future Sight,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Chippy',0.14,False
+Samite Censer-Bearer,Creature,Human Rebel Cleric,Future Sight,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'William Simpson',0.05,False
+Scout's Warning,Instant,None,Future Sight,Rare,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',1.61,False
+Spirit en-Dal,Creature,Spirit,Future Sight,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.33,False
+Aven Mindcensor,Creature,Bird Wizard,Future Sight,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',1.74,False
+Blade of the Sixth Pride,Creature,Cat Rebel,Future Sight,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Justin Sweet',0.13,False
+Bound in Silence,Tribal Enchantment,Rebel Aura,Future Sight,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'William Simpson',0.09,False
+Daybreak Coronet,Enchantment,Aura,Future Sight,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Hampton',3.17,False
+Goldmeadow Lookout,Creature,Kithkin Spellshaper,Future Sight,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Prescott',0.12,False
+Imperial Mask,Enchantment,None,Future Sight,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.46,False
+Lucent Liminid,Enchantment Creature,Elemental,Future Sight,Common,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Eric Fortune',0.06,False
+Lumithread Field,Enchantment,None,Future Sight,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Altmann',0.16,False
+Lymph Sliver,Creature,Sliver,Future Sight,Common,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Ittoku',0.22,False
+Mistmeadow Skulk,Creature,Kithkin Rogue,Future Sight,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Omar Rayyan',0.11,False
+Oriss Samite Guardian,Creature,Human Cleric,Future Sight,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Komarck',0.59,True
+Patrician's Scorn,Instant,None,Future Sight,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.19,False
+Ramosian Revivalist,Creature,Human Rebel Cleric,Future Sight,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Stewart',0.17,False
+Seht's Tiger,Creature,Cat,Future Sight,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Thomas Gianni',0.42,False
+Aven Augur,Creature,Bird Wizard,Future Sight,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.09,False
+Cloudseeder,Creature,Faerie Spellshaper,Future Sight,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Tsutomu Kawade',0.19,False
+Cryptic Annelid,Creature,Worm Beast,Future Sight,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',0.19,False
+Delay,Instant,None,Future Sight,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spears',6.3,False
+Foresee,Sorcery,None,Future Sight,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spears',0.1,False
+Leaden Fists,Enchantment,Aura,Future Sight,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Shishizaru',0.05,False
+Maelstrom Djinn,Creature,Djinn,Future Sight,Rare,8,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Hideaki Takamura',0.27,False
+Magus of the Future,Creature,Human Wizard,Future Sight,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony Francisco',1.42,False
+Mystic Speculation,Sorcery,None,Future Sight,Uncommon,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Trevor Hairsine',1.34,False
 Pact of Negation,"Color Indicator: Blue
-          Instant",None,Future Sight,Rare,0,Colorless,True,False,True,True,b'Jason Chan',22.45
-Take Possession,Enchantment,Aura,Future Sight,Rare,7,Blue,True,False,True,True,b'Michael Phillippi',0.36
-Unblinking Bleb,Creature,Illusion,Future Sight,Common,4,Blue,True,False,True,False,b'Shishizaru',0.4
-"Venser, Shaper Savant",Legendary Creature,Human Wizard,Future Sight,Rare,4,Blue,True,False,True,True,b'Aleksi Briclot',8.59
-Venser's Diffusion,Instant,None,Future Sight,Common,3,Blue,True,False,True,False,b'Hideaki Takamura',0.07
-Arcanum Wings,Enchantment,Aura,Future Sight,Uncommon,2,Blue,True,False,True,False,b'Carl Frank',0.65
-Blind Phantasm,Creature,Illusion,Future Sight,Common,3,Blue,True,False,True,False,b'Khang Le',0.07
-Bonded Fetch,Creature,Homunculus,Future Sight,Uncommon,3,Blue,True,False,True,False,b'Brandon Kitkouski',0.2
-"Linessa, Zephyr Mage",Legendary Creature,Human Wizard,Future Sight,Rare,4,Blue,True,False,True,False,b'Jim Murray',0.44
-Logic Knot,Instant,None,Future Sight,Common,3,Blue,True,False,True,True,b'Glen Angus',0.51
-Mesmeric Sliver,Creature,Sliver,Future Sight,Common,4,Blue,True,False,True,False,b'Michael Bruinsma',0.19
-Narcomoeba,Creature,Illusion,Future Sight,Uncommon,2,Blue,True,True,True,True,b'Matt Stewart',1.86
-Nix,Instant,None,Future Sight,Rare,1,Blue,True,False,True,False,b'Brian Despain',0.61
-Sarcomite Myr,Artifact Creature,Myr,Future Sight,Common,3,Blue,True,False,True,True,b'Michael Bruinsma',0.13
-Second Wind,Enchantment,Aura,Future Sight,Uncommon,3,Blue,True,False,True,False,b'Matt Stewart',0.18
-Shapeshifter's Marrow,Enchantment,None,Future Sight,Rare,4,Blue,True,False,True,False,b'Chippy',0.35
-Spellweaver Volute,Enchantment,Aura,Future Sight,Rare,5,Blue,True,False,True,True,b'Bud Cook',2.05
-Spin into Myth,Instant,None,Future Sight,Uncommon,5,Blue,True,False,True,True,b'David Day',0.21
-Vedalken Aethermage,Creature,Vedalken Wizard,Future Sight,Common,2,Blue,True,False,True,False,b'William Simpson',0.32
-Whip-Spine Drake,Creature,Drake,Future Sight,Common,5,Blue,True,False,True,False,b'Eric Fortune',0.08
-Augur of Skulls,Creature,Skeleton Wizard,Future Sight,Common,2,Black,True,False,True,False,b'Chippy',0.29
-Cutthroat il-Dal,Creature,Human Rogue,Future Sight,Common,4,Black,True,False,True,False,b'Vance Kovacs',0.06
-Gibbering Descent,Enchantment,None,Future Sight,Rare,6,Black,True,False,True,False,b'Ittoku',6.49
-Grave Peril,Enchantment,None,Future Sight,Common,2,Black,True,False,True,True,b'Daarken',0.11
-Ichor Slick,Sorcery,None,Future Sight,Common,3,Black,True,False,True,True,b'Zoltan Boros',0.2
-Lost Hours,Sorcery,None,Future Sight,Common,2,Black,True,False,True,False,b'Jon Foster',0.08
-Magus of the Abyss,Creature,Human Wizard,Future Sight,Rare,4,Black,True,False,True,True,b'Kev Walker',0.33
-Minions' Murmurs,Sorcery,None,Future Sight,Uncommon,4,Black,True,False,True,False,b'Nils Hamm',0.21
-Oblivion Crown,Enchantment,Aura,Future Sight,Common,2,Black,True,False,True,False,b'Kev Walker',0.21
-Pooling Venom,Enchantment,Aura,Future Sight,Uncommon,2,Black,True,False,True,False,b'Ron Spears',0.33
-Putrid Cyclops,Creature,Zombie Cyclops,Future Sight,Common,3,Black,True,False,True,False,b'Matt Cavotta',0.03
-Shimian Specter,Creature,Specter,Future Sight,Rare,4,Black,True,False,True,True,b'Anthony S. Waters',0.27
-Skirk Ridge Exhumer,Creature,Zombie Spellshaper,Future Sight,Uncommon,2,Black,True,False,True,False,b'Michael Phillippi',0.26
+          Instant",None,Future Sight,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',31.33,False
+Take Possession,Enchantment,Aura,Future Sight,Rare,7,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Phillippi',0.42,False
+Unblinking Bleb,Creature,Illusion,Future Sight,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Shishizaru',0.48,False
+Venser Shaper Savant,Creature,Human Wizard,Future Sight,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',9.0,True
+Venser's Diffusion,Instant,None,Future Sight,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Hideaki Takamura',0.09,False
+Arcanum Wings,Enchantment,Aura,Future Sight,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Frank',0.64,False
+Blind Phantasm,Creature,Illusion,Future Sight,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Khang Le',0.07,False
+Bonded Fetch,Creature,Homunculus,Future Sight,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Brandon Kitkouski',0.24,False
+Linessa Zephyr Mage,Creature,Human Wizard,Future Sight,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Murray',0.43,True
+Logic Knot,Instant,None,Future Sight,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Glen Angus',0.53,False
+Mesmeric Sliver,Creature,Sliver,Future Sight,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Bruinsma',0.21,False
+Narcomoeba,Creature,Illusion,Future Sight,Uncommon,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Matt Stewart',1.59,False
+Nix,Instant,None,Future Sight,Rare,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Brian Despain',0.62,False
+Sarcomite Myr,Artifact Creature,Myr,Future Sight,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Bruinsma',0.15,False
+Second Wind,Enchantment,Aura,Future Sight,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Stewart',0.17,False
+Shapeshifter's Marrow,Enchantment,None,Future Sight,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Chippy',0.38,False
+Spellweaver Volute,Enchantment,Aura,Future Sight,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Bud Cook',2.09,False
+Spin into Myth,Instant,None,Future Sight,Uncommon,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'David Day',0.22,False
+Vedalken Aethermage,Creature,Vedalken Wizard,Future Sight,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'William Simpson',0.37,False
+Whip-Spine Drake,Creature,Drake,Future Sight,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Eric Fortune',0.12,False
+Augur of Skulls,Creature,Skeleton Wizard,Future Sight,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Chippy',0.3,False
+Cutthroat il-Dal,Creature,Human Rogue,Future Sight,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Vance Kovacs',0.05,False
+Gibbering Descent,Enchantment,None,Future Sight,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Ittoku',6.17,False
+Grave Peril,Enchantment,None,Future Sight,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.11,False
+Ichor Slick,Sorcery,None,Future Sight,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.21,False
+Lost Hours,Sorcery,None,Future Sight,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Jon Foster',0.1,False
+Magus of the Abyss,Creature,Human Wizard,Future Sight,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.38,False
+Minions' Murmurs,Sorcery,None,Future Sight,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Nils Hamm',0.24,False
+Oblivion Crown,Enchantment,Aura,Future Sight,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.24,False
+Pooling Venom,Enchantment,Aura,Future Sight,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spears',0.34,False
+Putrid Cyclops,Creature,Zombie Cyclops,Future Sight,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.03,False
+Shimian Specter,Creature,Specter,Future Sight,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',0.28,False
+Skirk Ridge Exhumer,Creature,Zombie Spellshaper,Future Sight,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Phillippi',0.28,False
 Slaughter Pact,"Color Indicator: Black
-          Instant",None,Future Sight,Rare,0,Colorless,True,False,True,True,b'Kev Walker',3.24
-Stronghold Rats,Creature,Rat,Future Sight,Uncommon,3,Black,True,False,True,False,b'Brandon Kitkouski',1.91
-Bitter Ordeal,Sorcery,None,Future Sight,Rare,3,Black,True,False,True,False,b'Daarken',11.21
-Bridge from Below,Enchantment,None,Future Sight,Rare,3,Black,False,False,True,True,b'Greg Hildebrandt',4.35
-Death Rattle,Instant,None,Future Sight,Common,6,Black,True,False,True,True,b'Vance Kovacs',0.06
-Deepcavern Imp,Creature,Imp Rebel,Future Sight,Common,3,Black,True,False,True,True,b'Scott Altmann',0.09
-Fleshwrither,Creature,Horror,Future Sight,Uncommon,4,Black,True,False,True,False,b'Dave Allsop',1.18
-Frenzy Sliver,Creature,Sliver,Future Sight,Common,2,Black,True,False,True,True,b'Glen Angus',0.22
-Grave Scrabbler,Creature,Zombie,Future Sight,Common,4,Black,True,False,True,True,b'Dave Allsop',0.24
-"Korlash, Heir to Blackblade",Legendary Creature,Zombie Warrior,Future Sight,Rare,4,Black,True,False,True,True,b'Daarken',5.57
-Mass of Ghouls,Creature,Zombie Warrior,Future Sight,Common,5,Black,True,False,True,True,b'Lucio Parrillo',0.06
-Snake Cult Initiation,Enchantment,Aura,Future Sight,Uncommon,4,Black,True,False,True,False,b'Justin Sweet',0.27
-Street Wraith,Creature,Wraith,Future Sight,Uncommon,5,Black,True,False,True,True,b'Cyril Van Der Haegen',3.21
-Tombstalker,Creature,Demon,Future Sight,Rare,8,Black,True,False,True,True,b'Aleksi Briclot',0.73
-Witch's Mist,Enchantment,None,Future Sight,Uncommon,3,Black,True,False,True,False,b'Ittoku',0.12
-Yixlid Jailer,Creature,Zombie Wizard,Future Sight,Uncommon,2,Black,True,False,True,True,b'Matt Cavotta',1.08
-Bogardan Lancer,Creature,Human Knight,Future Sight,Common,2,Red,True,False,True,False,b'Jim Murray',0.07
-Char-Rumbler,Creature,Elemental,Future Sight,Uncommon,4,Red,True,False,True,False,b'Kev Walker',0.11
-Emberwilde Augur,Creature,Goblin Shaman,Future Sight,Common,2,Red,True,False,True,True,b'Brandon Kitkouski',0.1
-Fatal Attraction,Enchantment,Aura,Future Sight,Common,3,Red,True,False,True,False,b'Zoltan Boros',0.06
-Gathan Raiders,Creature,Human Warrior,Future Sight,Common,5,Red,True,False,True,True,b'Paolo Parente',0.12
-Haze of Rage,Sorcery,None,Future Sight,Uncommon,2,Red,True,False,True,False,b'Paolo Parente',0.67
-Magus of the Moon,Creature,Human Wizard,Future Sight,Rare,3,Red,True,False,True,True,b'Franz Vohwinkel',11.98
-Molten Disaster,Sorcery,None,Future Sight,Rare,3,Red,True,False,True,True,b'Ittoku',0.3
+          Instant",None,Future Sight,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',3.47,False
+Stronghold Rats,Creature,Rat,Future Sight,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Brandon Kitkouski',2.3,False
+Bitter Ordeal,Sorcery,None,Future Sight,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Daarken',11.88,False
+Bridge from Below,Enchantment,None,Future Sight,Rare,3,Black,Banned,Not Legal,Legal,Legal,Legal,True,b'Greg Hildebrandt',4.25,False
+Death Rattle,Instant,None,Future Sight,Common,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Vance Kovacs',0.07,False
+Deepcavern Imp,Creature,Imp Rebel,Future Sight,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Altmann',0.09,False
+Fleshwrither,Creature,Horror,Future Sight,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Allsop',1.54,False
+Frenzy Sliver,Creature,Sliver,Future Sight,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Glen Angus',0.21,False
+Grave Scrabbler,Creature,Zombie,Future Sight,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Allsop',0.28,False
+Korlash Heir to Blackblade,Creature,Zombie Warrior,Future Sight,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',5.26,True
+Mass of Ghouls,Creature,Zombie Warrior,Future Sight,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Lucio Parrillo',0.07,False
+Snake Cult Initiation,Enchantment,Aura,Future Sight,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Justin Sweet',0.31,False
+Street Wraith,Creature,Wraith,Future Sight,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Cyril Van Der Haegen',3.19,False
+Tombstalker,Creature,Demon,Future Sight,Rare,8,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',0.68,False
+Witch's Mist,Enchantment,None,Future Sight,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Ittoku',0.13,False
+Yixlid Jailer,Creature,Zombie Wizard,Future Sight,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',1.13,False
+Bogardan Lancer,Creature,Human Knight,Future Sight,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Murray',0.09,False
+Char-Rumbler,Creature,Elemental,Future Sight,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.12,False
+Emberwilde Augur,Creature,Goblin Shaman,Future Sight,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Brandon Kitkouski',0.1,False
+Fatal Attraction,Enchantment,Aura,Future Sight,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.07,False
+Gathan Raiders,Creature,Human Warrior,Future Sight,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.11,False
+Haze of Rage,Sorcery,None,Future Sight,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.71,False
+Magus of the Moon,Creature,Human Wizard,Future Sight,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',15.64,False
+Molten Disaster,Sorcery,None,Future Sight,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ittoku',0.33,False
 Pact of the Titan,"Color Indicator: Red
-          Instant",None,Future Sight,Rare,0,Colorless,True,False,True,False,b'Raymond Swanland',1.65
-Pyromancer's Swath,Enchantment,None,Future Sight,Rare,3,Red,True,False,True,True,b'Hideaki Takamura',0.46
-Riddle of Lightning,Instant,None,Future Sight,Common,5,Red,True,False,True,True,b'Daren Bader',0.05
-Rift Elemental,Creature,Elemental,Future Sight,Common,1,Red,True,False,True,True,b'Ron Spears',0.16
-Scourge of Kher Ridges,Creature,Dragon,Future Sight,Rare,8,Red,True,False,True,False,b'Daren Bader',2.49
-Sparkspitter,Creature,Elemental Spellshaper,Future Sight,Uncommon,3,Red,True,False,True,True,b'Dan Scott',0.12
-Bloodshot Trainee,Creature,Goblin Warrior,Future Sight,Uncommon,4,Red,True,False,True,True,b'Lucio Parrillo',0.1
-Boldwyr Intimidator,Creature,Giant Warrior,Future Sight,Uncommon,7,Red,True,False,True,True,b'Esad Ribic',0.1
-Emblem of the Warmind,Enchantment,Aura,Future Sight,Uncommon,2,Red,True,False,True,False,b'Paolo Parente',0.21
-Flowstone Embrace,Enchantment,Aura,Future Sight,Common,2,Red,True,False,True,False,b'Vance Kovacs',0.05
-Fomori Nomad,Creature,Nomad Giant,Future Sight,Common,5,Red,True,False,True,False,b'Raymond Swanland',0.04
-Ghostfire,Instant,None,Future Sight,Common,3,Red,True,False,True,True,b'Cyril Van Der Haegen',0.06
-Grinning Ignus,Creature,Elemental,Future Sight,Common,3,Red,True,False,True,True,b'James Kei',0.15
-Henchfiend of Ukor,Creature,Ogre,Future Sight,Common,4,Red,True,False,True,False,b'Nils Hamm',0.12
-Homing Sliver,Creature,Sliver,Future Sight,Common,3,Red,True,False,True,True,b'Trevor Hairsine',0.52
-Shah of Naar Isle,Creature,Efreet,Future Sight,Rare,4,Red,True,False,True,False,b'Jon Foster',0.29
-Skizzik Surger,Creature,Elemental,Future Sight,Uncommon,6,Red,True,False,True,False,b'Lucio Parrillo',0.1
-Steamflogger Boss,Creature,Goblin Rigger,Future Sight,Rare,4,Red,True,False,True,True,b'Warren Mahy',0.55
-Storm Entity,Creature,Elemental,Future Sight,Uncommon,2,Red,True,False,True,True,b'Lucio Parrillo',0.23
-Tarox Bladewing,Legendary Creature,Dragon,Future Sight,Rare,5,Red,True,False,True,False,b'Aleksi Briclot',0.41
-Thunderblade Charge,Sorcery,None,Future Sight,Rare,3,Red,True,False,True,False,b'Justin Murray',0.26
-Force of Savagery,Creature,Elemental,Future Sight,Rare,3,Green,True,False,True,False,b'Dan Scott',0.77
-Heartwood Storyteller,Creature,Treefolk,Future Sight,Rare,3,Green,True,False,True,False,b'Anthony S. Waters',6.19
-Kavu Primarch,Creature,Kavu,Future Sight,Common,4,Green,True,False,True,True,b'Kev Walker',0.07
-Llanowar Augur,Creature,Elf Shaman,Future Sight,Common,1,Green,True,False,True,False,b'Tsutomu Kawade',0.2
-Llanowar Empath,Creature,Elf Shaman,Future Sight,Common,4,Green,True,False,True,True,b'Warren Mahy',0.08
-Llanowar Mentor,Creature,Elf Spellshaper,Future Sight,Uncommon,1,Green,True,False,True,False,b'Trevor Hairsine',0.49
-Magus of the Vineyard,Creature,Human Wizard,Future Sight,Rare,1,Green,True,False,True,True,b'Jim Murray',0.92
-Quiet Disrepair,Enchantment,Aura,Future Sight,Common,2,Green,True,False,True,True,b'Glen Angus',0.14
-Ravaging Riftwurm,Creature,Wurm,Future Sight,Uncommon,3,Green,True,False,True,False,b'Michael Phillippi',0.29
-Riftsweeper,Creature,Elf Shaman,Future Sight,Uncommon,2,Green,True,False,True,True,b'Brian Despain',2.23
-Rites of Flourishing,Enchantment,None,Future Sight,Rare,3,Green,True,False,True,True,b'Brandon Kitkouski',2.28
-Sprout Swarm,Instant,None,Future Sight,Common,2,Green,True,False,True,False,b'Chippy',0.54
+          Instant",None,Future Sight,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Raymond Swanland',1.73,False
+Pyromancer's Swath,Enchantment,None,Future Sight,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Hideaki Takamura',0.49,False
+Riddle of Lightning,Instant,None,Future Sight,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.07,False
+Rift Elemental,Creature,Elemental,Future Sight,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spears',0.17,False
+Scourge of Kher Ridges,Creature,Dragon,Future Sight,Rare,8,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',2.31,False
+Sparkspitter,Creature,Elemental Spellshaper,Future Sight,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.12,False
+Bloodshot Trainee,Creature,Goblin Warrior,Future Sight,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Lucio Parrillo',0.1,False
+Boldwyr Intimidator,Creature,Giant Warrior,Future Sight,Uncommon,7,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Esad Ribic',0.09,False
+Emblem of the Warmind,Enchantment,Aura,Future Sight,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.25,False
+Flowstone Embrace,Enchantment,Aura,Future Sight,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Vance Kovacs',0.06,False
+Fomori Nomad,Creature,Nomad Giant,Future Sight,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Raymond Swanland',0.04,False
+Ghostfire,Instant,None,Future Sight,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Cyril Van Der Haegen',0.07,False
+Grinning Ignus,Creature,Elemental,Future Sight,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'James Kei',0.17,False
+Henchfiend of Ukor,Creature,Ogre,Future Sight,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Nils Hamm',0.15,False
+Homing Sliver,Creature,Sliver,Future Sight,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Trevor Hairsine',0.6,False
+Shah of Naar Isle,Creature,Efreet,Future Sight,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Jon Foster',0.31,False
+Skizzik Surger,Creature,Elemental,Future Sight,Uncommon,6,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Lucio Parrillo',0.1,False
+Steamflogger Boss,Creature,Goblin Rigger,Future Sight,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Warren Mahy',0.54,False
+Storm Entity,Creature,Elemental,Future Sight,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Lucio Parrillo',0.24,False
+Tarox Bladewing,Creature,Dragon,Future Sight,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Aleksi Briclot',0.43,True
+Thunderblade Charge,Sorcery,None,Future Sight,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Justin Murray',0.27,False
+Force of Savagery,Creature,Elemental,Future Sight,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.89,False
+Heartwood Storyteller,Creature,Treefolk,Future Sight,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony S. Waters',7.85,False
+Kavu Primarch,Creature,Kavu,Future Sight,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.07,False
+Llanowar Augur,Creature,Elf Shaman,Future Sight,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Tsutomu Kawade',0.18,False
+Llanowar Empath,Creature,Elf Shaman,Future Sight,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Warren Mahy',0.09,False
+Llanowar Mentor,Creature,Elf Spellshaper,Future Sight,Uncommon,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Trevor Hairsine',0.53,False
+Magus of the Vineyard,Creature,Human Wizard,Future Sight,Rare,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Murray',0.9,False
+Quiet Disrepair,Enchantment,Aura,Future Sight,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Glen Angus',0.15,False
+Ravaging Riftwurm,Creature,Wurm,Future Sight,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Phillippi',0.3,False
+Riftsweeper,Creature,Elf Shaman,Future Sight,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Despain',1.46,False
+Rites of Flourishing,Enchantment,None,Future Sight,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Brandon Kitkouski',2.77,False
+Sprout Swarm,Instant,None,Future Sight,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Chippy',0.64,False
 Summoner's Pact,"Color Indicator: Green
-          Instant",None,Future Sight,Rare,0,Colorless,True,False,True,True,b'Chippy',17.04
-Utopia Mycon,Creature,Fungus,Future Sight,Uncommon,1,Green,True,False,True,False,b'Anthony S. Waters',3.31
-Wrap in Vigor,Instant,None,Future Sight,Common,2,Green,True,False,True,True,b'John Donahue',0.48
-"Baru, Fist of Krosa",Legendary Creature,Human Druid,Future Sight,Rare,5,Green,True,False,True,False,b'Lucio Parrillo',2.28
-Centaur Omenreader,Snow Creature,Centaur Shaman,Future Sight,Uncommon,4,Green,True,False,True,False,b'Justin Sweet',0.23
-Edge of Autumn,Sorcery,None,Future Sight,Common,2,Green,True,False,True,True,b'Jean-S\xc3\xa9bastien Rossbach',0.74
-Imperiosaur,Creature,Dinosaur,Future Sight,Uncommon,4,Green,True,False,True,True,b'Lars Grant-West',0.13
-Muraganda Petroglyphs,Enchantment,None,Future Sight,Rare,4,Green,True,False,True,False,b'Scott Altmann',3.53
-Nacatl War-Pride,Creature,Cat Warrior,Future Sight,Uncommon,6,Green,True,False,True,True,b'James Kei',1.05
-Nessian Courser,Creature,Centaur Warrior,Future Sight,Common,3,Green,True,False,True,True,b'Vance Kovacs',0.07
-Phosphorescent Feast,Sorcery,None,Future Sight,Uncommon,5,Green,True,False,True,True,b'David Hudnut',0.12
-Quagnoth,Creature,Beast,Future Sight,Rare,6,Green,True,False,True,False,b'Thomas M. Baxa',0.29
-Spellwild Ouphe,Creature,Ouphe,Future Sight,Uncommon,2,Green,True,False,True,False,b'Scott Altmann',0.14
-Sporoloth Ancient,Creature,Fungus,Future Sight,Common,5,Green,True,False,True,True,b'James Kei',0.19
-Tarmogoyf,Creature,Lhurgoyf,Future Sight,Rare,2,Green,True,False,True,True,b'Justin Murray',68.97
-Thornweald Archer,Creature,Elf Archer,Future Sight,Common,2,Green,True,False,True,True,b'Dave Kendall',0.13
-Virulent Sliver,Creature,Sliver,Future Sight,Common,1,Green,True,False,True,True,b'Franz Vohwinkel',0.91
-Glittering Wish,Sorcery,None,Future Sight,Rare,2,Gold,True,False,True,True,b'John Donahue',4.86
-Jhoira of the Ghitu,Legendary Creature,Human Wizard,Future Sight,Rare,3,Gold,True,False,True,True,b'Kev Walker',1.47
-Sliver Legion,Legendary Creature,Sliver,Future Sight,Rare,5,Gold,True,False,True,True,b'Ron Spears',59.85
-Akroma's Memorial,Legendary Artifact,None,Future Sight,Rare,7,Colorless,True,False,True,True,b'Dan Scott',22.96
-Cloud Key,Artifact,None,Future Sight,Rare,3,Colorless,True,False,True,False,b'Trevor Hairsine',20.94
-Coalition Relic,Artifact,None,Future Sight,Rare,3,Colorless,True,False,True,True,b'Donato Giancola',5.76
-Epochrasite,Artifact Creature,Construct,Future Sight,Rare,2,Colorless,True,False,True,True,b'Michael Bruinsma',0.36
-Sliversmith,Artifact Creature,Spellshaper,Future Sight,Uncommon,2,Colorless,True,False,True,False,b'John Avon',0.3
-Soultether Golem,Artifact Creature,Golem,Future Sight,Uncommon,2,Colorless,True,False,True,False,b'Paolo Parente',0.14
-Sword of the Meek,Artifact,Equipment,Future Sight,Uncommon,2,Colorless,True,False,True,False,b'Franz Vohwinkel',10.79
-Veilstone Amulet,Artifact,None,Future Sight,Rare,3,Colorless,True,False,True,False,b'Martina Pilcerova',2.68
-Darksteel Garrison,Artifact,Fortification,Future Sight,Rare,2,Colorless,True,False,True,True,b'David Martin',0.76
-Whetwheel,Artifact,None,Future Sight,Rare,4,Colorless,True,False,True,False,b'Cyril Van Der Haegen',0.34
-Dakmor Salvage,Land,None,Future Sight,Uncommon,0,Colorless,True,False,True,True,b'John Avon',0.82
-Keldon Megaliths,Land,None,Future Sight,Uncommon,0,Colorless,True,False,True,True,b'Philip Straub',0.18
-Llanowar Reborn,Land,None,Future Sight,Uncommon,0,Colorless,True,False,True,True,b'Philip Straub',1.9
-New Benalia,Land,None,Future Sight,Uncommon,0,Colorless,True,False,True,True,b'Richard Wright',0.14
-Tolaria West,Land,None,Future Sight,Uncommon,0,Colorless,True,False,True,True,b'Khang Le',6.78
+          Instant",None,Future Sight,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Chippy',16.94,False
+Utopia Mycon,Creature,Fungus,Future Sight,Uncommon,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony S. Waters',3.38,False
+Wrap in Vigor,Instant,None,Future Sight,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'John Donahue',0.72,False
+Baru Fist of Krosa,Creature,Human Druid,Future Sight,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Lucio Parrillo',2.23,True
+Centaur Omenreader,Snow Creature,Centaur Shaman,Future Sight,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Justin Sweet',0.25,False
+Edge of Autumn,Sorcery,None,Future Sight,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jean-S\xc3\xa9bastien Rossbach',0.79,False
+Imperiosaur,Creature,Dinosaur,Future Sight,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.13,False
+Muraganda Petroglyphs,Enchantment,None,Future Sight,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Scott Altmann',3.23,False
+Nacatl War-Pride,Creature,Cat Warrior,Future Sight,Uncommon,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'James Kei',1.46,False
+Nessian Courser,Creature,Centaur Warrior,Future Sight,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Vance Kovacs',0.07,False
+Phosphorescent Feast,Sorcery,None,Future Sight,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'David Hudnut',0.12,False
+Quagnoth,Creature,Beast,Future Sight,Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.34,False
+Spellwild Ouphe,Creature,Ouphe,Future Sight,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Scott Altmann',0.14,False
+Sporoloth Ancient,Creature,Fungus,Future Sight,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'James Kei',0.19,False
+Tarmogoyf,Creature,Lhurgoyf,Future Sight,Rare,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Murray',62.38,False
+Thornweald Archer,Creature,Elf Archer,Future Sight,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Kendall',0.15,False
+Virulent Sliver,Creature,Sliver,Future Sight,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',0.99,False
+Glittering Wish,Sorcery,None,Future Sight,Rare,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'John Donahue',4.85,False
+Jhoira of the Ghitu,Creature,Human Wizard,Future Sight,Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',1.37,True
+Sliver Legion,Creature,Sliver,Future Sight,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spears',100.06,True
+Akroma's Memorial,Artifact,None,Future Sight,Rare,7,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',24.74,True
+Cloud Key,Artifact,None,Future Sight,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Trevor Hairsine',20.99,False
+Coalition Relic,Artifact,None,Future Sight,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',5.4,False
+Epochrasite,Artifact Creature,Construct,Future Sight,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Bruinsma',0.36,False
+Sliversmith,Artifact Creature,Spellshaper,Future Sight,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.36,False
+Soultether Golem,Artifact Creature,Golem,Future Sight,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.13,False
+Sword of the Meek,Artifact,Equipment,Future Sight,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Franz Vohwinkel',10.4,False
+Veilstone Amulet,Artifact,None,Future Sight,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Martina Pilcerova',3.44,False
+Darksteel Garrison,Artifact,Fortification,Future Sight,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'David Martin',0.69,False
+Whetwheel,Artifact,None,Future Sight,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Cyril Van Der Haegen',0.36,False
+Dakmor Salvage,Land,None,Future Sight,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.8,False
+Keldon Megaliths,Land,None,Future Sight,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Philip Straub',0.17,False
+Llanowar Reborn,Land,None,Future Sight,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Philip Straub',1.37,False
+New Benalia,Land,None,Future Sight,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Wright',0.14,False
+Tolaria West,Land,None,Future Sight,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Khang Le',5.76,False
 Dryad Arbor,"Color Indicator: Green
-          Land Creature",Forest Dryad,Future Sight,Uncommon,0,Colorless,True,False,True,True,b'Eric Fortune',13.81
-Graven Cairns,Land,None,Future Sight,Rare,0,Colorless,True,False,True,True,b'Anthony S. Waters',6.85
-Grove of the Burnwillows,Land,None,Future Sight,Rare,0,Colorless,True,False,True,True,b'David Hudnut',9.91
-Horizon Canopy,Land,None,Future Sight,Rare,0,Colorless,True,False,True,True,b'Michael Komarck',39.11
-Nimbus Maze,Land,None,Future Sight,Rare,0,Colorless,True,False,True,True,b'Jason Chan',3.6
-River of Tears,Land,None,Future Sight,Rare,0,Colorless,True,False,True,True,b'Chris J. Anderson',2.46
-Zoetic Cavern,Land,None,Future Sight,Uncommon,0,Colorless,True,False,True,True,b'Lars Grant-West',0.23
+          Land Creature",Forest Dryad,Future Sight,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Fortune',15.25,False
+Graven Cairns,Land,None,Future Sight,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',7.07,False
+Grove of the Burnwillows,Land,None,Future Sight,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'David Hudnut',9.3,False
+Horizon Canopy,Land,None,Future Sight,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Komarck',33.82,False
+Nimbus Maze,Land,None,Future Sight,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',3.56,False
+River of Tears,Land,None,Future Sight,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris J. Anderson',2.42,False
+Zoetic Cavern,Land,None,Future Sight,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.23,False

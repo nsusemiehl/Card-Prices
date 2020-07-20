@@ -1,144 +1,144 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Abolish,Instant,None,Prophecy,Uncommon,3,White,False,False,True,True,b'Kev Walker',0.24
-Aura Fracture,Enchantment,None,Prophecy,Common,3,White,False,False,True,True,b'Rebecca Guay',0.15
-Avatar of Hope,Creature,Avatar,Prophecy,Rare,8,White,True,False,True,True,b'rk post',0.41
-Blessed Wind,Sorcery,None,Prophecy,Rare,9,White,False,False,True,False,b'Anthony S. Waters',0.27
-Celestial Convergence,Enchantment,None,Prophecy,Rare,4,White,False,False,True,False,b'Ray Lago',0.84
-Diving Griffin,Creature,Griffin,Prophecy,Common,3,White,True,False,True,True,b'John Howe',0.07
-Entangler,Enchantment,Aura,Prophecy,Uncommon,4,White,False,False,True,False,b'D. Alexander Gregory',0.48
-Excise,Instant,None,Prophecy,Common,2,White,False,False,True,False,b'Joel Biske',0.08
-Flowering Field,Enchantment,Aura,Prophecy,Uncommon,2,White,False,False,True,False,b'Jeff Miracola',0.14
-Glittering Lion,Creature,Cat,Prophecy,Uncommon,3,White,False,False,True,False,b'Don Hazeltine',0.14
-Glittering Lynx,Creature,Cat,Prophecy,Common,1,White,False,False,True,False,b'Dan Frazier',0.17
-Jeweled Spirit,Creature,Spirit,Prophecy,Rare,5,White,False,False,True,False,b'Christopher Moeller',0.17
-Mageta the Lion,Legendary Creature,Human Spellshaper,Prophecy,Rare,5,White,False,False,True,False,b'Brom',0.61
-Mageta's Boon,Enchantment,Aura,Prophecy,Common,2,White,False,False,True,False,b'Bradley Williams',0.06
-Mercenary Informer,Creature,Human Rebel Mercenary,Prophecy,Rare,3,White,False,False,True,False,b'Nelson DeCastro',0.22
-Mine Bearer,Creature,Human Soldier,Prophecy,Common,3,White,False,False,True,False,b'D. Alexander Gregory',0.14
-Mirror Strike,Instant,None,Prophecy,Uncommon,4,White,False,False,True,False,b'Dave Dorman',0.33
-Reveille Squad,Creature,Human Rebel,Prophecy,Uncommon,4,White,False,False,True,False,b'Greg Hildebrandt',0.27
-Rhystic Circle,Enchantment,None,Prophecy,Common,4,White,False,False,True,False,b'Alan Pollack',0.09
-Rhystic Shield,Instant,None,Prophecy,Common,2,White,False,False,True,False,b'Kev Walker',0.06
-Samite Sanctuary,Enchantment,None,Prophecy,Rare,3,White,False,False,True,False,b'Ben Thompson',0.23
-Sheltering Prayers,Enchantment,None,Prophecy,Rare,1,White,False,False,True,False,b'Nelson DeCastro',0.26
-Shield Dancer,Creature,Human Rebel,Prophecy,Uncommon,3,White,False,False,True,False,b'Mike Ploog',0.16
-Soul Charmer,Creature,Human Rebel,Prophecy,Common,3,White,False,False,True,False,b'Glen Angus',0.08
-Sword Dancer,Creature,Human Rebel,Prophecy,Uncommon,2,White,True,False,True,True,b'Roger Raupp',0.11
-Trenching Steed,Creature,Horse Rebel,Prophecy,Common,4,White,False,False,True,False,b'Greg Hildebrandt',0.07
-Troubled Healer,Creature,Human Cleric,Prophecy,Common,3,White,False,False,True,False,b'Terese Nielsen',0.16
-"Alexi, Zephyr Mage",Legendary Creature,Human Spellshaper,Prophecy,Rare,5,Blue,False,False,True,False,b'Mark Zug',0.39
-Alexi's Cloak,Enchantment,Aura,Prophecy,Common,2,Blue,False,False,True,False,b'Alan Rabinowitz',0.18
-Avatar of Will,Creature,Avatar,Prophecy,Rare,8,Blue,False,False,True,False,b'rk post',0.41
-Coastal Hornclaw,Creature,Bird,Prophecy,Common,5,Blue,True,False,True,True,b'DiTerlizzi',0.07
-Denying Wind,Sorcery,None,Prophecy,Rare,9,Blue,False,False,True,False,b'Tony Szczudlo',0.46
-Excavation,Enchantment,None,Prophecy,Uncommon,2,Blue,False,False,True,False,b'Terese Nielsen',0.22
-Foil,Instant,None,Prophecy,Uncommon,4,Blue,False,False,True,True,b'Bradley Williams',0.38
-Gulf Squid,Creature,Squid Beast,Prophecy,Common,4,Blue,False,False,True,False,b'Wayne England',0.16
-Hazy Homunculus,Creature,Homunculus Illusion,Prophecy,Common,2,Blue,False,False,True,False,b'Anthony S. Waters',0.06
-Heightened Awareness,Enchantment,None,Prophecy,Rare,5,Blue,False,False,True,False,b'Pete Venters',0.25
-Mana Vapors,Sorcery,None,Prophecy,Uncommon,2,Blue,False,False,True,False,b'Mark Romanoski',0.24
-Overburden,Enchantment,None,Prophecy,Rare,2,Blue,False,False,True,False,b'John Matson',12.17
-Psychic Theft,Sorcery,None,Prophecy,Rare,2,Blue,False,False,True,False,b'Don Hazeltine',0.16
-Quicksilver Wall,Creature,Wall,Prophecy,Uncommon,3,Blue,False,False,True,False,b'Matt Cavotta',0.2
-Rethink,Instant,None,Prophecy,Common,3,Blue,False,False,True,False,b'Matt Cavotta',0.15
-Rhystic Deluge,Enchantment,None,Prophecy,Common,3,Blue,False,False,True,False,b'Pete Venters',0.13
-Rhystic Scrying,Sorcery,None,Prophecy,Uncommon,4,Blue,False,False,True,False,b'Roger Raupp',0.15
-Rhystic Study,Enchantment,None,Prophecy,Common,3,Blue,False,False,True,True,b'Terese Nielsen',21.92
-Ribbon Snake,Creature,Snake,Prophecy,Common,3,Blue,False,False,True,False,b'Mark Zug',0.04
-Shrouded Serpent,Creature,Serpent,Prophecy,Rare,7,Blue,False,False,True,False,b'Dana Knutson',0.23
-Spiketail Drake,Creature,Drake,Prophecy,Uncommon,5,Blue,False,False,True,False,b'Michael Sutfin',0.19
-Spiketail Hatchling,Creature,Drake,Prophecy,Common,2,Blue,True,False,True,True,b'Greg Staples',0.16
-Stormwatch Eagle,Creature,Bird,Prophecy,Common,4,Blue,False,False,True,False,b'Aaron Boyd',0.06
-Sunken Field,Enchantment,Aura,Prophecy,Uncommon,2,Blue,False,False,True,False,b'Donato Giancola',0.34
-Troublesome Spirit,Creature,Spirit,Prophecy,Rare,4,Blue,False,False,True,False,b'Adam Rex',0.3
-Windscouter,Creature,Human Scout,Prophecy,Uncommon,4,Blue,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.21
-Withdraw,Instant,None,Prophecy,Common,2,Blue,False,False,True,False,b'Adam Rex',0.15
-Agent of Shauku,Creature,Human Mercenary,Prophecy,Common,2,Black,False,False,True,False,b'Donato Giancola',0.05
-Avatar of Woe,Creature,Avatar,Prophecy,Rare,8,Black,True,False,True,True,b'rk post',2.18
-Bog Elemental,Creature,Elemental,Prophecy,Rare,5,Black,False,False,True,False,b'Glen Angus',0.15
-Bog Glider,Creature,Human Mercenary,Prophecy,Common,3,Black,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.09
-Chilling Apparition,Creature,Spirit,Prophecy,Uncommon,3,Black,False,False,True,False,b'Ron Spears',0.28
-Coffin Puppets,Creature,Zombie,Prophecy,Rare,5,Black,False,False,True,False,b'Arnie Swekel',0.23
-Death Charmer,Creature,Worm Mercenary,Prophecy,Common,3,Black,False,False,True,False,b'David Martin',0.05
-Despoil,Sorcery,None,Prophecy,Common,4,Black,False,False,True,False,b'Scott M. Fischer',0.1
-Endbringer's Revel,Enchantment,None,Prophecy,Uncommon,3,Black,False,False,True,False,b'Pete Venters',0.18
-Fen Stalker,Creature,Nightstalker,Prophecy,Common,4,Black,False,False,True,False,"b'Edward P. Beard, Jr.'",0.08
-Flay,Sorcery,None,Prophecy,Common,4,Black,False,False,True,False,b'Matthew D. Wilson',0.05
-"Greel, Mind Raker",Legendary Creature,Horror Spellshaper,Prophecy,Rare,5,Black,False,False,True,False,b'Brom',0.35
-Greel's Caress,Enchantment,Aura,Prophecy,Common,2,Black,False,False,True,False,b'Chippy',0.08
-Infernal Genesis,Enchantment,None,Prophecy,Rare,6,Black,False,False,True,False,b'Ron Spencer',0.29
-Nakaya Shade,Creature,Shade,Prophecy,Uncommon,2,Black,False,False,True,False,b'Ray Lago',0.13
-Noxious Field,Enchantment,Aura,Prophecy,Uncommon,3,Black,False,False,True,False,b'Eric Peterson',0.22
-Outbreak,Sorcery,None,Prophecy,Uncommon,4,Black,False,False,True,False,b'Quinton Hoover',0.17
-Pit Raptor,Creature,Bird Mercenary,Prophecy,Uncommon,4,Black,False,False,True,False,b'Thomas Gianni',0.13
-Plague Fiend,Creature,Insect,Prophecy,Common,2,Black,False,False,True,False,b'David Martin',0.08
-Plague Wind,Sorcery,None,Prophecy,Rare,9,Black,True,False,True,True,b'Alan Pollack',1.64
-Rebel Informer,Creature,Human Mercenary Rebel,Prophecy,Rare,3,Black,False,False,True,False,b'Scott M. Fischer',0.22
-Rhystic Syphon,Sorcery,None,Prophecy,Uncommon,5,Black,False,False,True,False,b'Ron Spencer',0.22
-Rhystic Tutor,Sorcery,None,Prophecy,Rare,3,Black,False,False,True,False,b'Dan Frazier',1.12
-Soul Strings,Sorcery,None,Prophecy,Common,2,Black,False,False,True,False,b'Daren Bader',0.08
-Steal Strength,Instant,None,Prophecy,Common,2,Black,False,False,True,False,b'D. Alexander Gregory',0.07
-Wall of Vipers,Creature,Snake Wall,Prophecy,Uncommon,3,Black,False,False,True,False,b'Marc Fishman',0.16
-Whipstitched Zombie,Creature,Zombie,Prophecy,Common,2,Black,False,False,True,False,b'Mark Tedin',0.05
-Avatar of Fury,Creature,Avatar,Prophecy,Rare,8,Red,False,False,True,True,b'rk post',0.48
-Barbed Field,Enchantment,Aura,Prophecy,Uncommon,4,Red,False,False,True,False,b'Carl Critchlow',0.18
-Branded Brawlers,Creature,Human Soldier,Prophecy,Common,1,Red,False,False,True,False,b'Scott M. Fischer',0.05
-Brutal Suppression,Enchantment,None,Prophecy,Uncommon,1,Red,False,False,True,False,b'Val Mayerik',0.09
-Citadel of Pain,Enchantment,None,Prophecy,Uncommon,3,Red,False,False,True,False,b'Darrell Riche',3.78
-Devastate,Sorcery,None,Prophecy,Common,5,Red,False,False,True,False,b'Greg Staples',0.07
-Fault Riders,Creature,Human Soldier,Prophecy,Common,3,Red,False,False,True,False,b'Dave Dorman',0.06
-Fickle Efreet,Creature,Efreet,Prophecy,Rare,4,Red,False,False,True,False,b'Dave Dorman',0.26
-Flameshot,Sorcery,None,Prophecy,Uncommon,4,Red,False,False,True,True,b'Mark Brill',0.12
-Inflame,Instant,None,Prophecy,Common,1,Red,True,False,True,True,b'Eric Peterson',0.06
-Keldon Arsonist,Creature,Human Soldier,Prophecy,Uncommon,3,Red,False,False,True,False,b'Paolo Parente',0.19
-Keldon Berserker,Creature,Human Soldier Berserker,Prophecy,Common,4,Red,False,False,True,False,b'Paolo Parente',0.05
-Keldon Firebombers,Creature,Human Soldier,Prophecy,Rare,5,Red,False,False,True,False,b'Randy Gallegos',3.62
-"Latulla, Keldon Overseer",Legendary Creature,Human Spellshaper,Prophecy,Rare,5,Red,False,False,True,False,b'Brom',0.27
-Latulla's Orders,Enchantment,Aura,Prophecy,Common,2,Red,False,False,True,False,b'Ben Thompson',0.1
-Lesser Gargadon,Creature,Beast,Prophecy,Uncommon,4,Red,True,False,True,True,b'Rob Alexander',0.12
-Panic Attack,Sorcery,None,Prophecy,Common,3,Red,True,False,True,True,b'Mike Ploog',0.05
-Rhystic Lightning,Instant,None,Prophecy,Common,3,Red,False,False,True,False,b'Roger Raupp',0.1
-Ridgeline Rager,Creature,Beast,Prophecy,Common,3,Red,True,False,True,True,b'Chippy',0.04
-Scoria Cat,Creature,Cat,Prophecy,Uncommon,5,Red,False,False,True,True,b'Andrew Goldhawk',0.14
-Search for Survivors,Sorcery,None,Prophecy,Rare,3,Red,False,False,True,False,b'Mark Romanoski',0.21
-Searing Wind,Instant,None,Prophecy,Rare,9,Red,True,False,True,True,b'John Matson',0.47
-Spur Grappler,Creature,Beast,Prophecy,Common,3,Red,False,False,True,False,b'Randy Gallegos',0.06
-Task Mage Assembly,Enchantment,None,Prophecy,Rare,3,Red,False,False,True,False,b'Val Mayerik',0.27
-Veteran Brawlers,Creature,Human Soldier,Prophecy,Rare,2,Red,False,False,True,False,b'Paolo Parente',0.19
-Whip Sergeant,Creature,Human Soldier,Prophecy,Uncommon,3,Red,True,False,True,True,b'Paolo Parente',0.19
-Zerapa Minotaur,Creature,Minotaur,Prophecy,Common,4,Red,False,False,True,False,b'Mark Zug',0.06
-Avatar of Might,Creature,Avatar,Prophecy,Rare,8,Green,True,False,True,True,b'rk post',0.39
-Calming Verse,Sorcery,None,Prophecy,Common,4,Green,False,False,True,False,b'Rebecca Guay',0.5
-Darba,Creature,Bird Beast,Prophecy,Uncommon,4,Green,False,False,True,False,b'Heather Hudson',0.08
-Dual Nature,Enchantment,None,Prophecy,Rare,6,Green,False,False,True,False,b'Arnie Swekel',0.62
-Elephant Resurgence,Sorcery,None,Prophecy,Rare,2,Green,False,False,True,False,b'DiTerlizzi',0.28
-Forgotten Harvest,Enchantment,None,Prophecy,Rare,2,Green,False,False,True,False,b'DiTerlizzi',0.27
-"Jolrael, Empress of Beasts",Legendary Creature,Human Spellshaper,Prophecy,Rare,5,Green,True,False,True,True,b'Matthew D. Wilson',0.46
-Jolrael's Favor,Enchantment,Aura,Prophecy,Common,2,Green,False,False,True,False,b'Daren Bader',0.13
-Living Terrain,Enchantment,Aura,Prophecy,Uncommon,4,Green,True,False,True,True,b'Andrew Goldhawk',0.13
-Marsh Boa,Creature,Snake,Prophecy,Common,1,Green,False,False,True,False,b'Heather Hudson',0.14
-Mungha Wurm,Creature,Wurm,Prophecy,Rare,4,Green,False,False,True,False,b'Greg Staples',0.16
-Pygmy Razorback,Creature,Boar,Prophecy,Common,2,Green,False,False,True,False,b'Matt Cavotta',0.08
-Rib Cage Spider,Creature,Spider,Prophecy,Common,3,Green,False,False,True,False,b'Dana Knutson',0.15
-Root Cage,Enchantment,None,Prophecy,Uncommon,2,Green,False,False,True,False,b'Glen Angus',0.18
-Silt Crawler,Creature,Beast,Prophecy,Common,3,Green,False,False,True,False,b'Arnie Swekel',0.05
-Snag,Instant,None,Prophecy,Uncommon,4,Green,False,False,True,False,b'Ron Spencer',0.18
-Spitting Spider,Creature,Spider,Prophecy,Uncommon,5,Green,True,False,True,True,"b'Edward P. Beard, Jr.'",0.18
-Spore Frog,Creature,Frog,Prophecy,Common,1,Green,True,False,True,True,b'Donato Giancola',0.46
-Squirrel Wrangler,Creature,Human Druid,Prophecy,Rare,4,Green,False,False,True,True,b'Carl Critchlow',2.07
-Thresher Beast,Creature,Beast,Prophecy,Common,5,Green,False,False,True,False,b'Jeff Easley',0.15
-Thrive,Sorcery,None,Prophecy,Common,2,Green,True,False,True,True,b'Mike Ploog',0.07
-Verdant Field,Enchantment,Aura,Prophecy,Uncommon,3,Green,False,False,True,False,b'Ron Spears',0.15
-Vintara Elephant,Creature,Elephant,Prophecy,Common,5,Green,False,False,True,False,b'Tony Szczudlo',0.06
-Vintara Snapper,Creature,Turtle,Prophecy,Uncommon,2,Green,False,False,True,False,b'Joel Biske',0.14
-Vitalizing Wind,Instant,None,Prophecy,Rare,9,Green,False,False,True,False,b'Jeff Easley',0.33
-Wild Might,Instant,None,Prophecy,Common,2,Green,False,False,True,False,b'Carl Critchlow',0.09
-Wing Storm,Sorcery,None,Prophecy,Uncommon,3,Green,False,False,True,False,b'Heather Hudson',0.22
-Chimeric Idol,Artifact,None,Prophecy,Uncommon,3,Colorless,False,False,True,True,b'Mark Tedin',0.27
-Copper-Leaf Angel,Artifact Creature,Angel,Prophecy,Rare,5,Colorless,False,False,True,False,b'Christopher Moeller',0.59
-Hollow Warrior,Artifact Creature,Golem Warrior,Prophecy,Uncommon,4,Colorless,False,False,True,False,b'Adam Rex',0.11
-Keldon Battlewagon,Artifact Creature,Juggernaut,Prophecy,Rare,5,Colorless,False,False,True,False,b'Kev Walker',0.21
-Well of Discovery,Artifact,None,Prophecy,Rare,6,Colorless,False,False,True,False,b'Alan Rabinowitz',0.26
-Well of Life,Artifact,None,Prophecy,Uncommon,4,Colorless,False,False,True,False,b'Tom W\xc3\xa4nerstrand',0.08
-Rhystic Cave,Land,None,Prophecy,Uncommon,0,Colorless,False,False,True,False,b'Rob Alexander',0.28
-Wintermoon Mesa,Land,None,Prophecy,Rare,0,Colorless,False,False,True,False,b'Tom W\xc3\xa4nerstrand',0.26
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Abolish,Instant,None,Prophecy,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.27,False
+Aura Fracture,Enchantment,None,Prophecy,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',0.17,False
+Avatar of Hope,Creature,Avatar,Prophecy,Rare,8,White,Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',0.4,False
+Blessed Wind,Sorcery,None,Prophecy,Rare,9,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony S. Waters',0.27,False
+Celestial Convergence,Enchantment,None,Prophecy,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ray Lago',0.79,False
+Diving Griffin,Creature,Griffin,Prophecy,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'John Howe',0.11,False
+Entangler,Enchantment,Aura,Prophecy,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'D. Alexander Gregory',0.46,False
+Excise,Instant,None,Prophecy,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Joel Biske',0.09,False
+Flowering Field,Enchantment,Aura,Prophecy,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Miracola',0.14,False
+Glittering Lion,Creature,Cat,Prophecy,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Don Hazeltine',0.14,False
+Glittering Lynx,Creature,Cat,Prophecy,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Frazier',0.17,False
+Jeweled Spirit,Creature,Spirit,Prophecy,Rare,5,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.2,False
+Mageta the Lion,Creature,Human Spellshaper,Prophecy,Rare,5,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brom',0.82,True
+Mageta's Boon,Enchantment,Aura,Prophecy,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Bradley Williams',0.08,False
+Mercenary Informer,Creature,Human Rebel Mercenary,Prophecy,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Nelson DeCastro',0.26,False
+Mine Bearer,Creature,Human Soldier,Prophecy,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'D. Alexander Gregory',0.13,False
+Mirror Strike,Instant,None,Prophecy,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Dorman',0.32,False
+Reveille Squad,Creature,Human Rebel,Prophecy,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Hildebrandt',0.28,False
+Rhystic Circle,Enchantment,None,Prophecy,Common,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Pollack',0.1,False
+Rhystic Shield,Instant,None,Prophecy,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.07,False
+Samite Sanctuary,Enchantment,None,Prophecy,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ben Thompson',0.3,False
+Sheltering Prayers,Enchantment,None,Prophecy,Rare,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Nelson DeCastro',0.26,False
+Shield Dancer,Creature,Human Rebel,Prophecy,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Ploog',0.15,False
+Soul Charmer,Creature,Human Rebel,Prophecy,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Glen Angus',0.11,False
+Sword Dancer,Creature,Human Rebel,Prophecy,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Roger Raupp',0.14,False
+Trenching Steed,Creature,Horse Rebel,Prophecy,Common,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Hildebrandt',0.08,False
+Troubled Healer,Creature,Human Cleric,Prophecy,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.15,False
+Alexi Zephyr Mage,Creature,Human Spellshaper,Prophecy,Rare,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Zug',0.4,True
+Alexi's Cloak,Enchantment,Aura,Prophecy,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Rabinowitz',0.22,False
+Avatar of Will,Creature,Avatar,Prophecy,Rare,8,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'rk post',0.4,False
+Coastal Hornclaw,Creature,Bird,Prophecy,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'DiTerlizzi',0.09,False
+Denying Wind,Sorcery,None,Prophecy,Rare,9,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Tony Szczudlo',0.52,False
+Excavation,Enchantment,None,Prophecy,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.24,False
+Foil,Instant,None,Prophecy,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Bradley Williams',0.43,False
+Gulf Squid,Creature,Squid Beast,Prophecy,Common,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne England',0.16,False
+Hazy Homunculus,Creature,Homunculus Illusion,Prophecy,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony S. Waters',0.08,False
+Heightened Awareness,Enchantment,None,Prophecy,Rare,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.27,False
+Mana Vapors,Sorcery,None,Prophecy,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Romanoski',0.28,False
+Overburden,Enchantment,None,Prophecy,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'John Matson',10.01,False
+Psychic Theft,Sorcery,None,Prophecy,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Don Hazeltine',0.27,False
+Quicksilver Wall,Creature,Wall,Prophecy,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.19,False
+Rethink,Instant,None,Prophecy,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.15,False
+Rhystic Deluge,Enchantment,None,Prophecy,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.15,False
+Rhystic Scrying,Sorcery,None,Prophecy,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Roger Raupp',0.15,False
+Rhystic Study,Enchantment,None,Prophecy,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',24.7,False
+Ribbon Snake,Creature,Snake,Prophecy,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Zug',0.05,False
+Shrouded Serpent,Creature,Serpent,Prophecy,Rare,7,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dana Knutson',0.24,False
+Spiketail Drake,Creature,Drake,Prophecy,Uncommon,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',0.17,False
+Spiketail Hatchling,Creature,Drake,Prophecy,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.16,False
+Stormwatch Eagle,Creature,Bird,Prophecy,Common,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Aaron Boyd',0.1,False
+Sunken Field,Enchantment,Aura,Prophecy,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Donato Giancola',0.35,False
+Troublesome Spirit,Creature,Spirit,Prophecy,Rare,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Rex',0.33,False
+Windscouter,Creature,Human Scout,Prophecy,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brian Sn\xc3\xb5ddy',0.13,False
+Withdraw,Instant,None,Prophecy,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Rex',0.15,False
+Agent of Shauku,Creature,Human Mercenary,Prophecy,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Donato Giancola',0.07,False
+Avatar of Woe,Creature,Avatar,Prophecy,Rare,8,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',2.19,False
+Bog Elemental,Creature,Elemental,Prophecy,Rare,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Glen Angus',0.23,False
+Bog Glider,Creature,Human Mercenary,Prophecy,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brian Sn\xc3\xb5ddy',0.13,False
+Chilling Apparition,Creature,Spirit,Prophecy,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spears',0.25,False
+Coffin Puppets,Creature,Zombie,Prophecy,Rare,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Arnie Swekel',0.24,False
+Death Charmer,Creature,Worm Mercenary,Prophecy,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'David Martin',0.09,False
+Despoil,Sorcery,None,Prophecy,Common,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',0.11,False
+Endbringer's Revel,Enchantment,None,Prophecy,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.18,False
+Fen Stalker,Creature,Nightstalker,Prophecy,Common,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,"b'Edward P. Beard, Jr.'",0.12,False
+Flay,Sorcery,None,Prophecy,Common,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Matthew D. Wilson',0.29,False
+Greel Mind Raker,Creature,Horror Spellshaper,Prophecy,Rare,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brom',0.43,True
+Greel's Caress,Enchantment,Aura,Prophecy,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Chippy',0.12,False
+Infernal Genesis,Enchantment,None,Prophecy,Rare,6,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.34,False
+Nakaya Shade,Creature,Shade,Prophecy,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ray Lago',0.13,False
+Noxious Field,Enchantment,Aura,Prophecy,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Eric Peterson',0.22,False
+Outbreak,Sorcery,None,Prophecy,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Quinton Hoover',0.17,False
+Pit Raptor,Creature,Bird Mercenary,Prophecy,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas Gianni',0.17,False
+Plague Fiend,Creature,Insect,Prophecy,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'David Martin',0.1,False
+Plague Wind,Sorcery,None,Prophecy,Rare,9,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',1.74,False
+Rebel Informer,Creature,Human Mercenary Rebel,Prophecy,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',0.3,False
+Rhystic Syphon,Sorcery,None,Prophecy,Uncommon,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.14,False
+Rhystic Tutor,Sorcery,None,Prophecy,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Frazier',1.17,False
+Soul Strings,Sorcery,None,Prophecy,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.1,False
+Steal Strength,Instant,None,Prophecy,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'D. Alexander Gregory',0.12,False
+Wall of Vipers,Creature,Snake Wall,Prophecy,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Marc Fishman',0.17,False
+Whipstitched Zombie,Creature,Zombie,Prophecy,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',0.08,False
+Avatar of Fury,Creature,Avatar,Prophecy,Rare,8,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',0.47,False
+Barbed Field,Enchantment,Aura,Prophecy,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.22,False
+Branded Brawlers,Creature,Human Soldier,Prophecy,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',0.06,False
+Brutal Suppression,Enchantment,None,Prophecy,Uncommon,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Val Mayerik',0.12,False
+Citadel of Pain,Enchantment,None,Prophecy,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Darrell Riche',3.83,False
+Devastate,Sorcery,None,Prophecy,Common,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.1,False
+Fault Riders,Creature,Human Soldier,Prophecy,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Dorman',0.1,False
+Fickle Efreet,Creature,Efreet,Prophecy,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Dorman',0.28,False
+Flameshot,Sorcery,None,Prophecy,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Brill',0.13,False
+Inflame,Instant,None,Prophecy,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Peterson',0.07,False
+Keldon Arsonist,Creature,Human Soldier,Prophecy,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.13,False
+Keldon Berserker,Creature,Human Soldier Berserker,Prophecy,Common,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.06,False
+Keldon Firebombers,Creature,Human Soldier,Prophecy,Rare,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Gallegos',3.35,False
+Latulla Keldon Overseer,Creature,Human Spellshaper,Prophecy,Rare,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brom',0.3,True
+Latulla's Orders,Enchantment,Aura,Prophecy,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ben Thompson',0.1,False
+Lesser Gargadon,Creature,Beast,Prophecy,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.12,False
+Panic Attack,Sorcery,None,Prophecy,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Ploog',0.09,False
+Rhystic Lightning,Instant,None,Prophecy,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Roger Raupp',0.12,False
+Ridgeline Rager,Creature,Beast,Prophecy,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Chippy',0.06,False
+Scoria Cat,Creature,Cat,Prophecy,Uncommon,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Goldhawk',0.14,False
+Search for Survivors,Sorcery,None,Prophecy,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Romanoski',0.24,False
+Searing Wind,Instant,None,Prophecy,Rare,9,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',0.46,False
+Spur Grappler,Creature,Beast,Prophecy,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Gallegos',0.08,False
+Task Mage Assembly,Enchantment,None,Prophecy,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Val Mayerik',0.26,False
+Veteran Brawlers,Creature,Human Soldier,Prophecy,Rare,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.21,False
+Whip Sergeant,Creature,Human Soldier,Prophecy,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.18,False
+Zerapa Minotaur,Creature,Minotaur,Prophecy,Common,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Zug',0.08,False
+Avatar of Might,Creature,Avatar,Prophecy,Rare,8,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',0.36,False
+Calming Verse,Sorcery,None,Prophecy,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rebecca Guay',0.53,False
+Darba,Creature,Bird Beast,Prophecy,Uncommon,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.1,False
+Dual Nature,Enchantment,None,Prophecy,Rare,6,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Arnie Swekel',0.64,False
+Elephant Resurgence,Sorcery,None,Prophecy,Rare,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'DiTerlizzi',0.3,False
+Forgotten Harvest,Enchantment,None,Prophecy,Rare,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'DiTerlizzi',0.32,False
+Jolrael Empress of Beasts,Creature,Human Spellshaper,Prophecy,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Matthew D. Wilson',0.52,True
+Jolrael's Favor,Enchantment,Aura,Prophecy,Common,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.12,False
+Living Terrain,Enchantment,Aura,Prophecy,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Goldhawk',0.14,False
+Marsh Boa,Creature,Snake,Prophecy,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.14,False
+Mungha Wurm,Creature,Wurm,Prophecy,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.17,False
+Pygmy Razorback,Creature,Boar,Prophecy,Common,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.09,False
+Rib Cage Spider,Creature,Spider,Prophecy,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dana Knutson',0.16,False
+Root Cage,Enchantment,None,Prophecy,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Glen Angus',0.1,False
+Silt Crawler,Creature,Beast,Prophecy,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Arnie Swekel',0.07,False
+Snag,Instant,None,Prophecy,Uncommon,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.21,False
+Spitting Spider,Creature,Spider,Prophecy,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,"b'Edward P. Beard, Jr.'",0.16,False
+Spore Frog,Creature,Frog,Prophecy,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.46,False
+Squirrel Wrangler,Creature,Human Druid,Prophecy,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',2.03,False
+Thresher Beast,Creature,Beast,Prophecy,Common,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Easley',0.14,False
+Thrive,Sorcery,None,Prophecy,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Ploog',0.07,False
+Verdant Field,Enchantment,Aura,Prophecy,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spears',0.14,False
+Vintara Elephant,Creature,Elephant,Prophecy,Common,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Tony Szczudlo',0.11,False
+Vintara Snapper,Creature,Turtle,Prophecy,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Joel Biske',0.15,False
+Vitalizing Wind,Instant,None,Prophecy,Rare,9,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Easley',0.39,False
+Wild Might,Instant,None,Prophecy,Common,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.09,False
+Wing Storm,Sorcery,None,Prophecy,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.31,False
+Chimeric Idol,Artifact,None,Prophecy,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.28,False
+Copper-Leaf Angel,Artifact Creature,Angel,Prophecy,Rare,5,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.59,False
+Hollow Warrior,Artifact Creature,Golem Warrior,Prophecy,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Rex',0.13,False
+Keldon Battlewagon,Artifact Creature,Juggernaut,Prophecy,Rare,5,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.29,False
+Well of Discovery,Artifact,None,Prophecy,Rare,6,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Rabinowitz',0.28,False
+Well of Life,Artifact,None,Prophecy,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Tom W\xc3\xa4nerstrand',0.14,False
+Rhystic Cave,Land,None,Prophecy,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rob Alexander',0.31,False
+Wintermoon Mesa,Land,None,Prophecy,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Tom W\xc3\xa4nerstrand',0.3,False

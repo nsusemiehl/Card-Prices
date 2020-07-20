@@ -1,302 +1,302 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Apothecary Initiate,Creature,Kithkin Cleric,Shadowmoor,Common,1,White,True,False,True,False,b'Kev Walker',0.1
-Armored Ascension,Enchantment,Aura,Shadowmoor,Uncommon,4,White,True,False,True,True,b'Matt Cavotta',0.23
-Ballynock Cohort,Creature,Kithkin Soldier,Shadowmoor,Common,3,White,True,False,True,True,b'Jesper Ejsing',0.08
-Barrenton Medic,Creature,Kithkin Cleric,Shadowmoor,Common,5,White,True,False,True,False,b'Trevor Hairsine',0.06
-Boon Reflection,Enchantment,None,Shadowmoor,Rare,5,White,True,False,True,False,b'Terese Nielsen',9.24
-Goldenglow Moth,Creature,Insect,Shadowmoor,Common,1,White,True,False,True,True,b'Howard Lyon',0.15
-Greater Auramancy,Enchantment,None,Shadowmoor,Rare,2,White,True,False,True,False,b'Chuck Lukacs',32.34
-Inquisitor's Snare,Instant,None,Shadowmoor,Common,2,White,True,False,True,False,b'Michael Sutfin',0.11
-Kithkin Rabble,Creature,Kithkin,Shadowmoor,Uncommon,4,White,True,False,True,False,b'Omar Rayyan',0.12
-Kithkin Shielddare,Creature,Kithkin Soldier,Shadowmoor,Common,2,White,True,False,True,False,b'Christopher Moeller',0.09
-Last Breath,Instant,None,Shadowmoor,Common,2,White,True,False,True,True,b'Thomas Denmark',0.11
-Mass Calcify,Sorcery,None,Shadowmoor,Rare,7,White,True,False,True,True,b'Brandon Kitkouski',0.92
-Mine Excavation,Sorcery,None,Shadowmoor,Common,2,White,True,False,True,False,b'Chippy',0.15
-Mistmeadow Skulk,Creature,Kithkin Rogue,Shadowmoor,Uncommon,2,White,True,False,True,True,b'Omar Rayyan',0.18
-Niveous Wisps,Instant,None,Shadowmoor,Common,1,White,True,False,True,False,b'Jim Nelson',0.32
-Order of Whiteclay,Creature,Kithkin Cleric,Shadowmoor,Rare,3,White,True,False,True,False,b'Steven Belledin',1.53
-Pale Wayfarer,Creature,Spirit Giant,Shadowmoor,Uncommon,7,White,True,False,True,False,b'Heather Hudson',0.06
-Prison Term,Enchantment,Aura,Shadowmoor,Uncommon,3,White,True,False,True,True,b'Zoltan Boros',0.96
-Resplendent Mentor,Creature,Kithkin Cleric,Shadowmoor,Uncommon,5,White,True,False,True,False,b'Franz Vohwinkel',0.45
-Rune-Cervin Rider,Creature,Elf Knight,Shadowmoor,Common,4,White,True,False,True,False,b'Dan Scott',0.07
-Runed Halo,Enchantment,None,Shadowmoor,Rare,2,White,True,False,True,True,b'Steve Prescott',1.46
-Safehold Sentry,Creature,Elf Warrior,Shadowmoor,Common,2,White,True,False,True,False,"b""William O'Connor""",0.07
-Spectral Procession,Sorcery,None,Shadowmoor,Uncommon,7,White,True,False,True,True,b'Jeremy Enecio',0.63
-Strip Bare,Instant,None,Shadowmoor,Common,1,White,True,False,True,False,b'Ralph Horsley',0.06
-Twilight Shepherd,Creature,Angel,Shadowmoor,Rare,6,White,True,False,True,True,b'Jason Chan',0.52
-Windbrisk Raptor,Creature,Bird,Shadowmoor,Rare,7,White,True,False,True,False,b'Omar Rayyan',0.9
-Woeleecher,Creature,Elemental,Shadowmoor,Common,6,White,True,False,True,False,b'Izzy',0.06
-Advice from the Fae,Sorcery,None,Shadowmoor,Uncommon,7,Blue,True,False,True,False,b'Chippy',0.14
-Biting Tether,Enchantment,Aura,Shadowmoor,Uncommon,5,Blue,True,False,True,False,b'Thomas Denmark',0.09
-Briarberry Cohort,Creature,Faerie Soldier,Shadowmoor,Common,2,Blue,True,False,True,False,b'Carl Critchlow',0.13
-Cerulean Wisps,Instant,None,Shadowmoor,Common,1,Blue,True,False,True,False,b'Jim Nelson',0.26
-Consign to Dream,Instant,None,Shadowmoor,Common,3,Blue,True,False,True,False,b'Richard Kane Ferguson',0.18
-Counterbore,Instant,None,Shadowmoor,Rare,5,Blue,True,False,True,True,b'Wayne England',0.46
-Cursecatcher,Creature,Merfolk Wizard,Shadowmoor,Uncommon,1,Blue,True,False,True,True,b'Warren Mahy',0.68
-Deepchannel Mentor,Creature,Merfolk Rogue,Shadowmoor,Uncommon,6,Blue,True,False,True,False,b'Jesper Ejsing',1.45
-Drowner Initiate,Creature,Merfolk Wizard,Shadowmoor,Common,1,Blue,True,False,True,False,b'E. M. Gist',0.17
-Faerie Swarm,Creature,Faerie,Shadowmoor,Uncommon,4,Blue,True,False,True,False,b'Zoltan Boros',0.77
-Flow of Ideas,Sorcery,None,Shadowmoor,Uncommon,6,Blue,True,False,True,True,b'Mike Dringenberg',0.18
-Ghastly Discovery,Sorcery,None,Shadowmoor,Common,3,Blue,True,False,True,False,b'Howard Lyon',0.11
-Isleback Spawn,Creature,Kraken,Shadowmoor,Rare,7,Blue,True,False,True,True,b'Mark Tedin',1.0
-Kinscaer Harpoonist,Creature,Kithkin Soldier,Shadowmoor,Common,4,Blue,True,False,True,False,b'Thomas M. Baxa',0.07
-Knacksaw Clique,Creature,Faerie Rogue,Shadowmoor,Rare,4,Blue,True,False,True,False,b'Steven Belledin',4.14
-Leech Bonder,Creature,Merfolk Soldier,Shadowmoor,Uncommon,3,Blue,True,False,True,False,b'E. M. Gist',0.29
-Merrow Wavebreakers,Creature,Merfolk Soldier,Shadowmoor,Common,5,Blue,True,False,True,False,b'Alex Horley-Orlandelli',0.13
-Parapet Watchers,Creature,Kithkin Soldier,Shadowmoor,Common,3,Blue,True,False,True,False,b'Scott Altmann',0.04
-Prismwake Merrow,Creature,Merfolk Wizard,Shadowmoor,Common,3,Blue,True,False,True,False,b'Wayne England',0.13
-Puca's Mischief,Enchantment,None,Shadowmoor,Rare,4,Blue,True,False,True,True,b'Scott Altmann',3.42
-Put Away,Instant,None,Shadowmoor,Common,4,Blue,True,False,True,False,b'Matt Cavotta',0.13
-River Kelpie,Creature,Beast,Shadowmoor,Rare,5,Blue,True,False,True,True,b'Jeff Easley',1.27
-Savor the Moment,Sorcery,None,Shadowmoor,Rare,3,Blue,True,False,True,False,b'Warren Mahy',10.1
-Sinking Feeling,Enchantment,Aura,Shadowmoor,Common,3,Blue,True,False,True,False,b'Ron Brown',0.11
-Spell Syphon,Instant,None,Shadowmoor,Common,2,Blue,True,False,True,False,b'John Avon',0.24
-Thought Reflection,Enchantment,None,Shadowmoor,Rare,7,Blue,True,False,True,True,b'Terese Nielsen',1.6
-Whimwader,Creature,Elemental,Shadowmoor,Common,5,Blue,True,False,True,False,b'Jeff Easley',0.04
-Aphotic Wisps,Instant,None,Shadowmoor,Common,1,Black,True,False,True,False,b'Jim Nelson',0.23
-Ashenmoor Cohort,Creature,Elemental Warrior,Shadowmoor,Common,6,Black,True,False,True,False,b'Lucio Parrillo',0.06
-Beseech the Queen,Sorcery,None,Shadowmoor,Uncommon,7,Black,True,False,True,True,b'Jason Chan',5.37
-Blowfly Infestation,Enchantment,None,Shadowmoor,Uncommon,3,Black,True,False,True,False,b'Drew Tucker',2.38
-Cinderbones,Creature,Elemental Skeleton,Shadowmoor,Common,3,Black,True,False,True,False,b'Carl Critchlow',0.14
-Cinderhaze Wretch,Creature,Elemental Shaman,Shadowmoor,Common,5,Black,True,False,True,False,b'Steven Belledin',0.21
-Corrosive Mentor,Creature,Elemental Rogue,Shadowmoor,Uncommon,3,Black,True,False,True,False,b'Daarken',2.06
-Corrupt,Sorcery,None,Shadowmoor,Uncommon,6,Black,True,False,True,True,b'Dave Allsop',0.11
-Crowd of Cinders,Creature,Elemental,Shadowmoor,Uncommon,4,Black,True,False,True,True,b'Carl Frank',0.1
-Disturbing Plot,Sorcery,None,Shadowmoor,Common,2,Black,True,False,True,False,b'Larry MacDougall',0.09
-Dusk Urchins,Creature,Ouphe,Shadowmoor,Rare,3,Black,True,False,True,False,b'Darrell Riche',4.26
-Faerie Macabre,Creature,Faerie Rogue,Shadowmoor,Common,3,Black,True,False,True,True,b'rk post',0.7
-Gloomlance,Sorcery,None,Shadowmoor,Common,5,Black,True,False,True,False,b'Zoltan Boros',0.04
-Hollowborn Barghest,Creature,Demon Hound,Shadowmoor,Rare,7,Black,True,False,True,False,b'Eric Fortune',0.41
-Hollowsage,Creature,Merfolk Wizard,Shadowmoor,Uncommon,4,Black,True,False,True,False,b'Lucio Parrillo',0.16
-Incremental Blight,Sorcery,None,Shadowmoor,Uncommon,5,Black,True,False,True,True,b'Chuck Lukacs',0.7
-Loch Korrigan,Creature,Spirit,Shadowmoor,Common,4,Black,True,False,True,False,b'Daarken',0.07
-Midnight Banshee,Creature,Spirit,Shadowmoor,Rare,6,Black,True,False,True,True,b'Daarken',1.84
-Plague of Vermin,Sorcery,None,Shadowmoor,Rare,7,Black,True,False,True,False,b'Carl Critchlow',5.33
-Polluted Bonds,Enchantment,None,Shadowmoor,Rare,5,Black,True,False,True,False,b'Michael Sutfin',22.84
-Puppeteer Clique,Creature,Faerie Wizard,Shadowmoor,Rare,5,Black,True,False,True,True,b'Daren Bader',1.65
-Rite of Consumption,Sorcery,None,Shadowmoor,Common,2,Black,True,False,True,False,b'Ron Spencer',0.78
-Sickle Ripper,Creature,Elemental Warrior,Shadowmoor,Common,2,Black,True,False,True,True,b'Dan Scott',0.09
-Smolder Initiate,Creature,Elemental Shaman,Shadowmoor,Common,1,Black,True,False,True,False,b'Chippy',0.09
-Splitting Headache,Sorcery,None,Shadowmoor,Common,4,Black,True,False,True,False,b'Thomas Denmark',0.04
-Torture,Enchantment,Aura,Shadowmoor,Common,1,Black,True,False,True,True,b'E. M. Gist',0.09
-Wound Reflection,Enchantment,None,Shadowmoor,Rare,6,Black,True,False,True,False,b'Terese Nielsen',18.44
-Blistering Dieflyn,Creature,Imp,Shadowmoor,Common,4,Red,True,False,True,False,b'Scott Altmann',0.06
-Bloodmark Mentor,Creature,Goblin Warrior,Shadowmoor,Uncommon,2,Red,True,False,True,True,b'Dave Allsop',1.0
-Bloodshed Fever,Enchantment,Aura,Shadowmoor,Common,1,Red,True,False,True,False,b'Dan Scott',0.05
-Boggart Arsonists,Creature,Goblin Rogue,Shadowmoor,Common,3,Red,True,False,True,False,b'Jesper Ejsing',0.06
-Burn Trail,Sorcery,None,Shadowmoor,Common,4,Red,True,False,True,False,b'Nils Hamm',0.07
-Cragganwick Cremator,Creature,Giant Shaman,Shadowmoor,Rare,4,Red,True,False,True,True,b'Jeremy Enecio',0.61
-Crimson Wisps,Instant,None,Shadowmoor,Common,1,Red,True,False,True,False,b'Jim Nelson',1.52
-Deep-Slumber Titan,Creature,Giant Warrior,Shadowmoor,Rare,4,Red,True,False,True,False,b'Steve Prescott',0.26
-Elemental Mastery,Enchantment,Aura,Shadowmoor,Rare,4,Red,True,False,True,False,b'Cyril Van Der Haegen',4.42
-Ember Gale,Sorcery,None,Shadowmoor,Common,4,Red,True,False,True,False,b'Steve Prescott',0.06
-Flame Javelin,Instant,None,Shadowmoor,Uncommon,7,Red,True,False,True,True,b'Trevor Hairsine',0.21
-Furystoke Giant,Creature,Giant Warrior,Shadowmoor,Rare,5,Red,True,False,True,False,b'Ralph Horsley',2.8
-Horde of Boggarts,Creature,Goblin,Shadowmoor,Uncommon,4,Red,True,False,True,False,b'Steve Prescott',0.54
-Inescapable Brute,Creature,Giant Warrior,Shadowmoor,Common,6,Red,True,False,True,False,b'Nils Hamm',0.06
-Intimidator Initiate,Creature,Goblin Shaman,Shadowmoor,Common,1,Red,True,False,True,False,b'Ralph Horsley',0.17
-Jaws of Stone,Sorcery,None,Shadowmoor,Uncommon,6,Red,True,False,True,True,b'Zoltan Boros',0.07
-Knollspine Dragon,Creature,Dragon,Shadowmoor,Rare,7,Red,True,False,True,True,b'Steve Prescott',7.45
-Knollspine Invocation,Enchantment,None,Shadowmoor,Rare,3,Red,True,False,True,False,b'Dave Dorman',0.2
-Mudbrawler Cohort,Creature,Goblin Warrior,Shadowmoor,Common,2,Red,True,False,True,False,b'Lucio Parrillo',0.52
-Power of Fire,Enchantment,Aura,Shadowmoor,Common,2,Red,True,False,True,True,b'Trevor Hairsine',0.11
-Puncture Bolt,Instant,None,Shadowmoor,Common,2,Red,True,False,True,False,b'Franz Vohwinkel',0.07
-Pyre Charger,Creature,Elemental Warrior,Shadowmoor,Uncommon,2,Red,True,False,True,True,b'Mark Zug',0.1
-Rage Reflection,Enchantment,None,Shadowmoor,Rare,6,Red,True,False,True,True,b'Terese Nielsen',2.13
-Rustrazor Butcher,Creature,Goblin Warrior,Shadowmoor,Common,2,Red,True,False,True,False,b'Ron Spencer',0.1
-Slinking Giant,Creature,Giant Rogue,Shadowmoor,Uncommon,4,Red,True,False,True,False,b'Dave Kendall',0.06
-Smash to Smithereens,Instant,None,Shadowmoor,Common,2,Red,True,False,True,True,b'Pete Venters',0.28
-Wild Swing,Sorcery,None,Shadowmoor,Uncommon,4,Red,True,False,True,True,b'Richard Kane Ferguson',0.13
-Crabapple Cohort,Creature,Treefolk Warrior,Shadowmoor,Common,5,Green,True,False,True,False,b'Richard Whitters',0.07
-Devoted Druid,Creature,Elf Druid,Shadowmoor,Common,2,Green,True,False,True,True,b'Darrell Riche',1.65
-Dramatic Entrance,Instant,None,Shadowmoor,Rare,5,Green,True,False,True,False,b'Mike Dringenberg',1.3
-Drove of Elves,Creature,Elf,Shadowmoor,Uncommon,4,Green,True,False,True,True,b'Larry MacDougall',0.56
-Farhaven Elf,Creature,Elf Druid,Shadowmoor,Common,3,Green,True,False,True,True,b'Brandon Kitkouski',1.34
-Flourishing Defenses,Enchantment,None,Shadowmoor,Uncommon,5,Green,True,False,True,False,b'Dan Scott',1.05
-Foxfire Oak,Creature,Treefolk Shaman,Shadowmoor,Common,6,Green,True,False,True,False,b'Dave Kendall',0.09
-Gleeful Sabotage,Sorcery,None,Shadowmoor,Common,2,Green,True,False,True,True,b'Todd Lockwood',1.09
-Gloomwidow,Creature,Spider,Shadowmoor,Uncommon,3,Green,True,False,True,True,b'Mark Tedin',0.17
-Gloomwidow's Feast,Instant,None,Shadowmoor,Common,4,Green,True,False,True,False,b'Thomas M. Baxa',0.13
-Howl of the Night Pack,Sorcery,None,Shadowmoor,Uncommon,7,Green,True,False,True,True,b'Lars Grant-West',0.2
-Hungry Spriggan,Creature,Goblin Warrior,Shadowmoor,Common,3,Green,True,False,True,True,b'Drew Tucker',0.11
-Juvenile Gloomwidow,Creature,Spider,Shadowmoor,Common,2,Green,True,False,True,False,b'Thomas M. Baxa',0.22
-Mana Reflection,Enchantment,None,Shadowmoor,Rare,6,Green,True,False,True,False,b'Terese Nielsen',34.58
-Mossbridge Troll,Creature,Troll,Shadowmoor,Rare,7,Green,True,False,True,False,b'Jeremy Jarvis',1.62
-Nurturer Initiate,Creature,Elf Shaman,Shadowmoor,Common,1,Green,True,False,True,False,b'Jim Pavelec',0.12
-Presence of Gond,Enchantment,Aura,Shadowmoor,Common,3,Green,True,False,True,True,b'Brandon Kitkouski',0.29
-Prismatic Omen,Enchantment,None,Shadowmoor,Rare,2,Green,True,False,True,False,b'John Avon',21.5
-Raking Canopy,Enchantment,None,Shadowmoor,Uncommon,3,Green,True,False,True,False,b'Heather Hudson',0.93
-Roughshod Mentor,Creature,Giant Warrior,Shadowmoor,Uncommon,6,Green,True,False,True,True,b'Steven Belledin',0.14
-Spawnwrithe,Creature,Elemental,Shadowmoor,Rare,3,Green,True,False,True,True,b'Daarken',0.49
-Toil to Renown,Sorcery,None,Shadowmoor,Common,2,Green,True,False,True,False,b'Larry MacDougall',0.09
-Tower Above,Sorcery,None,Shadowmoor,Uncommon,7,Green,True,False,True,False,b'Thomas Denmark',0.19
-Viridescent Wisps,Instant,None,Shadowmoor,Common,1,Green,True,False,True,False,b'Jim Nelson',0.11
-Wildslayer Elves,Creature,Elf Warrior,Shadowmoor,Common,4,Green,True,False,True,False,b'Dave Kendall',0.13
-Witherscale Wurm,Creature,Wurm,Shadowmoor,Rare,6,Green,True,False,True,False,b'Thomas M. Baxa',0.32
-Woodfall Primus,Creature,Treefolk Shaman,Shadowmoor,Rare,8,Green,True,False,True,True,b'Adam Rex',3.01
-Aethertow,Instant,None,Shadowmoor,Common,5,Gold,True,False,True,True,b'Warren Mahy',0.06
-Augury Adept,Creature,Kithkin Wizard,Shadowmoor,Rare,5,Gold,True,False,True,True,b'Steve Prescott',0.62
-Barrenton Cragtreads,Creature,Kithkin Scout,Shadowmoor,Common,6,Gold,True,False,True,False,b'Daren Bader',0.06
-Curse of Chains,Enchantment,Aura,Shadowmoor,Common,3,Gold,True,False,True,False,b'Drew Tucker',0.47
-Enchanted Evening,Enchantment,None,Shadowmoor,Rare,7,Gold,True,False,True,True,b'Rebecca Guay',13.49
-Glamer Spinners,Creature,Faerie Wizard,Shadowmoor,Uncommon,6,Gold,True,False,True,False,b'Jesper Ejsing',0.09
-Godhead of Awe,Creature,Spirit Avatar,Shadowmoor,Rare,10,Gold,True,False,True,False,b'Mark Zug',4.32
-Mirrorweave,Instant,None,Shadowmoor,Rare,6,Gold,True,False,True,True,b'Jim Pavelec',0.61
-Mistmeadow Witch,Creature,Kithkin Wizard,Shadowmoor,Uncommon,3,Gold,True,False,True,True,b'Greg Staples',0.29
-Plumeveil,Creature,Elemental,Shadowmoor,Uncommon,6,Gold,True,False,True,True,b'Nils Hamm',0.24
-Puresight Merrow,Creature,Merfolk Wizard,Shadowmoor,Uncommon,4,Gold,True,False,True,False,b'Carl Critchlow',0.28
-Repel Intruders,Instant,None,Shadowmoor,Uncommon,5,Gold,True,False,True,False,b'Trevor Hairsine',0.09
-Silkbind Faerie,Creature,Faerie Rogue,Shadowmoor,Common,4,Gold,True,False,True,False,b'Matt Cavotta',0.15
-Somnomancer,Creature,Kithkin Wizard,Shadowmoor,Common,3,Gold,True,False,True,False,b'Lars Grant-West',0.07
-Steel of the Godhead,Enchantment,Aura,Shadowmoor,Common,4,Gold,True,False,True,True,b'Jason Chan',1.76
-Swans of Bryn Argoll,Creature,Bird Spirit,Shadowmoor,Rare,6,Gold,True,False,True,True,b'Eric Fortune',1.63
-Thistledown Duo,Creature,Kithkin Soldier Wizard,Shadowmoor,Common,4,Gold,True,False,True,False,b'Zoltan Boros',0.09
-Thistledown Liege,Creature,Kithkin Knight,Shadowmoor,Rare,7,Gold,True,False,True,False,b'Adam Rex',1.24
-Thoughtweft Gambit,Instant,None,Shadowmoor,Uncommon,8,Gold,True,False,True,False,b'Steve Prescott',0.15
-Turn to Mist,Instant,None,Shadowmoor,Common,3,Gold,True,False,True,True,b'Greg Staples',0.21
-Worldpurge,Sorcery,None,Shadowmoor,Rare,12,Gold,True,False,True,False,b'Chippy',0.53
-Zealous Guardian,Creature,Kithkin Soldier,Shadowmoor,Common,2,Gold,True,False,True,False,b'Steven Belledin',0.11
-Cemetery Puca,Creature,Shapeshifter,Shadowmoor,Rare,5,Gold,True,False,True,False,b'Omar Rayyan',1.81
-Dire Undercurrents,Enchantment,None,Shadowmoor,Rare,7,Gold,True,False,True,False,b'Franz Vohwinkel',11.95
-Dream Salvage,Instant,None,Shadowmoor,Uncommon,2,Gold,True,False,True,False,b'Howard Lyon',1.02
-Fate Transfer,Instant,None,Shadowmoor,Common,3,Gold,True,False,True,False,b'Wayne England',0.25
-Ghastlord of Fugue,Creature,Spirit Avatar,Shadowmoor,Rare,10,Gold,True,False,True,False,b'Mike Dringenberg',4.73
-Glen Elendra Liege,Creature,Faerie Knight,Shadowmoor,Rare,7,Gold,True,False,True,True,b'Kev Walker',4.57
-Gravelgill Axeshark,Creature,Merfolk Soldier,Shadowmoor,Common,6,Gold,True,False,True,False,b'Dave Kendall',0.04
-Gravelgill Duo,Creature,Merfolk Rogue Warrior,Shadowmoor,Common,4,Gold,True,False,True,False,b'Brandon Kitkouski',0.08
-Helm of the Ghastlord,Enchantment,Aura,Shadowmoor,Common,5,Gold,True,False,True,False,b'Franz Vohwinkel',0.23
-Inkfathom Infiltrator,Creature,Merfolk Rogue,Shadowmoor,Uncommon,4,Gold,True,False,True,False,b'Jesper Ejsing',0.93
-Inkfathom Witch,Creature,Merfolk Wizard,Shadowmoor,Uncommon,3,Gold,True,False,True,True,b'Larry MacDougall',0.23
-Memory Plunder,Instant,None,Shadowmoor,Rare,8,Gold,True,False,True,True,b'Dan Scott',1.34
-Memory Sluice,Sorcery,None,Shadowmoor,Common,2,Gold,True,False,True,False,b'Wayne England',1.0
-Merrow Grimeblotter,Creature,Merfolk Wizard,Shadowmoor,Uncommon,5,Gold,True,False,True,False,b'Cyril Van Der Haegen',0.08
-"Oona, Queen of the Fae",Legendary Creature,Faerie Wizard,Shadowmoor,Rare,9,Gold,True,False,True,True,b'Adam Rex',11.05
-Oona's Gatewarden,Creature,Faerie Soldier,Shadowmoor,Common,2,Gold,True,False,True,False,b'Mike Dringenberg',0.25
-River's Grasp,Sorcery,None,Shadowmoor,Uncommon,5,Gold,True,False,True,False,b'Steven Belledin',0.08
-Scarscale Ritual,Sorcery,None,Shadowmoor,Common,3,Gold,True,False,True,False,b'Richard Sardinha',0.19
-"Sygg, River Cutthroat",Legendary Creature,Merfolk Rogue,Shadowmoor,Rare,4,Gold,True,False,True,False,b'Jeremy Enecio',7.07
-Torpor Dust,Enchantment,Aura,Shadowmoor,Common,4,Gold,True,False,True,False,b'Jesper Ejsing',0.08
-Wanderbrine Rootcutters,Creature,Merfolk Rogue,Shadowmoor,Common,6,Gold,True,False,True,False,b'Chippy',0.05
-Wasp Lancer,Creature,Faerie Soldier,Shadowmoor,Uncommon,6,Gold,True,False,True,False,b'Warren Mahy',0.19
-Ashenmoor Gouger,Creature,Elemental Warrior,Shadowmoor,Uncommon,6,Gold,True,False,True,True,b'Matt Cavotta',0.07
-Ashenmoor Liege,Creature,Elemental Knight,Shadowmoor,Rare,7,Gold,True,False,True,False,b'Mark Zug',5.05
-Cultbrand Cinder,Creature,Elemental Shaman,Shadowmoor,Common,6,Gold,True,False,True,False,b'Christopher Moeller',0.06
-Demigod of Revenge,Creature,Spirit Avatar,Shadowmoor,Rare,10,Gold,True,False,True,True,b'Jim Murray',2.93
-Din of the Fireherd,Sorcery,None,Shadowmoor,Rare,11,Gold,True,False,True,False,b'Dave Dorman',0.52
-Emberstrike Duo,Creature,Elemental Warrior Shaman,Shadowmoor,Common,3,Gold,True,False,True,False,b'Aleksi Briclot',0.08
-Everlasting Torment,Enchantment,None,Shadowmoor,Rare,4,Gold,True,False,True,True,b'Richard Kane Ferguson',2.26
-Fists of the Demigod,Enchantment,Aura,Shadowmoor,Common,3,Gold,True,False,True,False,b'Dan Scott',0.27
-Fulminator Mage,Creature,Elemental Shaman,Shadowmoor,Rare,5,Gold,True,False,True,True,b'rk post',8.6
-Grief Tyrant,Creature,Horror,Shadowmoor,Uncommon,7,Gold,True,False,True,False,b'Izzy',0.16
-Kulrath Knight,Creature,Elemental Knight,Shadowmoor,Uncommon,7,Gold,True,False,True,True,b'Daarken',2.7
-Manaforge Cinder,Creature,Elemental Shaman,Shadowmoor,Common,2,Gold,True,False,True,False,b'Izzy',0.21
-Murderous Redcap,Creature,Goblin Assassin,Shadowmoor,Uncommon,6,Gold,True,False,True,True,b'Dave Allsop',0.61
-Poison the Well,Sorcery,None,Shadowmoor,Common,6,Gold,True,False,True,False,b'Zoltan Boros',0.12
-Scar,Instant,None,Shadowmoor,Common,2,Gold,True,False,True,False,b'Pete Venters',0.2
-Sootstoke Kindler,Creature,Elemental Shaman,Shadowmoor,Common,3,Gold,True,False,True,False,b'Mark Zug',0.11
-Sootwalkers,Creature,Elemental Rogue,Shadowmoor,Common,6,Gold,True,False,True,False,b'Nils Hamm',0.05
-Spiteflame Witch,Creature,Elemental Shaman,Shadowmoor,Uncommon,3,Gold,True,False,True,False,"b""William O'Connor""",0.18
-Spiteful Visions,Enchantment,None,Shadowmoor,Rare,6,Gold,True,False,True,True,b'Brandon Kitkouski',1.26
-Torrent of Souls,Sorcery,None,Shadowmoor,Uncommon,6,Gold,True,False,True,True,b'Ian Edward Ameling',0.26
-Traitor's Roar,Sorcery,None,Shadowmoor,Common,6,Gold,True,False,True,False,b'Jim Pavelec',0.05
-Tyrannize,Sorcery,None,Shadowmoor,Rare,7,Gold,True,False,True,False,b'Mark Tedin',0.37
-Boartusk Liege,Creature,Goblin Knight,Shadowmoor,Rare,7,Gold,True,False,True,False,b'Jesper Ejsing',4.97
-Boggart Ram-Gang,Creature,Goblin Warrior,Shadowmoor,Uncommon,6,Gold,True,False,True,True,b'Dave Allsop',0.46
-Deus of Calamity,Creature,Spirit Avatar,Shadowmoor,Rare,10,Gold,True,False,True,True,b'Todd Lockwood',1.23
-Firespout,Sorcery,None,Shadowmoor,Uncommon,4,Gold,True,False,True,True,b'Jeff Miracola',0.76
-Fossil Find,Sorcery,None,Shadowmoor,Uncommon,2,Gold,True,False,True,False,b'Dave DeVries',0.1
-Giantbaiting,Sorcery,None,Shadowmoor,Common,4,Gold,True,False,True,True,b'Trevor Hairsine',0.1
-Guttural Response,Instant,None,Shadowmoor,Uncommon,2,Gold,True,False,True,True,b'Matt Cavotta',1.22
-Impromptu Raid,Enchantment,None,Shadowmoor,Rare,5,Gold,True,False,True,False,b'Randy Gallegos',0.49
-Loamdragger Giant,Creature,Giant Warrior,Shadowmoor,Common,10,Gold,True,False,True,False,b'Pete Venters',0.05
-Manamorphose,Instant,None,Shadowmoor,Common,3,Gold,True,False,True,True,b'Jeff Miracola',6.9
-Morselhoarder,Creature,Elemental,Shadowmoor,Common,8,Gold,True,False,True,False,b'Anthony S. Waters',0.15
-Mudbrawler Raiders,Creature,Goblin Warrior,Shadowmoor,Common,6,Gold,True,False,True,False,b'Ron Spencer',0.05
-Rosheen Meanderer,Legendary Creature,Giant Shaman,Shadowmoor,Rare,5,Gold,True,False,True,True,b'Aleksi Briclot',0.55
-Runes of the Deus,Enchantment,Aura,Shadowmoor,Common,6,Gold,True,False,True,False,b'Warren Mahy',0.23
-Scuzzback Marauders,Creature,Goblin Warrior,Shadowmoor,Common,6,Gold,True,False,True,True,b'Pete Venters',0.11
-Scuzzback Scrapper,Creature,Goblin Warrior,Shadowmoor,Common,2,Gold,True,False,True,False,b'Scott Altmann',0.13
-Tattermunge Duo,Creature,Goblin Warrior Shaman,Shadowmoor,Common,4,Gold,True,False,True,False,b'Jesper Ejsing',0.07
-Tattermunge Maniac,Creature,Goblin Warrior,Shadowmoor,Uncommon,2,Gold,True,False,True,False,b'Matt Cavotta',0.28
-Tattermunge Witch,Creature,Goblin Shaman,Shadowmoor,Uncommon,3,Gold,True,False,True,True,b'Warren Mahy',0.14
-Valleymaker,Creature,Giant Shaman,Shadowmoor,Rare,7,Gold,True,False,True,False,b'Randy Gallegos',0.22
-Vexing Shusher,Creature,Goblin Shaman,Shadowmoor,Rare,4,Gold,True,False,True,True,b'Cyril Van Der Haegen',12.07
-"Wort, the Raidmother",Legendary Creature,Goblin Shaman,Shadowmoor,Rare,8,Gold,True,False,True,True,b'Dave Allsop',0.85
-Barkshell Blessing,Instant,None,Shadowmoor,Common,2,Gold,True,False,True,False,b'Steven Belledin',0.1
-Dawnglow Infusion,Sorcery,None,Shadowmoor,Uncommon,3,Gold,True,False,True,False,b'Rebecca Guay',0.23
-Elvish Hexhunter,Creature,Elf Shaman,Shadowmoor,Common,2,Gold,True,False,True,False,b'Alex Horley-Orlandelli',0.13
-Fracturing Gust,Instant,None,Shadowmoor,Rare,8,Gold,True,False,True,True,b'Michael Sutfin',3.68
-Heartmender,Creature,Elemental,Shadowmoor,Rare,6,Gold,True,False,True,False,b'Rebecca Guay',0.64
-Kitchen Finks,Creature,Ouphe,Shadowmoor,Uncommon,5,Gold,True,False,True,True,b'Kev Walker',1.18
-Medicine Runner,Creature,Elf Cleric,Shadowmoor,Common,3,Gold,True,False,True,False,b'Chippy',0.07
-Mercy Killing,Instant,None,Shadowmoor,Uncommon,4,Gold,True,False,True,False,b'Dave Kendall',0.7
-Old Ghastbark,Creature,Treefolk Warrior,Shadowmoor,Common,7,Gold,True,False,True,False,b'Thomas M. Baxa',0.07
-Oracle of Nectars,Creature,Elf Cleric,Shadowmoor,Rare,4,Gold,True,False,True,True,b'Brandon Kitkouski',1.54
-Oversoul of Dusk,Creature,Spirit Avatar,Shadowmoor,Rare,10,Gold,True,False,True,False,b'Scott M. Fischer',1.84
-Raven's Run Dragoon,Creature,Elf Knight,Shadowmoor,Common,6,Gold,True,False,True,False,b'Daren Bader',0.09
-Reknit,Instant,None,Shadowmoor,Uncommon,3,Gold,True,False,True,False,b'Zoltan Boros',0.17
-Rhys the Redeemed,Legendary Creature,Elf Warrior,Shadowmoor,Rare,2,Gold,True,False,True,True,b'Steve Prescott',28.9
-Safehold Duo,Creature,Elf Warrior Shaman,Shadowmoor,Common,5,Gold,True,False,True,False,b'Izzy',0.12
-Safehold Elite,Creature,Elf Scout,Shadowmoor,Common,3,Gold,True,False,True,True,b'Richard Whitters',0.26
-Safewright Quest,Sorcery,None,Shadowmoor,Common,2,Gold,True,False,True,False,b'Dan Scott',0.33
-Seedcradle Witch,Creature,Elf Shaman,Shadowmoor,Uncommon,2,Gold,True,False,True,False,b'Steven Belledin',0.17
-Shield of the Oversoul,Enchantment,Aura,Shadowmoor,Common,4,Gold,True,False,True,False,b'Steven Belledin',1.58
-Wheel of Sun and Moon,Enchantment,Aura,Shadowmoor,Rare,4,Gold,True,False,True,False,b'Zoltan Boros',10.18
-Wilt-Leaf Cavaliers,Creature,Elf Knight,Shadowmoor,Uncommon,6,Gold,True,False,True,True,b'Steve Prescott',0.37
-Wilt-Leaf Liege,Creature,Elf Knight,Shadowmoor,Rare,7,Gold,True,False,True,True,b'Jason Chan',2.28
-Blazethorn Scarecrow,Artifact Creature,Scarecrow,Shadowmoor,Common,5,Colorless,True,False,True,False,b'Dave Kendall',0.16
-Blight Sickle,Artifact,Equipment,Shadowmoor,Common,2,Colorless,True,False,True,False,b'John Avon',0.22
-Cauldron of Souls,Artifact,None,Shadowmoor,Rare,5,Colorless,True,False,True,True,b'Ron Brown',2.37
-Chainbreaker,Artifact Creature,Scarecrow,Shadowmoor,Common,2,Colorless,True,False,True,False,b'Jeff Miracola',0.21
-Elsewhere Flask,Artifact,None,Shadowmoor,Common,2,Colorless,True,False,True,False,b'Carl Frank',0.2
-Gnarled Effigy,Artifact,None,Shadowmoor,Uncommon,4,Colorless,True,False,True,False,b'Ron Brown',0.12
-Grim Poppet,Artifact Creature,Scarecrow,Shadowmoor,Rare,7,Colorless,True,False,True,False,b'Kev Walker',2.39
-Heap Doll,Artifact Creature,Scarecrow,Shadowmoor,Uncommon,1,Colorless,True,False,True,True,b'John Avon',0.3
-Illuminated Folio,Artifact,None,Shadowmoor,Uncommon,5,Colorless,True,False,True,False,b'Jim Pavelec',0.16
-Lockjaw Snapper,Artifact Creature,Scarecrow,Shadowmoor,Uncommon,4,Colorless,True,False,True,False,b'Daren Bader',1.23
-Lurebound Scarecrow,Artifact Creature,Scarecrow,Shadowmoor,Uncommon,3,Colorless,True,False,True,False,b'Nils Hamm',0.48
-Painter's Servant,Artifact Creature,Scarecrow,Shadowmoor,Rare,2,Colorless,True,False,True,True,b'Mike Dringenberg',30.32
-Pili-Pala,Artifact Creature,Scarecrow,Shadowmoor,Common,2,Colorless,True,False,True,True,b'Ron Spencer',2.45
-Rattleblaze Scarecrow,Artifact Creature,Scarecrow,Shadowmoor,Common,6,Colorless,True,False,True,False,b'Trevor Hairsine',0.23
-Reaper King,Legendary Artifact Creature,Scarecrow,Shadowmoor,Rare,11,Gold,True,False,True,True,b'Jim Murray',10.56
-Revelsong Horn,Artifact,None,Shadowmoor,Uncommon,2,Colorless,True,False,True,False,b'Franz Vohwinkel',0.12
-Scrapbasket,Artifact Creature,Scarecrow,Shadowmoor,Common,4,Colorless,True,False,True,False,b'Heather Hudson',0.21
-Scuttlemutt,Artifact Creature,Scarecrow,Shadowmoor,Common,3,Colorless,True,True,True,True,b'Jeremy Jarvis',0.3
-Tatterkite,Artifact Creature,Scarecrow,Shadowmoor,Uncommon,3,Colorless,True,False,True,False,b'Ron Brown',1.28
-Thornwatch Scarecrow,Artifact Creature,Scarecrow,Shadowmoor,Common,6,Colorless,True,False,True,False,b'Chuck Lukacs',0.15
-Trip Noose,Artifact,None,Shadowmoor,Uncommon,2,Colorless,True,False,True,True,b'Randy Gallegos',0.21
-Umbral Mantle,Artifact,Equipment,Shadowmoor,Uncommon,3,Colorless,True,False,True,True,b'Richard Sardinha',6.63
-Watchwing Scarecrow,Artifact Creature,Scarecrow,Shadowmoor,Common,4,Colorless,True,False,True,False,b'Chuck Lukacs',0.2
-Wicker Warcrawler,Artifact Creature,Scarecrow,Shadowmoor,Uncommon,5,Colorless,True,False,True,False,b'Carl Critchlow',0.24
-Wingrattle Scarecrow,Artifact Creature,Scarecrow,Shadowmoor,Common,3,Colorless,True,False,True,False,b'Trevor Hairsine',0.34
-Fire-Lit Thicket,Land,None,Shadowmoor,Rare,0,Colorless,True,False,True,True,b'Ralph Horsley',18.37
-Graven Cairns,Land,None,Shadowmoor,Rare,0,Colorless,True,False,True,True,b'Rob Alexander',6.14
-Leechridden Swamp,Land,Swamp,Shadowmoor,Uncommon,0,Colorless,True,False,True,True,b'Lars Grant-West',0.52
-Madblind Mountain,Land,Mountain,Shadowmoor,Uncommon,0,Colorless,True,False,True,False,b'Fred Fields',0.33
-Mistveil Plains,Land,Plains,Shadowmoor,Uncommon,0,Colorless,True,False,True,True,b'Rob Alexander',1.23
-Moonring Island,Land,Island,Shadowmoor,Uncommon,0,Colorless,True,False,True,False,b'Brandon Kitkouski',0.25
-Mystic Gate,Land,None,Shadowmoor,Rare,0,Colorless,True,False,True,True,b'Fred Fields',19.79
-Reflecting Pool,Land,None,Shadowmoor,Rare,0,Colorless,True,False,True,True,b'Fred Fields',14.58
-Sapseep Forest,Land,Forest,Shadowmoor,Uncommon,0,Colorless,True,False,True,True,b'Aleksi Briclot',0.22
-Sunken Ruins,Land,None,Shadowmoor,Rare,0,Colorless,True,False,True,True,b'Warren Mahy',28.72
-Wooded Bastion,Land,None,Shadowmoor,Rare,0,Colorless,True,False,True,True,b'Christopher Moeller',18.43
-Plains,Basic Land,Plains,Shadowmoor,Common,0,Colorless,True,True,True,True,b'Omar Rayyan',0.16
-Plains,Basic Land,Plains,Shadowmoor,Common,0,Colorless,True,True,True,True,b'Lars Grant-West',0.15
-Plains,Basic Land,Plains,Shadowmoor,Common,0,Colorless,True,True,True,True,b'Dave Kendall',0.14
-Plains,Basic Land,Plains,Shadowmoor,Common,0,Colorless,True,True,True,True,b'Larry MacDougall',0.18
-Island,Basic Land,Island,Shadowmoor,Common,0,Colorless,True,True,True,True,b'Omar Rayyan',0.16
-Island,Basic Land,Island,Shadowmoor,Common,0,Colorless,True,True,True,True,b'Warren Mahy',0.47
-Island,Basic Land,Island,Shadowmoor,Common,0,Colorless,True,True,True,True,b'Brandon Kitkouski',0.21
-Island,Basic Land,Island,Shadowmoor,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.22
-Swamp,Basic Land,Swamp,Shadowmoor,Common,0,Colorless,True,True,True,True,b'Lars Grant-West',0.17
-Swamp,Basic Land,Swamp,Shadowmoor,Common,0,Colorless,True,True,True,True,b'Warren Mahy',0.91
-Swamp,Basic Land,Swamp,Shadowmoor,Common,0,Colorless,True,True,True,True,b'rk post',0.23
-Swamp,Basic Land,Swamp,Shadowmoor,Common,0,Colorless,True,True,True,True,b'Chippy',0.22
-Mountain,Basic Land,Mountain,Shadowmoor,Common,0,Colorless,True,True,True,True,b'Dave Kendall',0.13
-Mountain,Basic Land,Mountain,Shadowmoor,Common,0,Colorless,True,True,True,True,b'Brandon Kitkouski',0.17
-Mountain,Basic Land,Mountain,Shadowmoor,Common,0,Colorless,True,True,True,True,b'rk post',0.15
-Mountain,Basic Land,Mountain,Shadowmoor,Common,0,Colorless,True,True,True,True,b'Steve Prescott',0.17
-Forest,Basic Land,Forest,Shadowmoor,Common,0,Colorless,True,True,True,True,b'Larry MacDougall',0.18
-Forest,Basic Land,Forest,Shadowmoor,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.16
-Forest,Basic Land,Forest,Shadowmoor,Common,0,Colorless,True,True,True,True,b'Chippy',0.49
-Forest,Basic Land,Forest,Shadowmoor,Common,0,Colorless,True,True,True,True,b'Steve Prescott',0.15
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Apothecary Initiate,Creature,Kithkin Cleric,Shadowmoor,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.11,False
+Armored Ascension,Enchantment,Aura,Shadowmoor,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.23,False
+Ballynock Cohort,Creature,Kithkin Soldier,Shadowmoor,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.07,False
+Barrenton Medic,Creature,Kithkin Cleric,Shadowmoor,Common,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Trevor Hairsine',0.07,False
+Boon Reflection,Enchantment,None,Shadowmoor,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',9.09,False
+Goldenglow Moth,Creature,Insect,Shadowmoor,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Howard Lyon',0.15,False
+Greater Auramancy,Enchantment,None,Shadowmoor,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Chuck Lukacs',33.24,False
+Inquisitor's Snare,Instant,None,Shadowmoor,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',0.09,False
+Kithkin Rabble,Creature,Kithkin,Shadowmoor,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Omar Rayyan',0.12,False
+Kithkin Shielddare,Creature,Kithkin Soldier,Shadowmoor,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.07,False
+Last Breath,Instant,None,Shadowmoor,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Thomas Denmark',0.13,False
+Mass Calcify,Sorcery,None,Shadowmoor,Rare,7,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Brandon Kitkouski',0.95,False
+Mine Excavation,Sorcery,None,Shadowmoor,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Chippy',0.15,False
+Mistmeadow Skulk,Creature,Kithkin Rogue,Shadowmoor,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Omar Rayyan',0.22,False
+Niveous Wisps,Instant,None,Shadowmoor,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.35,False
+Order of Whiteclay,Creature,Kithkin Cleric,Shadowmoor,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Steven Belledin',1.63,False
+Pale Wayfarer,Creature,Spirit Giant,Shadowmoor,Uncommon,7,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.04,False
+Prison Term,Enchantment,Aura,Shadowmoor,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',1.03,False
+Resplendent Mentor,Creature,Kithkin Cleric,Shadowmoor,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Franz Vohwinkel',0.35,False
+Rune-Cervin Rider,Creature,Elf Knight,Shadowmoor,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.07,False
+Runed Halo,Enchantment,None,Shadowmoor,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',1.19,False
+Safehold Sentry,Creature,Elf Warrior,Shadowmoor,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,"b""William O'Connor""",0.08,False
+Spectral Procession,Sorcery,None,Shadowmoor,Uncommon,7,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeremy Enecio',0.61,False
+Strip Bare,Instant,None,Shadowmoor,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Ralph Horsley',0.06,False
+Twilight Shepherd,Creature,Angel,Shadowmoor,Rare,6,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',0.48,False
+Windbrisk Raptor,Creature,Bird,Shadowmoor,Rare,7,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Omar Rayyan',0.91,False
+Woeleecher,Creature,Elemental,Shadowmoor,Common,6,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Izzy',0.07,False
+Advice from the Fae,Sorcery,None,Shadowmoor,Uncommon,7,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Chippy',0.16,False
+Biting Tether,Enchantment,Aura,Shadowmoor,Uncommon,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas Denmark',0.09,False
+Briarberry Cohort,Creature,Faerie Soldier,Shadowmoor,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.13,False
+Cerulean Wisps,Instant,None,Shadowmoor,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.27,False
+Consign to Dream,Instant,None,Shadowmoor,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Richard Kane Ferguson',0.17,False
+Counterbore,Instant,None,Shadowmoor,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne England',0.47,False
+Cursecatcher,Creature,Merfolk Wizard,Shadowmoor,Uncommon,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Warren Mahy',0.56,False
+Deepchannel Mentor,Creature,Merfolk Rogue,Shadowmoor,Uncommon,6,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Jesper Ejsing',1.28,False
+Drowner Initiate,Creature,Merfolk Wizard,Shadowmoor,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'E. M. Gist',0.17,False
+Faerie Swarm,Creature,Faerie,Shadowmoor,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.81,False
+Flow of Ideas,Sorcery,None,Shadowmoor,Uncommon,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Dringenberg',0.19,False
+Ghastly Discovery,Sorcery,None,Shadowmoor,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Howard Lyon',0.11,False
+Isleback Spawn,Creature,Kraken,Shadowmoor,Rare,7,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',1.12,False
+Kinscaer Harpoonist,Creature,Kithkin Soldier,Shadowmoor,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.06,False
+Knacksaw Clique,Creature,Faerie Rogue,Shadowmoor,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Steven Belledin',4.07,False
+Leech Bonder,Creature,Merfolk Soldier,Shadowmoor,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'E. M. Gist',0.31,False
+Merrow Wavebreakers,Creature,Merfolk Soldier,Shadowmoor,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Alex Horley-Orlandelli',0.13,False
+Parapet Watchers,Creature,Kithkin Soldier,Shadowmoor,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Scott Altmann',0.04,False
+Prismwake Merrow,Creature,Merfolk Wizard,Shadowmoor,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne England',0.15,False
+Puca's Mischief,Enchantment,None,Shadowmoor,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Altmann',3.32,False
+Put Away,Instant,None,Shadowmoor,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.13,False
+River Kelpie,Creature,Beast,Shadowmoor,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Easley',1.13,False
+Savor the Moment,Sorcery,None,Shadowmoor,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Warren Mahy',9.78,False
+Sinking Feeling,Enchantment,Aura,Shadowmoor,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Brown',0.15,False
+Spell Syphon,Instant,None,Shadowmoor,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.25,False
+Thought Reflection,Enchantment,None,Shadowmoor,Rare,7,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',2.14,False
+Whimwader,Creature,Elemental,Shadowmoor,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Easley',0.05,False
+Aphotic Wisps,Instant,None,Shadowmoor,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.25,False
+Ashenmoor Cohort,Creature,Elemental Warrior,Shadowmoor,Common,6,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Lucio Parrillo',0.06,False
+Beseech the Queen,Sorcery,None,Shadowmoor,Uncommon,7,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',6.08,False
+Blowfly Infestation,Enchantment,None,Shadowmoor,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Drew Tucker',2.67,False
+Cinderbones,Creature,Elemental Skeleton,Shadowmoor,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.15,False
+Cinderhaze Wretch,Creature,Elemental Shaman,Shadowmoor,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Steven Belledin',0.22,False
+Corrosive Mentor,Creature,Elemental Rogue,Shadowmoor,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Daarken',1.85,False
+Corrupt,Sorcery,None,Shadowmoor,Uncommon,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Allsop',0.15,False
+Crowd of Cinders,Creature,Elemental,Shadowmoor,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Frank',0.1,False
+Disturbing Plot,Sorcery,None,Shadowmoor,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Larry MacDougall',0.1,False
+Dusk Urchins,Creature,Ouphe,Shadowmoor,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Darrell Riche',4.16,False
+Faerie Macabre,Creature,Faerie Rogue,Shadowmoor,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',0.68,False
+Gloomlance,Sorcery,None,Shadowmoor,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.04,False
+Hollowborn Barghest,Creature,Demon Dog,Shadowmoor,Rare,7,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Eric Fortune',0.44,False
+Hollowsage,Creature,Merfolk Wizard,Shadowmoor,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Lucio Parrillo',0.17,False
+Incremental Blight,Sorcery,None,Shadowmoor,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Chuck Lukacs',0.56,False
+Loch Korrigan,Creature,Spirit,Shadowmoor,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Daarken',0.07,False
+Midnight Banshee,Creature,Spirit,Shadowmoor,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',1.96,False
+Plague of Vermin,Sorcery,None,Shadowmoor,Rare,7,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',4.96,False
+Polluted Bonds,Enchantment,None,Shadowmoor,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',21.4,False
+Puppeteer Clique,Creature,Faerie Wizard,Shadowmoor,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',1.82,False
+Rite of Consumption,Sorcery,None,Shadowmoor,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.76,False
+Sickle Ripper,Creature,Elemental Warrior,Shadowmoor,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.09,False
+Smolder Initiate,Creature,Elemental Shaman,Shadowmoor,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Chippy',0.09,False
+Splitting Headache,Sorcery,None,Shadowmoor,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas Denmark',0.06,False
+Torture,Enchantment,Aura,Shadowmoor,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'E. M. Gist',0.09,False
+Wound Reflection,Enchantment,None,Shadowmoor,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',22.64,False
+Blistering Dieflyn,Creature,Imp,Shadowmoor,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Scott Altmann',0.05,False
+Bloodmark Mentor,Creature,Goblin Warrior,Shadowmoor,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Allsop',1.12,False
+Bloodshed Fever,Enchantment,Aura,Shadowmoor,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.08,False
+Boggart Arsonists,Creature,Goblin Rogue,Shadowmoor,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Jesper Ejsing',0.08,False
+Burn Trail,Sorcery,None,Shadowmoor,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Nils Hamm',0.07,False
+Cragganwick Cremator,Creature,Giant Shaman,Shadowmoor,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeremy Enecio',0.54,False
+Crimson Wisps,Instant,None,Shadowmoor,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',1.25,False
+Deep-Slumber Titan,Creature,Giant Warrior,Shadowmoor,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Prescott',0.28,False
+Elemental Mastery,Enchantment,Aura,Shadowmoor,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Cyril Van Der Haegen',4.33,False
+Ember Gale,Sorcery,None,Shadowmoor,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Prescott',0.06,False
+Flame Javelin,Instant,None,Shadowmoor,Uncommon,7,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Trevor Hairsine',0.23,False
+Furystoke Giant,Creature,Giant Warrior,Shadowmoor,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Ralph Horsley',2.69,False
+Horde of Boggarts,Creature,Goblin,Shadowmoor,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Prescott',0.52,False
+Inescapable Brute,Creature,Giant Warrior,Shadowmoor,Common,6,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Nils Hamm',0.06,False
+Intimidator Initiate,Creature,Goblin Shaman,Shadowmoor,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Ralph Horsley',0.17,False
+Jaws of Stone,Sorcery,None,Shadowmoor,Uncommon,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.08,False
+Knollspine Dragon,Creature,Dragon,Shadowmoor,Rare,7,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',7.28,False
+Knollspine Invocation,Enchantment,None,Shadowmoor,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Dorman',0.22,False
+Mudbrawler Cohort,Creature,Goblin Warrior,Shadowmoor,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Lucio Parrillo',0.47,False
+Power of Fire,Enchantment,Aura,Shadowmoor,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Trevor Hairsine',0.1,False
+Puncture Bolt,Instant,None,Shadowmoor,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Franz Vohwinkel',0.08,False
+Pyre Charger,Creature,Elemental Warrior,Shadowmoor,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.1,False
+Rage Reflection,Enchantment,None,Shadowmoor,Rare,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',2.13,False
+Rustrazor Butcher,Creature,Goblin Warrior,Shadowmoor,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.1,False
+Slinking Giant,Creature,Giant Rogue,Shadowmoor,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Kendall',0.06,False
+Smash to Smithereens,Instant,None,Shadowmoor,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.31,False
+Wild Swing,Sorcery,None,Shadowmoor,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Kane Ferguson',0.13,False
+Crabapple Cohort,Creature,Treefolk Warrior,Shadowmoor,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Richard Whitters',0.07,False
+Devoted Druid,Creature,Elf Druid,Shadowmoor,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Darrell Riche',1.89,False
+Dramatic Entrance,Instant,None,Shadowmoor,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Dringenberg',1.23,False
+Drove of Elves,Creature,Elf,Shadowmoor,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Larry MacDougall',0.53,False
+Farhaven Elf,Creature,Elf Druid,Shadowmoor,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Brandon Kitkouski',1.55,False
+Flourishing Defenses,Enchantment,None,Shadowmoor,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.88,False
+Foxfire Oak,Creature,Treefolk Shaman,Shadowmoor,Common,6,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Kendall',0.08,False
+Gleeful Sabotage,Sorcery,None,Shadowmoor,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Todd Lockwood',0.84,False
+Gloomwidow,Creature,Spider,Shadowmoor,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.08,False
+Gloomwidow's Feast,Instant,None,Shadowmoor,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.14,False
+Howl of the Night Pack,Sorcery,None,Shadowmoor,Uncommon,7,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.21,False
+Hungry Spriggan,Creature,Goblin Warrior,Shadowmoor,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.11,False
+Juvenile Gloomwidow,Creature,Spider,Shadowmoor,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.27,False
+Mana Reflection,Enchantment,None,Shadowmoor,Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',44.78,False
+Mossbridge Troll,Creature,Troll,Shadowmoor,Rare,7,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Jeremy Jarvis',1.79,False
+Nurturer Initiate,Creature,Elf Shaman,Shadowmoor,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Pavelec',0.12,False
+Presence of Gond,Enchantment,Aura,Shadowmoor,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Brandon Kitkouski',0.28,False
+Prismatic Omen,Enchantment,None,Shadowmoor,Rare,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',22.01,False
+Raking Canopy,Enchantment,None,Shadowmoor,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.88,False
+Roughshod Mentor,Creature,Giant Warrior,Shadowmoor,Uncommon,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.12,False
+Spawnwrithe,Creature,Elemental,Shadowmoor,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.51,False
+Toil to Renown,Sorcery,None,Shadowmoor,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Larry MacDougall',0.08,False
+Tower Above,Sorcery,None,Shadowmoor,Uncommon,7,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas Denmark',0.18,False
+Viridescent Wisps,Instant,None,Shadowmoor,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.12,False
+Wildslayer Elves,Creature,Elf Warrior,Shadowmoor,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Kendall',0.18,False
+Witherscale Wurm,Creature,Wurm,Shadowmoor,Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.36,False
+Woodfall Primus,Creature,Treefolk Shaman,Shadowmoor,Rare,8,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',3.05,False
+Aethertow,Instant,None,Shadowmoor,Common,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Warren Mahy',0.06,False
+Augury Adept,Creature,Kithkin Wizard,Shadowmoor,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.6,False
+Barrenton Cragtreads,Creature,Kithkin Scout,Shadowmoor,Common,6,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.06,False
+Curse of Chains,Enchantment,Aura,Shadowmoor,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Drew Tucker',0.43,False
+Enchanted Evening,Enchantment,None,Shadowmoor,Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',11.91,False
+Glamer Spinners,Creature,Faerie Wizard,Shadowmoor,Uncommon,6,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Jesper Ejsing',0.1,False
+Godhead of Awe,Creature,Spirit Avatar,Shadowmoor,Rare,10,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Zug',4.12,False
+Mirrorweave,Instant,None,Shadowmoor,Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Pavelec',0.65,False
+Mistmeadow Witch,Creature,Kithkin Wizard,Shadowmoor,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.29,False
+Plumeveil,Creature,Elemental,Shadowmoor,Uncommon,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.26,False
+Puresight Merrow,Creature,Merfolk Wizard,Shadowmoor,Uncommon,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.29,False
+Repel Intruders,Instant,None,Shadowmoor,Uncommon,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Trevor Hairsine',0.09,False
+Silkbind Faerie,Creature,Faerie Rogue,Shadowmoor,Common,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.15,False
+Somnomancer,Creature,Kithkin Wizard,Shadowmoor,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Lars Grant-West',0.08,False
+Steel of the Godhead,Enchantment,Aura,Shadowmoor,Common,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',1.68,False
+Swans of Bryn Argoll,Creature,Bird Spirit,Shadowmoor,Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Fortune',1.57,False
+Thistledown Duo,Creature,Kithkin Soldier Wizard,Shadowmoor,Common,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.09,False
+Thistledown Liege,Creature,Kithkin Knight,Shadowmoor,Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Rex',1.31,False
+Thoughtweft Gambit,Instant,None,Shadowmoor,Uncommon,8,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Prescott',0.17,False
+Turn to Mist,Instant,None,Shadowmoor,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.22,False
+Worldpurge,Sorcery,None,Shadowmoor,Rare,12,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Chippy',0.6,False
+Zealous Guardian,Creature,Kithkin Soldier,Shadowmoor,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Steven Belledin',0.13,False
+Cemetery Puca,Creature,Shapeshifter,Shadowmoor,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Omar Rayyan',1.8,False
+Dire Undercurrents,Enchantment,None,Shadowmoor,Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Franz Vohwinkel',12.04,False
+Dream Salvage,Instant,None,Shadowmoor,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Howard Lyon',1.02,False
+Fate Transfer,Instant,None,Shadowmoor,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne England',0.25,False
+Ghastlord of Fugue,Creature,Spirit Avatar,Shadowmoor,Rare,10,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Dringenberg',4.64,False
+Glen Elendra Liege,Creature,Faerie Knight,Shadowmoor,Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',5.13,False
+Gravelgill Axeshark,Creature,Merfolk Soldier,Shadowmoor,Common,6,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Kendall',0.05,False
+Gravelgill Duo,Creature,Merfolk Rogue Warrior,Shadowmoor,Common,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Brandon Kitkouski',0.06,False
+Helm of the Ghastlord,Enchantment,Aura,Shadowmoor,Common,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Franz Vohwinkel',0.24,False
+Inkfathom Infiltrator,Creature,Merfolk Rogue,Shadowmoor,Uncommon,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Jesper Ejsing',0.91,False
+Inkfathom Witch,Creature,Merfolk Wizard,Shadowmoor,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Larry MacDougall',0.25,False
+Memory Plunder,Instant,None,Shadowmoor,Rare,8,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',1.33,False
+Memory Sluice,Sorcery,None,Shadowmoor,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne England',0.91,False
+Merrow Grimeblotter,Creature,Merfolk Wizard,Shadowmoor,Uncommon,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Cyril Van Der Haegen',0.08,False
+Oona Queen of the Fae,Creature,Faerie Wizard,Shadowmoor,Rare,9,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',11.03,True
+Oona's Gatewarden,Creature,Faerie Soldier,Shadowmoor,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Dringenberg',0.26,False
+River's Grasp,Sorcery,None,Shadowmoor,Uncommon,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Steven Belledin',0.09,False
+Scarscale Ritual,Sorcery,None,Shadowmoor,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Richard Sardinha',0.17,False
+Sygg River Cutthroat,Creature,Merfolk Rogue,Shadowmoor,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Jeremy Enecio',6.94,True
+Torpor Dust,Enchantment,Aura,Shadowmoor,Common,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Jesper Ejsing',0.08,False
+Wanderbrine Rootcutters,Creature,Merfolk Rogue,Shadowmoor,Common,6,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Chippy',0.07,False
+Wasp Lancer,Creature,Faerie Soldier,Shadowmoor,Uncommon,6,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Warren Mahy',0.19,False
+Ashenmoor Gouger,Creature,Elemental Warrior,Shadowmoor,Uncommon,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.08,False
+Ashenmoor Liege,Creature,Elemental Knight,Shadowmoor,Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Zug',5.06,False
+Cultbrand Cinder,Creature,Elemental Shaman,Shadowmoor,Common,6,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.07,False
+Demigod of Revenge,Creature,Spirit Avatar,Shadowmoor,Rare,10,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Murray',2.89,False
+Din of the Fireherd,Sorcery,None,Shadowmoor,Rare,11,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Dorman',0.52,False
+Emberstrike Duo,Creature,Elemental Warrior Shaman,Shadowmoor,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Aleksi Briclot',0.08,False
+Everlasting Torment,Enchantment,None,Shadowmoor,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Kane Ferguson',2.17,False
+Fists of the Demigod,Enchantment,Aura,Shadowmoor,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.25,False
+Fulminator Mage,Creature,Elemental Shaman,Shadowmoor,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',6.57,False
+Grief Tyrant,Creature,Horror,Shadowmoor,Uncommon,7,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Izzy',0.19,False
+Kulrath Knight,Creature,Elemental Knight,Shadowmoor,Uncommon,7,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',2.62,False
+Manaforge Cinder,Creature,Elemental Shaman,Shadowmoor,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Izzy',0.22,False
+Murderous Redcap,Creature,Goblin Assassin,Shadowmoor,Uncommon,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Allsop',0.61,False
+Poison the Well,Sorcery,None,Shadowmoor,Common,6,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.11,False
+Scar,Instant,None,Shadowmoor,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.2,False
+Sootstoke Kindler,Creature,Elemental Shaman,Shadowmoor,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Zug',0.11,False
+Sootwalkers,Creature,Elemental Rogue,Shadowmoor,Common,6,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Nils Hamm',0.05,False
+Spiteflame Witch,Creature,Elemental Shaman,Shadowmoor,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,"b""William O'Connor""",0.19,False
+Spiteful Visions,Enchantment,None,Shadowmoor,Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Brandon Kitkouski',1.29,False
+Torrent of Souls,Sorcery,None,Shadowmoor,Uncommon,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Ian Edward Ameling',0.21,False
+Traitor's Roar,Sorcery,None,Shadowmoor,Common,6,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Pavelec',0.07,False
+Tyrannize,Sorcery,None,Shadowmoor,Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',0.4,False
+Boartusk Liege,Creature,Goblin Knight,Shadowmoor,Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Jesper Ejsing',5.11,False
+Boggart Ram-Gang,Creature,Goblin Warrior,Shadowmoor,Uncommon,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Allsop',0.5,False
+Deus of Calamity,Creature,Spirit Avatar,Shadowmoor,Rare,10,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Todd Lockwood',1.35,False
+Firespout,Sorcery,None,Shadowmoor,Uncommon,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.73,False
+Fossil Find,Sorcery,None,Shadowmoor,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave DeVries',0.13,False
+Giantbaiting,Sorcery,None,Shadowmoor,Common,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Trevor Hairsine',0.08,False
+Guttural Response,Instant,None,Shadowmoor,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',1.07,False
+Impromptu Raid,Enchantment,None,Shadowmoor,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Gallegos',0.51,False
+Loamdragger Giant,Creature,Giant Warrior,Shadowmoor,Common,10,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.06,False
+Manamorphose,Instant,None,Shadowmoor,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',7.89,False
+Morselhoarder,Creature,Elemental,Shadowmoor,Common,8,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony S. Waters',0.15,False
+Mudbrawler Raiders,Creature,Goblin Warrior,Shadowmoor,Common,6,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.05,False
+Rosheen Meanderer,Creature,Giant Shaman,Shadowmoor,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',0.57,True
+Runes of the Deus,Enchantment,Aura,Shadowmoor,Common,6,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Warren Mahy',0.24,False
+Scuzzback Marauders,Creature,Goblin Warrior,Shadowmoor,Common,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.15,False
+Scuzzback Scrapper,Creature,Goblin Warrior,Shadowmoor,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Scott Altmann',0.14,False
+Tattermunge Duo,Creature,Goblin Warrior Shaman,Shadowmoor,Common,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Jesper Ejsing',0.08,False
+Tattermunge Maniac,Creature,Goblin Warrior,Shadowmoor,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.29,False
+Tattermunge Witch,Creature,Goblin Shaman,Shadowmoor,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Warren Mahy',0.16,False
+Valleymaker,Creature,Giant Shaman,Shadowmoor,Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Gallegos',0.26,False
+Vexing Shusher,Creature,Goblin Shaman,Shadowmoor,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Cyril Van Der Haegen',19.62,False
+Wort the Raidmother,Creature,Goblin Shaman,Shadowmoor,Rare,8,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Allsop',0.94,True
+Barkshell Blessing,Instant,None,Shadowmoor,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Steven Belledin',0.1,False
+Dawnglow Infusion,Sorcery,None,Shadowmoor,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Rebecca Guay',0.25,False
+Elvish Hexhunter,Creature,Elf Shaman,Shadowmoor,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Alex Horley-Orlandelli',0.14,False
+Fracturing Gust,Instant,None,Shadowmoor,Rare,8,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Sutfin',3.41,False
+Heartmender,Creature,Elemental,Shadowmoor,Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Rebecca Guay',0.71,False
+Kitchen Finks,Creature,Ouphe,Shadowmoor,Uncommon,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',1.27,False
+Medicine Runner,Creature,Elf Cleric,Shadowmoor,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Chippy',0.1,False
+Mercy Killing,Instant,None,Shadowmoor,Uncommon,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Kendall',0.73,False
+Old Ghastbark,Creature,Treefolk Warrior,Shadowmoor,Common,7,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.09,False
+Oracle of Nectars,Creature,Elf Cleric,Shadowmoor,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Brandon Kitkouski',1.47,False
+Oversoul of Dusk,Creature,Spirit Avatar,Shadowmoor,Rare,10,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',1.83,False
+Raven's Run Dragoon,Creature,Elf Knight,Shadowmoor,Common,6,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.11,False
+Reknit,Instant,None,Shadowmoor,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.18,False
+Rhys the Redeemed,Creature,Elf Warrior,Shadowmoor,Rare,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',26.38,True
+Safehold Duo,Creature,Elf Warrior Shaman,Shadowmoor,Common,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Izzy',0.11,False
+Safehold Elite,Creature,Elf Scout,Shadowmoor,Common,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Whitters',0.25,False
+Safewright Quest,Sorcery,None,Shadowmoor,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.31,False
+Seedcradle Witch,Creature,Elf Shaman,Shadowmoor,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Steven Belledin',0.17,False
+Shield of the Oversoul,Enchantment,Aura,Shadowmoor,Common,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Steven Belledin',1.93,False
+Wheel of Sun and Moon,Enchantment,Aura,Shadowmoor,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',10.11,False
+Wilt-Leaf Cavaliers,Creature,Elf Knight,Shadowmoor,Uncommon,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.34,False
+Wilt-Leaf Liege,Creature,Elf Knight,Shadowmoor,Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',2.49,False
+Blazethorn Scarecrow,Artifact Creature,Scarecrow,Shadowmoor,Common,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Kendall',0.15,False
+Blight Sickle,Artifact,Equipment,Shadowmoor,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.22,False
+Cauldron of Souls,Artifact,None,Shadowmoor,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Brown',2.5,False
+Chainbreaker,Artifact Creature,Scarecrow,Shadowmoor,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Miracola',0.24,False
+Elsewhere Flask,Artifact,None,Shadowmoor,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Frank',0.22,False
+Gnarled Effigy,Artifact,None,Shadowmoor,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Brown',0.12,False
+Grim Poppet,Artifact Creature,Scarecrow,Shadowmoor,Rare,7,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',2.46,False
+Heap Doll,Artifact Creature,Scarecrow,Shadowmoor,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.3,False
+Illuminated Folio,Artifact,None,Shadowmoor,Uncommon,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Pavelec',0.14,False
+Lockjaw Snapper,Artifact Creature,Scarecrow,Shadowmoor,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',1.41,False
+Lurebound Scarecrow,Artifact Creature,Scarecrow,Shadowmoor,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Nils Hamm',0.49,False
+Painter's Servant,Artifact Creature,Scarecrow,Shadowmoor,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Dringenberg',34.51,False
+Pili-Pala,Artifact Creature,Scarecrow,Shadowmoor,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',2.09,False
+Rattleblaze Scarecrow,Artifact Creature,Scarecrow,Shadowmoor,Common,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Trevor Hairsine',0.23,False
+Reaper King,Artifact Creature,Scarecrow,Shadowmoor,Rare,11,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Murray',9.96,True
+Revelsong Horn,Artifact,None,Shadowmoor,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Franz Vohwinkel',0.13,False
+Scrapbasket,Artifact Creature,Scarecrow,Shadowmoor,Common,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.2,False
+Scuttlemutt,Artifact Creature,Scarecrow,Shadowmoor,Common,3,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jeremy Jarvis',0.26,False
+Tatterkite,Artifact Creature,Scarecrow,Shadowmoor,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Brown',1.11,False
+Thornwatch Scarecrow,Artifact Creature,Scarecrow,Shadowmoor,Common,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Chuck Lukacs',0.14,False
+Trip Noose,Artifact,None,Shadowmoor,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.09,False
+Umbral Mantle,Artifact,Equipment,Shadowmoor,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Sardinha',5.26,False
+Watchwing Scarecrow,Artifact Creature,Scarecrow,Shadowmoor,Common,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Chuck Lukacs',0.21,False
+Wicker Warcrawler,Artifact Creature,Scarecrow,Shadowmoor,Uncommon,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.26,False
+Wingrattle Scarecrow,Artifact Creature,Scarecrow,Shadowmoor,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Trevor Hairsine',0.31,False
+Fire-Lit Thicket,Land,None,Shadowmoor,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Ralph Horsley',18.33,False
+Graven Cairns,Land,None,Shadowmoor,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',5.94,False
+Leechridden Swamp,Land,Swamp,Shadowmoor,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.52,False
+Madblind Mountain,Land,Mountain,Shadowmoor,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Fred Fields',0.34,False
+Mistveil Plains,Land,Plains,Shadowmoor,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',1.21,False
+Moonring Island,Land,Island,Shadowmoor,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Brandon Kitkouski',0.26,False
+Mystic Gate,Land,None,Shadowmoor,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Fred Fields',17.52,False
+Reflecting Pool,Land,None,Shadowmoor,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Fred Fields',17.28,False
+Sapseep Forest,Land,Forest,Shadowmoor,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',0.24,False
+Sunken Ruins,Land,None,Shadowmoor,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Warren Mahy',28.17,False
+Wooded Bastion,Land,None,Shadowmoor,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',17.81,False
+Plains,Basic Land,Plains,Shadowmoor,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Omar Rayyan',0.18,False
+Plains,Basic Land,Plains,Shadowmoor,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.2,False
+Plains,Basic Land,Plains,Shadowmoor,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Dave Kendall',0.15,False
+Plains,Basic Land,Plains,Shadowmoor,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Larry MacDougall',0.21,False
+Island,Basic Land,Island,Shadowmoor,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Omar Rayyan',0.2,False
+Island,Basic Land,Island,Shadowmoor,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Warren Mahy',0.54,False
+Island,Basic Land,Island,Shadowmoor,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Brandon Kitkouski',0.26,False
+Island,Basic Land,Island,Shadowmoor,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.25,False
+Swamp,Basic Land,Swamp,Shadowmoor,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.23,False
+Swamp,Basic Land,Swamp,Shadowmoor,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Warren Mahy',0.99,False
+Swamp,Basic Land,Swamp,Shadowmoor,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'rk post',0.3,False
+Swamp,Basic Land,Swamp,Shadowmoor,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Chippy',0.23,False
+Mountain,Basic Land,Mountain,Shadowmoor,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Dave Kendall',0.18,False
+Mountain,Basic Land,Mountain,Shadowmoor,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Brandon Kitkouski',0.21,False
+Mountain,Basic Land,Mountain,Shadowmoor,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'rk post',0.16,False
+Mountain,Basic Land,Mountain,Shadowmoor,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.18,False
+Forest,Basic Land,Forest,Shadowmoor,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Larry MacDougall',0.18,False
+Forest,Basic Land,Forest,Shadowmoor,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.19,False
+Forest,Basic Land,Forest,Shadowmoor,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Chippy',0.56,False
+Forest,Basic Land,Forest,Shadowmoor,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.21,False

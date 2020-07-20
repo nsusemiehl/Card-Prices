@@ -1,91 +1,91 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Abbey Gargoyles,Creature,Gargoyle,Homelands,Uncommon,5,White,False,False,True,True,b'Christopher Rush',0.12
-Aysen Crusader,Creature,Human Knight,Homelands,Rare,4,White,False,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.71
-Aysen Highway,Enchantment,None,Homelands,Rare,6,White,False,False,True,False,b'N\xc3\xa9N\xc3\xa9 Thomas',0.38
-Beast Walkers,Creature,Human Beast Soldier,Homelands,Rare,3,White,False,False,True,False,b'Heather Hudson',0.24
-Death Speakers,Creature,Human Cleric,Homelands,Uncommon,1,White,False,False,True,True,b'Douglas Shuler',0.18
-Hazduhr the Abbot,Legendary Creature,Human Cleric,Homelands,Rare,5,White,False,False,True,False,b'Dan Frazier',0.35
-Leeches,Sorcery,None,Homelands,Rare,3,White,False,False,True,True,b'Alan Rabinowitz',0.71
-Prophecy,Sorcery,None,Homelands,Common,1,White,False,False,True,False,b'Christopher Rush',0.12
-Rashka the Slayer,Legendary Creature,Human Archer,Homelands,Uncommon,5,White,False,False,True,False,b'Christopher Rush',0.13
-Serra Aviary,World Enchantment,None,Homelands,Rare,4,White,False,False,True,True,b'Nicola Leonard',0.96
-Serra Bestiary,Enchantment,Aura,Homelands,Common,2,White,False,False,True,True,b'Anson Maddocks',0.1
-Serra Inquisitors,Creature,Human Cleric,Homelands,Uncommon,5,White,False,False,True,False,b'Dennis Detwiller',0.14
-Serra Paladin,Creature,Human Knight,Homelands,Common,4,White,False,False,True,True,b'Pete Venters',0.11
-Soraya the Falconer,Legendary Creature,Human,Homelands,Rare,3,White,False,False,True,False,b'Dennis Detwiller',1.21
-Truce,Instant,None,Homelands,Rare,3,White,False,False,True,True,b'Melissa A. Benson',0.64
-Aether Storm,Enchantment,None,Homelands,Uncommon,4,Blue,False,False,True,True,b'Mark Tedin',0.13
-Baki's Curse,Sorcery,None,Homelands,Rare,4,Blue,False,False,True,False,b'Nicola Leonard',0.3
-Chain Stasis,Instant,None,Homelands,Rare,1,Blue,False,False,True,False,b'Pat Morrissey',0.64
-Coral Reef,Enchantment,None,Homelands,Common,2,Blue,False,False,True,False,b'Amy Weber',0.15
-Forget,Sorcery,None,Homelands,Rare,2,Blue,False,False,True,True,b'Mike Kimble',0.16
-Giant Oyster,Creature,Oyster,Homelands,Uncommon,4,Blue,True,False,True,True,b'Nicola Leonard',0.14
-Jinx,Instant,None,Homelands,Common,2,Blue,False,False,True,False,b'Mike Kimble',0.1
-Marjhan,Creature,Serpent,Homelands,Rare,7,Blue,False,False,True,True,b'Daniel Gelon',0.29
-Merchant Scroll,Sorcery,None,Homelands,Common,2,Blue,True,False,True,True,b'Liz Danforth',4.32
-Mystic Decree,World Enchantment,None,Homelands,Rare,4,Blue,False,False,True,True,b'Liz Danforth',0.67
-Narwhal,Creature,Whale,Homelands,Rare,4,Blue,False,False,True,True,b'David A. Cherry',0.86
-"Reveka, Wizard Savant",Legendary Creature,Dwarf Wizard,Homelands,Rare,4,Blue,False,False,True,True,b'Susan Van Camp',0.54
-Sea Sprite,Creature,Faerie,Homelands,Uncommon,2,Blue,False,False,True,True,b'Susan Van Camp',0.23
-Sea Troll,Creature,Troll,Homelands,Uncommon,3,Blue,False,False,True,False,b'Daniel Gelon',0.14
-Wall of Kelp,Creature,Plant Wall,Homelands,Rare,2,Blue,False,False,True,True,b'Alan Rabinowitz',4.17
-Baron Sengir,Legendary Creature,Vampire Noble,Homelands,Rare,8,Black,False,False,True,True,b'Pete Venters',2.16
-Black Carriage,Creature,Horse,Homelands,Rare,5,Black,False,False,True,False,b'David A. Cherry',0.61
-Broken Visage,Instant,None,Homelands,Rare,5,Black,False,False,True,True,b'Mike Kimble',0.26
-Drudge Spell,Enchantment,None,Homelands,Uncommon,2,Black,False,False,True,False,b'N\xc3\xa9N\xc3\xa9 Thomas',0.16
-Funeral March,Enchantment,Aura,Homelands,Common,3,Black,False,False,True,True,b'Melissa A. Benson',0.08
-Ghost Hounds,Creature,Hound Spirit,Homelands,Uncommon,2,Black,False,False,True,False,b'Jeff A. Menges',0.13
-Grandmother Sengir,Legendary Creature,Human Wizard,Homelands,Rare,5,Black,False,False,True,True,b'Pete Venters',0.49
-Greater Werewolf,Creature,Werewolf,Homelands,Common,5,Black,False,False,True,True,b'Dennis Detwiller',0.11
-Headstone,Instant,None,Homelands,Common,2,Black,False,False,True,False,b'David A. Cherry',0.1
-Ihsan's Shade,Legendary Creature,Shade Knight,Homelands,Uncommon,6,Black,False,False,True,True,b'Christopher Rush',0.22
-Irini Sengir,Legendary Creature,Vampire Dwarf,Homelands,Uncommon,4,Black,False,False,True,False,b'Pete Venters',0.19
-Koskun Falls,World Enchantment,None,Homelands,Rare,4,Black,False,False,True,False,b'Rob Alexander',3.74
-Sengir Autocrat,Creature,Human,Homelands,Uncommon,4,Black,True,False,True,True,b'David A. Cherry',0.3
-Timmerian Fiends,Creature,Horror,Homelands,Rare,3,Black,False,False,False,False,b'Mike Kimble',0.66
-Veldrane of Sengir,Legendary Creature,Human Rogue,Homelands,Rare,7,Black,False,False,True,False,b'Susan Van Camp',0.37
-Ambush,Instant,None,Homelands,Common,4,Red,False,False,True,False,b'Alan Rabinowitz',0.13
-An-Zerrin Ruins,Enchantment,None,Homelands,Rare,4,Red,False,False,True,True,b'Dennis Detwiller',1.02
-Anaba Ancestor,Creature,Minotaur Spirit,Homelands,Rare,2,Red,False,False,True,True,b'Anson Maddocks',0.51
-Anaba Spirit Crafter,Creature,Minotaur Shaman,Homelands,Rare,4,Red,False,False,True,True,b'Anson Maddocks',1.04
-Chandler,Legendary Creature,Human Rogue,Homelands,Common,5,Red,False,False,True,False,b'Douglas Shuler',0.13
-Dwarven Pony,Creature,Horse,Homelands,Rare,1,Red,False,False,True,False,b'Margaret Organ-Kean',0.5
-Dwarven Sea Clan,Creature,Dwarf,Homelands,Rare,3,Red,False,False,True,False,b'Amy Weber',0.34
-Eron the Relentless,Legendary Creature,Human Rogue,Homelands,Uncommon,5,Red,True,False,True,True,b'Christopher Rush',0.15
-Evaporate,Sorcery,None,Homelands,Uncommon,3,Red,False,False,True,False,b'Alan Rabinowitz',0.15
-Heart Wolf,Creature,Wolf,Homelands,Rare,4,Red,False,False,True,False,b'Margaret Organ-Kean',0.46
-Ironclaw Curse,Enchantment,Aura,Homelands,Rare,1,Red,False,False,True,True,b'Dennis Detwiller',0.27
-Joven,Legendary Creature,Human Rogue,Homelands,Common,5,Red,False,False,True,False,b'Douglas Shuler',0.22
-Orcish Mine,Enchantment,Aura,Homelands,Uncommon,3,Red,False,False,True,False,b'Kaja Foglio',0.1
-Retribution,Sorcery,None,Homelands,Uncommon,4,Red,False,False,True,True,b'Mark Tedin',0.19
-Winter Sky,Sorcery,None,Homelands,Rare,1,Red,False,False,True,False,b'Mike Kimble',1.27
-An-Havva Constable,Creature,Human,Homelands,Rare,3,Green,False,False,True,True,b'Dan Frazier',0.28
-An-Havva Inn,Sorcery,None,Homelands,Uncommon,3,Green,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.11
-Autumn Willow,Legendary Creature,Avatar,Homelands,Rare,6,Green,False,False,True,True,b'Margaret Organ-Kean',0.71
-Daughter of Autumn,Legendary Creature,Avatar,Homelands,Rare,4,Green,False,False,True,False,b'Margaret Organ-Kean',0.33
-Faerie Noble,Creature,Faerie Noble,Homelands,Rare,3,Green,False,False,True,True,b'Susan Van Camp',0.79
-Joven's Ferrets,Creature,Ferret,Homelands,Common,1,Green,False,False,True,True,b'Amy Weber',0.32
-Leaping Lizard,Creature,Lizard,Homelands,Common,3,Green,False,False,True,True,b'Amy Weber',0.1
-Mammoth Harness,Enchantment,Aura,Homelands,Rare,4,Green,False,False,True,False,b'Melissa A. Benson',0.42
-Primal Order,Enchantment,None,Homelands,Rare,4,Green,False,False,True,True,b'Rob Alexander',0.73
-Renewal,Sorcery,None,Homelands,Common,3,Green,False,False,True,False,b'Kaja Foglio',0.17
-Root Spider,Creature,Spider,Homelands,Uncommon,4,Green,False,False,True,False,b'Mike Kimble',0.18
-Roots,Enchantment,Aura,Homelands,Uncommon,4,Green,False,False,True,True,b'Nicola Leonard',0.14
-Rysorian Badger,Creature,Badger,Homelands,Rare,3,Green,False,False,True,False,b'Heather Hudson',0.45
-Spectral Bears,Creature,Bear Spirit,Homelands,Uncommon,2,Green,False,False,True,True,b'Pat Morrissey',0.44
-Willow Priestess,Creature,Faerie Druid,Homelands,Rare,4,Green,False,False,True,True,b'Susan Van Camp',1.29
-Apocalypse Chime,Artifact,None,Homelands,Rare,2,Colorless,False,False,True,True,b'Mark Poole',0.42
-Clockwork Gnomes,Artifact Creature,Gnome,Homelands,Common,4,Colorless,False,False,True,True,b'Douglas Shuler',0.09
-Clockwork Steed,Artifact Creature,Horse,Homelands,Common,4,Colorless,False,False,True,True,b'Amy Weber',0.12
-Clockwork Swarm,Artifact Creature,Insect,Homelands,Common,4,Colorless,False,False,True,True,b'Amy Weber',0.13
-Didgeridoo,Artifact,None,Homelands,Rare,1,Colorless,False,False,True,True,b'Melissa A. Benson',4.0
-Ebony Rhino,Artifact Creature,Rhino,Homelands,Common,7,Colorless,False,False,True,True,b'Amy Weber',0.19
-Feroz's Ban,Artifact,None,Homelands,Rare,6,Colorless,False,False,True,True,b'Heather Hudson',0.3
-Joven's Tools,Artifact,None,Homelands,Uncommon,6,Colorless,False,False,True,True,b'Nicola Leonard',0.16
-Roterothopter,Artifact Creature,Thopter,Homelands,Common,1,Colorless,False,False,True,True,b'Amy Weber',0.22
-Serrated Arrows,Artifact,None,Homelands,Common,4,Colorless,True,False,True,True,b'David A. Cherry',0.64
-An-Havva Township,Land,None,Homelands,Uncommon,0,Colorless,False,False,True,False,b'Liz Danforth',0.15
-Aysen Abbey,Land,None,Homelands,Uncommon,0,Colorless,False,False,True,False,b'Liz Danforth',0.16
-Castle Sengir,Land,None,Homelands,Uncommon,0,Colorless,False,False,True,False,b'Pete Venters',0.18
-Koskun Keep,Land,None,Homelands,Uncommon,0,Colorless,False,False,True,False,b'Pat Morrissey',0.19
-Wizards' School,Land,None,Homelands,Uncommon,0,Colorless,False,False,True,True,b'Pat Morrissey',0.13
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Abbey Gargoyles,Creature,Gargoyle,Homelands,Uncommon,5,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.14,False
+Aysen Crusader,Creature,Human Knight,Homelands,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.67,False
+Aysen Highway,Enchantment,None,Homelands,Rare,6,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'N\xc3\xa9N\xc3\xa9 Thomas',0.4,False
+Beast Walkers,Creature,Human Beast Soldier,Homelands,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.28,False
+Death Speakers,Creature,Human Cleric,Homelands,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.19,False
+Hazduhr the Abbot,Creature,Human Cleric,Homelands,Rare,5,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Frazier',0.37,True
+Leeches,Sorcery,None,Homelands,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Rabinowitz',0.72,False
+Prophecy,Sorcery,None,Homelands,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Rush',0.12,False
+Rashka the Slayer,Creature,Human Archer,Homelands,Uncommon,5,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Rush',0.15,True
+Serra Aviary,World Enchantment,None,Homelands,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Nicola Leonard',0.9,False
+Serra Bestiary,Enchantment,Aura,Homelands,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.11,False
+Serra Inquisitors,Creature,Human Cleric,Homelands,Uncommon,5,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dennis Detwiller',0.19,False
+Serra Paladin,Creature,Human Knight,Homelands,Common,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.11,False
+Soraya the Falconer,Creature,Human,Homelands,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dennis Detwiller',1.09,True
+Truce,Instant,None,Homelands,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.57,False
+Aether Storm,Enchantment,None,Homelands,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.14,False
+Baki's Curse,Sorcery,None,Homelands,Rare,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Nicola Leonard',0.33,False
+Chain Stasis,Instant,None,Homelands,Rare,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pat Morrissey',0.65,False
+Coral Reef,Enchantment,None,Homelands,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Amy Weber',0.17,False
+Forget,Sorcery,None,Homelands,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Kimble',0.26,False
+Giant Oyster,Creature,Oyster,Homelands,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Nicola Leonard',0.16,False
+Jinx,Instant,None,Homelands,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Kimble',0.11,False
+Marjhan,Creature,Serpent,Homelands,Rare,7,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.34,False
+Merchant Scroll,Sorcery,None,Homelands,Common,2,Blue,Legal,Not Legal,Legal,Restrict.,Legal,True,b'Liz Danforth',4.83,False
+Mystic Decree,World Enchantment,None,Homelands,Rare,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Liz Danforth',0.72,False
+Narwhal,Creature,Whale,Homelands,Rare,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'David A. Cherry',0.73,False
+Reveka Wizard Savant,Creature,Dwarf Wizard,Homelands,Rare,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Susan Van Camp',0.56,True
+Sea Sprite,Creature,Faerie,Homelands,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Susan Van Camp',0.24,False
+Sea Troll,Creature,Troll,Homelands,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daniel Gelon',0.15,False
+Wall of Kelp,Creature,Plant Wall,Homelands,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Rabinowitz',3.81,False
+Baron Sengir,Creature,Vampire Noble,Homelands,Rare,8,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',2.25,True
+Black Carriage,Creature,Horse,Homelands,Rare,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'David A. Cherry',0.55,False
+Broken Visage,Instant,None,Homelands,Rare,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Kimble',0.28,False
+Drudge Spell,Enchantment,None,Homelands,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'N\xc3\xa9N\xc3\xa9 Thomas',0.18,False
+Funeral March,Enchantment,Aura,Homelands,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.1,False
+Ghost Hounds,Creature,Dog Spirit,Homelands,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff A. Menges',0.12,False
+Grandmother Sengir,Creature,Human Wizard,Homelands,Rare,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.51,True
+Greater Werewolf,Creature,Werewolf,Homelands,Common,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dennis Detwiller',0.12,False
+Headstone,Instant,None,Homelands,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'David A. Cherry',0.11,False
+Ihsan's Shade,Creature,Shade Knight,Homelands,Uncommon,6,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.22,True
+Irini Sengir,Creature,Vampire Dwarf,Homelands,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.23,True
+Koskun Falls,World Enchantment,None,Homelands,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rob Alexander',4.14,False
+Sengir Autocrat,Creature,Human,Homelands,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'David A. Cherry',0.33,False
+Timmerian Fiends,Creature,Horror,Homelands,Rare,3,Black,Not Legal,Not Legal,Banned,Banned,Banned,False,b'Mike Kimble',0.61,False
+Veldrane of Sengir,Creature,Human Rogue,Homelands,Rare,7,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Susan Van Camp',0.41,True
+Ambush,Instant,None,Homelands,Common,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Rabinowitz',0.15,False
+An-Zerrin Ruins,Enchantment,None,Homelands,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dennis Detwiller',1.0,False
+Anaba Ancestor,Creature,Minotaur Spirit,Homelands,Rare,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.49,False
+Anaba Spirit Crafter,Creature,Minotaur Shaman,Homelands,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',1.07,False
+Chandler,Creature,Human Rogue,Homelands,Common,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Douglas Shuler',0.16,True
+Dwarven Pony,Creature,Horse,Homelands,Rare,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Margaret Organ-Kean',0.47,False
+Dwarven Sea Clan,Creature,Dwarf,Homelands,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Amy Weber',0.37,False
+Eron the Relentless,Creature,Human Rogue,Homelands,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.16,True
+Evaporate,Sorcery,None,Homelands,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Rabinowitz',0.13,False
+Heart Wolf,Creature,Wolf,Homelands,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Margaret Organ-Kean',0.45,False
+Ironclaw Curse,Enchantment,Aura,Homelands,Rare,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dennis Detwiller',0.37,False
+Joven,Creature,Human Rogue,Homelands,Common,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Douglas Shuler',0.21,True
+Orcish Mine,Enchantment,Aura,Homelands,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kaja Foglio',0.12,False
+Retribution,Sorcery,None,Homelands,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.22,False
+Winter Sky,Sorcery,None,Homelands,Rare,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Kimble',1.14,False
+An-Havva Constable,Creature,Human,Homelands,Rare,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.33,False
+An-Havva Inn,Sorcery,None,Homelands,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brian Sn\xc3\xb5ddy',0.15,False
+Autumn Willow,Creature,Avatar,Homelands,Rare,6,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Margaret Organ-Kean',0.72,True
+Daughter of Autumn,Creature,Avatar,Homelands,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Margaret Organ-Kean',0.37,True
+Faerie Noble,Creature,Faerie Noble,Homelands,Rare,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Susan Van Camp',0.78,False
+Joven's Ferrets,Creature,Ferret,Homelands,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.31,False
+Leaping Lizard,Creature,Lizard,Homelands,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.1,False
+Mammoth Harness,Enchantment,Aura,Homelands,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Melissa A. Benson',0.47,False
+Primal Order,Enchantment,None,Homelands,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.81,False
+Renewal,Sorcery,None,Homelands,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kaja Foglio',0.18,False
+Root Spider,Creature,Spider,Homelands,Uncommon,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Kimble',0.2,False
+Roots,Enchantment,Aura,Homelands,Uncommon,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Nicola Leonard',0.1,False
+Rysorian Badger,Creature,Badger,Homelands,Rare,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.47,False
+Spectral Bears,Creature,Bear Spirit,Homelands,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pat Morrissey',0.45,False
+Willow Priestess,Creature,Faerie Druid,Homelands,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Susan Van Camp',1.07,False
+Apocalypse Chime,Artifact,None,Homelands,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.49,False
+Clockwork Gnomes,Artifact Creature,Gnome,Homelands,Common,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.1,False
+Clockwork Steed,Artifact Creature,Horse,Homelands,Common,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.13,False
+Clockwork Swarm,Artifact Creature,Insect,Homelands,Common,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.15,False
+Didgeridoo,Artifact,None,Homelands,Rare,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',10.69,False
+Ebony Rhino,Artifact Creature,Rhino,Homelands,Common,7,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.18,False
+Feroz's Ban,Artifact,None,Homelands,Rare,6,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.33,False
+Joven's Tools,Artifact,None,Homelands,Uncommon,6,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Nicola Leonard',0.15,False
+Roterothopter,Artifact Creature,Thopter,Homelands,Common,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.26,False
+Serrated Arrows,Artifact,None,Homelands,Common,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'David A. Cherry',0.62,False
+An-Havva Township,Land,None,Homelands,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Liz Danforth',0.21,False
+Aysen Abbey,Land,None,Homelands,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Liz Danforth',0.19,False
+Castle Sengir,Land,None,Homelands,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.22,False
+Koskun Keep,Land,None,Homelands,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pat Morrissey',0.21,False
+Wizards' School,Land,None,Homelands,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pat Morrissey',0.18,False

@@ -1,144 +1,144 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Bandage,Instant,None,Stronghold,Common,1,White,True,False,True,True,b'Rebecca Guay',0.21
-Calming Licid,Creature,Licid,Stronghold,Uncommon,3,White,False,False,True,False,b'D. Alexander Gregory',0.1
-Change of Heart,Instant,None,Stronghold,Common,1,White,False,False,True,False,b'Ron Spencer',0.12
-Contemplation,Enchantment,None,Stronghold,Uncommon,3,White,False,False,True,False,b'Brom',0.22
-Conviction,Enchantment,Aura,Stronghold,Common,2,White,True,False,True,True,b'Paolo Parente',0.13
-Hidden Retreat,Enchantment,None,Stronghold,Rare,3,White,False,False,True,False,b'Terese Nielsen',0.26
-Honor Guard,Creature,Human Soldier,Stronghold,Common,1,White,True,False,True,True,b'Joel Biske',0.09
-Lancers en-Kor,Creature,Kor Soldier,Stronghold,Uncommon,5,White,False,False,True,False,b'Pete Venters',0.16
-Nomads en-Kor,Creature,Kor Nomad Soldier,Stronghold,Common,1,White,False,False,True,True,b'Val Mayerik',0.24
-Pursuit of Knowledge,Enchantment,None,Stronghold,Rare,4,White,False,False,True,False,b'DiTerlizzi',0.53
-Rolling Stones,Enchantment,None,Stronghold,Rare,2,White,True,False,True,True,b'John Matson',1.07
-Sacred Ground,Enchantment,None,Stronghold,Rare,2,White,True,False,True,True,b'Terese Nielsen',0.36
-Samite Blessing,Enchantment,Aura,Stronghold,Common,1,White,False,False,True,False,b'Rebecca Guay',0.16
-Scapegoat,Instant,None,Stronghold,Uncommon,1,White,False,False,True,False,b'Daren Bader',0.37
-Shaman en-Kor,Creature,Kor Cleric Shaman,Stronghold,Rare,2,White,False,False,True,True,b'Jeff Miracola',0.76
-Skyshroud Falcon,Creature,Bird,Stronghold,Common,2,White,False,False,True,True,b'Mike Raabe',0.09
-Smite,Instant,None,Stronghold,Common,1,White,True,False,True,True,b'Daren Bader',0.09
-Soltari Champion,Creature,Soltari Soldier,Stronghold,Rare,3,White,False,False,True,True,b'Adam Rex',1.16
-Spirit en-Kor,Creature,Kor Spirit,Stronghold,Common,4,White,False,False,True,True,b'John Matson',0.17
-Temper,Instant,None,Stronghold,Uncommon,3,White,False,False,True,False,b'Matthew D. Wilson',0.17
-Venerable Monk,Creature,Human Monk Cleric,Stronghold,Common,3,White,True,False,True,True,b'Terese Nielsen',0.08
-Wall of Essence,Creature,Wall,Stronghold,Uncommon,2,White,True,False,True,True,b'Adam Rex',0.31
-Warrior en-Kor,Creature,Kor Warrior Knight,Stronghold,Uncommon,2,White,False,False,True,True,b'Stephen Daniele',0.15
-Warrior Angel,Creature,Angel Warrior,Stronghold,Rare,6,White,False,False,True,False,b'Brom',0.27
-Youthful Knight,Creature,Human Knight,Stronghold,Common,2,White,True,True,True,True,b'Rebecca Guay',0.07
-Cloud Spirit,Creature,Spirit,Stronghold,Common,3,Blue,False,False,True,True,b'Randy Gallegos',0.06
-Contempt,Enchantment,Aura,Stronghold,Common,2,Blue,False,False,True,False,b'Val Mayerik',0.12
-Dream Halls,Enchantment,None,Stronghold,Rare,5,Blue,False,False,True,True,b'Matthew D. Wilson',11.05
-Dream Prowler,Creature,Illusion,Stronghold,Common,4,Blue,True,False,True,True,b'Richard Kane Ferguson',0.08
-Evacuation,Instant,None,Stronghold,Rare,5,Blue,True,False,True,True,b'Rob Alexander',3.68
-Gliding Licid,Creature,Licid,Stronghold,Uncommon,3,Blue,False,False,True,False,b'Heather Hudson',0.1
-Hammerhead Shark,Creature,Shark,Stronghold,Common,2,Blue,False,False,True,True,b'Stephen Daniele',0.09
-Hesitation,Enchantment,None,Stronghold,Uncommon,2,Blue,False,False,True,False,b'Pete Venters',0.28
-Intruder Alarm,Enchantment,None,Stronghold,Rare,3,Blue,True,False,True,True,b'Donato Giancola',11.29
-Leap,Instant,None,Stronghold,Common,1,Blue,False,False,True,False,b'Kev Walker',0.24
-Mana Leak,Instant,None,Stronghold,Common,2,Blue,True,False,True,True,b'Christopher Rush',0.33
-Mask of the Mimic,Instant,None,Stronghold,Uncommon,1,Blue,False,False,True,False,b'Heather Hudson',0.21
-Mind Games,Instant,None,Stronghold,Common,1,Blue,False,False,True,False,b'Andrew Robinson',0.14
-Ransack,Sorcery,None,Stronghold,Uncommon,4,Blue,False,False,True,True,b'Ron Spencer',0.11
-Rebound,Instant,None,Stronghold,Uncommon,2,Blue,False,False,True,False,b'Doug Chaffee',0.14
-Reins of Power,Instant,None,Stronghold,Rare,4,Blue,False,False,True,True,b'Colin MacNeil',1.31
-Sift,Sorcery,None,Stronghold,Common,4,Blue,True,False,True,True,b'Pete Venters',0.11
-Silver Wyvern,Creature,Drake,Stronghold,Rare,5,Blue,False,False,True,True,b'Colin MacNeil',0.78
-Spindrift Drake,Creature,Drake,Stronghold,Common,1,Blue,False,False,True,False,b'Anthony S. Waters',0.08
-Thalakos Deceiver,Creature,Thalakos Wizard,Stronghold,Rare,4,Blue,False,False,True,False,b'Andrew Robinson',2.45
-Tidal Surge,Sorcery,None,Stronghold,Common,2,Blue,False,False,True,True,b'Doug Chaffee',0.08
-Tidal Warrior,Creature,Merfolk Warrior,Stronghold,Common,1,Blue,False,False,True,True,b'Daren Bader',0.12
-Volrath's Shapeshifter,Creature,Shapeshifter,Stronghold,Rare,3,Blue,False,False,True,True,b'Ron Spencer',1.63
-Walking Dream,Creature,Illusion,Stronghold,Uncommon,4,Blue,False,False,True,False,b'Richard Kane Ferguson',0.11
-Wall of Tears,Creature,Wall,Stronghold,Uncommon,2,Blue,False,False,True,False,b'Rebecca Guay',1.03
-Bottomless Pit,Enchantment,None,Stronghold,Uncommon,3,Black,False,False,True,False,b'Kev Walker',0.52
-Brush with Death,Sorcery,None,Stronghold,Common,3,Black,False,False,True,False,b'Stephen Daniele',0.09
-Cannibalize,Sorcery,None,Stronghold,Common,2,Black,False,False,True,True,b'Robert Bliss',0.14
-Corrupting Licid,Creature,Licid,Stronghold,Uncommon,3,Black,False,False,True,False,b'Thomas M. Baxa',0.09
-Crovax the Cursed,Legendary Creature,Vampire Noble,Stronghold,Rare,4,Black,False,False,True,True,b'Pete Venters',0.77
-Dauthi Trapper,Creature,Dauthi Minion,Stronghold,Uncommon,3,Black,False,False,True,False,b'Thomas M. Baxa',0.23
-Death Stroke,Sorcery,None,Stronghold,Common,2,Black,False,False,True,True,b'Colin MacNeil',0.1
-Dungeon Shade,Creature,Shade Spirit,Stronghold,Common,4,Black,False,False,True,True,b'Jason Alexander Behnke',0.07
-Foul Imp,Creature,Imp,Stronghold,Common,2,Black,True,False,True,True,b'Jim Nelson',0.06
-Grave Pact,Enchantment,None,Stronghold,Rare,4,Black,True,False,True,True,b'Scott Kirschner',13.84
-Lab Rats,Sorcery,None,Stronghold,Common,1,Black,False,False,True,True,b'DiTerlizzi',0.18
-Megrim,Enchantment,None,Stronghold,Uncommon,3,Black,True,False,True,True,b'Donato Giancola',0.41
-Mind Peel,Sorcery,None,Stronghold,Uncommon,1,Black,False,False,True,False,b'Adam Rex',0.14
-Mindwarper,Creature,Spirit,Stronghold,Rare,4,Black,False,False,True,False,b'Paolo Parente',0.19
-Morgue Thrull,Creature,Thrull,Stronghold,Common,3,Black,False,False,True,False,b'Robert Bliss',0.08
-Mortuary,Enchantment,None,Stronghold,Rare,4,Black,False,False,True,False,b'Robert Bliss',1.04
-Rabid Rats,Creature,Rat,Stronghold,Common,2,Black,False,False,True,False,b'Matthew D. Wilson',0.14
-Revenant,Creature,Spirit,Stronghold,Rare,5,Black,True,False,True,True,b'Terese Nielsen',0.23
-Serpent Warrior,Creature,Snake Warrior,Stronghold,Common,3,Black,True,False,True,True,b'Ron Spencer',0.06
-Skeleton Scavengers,Creature,Skeleton,Stronghold,Rare,3,Black,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.23
-Stronghold Assassin,Creature,Zombie Assassin,Stronghold,Rare,3,Black,False,False,True,True,b'Matthew D. Wilson',0.66
-Stronghold Taskmaster,Creature,Giant Minion,Stronghold,Uncommon,4,Black,False,False,True,False,b'Brom',0.08
-Torment,Enchantment,Aura,Stronghold,Common,2,Black,False,False,True,False,b'Paolo Parente',0.07
-Tortured Existence,Enchantment,None,Stronghold,Common,1,Black,False,False,True,False,b'Keith Parkinson',0.75
-Wall of Souls,Creature,Wall,Stronghold,Uncommon,2,Black,False,False,True,True,b'John Matson',0.77
-Amok,Enchantment,None,Stronghold,Rare,2,Red,False,False,True,False,b'Dermot Power',0.17
-Convulsing Licid,Creature,Licid,Stronghold,Uncommon,3,Red,False,False,True,False,b'Scott Kirschner',0.08
-Craven Giant,Creature,Giant,Stronghold,Common,3,Red,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.05
-Duct Crawler,Creature,Insect,Stronghold,Common,1,Red,True,False,True,True,b'Stephen Daniele',0.07
-Fanning the Flames,Sorcery,None,Stronghold,Uncommon,3,Red,False,False,True,True,b'Ron Spencer',0.38
-Flame Wave,Sorcery,None,Stronghold,Uncommon,7,Red,True,False,True,True,b'Donato Giancola',0.14
-Fling,Instant,None,Stronghold,Common,2,Red,True,True,True,True,b'Paolo Parente',0.2
-Flowstone Blade,Enchantment,Aura,Stronghold,Common,1,Red,False,False,True,True,b'Allen Williams',0.06
-Flowstone Hellion,Creature,Hellion Beast,Stronghold,Uncommon,5,Red,False,False,True,True,b'Daren Bader',0.1
-Flowstone Mauler,Creature,Beast,Stronghold,Rare,6,Red,False,False,True,True,b'Paolo Parente',0.16
-Flowstone Shambler,Creature,Beast,Stronghold,Common,3,Red,True,False,True,True,b'Jim Nelson',0.07
-Furnace Spirit,Creature,Spirit,Stronghold,Common,3,Red,False,False,True,False,b'Jeff Miracola',0.09
-Heat of Battle,Enchantment,None,Stronghold,Uncommon,2,Red,False,False,True,False,b'Matthew D. Wilson',0.18
-Invasion Plans,Enchantment,None,Stronghold,Rare,3,Red,False,False,True,False,b'Pete Venters',0.47
-Mob Justice,Sorcery,None,Stronghold,Common,2,Red,False,False,True,False,b'Ron Spencer',0.42
-Mogg Bombers,Creature,Goblin,Stronghold,Common,4,Red,False,False,True,False,b'Dermot Power',0.1
-Mogg Flunkies,Creature,Goblin,Stronghold,Common,2,Red,True,False,True,True,b'Brom',0.15
-Mogg Infestation,Sorcery,None,Stronghold,Rare,5,Red,False,False,True,True,b'Pete Venters',5.76
-Mogg Maniac,Creature,Goblin,Stronghold,Uncommon,2,Red,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.5
-Ruination,Sorcery,None,Stronghold,Rare,4,Red,False,False,True,True,b'Dermot Power',4.71
-Seething Anger,Sorcery,None,Stronghold,Common,1,Red,False,False,True,True,b'Val Mayerik',0.24
-Shard Phoenix,Creature,Phoenix,Stronghold,Rare,5,Red,True,False,True,True,b'Paolo Parente',0.26
-Shock,Instant,None,Stronghold,Common,1,Red,True,True,True,True,b'Randy Gallegos',0.27
-Spitting Hydra,Creature,Hydra,Stronghold,Rare,5,Red,False,False,True,True,b'Daren Bader',0.22
-Wall of Razors,Creature,Wall,Stronghold,Uncommon,2,Red,False,False,True,False,b'Michael Sutfin',0.24
-Awakening,Enchantment,None,Stronghold,Rare,4,Green,False,False,True,False,b'Dan Frazier',3.93
-Burgeoning,Enchantment,None,Stronghold,Rare,1,Green,False,False,True,True,b'Randy Gallegos',12.7
-Carnassid,Creature,Beast,Stronghold,Rare,6,Green,False,False,True,True,b'Brom',0.16
-Constant Mists,Instant,None,Stronghold,Uncommon,2,Green,False,False,True,True,b'Dermot Power',4.93
-Crossbow Ambush,Instant,None,Stronghold,Common,1,Green,False,False,True,False,b'Kev Walker',0.09
-Elven Rite,Sorcery,None,Stronghold,Uncommon,2,Green,False,False,True,True,b'Jeff Miracola',0.14
-Endangered Armodon,Creature,Elephant,Stronghold,Common,4,Green,False,False,True,True,b'Kev Walker',0.06
-Hermit Druid,Creature,Human Druid,Stronghold,Rare,2,Green,False,False,True,True,b'Heather Hudson',10.09
-Lowland Basilisk,Creature,Basilisk,Stronghold,Common,3,Green,False,False,True,True,b'Randy Gallegos',0.1
-Mulch,Sorcery,None,Stronghold,Common,2,Green,True,False,True,True,b'Rebecca Guay',0.17
-Overgrowth,Enchantment,Aura,Stronghold,Common,3,Green,True,False,True,True,b'Rob Alexander',0.29
-Primal Rage,Enchantment,None,Stronghold,Uncommon,2,Green,True,False,True,True,b'Brian Sn\xc3\xb5ddy',1.43
-Provoke,Instant,None,Stronghold,Common,2,Green,False,False,True,True,b'Terese Nielsen',0.12
-Skyshroud Archer,Creature,Elf Archer,Stronghold,Common,1,Green,False,False,True,False,b'Jeff Miracola',0.1
-Skyshroud Troopers,Creature,Elf Druid Warrior,Stronghold,Common,4,Green,False,False,True,False,b'DiTerlizzi',0.12
-Spike Breeder,Creature,Spike,Stronghold,Rare,4,Green,False,False,True,True,b'Adam Rex',0.14
-Spike Colony,Creature,Spike,Stronghold,Common,5,Green,False,False,True,True,b'Douglas Shuler',0.08
-Spike Feeder,Creature,Spike,Stronghold,Uncommon,3,Green,True,False,True,True,b'Heather Hudson',2.33
-Spike Soldier,Creature,Spike Soldier,Stronghold,Uncommon,4,Green,False,False,True,False,b'Randy Elliott',0.09
-Spike Worker,Creature,Spike,Stronghold,Common,3,Green,False,False,True,True,b'Daniel Gelon',0.08
-Spined Wurm,Creature,Wurm,Stronghold,Common,5,Green,True,False,True,True,b'Keith Parkinson',0.08
-Tempting Licid,Creature,Licid,Stronghold,Uncommon,3,Green,False,False,True,False,b'Randy Gallegos',0.21
-Verdant Touch,Sorcery,None,Stronghold,Rare,2,Green,False,False,True,True,b'M. W. Kaluta',0.2
-Volrath's Gardens,Enchantment,None,Stronghold,Rare,2,Green,False,False,True,False,b'Rob Alexander',0.16
-Wall of Blossoms,Creature,Plant Wall,Stronghold,Uncommon,2,Green,True,False,True,True,b'Heather Hudson',1.02
-Acidic Sliver,Creature,Sliver,Stronghold,Uncommon,2,Gold,False,False,True,True,b'Jeff Miracola',0.38
-Crystalline Sliver,Creature,Sliver,Stronghold,Uncommon,2,Gold,False,False,True,True,b'Allen Williams',5.21
-Hibernation Sliver,Creature,Sliver,Stronghold,Uncommon,2,Gold,False,False,True,True,b'Scott Kirschner',2.01
-Sliver Queen,Legendary Creature,Sliver,Stronghold,Rare,5,Gold,False,False,True,True,b'Ron Spencer',97.81
-Spined Sliver,Creature,Sliver,Stronghold,Uncommon,2,Gold,True,False,True,True,b'Ron Spencer',0.32
-Victual Sliver,Creature,Sliver,Stronghold,Uncommon,2,Gold,False,False,True,True,b'Terese Nielsen',0.32
-Bullwhip,Artifact,None,Stronghold,Uncommon,4,Colorless,False,False,True,False,b'Brom',0.17
-Ensnaring Bridge,Artifact,None,Stronghold,Rare,3,Colorless,True,False,True,True,b'Pete Venters',23.62
-Heartstone,Artifact,None,Stronghold,Uncommon,3,Colorless,False,False,True,True,b'John Matson',2.86
-Horn of Greed,Artifact,None,Stronghold,Rare,3,Colorless,False,False,True,True,b'Jeff Miracola',3.26
-Hornet Cannon,Artifact,None,Stronghold,Uncommon,4,Colorless,False,False,True,True,b'Ron Spencer',0.09
-Jinxed Ring,Artifact,None,Stronghold,Rare,2,Colorless,False,False,True,False,b'M. W. Kaluta',0.4
-Mox Diamond,Artifact,None,Stronghold,Rare,0,Colorless,False,False,True,True,b'Dan Frazier',71.79
-Portcullis,Artifact,None,Stronghold,Rare,4,Colorless,False,False,True,False,b'Kev Walker',0.9
-Shifting Wall,Artifact Creature,Wall,Stronghold,Uncommon,1,Colorless,False,False,True,False,b'Michael Sutfin',0.75
-Sword of the Chosen,Legendary Artifact,None,Stronghold,Rare,2,Colorless,False,False,True,False,b'Adam Rex',0.56
-Volrath's Laboratory,Artifact,None,Stronghold,Rare,5,Colorless,False,False,True,True,b'Brom',0.43
-Volrath's Stronghold,Legendary Land,None,Stronghold,Rare,0,Colorless,False,False,True,True,b'Kev Walker',40.27
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Bandage,Instant,None,Stronghold,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',0.23,False
+Calming Licid,Creature,Licid,Stronghold,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'D. Alexander Gregory',0.12,False
+Change of Heart,Instant,None,Stronghold,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.11,False
+Contemplation,Enchantment,None,Stronghold,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brom',0.23,False
+Conviction,Enchantment,Aura,Stronghold,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.13,False
+Hidden Retreat,Enchantment,None,Stronghold,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.29,False
+Honor Guard,Creature,Human Soldier,Stronghold,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Joel Biske',0.09,False
+Lancers en-Kor,Creature,Kor Soldier,Stronghold,Uncommon,5,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.13,False
+Nomads en-Kor,Creature,Kor Nomad Soldier,Stronghold,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Val Mayerik',0.24,False
+Pursuit of Knowledge,Enchantment,None,Stronghold,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'DiTerlizzi',0.58,False
+Rolling Stones,Enchantment,None,Stronghold,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',1.11,False
+Sacred Ground,Enchantment,None,Stronghold,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.42,False
+Samite Blessing,Enchantment,Aura,Stronghold,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rebecca Guay',0.13,False
+Scapegoat,Instant,None,Stronghold,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.36,False
+Shaman en-Kor,Creature,Kor Cleric Shaman,Stronghold,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.77,False
+Skyshroud Falcon,Creature,Bird,Stronghold,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Raabe',0.09,False
+Smite,Instant,None,Stronghold,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.09,False
+Soltari Champion,Creature,Soltari Soldier,Stronghold,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',1.17,False
+Spirit en-Kor,Creature,Kor Spirit,Stronghold,Common,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',0.17,False
+Temper,Instant,None,Stronghold,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Matthew D. Wilson',0.17,False
+Venerable Monk,Creature,Human Monk Cleric,Stronghold,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.1,False
+Wall of Essence,Creature,Wall,Stronghold,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',0.36,False
+Warrior en-Kor,Creature,Kor Warrior Knight,Stronghold,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Stephen Daniele',0.16,False
+Warrior Angel,Creature,Angel Warrior,Stronghold,Rare,6,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brom',0.3,False
+Youthful Knight,Creature,Human Knight,Stronghold,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Rebecca Guay',0.15,False
+Cloud Spirit,Creature,Spirit,Stronghold,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.1,False
+Contempt,Enchantment,Aura,Stronghold,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Val Mayerik',0.11,False
+Dream Halls,Enchantment,None,Stronghold,Rare,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Matthew D. Wilson',17.64,False
+Dream Prowler,Creature,Illusion,Stronghold,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Kane Ferguson',0.14,False
+Evacuation,Instant,None,Stronghold,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',3.63,False
+Gliding Licid,Creature,Licid,Stronghold,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.11,False
+Hammerhead Shark,Creature,Shark,Stronghold,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Stephen Daniele',0.12,False
+Hesitation,Enchantment,None,Stronghold,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.3,False
+Intruder Alarm,Enchantment,None,Stronghold,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',9.99,False
+Leap,Instant,None,Stronghold,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.28,False
+Mana Leak,Instant,None,Stronghold,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.36,False
+Mask of the Mimic,Instant,None,Stronghold,Uncommon,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.27,False
+Mind Games,Instant,None,Stronghold,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Andrew Robinson',0.15,False
+Ransack,Sorcery,None,Stronghold,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.1,False
+Rebound,Instant,None,Stronghold,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Doug Chaffee',0.15,False
+Reins of Power,Instant,None,Stronghold,Rare,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Colin MacNeil',1.27,False
+Sift,Sorcery,None,Stronghold,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.1,False
+Silver Wyvern,Creature,Drake,Stronghold,Rare,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Colin MacNeil',0.78,False
+Spindrift Drake,Creature,Drake,Stronghold,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony S. Waters',0.08,False
+Thalakos Deceiver,Creature,Thalakos Wizard,Stronghold,Rare,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Andrew Robinson',2.17,False
+Tidal Surge,Sorcery,None,Stronghold,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Doug Chaffee',0.07,False
+Tidal Warrior,Creature,Merfolk Warrior,Stronghold,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.14,False
+Volrath's Shapeshifter,Creature,Shapeshifter,Stronghold,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',1.68,False
+Walking Dream,Creature,Illusion,Stronghold,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Richard Kane Ferguson',0.18,False
+Wall of Tears,Creature,Wall,Stronghold,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rebecca Guay',0.96,False
+Bottomless Pit,Enchantment,None,Stronghold,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',4.65,False
+Brush with Death,Sorcery,None,Stronghold,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Stephen Daniele',0.08,False
+Cannibalize,Sorcery,None,Stronghold,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Robert Bliss',0.12,False
+Corrupting Licid,Creature,Licid,Stronghold,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.11,False
+Crovax the Cursed,Creature,Vampire Noble,Stronghold,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.74,True
+Dauthi Trapper,Creature,Dauthi Minion,Stronghold,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.27,False
+Death Stroke,Sorcery,None,Stronghold,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Colin MacNeil',0.1,False
+Dungeon Shade,Creature,Shade Spirit,Stronghold,Common,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Alexander Behnke',0.1,False
+Foul Imp,Creature,Imp,Stronghold,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Nelson',0.05,False
+Grave Pact,Enchantment,None,Stronghold,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Kirschner',15.77,False
+Lab Rats,Sorcery,None,Stronghold,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'DiTerlizzi',0.21,False
+Megrim,Enchantment,None,Stronghold,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.45,False
+Mind Peel,Sorcery,None,Stronghold,Uncommon,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Rex',0.13,False
+Mindwarper,Creature,Spirit,Stronghold,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.2,False
+Morgue Thrull,Creature,Thrull,Stronghold,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Robert Bliss',0.11,False
+Mortuary,Enchantment,None,Stronghold,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Robert Bliss',1.12,False
+Rabid Rats,Creature,Rat,Stronghold,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Matthew D. Wilson',0.14,False
+Revenant,Creature,Spirit,Stronghold,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.24,False
+Serpent Warrior,Creature,Snake Warrior,Stronghold,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.07,False
+Skeleton Scavengers,Creature,Skeleton,Stronghold,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brian Sn\xc3\xb5ddy',0.23,False
+Stronghold Assassin,Creature,Zombie Assassin,Stronghold,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Matthew D. Wilson',0.65,False
+Stronghold Taskmaster,Creature,Giant Minion,Stronghold,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brom',0.09,False
+Torment,Enchantment,Aura,Stronghold,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.06,False
+Tortured Existence,Enchantment,None,Stronghold,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Keith Parkinson',0.84,False
+Wall of Souls,Creature,Wall,Stronghold,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',0.72,False
+Amok,Enchantment,None,Stronghold,Rare,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dermot Power',0.2,False
+Convulsing Licid,Creature,Licid,Stronghold,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott Kirschner',0.09,False
+Craven Giant,Creature,Giant,Stronghold,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.06,False
+Duct Crawler,Creature,Insect,Stronghold,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Stephen Daniele',0.06,False
+Fanning the Flames,Sorcery,None,Stronghold,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.36,False
+Flame Wave,Sorcery,None,Stronghold,Uncommon,7,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.17,False
+Fling,Instant,None,Stronghold,Common,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.23,False
+Flowstone Blade,Enchantment,Aura,Stronghold,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Allen Williams',0.06,False
+Flowstone Hellion,Creature,Hellion Beast,Stronghold,Uncommon,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.1,False
+Flowstone Mauler,Creature,Beast,Stronghold,Rare,6,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.17,False
+Flowstone Shambler,Creature,Beast,Stronghold,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Nelson',0.06,False
+Furnace Spirit,Creature,Spirit,Stronghold,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Miracola',0.07,False
+Heat of Battle,Enchantment,None,Stronghold,Uncommon,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Matthew D. Wilson',0.16,False
+Invasion Plans,Enchantment,None,Stronghold,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.51,False
+Mob Justice,Sorcery,None,Stronghold,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.34,False
+Mogg Bombers,Creature,Goblin,Stronghold,Common,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dermot Power',0.1,False
+Mogg Flunkies,Creature,Goblin,Stronghold,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Brom',0.13,False
+Mogg Infestation,Sorcery,None,Stronghold,Rare,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',5.63,False
+Mogg Maniac,Creature,Goblin,Stronghold,Uncommon,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.5,False
+Ruination,Sorcery,None,Stronghold,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dermot Power',4.96,False
+Seething Anger,Sorcery,None,Stronghold,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Val Mayerik',0.23,False
+Shard Phoenix,Creature,Phoenix,Stronghold,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.27,False
+Shock,Instant,None,Stronghold,Common,1,Red,Legal,Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.29,False
+Spitting Hydra,Creature,Hydra,Stronghold,Rare,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.24,False
+Wall of Razors,Creature,Wall,Stronghold,Uncommon,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',0.26,False
+Awakening,Enchantment,None,Stronghold,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Frazier',4.44,False
+Burgeoning,Enchantment,None,Stronghold,Rare,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',14.78,False
+Carnassid,Creature,Beast,Stronghold,Rare,6,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brom',0.18,False
+Constant Mists,Instant,None,Stronghold,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dermot Power',5.28,False
+Crossbow Ambush,Instant,None,Stronghold,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.09,False
+Elven Rite,Sorcery,None,Stronghold,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.16,False
+Endangered Armodon,Creature,Elephant,Stronghold,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.06,False
+Hermit Druid,Creature,Human Druid,Stronghold,Rare,2,Green,Not Legal,Not Legal,Legal,Legal,Banned,True,b'Heather Hudson',25.19,False
+Lowland Basilisk,Creature,Basilisk,Stronghold,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.09,False
+Mulch,Sorcery,None,Stronghold,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',0.15,False
+Overgrowth,Enchantment,Aura,Stronghold,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.33,False
+Primal Rage,Enchantment,None,Stronghold,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',1.74,False
+Provoke,Instant,None,Stronghold,Common,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.11,False
+Skyshroud Archer,Creature,Elf Archer,Stronghold,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Miracola',0.09,False
+Skyshroud Troopers,Creature,Elf Druid Warrior,Stronghold,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'DiTerlizzi',0.14,False
+Spike Breeder,Creature,Spike,Stronghold,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',0.16,False
+Spike Colony,Creature,Spike,Stronghold,Common,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.07,False
+Spike Feeder,Creature,Spike,Stronghold,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',1.62,False
+Spike Soldier,Creature,Spike Soldier,Stronghold,Uncommon,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Elliott',0.1,False
+Spike Worker,Creature,Spike,Stronghold,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.08,False
+Spined Wurm,Creature,Wurm,Stronghold,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Keith Parkinson',0.1,False
+Tempting Licid,Creature,Licid,Stronghold,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Gallegos',0.22,False
+Verdant Touch,Sorcery,None,Stronghold,Rare,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'M. W. Kaluta',0.2,False
+Volrath's Gardens,Enchantment,None,Stronghold,Rare,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rob Alexander',0.17,False
+Wall of Blossoms,Creature,Plant Wall,Stronghold,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.87,False
+Acidic Sliver,Creature,Sliver,Stronghold,Uncommon,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.39,False
+Crystalline Sliver,Creature,Sliver,Stronghold,Uncommon,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Allen Williams',6.16,False
+Hibernation Sliver,Creature,Sliver,Stronghold,Uncommon,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Kirschner',2.69,False
+Sliver Queen,Creature,Sliver,Stronghold,Rare,5,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',136.02,True
+Spined Sliver,Creature,Sliver,Stronghold,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.38,False
+Victual Sliver,Creature,Sliver,Stronghold,Uncommon,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.38,False
+Bullwhip,Artifact,None,Stronghold,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brom',0.18,False
+Ensnaring Bridge,Artifact,None,Stronghold,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',23.05,False
+Heartstone,Artifact,None,Stronghold,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',3.07,False
+Horn of Greed,Artifact,None,Stronghold,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',3.89,False
+Hornet Cannon,Artifact,None,Stronghold,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.12,False
+Jinxed Ring,Artifact,None,Stronghold,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'M. W. Kaluta',0.39,False
+Mox Diamond,Artifact,None,Stronghold,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',318.47,False
+Portcullis,Artifact,None,Stronghold,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.89,False
+Shifting Wall,Artifact Creature,Wall,Stronghold,Uncommon,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',0.77,False
+Sword of the Chosen,Artifact,None,Stronghold,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Rex',0.6,True
+Volrath's Laboratory,Artifact,None,Stronghold,Rare,5,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brom',0.46,False
+Volrath's Stronghold,Land,None,Stronghold,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',54.14,True

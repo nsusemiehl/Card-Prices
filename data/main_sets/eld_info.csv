@@ -1,398 +1,398 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Acclaimed Contender,Creature,Human Knight,Throne of Eldraine,Rare,3,White,True,True,True,True,b'David Gaillet',0.34
-All That Glitters,Enchantment,Aura,Throne of Eldraine,Uncommon,2,White,True,True,True,True,b'Iain McCaig',0.55
-Archon of Absolution,Creature,Archon,Throne of Eldraine,Uncommon,4,White,True,True,True,True,b'Igor Kieryluk',0.14
-Ardenvale Paladin,Creature,Human Knight,Throne of Eldraine,Common,4,White,True,True,True,True,b'Volkan Ba\xc7\xb5a',0.03
-Ardenvale Tactician,Creature,Human Knight,Throne of Eldraine,Common,3,White,True,True,True,True,b'Jason Rainville',0.04
-Bartered Cow,Creature,Ox,Throne of Eldraine,Common,4,White,True,True,True,True,b'Deruchenko Alexander',0.03
-Beloved Princess,Creature,Human Noble,Throne of Eldraine,Common,1,White,True,True,True,True,b'Howard Lyon',0.09
-Charming Prince,Creature,Human Noble,Throne of Eldraine,Rare,2,White,True,True,True,True,b'Randy Vargas',0.95
-The Circle of Loyalty,Legendary Artifact,None,Throne of Eldraine,Mythic Rare,6,White,True,True,True,True,b'Bastien L. Deharme',1.14
-Deafening Silence,Enchantment,None,Throne of Eldraine,Uncommon,1,White,True,True,True,True,b'Igor Kieryluk',0.39
-Faerie Guidemother,Creature,Faerie,Throne of Eldraine,Common,1,White,True,True,True,True,b'Mila Pesic',0.07
-Flutterfox,Creature,Fox,Throne of Eldraine,Common,2,White,True,True,True,True,b'Lucas Graciano',0.03
-Fortifying Provisions,Enchantment,None,Throne of Eldraine,Common,3,White,True,True,True,True,b'Scott Murphy',0.03
-Giant Killer,Creature,Human Peasant,Throne of Eldraine,Rare,1,White,True,True,True,True,b'Jesper Ejsing',0.34
-Glass Casket,Artifact,None,Throne of Eldraine,Uncommon,2,White,True,True,True,True,b'Anastasia Ovchinnikova',0.14
-Happily Ever After,Enchantment,None,Throne of Eldraine,Rare,3,White,True,True,True,True,b'Matt Stewart',0.2
-Harmonious Archon,Creature,Archon,Throne of Eldraine,Mythic Rare,6,White,True,True,True,True,b'Anastasia Ovchinnikova',0.5
-Hushbringer,Creature,Faerie,Throne of Eldraine,Rare,2,White,True,True,True,True,b'Bastien L. Deharme',1.06
-Knight of the Keep,Creature,Human Knight,Throne of Eldraine,Common,3,White,True,True,True,True,b'Bram Sels',0.01
-"Linden, the Steadfast Queen",Legendary Creature,Human Noble,Throne of Eldraine,Rare,3,White,True,True,True,True,b'Ryan Pancoast',0.42
-Lonesome Unicorn,Creature,Unicorn,Throne of Eldraine,Common,5,White,True,True,True,True,b'Winona Nelson',0.03
-Mysterious Pathlighter,Creature,Faerie,Throne of Eldraine,Uncommon,3,White,True,True,True,True,b'Kimonas Theodossiou',0.08
-Outflank,Instant,None,Throne of Eldraine,Common,1,White,True,True,True,True,b'Victor Adame Minguez',0.05
-Prized Griffin,Creature,Griffin,Throne of Eldraine,Common,5,White,True,True,True,True,b'Jesper Ejsing',0.01
-Rally for the Throne,Instant,None,Throne of Eldraine,Uncommon,3,White,True,True,True,True,b'James Paick',0.05
-Realm-Cloaked Giant,Creature,Giant,Throne of Eldraine,Mythic Rare,7,White,True,True,True,True,b'Adam Paquette',0.65
-Righteousness,Instant,None,Throne of Eldraine,Uncommon,1,White,True,True,True,True,b'Howard Lyon',0.08
-Shepherd of the Flock,Creature,Human Peasant,Throne of Eldraine,Uncommon,2,White,True,True,True,True,b'Drew Baker',0.08
-Shining Armor,Artifact,Equipment,Throne of Eldraine,Common,2,White,True,True,True,True,b'Eric Deschamps',0.04
-Silverflame Ritual,Sorcery,None,Throne of Eldraine,Common,4,White,True,True,True,True,b'Jason Felix',0.05
-Silverflame Squire,Creature,Human Soldier,Throne of Eldraine,Common,2,White,True,True,True,True,b'Lie Setiawan',0.02
-"Syr Alin, the Lion's Claw",Legendary Creature,Human Knight,Throne of Eldraine,Uncommon,5,White,True,True,True,True,b'Paul Scott Canavan',0.11
-Trapped in the Tower,Enchantment,Aura,Throne of Eldraine,Common,2,White,True,True,True,True,b'Howard Lyon',0.06
-True Love's Kiss,Instant,None,Throne of Eldraine,Common,4,White,True,True,True,True,b'Donato Giancola',0.05
-Venerable Knight,Creature,Human Knight,Throne of Eldraine,Uncommon,1,White,True,True,True,True,b'Colin Boyer',0.11
-Worthy Knight,Creature,Human Knight,Throne of Eldraine,Rare,2,White,True,True,True,True,b'Yongjae Choi',0.47
-Youthful Knight,Creature,Human Knight,Throne of Eldraine,Common,2,White,True,True,True,True,b'Heonhwa Choe',0.05
-Animating Faerie,Creature,Faerie,Throne of Eldraine,Uncommon,3,Blue,True,True,True,True,b'Joseph Meehan',0.12
-Brazen Borrower,Creature,Faerie Rogue,Throne of Eldraine,Mythic Rare,3,Blue,True,True,True,True,b'Eric Deschamps',10.61
-Charmed Sleep,Enchantment,Aura,Throne of Eldraine,Common,3,Blue,True,True,True,True,b'Titus Lunter',0.02
-Corridor Monitor,Artifact Creature,Construct,Throne of Eldraine,Common,2,Blue,True,True,True,True,b'Jason Felix',0.09
-Didn't Say Please,Instant,None,Throne of Eldraine,Common,3,Blue,True,True,True,True,b'Jason A. Engle',0.13
-"Emry, Lurker of the Loch",Legendary Creature,Merfolk Wizard,Throne of Eldraine,Rare,3,Blue,True,True,True,True,b'Livia Prima',1.78
-Fae of Wishes,Creature,Faerie Wizard,Throne of Eldraine,Rare,2,Blue,True,True,True,True,b'Magali Villeneuve',0.4
-Faerie Vandal,Creature,Faerie Rogue,Throne of Eldraine,Uncommon,2,Blue,True,True,True,True,b'Paul Scott Canavan',0.11
-Folio of Fancies,Artifact,None,Throne of Eldraine,Rare,2,Blue,True,True,True,True,b'Colin Boyer',0.41
-Frogify,Enchantment,Aura,Throne of Eldraine,Uncommon,2,Blue,True,True,True,True,b'Chris Seaman',0.12
-"Gadwick, the Wizened",Legendary Creature,Human Wizard,Throne of Eldraine,Rare,4,Blue,True,True,True,True,b'Colin Boyer',0.71
-Hypnotic Sprite,Creature,Faerie,Throne of Eldraine,Uncommon,2,Blue,True,True,True,True,b'Irina Nordsol',0.16
-Into the Story,Instant,None,Throne of Eldraine,Uncommon,7,Blue,True,True,True,True,b'Jason Rainville',0.17
-The Magic Mirror,Legendary Artifact,None,Throne of Eldraine,Mythic Rare,9,Blue,True,True,True,True,b'Anastasia Ovchinnikova',1.98
-Mantle of Tides,Artifact,Equipment,Throne of Eldraine,Common,1,Blue,True,True,True,True,b'Lie Setiawan',0.05
-Merfolk Secretkeeper,Creature,Merfolk Wizard,Throne of Eldraine,Common,1,Blue,True,True,True,True,b'Jana Schirmer',0.15
-Midnight Clock,Artifact,None,Throne of Eldraine,Rare,3,Blue,True,True,True,True,b'Alexander Forssberg',0.37
-Mirrormade,Enchantment,None,Throne of Eldraine,Rare,3,Blue,True,True,True,True,b'Volkan Ba\xc7\xb5a',1.34
-Mistford River Turtle,Creature,Turtle,Throne of Eldraine,Common,4,Blue,True,True,True,True,b'Milivoj \xc4\x86eran',0.03
-Moonlit Scavengers,Creature,Merfolk Rogue,Throne of Eldraine,Common,6,Blue,True,True,True,True,b'Miranda Meeks',0.01
-Mystical Dispute,Instant,None,Throne of Eldraine,Uncommon,3,Blue,True,True,True,True,b'Ekaterina Burmak',1.01
-Opt,Instant,None,Throne of Eldraine,Common,1,Blue,True,True,True,True,b'Dan Scott',0.14
-Overwhelmed Apprentice,Creature,Human Wizard,Throne of Eldraine,Uncommon,1,Blue,True,True,True,True,b'Jason Rainville',0.21
-Queen of Ice,Creature,Human Noble Wizard,Throne of Eldraine,Common,3,Blue,True,True,True,True,b'Eric Deschamps',0.03
-Run Away Together,Instant,None,Throne of Eldraine,Common,2,Blue,True,True,True,True,b'Filip Burburan',0.04
-Sage of the Falls,Creature,Merfolk Wizard,Throne of Eldraine,Uncommon,5,Blue,True,True,True,True,b'Nicholas Gregory',0.12
-So Tiny,Enchantment,Aura,Throne of Eldraine,Common,1,Blue,True,True,True,True,b'Randy Vargas',0.06
-Steelgaze Griffin,Creature,Griffin,Throne of Eldraine,Common,5,Blue,True,True,True,True,b'J.P. Targete',0.02
-Stolen by the Fae,Sorcery,None,Throne of Eldraine,Rare,3,Blue,True,True,True,True,b'Ryan Alexander Lee',0.23
-"Syr Elenora, the Discerning",Legendary Creature,Human Knight,Throne of Eldraine,Uncommon,5,Blue,True,True,True,True,b'Mila Pesic',0.08
-Tome Raider,Creature,Faerie,Throne of Eldraine,Common,3,Blue,True,True,True,True,b'Randy Vargas',0.06
-Turn into a Pumpkin,Instant,None,Throne of Eldraine,Uncommon,4,Blue,True,True,True,True,b'Vincent Proce',0.05
-Unexplained Vision,Sorcery,None,Throne of Eldraine,Common,5,Blue,True,True,True,True,b'Bram Sels',0.03
-Vantress Gargoyle,Artifact Creature,Gargoyle,Throne of Eldraine,Rare,2,Blue,True,True,True,True,b'Cristi Balanescu',0.44
-Vantress Paladin,Creature,Human Knight,Throne of Eldraine,Common,4,Blue,True,True,True,True,b'Lucas Graciano',0.02
-Wishful Merfolk,Creature,Merfolk,Throne of Eldraine,Common,2,Blue,True,True,True,True,b'Livia Prima',0.04
-Witching Well,Artifact,None,Throne of Eldraine,Common,1,Blue,True,True,True,True,b'John Avon',0.14
-"Ayara, First of Locthwain",Legendary Creature,Elf Noble,Throne of Eldraine,Rare,3,Black,True,True,True,True,b'Ryan Pancoast',1.51
-Bake into a Pie,Instant,None,Throne of Eldraine,Common,4,Black,True,True,True,True,b'Zoltan Boros',0.08
-Barrow Witches,Creature,Human Warlock,Throne of Eldraine,Common,5,Black,True,True,True,True,b'Alex Brock',0.03
-Belle of the Brawl,Creature,Human Knight,Throne of Eldraine,Uncommon,3,Black,True,True,True,True,b'Magali Villeneuve',0.11
-Blacklance Paragon,Creature,Human Knight,Throne of Eldraine,Rare,2,Black,True,True,True,True,b'Victor Adame Minguez',0.26
-Bog Naughty,Creature,Faerie,Throne of Eldraine,Uncommon,5,Black,True,True,True,True,b'Mila Pesic',0.06
-Cauldron Familiar,Creature,Cat,Throne of Eldraine,Uncommon,1,Black,True,True,True,True,b'Milivoj \xc4\x86eran',0.78
-The Cauldron of Eternity,Legendary Artifact,None,Throne of Eldraine,Mythic Rare,3,Black,True,True,True,True,b'Tomasz Jedruszek',1.0
-Cauldron's Gift,Sorcery,None,Throne of Eldraine,Uncommon,5,Black,True,True,True,True,b'Anna Steinbauer',0.09
-Clackbridge Troll,Creature,Troll,Throne of Eldraine,Rare,5,Black,True,True,True,True,b'Svetlin Velinov',0.37
-Epic Downfall,Sorcery,None,Throne of Eldraine,Uncommon,2,Black,True,True,True,True,b'Eric Deschamps',0.21
-Eye Collector,Creature,Faerie,Throne of Eldraine,Common,1,Black,True,True,True,True,b'Uriah Voth',0.06
-Festive Funeral,Instant,None,Throne of Eldraine,Common,5,Black,True,True,True,True,b'Zack Stella',0.05
-Foreboding Fruit,Sorcery,None,Throne of Eldraine,Common,3,Black,True,True,True,True,b'Drew Baker',0.07
-Forever Young,Sorcery,None,Throne of Eldraine,Common,2,Black,True,True,True,True,b'Volkan Ba\xc7\xb5a',0.09
-Foulmire Knight,Creature,Zombie Knight,Throne of Eldraine,Uncommon,1,Black,True,True,True,True,b'Alex Brock',0.13
-Giant's Skewer,Artifact,Equipment,Throne of Eldraine,Common,2,Black,True,True,True,True,b'James Paick',0.05
-Lash of Thorns,Instant,None,Throne of Eldraine,Common,1,Black,True,True,True,True,b'Jeff Simpson',0.03
-Locthwain Paladin,Creature,Human Knight,Throne of Eldraine,Common,4,Black,True,True,True,True,b'Zack Stella',0.05
-Lost Legion,Creature,Spirit Knight,Throne of Eldraine,Common,3,Black,True,True,True,True,b'Anastasia Ovchinnikova',0.03
-Malevolent Noble,Creature,Human Noble,Throne of Eldraine,Common,2,Black,True,True,True,True,b'Randy Vargas',0.02
-Memory Theft,Sorcery,None,Throne of Eldraine,Common,3,Black,True,True,True,True,b'Micah Epstein',0.02
-Murderous Rider,Creature,Zombie Knight,Throne of Eldraine,Rare,3,Black,True,True,True,True,b'Josh Hass',1.98
-Oathsworn Knight,Creature,Human Knight,Throne of Eldraine,Rare,3,Black,True,True,True,True,b'Svetlin Velinov',0.22
-Order of Midnight,Creature,Human Knight,Throne of Eldraine,Uncommon,2,Black,True,True,True,True,b'Victor Adame Minguez',0.12
-Piper of the Swarm,Creature,Human Warlock,Throne of Eldraine,Rare,2,Black,True,True,True,True,b'Irina Nordsol',0.29
-"Rankle, Master of Pranks",Legendary Creature,Faerie Rogue,Throne of Eldraine,Mythic Rare,4,Black,True,True,True,True,b'Dmitry Burmak',4.79
-Reaper of Night,Creature,Specter,Throne of Eldraine,Common,7,Black,True,True,True,True,b'Jeff Simpson',0.07
-Reave Soul,Sorcery,None,Throne of Eldraine,Common,2,Black,True,True,True,True,b'Naomi Baker',0.03
-Revenge of Ravens,Enchantment,None,Throne of Eldraine,Uncommon,4,Black,True,True,True,True,b'Dmitry Burmak',0.22
-Smitten Swordmaster,Creature,Human Knight,Throne of Eldraine,Common,2,Black,True,True,True,True,b'Taylor Ingvarsson',0.09
-Specter's Shriek,Sorcery,None,Throne of Eldraine,Uncommon,1,Black,True,True,True,True,b'Svetlin Velinov',0.11
-"Syr Konrad, the Grim",Legendary Creature,Human Knight,Throne of Eldraine,Uncommon,5,Black,True,True,True,True,b'Anna Steinbauer',0.28
-Tempting Witch,Creature,Human Warlock,Throne of Eldraine,Common,3,Black,True,True,True,True,b'Mila Pesic',0.03
-Wicked Guardian,Creature,Human Noble,Throne of Eldraine,Common,4,Black,True,True,True,True,b'Matt Stewart',0.02
-Wishclaw Talisman,Artifact,None,Throne of Eldraine,Rare,2,Black,True,True,True,True,b'Daarken',0.59
-Witch's Vengeance,Sorcery,None,Throne of Eldraine,Rare,3,Black,True,True,True,True,b'Titus Lunter',0.25
-Barge In,Instant,None,Throne of Eldraine,Common,1,Red,True,True,True,True,b'Mark Behm',0.08
-Bloodhaze Wolverine,Creature,Wolverine,Throne of Eldraine,Common,2,Red,True,True,True,True,b'Evan Shipard',0.03
-Blow Your House Down,Sorcery,None,Throne of Eldraine,Common,3,Red,True,True,True,True,b'Jenn Ravenna Tran',0.03
-Bonecrusher Giant,Creature,Giant,Throne of Eldraine,Rare,3,Red,True,True,True,True,b'Victor Adame Minguez',0.7
-Brimstone Trebuchet,Artifact Creature,Wall,Throne of Eldraine,Common,3,Red,True,True,True,True,b'Yeong-Hao Han',0.06
-Burning-Yard Trainer,Creature,Human Knight,Throne of Eldraine,Uncommon,5,Red,True,True,True,True,b'Yongjae Choi',0.05
-Claim the Firstborn,Sorcery,None,Throne of Eldraine,Uncommon,1,Red,True,True,True,True,b'Iain McCaig',0.21
-Crystal Slipper,Artifact,Equipment,Throne of Eldraine,Common,2,Red,True,True,True,True,b'Howard Lyon',0.05
-Embercleave,Legendary Artifact,Equipment,Throne of Eldraine,Mythic Rare,6,Red,True,True,True,True,b'Joe Slucher',7.7
-Embereth Paladin,Creature,Human Knight,Throne of Eldraine,Common,4,Red,True,True,True,True,b'Randy Vargas',0.03
-Embereth Shieldbreaker,Creature,Human Knight,Throne of Eldraine,Uncommon,2,Red,True,True,True,True,b'Randy Vargas',0.11
-Ferocity of the Wilds,Enchantment,None,Throne of Eldraine,Uncommon,3,Red,True,True,True,True,b'Josu Hernaiz',0.1
-Fervent Champion,Creature,Human Knight,Throne of Eldraine,Rare,1,Red,True,True,True,True,b'Steve Argyle',0.49
-Fires of Invention,Enchantment,None,Throne of Eldraine,Rare,4,Red,True,True,True,True,b'Stanton Feng',0.49
-Fling,Instant,None,Throne of Eldraine,Common,2,Red,True,True,True,True,b'Lie Setiawan',0.08
-Irencrag Feat,Sorcery,None,Throne of Eldraine,Rare,4,Red,True,True,True,True,b'Yongjae Choi',0.32
-Irencrag Pyromancer,Creature,Human Wizard,Throne of Eldraine,Rare,3,Red,True,True,True,True,b'Jason Rainville',0.37
-Joust,Sorcery,None,Throne of Eldraine,Uncommon,2,Red,True,True,True,True,b'Bram Sels',0.06
-Mad Ratter,Creature,Goblin,Throne of Eldraine,Uncommon,4,Red,True,True,True,True,b'Johann Bodin',0.13
-Merchant of the Vale,Creature,Human Peasant,Throne of Eldraine,Common,3,Red,True,True,True,True,b'David Gaillet',0.12
-Ogre Errant,Creature,Ogre Knight,Throne of Eldraine,Common,4,Red,True,True,True,True,b'Mitchell Malloy',0.04
-Opportunistic Dragon,Creature,Dragon,Throne of Eldraine,Rare,4,Red,True,True,True,True,b'Chris Rahn',0.25
-Raging Redcap,Creature,Goblin Knight,Throne of Eldraine,Common,3,Red,True,True,True,True,b'Dan Scott',0.04
-Redcap Melee,Instant,None,Throne of Eldraine,Uncommon,1,Red,True,True,True,True,b'Chris Rallis',0.16
-Redcap Raiders,Creature,Goblin Warrior,Throne of Eldraine,Common,3,Red,True,True,True,True,b'Lie Setiawan',0.02
-Rimrock Knight,Creature,Dwarf Knight,Throne of Eldraine,Common,2,Red,True,True,True,True,b'Chris Rallis',0.06
-Robber of the Rich,Creature,Human Archer Rogue,Throne of Eldraine,Mythic Rare,2,Red,True,True,True,True,b'Paul Scott Canavan',4.86
-Scorching Dragonfire,Instant,None,Throne of Eldraine,Common,2,Red,True,True,True,True,b'Eric Velhagen',0.11
-Searing Barrage,Instant,None,Throne of Eldraine,Common,5,Red,True,True,True,True,b'Allen Williams',0.03
-Seven Dwarves,Creature,Dwarf,Throne of Eldraine,Common,2,Red,True,True,True,True,b'Jason Rainville',0.17
-Skullknocker Ogre,Creature,Ogre,Throne of Eldraine,Uncommon,4,Red,True,True,True,True,b'Svetlin Velinov',0.03
-Slaying Fire,Instant,None,Throne of Eldraine,Uncommon,3,Red,True,True,True,True,b'Heonhwa Choe',0.12
-Sundering Stroke,Sorcery,None,Throne of Eldraine,Rare,7,Red,True,True,True,True,b'Stanton Feng',0.18
-"Syr Carah, the Bold",Legendary Creature,Human Knight,Throne of Eldraine,Uncommon,5,Red,True,True,True,True,b'Wisnu Tan',0.13
-Thrill of Possibility,Instant,None,Throne of Eldraine,Common,2,Red,True,True,True,True,b'Steve Argyle',0.12
-"Torbran, Thane of Red Fell",Legendary Creature,Dwarf Noble,Throne of Eldraine,Rare,4,Red,True,True,True,True,b'Grzegorz Rutkowski',0.9
-Weaselback Redcap,Creature,Goblin Knight,Throne of Eldraine,Common,1,Red,True,True,True,True,b'Grzegorz Rutkowski',0.03
-Beanstalk Giant,Creature,Giant,Throne of Eldraine,Uncommon,7,Green,True,True,True,True,b'Jason A. Engle',0.16
-Curious Pair,Creature,Human Peasant,Throne of Eldraine,Common,2,Green,True,True,True,True,b'Daarken',0.03
-Edgewall Innkeeper,Creature,Human Peasant,Throne of Eldraine,Uncommon,1,Green,True,True,True,True,b'Matt Stewart',0.14
-Feasting Troll King,Creature,Troll Noble,Throne of Eldraine,Rare,6,Green,True,True,True,True,b'Nicholas Gregory',0.28
-Fell the Pheasant,Instant,None,Throne of Eldraine,Common,2,Green,True,True,True,True,b'Randy Gallegos',0.04
-Fierce Witchstalker,Creature,Wolf,Throne of Eldraine,Common,4,Green,True,True,True,True,b'Nicholas Gregory',0.04
-Flaxen Intruder,Creature,Human Berserker,Throne of Eldraine,Uncommon,1,Green,True,True,True,True,b'Gabor Szikszai',0.08
-Garenbrig Carver,Creature,Human Warrior,Throne of Eldraine,Common,4,Green,True,True,True,True,b'Lucas Graciano',0.02
-Garenbrig Paladin,Creature,Giant Knight,Throne of Eldraine,Common,5,Green,True,True,True,True,b'Nicholas Gregory',0.02
-Garenbrig Squire,Creature,Human Soldier,Throne of Eldraine,Common,2,Green,True,True,True,True,b'Dallas Williams',0.01
-Giant Opportunity,Sorcery,None,Throne of Eldraine,Uncommon,3,Green,True,True,True,True,b'James Paick',0.12
-Gilded Goose,Creature,Bird,Throne of Eldraine,Rare,1,Green,True,True,True,True,b'Lindsey Look',2.36
-The Great Henge,Legendary Artifact,None,Throne of Eldraine,Mythic Rare,9,Green,True,True,True,True,b'Adam Paquette',18.47
-Insatiable Appetite,Instant,None,Throne of Eldraine,Common,2,Green,True,True,True,True,b'Nils Hamm',0.05
-Keeper of Fables,Creature,Cat,Throne of Eldraine,Uncommon,5,Green,True,True,True,True,b'Alex Konstad',0.13
-Kenrith's Transformation,Enchantment,Aura,Throne of Eldraine,Uncommon,2,Green,True,True,True,True,b'Kimonas Theodossiou',0.16
-Lovestruck Beast,Creature,Beast Noble,Throne of Eldraine,Rare,3,Green,True,True,True,True,b'Kev Walker',0.29
-Maraleaf Rider,Creature,Elf Knight,Throne of Eldraine,Common,2,Green,True,True,True,True,b'Kieran Yanner',0.03
-Oakhame Adversary,Creature,Elf Warrior,Throne of Eldraine,Uncommon,4,Green,True,True,True,True,b'Nicholas Gregory',0.22
-Once and Future,Instant,None,Throne of Eldraine,Uncommon,4,Green,True,True,True,True,b'Nils Hamm',0.13
-Once Upon a Time,Instant,None,Throne of Eldraine,Rare,2,Green,False,False,True,True,b'Matt Stewart',1.54
-Outmuscle,Sorcery,None,Throne of Eldraine,Common,4,Green,True,True,True,True,b'Viktor Titov',0.02
-Questing Beast,Legendary Creature,Beast,Throne of Eldraine,Mythic Rare,4,Green,True,True,True,True,b'Igor Kieryluk',10.52
-Return of the Wildspeaker,Instant,None,Throne of Eldraine,Rare,5,Green,True,True,True,True,b'Chris Rallis',1.18
-Return to Nature,Instant,None,Throne of Eldraine,Common,2,Green,True,True,True,True,b'Mark Poole',0.07
-Rosethorn Acolyte,Creature,Elf Druid,Throne of Eldraine,Common,3,Green,True,True,True,True,b'Johannes Voss',0.03
-Rosethorn Halberd,Artifact,Equipment,Throne of Eldraine,Common,1,Green,True,True,True,True,b'Kari Christensen',0.06
-Sporecap Spider,Creature,Spider,Throne of Eldraine,Common,3,Green,True,True,True,True,b'Josu Hernaiz',0.02
-"Syr Faren, the Hengehammer",Legendary Creature,Human Knight,Throne of Eldraine,Uncommon,2,Green,True,True,True,True,b'Chris Rallis',0.13
-Tall as a Beanstalk,Enchantment,Aura,Throne of Eldraine,Common,4,Green,True,True,True,True,b'Emrah Elmasli',0.03
-Trail of Crumbs,Enchantment,None,Throne of Eldraine,Uncommon,2,Green,True,True,True,True,b'Daarken',0.2
-Tuinvale Treefolk,Creature,Treefolk Druid,Throne of Eldraine,Common,6,Green,True,True,True,True,b'Jason A. Engle',0.02
-Wicked Wolf,Creature,Wolf,Throne of Eldraine,Rare,4,Green,True,True,True,True,b'Tomasz Jedruszek',0.4
-Wildborn Preserver,Creature,Elf Archer,Throne of Eldraine,Rare,2,Green,True,True,True,True,b'Lius Lasahido',0.27
-Wildwood Tracker,Creature,Elf Warrior,Throne of Eldraine,Common,1,Green,True,True,True,True,b'Titus Lunter',0.02
-Wolf's Quarry,Sorcery,None,Throne of Eldraine,Common,6,Green,True,True,True,True,b'Lars Grant-West',0.04
-"Yorvo, Lord of Garenbrig",Legendary Creature,Giant Noble,Throne of Eldraine,Rare,3,Green,True,True,True,True,b'Zack Stella',0.54
-Dance of the Manse,Sorcery,None,Throne of Eldraine,Rare,3,Gold,True,True,True,True,b'Yeong-Hao Han',0.44
-Doom Foretold,Enchantment,None,Throne of Eldraine,Rare,4,Gold,True,True,True,True,b'Daniel Ljunggren',0.36
-Drown in the Loch,Instant,None,Throne of Eldraine,Uncommon,2,Gold,True,True,True,True,b'John Stanko',0.88
-Escape to the Wilds,Sorcery,None,Throne of Eldraine,Rare,5,Gold,True,True,True,True,b'Chris Ostrowski',0.25
-Faeburrow Elder,Creature,Treefolk Druid,Throne of Eldraine,Rare,3,Gold,True,True,True,True,b'Raoul Vitale',1.55
-"Garruk, Cursed Huntsman",Legendary Planeswalker,Garruk,Throne of Eldraine,Mythic Rare,6,Gold,True,True,True,True,b'Eric Deschamps',2.57
-"Grumgully, the Generous",Legendary Creature,Goblin Shaman,Throne of Eldraine,Uncommon,3,Gold,True,True,True,True,b'Milivoj \xc4\x86eran',0.17
-Improbable Alliance,Enchantment,None,Throne of Eldraine,Uncommon,2,Gold,True,True,True,True,b'Zoltan Boros',0.17
-Inspiring Veteran,Creature,Human Knight,Throne of Eldraine,Uncommon,2,Gold,True,True,True,True,b'Scott Murphy',0.14
-Lochmere Serpent,Creature,Serpent,Throne of Eldraine,Rare,6,Gold,True,True,True,True,b'Sam Burley',0.19
-Maraleaf Pixie,Creature,Faerie,Throne of Eldraine,Uncommon,2,Gold,True,True,True,True,b'Matt Cavotta',0.13
-"Oko, Thief of Crowns",Legendary Planeswalker,Oko,Throne of Eldraine,Mythic Rare,3,Gold,False,False,True,True,b'Yongjae Choi',11.57
-Outlaws' Merriment,Enchantment,None,Throne of Eldraine,Mythic Rare,4,Gold,True,True,True,True,b'Suzanne Helmigh',0.84
-The Royal Scions,Legendary Planeswalker,Will Rowan,Throne of Eldraine,Mythic Rare,3,Gold,True,True,True,True,b'Paul Scott Canavan',4.27
-Savvy Hunter,Creature,Human Warrior,Throne of Eldraine,Uncommon,3,Gold,True,True,True,True,b'Dan Dos Santos',0.14
-Shinechaser,Creature,Faerie,Throne of Eldraine,Uncommon,3,Gold,True,True,True,True,b'Evan Shipard',0.09
-Steelclaw Lance,Artifact,Equipment,Throne of Eldraine,Uncommon,2,Gold,True,True,True,True,b'Volkan Ba\xc7\xb5a',0.1
-Stormfist Crusader,Creature,Human Knight,Throne of Eldraine,Rare,2,Gold,True,True,True,True,b'Chris Rallis',0.43
-Wandermare,Creature,Horse,Throne of Eldraine,Uncommon,3,Gold,True,True,True,True,b'Kari Christensen',0.06
-Wintermoor Commander,Creature,Human Knight,Throne of Eldraine,Uncommon,2,Gold,True,True,True,True,b'Tyler Jacobson',0.14
-Arcanist's Owl,Artifact Creature,Bird,Throne of Eldraine,Uncommon,8,Gold,True,True,True,True,b'V\xc3\xa9ronique Meignaud',0.18
-Covetous Urge,Sorcery,None,Throne of Eldraine,Uncommon,8,Gold,True,True,True,True,b'Carmen Sinek',0.1
-Deathless Knight,Creature,Skeleton Knight,Throne of Eldraine,Uncommon,8,Gold,True,True,True,True,b'Igor Kieryluk',0.14
-Elite Headhunter,Creature,Human Knight,Throne of Eldraine,Uncommon,8,Gold,True,True,True,True,b'Daarken',0.09
-Fireborn Knight,Creature,Human Knight,Throne of Eldraine,Uncommon,8,Gold,True,True,True,True,b'Ben Maier',0.06
-Loch Dragon,Creature,Dragon,Throne of Eldraine,Uncommon,8,Gold,True,True,True,True,b'Mike Bierek',0.11
-Oakhame Ranger,Creature,Elf Knight,Throne of Eldraine,Uncommon,8,Gold,True,True,True,True,b'Mitchell Malloy',0.1
-Rampart Smasher,Creature,Giant,Throne of Eldraine,Uncommon,8,Gold,True,True,True,True,b'Emrah Elmasli',0.07
-Resolute Rider,Creature,Human Knight,Throne of Eldraine,Uncommon,8,Gold,True,True,True,True,b'Carmen Sinek',0.08
-Thunderous Snapper,Creature,Turtle Hydra,Throne of Eldraine,Uncommon,8,Gold,True,True,True,True,b'Johann Bodin',0.1
-Clockwork Servant,Artifact Creature,Gnome,Throne of Eldraine,Uncommon,3,Colorless,True,True,True,True,b'David Palumbo',0.05
-Crashing Drawbridge,Artifact Creature,Wall,Throne of Eldraine,Common,2,Colorless,True,True,True,True,b'Mark Behm',0.13
-Enchanted Carriage,Artifact,Vehicle,Throne of Eldraine,Uncommon,5,Colorless,True,True,True,True,b'Zoltan Boros',0.06
-Gingerbrute,Artifact Creature,Food Golem,Throne of Eldraine,Common,1,Colorless,True,True,True,True,b'Vincent Proce',0.18
-Golden Egg,Artifact,Food,Throne of Eldraine,Common,2,Colorless,True,True,True,True,b'Lindsey Look',0.09
-Henge Walker,Artifact Creature,Golem,Throne of Eldraine,Common,3,Colorless,True,True,True,True,b'Titus Lunter',0.02
-Heraldic Banner,Artifact,None,Throne of Eldraine,Uncommon,3,Colorless,True,True,True,True,b'Jenn Ravenna Tran',0.27
-Inquisitive Puppet,Artifact Creature,Construct,Throne of Eldraine,Uncommon,1,Colorless,True,True,True,True,b'Joseph Meehan',0.06
-Jousting Dummy,Artifact Creature,Scarecrow Knight,Throne of Eldraine,Common,2,Colorless,True,True,True,True,b'Milivoj \xc4\x86eran',0.06
-Locthwain Gargoyle,Artifact Creature,Gargoyle,Throne of Eldraine,Common,1,Colorless,True,True,True,True,b'Nils Hamm',0.03
-Lucky Clover,Artifact,None,Throne of Eldraine,Uncommon,2,Colorless,True,True,True,True,b'John Stanko',0.17
-Prophet of the Peak,Artifact Creature,Cat,Throne of Eldraine,Common,6,Colorless,True,True,True,True,b'Titus Lunter',0.03
-Roving Keep,Artifact Creature,Wall,Throne of Eldraine,Common,7,Colorless,True,True,True,True,b'Svetlin Velinov',0.02
-Scalding Cauldron,Artifact,None,Throne of Eldraine,Common,1,Colorless,True,True,True,True,b'Craig J Spearing',0.02
-Shambling Suit,Artifact Creature,Construct,Throne of Eldraine,Uncommon,3,Colorless,True,True,True,True,b'Nicholas Gregory',0.08
-Signpost Scarecrow,Artifact Creature,Scarecrow,Throne of Eldraine,Common,4,Colorless,True,True,True,True,b'Jung Park',0.06
-Sorcerer's Broom,Artifact Creature,Spirit,Throne of Eldraine,Uncommon,2,Colorless,True,True,True,True,b'Jung Park',0.03
-Sorcerous Spyglass,Artifact,None,Throne of Eldraine,Rare,2,Colorless,True,True,True,True,b'Aaron Miller',0.31
-Spinning Wheel,Artifact,None,Throne of Eldraine,Uncommon,3,Colorless,True,True,True,True,b'Aaron Miller',0.13
-Stonecoil Serpent,Artifact Creature,Snake,Throne of Eldraine,Rare,1,Colorless,True,True,True,True,b'Mark Poole',2.63
-Weapon Rack,Artifact,None,Throne of Eldraine,Common,4,Colorless,True,True,True,True,b'Joe Slucher',0.03
-Witch's Oven,Artifact,None,Throne of Eldraine,Uncommon,1,Colorless,True,True,True,True,b'Alexander Forssberg',0.42
-Castle Ardenvale,Land,None,Throne of Eldraine,Rare,0,Colorless,True,True,True,True,b'Volkan Ba\xc7\xb5a',2.21
-Castle Embereth,Land,None,Throne of Eldraine,Rare,0,Colorless,True,True,True,True,b'Jaime Jones',0.45
-Castle Garenbrig,Land,None,Throne of Eldraine,Rare,0,Colorless,True,True,True,True,b'Adam Paquette',2.21
-Castle Locthwain,Land,None,Throne of Eldraine,Rare,0,Colorless,True,True,True,True,b'Titus Lunter',1.37
-Castle Vantress,Land,None,Throne of Eldraine,Rare,0,Colorless,True,True,True,True,b'John Avon',0.73
-Dwarven Mine,Land,Mountain,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Alexander Forssberg',0.13
-Fabled Passage,Land,None,Throne of Eldraine,Rare,0,Colorless,True,True,True,True,b'Howard Lyon',9.75
-Gingerbread Cabin,Land,Forest,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Chris Ostrowski',0.07
-Idyllic Grange,Land,Plains,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Howard Lyon',0.13
-Mystic Sanctuary,Land,Island,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Randy Vargas',0.46
-Tournament Grounds,Land,None,Throne of Eldraine,Uncommon,0,Colorless,True,True,True,True,b'Cristi Balanescu',0.17
-Witch's Cottage,Land,Swamp,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Gabor Szikszai',0.2
-Plains,Basic Land,Plains,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Volkan Ba\xc7\xb5a',0.16
-Plains,Basic Land,Plains,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Sidharth Chaturvedi',0.07
-Plains,Basic Land,Plains,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Alayna Danner',0.08
-Plains,Basic Land,Plains,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Howard Lyon',0.1
-Island,Basic Land,Island,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'John Avon',0.39
-Island,Basic Land,Island,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Lucas Graciano',0.07
-Island,Basic Land,Island,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Nils Hamm',0.06
-Island,Basic Land,Island,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Mark Poole',0.1
-Swamp,Basic Land,Swamp,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Paul Scott Canavan',0.36
-Swamp,Basic Land,Swamp,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Daarken',0.09
-Swamp,Basic Land,Swamp,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Victor Adame Minguez',0.09
-Swamp,Basic Land,Swamp,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Svetlin Velinov',0.1
-Mountain,Basic Land,Mountain,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Filip Burburan',0.19
-Mountain,Basic Land,Mountain,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Jesper Ejsing',0.07
-Mountain,Basic Land,Mountain,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Josu Hernaiz',0.07
-Mountain,Basic Land,Mountain,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Mark Poole',0.07
-Forest,Basic Land,Forest,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Lars Grant-West',0.4
-Forest,Basic Land,Forest,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Tomasz Jedruszek',0.07
-Forest,Basic Land,Forest,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Scott Murphy',0.08
-Forest,Basic Land,Forest,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.09
-"Garruk, Cursed Huntsman",Legendary Planeswalker,Garruk,Throne of Eldraine,Mythic Rare,6,Gold,True,True,True,True,b'Dmitry Burmak',5.22
-"Oko, Thief of Crowns",Legendary Planeswalker,Oko,Throne of Eldraine,Mythic Rare,3,Gold,False,False,True,True,b'Wesley Burt',16.74
-The Royal Scions,Legendary Planeswalker,Will Rowan,Throne of Eldraine,Mythic Rare,3,Gold,True,True,True,True,b'Howard Lyon',7.99
-Ardenvale Tactician,Creature,Human Knight,Throne of Eldraine,Common,3,White,True,True,True,True,b'Aaron Miller',0.28
-Faerie Guidemother,Creature,Faerie,Throne of Eldraine,Common,1,White,True,True,True,True,b'Chuck Lukacs',0.31
-Giant Killer,Creature,Human Peasant,Throne of Eldraine,Rare,1,White,True,True,True,True,b'Shawn Wood',0.47
-Lonesome Unicorn,Creature,Unicorn,Throne of Eldraine,Common,5,White,True,True,True,True,b'Alayna Danner',0.29
-Realm-Cloaked Giant,Creature,Giant,Throne of Eldraine,Mythic Rare,7,White,True,True,True,True,b'Alayna Danner',2.65
-Shepherd of the Flock,Creature,Human Peasant,Throne of Eldraine,Uncommon,2,White,True,True,True,True,b'Craig J Spearing',0.19
-Silverflame Squire,Creature,Human Soldier,Throne of Eldraine,Common,2,White,True,True,True,True,b'Josu Hernaiz',0.26
-Animating Faerie,Creature,Faerie,Throne of Eldraine,Uncommon,3,Blue,True,True,True,True,b'Chris Seaman',0.13
-Brazen Borrower,Creature,Faerie Rogue,Throne of Eldraine,Mythic Rare,3,Blue,True,True,True,True,b'Iris Compiet',27.46
-Fae of Wishes,Creature,Faerie Wizard,Throne of Eldraine,Rare,2,Blue,True,True,True,True,b'Wylie Beckert',0.98
-Hypnotic Sprite,Creature,Faerie,Throne of Eldraine,Uncommon,2,Blue,True,True,True,True,b'Jenn Ravenna Tran',0.24
-Merfolk Secretkeeper,Creature,Merfolk Wizard,Throne of Eldraine,Common,1,Blue,True,True,True,True,b'Allen Williams',0.57
-Queen of Ice,Creature,Human Noble Wizard,Throne of Eldraine,Common,3,Blue,True,True,True,True,b'Allen Williams',0.3
-Foulmire Knight,Creature,Zombie Knight,Throne of Eldraine,Uncommon,1,Black,True,True,True,True,b'Rebecca On',0.26
-Murderous Rider,Creature,Zombie Knight,Throne of Eldraine,Rare,3,Black,True,True,True,True,b'Jenn Ravenna Tran',4.07
-Order of Midnight,Creature,Human Knight,Throne of Eldraine,Uncommon,2,Black,True,True,True,True,b'Seb McKinnon',0.36
-Reaper of Night,Creature,Specter,Throne of Eldraine,Common,7,Black,True,True,True,True,b'Olena Richards',0.31
-Smitten Swordmaster,Creature,Human Knight,Throne of Eldraine,Common,2,Black,True,True,True,True,b'Shawn Wood',0.47
-Bonecrusher Giant,Creature,Giant,Throne of Eldraine,Rare,3,Red,True,True,True,True,b'John Severin Brassell',2.47
-Embereth Shieldbreaker,Creature,Human Knight,Throne of Eldraine,Uncommon,2,Red,True,True,True,True,b'Jeremy Wilson',0.25
-Merchant of the Vale,Creature,Human Peasant,Throne of Eldraine,Common,3,Red,True,True,True,True,b'John Severin Brassell',0.57
-Rimrock Knight,Creature,Dwarf Knight,Throne of Eldraine,Common,2,Red,True,True,True,True,b'Josu Hernaiz',0.38
-Beanstalk Giant,Creature,Giant,Throne of Eldraine,Uncommon,7,Green,True,True,True,True,b'Nick Southam',0.31
-Curious Pair,Creature,Human Peasant,Throne of Eldraine,Common,2,Green,True,True,True,True,b'Josu Hernaiz',0.21
-Flaxen Intruder,Creature,Human Berserker,Throne of Eldraine,Uncommon,1,Green,True,True,True,True,b'Omar Rayyan',0.19
-Garenbrig Carver,Creature,Human Warrior,Throne of Eldraine,Common,4,Green,True,True,True,True,b'Craig J Spearing',0.24
-Lovestruck Beast,Creature,Beast Noble,Throne of Eldraine,Rare,3,Green,True,True,True,True,b'Tyler Walpole',0.81
-Rosethorn Acolyte,Creature,Elf Druid,Throne of Eldraine,Common,3,Green,True,True,True,True,b'Wylie Beckert',0.32
-Tuinvale Treefolk,Creature,Treefolk Druid,Throne of Eldraine,Common,6,Green,True,True,True,True,b'James Arnold',0.22
-Oakhame Ranger,Creature,Elf Knight,Throne of Eldraine,Uncommon,8,Gold,True,True,True,True,b'Omar Rayyan',0.18
-"Kenrith, the Returned King",Legendary Creature,Human Noble,Throne of Eldraine,Mythic Rare,5,White,True,True,True,False,b'Kieran Yanner',3.01
-"Rowan, Fearless Sparkmage",Legendary Planeswalker,Rowan,Throne of Eldraine,Mythic Rare,5,Red,True,True,True,False,b'Zack Stella',1.01
-Garrison Griffin,Creature,Griffin,Throne of Eldraine,Common,3,White,True,True,True,False,b'Jason Kang',0.09
-Rowan's Battleguard,Creature,Human Knight,Throne of Eldraine,Uncommon,4,Red,True,True,True,False,b'Sara Winters',0.13
-Rowan's Stalwarts,Creature,Human Knight,Throne of Eldraine,Rare,5,Red,True,True,True,False,b'Deruchenko Alexander',0.19
-Wind-Scarred Crag,Land,None,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.13
-"Oko, the Trickster",Legendary Planeswalker,Oko,Throne of Eldraine,Mythic Rare,6,Gold,True,True,True,False,b'Chris Rallis',1.6
-Oko's Accomplices,Creature,Faerie,Throne of Eldraine,Common,3,Blue,True,True,True,False,b'Zezhou Chen',0.11
-Bramblefort Fink,Creature,Ouphe,Throne of Eldraine,Uncommon,2,Green,True,True,True,False,b'Uriah Voth',0.12
-Oko's Hospitality,Instant,None,Throne of Eldraine,Rare,5,Gold,True,True,True,False,b'Deruchenko Alexander',0.17
-Thornwood Falls,Land,None,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Jenn Ravenna Tran',0.15
-Mace of the Valiant,Artifact,Equipment,Throne of Eldraine,Rare,3,White,True,True,True,False,b'Aaron Miller',0.36
-Silverwing Squadron,Creature,Human Knight,Throne of Eldraine,Rare,6,White,True,True,True,False,b'Johannes Voss',0.3
-Faerie Formation,Creature,Faerie,Throne of Eldraine,Rare,5,Blue,True,True,True,False,b'Ryan Yee',0.44
-Shimmer Dragon,Creature,Dragon,Throne of Eldraine,Rare,6,Blue,True,True,True,False,b'Lie Setiawan',0.81
-Workshop Elders,Creature,Human Artificer,Throne of Eldraine,Rare,7,Blue,True,True,True,False,b'Iain McCaig',0.23
-Chittering Witch,Creature,Human Warlock,Throne of Eldraine,Rare,4,Black,True,True,True,False,b'Winona Nelson',0.3
-Taste of Death,Sorcery,None,Throne of Eldraine,Rare,6,Black,True,True,True,False,b'Chris Rallis',0.34
-Embereth Skyblazer,Creature,Human Knight,Throne of Eldraine,Rare,4,Red,True,True,True,False,b'Daarken',0.25
-Steelbane Hydra,Creature,Turtle Hydra,Throne of Eldraine,Rare,3,Green,True,True,True,False,b'Nicholas Gregory',1.74
-Thorn Mammoth,Creature,Elephant,Throne of Eldraine,Rare,7,Green,True,True,True,False,b'Svetlin Velinov',0.24
-"Alela, Artful Provocateur",Legendary Creature,Faerie Warlock,Throne of Eldraine,Mythic Rare,4,Gold,True,True,True,False,b'Grzegorz Rutkowski',1.35
-Banish into Fable,Instant,None,Throne of Eldraine,Rare,6,Gold,True,True,True,False,b'Colin Boyer',0.22
-"Chulane, Teller of Tales",Legendary Creature,Human Druid,Throne of Eldraine,Mythic Rare,5,Gold,True,True,True,False,b'Victor Adame Minguez',1.7
-Gluttonous Troll,Creature,Troll,Throne of Eldraine,Rare,4,Gold,True,True,True,False,b'Joe Slucher',0.31
-Knights' Charge,Enchantment,None,Throne of Eldraine,Rare,3,Gold,True,True,True,False,b'Paul Scott Canavan',0.59
-"Korvold, Fae-Cursed King",Legendary Creature,Dragon Noble,Throne of Eldraine,Mythic Rare,5,Gold,True,True,True,False,b'Wisnu Tan',5.25
-"Syr Gwyn, Hero of Ashvale",Legendary Creature,Human Knight,Throne of Eldraine,Mythic Rare,6,Gold,True,True,True,False,b'Lie Setiawan',0.98
-Arcane Signet,Artifact,None,Throne of Eldraine,Common,2,Colorless,True,True,True,True,b'Dan Scott',6.31
-Tome of Legends,Artifact,None,Throne of Eldraine,Rare,2,Colorless,True,True,True,False,b'Mila Pesic',0.8
-Command Tower,Land,None,Throne of Eldraine,Common,0,Colorless,True,True,True,True,b'Evan Shipard',1.01
-Acclaimed Contender,Creature,Human Knight,Throne of Eldraine,Rare,3,White,True,True,True,True,b'David Gaillet',0.98
-Charming Prince,Creature,Human Noble,Throne of Eldraine,Rare,2,White,True,True,True,True,b'Randy Vargas',2.88
-The Circle of Loyalty,Legendary Artifact,None,Throne of Eldraine,Mythic Rare,6,White,True,True,True,True,b'Bastien L. Deharme',2.74
-Happily Ever After,Enchantment,None,Throne of Eldraine,Rare,3,White,True,True,True,True,b'Matt Stewart',0.76
-Harmonious Archon,Creature,Archon,Throne of Eldraine,Mythic Rare,6,White,True,True,True,True,b'Anastasia Ovchinnikova',1.58
-Hushbringer,Creature,Faerie,Throne of Eldraine,Rare,2,White,True,True,True,True,b'Bastien L. Deharme',4.65
-"Linden, the Steadfast Queen",Legendary Creature,Human Noble,Throne of Eldraine,Rare,3,White,True,True,True,True,b'Ryan Pancoast',2.37
-Worthy Knight,Creature,Human Knight,Throne of Eldraine,Rare,2,White,True,True,True,True,b'Yongjae Choi',1.44
-"Emry, Lurker of the Loch",Legendary Creature,Merfolk Wizard,Throne of Eldraine,Rare,3,Blue,True,True,True,True,b'Livia Prima',7.92
-Folio of Fancies,Artifact,None,Throne of Eldraine,Rare,2,Blue,True,True,True,True,b'Colin Boyer',1.19
-"Gadwick, the Wizened",Legendary Creature,Human Wizard,Throne of Eldraine,Rare,4,Blue,True,True,True,True,b'Colin Boyer',2.67
-The Magic Mirror,Legendary Artifact,None,Throne of Eldraine,Mythic Rare,9,Blue,True,True,True,True,b'Anastasia Ovchinnikova',3.85
-Midnight Clock,Artifact,None,Throne of Eldraine,Rare,3,Blue,True,True,True,True,b'Alexander Forssberg',1.42
-Mirrormade,Enchantment,None,Throne of Eldraine,Rare,3,Blue,True,True,True,True,b'Volkan Ba\xc7\xb5a',3.51
-Stolen by the Fae,Sorcery,None,Throne of Eldraine,Rare,3,Blue,True,True,True,True,b'Ryan Alexander Lee',0.78
-Vantress Gargoyle,Artifact Creature,Gargoyle,Throne of Eldraine,Rare,2,Blue,True,True,True,True,b'Cristi Balanescu',1.03
-"Ayara, First of Locthwain",Legendary Creature,Elf Noble,Throne of Eldraine,Rare,3,Black,True,True,True,True,b'Ryan Pancoast',4.09
-Blacklance Paragon,Creature,Human Knight,Throne of Eldraine,Rare,2,Black,True,True,True,True,b'Victor Adame Minguez',1.48
-The Cauldron of Eternity,Legendary Artifact,None,Throne of Eldraine,Mythic Rare,3,Black,True,True,True,True,b'Tomasz Jedruszek',2.72
-Clackbridge Troll,Creature,Troll,Throne of Eldraine,Rare,5,Black,True,True,True,True,b'Svetlin Velinov',1.07
-Oathsworn Knight,Creature,Human Knight,Throne of Eldraine,Rare,3,Black,True,True,True,True,b'Svetlin Velinov',0.93
-Piper of the Swarm,Creature,Human Warlock,Throne of Eldraine,Rare,2,Black,True,True,True,True,b'Irina Nordsol',0.83
-"Rankle, Master of Pranks",Legendary Creature,Faerie Rogue,Throne of Eldraine,Mythic Rare,4,Black,True,True,True,True,b'Dmitry Burmak',8.09
-Wishclaw Talisman,Artifact,None,Throne of Eldraine,Rare,2,Black,True,True,True,True,b'Daarken',2.15
-Witch's Vengeance,Sorcery,None,Throne of Eldraine,Rare,3,Black,True,True,True,True,b'Titus Lunter',0.99
-Embercleave,Legendary Artifact,Equipment,Throne of Eldraine,Mythic Rare,6,Red,True,True,True,True,b'Joe Slucher',21.94
-Fervent Champion,Creature,Human Knight,Throne of Eldraine,Rare,1,Red,True,True,True,True,b'Steve Argyle',2.42
-Fires of Invention,Enchantment,None,Throne of Eldraine,Rare,4,Red,True,True,True,True,b'Stanton Feng',2.65
-Irencrag Feat,Sorcery,None,Throne of Eldraine,Rare,4,Red,True,True,True,True,b'Yongjae Choi',1.15
-Irencrag Pyromancer,Creature,Human Wizard,Throne of Eldraine,Rare,3,Red,True,True,True,True,b'Jason Rainville',1.04
-Opportunistic Dragon,Creature,Dragon,Throne of Eldraine,Rare,4,Red,True,True,True,True,b'Chris Rahn',0.68
-Robber of the Rich,Creature,Human Archer Rogue,Throne of Eldraine,Mythic Rare,2,Red,True,True,True,True,b'Paul Scott Canavan',7.13
-Sundering Stroke,Sorcery,None,Throne of Eldraine,Rare,7,Red,True,True,True,True,b'Stanton Feng',0.52
-"Torbran, Thane of Red Fell",Legendary Creature,Dwarf Noble,Throne of Eldraine,Rare,4,Red,True,True,True,True,b'Grzegorz Rutkowski',8.06
-Feasting Troll King,Creature,Troll Noble,Throne of Eldraine,Rare,6,Green,True,True,True,True,b'Nicholas Gregory',0.89
-Gilded Goose,Creature,Bird,Throne of Eldraine,Rare,1,Green,True,True,True,True,b'Lindsey Look',4.15
-The Great Henge,Legendary Artifact,None,Throne of Eldraine,Mythic Rare,9,Green,True,True,True,True,b'Adam Paquette',25.55
-Once Upon a Time,Instant,None,Throne of Eldraine,Rare,2,Green,False,False,True,True,b'Matt Stewart',6.33
-Questing Beast,Legendary Creature,Beast,Throne of Eldraine,Mythic Rare,4,Green,True,True,True,True,b'Igor Kieryluk',14.73
-Return of the Wildspeaker,Instant,None,Throne of Eldraine,Rare,5,Green,True,True,True,True,b'Chris Rallis',4.06
-Wicked Wolf,Creature,Wolf,Throne of Eldraine,Rare,4,Green,True,True,True,True,b'Tomasz Jedruszek',1.06
-Wildborn Preserver,Creature,Elf Archer,Throne of Eldraine,Rare,2,Green,True,True,True,True,b'Lius Lasahido',1.36
-"Yorvo, Lord of Garenbrig",Legendary Creature,Giant Noble,Throne of Eldraine,Rare,3,Green,True,True,True,True,b'Zack Stella',1.65
-Dance of the Manse,Sorcery,None,Throne of Eldraine,Rare,3,Gold,True,True,True,True,b'Yeong-Hao Han',2.04
-Doom Foretold,Enchantment,None,Throne of Eldraine,Rare,4,Gold,True,True,True,True,b'Daniel Ljunggren',2.36
-Escape to the Wilds,Sorcery,None,Throne of Eldraine,Rare,5,Gold,True,True,True,True,b'Chris Ostrowski',1.58
-Faeburrow Elder,Creature,Treefolk Druid,Throne of Eldraine,Rare,3,Gold,True,True,True,True,b'Raoul Vitale',4.82
-Lochmere Serpent,Creature,Serpent,Throne of Eldraine,Rare,6,Gold,True,True,True,True,b'Sam Burley',0.74
-Outlaws' Merriment,Enchantment,None,Throne of Eldraine,Mythic Rare,4,Gold,True,True,True,True,b'Suzanne Helmigh',2.56
-Stormfist Crusader,Creature,Human Knight,Throne of Eldraine,Rare,2,Gold,True,True,True,True,b'Chris Rallis',2.06
-Sorcerous Spyglass,Artifact,None,Throne of Eldraine,Rare,2,Colorless,True,True,True,True,b'Aaron Miller',1.3
-Stonecoil Serpent,Artifact Creature,Snake,Throne of Eldraine,Rare,1,Colorless,True,True,True,True,b'Mark Poole',5.7
-Castle Ardenvale,Land,None,Throne of Eldraine,Rare,0,Colorless,True,True,True,True,b'Volkan Ba\xc7\xb5a',4.7
-Castle Embereth,Land,None,Throne of Eldraine,Rare,0,Colorless,True,True,True,True,b'Jaime Jones',3.99
-Castle Garenbrig,Land,None,Throne of Eldraine,Rare,0,Colorless,True,True,True,True,b'Adam Paquette',6.2
-Castle Locthwain,Land,None,Throne of Eldraine,Rare,0,Colorless,True,True,True,True,b'Titus Lunter',9.71
-Castle Vantress,Land,None,Throne of Eldraine,Rare,0,Colorless,True,True,True,True,b'John Avon',7.41
-Fabled Passage,Land,None,Throne of Eldraine,Rare,0,Colorless,True,True,True,True,b'Howard Lyon',20.54
-Piper of the Swarm,Creature,Human Warlock,Throne of Eldraine,Rare,2,Black,True,True,True,True,b'Jesper Ejsing',0.19
-Glass Casket,Artifact,None,Throne of Eldraine,Uncommon,2,White,True,True,True,True,b'Anastasia Ovchinnikova',0.28
-Slaying Fire,Instant,None,Throne of Eldraine,Uncommon,3,Red,True,True,True,True,b'Heonhwa Choe',0.25
-Kenrith's Transformation,Enchantment,Aura,Throne of Eldraine,Uncommon,2,Green,True,True,True,True,b'Kimonas Theodossiou',0.43
-Improbable Alliance,Enchantment,None,Throne of Eldraine,Uncommon,2,Gold,True,True,True,True,b'Zoltan Boros',0.32
-Inspiring Veteran,Creature,Human Knight,Throne of Eldraine,Uncommon,2,Gold,True,True,True,True,b'Scott Murphy',0.38
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Acclaimed Contender,Creature,Human Knight,Throne of Eldraine,Rare,3,White,Legal,Legal,Legal,Legal,Legal,True,b'David Gaillet',0.29,False
+All That Glitters,Enchantment,Aura,Throne of Eldraine,Uncommon,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Iain McCaig',0.7,False
+Archon of Absolution,Creature,Archon,Throne of Eldraine,Uncommon,4,White,Legal,Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.12,False
+Ardenvale Paladin,Creature,Human Knight,Throne of Eldraine,Common,4,White,Legal,Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',0.06,False
+Ardenvale Tactician,Creature,Human Knight,Throne of Eldraine,Common,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Jason Rainville',0.06,False
+Bartered Cow,Creature,Ox,Throne of Eldraine,Common,4,White,Legal,Legal,Legal,Legal,Legal,True,b'Deruchenko Alexander',0.03,False
+Beloved Princess,Creature,Human Noble,Throne of Eldraine,Common,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Howard Lyon',0.06,False
+Charming Prince,Creature,Human Noble,Throne of Eldraine,Rare,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Randy Vargas',1.13,False
+The Circle of Loyalty,Artifact,None,Throne of Eldraine,Mythic Rare,6,White,Legal,Legal,Legal,Legal,Legal,True,b'Bastien L. Deharme',1.26,True
+Deafening Silence,Enchantment,None,Throne of Eldraine,Uncommon,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.38,False
+Faerie Guidemother,Creature,Faerie,Throne of Eldraine,Common,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Mila Pesic',0.06,False
+Flutterfox,Creature,Fox,Throne of Eldraine,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Lucas Graciano',0.07,False
+Fortifying Provisions,Enchantment,None,Throne of Eldraine,Common,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Scott Murphy',0.03,False
+Giant Killer,Creature,Human Peasant,Throne of Eldraine,Rare,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.3,False
+Glass Casket,Artifact,None,Throne of Eldraine,Uncommon,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Anastasia Ovchinnikova',0.12,False
+Happily Ever After,Enchantment,None,Throne of Eldraine,Rare,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.15,False
+Harmonious Archon,Creature,Archon,Throne of Eldraine,Mythic Rare,6,White,Legal,Legal,Legal,Legal,Legal,True,b'Anastasia Ovchinnikova',0.4,False
+Hushbringer,Creature,Faerie,Throne of Eldraine,Rare,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Bastien L. Deharme',1.36,False
+Knight of the Keep,Creature,Human Knight,Throne of Eldraine,Common,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Bram Sels',0.04,False
+Linden the Steadfast Queen,Creature,Human Noble,Throne of Eldraine,Rare,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Ryan Pancoast',0.37,True
+Lonesome Unicorn,Creature,Unicorn,Throne of Eldraine,Common,5,White,Legal,Legal,Legal,Legal,Legal,True,b'Winona Nelson',0.03,False
+Mysterious Pathlighter,Creature,Faerie,Throne of Eldraine,Uncommon,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Kimonas Theodossiou',0.09,False
+Outflank,Instant,None,Throne of Eldraine,Common,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Victor Adame Minguez',0.05,False
+Prized Griffin,Creature,Griffin,Throne of Eldraine,Common,5,White,Legal,Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.03,False
+Rally for the Throne,Instant,None,Throne of Eldraine,Uncommon,3,White,Legal,Legal,Legal,Legal,Legal,True,b'James Paick',0.09,False
+Realm-Cloaked Giant,Creature,Giant,Throne of Eldraine,Mythic Rare,7,White,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.63,False
+Righteousness,Instant,None,Throne of Eldraine,Uncommon,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Howard Lyon',0.1,False
+Shepherd of the Flock,Creature,Human Peasant,Throne of Eldraine,Uncommon,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Drew Baker',0.09,False
+Shining Armor,Artifact,Equipment,Throne of Eldraine,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Eric Deschamps',0.05,False
+Silverflame Ritual,Sorcery,None,Throne of Eldraine,Common,4,White,Legal,Legal,Legal,Legal,Legal,True,b'Jason Felix',0.04,False
+Silverflame Squire,Creature,Human Soldier,Throne of Eldraine,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Lie Setiawan',0.03,False
+Syr Alin the Lion's Claw,Creature,Human Knight,Throne of Eldraine,Uncommon,5,White,Legal,Legal,Legal,Legal,Legal,True,b'Paul Scott Canavan',0.09,True
+Trapped in the Tower,Enchantment,Aura,Throne of Eldraine,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Howard Lyon',0.08,False
+True Love's Kiss,Instant,None,Throne of Eldraine,Common,4,White,Legal,Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.06,False
+Venerable Knight,Creature,Human Knight,Throne of Eldraine,Uncommon,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Colin Boyer',0.14,False
+Worthy Knight,Creature,Human Knight,Throne of Eldraine,Rare,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Yongjae Choi',0.55,False
+Youthful Knight,Creature,Human Knight,Throne of Eldraine,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Heonhwa Choe',0.04,False
+Animating Faerie,Creature,Faerie,Throne of Eldraine,Uncommon,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Joseph Meehan',0.12,False
+Brazen Borrower,Creature,Faerie Rogue,Throne of Eldraine,Mythic Rare,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Eric Deschamps',12.0,False
+Charmed Sleep,Enchantment,Aura,Throne of Eldraine,Common,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Titus Lunter',0.04,False
+Corridor Monitor,Artifact Creature,Construct,Throne of Eldraine,Common,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Jason Felix',0.07,False
+Didn't Say Please,Instant,None,Throne of Eldraine,Common,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Jason A. Engle',0.14,False
+Emry Lurker of the Loch,Creature,Merfolk Wizard,Throne of Eldraine,Rare,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Livia Prima',1.82,True
+Fae of Wishes,Creature,Faerie Wizard,Throne of Eldraine,Rare,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Magali Villeneuve',0.32,False
+Faerie Vandal,Creature,Faerie Rogue,Throne of Eldraine,Uncommon,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Paul Scott Canavan',0.1,False
+Folio of Fancies,Artifact,None,Throne of Eldraine,Rare,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Colin Boyer',0.36,False
+Frogify,Enchantment,Aura,Throne of Eldraine,Uncommon,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Chris Seaman',0.08,False
+Gadwick the Wizened,Creature,Human Wizard,Throne of Eldraine,Rare,4,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Colin Boyer',0.81,True
+Hypnotic Sprite,Creature,Faerie,Throne of Eldraine,Uncommon,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Irina Nordsol',0.13,False
+Into the Story,Instant,None,Throne of Eldraine,Uncommon,7,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Jason Rainville',0.15,False
+The Magic Mirror,Artifact,None,Throne of Eldraine,Mythic Rare,9,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Anastasia Ovchinnikova',1.89,True
+Mantle of Tides,Artifact,Equipment,Throne of Eldraine,Common,1,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Lie Setiawan',0.05,False
+Merfolk Secretkeeper,Creature,Merfolk Wizard,Throne of Eldraine,Common,1,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Jana Schirmer',0.11,False
+Midnight Clock,Artifact,None,Throne of Eldraine,Rare,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Alexander Forssberg',0.4,False
+Mirrormade,Enchantment,None,Throne of Eldraine,Rare,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',1.55,False
+Mistford River Turtle,Creature,Turtle,Throne of Eldraine,Common,4,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Milivoj \xc4\x86eran',0.04,False
+Moonlit Scavengers,Creature,Merfolk Rogue,Throne of Eldraine,Common,6,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Miranda Meeks',0.03,False
+Mystical Dispute,Instant,None,Throne of Eldraine,Uncommon,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Ekaterina Burmak',1.18,False
+Opt,Instant,None,Throne of Eldraine,Common,1,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Dan Scott',0.2,False
+Overwhelmed Apprentice,Creature,Human Wizard,Throne of Eldraine,Uncommon,1,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Jason Rainville',0.22,False
+Queen of Ice,Creature,Human Noble Wizard,Throne of Eldraine,Common,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Eric Deschamps',0.03,False
+Run Away Together,Instant,None,Throne of Eldraine,Common,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Filip Burburan',0.05,False
+Sage of the Falls,Creature,Merfolk Wizard,Throne of Eldraine,Uncommon,5,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Nicholas Gregory',0.08,False
+So Tiny,Enchantment,Aura,Throne of Eldraine,Common,1,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Randy Vargas',0.06,False
+Steelgaze Griffin,Creature,Griffin,Throne of Eldraine,Common,5,Blue,Legal,Legal,Legal,Legal,Legal,True,b'J.P. Targete',0.03,False
+Stolen by the Fae,Sorcery,None,Throne of Eldraine,Rare,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Ryan Alexander Lee',0.27,False
+Syr Elenora the Discerning,Creature,Human Knight,Throne of Eldraine,Uncommon,5,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Mila Pesic',0.1,True
+Tome Raider,Creature,Faerie,Throne of Eldraine,Common,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Randy Vargas',0.07,False
+Turn into a Pumpkin,Instant,None,Throne of Eldraine,Uncommon,4,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Vincent Proce',0.07,False
+Unexplained Vision,Sorcery,None,Throne of Eldraine,Common,5,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Bram Sels',0.05,False
+Vantress Gargoyle,Artifact Creature,Gargoyle,Throne of Eldraine,Rare,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Cristi Balanescu',0.34,False
+Vantress Paladin,Creature,Human Knight,Throne of Eldraine,Common,4,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Lucas Graciano',0.04,False
+Wishful Merfolk,Creature,Merfolk,Throne of Eldraine,Common,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Livia Prima',0.04,False
+Witching Well,Artifact,None,Throne of Eldraine,Common,1,Blue,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.07,False
+Ayara First of Locthwain,Creature,Elf Noble,Throne of Eldraine,Rare,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Ryan Pancoast',1.39,True
+Bake into a Pie,Instant,None,Throne of Eldraine,Common,4,Black,Legal,Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.05,False
+Barrow Witches,Creature,Human Warlock,Throne of Eldraine,Common,5,Black,Legal,Legal,Legal,Legal,Legal,True,b'Alex Brock',0.03,False
+Belle of the Brawl,Creature,Human Knight,Throne of Eldraine,Uncommon,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Magali Villeneuve',0.1,False
+Blacklance Paragon,Creature,Human Knight,Throne of Eldraine,Rare,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Victor Adame Minguez',0.24,False
+Bog Naughty,Creature,Faerie,Throne of Eldraine,Uncommon,5,Black,Legal,Legal,Legal,Legal,Legal,True,b'Mila Pesic',0.05,False
+Cauldron Familiar,Creature,Cat,Throne of Eldraine,Uncommon,1,Black,Legal,Legal,Legal,Legal,Legal,True,b'Milivoj \xc4\x86eran',1.07,False
+The Cauldron of Eternity,Artifact,None,Throne of Eldraine,Mythic Rare,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.99,True
+Cauldron's Gift,Sorcery,None,Throne of Eldraine,Uncommon,5,Black,Legal,Legal,Legal,Legal,Legal,True,b'Anna Steinbauer',0.1,False
+Clackbridge Troll,Creature,Troll,Throne of Eldraine,Rare,5,Black,Legal,Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.36,False
+Epic Downfall,Sorcery,None,Throne of Eldraine,Uncommon,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Eric Deschamps',0.16,False
+Eye Collector,Creature,Faerie,Throne of Eldraine,Common,1,Black,Legal,Legal,Legal,Legal,Legal,True,b'Uriah Voth',0.04,False
+Festive Funeral,Instant,None,Throne of Eldraine,Common,5,Black,Legal,Legal,Legal,Legal,Legal,True,b'Zack Stella',0.02,False
+Foreboding Fruit,Sorcery,None,Throne of Eldraine,Common,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Drew Baker',0.05,False
+Forever Young,Sorcery,None,Throne of Eldraine,Common,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',0.06,False
+Foulmire Knight,Creature,Zombie Knight,Throne of Eldraine,Uncommon,1,Black,Legal,Legal,Legal,Legal,Legal,True,b'Alex Brock',0.1,False
+Giant's Skewer,Artifact,Equipment,Throne of Eldraine,Common,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'James Paick',0.05,False
+Lash of Thorns,Instant,None,Throne of Eldraine,Common,1,Black,Legal,Legal,Legal,Legal,Legal,True,b'Jeff Simpson',0.05,False
+Locthwain Paladin,Creature,Human Knight,Throne of Eldraine,Common,4,Black,Legal,Legal,Legal,Legal,Legal,True,b'Zack Stella',0.05,False
+Lost Legion,Creature,Spirit Knight,Throne of Eldraine,Common,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Anastasia Ovchinnikova',0.04,False
+Malevolent Noble,Creature,Human Noble,Throne of Eldraine,Common,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Randy Vargas',0.03,False
+Memory Theft,Sorcery,None,Throne of Eldraine,Common,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Micah Epstein',0.02,False
+Murderous Rider,Creature,Zombie Knight,Throne of Eldraine,Rare,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Josh Hass',2.28,False
+Oathsworn Knight,Creature,Human Knight,Throne of Eldraine,Rare,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.18,False
+Order of Midnight,Creature,Human Knight,Throne of Eldraine,Uncommon,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Victor Adame Minguez',0.09,False
+Piper of the Swarm,Creature,Human Warlock,Throne of Eldraine,Rare,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Irina Nordsol',0.3,False
+Rankle Master of Pranks,Creature,Faerie Rogue,Throne of Eldraine,Mythic Rare,4,Black,Legal,Legal,Legal,Legal,Legal,True,b'Dmitry Burmak',4.51,True
+Reaper of Night,Creature,Specter,Throne of Eldraine,Common,7,Black,Legal,Legal,Legal,Legal,Legal,True,b'Jeff Simpson',0.04,False
+Reave Soul,Sorcery,None,Throne of Eldraine,Common,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Naomi Baker',0.07,False
+Revenge of Ravens,Enchantment,None,Throne of Eldraine,Uncommon,4,Black,Legal,Legal,Legal,Legal,Legal,True,b'Dmitry Burmak',0.23,False
+Smitten Swordmaster,Creature,Human Knight,Throne of Eldraine,Common,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Taylor Ingvarsson',0.06,False
+Specter's Shriek,Sorcery,None,Throne of Eldraine,Uncommon,1,Black,Legal,Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.07,False
+Syr Konrad the Grim,Creature,Human Knight,Throne of Eldraine,Uncommon,5,Black,Legal,Legal,Legal,Legal,Legal,True,b'Anna Steinbauer',0.31,True
+Tempting Witch,Creature,Human Warlock,Throne of Eldraine,Common,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Mila Pesic',0.05,False
+Wicked Guardian,Creature,Human Noble,Throne of Eldraine,Common,4,Black,Legal,Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.03,False
+Wishclaw Talisman,Artifact,None,Throne of Eldraine,Rare,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Daarken',0.61,False
+Witch's Vengeance,Sorcery,None,Throne of Eldraine,Rare,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Titus Lunter',0.16,False
+Barge In,Instant,None,Throne of Eldraine,Common,1,Red,Legal,Legal,Legal,Legal,Legal,True,b'Mark Behm',0.06,False
+Bloodhaze Wolverine,Creature,Wolverine,Throne of Eldraine,Common,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Evan Shipard',0.05,False
+Blow Your House Down,Sorcery,None,Throne of Eldraine,Common,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'Jenn Ravenna Tran',0.04,False
+Bonecrusher Giant,Creature,Giant,Throne of Eldraine,Rare,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'Victor Adame Minguez',0.77,False
+Brimstone Trebuchet,Artifact Creature,Wall,Throne of Eldraine,Common,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'Yeong-Hao Han',0.07,False
+Burning-Yard Trainer,Creature,Human Knight,Throne of Eldraine,Uncommon,5,Red,Legal,Legal,Legal,Legal,Legal,True,b'Yongjae Choi',0.07,False
+Claim the Firstborn,Sorcery,None,Throne of Eldraine,Uncommon,1,Red,Legal,Legal,Legal,Legal,Legal,True,b'Iain McCaig',0.24,False
+Crystal Slipper,Artifact,Equipment,Throne of Eldraine,Common,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Howard Lyon',0.07,False
+Embercleave,Artifact,Equipment,Throne of Eldraine,Mythic Rare,6,Red,Legal,Legal,Legal,Legal,Legal,True,b'Joe Slucher',8.56,True
+Embereth Paladin,Creature,Human Knight,Throne of Eldraine,Common,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Randy Vargas',0.04,False
+Embereth Shieldbreaker,Creature,Human Knight,Throne of Eldraine,Uncommon,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Randy Vargas',0.16,False
+Ferocity of the Wilds,Enchantment,None,Throne of Eldraine,Uncommon,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'Josu Hernaiz',0.06,False
+Fervent Champion,Creature,Human Knight,Throne of Eldraine,Rare,1,Red,Legal,Legal,Legal,Legal,Legal,True,b'Steve Argyle',0.47,False
+Fires of Invention,Enchantment,None,Throne of Eldraine,Rare,4,Red,Legal,Banned,Legal,Legal,Legal,True,b'Stanton Feng',0.44,False
+Fling,Instant,None,Throne of Eldraine,Common,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Lie Setiawan',0.08,False
+Irencrag Feat,Sorcery,None,Throne of Eldraine,Rare,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Yongjae Choi',0.3,False
+Irencrag Pyromancer,Creature,Human Wizard,Throne of Eldraine,Rare,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'Jason Rainville',0.4,False
+Joust,Sorcery,None,Throne of Eldraine,Uncommon,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Bram Sels',0.08,False
+Mad Ratter,Creature,Goblin,Throne of Eldraine,Uncommon,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Johann Bodin',0.12,False
+Merchant of the Vale,Creature,Human Peasant,Throne of Eldraine,Common,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'David Gaillet',0.08,False
+Ogre Errant,Creature,Ogre Knight,Throne of Eldraine,Common,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Mitchell Malloy',0.04,False
+Opportunistic Dragon,Creature,Dragon,Throne of Eldraine,Rare,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.18,False
+Raging Redcap,Creature,Goblin Knight,Throne of Eldraine,Common,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'Dan Scott',0.05,False
+Redcap Melee,Instant,None,Throne of Eldraine,Uncommon,1,Red,Legal,Legal,Legal,Legal,Legal,True,b'Chris Rallis',0.19,False
+Redcap Raiders,Creature,Goblin Warrior,Throne of Eldraine,Common,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'Lie Setiawan',0.03,False
+Rimrock Knight,Creature,Dwarf Knight,Throne of Eldraine,Common,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Chris Rallis',0.06,False
+Robber of the Rich,Creature,Human Archer Rogue,Throne of Eldraine,Mythic Rare,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Paul Scott Canavan',5.43,False
+Scorching Dragonfire,Instant,None,Throne of Eldraine,Common,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Eric Velhagen',0.14,False
+Searing Barrage,Instant,None,Throne of Eldraine,Common,5,Red,Legal,Legal,Legal,Legal,Legal,True,b'Allen Williams',0.04,False
+Seven Dwarves,Creature,Dwarf,Throne of Eldraine,Common,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Jason Rainville',0.15,False
+Skullknocker Ogre,Creature,Ogre,Throne of Eldraine,Uncommon,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.04,False
+Slaying Fire,Instant,None,Throne of Eldraine,Uncommon,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'Heonhwa Choe',0.1,False
+Sundering Stroke,Sorcery,None,Throne of Eldraine,Rare,7,Red,Legal,Legal,Legal,Legal,Legal,True,b'Stanton Feng',0.15,False
+Syr Carah the Bold,Creature,Human Knight,Throne of Eldraine,Uncommon,5,Red,Legal,Legal,Legal,Legal,Legal,True,b'Wisnu Tan',0.14,True
+Thrill of Possibility,Instant,None,Throne of Eldraine,Common,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Steve Argyle',0.1,False
+Torbran Thane of Red Fell,Creature,Dwarf Noble,Throne of Eldraine,Rare,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Grzegorz Rutkowski',0.86,True
+Weaselback Redcap,Creature,Goblin Knight,Throne of Eldraine,Common,1,Red,Legal,Legal,Legal,Legal,Legal,True,b'Grzegorz Rutkowski',0.06,False
+Beanstalk Giant,Creature,Giant,Throne of Eldraine,Uncommon,7,Green,Legal,Legal,Legal,Legal,Legal,True,b'Jason A. Engle',0.15,False
+Curious Pair,Creature,Human Peasant,Throne of Eldraine,Common,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Daarken',0.05,False
+Edgewall Innkeeper,Creature,Human Peasant,Throne of Eldraine,Uncommon,1,Green,Legal,Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.1,False
+Feasting Troll King,Creature,Troll Noble,Throne of Eldraine,Rare,6,Green,Legal,Legal,Legal,Legal,Legal,True,b'Nicholas Gregory',0.22,False
+Fell the Pheasant,Instant,None,Throne of Eldraine,Common,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.04,False
+Fierce Witchstalker,Creature,Wolf,Throne of Eldraine,Common,4,Green,Legal,Legal,Legal,Legal,Legal,True,b'Nicholas Gregory',0.06,False
+Flaxen Intruder,Creature,Human Berserker,Throne of Eldraine,Uncommon,1,Green,Legal,Legal,Legal,Legal,Legal,True,b'Gabor Szikszai',0.08,False
+Garenbrig Carver,Creature,Human Warrior,Throne of Eldraine,Common,4,Green,Legal,Legal,Legal,Legal,Legal,True,b'Lucas Graciano',0.03,False
+Garenbrig Paladin,Creature,Giant Knight,Throne of Eldraine,Common,5,Green,Legal,Legal,Legal,Legal,Legal,True,b'Nicholas Gregory',0.02,False
+Garenbrig Squire,Creature,Human Soldier,Throne of Eldraine,Common,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Dallas Williams',0.02,False
+Giant Opportunity,Sorcery,None,Throne of Eldraine,Uncommon,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'James Paick',0.07,False
+Gilded Goose,Creature,Bird,Throne of Eldraine,Rare,1,Green,Legal,Legal,Legal,Legal,Legal,True,b'Lindsey Look',2.07,False
+The Great Henge,Artifact,None,Throne of Eldraine,Mythic Rare,9,Green,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',26.55,True
+Insatiable Appetite,Instant,None,Throne of Eldraine,Common,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.04,False
+Keeper of Fables,Creature,Cat,Throne of Eldraine,Uncommon,5,Green,Legal,Legal,Legal,Legal,Legal,True,b'Alex Konstad',0.14,False
+Kenrith's Transformation,Enchantment,Aura,Throne of Eldraine,Uncommon,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Kimonas Theodossiou',0.18,False
+Lovestruck Beast,Creature,Beast Noble,Throne of Eldraine,Rare,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Kev Walker',0.22,False
+Maraleaf Rider,Creature,Elf Knight,Throne of Eldraine,Common,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Kieran Yanner',0.04,False
+Oakhame Adversary,Creature,Elf Warrior,Throne of Eldraine,Uncommon,4,Green,Legal,Legal,Legal,Legal,Legal,True,b'Nicholas Gregory',0.22,False
+Once and Future,Instant,None,Throne of Eldraine,Uncommon,4,Green,Legal,Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.1,False
+Once Upon a Time,Instant,None,Throne of Eldraine,Rare,2,Green,Banned,Banned,Legal,Legal,Legal,True,b'Matt Stewart',1.29,False
+Outmuscle,Sorcery,None,Throne of Eldraine,Common,4,Green,Legal,Legal,Legal,Legal,Legal,True,b'Viktor Titov',0.04,False
+Questing Beast,Creature,Beast,Throne of Eldraine,Mythic Rare,4,Green,Legal,Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',14.07,True
+Return of the Wildspeaker,Instant,None,Throne of Eldraine,Rare,5,Green,Legal,Legal,Legal,Legal,Legal,True,b'Chris Rallis',2.54,False
+Return to Nature,Instant,None,Throne of Eldraine,Common,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Mark Poole',0.05,False
+Rosethorn Acolyte,Creature,Elf Druid,Throne of Eldraine,Common,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Johannes Voss',0.06,False
+Rosethorn Halberd,Artifact,Equipment,Throne of Eldraine,Common,1,Green,Legal,Legal,Legal,Legal,Legal,True,b'Kari Christensen',0.05,False
+Sporecap Spider,Creature,Spider,Throne of Eldraine,Common,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Josu Hernaiz',0.04,False
+Syr Faren the Hengehammer,Creature,Human Knight,Throne of Eldraine,Uncommon,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Chris Rallis',0.11,True
+Tall as a Beanstalk,Enchantment,Aura,Throne of Eldraine,Common,4,Green,Legal,Legal,Legal,Legal,Legal,True,b'Emrah Elmasli',0.03,False
+Trail of Crumbs,Enchantment,None,Throne of Eldraine,Uncommon,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Daarken',0.19,False
+Tuinvale Treefolk,Creature,Treefolk Druid,Throne of Eldraine,Common,6,Green,Legal,Legal,Legal,Legal,Legal,True,b'Jason A. Engle',0.03,False
+Wicked Wolf,Creature,Wolf,Throne of Eldraine,Rare,4,Green,Legal,Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.31,False
+Wildborn Preserver,Creature,Elf Archer,Throne of Eldraine,Rare,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Lius Lasahido',0.21,False
+Wildwood Tracker,Creature,Elf Warrior,Throne of Eldraine,Common,1,Green,Legal,Legal,Legal,Legal,Legal,True,b'Titus Lunter',0.04,False
+Wolf's Quarry,Sorcery,None,Throne of Eldraine,Common,6,Green,Legal,Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.03,False
+Yorvo Lord of Garenbrig,Creature,Giant Noble,Throne of Eldraine,Rare,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Zack Stella',0.56,True
+Dance of the Manse,Sorcery,None,Throne of Eldraine,Rare,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Yeong-Hao Han',0.5,False
+Doom Foretold,Enchantment,None,Throne of Eldraine,Rare,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',0.33,False
+Drown in the Loch,Instant,None,Throne of Eldraine,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'John Stanko',0.9,False
+Escape to the Wilds,Sorcery,None,Throne of Eldraine,Rare,5,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Chris Ostrowski',0.25,False
+Faeburrow Elder,Creature,Treefolk Druid,Throne of Eldraine,Rare,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Raoul Vitale',2.69,False
+Garruk Cursed Huntsman,Planeswalker,Garruk,Throne of Eldraine,Mythic Rare,6,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Eric Deschamps',2.73,True
+Grumgully the Generous,Creature,Goblin Shaman,Throne of Eldraine,Uncommon,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Milivoj \xc4\x86eran',0.17,True
+Improbable Alliance,Enchantment,None,Throne of Eldraine,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.13,False
+Inspiring Veteran,Creature,Human Knight,Throne of Eldraine,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Scott Murphy',0.1,False
+Lochmere Serpent,Creature,Serpent,Throne of Eldraine,Rare,6,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Sam Burley',0.2,False
+Maraleaf Pixie,Creature,Faerie,Throne of Eldraine,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.1,False
+Oko Thief of Crowns,Planeswalker,Oko,Throne of Eldraine,Mythic Rare,3,Gold,Banned,Banned,Legal,Legal,Legal,True,b'Yongjae Choi',14.06,True
+Outlaws' Merriment,Enchantment,None,Throne of Eldraine,Mythic Rare,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Suzanne Helmigh',1.1,False
+The Royal Scions,Planeswalker,Will Rowan,Throne of Eldraine,Mythic Rare,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Paul Scott Canavan',3.95,True
+Savvy Hunter,Creature,Human Warrior,Throne of Eldraine,Uncommon,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Dan Dos Santos',0.12,False
+Shinechaser,Creature,Faerie,Throne of Eldraine,Uncommon,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Evan Shipard',0.07,False
+Steelclaw Lance,Artifact,Equipment,Throne of Eldraine,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',0.08,False
+Stormfist Crusader,Creature,Human Knight,Throne of Eldraine,Rare,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Chris Rallis',0.48,False
+Wandermare,Creature,Horse,Throne of Eldraine,Uncommon,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Kari Christensen',0.06,False
+Wintermoor Commander,Creature,Human Knight,Throne of Eldraine,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Tyler Jacobson',0.09,False
+Arcanist's Owl,Artifact Creature,Bird,Throne of Eldraine,Uncommon,8,Gold,Legal,Legal,Legal,Legal,Legal,True,b'V\xc3\xa9ronique Meignaud',0.16,False
+Covetous Urge,Sorcery,None,Throne of Eldraine,Uncommon,8,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Carmen Sinek',0.1,False
+Deathless Knight,Creature,Skeleton Knight,Throne of Eldraine,Uncommon,8,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.12,False
+Elite Headhunter,Creature,Human Knight,Throne of Eldraine,Uncommon,8,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Daarken',0.07,False
+Fireborn Knight,Creature,Human Knight,Throne of Eldraine,Uncommon,8,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Ben Maier',0.08,False
+Loch Dragon,Creature,Dragon,Throne of Eldraine,Uncommon,8,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Mike Bierek',0.11,False
+Oakhame Ranger,Creature,Elf Knight,Throne of Eldraine,Uncommon,8,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Mitchell Malloy',0.08,False
+Rampart Smasher,Creature,Giant,Throne of Eldraine,Uncommon,8,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Emrah Elmasli',0.07,False
+Resolute Rider,Creature,Human Knight,Throne of Eldraine,Uncommon,8,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Carmen Sinek',0.11,False
+Thunderous Snapper,Creature,Turtle Hydra,Throne of Eldraine,Uncommon,8,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Johann Bodin',0.08,False
+Clockwork Servant,Artifact Creature,Gnome,Throne of Eldraine,Uncommon,3,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'David Palumbo',0.07,False
+Crashing Drawbridge,Artifact Creature,Wall,Throne of Eldraine,Common,2,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Behm',0.14,False
+Enchanted Carriage,Artifact,Vehicle,Throne of Eldraine,Uncommon,5,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.07,False
+Gingerbrute,Artifact Creature,Food Golem,Throne of Eldraine,Common,1,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Vincent Proce',0.19,False
+Golden Egg,Artifact,Food,Throne of Eldraine,Common,2,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Lindsey Look',0.09,False
+Henge Walker,Artifact Creature,Golem,Throne of Eldraine,Common,3,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Titus Lunter',0.03,False
+Heraldic Banner,Artifact,None,Throne of Eldraine,Uncommon,3,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jenn Ravenna Tran',0.32,False
+Inquisitive Puppet,Artifact Creature,Construct,Throne of Eldraine,Uncommon,1,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Joseph Meehan',0.07,False
+Jousting Dummy,Artifact Creature,Scarecrow Knight,Throne of Eldraine,Common,2,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Milivoj \xc4\x86eran',0.04,False
+Locthwain Gargoyle,Artifact Creature,Gargoyle,Throne of Eldraine,Common,1,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.06,False
+Lucky Clover,Artifact,None,Throne of Eldraine,Uncommon,2,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Stanko',0.1,False
+Prophet of the Peak,Artifact Creature,Cat,Throne of Eldraine,Common,6,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Titus Lunter',0.03,False
+Roving Keep,Artifact Creature,Wall,Throne of Eldraine,Common,7,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.03,False
+Scalding Cauldron,Artifact,None,Throne of Eldraine,Common,1,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Craig J Spearing',0.04,False
+Shambling Suit,Artifact Creature,Construct,Throne of Eldraine,Uncommon,3,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Nicholas Gregory',0.1,False
+Signpost Scarecrow,Artifact Creature,Scarecrow,Throne of Eldraine,Common,4,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jung Park',0.04,False
+Sorcerer's Broom,Artifact Creature,Spirit,Throne of Eldraine,Uncommon,2,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jung Park',0.05,False
+Sorcerous Spyglass,Artifact,None,Throne of Eldraine,Rare,2,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Aaron Miller',0.31,False
+Spinning Wheel,Artifact,None,Throne of Eldraine,Uncommon,3,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Aaron Miller',0.12,False
+Stonecoil Serpent,Artifact Creature,Snake,Throne of Eldraine,Rare,1,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Poole',5.53,False
+Weapon Rack,Artifact,None,Throne of Eldraine,Common,4,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Joe Slucher',0.03,False
+Witch's Oven,Artifact,None,Throne of Eldraine,Uncommon,1,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Alexander Forssberg',0.51,False
+Castle Ardenvale,Land,None,Throne of Eldraine,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',2.53,False
+Castle Embereth,Land,None,Throne of Eldraine,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jaime Jones',0.66,False
+Castle Garenbrig,Land,None,Throne of Eldraine,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',2.88,False
+Castle Locthwain,Land,None,Throne of Eldraine,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Titus Lunter',1.88,False
+Castle Vantress,Land,None,Throne of Eldraine,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.95,False
+Dwarven Mine,Land,Mountain,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Alexander Forssberg',0.11,False
+Fabled Passage,Land,None,Throne of Eldraine,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Howard Lyon',8.49,False
+Gingerbread Cabin,Land,Forest,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Chris Ostrowski',0.07,False
+Idyllic Grange,Land,Plains,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Howard Lyon',0.09,False
+Mystic Sanctuary,Land,Island,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Randy Vargas',0.71,False
+Tournament Grounds,Land,None,Throne of Eldraine,Uncommon,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Cristi Balanescu',0.17,False
+Witch's Cottage,Land,Swamp,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Gabor Szikszai',0.15,False
+Plains,Basic Land,Plains,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',0.17,False
+Plains,Basic Land,Plains,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Sidharth Chaturvedi',0.06,False
+Plains,Basic Land,Plains,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Alayna Danner',0.07,False
+Plains,Basic Land,Plains,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Howard Lyon',0.09,False
+Island,Basic Land,Island,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.31,False
+Island,Basic Land,Island,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Lucas Graciano',0.08,False
+Island,Basic Land,Island,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.07,False
+Island,Basic Land,Island,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Poole',0.12,False
+Swamp,Basic Land,Swamp,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Paul Scott Canavan',0.35,False
+Swamp,Basic Land,Swamp,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Daarken',0.07,False
+Swamp,Basic Land,Swamp,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Victor Adame Minguez',0.09,False
+Swamp,Basic Land,Swamp,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.11,False
+Mountain,Basic Land,Mountain,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Filip Burburan',0.19,False
+Mountain,Basic Land,Mountain,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.07,False
+Mountain,Basic Land,Mountain,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Josu Hernaiz',0.08,False
+Mountain,Basic Land,Mountain,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Poole',0.07,False
+Forest,Basic Land,Forest,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.25,False
+Forest,Basic Land,Forest,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.08,False
+Forest,Basic Land,Forest,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Scott Murphy',0.1,False
+Forest,Basic Land,Forest,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.07,False
+Garruk Cursed Huntsman,Planeswalker,Garruk,Throne of Eldraine,Mythic Rare,6,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Dmitry Burmak',7.91,True
+Oko Thief of Crowns,Planeswalker,Oko,Throne of Eldraine,Mythic Rare,3,Gold,Banned,Banned,Legal,Legal,Legal,True,b'Wesley Burt',22.53,True
+The Royal Scions,Planeswalker,Will Rowan,Throne of Eldraine,Mythic Rare,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Howard Lyon',9.38,True
+Ardenvale Tactician,Creature,Human Knight,Throne of Eldraine,Common,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Aaron Miller',0.27,False
+Faerie Guidemother,Creature,Faerie,Throne of Eldraine,Common,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Chuck Lukacs',0.31,False
+Giant Killer,Creature,Human Peasant,Throne of Eldraine,Rare,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Shawn Wood',0.41,False
+Lonesome Unicorn,Creature,Unicorn,Throne of Eldraine,Common,5,White,Legal,Legal,Legal,Legal,Legal,True,b'Alayna Danner',0.27,False
+Realm-Cloaked Giant,Creature,Giant,Throne of Eldraine,Mythic Rare,7,White,Legal,Legal,Legal,Legal,Legal,True,b'Alayna Danner',3.37,False
+Shepherd of the Flock,Creature,Human Peasant,Throne of Eldraine,Uncommon,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Craig J Spearing',0.15,False
+Silverflame Squire,Creature,Human Soldier,Throne of Eldraine,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Josu Hernaiz',0.26,False
+Animating Faerie,Creature,Faerie,Throne of Eldraine,Uncommon,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Chris Seaman',0.19,False
+Brazen Borrower,Creature,Faerie Rogue,Throne of Eldraine,Mythic Rare,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Iris Compiet',28.16,False
+Fae of Wishes,Creature,Faerie Wizard,Throne of Eldraine,Rare,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Wylie Beckert',0.99,False
+Hypnotic Sprite,Creature,Faerie,Throne of Eldraine,Uncommon,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Jenn Ravenna Tran',0.22,False
+Merfolk Secretkeeper,Creature,Merfolk Wizard,Throne of Eldraine,Common,1,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Allen Williams',0.5,False
+Queen of Ice,Creature,Human Noble Wizard,Throne of Eldraine,Common,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Allen Williams',0.32,False
+Foulmire Knight,Creature,Zombie Knight,Throne of Eldraine,Uncommon,1,Black,Legal,Legal,Legal,Legal,Legal,True,b'Rebecca On',0.3,False
+Murderous Rider,Creature,Zombie Knight,Throne of Eldraine,Rare,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Jenn Ravenna Tran',4.1,False
+Order of Midnight,Creature,Human Knight,Throne of Eldraine,Uncommon,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Seb McKinnon',0.32,False
+Reaper of Night,Creature,Specter,Throne of Eldraine,Common,7,Black,Legal,Legal,Legal,Legal,Legal,True,b'Olena Richards',0.24,False
+Smitten Swordmaster,Creature,Human Knight,Throne of Eldraine,Common,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Shawn Wood',0.47,False
+Bonecrusher Giant,Creature,Giant,Throne of Eldraine,Rare,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'John Severin Brassell',2.72,False
+Embereth Shieldbreaker,Creature,Human Knight,Throne of Eldraine,Uncommon,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Jeremy Wilson',0.24,False
+Merchant of the Vale,Creature,Human Peasant,Throne of Eldraine,Common,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'John Severin Brassell',0.63,False
+Rimrock Knight,Creature,Dwarf Knight,Throne of Eldraine,Common,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Josu Hernaiz',0.52,False
+Beanstalk Giant,Creature,Giant,Throne of Eldraine,Uncommon,7,Green,Legal,Legal,Legal,Legal,Legal,True,b'Nick Southam',0.31,False
+Curious Pair,Creature,Human Peasant,Throne of Eldraine,Common,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Josu Hernaiz',0.23,False
+Flaxen Intruder,Creature,Human Berserker,Throne of Eldraine,Uncommon,1,Green,Legal,Legal,Legal,Legal,Legal,True,b'Omar Rayyan',0.15,False
+Garenbrig Carver,Creature,Human Warrior,Throne of Eldraine,Common,4,Green,Legal,Legal,Legal,Legal,Legal,True,b'Craig J Spearing',0.22,False
+Lovestruck Beast,Creature,Beast Noble,Throne of Eldraine,Rare,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Tyler Walpole',1.01,False
+Rosethorn Acolyte,Creature,Elf Druid,Throne of Eldraine,Common,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Wylie Beckert',0.32,False
+Tuinvale Treefolk,Creature,Treefolk Druid,Throne of Eldraine,Common,6,Green,Legal,Legal,Legal,Legal,Legal,True,b'James Arnold',0.26,False
+Oakhame Ranger,Creature,Elf Knight,Throne of Eldraine,Uncommon,8,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Omar Rayyan',0.14,False
+Kenrith the Returned King,Creature,Human Noble,Throne of Eldraine,Mythic Rare,5,White,Legal,Legal,Legal,Legal,Legal,False,b'Kieran Yanner',4.51,True
+Rowan Fearless Sparkmage,Planeswalker,Rowan,Throne of Eldraine,Mythic Rare,5,Red,Legal,Legal,Legal,Legal,Legal,False,b'Zack Stella',1.19,True
+Garrison Griffin,Creature,Griffin,Throne of Eldraine,Common,3,White,Legal,Legal,Legal,Legal,Legal,False,b'Jason Kang',0.15,False
+Rowan's Battleguard,Creature,Human Knight,Throne of Eldraine,Uncommon,4,Red,Legal,Legal,Legal,Legal,Legal,False,b'Sara Winters',0.14,False
+Rowan's Stalwarts,Creature,Human Knight,Throne of Eldraine,Rare,5,Red,Legal,Legal,Legal,Legal,Legal,False,b'Deruchenko Alexander',0.28,False
+Wind-Scarred Crag,Land,None,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jonas De Ro',0.13,False
+Oko the Trickster,Planeswalker,Oko,Throne of Eldraine,Mythic Rare,6,Gold,Legal,Legal,Legal,Legal,Legal,False,b'Chris Rallis',1.74,True
+Oko's Accomplices,Creature,Faerie,Throne of Eldraine,Common,3,Blue,Legal,Legal,Legal,Legal,Legal,False,b'Zezhou Chen',0.11,False
+Bramblefort Fink,Creature,Ouphe,Throne of Eldraine,Uncommon,2,Green,Legal,Legal,Legal,Legal,Legal,False,b'Uriah Voth',0.12,False
+Oko's Hospitality,Instant,None,Throne of Eldraine,Rare,5,Gold,Legal,Legal,Legal,Legal,Legal,False,b'Deruchenko Alexander',0.18,False
+Thornwood Falls,Land,None,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jenn Ravenna Tran',0.15,False
+Mace of the Valiant,Artifact,Equipment,Throne of Eldraine,Rare,3,White,Legal,Legal,Legal,Legal,Legal,False,b'Aaron Miller',0.32,False
+Silverwing Squadron,Creature,Human Knight,Throne of Eldraine,Rare,6,White,Legal,Legal,Legal,Legal,Legal,False,b'Johannes Voss',0.38,False
+Faerie Formation,Creature,Faerie,Throne of Eldraine,Rare,5,Blue,Legal,Legal,Legal,Legal,Legal,False,b'Ryan Yee',0.41,False
+Shimmer Dragon,Creature,Dragon,Throne of Eldraine,Rare,6,Blue,Legal,Legal,Legal,Legal,Legal,False,b'Lie Setiawan',0.88,False
+Workshop Elders,Creature,Human Artificer,Throne of Eldraine,Rare,7,Blue,Legal,Legal,Legal,Legal,Legal,False,b'Iain McCaig',0.22,False
+Chittering Witch,Creature,Human Warlock,Throne of Eldraine,Rare,4,Black,Legal,Legal,Legal,Legal,Legal,False,b'Winona Nelson',0.27,False
+Taste of Death,Sorcery,None,Throne of Eldraine,Rare,6,Black,Legal,Legal,Legal,Legal,Legal,False,b'Chris Rallis',0.24,False
+Embereth Skyblazer,Creature,Human Knight,Throne of Eldraine,Rare,4,Red,Legal,Legal,Legal,Legal,Legal,False,b'Daarken',0.25,False
+Steelbane Hydra,Creature,Turtle Hydra,Throne of Eldraine,Rare,3,Green,Legal,Legal,Legal,Legal,Legal,False,b'Nicholas Gregory',3.71,False
+Thorn Mammoth,Creature,Elephant,Throne of Eldraine,Rare,7,Green,Legal,Legal,Legal,Legal,Legal,False,b'Svetlin Velinov',0.25,False
+Alela Artful Provocateur,Creature,Faerie Warlock,Throne of Eldraine,Mythic Rare,4,Gold,Legal,Legal,Legal,Legal,Legal,False,b'Grzegorz Rutkowski',1.6,True
+Banish into Fable,Instant,None,Throne of Eldraine,Rare,6,Gold,Legal,Legal,Legal,Legal,Legal,False,b'Colin Boyer',0.23,False
+Chulane Teller of Tales,Creature,Human Druid,Throne of Eldraine,Mythic Rare,5,Gold,Legal,Legal,Legal,Legal,Legal,False,b'Victor Adame Minguez',2.2,True
+Gluttonous Troll,Creature,Troll,Throne of Eldraine,Rare,4,Gold,Legal,Legal,Legal,Legal,Legal,False,b'Joe Slucher',0.24,False
+Knights' Charge,Enchantment,None,Throne of Eldraine,Rare,3,Gold,Legal,Legal,Legal,Legal,Legal,False,b'Paul Scott Canavan',0.52,False
+Korvold Fae-Cursed King,Creature,Dragon Noble,Throne of Eldraine,Mythic Rare,5,Gold,Legal,Legal,Legal,Legal,Legal,False,b'Wisnu Tan',5.56,True
+Syr Gwyn Hero of Ashvale,Creature,Human Knight,Throne of Eldraine,Mythic Rare,6,Gold,Legal,Legal,Legal,Legal,Legal,False,b'Lie Setiawan',1.18,True
+Arcane Signet,Artifact,None,Throne of Eldraine,Common,2,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Dan Scott',5.69,False
+Tome of Legends,Artifact,None,Throne of Eldraine,Rare,2,Colorless,Legal,Legal,Legal,Legal,Legal,False,b'Mila Pesic',0.78,False
+Command Tower,Land,None,Throne of Eldraine,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Evan Shipard',0.92,False
+Acclaimed Contender,Creature,Human Knight,Throne of Eldraine,Rare,3,White,Legal,Legal,Legal,Legal,Legal,True,b'David Gaillet',0.96,False
+Charming Prince,Creature,Human Noble,Throne of Eldraine,Rare,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Randy Vargas',3.98,False
+The Circle of Loyalty,Artifact,None,Throne of Eldraine,Mythic Rare,6,White,Legal,Legal,Legal,Legal,Legal,True,b'Bastien L. Deharme',2.61,True
+Happily Ever After,Enchantment,None,Throne of Eldraine,Rare,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.68,False
+Harmonious Archon,Creature,Archon,Throne of Eldraine,Mythic Rare,6,White,Legal,Legal,Legal,Legal,Legal,True,b'Anastasia Ovchinnikova',1.58,False
+Hushbringer,Creature,Faerie,Throne of Eldraine,Rare,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Bastien L. Deharme',4.74,False
+Linden the Steadfast Queen,Creature,Human Noble,Throne of Eldraine,Rare,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Ryan Pancoast',2.13,True
+Worthy Knight,Creature,Human Knight,Throne of Eldraine,Rare,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Yongjae Choi',1.49,False
+Emry Lurker of the Loch,Creature,Merfolk Wizard,Throne of Eldraine,Rare,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Livia Prima',8.43,True
+Folio of Fancies,Artifact,None,Throne of Eldraine,Rare,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Colin Boyer',1.6,False
+Gadwick the Wizened,Creature,Human Wizard,Throne of Eldraine,Rare,4,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Colin Boyer',3.31,True
+The Magic Mirror,Artifact,None,Throne of Eldraine,Mythic Rare,9,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Anastasia Ovchinnikova',4.97,True
+Midnight Clock,Artifact,None,Throne of Eldraine,Rare,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Alexander Forssberg',1.63,False
+Mirrormade,Enchantment,None,Throne of Eldraine,Rare,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',4.81,False
+Stolen by the Fae,Sorcery,None,Throne of Eldraine,Rare,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Ryan Alexander Lee',1.01,False
+Vantress Gargoyle,Artifact Creature,Gargoyle,Throne of Eldraine,Rare,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Cristi Balanescu',1.04,False
+Ayara First of Locthwain,Creature,Elf Noble,Throne of Eldraine,Rare,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Ryan Pancoast',5.87,True
+Blacklance Paragon,Creature,Human Knight,Throne of Eldraine,Rare,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Victor Adame Minguez',1.56,False
+The Cauldron of Eternity,Artifact,None,Throne of Eldraine,Mythic Rare,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',3.32,True
+Clackbridge Troll,Creature,Troll,Throne of Eldraine,Rare,5,Black,Legal,Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',1.7,False
+Oathsworn Knight,Creature,Human Knight,Throne of Eldraine,Rare,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.68,False
+Piper of the Swarm,Creature,Human Warlock,Throne of Eldraine,Rare,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Irina Nordsol',0.87,False
+Rankle Master of Pranks,Creature,Faerie Rogue,Throne of Eldraine,Mythic Rare,4,Black,Legal,Legal,Legal,Legal,Legal,True,b'Dmitry Burmak',8.93,True
+Wishclaw Talisman,Artifact,None,Throne of Eldraine,Rare,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Daarken',2.74,False
+Witch's Vengeance,Sorcery,None,Throne of Eldraine,Rare,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Titus Lunter',0.88,False
+Embercleave,Artifact,Equipment,Throne of Eldraine,Mythic Rare,6,Red,Legal,Legal,Legal,Legal,Legal,True,b'Joe Slucher',20.46,True
+Fervent Champion,Creature,Human Knight,Throne of Eldraine,Rare,1,Red,Legal,Legal,Legal,Legal,Legal,True,b'Steve Argyle',2.65,False
+Fires of Invention,Enchantment,None,Throne of Eldraine,Rare,4,Red,Legal,Banned,Legal,Legal,Legal,True,b'Stanton Feng',3.39,False
+Irencrag Feat,Sorcery,None,Throne of Eldraine,Rare,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Yongjae Choi',1.12,False
+Irencrag Pyromancer,Creature,Human Wizard,Throne of Eldraine,Rare,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'Jason Rainville',1.47,False
+Opportunistic Dragon,Creature,Dragon,Throne of Eldraine,Rare,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.76,False
+Robber of the Rich,Creature,Human Archer Rogue,Throne of Eldraine,Mythic Rare,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Paul Scott Canavan',8.84,False
+Sundering Stroke,Sorcery,None,Throne of Eldraine,Rare,7,Red,Legal,Legal,Legal,Legal,Legal,True,b'Stanton Feng',0.4,False
+Torbran Thane of Red Fell,Creature,Dwarf Noble,Throne of Eldraine,Rare,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Grzegorz Rutkowski',8.11,True
+Feasting Troll King,Creature,Troll Noble,Throne of Eldraine,Rare,6,Green,Legal,Legal,Legal,Legal,Legal,True,b'Nicholas Gregory',1.02,False
+Gilded Goose,Creature,Bird,Throne of Eldraine,Rare,1,Green,Legal,Legal,Legal,Legal,Legal,True,b'Lindsey Look',5.52,False
+The Great Henge,Artifact,None,Throne of Eldraine,Mythic Rare,9,Green,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',37.61,True
+Once Upon a Time,Instant,None,Throne of Eldraine,Rare,2,Green,Banned,Banned,Legal,Legal,Legal,True,b'Matt Stewart',6.01,False
+Questing Beast,Creature,Beast,Throne of Eldraine,Mythic Rare,4,Green,Legal,Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',21.66,True
+Return of the Wildspeaker,Instant,None,Throne of Eldraine,Rare,5,Green,Legal,Legal,Legal,Legal,Legal,True,b'Chris Rallis',7.57,False
+Wicked Wolf,Creature,Wolf,Throne of Eldraine,Rare,4,Green,Legal,Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',1.26,False
+Wildborn Preserver,Creature,Elf Archer,Throne of Eldraine,Rare,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Lius Lasahido',1.09,False
+Yorvo Lord of Garenbrig,Creature,Giant Noble,Throne of Eldraine,Rare,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Zack Stella',2.24,True
+Dance of the Manse,Sorcery,None,Throne of Eldraine,Rare,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Yeong-Hao Han',2.14,False
+Doom Foretold,Enchantment,None,Throne of Eldraine,Rare,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',2.28,False
+Escape to the Wilds,Sorcery,None,Throne of Eldraine,Rare,5,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Chris Ostrowski',1.58,False
+Faeburrow Elder,Creature,Treefolk Druid,Throne of Eldraine,Rare,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Raoul Vitale',7.7,False
+Lochmere Serpent,Creature,Serpent,Throne of Eldraine,Rare,6,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Sam Burley',1.04,False
+Outlaws' Merriment,Enchantment,None,Throne of Eldraine,Mythic Rare,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Suzanne Helmigh',3.23,False
+Stormfist Crusader,Creature,Human Knight,Throne of Eldraine,Rare,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Chris Rallis',2.47,False
+Sorcerous Spyglass,Artifact,None,Throne of Eldraine,Rare,2,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Aaron Miller',1.37,False
+Stonecoil Serpent,Artifact Creature,Snake,Throne of Eldraine,Rare,1,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Poole',9.43,False
+Castle Ardenvale,Land,None,Throne of Eldraine,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',6.67,False
+Castle Embereth,Land,None,Throne of Eldraine,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jaime Jones',4.75,False
+Castle Garenbrig,Land,None,Throne of Eldraine,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',8.08,False
+Castle Locthwain,Land,None,Throne of Eldraine,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Titus Lunter',9.1,False
+Castle Vantress,Land,None,Throne of Eldraine,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',8.51,False
+Fabled Passage,Land,None,Throne of Eldraine,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Howard Lyon',27.06,False
+Piper of the Swarm,Creature,Human Warlock,Throne of Eldraine,Rare,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.22,False
+Glass Casket,Artifact,None,Throne of Eldraine,Uncommon,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Anastasia Ovchinnikova',0.34,False
+Slaying Fire,Instant,None,Throne of Eldraine,Uncommon,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'Heonhwa Choe',0.31,False
+Kenrith's Transformation,Enchantment,Aura,Throne of Eldraine,Uncommon,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Kimonas Theodossiou',0.49,False
+Improbable Alliance,Enchantment,None,Throne of Eldraine,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.42,False
+Inspiring Veteran,Creature,Human Knight,Throne of Eldraine,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Scott Murphy',0.42,False

@@ -1,166 +1,166 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Auriok Glaivemaster,Creature,Human Soldier,Darksteel,Common,1,White,True,False,True,False,b'John Matson',0.15
-Echoing Calm,Instant,None,Darksteel,Common,2,White,True,False,True,False,b'Greg Staples',0.1
-Emissary of Hope,Creature,Spirit,Darksteel,Uncommon,3,White,True,False,True,False,b'rk post',0.15
-Hallow,Instant,None,Darksteel,Common,1,White,True,False,True,False,b'Alex Horley-Orlandelli',0.29
-Leonin Battlemage,Creature,Cat Wizard,Darksteel,Uncommon,4,White,True,False,True,False,b'Stephen Tappin',0.12
-Leonin Shikari,Creature,Cat Soldier,Darksteel,Rare,2,White,True,False,True,True,b'Wayne England',1.82
-Loxodon Mystic,Creature,Elephant Cleric,Darksteel,Common,5,White,True,False,True,True,"b'Edward P. Beard, Jr.'",0.03
-Metal Fatigue,Instant,None,Darksteel,Common,3,White,True,False,True,False,b'Arnie Swekel',0.06
-Pristine Angel,Creature,Angel,Darksteel,Rare,6,White,True,False,True,True,b'Scott M. Fischer',1.09
-Pteron Ghost,Creature,Dinosaur Spirit,Darksteel,Common,2,White,True,False,True,False,"b'Edward P. Beard, Jr.'",0.1
-Pulse of the Fields,Instant,None,Darksteel,Rare,3,White,True,False,True,False,b'Paolo Parente',0.45
-Purge,Instant,None,Darksteel,Uncommon,2,White,True,False,True,True,b'Pete Venters',0.09
-Ritual of Restoration,Sorcery,None,Darksteel,Common,1,White,True,False,True,False,b'Dany Orizio',0.09
-Soulscour,Sorcery,None,Darksteel,Rare,10,White,True,False,True,False,b'Kev Walker',0.36
-Steelshaper Apprentice,Creature,Human Soldier,Darksteel,Rare,4,White,True,False,True,False,b'Tim Hildebrandt',0.71
-Stir the Pride,Instant,None,Darksteel,Uncommon,5,White,True,False,True,True,b'Matt Cavotta',0.15
-Test of Faith,Instant,None,Darksteel,Uncommon,2,White,True,False,True,True,b'Vance Kovacs',0.12
-Turn the Tables,Instant,None,Darksteel,Rare,5,White,True,False,True,False,b'Christopher Moeller',0.33
-Carry Away,Enchantment,Aura,Darksteel,Uncommon,2,Blue,True,False,True,False,b'Jim Nelson',0.13
-Chromescale Drake,Creature,Drake,Darksteel,Rare,9,Blue,True,False,True,False,b'Ben Thompson',0.23
-Echoing Truth,Instant,None,Darksteel,Common,2,Blue,True,False,True,True,b'Greg Staples',0.42
-Hoverguard Observer,Creature,Drone,Darksteel,Uncommon,4,Blue,True,False,True,False,b'Kev Walker',0.1
-Last Word,Instant,None,Darksteel,Rare,4,Blue,True,False,True,False,b'Scott M. Fischer',0.86
-Machinate,Instant,None,Darksteel,Common,3,Blue,True,False,True,False,b'Wayne England',0.12
-Magnetic Flux,Instant,None,Darksteel,Common,3,Blue,True,False,True,False,b'Alan Rabinowitz',0.15
-Neurok Prodigy,Creature,Human Wizard,Darksteel,Common,3,Blue,True,False,True,False,b'Puddnhead',0.1
-Neurok Transmuter,Creature,Human Wizard,Darksteel,Uncommon,3,Blue,True,False,True,False,b'Mark Zug',0.16
-Psychic Overload,Enchantment,Aura,Darksteel,Uncommon,4,Blue,True,False,True,False,b'Jeremy Jarvis',0.09
-Pulse of the Grid,Instant,None,Darksteel,Rare,3,Blue,True,False,True,False,b'Wayne England',0.33
-Quicksilver Behemoth,Creature,Beast,Darksteel,Common,7,Blue,True,False,True,False,b'Anthony S. Waters',0.1
-Reshape,Sorcery,None,Darksteel,Rare,3,Blue,True,False,True,False,b'Jon Foster',4.97
-Retract,Instant,None,Darksteel,Rare,1,Blue,True,False,True,False,b'Matt Cavotta',5.25
-Second Sight,Instant,None,Darksteel,Uncommon,3,Blue,True,False,True,False,b'Luca Zontini',0.13
-Synod Artificer,Creature,Vedalken Artificer,Darksteel,Rare,3,Blue,True,False,True,False,b'Mark Zug',0.29
-Vedalken Engineer,Creature,Vedalken Artificer,Darksteel,Common,2,Blue,True,False,True,True,b'Lars Grant-West',0.16
-Vex,Instant,None,Darksteel,Common,3,Blue,True,False,True,False,b'Brian Sn\xc3\xb5ddy',0.17
-Aether Snap,Sorcery,None,Darksteel,Rare,5,Black,True,False,True,True,b'Kev Walker',0.61
-Burden of Greed,Instant,None,Darksteel,Common,4,Black,True,False,True,False,b'Vance Kovacs',0.08
-Chittering Rats,Creature,Rat,Darksteel,Common,3,Black,True,False,True,True,b'Tom W\xc3\xa4nerstrand',0.56
-Death Cloud,Sorcery,None,Darksteel,Rare,4,Black,True,False,True,True,b'Stephen Tappin',2.32
-Echoing Decay,Instant,None,Darksteel,Common,2,Black,True,False,True,True,b'Greg Staples',0.35
-Emissary of Despair,Creature,Spirit,Darksteel,Uncommon,3,Black,True,False,True,False,b'rk post',0.11
-Essence Drain,Sorcery,None,Darksteel,Common,5,Black,True,False,True,True,b'Tony Szczudlo',0.09
-Greater Harvester,Creature,Horror,Darksteel,Rare,5,Black,True,False,True,False,b'Daren Bader',0.27
-Grimclaw Bats,Creature,Bat,Darksteel,Common,2,Black,True,False,True,False,b'Tom W\xc3\xa4nerstrand',0.07
-Hunger of the Nim,Sorcery,None,Darksteel,Common,2,Black,True,False,True,False,b'Puddnhead',0.08
-Mephitic Ooze,Creature,Ooze,Darksteel,Rare,5,Black,True,False,True,False,b'Alex Horley-Orlandelli',0.21
-Murderous Spoils,Instant,None,Darksteel,Uncommon,6,Black,True,False,True,False,b'Adam Rex',0.12
-Nim Abomination,Creature,Zombie,Darksteel,Uncommon,3,Black,True,False,True,False,b'Jim Murray',0.1
-Pulse of the Dross,Sorcery,None,Darksteel,Rare,3,Black,True,False,True,False,b'Paolo Parente',0.2
-Scavenging Scarab,Creature,Insect,Darksteel,Common,4,Black,True,False,True,False,b'Jeff Easley',0.09
-Screams from Within,Enchantment,Aura,Darksteel,Uncommon,3,Black,True,False,True,False,b'Hugh Jamieson',0.16
-Scrounge,Sorcery,None,Darksteel,Uncommon,3,Black,True,False,True,False,b'Pete Venters',0.1
-Shriveling Rot,Instant,None,Darksteel,Rare,4,Black,True,False,True,False,b'Alex Horley-Orlandelli',0.29
-Barbed Lightning,Instant,None,Darksteel,Common,3,Red,True,False,True,False,b'Hugh Jamieson',0.11
-Crazed Goblin,Creature,Goblin Warrior,Darksteel,Common,1,Red,True,False,True,False,b'Darrell Riche',0.08
-Dismantle,Sorcery,None,Darksteel,Uncommon,3,Red,True,False,True,False,b'Brian Sn\xc3\xb5ddy',0.2
-Drooling Ogre,Creature,Ogre,Darksteel,Common,2,Red,True,False,True,False,b'Brian Sn\xc3\xb5ddy',0.09
-Echoing Ruin,Sorcery,None,Darksteel,Common,2,Red,True,False,True,False,b'Greg Staples',0.12
-Fireball,Sorcery,None,Darksteel,Uncommon,2,Red,True,False,True,True,b'Dave Dorman',0.2
-Flamebreak,Sorcery,None,Darksteel,Rare,3,Red,True,False,True,False,b'Trevor Hairsine',0.88
-Furnace Dragon,Creature,Dragon,Darksteel,Rare,9,Red,True,False,True,True,b'Matthew D. Wilson',0.31
-Goblin Archaeologist,Creature,Goblin Artificer,Darksteel,Uncommon,2,Red,True,False,True,False,b'Jim Nelson',0.35
-Inflame,Instant,None,Darksteel,Common,1,Red,True,False,True,True,b'Hugh Jamieson',0.08
-Krark-Clan Stoker,Creature,Goblin Shaman,Darksteel,Common,3,Red,True,False,True,False,b'Pete Venters',0.13
-Pulse of the Forge,Instant,None,Darksteel,Rare,3,Red,True,False,True,False,b'Paolo Parente',0.43
-Savage Beating,Instant,None,Darksteel,Rare,5,Red,True,False,True,False,b'Matt Thompson',7.34
-Shunt,Instant,None,Darksteel,Rare,3,Red,True,False,True,True,b'Greg Hildebrandt',0.38
-"Slobad, Goblin Tinkerer",Legendary Creature,Goblin Artificer,Darksteel,Rare,2,Red,True,False,True,True,b'Kev Walker',0.61
-Tears of Rage,Instant,None,Darksteel,Uncommon,4,Red,True,False,True,True,b'Pete Venters',0.12
-Unforge,Instant,None,Darksteel,Common,3,Red,True,False,True,False,b'Kev Walker',0.1
-Vulshok War Boar,Creature,Boar Beast,Darksteel,Uncommon,4,Red,True,False,True,False,b'Pete Venters',0.15
-Ageless Entity,Creature,Elemental,Darksteel,Rare,5,Green,True,False,True,True,b'Jeff Miracola',0.45
-Echoing Courage,Instant,None,Darksteel,Common,2,Green,True,False,True,True,b'Greg Staples',0.06
-Fangren Firstborn,Creature,Beast,Darksteel,Rare,4,Green,True,False,True,True,b'Tim Hildebrandt',0.81
-Infested Roothold,Creature,Wall,Darksteel,Uncommon,5,Green,True,False,True,False,b'Terese Nielsen',0.12
-Karstoderm,Creature,Beast,Darksteel,Uncommon,4,Green,True,False,True,False,b'Tony Szczudlo',0.09
-Nourish,Instant,None,Darksteel,Common,2,Green,True,False,True,False,b'Scott M. Fischer',0.09
-Oxidize,Instant,None,Darksteel,Uncommon,1,Green,True,False,True,True,b'Kev Walker',0.35
-Pulse of the Tangle,Sorcery,None,Darksteel,Rare,3,Green,True,False,True,True,b'Wayne England',0.34
-Reap and Sow,Sorcery,None,Darksteel,Common,4,Green,True,False,True,False,b'Rob Alexander',0.24
-Rebuking Ceremony,Sorcery,None,Darksteel,Rare,5,Green,True,False,True,False,b'Ittoku',0.2
-Roaring Slagwurm,Creature,Wurm,Darksteel,Rare,7,Green,True,False,True,False,b'David Martin',0.2
-Stand Together,Instant,None,Darksteel,Uncommon,5,Green,True,False,True,False,b'Luca Zontini',0.22
-Tangle Spider,Creature,Spider,Darksteel,Common,6,Green,True,False,True,True,b'Terese Nielsen',0.11
-Tanglewalker,Creature,Dryad,Darksteel,Uncommon,3,Green,True,False,True,False,b'Pete Venters',0.2
-Tel-Jilad Outrider,Creature,Elf Warrior,Darksteel,Common,4,Green,True,False,True,False,b'Paolo Parente',0.06
-Tel-Jilad Wolf,Creature,Wolf,Darksteel,Common,3,Green,True,False,True,False,b'Paolo Parente',0.08
-Viridian Acolyte,Creature,Elf Shaman,Darksteel,Common,1,Green,True,False,True,False,b'D. Alexander Gregory',0.08
-Viridian Zealot,Creature,Elf Warrior,Darksteel,Rare,2,Green,True,False,True,True,b'Kev Walker',0.44
-Aether Vial,Artifact,None,Darksteel,Uncommon,1,Colorless,True,False,True,True,b'Greg Hildebrandt',19.87
-Angel's Feather,Artifact,None,Darksteel,Uncommon,2,Colorless,True,False,True,True,b'Alan Pollack',0.15
-Arcane Spyglass,Artifact,None,Darksteel,Common,4,Colorless,True,False,True,False,b'Trevor Hairsine',0.09
-Arcbound Bruiser,Artifact Creature,Golem,Darksteel,Common,5,Colorless,True,False,True,False,b'Christopher Moeller',0.12
-Arcbound Crusher,Artifact Creature,Juggernaut,Darksteel,Uncommon,4,Colorless,True,False,True,True,b'Michael Sutfin',0.51
-Arcbound Fiend,Artifact Creature,Horror,Darksteel,Uncommon,6,Colorless,True,False,True,False,b'Ittoku',0.24
-Arcbound Hybrid,Artifact Creature,Beast,Darksteel,Common,4,Colorless,True,False,True,False,b'Alan Pollack',0.15
-Arcbound Lancer,Artifact Creature,Beast,Darksteel,Uncommon,7,Colorless,True,False,True,False,b'John Avon',0.17
-Arcbound Overseer,Artifact Creature,Golem,Darksteel,Rare,8,Colorless,True,False,True,False,b'Carl Critchlow',1.0
-Arcbound Ravager,Artifact Creature,Beast,Darksteel,Rare,2,Colorless,True,False,True,True,b'Carl Critchlow',16.18
-Arcbound Reclaimer,Artifact Creature,Golem,Darksteel,Rare,4,Colorless,True,False,True,False,b'Jon Foster',1.11
-Arcbound Slith,Artifact Creature,Slith,Darksteel,Uncommon,2,Colorless,True,False,True,True,b'Vance Kovacs',0.5
-Arcbound Stinger,Artifact Creature,Insect,Darksteel,Common,2,Colorless,True,False,True,True,b'Darrell Riche',0.13
-Arcbound Worker,Artifact Creature,Construct,Darksteel,Common,1,Colorless,True,False,True,True,b'Darrell Riche',0.35
-Auriok Siege Sled,Artifact Creature,Juggernaut,Darksteel,Uncommon,6,Colorless,True,False,True,False,b'Jim Murray',0.13
-Chimeric Egg,Artifact,None,Darksteel,Uncommon,3,Colorless,True,False,True,False,b'Michael Sutfin',0.15
-Coretapper,Artifact Creature,Myr,Darksteel,Uncommon,2,Colorless,True,False,True,False,b'Dany Orizio',2.43
-Darksteel Brute,Artifact,None,Darksteel,Uncommon,2,Colorless,True,False,True,False,b'Nottsuo',0.18
-Darksteel Colossus,Artifact Creature,Golem,Darksteel,Rare,2,Colorless,True,False,True,True,b'Carl Critchlow',7.17
-Darksteel Forge,Artifact,None,Darksteel,Rare,9,Colorless,True,False,True,True,b'Martina Pilcerova',17.41
-Darksteel Gargoyle,Artifact Creature,Gargoyle,Darksteel,Uncommon,7,Colorless,True,False,True,True,b'Ron Spencer',0.26
-Darksteel Ingot,Artifact,None,Darksteel,Common,3,Colorless,True,False,True,True,b'Martina Pilcerova',0.74
-Darksteel Pendant,Artifact,None,Darksteel,Common,2,Colorless,True,False,True,False,b'Terese Nielsen',0.22
-Darksteel Reactor,Artifact,None,Darksteel,Rare,4,Colorless,True,False,True,True,b'Kev Walker',5.6
-Death-Mask Duplicant,Artifact Creature,Shapeshifter,Darksteel,Uncommon,7,Colorless,True,False,True,False,b'Thomas M. Baxa',0.12
-Demon's Horn,Artifact,None,Darksteel,Uncommon,2,Colorless,True,False,True,True,b'Alan Pollack',0.09
-Dragon's Claw,Artifact,None,Darksteel,Uncommon,2,Colorless,True,False,True,True,b'Alan Pollack',0.59
-Drill-Skimmer,Artifact Creature,Thopter,Darksteel,Common,4,Colorless,True,False,True,False,b'Mark Zug',0.12
-Dross Golem,Artifact Creature,Golem,Darksteel,Common,5,Colorless,True,False,True,False,b'Adam Rex',0.1
-Eater of Days,Artifact Creature,Leviathan,Darksteel,Rare,4,Colorless,True,False,True,True,b'Mark Tedin',1.93
-Gemini Engine,Artifact Creature,Construct,Darksteel,Rare,6,Colorless,True,False,True,False,b'Nottsuo',0.16
-Genesis Chamber,Artifact,None,Darksteel,Uncommon,2,Colorless,True,False,True,True,b'Mark Tedin',0.65
-Geth's Grimoire,Artifact,None,Darksteel,Uncommon,4,Colorless,True,False,True,True,b'Heather Hudson',2.59
-Heartseeker,Artifact,Equipment,Darksteel,Rare,4,Colorless,True,False,True,False,b'Michael Sutfin',4.05
-Juggernaut,Artifact Creature,Juggernaut,Darksteel,Uncommon,4,Colorless,True,False,True,True,b'Arnie Swekel',0.22
-Kraken's Eye,Artifact,None,Darksteel,Uncommon,2,Colorless,True,False,True,True,b'Alan Pollack',0.16
-Leonin Bola,Artifact,Equipment,Darksteel,Common,1,Colorless,True,False,True,True,b'Christopher Moeller',0.12
-Lich's Tomb,Artifact,None,Darksteel,Rare,4,Colorless,True,False,True,False,b'Matt Cavotta',0.38
-Memnarch,Legendary Artifact Creature,Wizard,Darksteel,Rare,7,Colorless,True,False,True,True,b'Carl Critchlow',7.37
-Mycosynth Lattice,Artifact,None,Darksteel,Rare,6,Colorless,False,False,True,True,b'Anthony S. Waters',36.27
-Myr Landshaper,Artifact Creature,Myr,Darksteel,Common,3,Colorless,True,False,True,False,b'Greg Staples',0.21
-Myr Matrix,Artifact,None,Darksteel,Rare,5,Colorless,True,False,True,False,b'Mark Tedin',1.92
-Myr Moonvessel,Artifact Creature,Myr,Darksteel,Common,1,Colorless,True,False,True,False,b'Dany Orizio',0.17
-Nemesis Mask,Artifact,Equipment,Darksteel,Uncommon,3,Colorless,True,False,True,False,b'Adam Rex',0.66
-Oxidda Golem,Artifact Creature,Golem,Darksteel,Common,6,Colorless,True,False,True,True,b'Greg Staples',0.08
-Panoptic Mirror,Artifact,None,Darksteel,Rare,5,Colorless,True,False,False,False,b'Glen Angus',2.34
-Razor Golem,Artifact Creature,Golem,Darksteel,Common,6,Colorless,True,False,True,False,b'Christopher Moeller',0.11
-Serum Powder,Artifact,None,Darksteel,Rare,3,Colorless,True,False,True,True,b'Matt Thompson',1.49
-Shield of Kaldra,Legendary Artifact,Equipment,Darksteel,Rare,4,Colorless,True,False,True,True,b'Donato Giancola',5.67
-Skullclamp,Artifact,Equipment,Darksteel,Uncommon,1,Colorless,False,False,True,True,b'Luca Zontini',4.63
-Spawning Pit,Artifact,None,Darksteel,Uncommon,2,Colorless,True,False,True,True,b'Tony Szczudlo',2.84
-Specter's Shroud,Artifact,Equipment,Darksteel,Uncommon,2,Colorless,True,False,True,True,b'Greg Hildebrandt',0.17
-Spellbinder,Artifact,Equipment,Darksteel,Rare,3,Colorless,True,False,True,False,b'Ron Spencer',0.84
-Spincrusher,Artifact Creature,Construct,Darksteel,Uncommon,2,Colorless,True,False,True,False,b'Greg Staples',0.19
-Spire Golem,Artifact Creature,Golem,Darksteel,Common,6,Colorless,True,False,True,True,b'Daren Bader',0.23
-Sundering Titan,Artifact Creature,Golem,Darksteel,Rare,8,Colorless,True,False,False,True,b'Jim Murray',1.01
-Surestrike Trident,Artifact,Equipment,Darksteel,Uncommon,2,Colorless,True,False,True,False,b'Ben Thompson',0.94
-Sword of Fire and Ice,Artifact,Equipment,Darksteel,Rare,3,Colorless,True,False,True,True,b'Mark Zug',76.67
-Sword of Light and Shadow,Artifact,Equipment,Darksteel,Rare,3,Colorless,True,False,True,True,b'Mark Zug',40.78
-Talon of Pain,Artifact,None,Darksteel,Uncommon,4,Colorless,True,False,True,False,b'Daren Bader',0.12
-Tangle Golem,Artifact Creature,Golem,Darksteel,Common,7,Colorless,True,False,True,False,b'Arnie Swekel',0.16
-Thought Dissector,Artifact,None,Darksteel,Rare,4,Colorless,True,False,True,False,b'Matt Cavotta',0.3
-Thunderstaff,Artifact,None,Darksteel,Uncommon,3,Colorless,True,False,True,True,b'Kaja Foglio',0.16
-Trinisphere,Artifact,None,Darksteel,Rare,3,Colorless,True,False,True,True,b'Tim Hildebrandt',31.98
-Ur-Golem's Eye,Artifact,None,Darksteel,Common,4,Colorless,True,False,True,True,b'Heather Hudson',0.31
-Voltaic Construct,Artifact Creature,Golem Construct,Darksteel,Uncommon,4,Colorless,True,False,True,False,b'Jeff Easley',0.35
-Vulshok Morningstar,Artifact,Equipment,Darksteel,Common,2,Colorless,True,False,True,True,b'David Martin',0.11
-Wand of the Elements,Artifact,None,Darksteel,Rare,4,Colorless,True,False,True,False,b'Thomas M. Baxa',0.2
-Well of Lost Dreams,Artifact,None,Darksteel,Rare,4,Colorless,True,False,True,True,b'Jeff Miracola',3.37
-Whispersilk Cloak,Artifact,Equipment,Darksteel,Common,3,Colorless,True,False,True,True,b'Luca Zontini',1.24
-Wirefly Hive,Artifact,None,Darksteel,Uncommon,3,Colorless,True,False,True,False,b'Nottsuo',0.19
-Wurm's Tooth,Artifact,None,Darksteel,Uncommon,2,Colorless,True,False,True,True,b'Alan Pollack',0.11
-Blinkmoth Nexus,Land,None,Darksteel,Rare,0,Colorless,True,False,True,True,b'Brian Sn\xc3\xb5ddy',4.85
-Darksteel Citadel,Artifact Land,None,Darksteel,Common,0,Colorless,True,False,True,True,b'John Avon',0.6
-Mirrodin's Core,Land,None,Darksteel,Uncommon,0,Colorless,True,False,True,True,b'Greg Staples',0.25
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Auriok Glaivemaster,Creature,Human Soldier,Darksteel,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'John Matson',0.15,False
+Echoing Calm,Instant,None,Darksteel,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.1,False
+Emissary of Hope,Creature,Spirit,Darksteel,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'rk post',0.1,False
+Hallow,Instant,None,Darksteel,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Alex Horley-Orlandelli',0.25,False
+Leonin Battlemage,Creature,Cat Wizard,Darksteel,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Stephen Tappin',0.13,False
+Leonin Shikari,Creature,Cat Soldier,Darksteel,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne England',2.02,False
+Loxodon Mystic,Creature,Elephant Cleric,Darksteel,Common,5,White,Legal,Not Legal,Legal,Legal,Legal,True,"b'Edward P. Beard, Jr.'",0.03,False
+Metal Fatigue,Instant,None,Darksteel,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Arnie Swekel',0.06,False
+Pristine Angel,Creature,Angel,Darksteel,Rare,6,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',0.87,False
+Pteron Ghost,Creature,Dinosaur Spirit,Darksteel,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,"b'Edward P. Beard, Jr.'",0.11,False
+Pulse of the Fields,Instant,None,Darksteel,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.46,False
+Purge,Instant,None,Darksteel,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.1,False
+Ritual of Restoration,Sorcery,None,Darksteel,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Dany Orizio',0.08,False
+Soulscour,Sorcery,None,Darksteel,Rare,10,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.35,False
+Steelshaper Apprentice,Creature,Human Soldier,Darksteel,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Tim Hildebrandt',0.69,False
+Stir the Pride,Instant,None,Darksteel,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.17,False
+Test of Faith,Instant,None,Darksteel,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Vance Kovacs',0.14,False
+Turn the Tables,Instant,None,Darksteel,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.34,False
+Carry Away,Enchantment,Aura,Darksteel,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.16,False
+Chromescale Drake,Creature,Drake,Darksteel,Rare,9,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Ben Thompson',0.28,False
+Echoing Truth,Instant,None,Darksteel,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.42,False
+Hoverguard Observer,Creature,Drone,Darksteel,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.1,False
+Last Word,Instant,None,Darksteel,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',0.75,False
+Machinate,Instant,None,Darksteel,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne England',0.11,False
+Magnetic Flux,Instant,None,Darksteel,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Rabinowitz',0.14,False
+Neurok Prodigy,Creature,Human Wizard,Darksteel,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Puddnhead',0.1,False
+Neurok Transmuter,Creature,Human Wizard,Darksteel,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Zug',0.16,False
+Psychic Overload,Enchantment,Aura,Darksteel,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Jeremy Jarvis',0.09,False
+Pulse of the Grid,Instant,None,Darksteel,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne England',0.36,False
+Quicksilver Behemoth,Creature,Beast,Darksteel,Common,7,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony S. Waters',0.1,False
+Reshape,Sorcery,None,Darksteel,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Jon Foster',6.83,False
+Retract,Instant,None,Darksteel,Rare,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',5.19,False
+Second Sight,Instant,None,Darksteel,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Luca Zontini',0.13,False
+Synod Artificer,Creature,Vedalken Artificer,Darksteel,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Zug',0.3,False
+Vedalken Engineer,Creature,Vedalken Artificer,Darksteel,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.15,False
+Vex,Instant,None,Darksteel,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Brian Sn\xc3\xb5ddy',0.14,False
+Aether Snap,Sorcery,None,Darksteel,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.59,False
+Burden of Greed,Instant,None,Darksteel,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Vance Kovacs',0.07,False
+Chittering Rats,Creature,Rat,Darksteel,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',0.55,False
+Death Cloud,Sorcery,None,Darksteel,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Stephen Tappin',2.11,False
+Echoing Decay,Instant,None,Darksteel,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.33,False
+Emissary of Despair,Creature,Spirit,Darksteel,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'rk post',0.11,False
+Essence Drain,Sorcery,None,Darksteel,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Tony Szczudlo',0.05,False
+Greater Harvester,Creature,Horror,Darksteel,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.25,False
+Grimclaw Bats,Creature,Bat,Darksteel,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Tom W\xc3\xa4nerstrand',0.07,False
+Hunger of the Nim,Sorcery,None,Darksteel,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Puddnhead',0.08,False
+Mephitic Ooze,Creature,Ooze,Darksteel,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Alex Horley-Orlandelli',0.21,False
+Murderous Spoils,Instant,None,Darksteel,Uncommon,6,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Rex',0.11,False
+Nim Abomination,Creature,Zombie,Darksteel,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Murray',0.1,False
+Pulse of the Dross,Sorcery,None,Darksteel,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.19,False
+Scavenging Scarab,Creature,Insect,Darksteel,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Easley',0.09,False
+Screams from Within,Enchantment,Aura,Darksteel,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Hugh Jamieson',0.2,False
+Scrounge,Sorcery,None,Darksteel,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.12,False
+Shriveling Rot,Instant,None,Darksteel,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Alex Horley-Orlandelli',0.32,False
+Barbed Lightning,Instant,None,Darksteel,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Hugh Jamieson',0.11,False
+Crazed Goblin,Creature,Goblin Warrior,Darksteel,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Darrell Riche',0.08,False
+Dismantle,Sorcery,None,Darksteel,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Brian Sn\xc3\xb5ddy',0.14,False
+Drooling Ogre,Creature,Ogre,Darksteel,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Brian Sn\xc3\xb5ddy',0.09,False
+Echoing Ruin,Sorcery,None,Darksteel,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.12,False
+Fireball,Sorcery,None,Darksteel,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Dorman',0.18,False
+Flamebreak,Sorcery,None,Darksteel,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Trevor Hairsine',0.82,False
+Furnace Dragon,Creature,Dragon,Darksteel,Rare,9,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Matthew D. Wilson',0.31,False
+Goblin Archaeologist,Creature,Goblin Artificer,Darksteel,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.38,False
+Inflame,Instant,None,Darksteel,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Hugh Jamieson',0.08,False
+Krark-Clan Stoker,Creature,Goblin Shaman,Darksteel,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.12,False
+Pulse of the Forge,Instant,None,Darksteel,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.42,False
+Savage Beating,Instant,None,Darksteel,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Thompson',9.02,False
+Shunt,Instant,None,Darksteel,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Hildebrandt',0.42,False
+Slobad Goblin Tinkerer,Creature,Goblin Artificer,Darksteel,Rare,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.62,True
+Tears of Rage,Instant,None,Darksteel,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.14,False
+Unforge,Instant,None,Darksteel,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.1,False
+Vulshok War Boar,Creature,Boar Beast,Darksteel,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.12,False
+Ageless Entity,Creature,Elemental,Darksteel,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.44,False
+Echoing Courage,Instant,None,Darksteel,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.06,False
+Fangren Firstborn,Creature,Beast,Darksteel,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Tim Hildebrandt',0.86,False
+Infested Roothold,Creature,Wall,Darksteel,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.12,False
+Karstoderm,Creature,Beast,Darksteel,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Tony Szczudlo',0.09,False
+Nourish,Instant,None,Darksteel,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',0.09,False
+Oxidize,Instant,None,Darksteel,Uncommon,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.27,False
+Pulse of the Tangle,Sorcery,None,Darksteel,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne England',0.33,False
+Reap and Sow,Sorcery,None,Darksteel,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Rob Alexander',0.24,False
+Rebuking Ceremony,Sorcery,None,Darksteel,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Ittoku',0.2,False
+Roaring Slagwurm,Creature,Wurm,Darksteel,Rare,7,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'David Martin',0.19,False
+Stand Together,Instant,None,Darksteel,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Luca Zontini',0.17,False
+Tangle Spider,Creature,Spider,Darksteel,Common,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.11,False
+Tanglewalker,Creature,Dryad,Darksteel,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.18,False
+Tel-Jilad Outrider,Creature,Elf Warrior,Darksteel,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.06,False
+Tel-Jilad Wolf,Creature,Wolf,Darksteel,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.1,False
+Viridian Acolyte,Creature,Elf Shaman,Darksteel,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'D. Alexander Gregory',0.08,False
+Viridian Zealot,Creature,Elf Warrior,Darksteel,Rare,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.48,False
+Aether Vial,Artifact,None,Darksteel,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Hildebrandt',22.54,False
+Angel's Feather,Artifact,None,Darksteel,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.16,False
+Arcane Spyglass,Artifact,None,Darksteel,Common,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Trevor Hairsine',0.1,False
+Arcbound Bruiser,Artifact Creature,Golem,Darksteel,Common,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.15,False
+Arcbound Crusher,Artifact Creature,Juggernaut,Darksteel,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Sutfin',0.56,False
+Arcbound Fiend,Artifact Creature,Horror,Darksteel,Uncommon,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Ittoku',0.29,False
+Arcbound Hybrid,Artifact Creature,Beast,Darksteel,Common,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Pollack',0.17,False
+Arcbound Lancer,Artifact Creature,Beast,Darksteel,Uncommon,7,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.16,False
+Arcbound Overseer,Artifact Creature,Golem,Darksteel,Rare,8,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',1.05,False
+Arcbound Ravager,Artifact Creature,Beast,Darksteel,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',11.7,False
+Arcbound Reclaimer,Artifact Creature,Golem,Darksteel,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Jon Foster',1.14,False
+Arcbound Slith,Artifact Creature,Slith,Darksteel,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Vance Kovacs',0.52,False
+Arcbound Stinger,Artifact Creature,Insect,Darksteel,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Darrell Riche',0.14,False
+Arcbound Worker,Artifact Creature,Construct,Darksteel,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Darrell Riche',0.29,False
+Auriok Siege Sled,Artifact Creature,Juggernaut,Darksteel,Uncommon,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Murray',0.13,False
+Chimeric Egg,Artifact,None,Darksteel,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',0.15,False
+Coretapper,Artifact Creature,Myr,Darksteel,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Dany Orizio',2.41,False
+Darksteel Brute,Artifact,None,Darksteel,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Nottsuo',0.16,False
+Darksteel Colossus,Artifact Creature,Golem,Darksteel,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',6.94,False
+Darksteel Forge,Artifact,None,Darksteel,Rare,9,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Martina Pilcerova',19.39,False
+Darksteel Gargoyle,Artifact Creature,Gargoyle,Darksteel,Uncommon,7,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.27,False
+Darksteel Ingot,Artifact,None,Darksteel,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Martina Pilcerova',0.48,False
+Darksteel Pendant,Artifact,None,Darksteel,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.22,False
+Darksteel Reactor,Artifact,None,Darksteel,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',5.95,False
+Death-Mask Duplicant,Artifact Creature,Shapeshifter,Darksteel,Uncommon,7,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.13,False
+Demon's Horn,Artifact,None,Darksteel,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.15,False
+Dragon's Claw,Artifact,None,Darksteel,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.59,False
+Drill-Skimmer,Artifact Creature,Thopter,Darksteel,Common,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Zug',0.12,False
+Dross Golem,Artifact Creature,Golem,Darksteel,Common,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Rex',0.11,False
+Eater of Days,Artifact Creature,Leviathan,Darksteel,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',1.88,False
+Gemini Engine,Artifact Creature,Construct,Darksteel,Rare,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Nottsuo',0.18,False
+Genesis Chamber,Artifact,None,Darksteel,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.63,False
+Geth's Grimoire,Artifact,None,Darksteel,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',1.73,False
+Heartseeker,Artifact,Equipment,Darksteel,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',3.38,False
+Juggernaut,Artifact Creature,Juggernaut,Darksteel,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Arnie Swekel',0.17,False
+Kraken's Eye,Artifact,None,Darksteel,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.14,False
+Leonin Bola,Artifact,Equipment,Darksteel,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.14,False
+Lich's Tomb,Artifact,None,Darksteel,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.37,False
+Memnarch,Artifact Creature,Wizard,Darksteel,Rare,7,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',7.07,True
+Mycosynth Lattice,Artifact,None,Darksteel,Rare,6,Colorless,Banned,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',30.48,False
+Myr Landshaper,Artifact Creature,Myr,Darksteel,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.2,False
+Myr Matrix,Artifact,None,Darksteel,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',2.04,False
+Myr Moonvessel,Artifact Creature,Myr,Darksteel,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Dany Orizio',0.16,False
+Nemesis Mask,Artifact,Equipment,Darksteel,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Rex',0.57,False
+Oxidda Golem,Artifact Creature,Golem,Darksteel,Common,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.1,False
+Panoptic Mirror,Artifact,None,Darksteel,Rare,5,Colorless,Legal,Not Legal,Banned,Legal,Legal,False,b'Glen Angus',2.71,False
+Razor Golem,Artifact Creature,Golem,Darksteel,Common,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.12,False
+Serum Powder,Artifact,None,Darksteel,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Thompson',1.52,False
+Shield of Kaldra,Artifact,Equipment,Darksteel,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',5.88,True
+Skullclamp,Artifact,Equipment,Darksteel,Uncommon,1,Colorless,Banned,Not Legal,Legal,Legal,Banned,True,b'Luca Zontini',5.01,False
+Spawning Pit,Artifact,None,Darksteel,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Tony Szczudlo',3.33,False
+Specter's Shroud,Artifact,Equipment,Darksteel,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Hildebrandt',0.18,False
+Spellbinder,Artifact,Equipment,Darksteel,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.87,False
+Spincrusher,Artifact Creature,Construct,Darksteel,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.2,False
+Spire Golem,Artifact Creature,Golem,Darksteel,Common,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.23,False
+Sundering Titan,Artifact Creature,Golem,Darksteel,Rare,8,Colorless,Legal,Not Legal,Banned,Legal,Legal,True,b'Jim Murray',0.95,False
+Surestrike Trident,Artifact,Equipment,Darksteel,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Ben Thompson',0.78,False
+Sword of Fire and Ice,Artifact,Equipment,Darksteel,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',69.5,False
+Sword of Light and Shadow,Artifact,Equipment,Darksteel,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',38.51,False
+Talon of Pain,Artifact,None,Darksteel,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.12,False
+Tangle Golem,Artifact Creature,Golem,Darksteel,Common,7,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Arnie Swekel',0.15,False
+Thought Dissector,Artifact,None,Darksteel,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.29,False
+Thunderstaff,Artifact,None,Darksteel,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.16,False
+Trinisphere,Artifact,None,Darksteel,Rare,3,Colorless,Legal,Not Legal,Legal,Restrict.,Legal,True,b'Tim Hildebrandt',33.01,False
+Ur-Golem's Eye,Artifact,None,Darksteel,Common,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.27,False
+Voltaic Construct,Artifact Creature,Golem Construct,Darksteel,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Easley',0.3,False
+Vulshok Morningstar,Artifact,Equipment,Darksteel,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'David Martin',0.11,False
+Wand of the Elements,Artifact,None,Darksteel,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.21,False
+Well of Lost Dreams,Artifact,None,Darksteel,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',3.06,False
+Whispersilk Cloak,Artifact,Equipment,Darksteel,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Luca Zontini',1.44,False
+Wirefly Hive,Artifact,None,Darksteel,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Nottsuo',0.21,False
+Wurm's Tooth,Artifact,None,Darksteel,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.1,False
+Blinkmoth Nexus,Land,None,Darksteel,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',4.03,False
+Darksteel Citadel,Artifact Land,None,Darksteel,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.64,False
+Mirrodin's Core,Land,None,Darksteel,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.24,False

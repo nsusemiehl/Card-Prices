@@ -1,250 +1,250 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Abuna Acolyte,Creature,Cat Cleric,Scars of Mirrodin,Uncommon,2,White,True,False,True,True,b'Igor Kieryluk',0.08
-Arrest,Enchantment,Aura,Scars of Mirrodin,Common,3,White,True,False,True,True,b'Daarken',0.1
-Auriok Edgewright,Creature,Human Soldier,Scars of Mirrodin,Uncommon,2,White,True,False,True,True,b'Mike Bierek',0.11
-Auriok Sunchaser,Creature,Human Soldier,Scars of Mirrodin,Common,2,White,True,False,True,True,b'James Ryman',0.14
-Dispense Justice,Instant,None,Scars of Mirrodin,Uncommon,3,White,True,False,True,True,b'Austin Hsu',0.09
-Elspeth Tirel,Legendary Planeswalker,Elspeth,Scars of Mirrodin,Mythic Rare,5,White,True,False,True,True,b'Michael Komarck',8.01
-Fulgent Distraction,Instant,None,Scars of Mirrodin,Common,3,White,True,False,True,True,b'Nic Klein',0.07
-Ghalma's Warden,Creature,Elephant Soldier,Scars of Mirrodin,Common,4,White,True,False,True,True,b'Mike Bierek',0.06
-Glimmerpoint Stag,Creature,Elk,Scars of Mirrodin,Uncommon,4,White,True,False,True,True,b'Ryan Pancoast',0.14
-Glint Hawk,Creature,Bird,Scars of Mirrodin,Common,1,White,True,False,True,True,b'Dave Allsop',0.25
-Indomitable Archangel,Creature,Angel,Scars of Mirrodin,Mythic Rare,4,White,True,False,True,True,b'Allen Williams',1.04
-"Kemba, Kha Regent",Legendary Creature,Cat Cleric,Scars of Mirrodin,Rare,3,White,True,False,True,True,b'Todd Lockwood',0.29
-Kemba's Skyguard,Creature,Cat Knight,Scars of Mirrodin,Common,3,White,True,False,True,True,b'Whit Brachna',0.13
-Leonin Arbiter,Creature,Cat Cleric,Scars of Mirrodin,Rare,2,White,True,False,True,True,b'Shelly Wan',1.61
-Loxodon Wayfarer,Creature,Elephant Monk,Scars of Mirrodin,Common,3,White,True,False,True,True,b'Steven Belledin',0.08
-Myrsmith,Creature,Human Artificer,Scars of Mirrodin,Uncommon,2,White,True,False,True,True,b'Eric Deschamps',0.13
-Razor Hippogriff,Creature,Hippogriff,Scars of Mirrodin,Uncommon,5,White,True,False,True,True,b'David Rapoza',0.11
-Revoke Existence,Sorcery,None,Scars of Mirrodin,Common,2,White,True,True,True,True,b'Allen Williams',0.09
-Salvage Scout,Creature,Human Scout,Scars of Mirrodin,Common,1,White,True,False,True,True,b'Randis Albion',0.15
-Seize the Initiative,Instant,None,Scars of Mirrodin,Common,1,White,True,False,True,True,b'Steve Argyle',0.06
-Soul Parry,Instant,None,Scars of Mirrodin,Common,2,White,True,False,True,True,b'Igor Kieryluk',0.06
-Sunblast Angel,Creature,Angel,Scars of Mirrodin,Rare,6,White,True,False,True,True,b'Jason Chan',0.68
-Sunspear Shikari,Creature,Cat Soldier,Scars of Mirrodin,Common,2,White,True,False,True,True,b'Allen Williams',0.11
-Tempered Steel,Enchantment,None,Scars of Mirrodin,Rare,3,White,True,False,True,True,b'Wayne Reynolds',0.96
-True Conviction,Enchantment,None,Scars of Mirrodin,Rare,6,White,True,False,True,True,b'Svetlin Velinov',1.45
-Vigil for the Lost,Enchantment,None,Scars of Mirrodin,Uncommon,4,White,True,False,True,True,b'Igor Kieryluk',0.07
-Whitesun's Passage,Instant,None,Scars of Mirrodin,Common,2,White,True,False,True,True,b'John Avon',0.07
-Argent Sphinx,Creature,Sphinx,Scars of Mirrodin,Rare,4,Blue,True,False,True,True,b'Chris Rahn',0.19
-Bonds of Quicksilver,Enchantment,Aura,Scars of Mirrodin,Common,4,Blue,True,False,True,True,b'Steven Belledin',0.05
-Darkslick Drake,Creature,Drake,Scars of Mirrodin,Uncommon,4,Blue,True,False,True,True,b'Chippy',0.09
-Disperse,Instant,None,Scars of Mirrodin,Common,2,Blue,True,False,True,True,b'Adrian Smith',0.08
-Dissipation Field,Enchantment,None,Scars of Mirrodin,Rare,4,Blue,True,False,True,True,b'Matt Cavotta',1.57
-Grand Architect,Creature,Vedalken Artificer,Scars of Mirrodin,Rare,3,Blue,True,False,True,True,b'Steven Belledin',4.24
-Halt Order,Instant,None,Scars of Mirrodin,Uncommon,3,Blue,True,False,True,True,b'Izzy',0.04
-Inexorable Tide,Enchantment,None,Scars of Mirrodin,Rare,5,Blue,True,False,True,True,b'Dave Kendall',3.04
-Lumengrid Drake,Creature,Drake,Scars of Mirrodin,Common,4,Blue,True,False,True,True,b'Johann Bodin',0.09
-Neurok Invisimancer,Creature,Human Wizard,Scars of Mirrodin,Common,3,Blue,True,False,True,True,b'Izzy',0.14
-Plated Seastrider,Creature,Beast,Scars of Mirrodin,Common,2,Blue,True,False,True,True,b'Izzy',0.07
-Quicksilver Gargantuan,Creature,Shapeshifter,Scars of Mirrodin,Mythic Rare,7,Blue,True,False,True,True,b'Steven Belledin',0.72
-Riddlesmith,Creature,Human Artificer,Scars of Mirrodin,Uncommon,2,Blue,True,False,True,True,b'Eric Deschamps',0.22
-Scrapdiver Serpent,Creature,Serpent,Scars of Mirrodin,Common,7,Blue,True,False,True,True,b'Adrian Smith',0.11
-Screeching Silcaw,Creature,Bird,Scars of Mirrodin,Common,2,Blue,True,False,True,True,b'Mike Bierek',0.08
-Shape Anew,Sorcery,None,Scars of Mirrodin,Rare,4,Blue,True,False,True,True,b'Zoltan Boros',0.2
-Sky-Eel School,Creature,Fish,Scars of Mirrodin,Common,5,Blue,True,False,True,True,b'Daniel Ljunggren',0.07
-Steady Progress,Instant,None,Scars of Mirrodin,Common,3,Blue,True,False,True,True,b'Efrem Palacios',0.2
-Stoic Rebuttal,Instant,None,Scars of Mirrodin,Common,3,Blue,True,False,True,True,b'Chris Rahn',0.12
-Thrummingbird,Creature,Bird Horror,Scars of Mirrodin,Uncommon,2,Blue,True,False,True,True,b'Efrem Palacios',0.31
-Trinket Mage,Creature,Human Wizard,Scars of Mirrodin,Uncommon,3,Blue,True,False,True,True,b'Scott Chou',0.28
-Turn Aside,Instant,None,Scars of Mirrodin,Common,1,Blue,True,False,True,True,b'Shelly Wan',0.16
-Twisted Image,Instant,None,Scars of Mirrodin,Uncommon,1,Blue,True,False,True,True,b'Izzy',0.13
-Vault Skyward,Instant,None,Scars of Mirrodin,Common,1,Blue,True,False,True,True,b'Dan Scott',0.06
-Vedalken Certarch,Creature,Vedalken Wizard,Scars of Mirrodin,Common,1,Blue,True,False,True,True,b'Karl Kopinski',0.09
-Volition Reins,Enchantment,Aura,Scars of Mirrodin,Uncommon,6,Blue,True,False,True,True,b'Svetlin Velinov',0.11
-Blackcleave Goblin,Creature,Goblin Zombie,Scars of Mirrodin,Common,4,Black,True,False,True,True,b'Nils Hamm',0.16
-Bleak Coven Vampires,Creature,Vampire Warrior,Scars of Mirrodin,Common,5,Black,True,False,True,True,b'Randis Albion',0.08
-Blistergrub,Creature,Horror,Scars of Mirrodin,Common,3,Black,True,False,True,True,b'Daarken',0.12
-Carnifex Demon,Creature,Demon,Scars of Mirrodin,Rare,6,Black,True,False,True,True,b'Aleksi Briclot',0.67
-Contagious Nim,Creature,Zombie,Scars of Mirrodin,Common,3,Black,True,False,True,True,b'Efrem Palacios',0.17
-Corrupted Harvester,Creature,Horror,Scars of Mirrodin,Uncommon,6,Black,True,False,True,True,b'Nils Hamm',0.06
-Dross Hopper,Creature,Insect Horror,Scars of Mirrodin,Common,2,Black,True,False,True,True,b'Dave Allsop',0.11
-Exsanguinate,Sorcery,None,Scars of Mirrodin,Uncommon,3,Black,True,False,True,True,b'Carl Critchlow',4.21
-Flesh Allergy,Sorcery,None,Scars of Mirrodin,Uncommon,4,Black,True,False,True,True,b'Vance Kovacs',0.07
-Fume Spitter,Creature,Horror,Scars of Mirrodin,Common,1,Black,True,False,True,True,b'Nils Hamm',0.16
-"Geth, Lord of the Vault",Legendary Creature,Zombie,Scars of Mirrodin,Mythic Rare,6,Black,True,False,True,True,b'Whit Brachna',2.26
-Grasp of Darkness,Instant,None,Scars of Mirrodin,Common,2,Black,True,False,True,True,b'Johann Bodin',0.23
-Hand of the Praetors,Creature,Zombie,Scars of Mirrodin,Rare,4,Black,True,False,True,True,b'Izzy',2.15
-Ichor Rats,Creature,Rat,Scars of Mirrodin,Uncommon,3,Black,True,False,True,True,b'Matt Stewart',1.09
-Instill Infection,Instant,None,Scars of Mirrodin,Common,4,Black,True,False,True,True,b'Chris Rahn',0.14
-Memoricide,Sorcery,None,Scars of Mirrodin,Rare,4,Black,True,False,True,True,b'James Ryman',0.26
-Moriok Reaver,Creature,Human Warrior,Scars of Mirrodin,Common,3,Black,True,False,True,True,b'Marc Simonetti',0.1
-Necrogen Scudder,Creature,Horror,Scars of Mirrodin,Uncommon,3,Black,True,False,True,True,b'Raymond Swanland',0.04
-Necrotic Ooze,Creature,Ooze,Scars of Mirrodin,Rare,4,Black,True,False,True,True,b'James Ryman',1.69
-Painful Quandary,Enchantment,None,Scars of Mirrodin,Rare,5,Black,True,False,True,True,b'Whit Brachna',7.43
-Painsmith,Creature,Human Artificer,Scars of Mirrodin,Uncommon,2,Black,True,False,True,True,b'Eric Deschamps',0.08
-Plague Stinger,Creature,Insect Horror,Scars of Mirrodin,Common,2,Black,True,False,True,True,b'Ryan Pancoast',0.23
-Psychic Miasma,Sorcery,None,Scars of Mirrodin,Common,2,Black,True,False,True,True,b'Svetlin Velinov',0.07
-Relic Putrescence,Enchantment,Aura,Scars of Mirrodin,Common,3,Black,True,False,True,True,b'Allen Williams',0.07
-Skinrender,Creature,Zombie,Scars of Mirrodin,Uncommon,4,Black,True,False,True,True,b'David Rapoza',0.26
-"Skithiryx, the Blight Dragon",Legendary Creature,Dragon Skeleton,Scars of Mirrodin,Mythic Rare,5,Black,True,False,True,True,b'Chippy',35.12
-Tainted Strike,Instant,None,Scars of Mirrodin,Common,1,Black,True,False,True,True,b'James Ryman',0.97
-Arc Trail,Sorcery,None,Scars of Mirrodin,Uncommon,2,Red,True,False,True,True,b'Marc Simonetti',0.1
-Assault Strobe,Sorcery,None,Scars of Mirrodin,Common,1,Red,True,False,True,True,b'Kev Walker',0.36
-Barrage Ogre,Creature,Ogre Warrior,Scars of Mirrodin,Uncommon,5,Red,True,False,True,True,b'David Rapoza',0.12
-Blade-Tribe Berserkers,Creature,Human Berserker,Scars of Mirrodin,Common,4,Red,True,False,True,True,b'Kev Walker',0.05
-Bloodshot Trainee,Creature,Goblin Warrior,Scars of Mirrodin,Uncommon,4,Red,True,False,True,True,b'Matt Stewart',0.03
-Cerebral Eruption,Sorcery,None,Scars of Mirrodin,Rare,4,Red,True,False,True,True,b'Kev Walker',0.19
-Embersmith,Creature,Human Artificer,Scars of Mirrodin,Uncommon,2,Red,True,False,True,True,b'Eric Deschamps',0.09
-Ferrovore,Creature,Beast,Scars of Mirrodin,Common,3,Red,True,False,True,True,b'Austin Hsu',0.09
-Flameborn Hellion,Creature,Hellion,Scars of Mirrodin,Common,6,Red,True,False,True,True,b'Aleksi Briclot',0.07
-Furnace Celebration,Enchantment,None,Scars of Mirrodin,Uncommon,3,Red,True,False,True,True,b'Svetlin Velinov',0.09
-Galvanic Blast,Instant,None,Scars of Mirrodin,Common,1,Red,True,False,True,True,b'Marc Simonetti',0.31
-Goblin Gaveleer,Creature,Goblin Warrior,Scars of Mirrodin,Common,1,Red,True,False,True,True,b'Svetlin Velinov',0.13
-Hoard-Smelter Dragon,Creature,Dragon,Scars of Mirrodin,Rare,6,Red,True,False,True,True,b'Eric Deschamps',0.25
-Koth of the Hammer,Legendary Planeswalker,Koth,Scars of Mirrodin,Mythic Rare,4,Red,True,False,True,True,b'Jason Chan',5.01
-Kuldotha Phoenix,Creature,Phoenix,Scars of Mirrodin,Rare,5,Red,True,False,True,True,b'Mike Bierek',0.18
-Kuldotha Rebirth,Sorcery,None,Scars of Mirrodin,Common,1,Red,True,False,True,True,b'Goran Josic',0.17
-Melt Terrain,Sorcery,None,Scars of Mirrodin,Common,4,Red,True,False,True,True,b'John Avon',0.1
-Molten Psyche,Sorcery,None,Scars of Mirrodin,Rare,3,Red,True,False,True,True,b'Ryan Yee',1.85
-Ogre Geargrabber,Creature,Ogre Warrior,Scars of Mirrodin,Uncommon,6,Red,True,False,True,True,b'David Rapoza',0.07
-Oxidda Daredevil,Creature,Goblin Artificer,Scars of Mirrodin,Common,2,Red,True,False,True,True,b'Pete Venters',0.06
-Oxidda Scrapmelter,Creature,Beast,Scars of Mirrodin,Uncommon,4,Red,True,False,True,True,b'Igor Kieryluk',0.07
-Scoria Elemental,Creature,Elemental,Scars of Mirrodin,Common,5,Red,True,False,True,True,b'Karl Kopinski',0.08
-Shatter,Instant,None,Scars of Mirrodin,Common,2,Red,True,False,True,True,b'jD',0.08
-Spikeshot Elder,Creature,Goblin Shaman,Scars of Mirrodin,Rare,1,Red,True,False,True,True,b'Izzy',0.25
-Tunnel Ignus,Creature,Elemental,Scars of Mirrodin,Rare,2,Red,True,False,True,True,b'Scott Chou',0.24
-Turn to Slag,Sorcery,None,Scars of Mirrodin,Common,5,Red,True,False,True,True,b'Zoltan Boros',0.13
-Vulshok Heartstoker,Creature,Human Shaman,Scars of Mirrodin,Common,3,Red,True,False,True,True,b'Shelly Wan',0.16
-Acid Web Spider,Creature,Spider,Scars of Mirrodin,Uncommon,5,Green,True,False,True,True,b'Austin Hsu',0.11
-Alpha Tyrranax,Creature,Dinosaur Beast,Scars of Mirrodin,Common,6,Green,True,False,True,True,b'Dave Kendall',0.08
-Asceticism,Enchantment,None,Scars of Mirrodin,Rare,5,Green,True,False,True,True,b'Daarken',8.51
-Bellowing Tanglewurm,Creature,Wurm,Scars of Mirrodin,Uncommon,5,Green,True,False,True,True,b'jD',0.3
-Blight Mamba,Creature,Snake,Scars of Mirrodin,Common,2,Green,True,False,True,True,b'Drew Baker',0.41
-Blunt the Assault,Instant,None,Scars of Mirrodin,Common,4,Green,True,False,True,True,b'Matt Stewart',0.18
-Carapace Forger,Creature,Elf Artificer,Scars of Mirrodin,Common,2,Green,True,False,True,True,b'Matt Cavotta',0.25
-Carrion Call,Instant,None,Scars of Mirrodin,Uncommon,4,Green,True,False,True,True,b'Adrian Smith',0.15
-Copperhorn Scout,Creature,Elf Scout,Scars of Mirrodin,Common,1,Green,True,False,True,True,b'Shelly Wan',0.13
-Cystbearer,Creature,Beast,Scars of Mirrodin,Common,3,Green,True,False,True,True,b'Kev Walker',0.19
-Engulfing Slagwurm,Creature,Wurm,Scars of Mirrodin,Rare,7,Green,True,False,True,True,b'Jaime Jones',0.59
-"Ezuri, Renegade Leader",Legendary Creature,Elf Warrior,Scars of Mirrodin,Rare,3,Green,True,False,True,True,b'Karl Kopinski',1.52
-Ezuri's Archers,Creature,Elf Archer,Scars of Mirrodin,Common,1,Green,True,False,True,True,b'Shelly Wan',0.09
-Ezuri's Brigade,Creature,Elf Warrior,Scars of Mirrodin,Rare,4,Green,True,False,True,True,b'Nic Klein',0.2
-Genesis Wave,Sorcery,None,Scars of Mirrodin,Rare,4,Green,True,False,True,True,b'James Paick',4.68
-Liege of the Tangle,Creature,Elemental,Scars of Mirrodin,Mythic Rare,8,Green,True,False,True,True,b'Jason Chan',3.55
-Lifesmith,Creature,Human Artificer,Scars of Mirrodin,Uncommon,2,Green,True,False,True,True,b'Eric Deschamps',0.06
-Molder Beast,Creature,Beast,Scars of Mirrodin,Common,5,Green,True,False,True,True,b'Randis Albion',0.13
-Putrefax,Creature,Horror,Scars of Mirrodin,Rare,5,Green,True,False,True,True,b'Steven Belledin',0.4
-Slice in Twain,Instant,None,Scars of Mirrodin,Uncommon,4,Green,True,False,True,True,b'Efrem Palacios',0.12
-Tangle Angler,Creature,Horror,Scars of Mirrodin,Uncommon,4,Green,True,False,True,True,b'Igor Kieryluk',0.19
-Tel-Jilad Defiance,Instant,None,Scars of Mirrodin,Common,2,Green,True,False,True,True,b'Goran Josic',0.03
-Tel-Jilad Fallen,Creature,Elf Warrior,Scars of Mirrodin,Common,4,Green,True,False,True,True,b'James Ryman',0.15
-Untamed Might,Instant,None,Scars of Mirrodin,Common,2,Green,True,False,True,True,b'Erica Yang',0.1
-Viridian Revel,Enchantment,None,Scars of Mirrodin,Uncommon,3,Green,True,False,True,True,b'rk post',0.11
-Wing Puncture,Instant,None,Scars of Mirrodin,Common,1,Green,True,False,True,True,b'jD',0.08
-Withstand Death,Instant,None,Scars of Mirrodin,Common,1,Green,True,False,True,True,b'Tomasz Jedruszek',0.21
-"Venser, the Sojourner",Legendary Planeswalker,Venser,Scars of Mirrodin,Mythic Rare,5,Gold,True,False,True,True,b'Eric Deschamps',10.67
-Accorder's Shield,Artifact,Equipment,Scars of Mirrodin,Common,0,Colorless,True,False,True,True,b'Alan Pollack',0.15
-Argentum Armor,Artifact,Equipment,Scars of Mirrodin,Rare,6,Colorless,True,False,True,True,b'Matt Cavotta',1.13
-Auriok Replica,Artifact Creature,Cleric,Scars of Mirrodin,Common,3,Colorless,True,False,True,True,b'Zoltan Boros',0.07
-Barbed Battlegear,Artifact,Equipment,Scars of Mirrodin,Uncommon,3,Colorless,True,False,True,True,b'Steve Argyle',0.06
-Bladed Pinions,Artifact,Equipment,Scars of Mirrodin,Common,2,Colorless,True,False,True,True,b'Steve Argyle',0.17
-Chimeric Mass,Artifact,None,Scars of Mirrodin,Rare,1,Colorless,True,False,True,True,b'David Palumbo',0.2
-Chrome Steed,Artifact Creature,Horse,Scars of Mirrodin,Common,4,Colorless,True,False,True,True,b'Jana Schirmer',0.1
-Clone Shell,Artifact Creature,Shapeshifter,Scars of Mirrodin,Uncommon,5,Colorless,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.22
-Contagion Clasp,Artifact,None,Scars of Mirrodin,Uncommon,2,Colorless,True,False,True,True,b'Anthony Palumbo',0.74
-Contagion Engine,Artifact,None,Scars of Mirrodin,Rare,6,Colorless,True,False,True,True,b'Daarken',7.87
-Copper Myr,Artifact Creature,Myr,Scars of Mirrodin,Common,2,Colorless,True,False,True,True,b'Alan Pollack',0.11
-Corpse Cur,Artifact Creature,Hound,Scars of Mirrodin,Common,4,Colorless,True,False,True,True,b'Pete Venters',0.2
-Culling Dais,Artifact,None,Scars of Mirrodin,Uncommon,2,Colorless,True,False,True,True,b'Anthony Palumbo',0.16
-Darksteel Axe,Artifact,Equipment,Scars of Mirrodin,Uncommon,1,Colorless,True,False,True,True,b'Daniel Ljunggren',0.12
-Darksteel Juggernaut,Artifact Creature,Juggernaut,Scars of Mirrodin,Rare,5,Colorless,True,False,True,True,b'Randis Albion',0.51
-Darksteel Myr,Artifact Creature,Myr,Scars of Mirrodin,Uncommon,3,Colorless,True,False,True,True,b'Randis Albion',0.27
-Darksteel Sentinel,Artifact Creature,Golem,Scars of Mirrodin,Uncommon,6,Colorless,True,False,True,True,b'Erica Yang',0.16
-Echo Circlet,Artifact,Equipment,Scars of Mirrodin,Common,2,Colorless,True,False,True,True,b'Daarken',0.1
-Etched Champion,Artifact Creature,Soldier,Scars of Mirrodin,Rare,3,Colorless,True,False,True,True,b'Matt Cavotta',1.23
-Flight Spellbomb,Artifact,None,Scars of Mirrodin,Common,1,Colorless,True,False,True,True,b'Franz Vohwinkel',0.08
-Glint Hawk Idol,Artifact,None,Scars of Mirrodin,Common,2,Colorless,True,False,True,True,b'Dave Allsop',0.07
-Gold Myr,Artifact Creature,Myr,Scars of Mirrodin,Common,2,Colorless,True,False,True,True,b'Alan Pollack',0.17
-Golden Urn,Artifact,None,Scars of Mirrodin,Common,1,Colorless,True,False,True,True,b'Charles Urbach',0.1
-Golem Artisan,Artifact Creature,Golem,Scars of Mirrodin,Uncommon,5,Colorless,True,False,True,True,b'Nic Klein',0.1
-Golem Foundry,Artifact,None,Scars of Mirrodin,Common,3,Colorless,True,False,True,True,b'Nic Klein',0.23
-Golem's Heart,Artifact,None,Scars of Mirrodin,Uncommon,2,Colorless,True,False,True,True,b'Matt Cavotta',0.19
-Grafted Exoskeleton,Artifact,Equipment,Scars of Mirrodin,Uncommon,4,Colorless,True,False,True,True,b'Allen Williams',2.91
-Grindclock,Artifact,None,Scars of Mirrodin,Rare,2,Colorless,True,False,True,True,b'Nils Hamm',0.26
-Heavy Arbalest,Artifact,Equipment,Scars of Mirrodin,Uncommon,3,Colorless,True,False,True,True,b'David Rapoza',0.05
-Horizon Spellbomb,Artifact,None,Scars of Mirrodin,Common,1,Colorless,True,False,True,True,b'Franz Vohwinkel',0.11
-Ichorclaw Myr,Artifact Creature,Myr,Scars of Mirrodin,Common,2,Colorless,True,False,True,True,b'Eric Deschamps',0.65
-Infiltration Lens,Artifact,Equipment,Scars of Mirrodin,Uncommon,1,Colorless,True,False,True,True,b'Izzy',0.71
-Iron Myr,Artifact Creature,Myr,Scars of Mirrodin,Common,2,Colorless,True,False,True,True,b'Alan Pollack',0.24
-Kuldotha Forgemaster,Artifact Creature,Construct,Scars of Mirrodin,Rare,5,Colorless,True,False,True,True,b'jD',4.44
-Leaden Myr,Artifact Creature,Myr,Scars of Mirrodin,Common,2,Colorless,True,False,True,True,b'Alan Pollack',0.21
-Liquimetal Coating,Artifact,None,Scars of Mirrodin,Uncommon,2,Colorless,True,False,True,True,b'Johann Bodin',1.0
-Livewire Lash,Artifact,Equipment,Scars of Mirrodin,Rare,2,Colorless,True,False,True,True,b'Daniel Ljunggren',0.27
-Lux Cannon,Artifact,None,Scars of Mirrodin,Mythic Rare,4,Colorless,True,False,True,True,b'Martina Pilcerova',5.79
-Memnite,Artifact Creature,Construct,Scars of Mirrodin,Uncommon,0,Colorless,True,False,True,True,b'Svetlin Velinov',0.93
-Mimic Vat,Artifact,None,Scars of Mirrodin,Rare,3,Colorless,True,False,True,True,b'Matt Cavotta',0.81
-Mindslaver,Legendary Artifact,None,Scars of Mirrodin,Mythic Rare,6,Colorless,True,False,True,True,b'Volkan Ba\xc7\xb5a',5.34
-Molten-Tail Masticore,Artifact Creature,Masticore,Scars of Mirrodin,Mythic Rare,4,Colorless,True,False,True,True,b'Whit Brachna',0.44
-Moriok Replica,Artifact Creature,Warrior,Scars of Mirrodin,Common,3,Colorless,True,False,True,True,b'Zoltan Boros',0.11
-Mox Opal,Legendary Artifact,None,Scars of Mirrodin,Mythic Rare,0,Colorless,False,False,True,True,b'Volkan Ba\xc7\xb5a',48.43
-Myr Battlesphere,Artifact Creature,Myr Construct,Scars of Mirrodin,Rare,7,Colorless,True,False,True,True,b'Franz Vohwinkel',0.49
-Myr Galvanizer,Artifact Creature,Myr,Scars of Mirrodin,Uncommon,3,Colorless,True,False,True,True,b'Greg Staples',0.42
-Myr Propagator,Artifact Creature,Myr,Scars of Mirrodin,Rare,3,Colorless,True,False,True,True,b'Ryan Pancoast',0.38
-Myr Reservoir,Artifact,None,Scars of Mirrodin,Rare,3,Colorless,True,False,True,True,b'Jung Park',0.45
-Necrogen Censer,Artifact,None,Scars of Mirrodin,Common,3,Colorless,True,False,True,True,b'Pete Venters',0.09
-Necropede,Artifact Creature,Insect,Scars of Mirrodin,Uncommon,2,Colorless,True,False,True,True,b'Nic Klein',0.54
-Neurok Replica,Artifact Creature,Wizard,Scars of Mirrodin,Common,3,Colorless,True,False,True,True,b'Zoltan Boros',0.05
-Nihil Spellbomb,Artifact,None,Scars of Mirrodin,Common,1,Colorless,True,False,True,True,b'Franz Vohwinkel',0.35
-Nim Deathmantle,Artifact,Equipment,Scars of Mirrodin,Rare,2,Colorless,True,False,True,True,b'Karl Kopinski',6.45
-Origin Spellbomb,Artifact,None,Scars of Mirrodin,Common,1,Colorless,True,False,True,True,b'Franz Vohwinkel',0.13
-Palladium Myr,Artifact Creature,Myr,Scars of Mirrodin,Uncommon,3,Colorless,True,False,True,True,b'Alan Pollack',0.67
-Panic Spellbomb,Artifact,None,Scars of Mirrodin,Common,1,Colorless,True,False,True,True,b'Franz Vohwinkel',0.09
-Perilous Myr,Artifact Creature,Myr,Scars of Mirrodin,Common,2,Colorless,True,False,True,True,b'Jason Felix',0.15
-Platinum Emperion,Artifact Creature,Golem,Scars of Mirrodin,Mythic Rare,8,Colorless,True,False,True,True,b'Chris Rahn',7.61
-Precursor Golem,Artifact Creature,Golem,Scars of Mirrodin,Rare,5,Colorless,True,False,True,True,b'Chippy',0.3
-Prototype Portal,Artifact,None,Scars of Mirrodin,Rare,4,Colorless,True,False,True,True,b'Drew Baker',0.46
-Ratchet Bomb,Artifact,None,Scars of Mirrodin,Rare,2,Colorless,True,False,True,True,b'Austin Hsu',1.15
-Razorfield Thresher,Artifact Creature,Construct,Scars of Mirrodin,Common,7,Colorless,True,False,True,True,b'Karl Kopinski',0.06
-Rust Tick,Artifact Creature,Insect,Scars of Mirrodin,Uncommon,3,Colorless,True,False,True,True,b'Carl Critchlow',0.18
-Rusted Relic,Artifact,None,Scars of Mirrodin,Uncommon,4,Colorless,True,False,True,True,b'Igor Kieryluk',0.09
-Saberclaw Golem,Artifact Creature,Golem,Scars of Mirrodin,Common,5,Colorless,True,False,True,True,b'Mike Bierek',0.05
-Semblance Anvil,Artifact,None,Scars of Mirrodin,Rare,3,Colorless,True,False,True,True,b'Dan Scott',2.78
-Silver Myr,Artifact Creature,Myr,Scars of Mirrodin,Common,2,Colorless,True,False,True,True,b'Alan Pollack',0.28
-Snapsail Glider,Artifact Creature,Construct,Scars of Mirrodin,Common,3,Colorless,True,False,True,True,b'Efrem Palacios',0.06
-Soliton,Artifact Creature,Construct,Scars of Mirrodin,Common,5,Colorless,True,False,True,True,b'Jason Felix',0.11
-Steel Hellkite,Artifact Creature,Dragon,Scars of Mirrodin,Rare,6,Colorless,True,False,True,True,b'James Paick',0.84
-Strata Scythe,Artifact,Equipment,Scars of Mirrodin,Rare,3,Colorless,True,False,True,True,b'Scott Chou',0.37
-Strider Harness,Artifact,Equipment,Scars of Mirrodin,Common,3,Colorless,True,False,True,True,b'Matt Stewart',0.07
-Sword of Body and Mind,Artifact,Equipment,Scars of Mirrodin,Mythic Rare,3,Colorless,True,False,True,True,b'Chris Rahn',16.51
-Sylvok Lifestaff,Artifact,Equipment,Scars of Mirrodin,Common,1,Colorless,True,False,True,True,b'Martina Pilcerova',0.18
-Sylvok Replica,Artifact Creature,Shaman,Scars of Mirrodin,Common,3,Colorless,True,False,True,True,b'Zoltan Boros',0.1
-Throne of Geth,Artifact,None,Scars of Mirrodin,Uncommon,2,Colorless,True,False,True,True,b'Jana Schirmer',0.51
-Tower of Calamities,Artifact,None,Scars of Mirrodin,Rare,4,Colorless,True,False,True,True,b'Aleksi Briclot',0.17
-Trigon of Corruption,Artifact,None,Scars of Mirrodin,Uncommon,4,Colorless,True,False,True,True,b'Nils Hamm',0.14
-Trigon of Infestation,Artifact,None,Scars of Mirrodin,Uncommon,4,Colorless,True,False,True,True,b'Dave Allsop',0.12
-Trigon of Mending,Artifact,None,Scars of Mirrodin,Uncommon,2,Colorless,True,False,True,True,b'Igor Kieryluk',0.12
-Trigon of Rage,Artifact,None,Scars of Mirrodin,Uncommon,2,Colorless,True,False,True,True,b'Marc Simonetti',0.1
-Trigon of Thought,Artifact,None,Scars of Mirrodin,Uncommon,5,Colorless,True,False,True,True,b'Mike Bierek',0.13
-Tumble Magnet,Artifact,None,Scars of Mirrodin,Common,3,Colorless,True,False,True,True,b'Drew Baker',0.09
-Vector Asp,Artifact Creature,Snake,Scars of Mirrodin,Common,1,Colorless,True,False,True,True,b'Erica Yang',0.14
-Venser's Journal,Artifact,None,Scars of Mirrodin,Rare,5,Colorless,True,False,True,True,b'Christopher Moeller',4.75
-Vulshok Replica,Artifact Creature,Berserker,Scars of Mirrodin,Common,3,Colorless,True,False,True,True,b'Zoltan Boros',0.11
-Wall of Tanglecord,Artifact Creature,Wall,Scars of Mirrodin,Common,2,Colorless,True,False,True,True,b'Vance Kovacs',0.3
-Wurmcoil Engine,Artifact Creature,Wurm,Scars of Mirrodin,Mythic Rare,6,Colorless,True,False,True,True,b'Raymond Swanland',21.38
-Blackcleave Cliffs,Land,None,Scars of Mirrodin,Rare,0,Colorless,True,False,True,True,b'Dave Kendall',18.78
-Copperline Gorge,Land,None,Scars of Mirrodin,Rare,0,Colorless,True,False,True,True,b'Zoltan Boros',6.42
-Darkslick Shores,Land,None,Scars of Mirrodin,Rare,0,Colorless,True,False,True,True,b'Charles Urbach',7.22
-Glimmerpost,Land,Locus,Scars of Mirrodin,Common,0,Colorless,True,False,True,True,b'Matt Cavotta',0.15
-Razorverge Thicket,Land,None,Scars of Mirrodin,Rare,0,Colorless,True,False,True,True,b'James Paick',6.59
-Seachrome Coast,Land,None,Scars of Mirrodin,Rare,0,Colorless,True,False,True,True,b'Lars Grant-West',5.37
-Plains,Basic Land,Plains,Scars of Mirrodin,Common,0,Colorless,True,True,True,True,b'James Paick',0.13
-Plains,Basic Land,Plains,Scars of Mirrodin,Common,0,Colorless,True,True,True,True,b'James Paick',0.1
-Plains,Basic Land,Plains,Scars of Mirrodin,Common,0,Colorless,True,True,True,True,b'James Paick',0.1
-Plains,Basic Land,Plains,Scars of Mirrodin,Common,0,Colorless,True,True,True,True,b'James Paick',0.09
-Island,Basic Land,Island,Scars of Mirrodin,Common,0,Colorless,True,True,True,True,b'Jung Park',0.09
-Island,Basic Land,Island,Scars of Mirrodin,Common,0,Colorless,True,True,True,True,b'Jung Park',0.1
-Island,Basic Land,Island,Scars of Mirrodin,Common,0,Colorless,True,True,True,True,b'Jung Park',0.15
-Island,Basic Land,Island,Scars of Mirrodin,Common,0,Colorless,True,True,True,True,b'Jung Park',0.08
-Swamp,Basic Land,Swamp,Scars of Mirrodin,Common,0,Colorless,True,True,True,True,b'Lars Grant-West',0.14
-Swamp,Basic Land,Swamp,Scars of Mirrodin,Common,0,Colorless,True,True,True,True,b'Lars Grant-West',0.19
-Swamp,Basic Land,Swamp,Scars of Mirrodin,Common,0,Colorless,True,True,True,True,b'Lars Grant-West',0.09
-Swamp,Basic Land,Swamp,Scars of Mirrodin,Common,0,Colorless,True,True,True,True,b'Lars Grant-West',0.15
-Mountain,Basic Land,Mountain,Scars of Mirrodin,Common,0,Colorless,True,True,True,True,b'Tomasz Jedruszek',0.1
-Mountain,Basic Land,Mountain,Scars of Mirrodin,Common,0,Colorless,True,True,True,True,b'Tomasz Jedruszek',0.07
-Mountain,Basic Land,Mountain,Scars of Mirrodin,Common,0,Colorless,True,True,True,True,b'Tomasz Jedruszek',0.11
-Mountain,Basic Land,Mountain,Scars of Mirrodin,Common,0,Colorless,True,True,True,True,b'Tomasz Jedruszek',0.1
-Forest,Basic Land,Forest,Scars of Mirrodin,Common,0,Colorless,True,True,True,True,b'Mark Tedin',0.13
-Forest,Basic Land,Forest,Scars of Mirrodin,Common,0,Colorless,True,True,True,True,b'Mark Tedin',0.1
-Forest,Basic Land,Forest,Scars of Mirrodin,Common,0,Colorless,True,True,True,True,b'Mark Tedin',0.18
-Forest,Basic Land,Forest,Scars of Mirrodin,Common,0,Colorless,True,True,True,True,b'Mark Tedin',0.1
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Abuna Acolyte,Creature,Cat Cleric,Scars of Mirrodin,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.07,False
+Arrest,Enchantment,Aura,Scars of Mirrodin,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.08,False
+Auriok Edgewright,Creature,Human Soldier,Scars of Mirrodin,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Bierek',0.11,False
+Auriok Sunchaser,Creature,Human Soldier,Scars of Mirrodin,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'James Ryman',0.15,False
+Dispense Justice,Instant,None,Scars of Mirrodin,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Austin Hsu',0.11,False
+Elspeth Tirel,Planeswalker,Elspeth,Scars of Mirrodin,Mythic Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Komarck',8.4,True
+Fulgent Distraction,Instant,None,Scars of Mirrodin,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Nic Klein',0.07,False
+Ghalma's Warden,Creature,Elephant Soldier,Scars of Mirrodin,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Bierek',0.06,False
+Glimmerpoint Stag,Creature,Elk,Scars of Mirrodin,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Pancoast',0.14,False
+Glint Hawk,Creature,Bird,Scars of Mirrodin,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Allsop',0.24,False
+Indomitable Archangel,Creature,Angel,Scars of Mirrodin,Mythic Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Allen Williams',0.96,False
+Kemba Kha Regent,Creature,Cat Cleric,Scars of Mirrodin,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Todd Lockwood',0.3,True
+Kemba's Skyguard,Creature,Cat Knight,Scars of Mirrodin,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Whit Brachna',0.13,False
+Leonin Arbiter,Creature,Cat Cleric,Scars of Mirrodin,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Shelly Wan',1.68,False
+Loxodon Wayfarer,Creature,Elephant Monk,Scars of Mirrodin,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.08,False
+Myrsmith,Creature,Human Artificer,Scars of Mirrodin,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Deschamps',0.12,False
+Razor Hippogriff,Creature,Hippogriff,Scars of Mirrodin,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'David Rapoza',0.09,False
+Revoke Existence,Sorcery,None,Scars of Mirrodin,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Allen Williams',0.11,False
+Salvage Scout,Creature,Human Scout,Scars of Mirrodin,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Randis Albion',0.13,False
+Seize the Initiative,Instant,None,Scars of Mirrodin,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Argyle',0.06,False
+Soul Parry,Instant,None,Scars of Mirrodin,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.08,False
+Sunblast Angel,Creature,Angel,Scars of Mirrodin,Rare,6,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',0.69,False
+Sunspear Shikari,Creature,Cat Soldier,Scars of Mirrodin,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Allen Williams',0.12,False
+Tempered Steel,Enchantment,None,Scars of Mirrodin,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',1.24,False
+True Conviction,Enchantment,None,Scars of Mirrodin,Rare,6,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',1.95,False
+Vigil for the Lost,Enchantment,None,Scars of Mirrodin,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.1,False
+Whitesun's Passage,Instant,None,Scars of Mirrodin,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.08,False
+Argent Sphinx,Creature,Sphinx,Scars of Mirrodin,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.19,False
+Bonds of Quicksilver,Enchantment,Aura,Scars of Mirrodin,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.06,False
+Darkslick Drake,Creature,Drake,Scars of Mirrodin,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Chippy',0.09,False
+Disperse,Instant,None,Scars of Mirrodin,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Adrian Smith',0.07,False
+Dissipation Field,Enchantment,None,Scars of Mirrodin,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',2.11,False
+Grand Architect,Creature,Vedalken Artificer,Scars of Mirrodin,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',3.21,False
+Halt Order,Instant,None,Scars of Mirrodin,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.06,False
+Inexorable Tide,Enchantment,None,Scars of Mirrodin,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Kendall',3.63,False
+Lumengrid Drake,Creature,Drake,Scars of Mirrodin,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Johann Bodin',0.1,False
+Neurok Invisimancer,Creature,Human Wizard,Scars of Mirrodin,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.14,False
+Plated Seastrider,Creature,Beast,Scars of Mirrodin,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.09,False
+Quicksilver Gargantuan,Creature,Shapeshifter,Scars of Mirrodin,Mythic Rare,7,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.76,False
+Riddlesmith,Creature,Human Artificer,Scars of Mirrodin,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Deschamps',0.23,False
+Scrapdiver Serpent,Creature,Serpent,Scars of Mirrodin,Common,7,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Adrian Smith',0.11,False
+Screeching Silcaw,Creature,Bird,Scars of Mirrodin,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Bierek',0.08,False
+Shape Anew,Sorcery,None,Scars of Mirrodin,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.22,False
+Sky-Eel School,Creature,Fish,Scars of Mirrodin,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',0.1,False
+Steady Progress,Instant,None,Scars of Mirrodin,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Efrem Palacios',0.23,False
+Stoic Rebuttal,Instant,None,Scars of Mirrodin,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.14,False
+Thrummingbird,Creature,Bird Horror,Scars of Mirrodin,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Efrem Palacios',0.3,False
+Trinket Mage,Creature,Human Wizard,Scars of Mirrodin,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Chou',0.28,False
+Turn Aside,Instant,None,Scars of Mirrodin,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Shelly Wan',0.2,False
+Twisted Image,Instant,None,Scars of Mirrodin,Uncommon,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.15,False
+Vault Skyward,Instant,None,Scars of Mirrodin,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.04,False
+Vedalken Certarch,Creature,Vedalken Wizard,Scars of Mirrodin,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.09,False
+Volition Reins,Enchantment,Aura,Scars of Mirrodin,Uncommon,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.1,False
+Blackcleave Goblin,Creature,Goblin Zombie,Scars of Mirrodin,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.16,False
+Bleak Coven Vampires,Creature,Vampire Warrior,Scars of Mirrodin,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Randis Albion',0.08,False
+Blistergrub,Creature,Horror,Scars of Mirrodin,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.12,False
+Carnifex Demon,Creature,Demon,Scars of Mirrodin,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',0.83,False
+Contagious Nim,Creature,Zombie,Scars of Mirrodin,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Efrem Palacios',0.21,False
+Corrupted Harvester,Creature,Horror,Scars of Mirrodin,Uncommon,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.07,False
+Dross Hopper,Creature,Insect Horror,Scars of Mirrodin,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Allsop',0.11,False
+Exsanguinate,Sorcery,None,Scars of Mirrodin,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',6.43,False
+Flesh Allergy,Sorcery,None,Scars of Mirrodin,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Vance Kovacs',0.08,False
+Fume Spitter,Creature,Horror,Scars of Mirrodin,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.15,False
+Geth Lord of the Vault,Creature,Zombie,Scars of Mirrodin,Mythic Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Whit Brachna',2.08,True
+Grasp of Darkness,Instant,None,Scars of Mirrodin,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Johann Bodin',0.23,False
+Hand of the Praetors,Creature,Zombie,Scars of Mirrodin,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',3.74,False
+Ichor Rats,Creature,Rat,Scars of Mirrodin,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',1.11,False
+Instill Infection,Instant,None,Scars of Mirrodin,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.12,False
+Memoricide,Sorcery,None,Scars of Mirrodin,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'James Ryman',0.32,False
+Moriok Reaver,Creature,Human Warrior,Scars of Mirrodin,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Marc Simonetti',0.1,False
+Necrogen Scudder,Creature,Horror,Scars of Mirrodin,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.04,False
+Necrotic Ooze,Creature,Ooze,Scars of Mirrodin,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'James Ryman',2.4,False
+Painful Quandary,Enchantment,None,Scars of Mirrodin,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Whit Brachna',8.34,False
+Painsmith,Creature,Human Artificer,Scars of Mirrodin,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Deschamps',0.08,False
+Plague Stinger,Creature,Insect Horror,Scars of Mirrodin,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Pancoast',0.29,False
+Psychic Miasma,Sorcery,None,Scars of Mirrodin,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.07,False
+Relic Putrescence,Enchantment,Aura,Scars of Mirrodin,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Allen Williams',0.11,False
+Skinrender,Creature,Zombie,Scars of Mirrodin,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'David Rapoza',0.25,False
+Skithiryx the Blight Dragon,Creature,Dragon Skeleton,Scars of Mirrodin,Mythic Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Chippy',45.19,True
+Tainted Strike,Instant,None,Scars of Mirrodin,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'James Ryman',1.29,False
+Arc Trail,Sorcery,None,Scars of Mirrodin,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Marc Simonetti',0.09,False
+Assault Strobe,Sorcery,None,Scars of Mirrodin,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.4,False
+Barrage Ogre,Creature,Ogre Warrior,Scars of Mirrodin,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'David Rapoza',0.11,False
+Blade-Tribe Berserkers,Creature,Human Berserker,Scars of Mirrodin,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.05,False
+Bloodshot Trainee,Creature,Goblin Warrior,Scars of Mirrodin,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.04,False
+Cerebral Eruption,Sorcery,None,Scars of Mirrodin,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.16,False
+Embersmith,Creature,Human Artificer,Scars of Mirrodin,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Deschamps',0.1,False
+Ferrovore,Creature,Beast,Scars of Mirrodin,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Austin Hsu',0.08,False
+Flameborn Hellion,Creature,Hellion,Scars of Mirrodin,Common,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',0.07,False
+Furnace Celebration,Enchantment,None,Scars of Mirrodin,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.09,False
+Galvanic Blast,Instant,None,Scars of Mirrodin,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Marc Simonetti',0.28,False
+Goblin Gaveleer,Creature,Goblin Warrior,Scars of Mirrodin,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.13,False
+Hoard-Smelter Dragon,Creature,Dragon,Scars of Mirrodin,Rare,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Deschamps',0.28,False
+Koth of the Hammer,Planeswalker,Koth,Scars of Mirrodin,Mythic Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',4.83,True
+Kuldotha Phoenix,Creature,Phoenix,Scars of Mirrodin,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Bierek',0.21,False
+Kuldotha Rebirth,Sorcery,None,Scars of Mirrodin,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Goran Josic',0.18,False
+Melt Terrain,Sorcery,None,Scars of Mirrodin,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.12,False
+Molten Psyche,Sorcery,None,Scars of Mirrodin,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Yee',3.85,False
+Ogre Geargrabber,Creature,Ogre Warrior,Scars of Mirrodin,Uncommon,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'David Rapoza',0.06,False
+Oxidda Daredevil,Creature,Goblin Artificer,Scars of Mirrodin,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.06,False
+Oxidda Scrapmelter,Creature,Beast,Scars of Mirrodin,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.05,False
+Scoria Elemental,Creature,Elemental,Scars of Mirrodin,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.09,False
+Shatter,Instant,None,Scars of Mirrodin,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'jD',0.07,False
+Spikeshot Elder,Creature,Goblin Shaman,Scars of Mirrodin,Rare,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.26,False
+Tunnel Ignus,Creature,Elemental,Scars of Mirrodin,Rare,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Chou',0.25,False
+Turn to Slag,Sorcery,None,Scars of Mirrodin,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.13,False
+Vulshok Heartstoker,Creature,Human Shaman,Scars of Mirrodin,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Shelly Wan',0.14,False
+Acid Web Spider,Creature,Spider,Scars of Mirrodin,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Austin Hsu',0.14,False
+Alpha Tyrranax,Creature,Dinosaur Beast,Scars of Mirrodin,Common,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Kendall',0.07,False
+Asceticism,Enchantment,None,Scars of Mirrodin,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',10.04,False
+Bellowing Tanglewurm,Creature,Wurm,Scars of Mirrodin,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'jD',0.28,False
+Blight Mamba,Creature,Snake,Scars of Mirrodin,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Baker',0.49,False
+Blunt the Assault,Instant,None,Scars of Mirrodin,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.21,False
+Carapace Forger,Creature,Elf Artificer,Scars of Mirrodin,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.24,False
+Carrion Call,Instant,None,Scars of Mirrodin,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Adrian Smith',0.19,False
+Copperhorn Scout,Creature,Elf Scout,Scars of Mirrodin,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Shelly Wan',0.16,False
+Cystbearer,Creature,Beast,Scars of Mirrodin,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.15,False
+Engulfing Slagwurm,Creature,Wurm,Scars of Mirrodin,Rare,7,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',0.57,False
+Ezuri Renegade Leader,Creature,Elf Warrior,Scars of Mirrodin,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',1.74,True
+Ezuri's Archers,Creature,Elf Archer,Scars of Mirrodin,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Shelly Wan',0.14,False
+Ezuri's Brigade,Creature,Elf Warrior,Scars of Mirrodin,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Nic Klein',0.2,False
+Genesis Wave,Sorcery,None,Scars of Mirrodin,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'James Paick',4.99,False
+Liege of the Tangle,Creature,Elemental,Scars of Mirrodin,Mythic Rare,8,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',3.54,False
+Lifesmith,Creature,Human Artificer,Scars of Mirrodin,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Deschamps',0.08,False
+Molder Beast,Creature,Beast,Scars of Mirrodin,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Randis Albion',0.12,False
+Putrefax,Creature,Horror,Scars of Mirrodin,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.44,False
+Slice in Twain,Instant,None,Scars of Mirrodin,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Efrem Palacios',0.1,False
+Tangle Angler,Creature,Horror,Scars of Mirrodin,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.2,False
+Tel-Jilad Defiance,Instant,None,Scars of Mirrodin,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Goran Josic',0.04,False
+Tel-Jilad Fallen,Creature,Elf Warrior,Scars of Mirrodin,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'James Ryman',0.14,False
+Untamed Might,Instant,None,Scars of Mirrodin,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Erica Yang',0.13,False
+Viridian Revel,Enchantment,None,Scars of Mirrodin,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',0.11,False
+Wing Puncture,Instant,None,Scars of Mirrodin,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'jD',0.03,False
+Withstand Death,Instant,None,Scars of Mirrodin,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.21,False
+Venser the Sojourner,Planeswalker,Venser,Scars of Mirrodin,Mythic Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Deschamps',10.85,True
+Accorder's Shield,Artifact,Equipment,Scars of Mirrodin,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.13,False
+Argentum Armor,Artifact,Equipment,Scars of Mirrodin,Rare,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',1.27,False
+Auriok Replica,Artifact Creature,Cleric,Scars of Mirrodin,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.07,False
+Barbed Battlegear,Artifact,Equipment,Scars of Mirrodin,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Argyle',0.1,False
+Bladed Pinions,Artifact,Equipment,Scars of Mirrodin,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Argyle',0.17,False
+Chimeric Mass,Artifact,None,Scars of Mirrodin,Rare,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'David Palumbo',0.18,False
+Chrome Steed,Artifact Creature,Horse,Scars of Mirrodin,Common,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jana Schirmer',0.1,False
+Clone Shell,Artifact Creature,Shapeshifter,Scars of Mirrodin,Uncommon,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',0.25,False
+Contagion Clasp,Artifact,None,Scars of Mirrodin,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony Palumbo',0.63,False
+Contagion Engine,Artifact,None,Scars of Mirrodin,Rare,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',12.38,False
+Copper Myr,Artifact Creature,Myr,Scars of Mirrodin,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.13,False
+Corpse Cur,Artifact Creature,Dog,Scars of Mirrodin,Common,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.22,False
+Culling Dais,Artifact,None,Scars of Mirrodin,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony Palumbo',0.19,False
+Darksteel Axe,Artifact,Equipment,Scars of Mirrodin,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',0.11,False
+Darksteel Juggernaut,Artifact Creature,Juggernaut,Scars of Mirrodin,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Randis Albion',0.47,False
+Darksteel Myr,Artifact Creature,Myr,Scars of Mirrodin,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Randis Albion',0.39,False
+Darksteel Sentinel,Artifact Creature,Golem,Scars of Mirrodin,Uncommon,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Erica Yang',0.19,False
+Echo Circlet,Artifact,Equipment,Scars of Mirrodin,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.1,False
+Etched Champion,Artifact Creature,Soldier,Scars of Mirrodin,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.9,False
+Flight Spellbomb,Artifact,None,Scars of Mirrodin,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',0.11,False
+Glint Hawk Idol,Artifact,None,Scars of Mirrodin,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Allsop',0.08,False
+Gold Myr,Artifact Creature,Myr,Scars of Mirrodin,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.18,False
+Golden Urn,Artifact,None,Scars of Mirrodin,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Charles Urbach',0.1,False
+Golem Artisan,Artifact Creature,Golem,Scars of Mirrodin,Uncommon,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Nic Klein',0.12,False
+Golem Foundry,Artifact,None,Scars of Mirrodin,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Nic Klein',0.25,False
+Golem's Heart,Artifact,None,Scars of Mirrodin,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.22,False
+Grafted Exoskeleton,Artifact,Equipment,Scars of Mirrodin,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Allen Williams',3.0,False
+Grindclock,Artifact,None,Scars of Mirrodin,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.25,False
+Heavy Arbalest,Artifact,Equipment,Scars of Mirrodin,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'David Rapoza',0.08,False
+Horizon Spellbomb,Artifact,None,Scars of Mirrodin,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',0.12,False
+Ichorclaw Myr,Artifact Creature,Myr,Scars of Mirrodin,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Deschamps',0.72,False
+Infiltration Lens,Artifact,Equipment,Scars of Mirrodin,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.75,False
+Iron Myr,Artifact Creature,Myr,Scars of Mirrodin,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.22,False
+Kuldotha Forgemaster,Artifact Creature,Construct,Scars of Mirrodin,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'jD',4.79,False
+Leaden Myr,Artifact Creature,Myr,Scars of Mirrodin,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.24,False
+Liquimetal Coating,Artifact,None,Scars of Mirrodin,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Johann Bodin',0.81,False
+Livewire Lash,Artifact,Equipment,Scars of Mirrodin,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',0.34,False
+Lux Cannon,Artifact,None,Scars of Mirrodin,Mythic Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Martina Pilcerova',6.9,False
+Memnite,Artifact Creature,Construct,Scars of Mirrodin,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',1.06,False
+Mimic Vat,Artifact,None,Scars of Mirrodin,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.93,False
+Mindslaver,Artifact,None,Scars of Mirrodin,Mythic Rare,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',4.56,True
+Molten-Tail Masticore,Artifact Creature,Masticore,Scars of Mirrodin,Mythic Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Whit Brachna',0.42,False
+Moriok Replica,Artifact Creature,Warrior,Scars of Mirrodin,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.13,False
+Mox Opal,Artifact,None,Scars of Mirrodin,Mythic Rare,0,Colorless,Banned,Not Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',49.16,True
+Myr Battlesphere,Artifact Creature,Myr Construct,Scars of Mirrodin,Rare,7,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',0.45,False
+Myr Galvanizer,Artifact Creature,Myr,Scars of Mirrodin,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.42,False
+Myr Propagator,Artifact Creature,Myr,Scars of Mirrodin,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Pancoast',0.41,False
+Myr Reservoir,Artifact,None,Scars of Mirrodin,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jung Park',0.46,False
+Necrogen Censer,Artifact,None,Scars of Mirrodin,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.11,False
+Necropede,Artifact Creature,Insect,Scars of Mirrodin,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Nic Klein',0.58,False
+Neurok Replica,Artifact Creature,Wizard,Scars of Mirrodin,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.07,False
+Nihil Spellbomb,Artifact,None,Scars of Mirrodin,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',0.47,False
+Nim Deathmantle,Artifact,Equipment,Scars of Mirrodin,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',7.45,False
+Origin Spellbomb,Artifact,None,Scars of Mirrodin,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',0.13,False
+Palladium Myr,Artifact Creature,Myr,Scars of Mirrodin,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.58,False
+Panic Spellbomb,Artifact,None,Scars of Mirrodin,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',0.1,False
+Perilous Myr,Artifact Creature,Myr,Scars of Mirrodin,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Felix',0.14,False
+Platinum Emperion,Artifact Creature,Golem,Scars of Mirrodin,Mythic Rare,8,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',7.35,False
+Precursor Golem,Artifact Creature,Golem,Scars of Mirrodin,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Chippy',0.32,False
+Prototype Portal,Artifact,None,Scars of Mirrodin,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Baker',0.5,False
+Ratchet Bomb,Artifact,None,Scars of Mirrodin,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Austin Hsu',1.11,False
+Razorfield Thresher,Artifact Creature,Construct,Scars of Mirrodin,Common,7,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.07,False
+Rust Tick,Artifact Creature,Insect,Scars of Mirrodin,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.12,False
+Rusted Relic,Artifact,None,Scars of Mirrodin,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.1,False
+Saberclaw Golem,Artifact Creature,Golem,Scars of Mirrodin,Common,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Bierek',0.07,False
+Semblance Anvil,Artifact,None,Scars of Mirrodin,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',3.66,False
+Silver Myr,Artifact Creature,Myr,Scars of Mirrodin,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.27,False
+Snapsail Glider,Artifact Creature,Construct,Scars of Mirrodin,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Efrem Palacios',0.07,False
+Soliton,Artifact Creature,Construct,Scars of Mirrodin,Common,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Felix',0.11,False
+Steel Hellkite,Artifact Creature,Dragon,Scars of Mirrodin,Rare,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'James Paick',0.99,False
+Strata Scythe,Artifact,Equipment,Scars of Mirrodin,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Chou',0.42,False
+Strider Harness,Artifact,Equipment,Scars of Mirrodin,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.08,False
+Sword of Body and Mind,Artifact,Equipment,Scars of Mirrodin,Mythic Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',17.27,False
+Sylvok Lifestaff,Artifact,Equipment,Scars of Mirrodin,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Martina Pilcerova',0.17,False
+Sylvok Replica,Artifact Creature,Shaman,Scars of Mirrodin,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.1,False
+Throne of Geth,Artifact,None,Scars of Mirrodin,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jana Schirmer',0.6,False
+Tower of Calamities,Artifact,None,Scars of Mirrodin,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',0.22,False
+Trigon of Corruption,Artifact,None,Scars of Mirrodin,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.14,False
+Trigon of Infestation,Artifact,None,Scars of Mirrodin,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Allsop',0.13,False
+Trigon of Mending,Artifact,None,Scars of Mirrodin,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.18,False
+Trigon of Rage,Artifact,None,Scars of Mirrodin,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Marc Simonetti',0.13,False
+Trigon of Thought,Artifact,None,Scars of Mirrodin,Uncommon,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Bierek',0.13,False
+Tumble Magnet,Artifact,None,Scars of Mirrodin,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Baker',0.09,False
+Vector Asp,Artifact Creature,Snake,Scars of Mirrodin,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Erica Yang',0.18,False
+Venser's Journal,Artifact,None,Scars of Mirrodin,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',5.8,False
+Vulshok Replica,Artifact Creature,Berserker,Scars of Mirrodin,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.13,False
+Wall of Tanglecord,Artifact Creature,Wall,Scars of Mirrodin,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Vance Kovacs',0.29,False
+Wurmcoil Engine,Artifact Creature,Wurm,Scars of Mirrodin,Mythic Rare,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',21.71,False
+Blackcleave Cliffs,Land,None,Scars of Mirrodin,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Kendall',22.47,False
+Copperline Gorge,Land,None,Scars of Mirrodin,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',6.76,False
+Darkslick Shores,Land,None,Scars of Mirrodin,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Charles Urbach',8.73,False
+Glimmerpost,Land,Locus,Scars of Mirrodin,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.15,False
+Razorverge Thicket,Land,None,Scars of Mirrodin,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'James Paick',7.72,False
+Seachrome Coast,Land,None,Scars of Mirrodin,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Lars Grant-West',6.13,False
+Plains,Basic Land,Plains,Scars of Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'James Paick',0.13,False
+Plains,Basic Land,Plains,Scars of Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'James Paick',0.1,False
+Plains,Basic Land,Plains,Scars of Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'James Paick',0.09,False
+Plains,Basic Land,Plains,Scars of Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'James Paick',0.08,False
+Island,Basic Land,Island,Scars of Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jung Park',0.1,False
+Island,Basic Land,Island,Scars of Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jung Park',0.1,False
+Island,Basic Land,Island,Scars of Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jung Park',0.15,False
+Island,Basic Land,Island,Scars of Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jung Park',0.08,False
+Swamp,Basic Land,Swamp,Scars of Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.15,False
+Swamp,Basic Land,Swamp,Scars of Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.21,False
+Swamp,Basic Land,Swamp,Scars of Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.12,False
+Swamp,Basic Land,Swamp,Scars of Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.16,False
+Mountain,Basic Land,Mountain,Scars of Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.1,False
+Mountain,Basic Land,Mountain,Scars of Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.09,False
+Mountain,Basic Land,Mountain,Scars of Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.15,False
+Mountain,Basic Land,Mountain,Scars of Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.12,False
+Forest,Basic Land,Forest,Scars of Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.14,False
+Forest,Basic Land,Forest,Scars of Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.11,False
+Forest,Basic Land,Forest,Scars of Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.17,False
+Forest,Basic Land,Forest,Scars of Mirrodin,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.1,False

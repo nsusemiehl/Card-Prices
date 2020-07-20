@@ -1,144 +1,144 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Allay,Instant,None,Exodus,Common,2,White,False,False,True,False,b'Randy Gallegos',0.16
-Angelic Blessing,Sorcery,None,Exodus,Common,3,White,True,False,True,True,b'Mark Zug',0.11
-Cataclysm,Sorcery,None,Exodus,Rare,4,White,False,False,True,True,b'Jim Nelson',5.49
-Charging Paladin,Creature,Human Knight,Exodus,Common,3,White,False,False,True,True,b'Ciruelo',0.05
-Convalescence,Enchantment,None,Exodus,Rare,2,White,False,False,True,False,b'D. Alexander Gregory',0.24
-Exalted Dragon,Creature,Dragon,Exodus,Rare,6,White,False,False,True,True,b'Matthew D. Wilson',0.53
-High Ground,Enchantment,None,Exodus,Uncommon,1,White,True,False,True,True,b'rk post',0.17
-Keeper of the Light,Creature,Human Wizard,Exodus,Uncommon,2,White,False,False,True,False,b'D. Alexander Gregory',0.18
-Kor Chant,Instant,None,Exodus,Common,3,White,False,False,True,True,b'John Matson',0.08
-Limited Resources,Enchantment,None,Exodus,Rare,1,White,False,False,False,False,b'Keith Parkinson',0.75
-Oath of Lieges,Enchantment,None,Exodus,Rare,2,White,False,False,True,False,b'Mark Zug',3.84
-Paladin en-Vec,Creature,Human Knight,Exodus,Rare,3,White,True,False,True,True,b'Randy Elliott',0.83
-Peace of Mind,Enchantment,None,Exodus,Uncommon,2,White,True,False,True,True,b'Randy Elliott',0.15
-Pegasus Stampede,Sorcery,None,Exodus,Uncommon,2,White,False,False,True,True,b'Mark Zug',0.17
-Penance,Enchantment,None,Exodus,Uncommon,3,White,False,False,True,False,b'Terese Nielsen',0.5
-Reaping the Rewards,Instant,None,Exodus,Common,1,White,False,False,True,False,b'Heather Hudson',0.03
-Reconnaissance,Enchantment,None,Exodus,Uncommon,1,White,False,False,True,False,b'Val Mayerik',6.0
-Shackles,Enchantment,Aura,Exodus,Common,3,White,False,False,True,True,b'Heather Hudson',0.07
-Shield Mate,Creature,Human Soldier,Exodus,Common,1,White,False,False,True,False,b'Randy Elliott',0.05
-Soltari Visionary,Creature,Soltari Cleric,Exodus,Common,3,White,False,False,True,True,b'Adam Rex',0.27
-Soul Warden,Creature,Human Cleric,Exodus,Common,1,White,True,False,True,True,b'Randy Gallegos',0.44
-Standing Troops,Creature,Human Soldier,Exodus,Common,3,White,True,False,True,True,b'Daren Bader',0.06
-Treasure Hunter,Creature,Human,Exodus,Uncommon,3,White,True,False,True,True,b'Adam Rex',0.2
-Wall of Nets,Creature,Wall,Exodus,Rare,3,White,False,False,True,False,b'Terese Nielsen',2.71
-Welkin Hawk,Creature,Bird,Exodus,Common,2,White,False,False,True,False,b'Rob Alexander',0.12
-Zealots en-Dal,Creature,Human Soldier,Exodus,Uncommon,4,White,False,False,True,False,b'Brom',0.13
-Aether Tide,Sorcery,None,Exodus,Common,2,Blue,False,False,True,False,b'Andrew Robinson',0.07
-Cunning,Enchantment,Aura,Exodus,Common,2,Blue,False,False,True,False,b'Kev Walker',0.07
-Curiosity,Enchantment,Aura,Exodus,Uncommon,1,Blue,True,False,True,True,b'Val Mayerik',0.38
-Dominating Licid,Creature,Licid,Exodus,Rare,3,Blue,False,False,True,False,b'Heather Hudson',1.18
-Ephemeron,Creature,Illusion,Exodus,Rare,6,Blue,False,False,True,True,b'Keith Parkinson',0.26
-Equilibrium,Enchantment,None,Exodus,Rare,3,Blue,False,False,True,True,b'Jeff Miracola',6.63
-"Ertai, Wizard Adept",Legendary Creature,Human Wizard,Exodus,Rare,3,Blue,False,False,True,False,b'Terese Nielsen',6.69
-Fade Away,Sorcery,None,Exodus,Common,3,Blue,False,False,True,False,b'Jeff Miracola',0.57
-Forbid,Instant,None,Exodus,Uncommon,3,Blue,False,False,True,True,b'Scott Kirschner',1.61
-Keeper of the Mind,Creature,Human Wizard,Exodus,Uncommon,2,Blue,False,False,True,False,b'Matthew D. Wilson',0.18
-Killer Whale,Creature,Whale,Exodus,Uncommon,5,Blue,False,False,True,True,b'Stephen Daniele',0.13
-Mana Breach,Enchantment,None,Exodus,Uncommon,3,Blue,False,False,True,True,b'Rebecca Guay',2.34
-Merfolk Looter,Creature,Merfolk Rogue,Exodus,Common,2,Blue,True,False,True,True,b'Ron Spencer',0.15
-Mind Over Matter,Enchantment,None,Exodus,Rare,6,Blue,False,False,True,False,b'Keith Parkinson',15.5
-Mirozel,Creature,Illusion,Exodus,Uncommon,4,Blue,False,False,True,False,b'Jim Nelson',0.2
-Oath of Scholars,Enchantment,None,Exodus,Rare,4,Blue,False,False,True,False,b'Michael Sutfin',0.27
-Robe of Mirrors,Enchantment,Aura,Exodus,Common,1,Blue,True,False,True,True,b'John Matson',0.18
-Rootwater Mystic,Creature,Merfolk Wizard,Exodus,Common,1,Blue,False,False,True,False,b'Michael Sutfin',0.07
-School of Piranha,Creature,Fish,Exodus,Common,2,Blue,False,False,True,False,b'Daren Bader',0.07
-Scrivener,Creature,Human Wizard,Exodus,Uncommon,5,Blue,False,False,True,True,b'Heather Hudson',0.18
-Thalakos Drifters,Creature,Thalakos,Exodus,Rare,4,Blue,False,False,True,True,b'Andrew Robinson',0.25
-Thalakos Scout,Creature,Thalakos Soldier Scout,Exodus,Common,3,Blue,False,False,True,True,b'Daren Bader',0.13
-Theft of Dreams,Sorcery,None,Exodus,Common,3,Blue,False,False,True,True,b'Richard Kane Ferguson',0.14
-Treasure Trove,Enchantment,None,Exodus,Uncommon,4,Blue,True,False,True,True,b'Michael Sutfin',0.14
-Wayward Soul,Creature,Spirit,Exodus,Common,4,Blue,False,False,True,True,b'M. W. Kaluta',0.08
-Whiptongue Frog,Creature,Frog,Exodus,Common,3,Blue,False,False,True,False,b'Jeff Miracola',0.08
-Carnophage,Creature,Zombie,Exodus,Common,1,Black,False,False,True,True,b'Pete Venters',0.26
-Cat Burglar,Creature,Kor Rogue Minion,Exodus,Common,4,Black,False,False,True,False,b'DiTerlizzi',0.07
-Culling the Weak,Instant,None,Exodus,Common,1,Black,False,False,True,False,b'Scott M. Fischer',1.29
-Cursed Flesh,Enchantment,Aura,Exodus,Common,1,Black,False,False,True,True,b'Ron Spencer',0.1
-Dauthi Cutthroat,Creature,Dauthi Minion,Exodus,Uncommon,2,Black,False,False,True,False,b'Dermot Power',0.24
-Dauthi Jackal,Creature,Dauthi Jackal,Exodus,Common,3,Black,False,False,True,True,b'Adam Rex',0.1
-Dauthi Warlord,Creature,Dauthi Soldier,Exodus,Uncommon,2,Black,False,False,True,True,b'Kev Walker',0.33
-Death's Duet,Sorcery,None,Exodus,Common,3,Black,False,False,True,True,b'Keith Parkinson',0.09
-Entropic Specter,Creature,Specter Spirit,Exodus,Rare,5,Black,False,False,True,False,b'Ron Spencer',0.26
-Fugue,Sorcery,None,Exodus,Uncommon,5,Black,False,False,True,True,b'Randy Gallegos',0.19
-Grollub,Creature,Beast,Exodus,Common,3,Black,False,False,True,False,b'Chippy',0.08
-Hatred,Instant,None,Exodus,Rare,5,Black,False,False,True,True,b'Brom',13.61
-Keeper of the Dead,Creature,Human Wizard,Exodus,Uncommon,2,Black,False,False,True,False,b'Brom',0.19
-Mind Maggots,Creature,Insect,Exodus,Uncommon,4,Black,False,False,True,False,b'Ron Spencer',0.15
-Nausea,Sorcery,None,Exodus,Common,2,Black,True,False,True,True,b'Jeff Miracola',0.19
-Necrologia,Instant,None,Exodus,Uncommon,5,Black,False,False,True,True,b'Brom',1.26
-Oath of Ghouls,Enchantment,None,Exodus,Rare,2,Black,False,False,True,False,b'Brom',1.92
-Pit Spawn,Creature,Demon,Exodus,Rare,7,Black,False,False,True,False,b'Thomas M. Baxa',0.33
-Plaguebearer,Creature,Zombie,Exodus,Rare,2,Black,False,False,True,False,b'Ron Spencer',0.71
-Recurring Nightmare,Enchantment,None,Exodus,Rare,3,Black,False,False,False,True,b'Jeff Laubenstein',15.86
-Scare Tactics,Instant,None,Exodus,Common,1,Black,False,False,True,False,b'DiTerlizzi',0.1
-Slaughter,Instant,None,Exodus,Uncommon,4,Black,False,False,True,False,b'Pete Venters',0.28
-Spike Cannibal,Creature,Spike,Exodus,Uncommon,3,Black,False,False,True,False,b'Joel Biske',0.26
-Thrull Surgeon,Creature,Thrull,Exodus,Common,2,Black,True,False,True,True,b'rk post',0.17
-Vampire Hounds,Creature,Vampire Hound,Exodus,Common,3,Black,False,False,True,True,b'Kev Walker',0.15
-Volrath's Dungeon,Enchantment,None,Exodus,Rare,4,Black,False,False,True,False,b'Stephen Daniele',0.32
-Anarchist,Creature,Human Wizard,Exodus,Common,5,Red,True,False,True,True,b'Brom',0.15
-Cinder Crawler,Creature,Salamander,Exodus,Common,2,Red,False,False,True,False,b'Jim Nelson',0.05
-Dizzying Gaze,Enchantment,Aura,Exodus,Common,1,Red,False,False,True,False,b'Thomas M. Baxa',0.05
-Fighting Chance,Instant,None,Exodus,Rare,1,Red,False,False,True,False,b'Mike Raabe',0.66
-Flowstone Flood,Sorcery,None,Exodus,Uncommon,4,Red,False,False,True,True,b'Paolo Parente',0.12
-Furnace Brood,Creature,Elemental,Exodus,Common,4,Red,False,False,True,True,b'Jeff Miracola',0.05
-Keeper of the Flame,Creature,Human Wizard,Exodus,Uncommon,2,Red,False,False,True,False,b'Terese Nielsen',0.11
-Mage il-Vec,Creature,Human Wizard,Exodus,Common,3,Red,False,False,True,True,b'John Matson',0.05
-Maniacal Rage,Enchantment,Aura,Exodus,Common,2,Red,True,True,True,True,b'Pete Venters',0.07
-Mogg Assassin,Creature,Goblin Assassin,Exodus,Uncommon,3,Red,False,False,True,False,b'Dermot Power',0.94
-Monstrous Hound,Creature,Hound,Exodus,Rare,4,Red,False,False,True,True,b'Dermot Power',0.2
-Oath of Mages,Enchantment,None,Exodus,Rare,2,Red,False,False,True,False,b'Keith Parkinson',0.26
-Ogre Shaman,Creature,Ogre Shaman,Exodus,Rare,5,Red,False,False,True,True,b'Paolo Parente',0.23
-Onslaught,Enchantment,None,Exodus,Common,1,Red,False,False,True,False,b'Paolo Parente',0.12
-Pandemonium,Enchantment,None,Exodus,Rare,4,Red,True,False,True,True,b'Pete Venters',1.34
-Paroxysm,Enchantment,Aura,Exodus,Uncommon,2,Red,False,False,True,False,b'Scott Kirschner',0.16
-Price of Progress,Instant,None,Exodus,Uncommon,2,Red,False,False,True,True,b'Richard Kane Ferguson',2.04
-Raging Goblin,Creature,Goblin Berserker,Exodus,Common,1,Red,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.12
-Ravenous Baboons,Creature,Monkey,Exodus,Rare,4,Red,False,False,True,False,b'Daren Bader',0.41
-Reckless Ogre,Creature,Ogre,Exodus,Common,4,Red,False,False,True,False,b'Paolo Parente',0.07
-Sabertooth Wyvern,Creature,Drake,Exodus,Uncommon,5,Red,False,False,True,True,b'Keith Parkinson',0.15
-Scalding Salamander,Creature,Salamander,Exodus,Uncommon,3,Red,False,False,True,False,b'Terese Nielsen',0.2
-Seismic Assault,Enchantment,None,Exodus,Rare,3,Red,True,False,True,True,b'Dermot Power',1.56
-Shattering Pulse,Instant,None,Exodus,Common,2,Red,False,False,True,True,b'Donato Giancola',0.22
-Sonic Burst,Instant,None,Exodus,Common,2,Red,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.13
-Spellshock,Enchantment,None,Exodus,Uncommon,3,Red,False,False,True,True,b'Thomas M. Baxa',4.64
-Avenging Druid,Creature,Human Druid,Exodus,Common,3,Green,False,False,True,False,b'Daren Bader',0.12
-Bequeathal,Enchantment,Aura,Exodus,Common,1,Green,False,False,True,False,b'D. Alexander Gregory',0.19
-Cartographer,Creature,Human,Exodus,Uncommon,3,Green,False,False,True,True,b'Jeff Laubenstein',0.18
-Crashing Boars,Creature,Boar,Exodus,Uncommon,5,Green,False,False,True,True,b'Ron Spencer',0.19
-Elven Palisade,Enchantment,None,Exodus,Uncommon,1,Green,False,False,True,False,b'Mark Zug',0.16
-Elvish Berserker,Creature,Elf Berserker,Exodus,Common,1,Green,True,False,True,True,b'Paolo Parente',0.11
-Jackalope Herd,Creature,Rabbit Beast,Exodus,Common,4,Green,False,False,True,False,b'Ron Spencer',0.09
-Keeper of the Beasts,Creature,Human Wizard,Exodus,Uncommon,2,Green,False,False,True,False,b'rk post',0.14
-Manabond,Enchantment,None,Exodus,Rare,1,Green,False,False,True,True,b'Stephen Daniele',3.76
-"Mirri, Cat Warrior",Legendary Creature,Cat Warrior,Exodus,Rare,3,Green,True,False,True,True,b'Daren Bader',2.04
-Oath of Druids,Enchantment,None,Exodus,Rare,2,Green,False,False,True,True,b'Daren Bader',2.46
-Plated Rootwalla,Creature,Lizard,Exodus,Common,5,Green,False,False,True,True,b'Randy Elliott',0.04
-Predatory Hunger,Enchantment,Aura,Exodus,Common,1,Green,False,False,True,False,b'Brom',0.47
-Pygmy Troll,Creature,Troll,Exodus,Common,2,Green,False,False,True,False,b'Daniel Gelon',0.07
-Rabid Wolverines,Creature,Wolverine,Exodus,Common,5,Green,False,False,True,False,b'Daren Bader',0.05
-Reclaim,Instant,None,Exodus,Common,1,Green,True,False,True,True,b'Andrew Robinson',0.2
-Resuscitate,Instant,None,Exodus,Uncommon,2,Green,False,False,True,False,b'Rebecca Guay',0.13
-Rootwater Alligator,Creature,Crocodile,Exodus,Common,4,Green,False,False,True,False,b'Stephen Daniele',0.05
-Skyshroud Elite,Creature,Elf,Exodus,Uncommon,1,Green,False,False,True,True,b'Paolo Parente',0.22
-Skyshroud War Beast,Creature,Beast,Exodus,Rare,2,Green,False,False,True,False,b'Jim Nelson',0.31
-Song of Serenity,Enchantment,None,Exodus,Uncommon,2,Green,False,False,True,False,b'DiTerlizzi',0.13
-Spike Hatcher,Creature,Spike,Exodus,Rare,7,Green,False,False,True,True,b'Stephen Daniele',0.26
-Spike Rogue,Creature,Spike,Exodus,Uncommon,3,Green,False,False,True,False,b'Heather Hudson',0.2
-Spike Weaver,Creature,Spike,Exodus,Rare,4,Green,False,False,True,True,b'Mike Raabe',5.88
-Survival of the Fittest,Enchantment,None,Exodus,Rare,2,Green,False,False,True,True,b'Pete Venters',89.46
-Wood Elves,Creature,Elf Scout,Exodus,Common,3,Green,True,False,True,True,b'Rebecca Guay',1.25
-Coat of Arms,Artifact,None,Exodus,Rare,5,Colorless,True,False,True,True,b'Scott M. Fischer',9.68
-Erratic Portal,Artifact,None,Exodus,Rare,4,Colorless,False,False,True,True,b'John Matson',10.65
-Medicine Bag,Artifact,None,Exodus,Uncommon,3,Colorless,False,False,True,False,b'DiTerlizzi',0.35
-Memory Crystal,Artifact,None,Exodus,Rare,3,Colorless,False,False,True,False,b'Michael Sutfin',0.48
-Mindless Automaton,Artifact Creature,Construct,Exodus,Rare,4,Colorless,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.32
-Null Brooch,Artifact,None,Exodus,Rare,4,Colorless,False,False,True,False,b'DiTerlizzi',1.22
-Skyshaper,Artifact,None,Exodus,Uncommon,2,Colorless,False,False,True,True,b'Donato Giancola',0.17
-Spellbook,Artifact,None,Exodus,Uncommon,0,Colorless,True,False,True,True,b'Ciruelo',1.99
-Sphere of Resistance,Artifact,None,Exodus,Rare,2,Colorless,False,False,True,True,b'Doug Chaffee',13.89
-Thopter Squadron,Artifact Creature,Thopter,Exodus,Rare,5,Colorless,False,False,True,True,b'Doug Chaffee',0.63
-Transmogrifying Licid,Artifact Creature,Licid,Exodus,Uncommon,3,Colorless,False,False,True,False,b'Jim Nelson',0.16
-Workhorse,Artifact Creature,Horse,Exodus,Rare,6,Colorless,False,False,True,False,b'DiTerlizzi',3.07
-City of Traitors,Land,None,Exodus,Rare,0,Colorless,False,False,True,True,b'Kev Walker',13.8
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Allay,Instant,None,Exodus,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Gallegos',0.16,False
+Angelic Blessing,Sorcery,None,Exodus,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.07,False
+Cataclysm,Sorcery,None,Exodus,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Nelson',5.66,False
+Charging Paladin,Creature,Human Knight,Exodus,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ciruelo',0.06,False
+Convalescence,Enchantment,None,Exodus,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'D. Alexander Gregory',0.24,False
+Exalted Dragon,Creature,Dragon,Exodus,Rare,6,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Matthew D. Wilson',0.58,False
+High Ground,Enchantment,None,Exodus,Uncommon,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',0.2,False
+Keeper of the Light,Creature,Human Wizard,Exodus,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'D. Alexander Gregory',0.2,False
+Kor Chant,Instant,None,Exodus,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',0.1,False
+Limited Resources,Enchantment,None,Exodus,Rare,1,White,Not Legal,Not Legal,Banned,Legal,Legal,False,b'Keith Parkinson',0.74,False
+Oath of Lieges,Enchantment,None,Exodus,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Zug',3.79,False
+Paladin en-Vec,Creature,Human Knight,Exodus,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Elliott',0.78,False
+Peace of Mind,Enchantment,None,Exodus,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Elliott',0.15,False
+Pegasus Stampede,Sorcery,None,Exodus,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.17,False
+Penance,Enchantment,None,Exodus,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.68,False
+Reaping the Rewards,Instant,None,Exodus,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.03,False
+Reconnaissance,Enchantment,None,Exodus,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Val Mayerik',7.92,False
+Shackles,Enchantment,Aura,Exodus,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.09,False
+Shield Mate,Creature,Human Soldier,Exodus,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Elliott',0.07,False
+Soltari Visionary,Creature,Soltari Cleric,Exodus,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',0.26,False
+Soul Warden,Creature,Human Cleric,Exodus,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.4,False
+Standing Troops,Creature,Human Soldier,Exodus,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.06,False
+Treasure Hunter,Creature,Human,Exodus,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',0.22,False
+Wall of Nets,Creature,Wall,Exodus,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',2.55,False
+Welkin Hawk,Creature,Bird,Exodus,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rob Alexander',0.12,False
+Zealots en-Dal,Creature,Human Soldier,Exodus,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brom',0.12,False
+Aether Tide,Sorcery,None,Exodus,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Andrew Robinson',0.07,False
+Cunning,Enchantment,Aura,Exodus,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.08,False
+Curiosity,Enchantment,Aura,Exodus,Uncommon,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Val Mayerik',0.42,False
+Dominating Licid,Creature,Licid,Exodus,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',1.1,False
+Ephemeron,Creature,Illusion,Exodus,Rare,6,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Keith Parkinson',0.25,False
+Equilibrium,Enchantment,None,Exodus,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',7.18,False
+Ertai Wizard Adept,Creature,Human Wizard,Exodus,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',6.74,True
+Fade Away,Sorcery,None,Exodus,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Miracola',0.54,False
+Forbid,Instant,None,Exodus,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Kirschner',1.68,False
+Keeper of the Mind,Creature,Human Wizard,Exodus,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Matthew D. Wilson',0.18,False
+Killer Whale,Creature,Whale,Exodus,Uncommon,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Stephen Daniele',0.14,False
+Mana Breach,Enchantment,None,Exodus,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',2.32,False
+Merfolk Looter,Creature,Merfolk Rogue,Exodus,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.17,False
+Mind Over Matter,Enchantment,None,Exodus,Rare,6,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Keith Parkinson',17.73,False
+Mirozel,Creature,Illusion,Exodus,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.2,False
+Oath of Scholars,Enchantment,None,Exodus,Rare,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',0.29,False
+Robe of Mirrors,Enchantment,Aura,Exodus,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',0.21,False
+Rootwater Mystic,Creature,Merfolk Wizard,Exodus,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',0.06,False
+School of Piranha,Creature,Fish,Exodus,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.06,False
+Scrivener,Creature,Human Wizard,Exodus,Uncommon,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.17,False
+Thalakos Drifters,Creature,Thalakos,Exodus,Rare,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Robinson',0.26,False
+Thalakos Scout,Creature,Thalakos Soldier Scout,Exodus,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.14,False
+Theft of Dreams,Sorcery,None,Exodus,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Kane Ferguson',0.16,False
+Treasure Trove,Enchantment,None,Exodus,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Sutfin',0.14,False
+Wayward Soul,Creature,Spirit,Exodus,Common,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'M. W. Kaluta',0.08,False
+Whiptongue Frog,Creature,Frog,Exodus,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Miracola',0.08,False
+Carnophage,Creature,Zombie,Exodus,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.33,False
+Cat Burglar,Creature,Kor Rogue Minion,Exodus,Common,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'DiTerlizzi',0.07,False
+Culling the Weak,Instant,None,Exodus,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',1.45,False
+Cursed Flesh,Enchantment,Aura,Exodus,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.1,False
+Dauthi Cutthroat,Creature,Dauthi Minion,Exodus,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dermot Power',0.23,False
+Dauthi Jackal,Creature,Dauthi Jackal,Exodus,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',0.11,False
+Dauthi Warlord,Creature,Dauthi Soldier,Exodus,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.32,False
+Death's Duet,Sorcery,None,Exodus,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Keith Parkinson',0.11,False
+Entropic Specter,Creature,Specter Spirit,Exodus,Rare,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.26,False
+Fugue,Sorcery,None,Exodus,Uncommon,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.21,False
+Grollub,Creature,Beast,Exodus,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Chippy',0.16,False
+Hatred,Instant,None,Exodus,Rare,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brom',15.73,False
+Keeper of the Dead,Creature,Human Wizard,Exodus,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brom',0.21,False
+Mind Maggots,Creature,Insect,Exodus,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.15,False
+Nausea,Sorcery,None,Exodus,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.19,False
+Necrologia,Instant,None,Exodus,Uncommon,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brom',1.22,False
+Oath of Ghouls,Enchantment,None,Exodus,Rare,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brom',5.2,False
+Pit Spawn,Creature,Demon,Exodus,Rare,7,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.41,False
+Plaguebearer,Creature,Zombie,Exodus,Rare,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.8,False
+Recurring Nightmare,Enchantment,None,Exodus,Rare,3,Black,Not Legal,Not Legal,Banned,Legal,Legal,True,b'Jeff Laubenstein',17.21,False
+Scare Tactics,Instant,None,Exodus,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'DiTerlizzi',0.1,False
+Slaughter,Instant,None,Exodus,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.31,False
+Spike Cannibal,Creature,Spike,Exodus,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Joel Biske',0.26,False
+Thrull Surgeon,Creature,Thrull,Exodus,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',0.18,False
+Vampire Hounds,Creature,Vampire Dog,Exodus,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.19,False
+Volrath's Dungeon,Enchantment,None,Exodus,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Stephen Daniele',0.32,False
+Anarchist,Creature,Human Wizard,Exodus,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Brom',0.15,False
+Cinder Crawler,Creature,Salamander,Exodus,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.06,False
+Dizzying Gaze,Enchantment,Aura,Exodus,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.05,False
+Fighting Chance,Instant,None,Exodus,Rare,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Raabe',0.59,False
+Flowstone Flood,Sorcery,None,Exodus,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.14,False
+Furnace Brood,Creature,Elemental,Exodus,Common,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.05,False
+Keeper of the Flame,Creature,Human Wizard,Exodus,Uncommon,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.17,False
+Mage il-Vec,Creature,Human Wizard,Exodus,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',0.05,False
+Maniacal Rage,Enchantment,Aura,Exodus,Common,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Pete Venters',0.07,False
+Mogg Assassin,Creature,Goblin Assassin,Exodus,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dermot Power',0.75,False
+Monstrous Hound,Creature,Dog,Exodus,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dermot Power',0.23,False
+Oath of Mages,Enchantment,None,Exodus,Rare,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Keith Parkinson',0.27,False
+Ogre Shaman,Creature,Ogre Shaman,Exodus,Rare,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.23,False
+Onslaught,Enchantment,None,Exodus,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.12,False
+Pandemonium,Enchantment,None,Exodus,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',1.26,False
+Paroxysm,Enchantment,Aura,Exodus,Uncommon,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott Kirschner',0.17,False
+Price of Progress,Instant,None,Exodus,Uncommon,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Kane Ferguson',1.8,False
+Raging Goblin,Creature,Goblin Berserker,Exodus,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.12,False
+Ravenous Baboons,Creature,Monkey,Exodus,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.42,False
+Reckless Ogre,Creature,Ogre,Exodus,Common,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.07,False
+Sabertooth Wyvern,Creature,Drake,Exodus,Uncommon,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Keith Parkinson',0.16,False
+Scalding Salamander,Creature,Salamander,Exodus,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.18,False
+Seismic Assault,Enchantment,None,Exodus,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dermot Power',1.51,False
+Shattering Pulse,Instant,None,Exodus,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.25,False
+Sonic Burst,Instant,None,Exodus,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.09,False
+Spellshock,Enchantment,None,Exodus,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Thomas M. Baxa',4.7,False
+Avenging Druid,Creature,Human Druid,Exodus,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.14,False
+Bequeathal,Enchantment,Aura,Exodus,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'D. Alexander Gregory',0.2,False
+Cartographer,Creature,Human,Exodus,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Laubenstein',0.18,False
+Crashing Boars,Creature,Boar,Exodus,Uncommon,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.2,False
+Elven Palisade,Enchantment,None,Exodus,Uncommon,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Zug',0.15,False
+Elvish Berserker,Creature,Elf Berserker,Exodus,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.12,False
+Jackalope Herd,Creature,Rabbit Beast,Exodus,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.11,False
+Keeper of the Beasts,Creature,Human Wizard,Exodus,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'rk post',0.15,False
+Manabond,Enchantment,None,Exodus,Rare,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Stephen Daniele',4.05,False
+Mirri Cat Warrior,Creature,Cat Warrior,Exodus,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',2.14,True
+Oath of Druids,Enchantment,None,Exodus,Rare,2,Green,Not Legal,Not Legal,Legal,Legal,Banned,True,b'Daren Bader',2.34,False
+Plated Rootwalla,Creature,Lizard,Exodus,Common,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Elliott',0.04,False
+Predatory Hunger,Enchantment,Aura,Exodus,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brom',0.29,False
+Pygmy Troll,Creature,Troll,Exodus,Common,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daniel Gelon',0.09,False
+Rabid Wolverines,Creature,Wolverine,Exodus,Common,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.06,False
+Reclaim,Instant,None,Exodus,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Robinson',0.16,False
+Resuscitate,Instant,None,Exodus,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rebecca Guay',0.15,False
+Rootwater Alligator,Creature,Crocodile,Exodus,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Stephen Daniele',0.05,False
+Skyshroud Elite,Creature,Elf,Exodus,Uncommon,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.24,False
+Skyshroud War Beast,Creature,Beast,Exodus,Rare,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.44,False
+Song of Serenity,Enchantment,None,Exodus,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'DiTerlizzi',0.16,False
+Spike Hatcher,Creature,Spike,Exodus,Rare,7,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Stephen Daniele',0.27,False
+Spike Rogue,Creature,Spike,Exodus,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.22,False
+Spike Weaver,Creature,Spike,Exodus,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Raabe',5.3,False
+Survival of the Fittest,Enchantment,None,Exodus,Rare,2,Green,Not Legal,Not Legal,Legal,Legal,Banned,True,b'Pete Venters',114.57,False
+Wood Elves,Creature,Elf Scout,Exodus,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',1.02,False
+Coat of Arms,Artifact,None,Exodus,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',9.4,False
+Erratic Portal,Artifact,None,Exodus,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',9.05,False
+Medicine Bag,Artifact,None,Exodus,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'DiTerlizzi',0.33,False
+Memory Crystal,Artifact,None,Exodus,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',0.49,False
+Mindless Automaton,Artifact Creature,Construct,Exodus,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.34,False
+Null Brooch,Artifact,None,Exodus,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'DiTerlizzi',1.37,False
+Skyshaper,Artifact,None,Exodus,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.17,False
+Spellbook,Artifact,None,Exodus,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Ciruelo',1.57,False
+Sphere of Resistance,Artifact,None,Exodus,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Doug Chaffee',13.96,False
+Thopter Squadron,Artifact Creature,Thopter,Exodus,Rare,5,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Doug Chaffee',0.66,False
+Transmogrifying Licid,Artifact Creature,Licid,Exodus,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.16,False
+Workhorse,Artifact Creature,Horse,Exodus,Rare,6,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'DiTerlizzi',5.3,False
+City of Traitors,Land,None,Exodus,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',127.76,False

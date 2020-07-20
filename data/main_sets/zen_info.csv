@@ -1,250 +1,250 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Armament Master,Creature,Kor Soldier,Zendikar,Rare,2,White,True,False,True,False,b'Steven Belledin',0.25
-Arrow Volley Trap,Instant,Trap,Zendikar,Uncommon,5,White,True,False,True,True,b'Steve Argyle',0.08
-Bold Defense,Instant,None,Zendikar,Common,3,White,True,False,True,False,b'Scott Chou',0.08
-Brave the Elements,Instant,None,Zendikar,Uncommon,1,White,True,False,True,True,b'Goran Josic',0.31
-Caravan Hurda,Creature,Giant,Zendikar,Common,5,White,True,False,True,False,b'Dave Kendall',0.09
-Celestial Mantle,Enchantment,Aura,Zendikar,Rare,6,White,True,False,True,False,b'Steve Argyle',2.72
-Cliff Threader,Creature,Kor Scout,Zendikar,Common,2,White,True,False,True,False,b'Paul Bonner',0.04
-Conqueror's Pledge,Sorcery,None,Zendikar,Rare,5,White,True,False,True,False,b'Kev Walker',0.35
-Day of Judgment,Sorcery,None,Zendikar,Rare,4,White,True,False,True,True,b'Vincent Proce',1.94
-Devout Lightcaster,Creature,Kor Cleric,Zendikar,Rare,3,White,True,False,True,False,b'Shelly Wan',0.25
-Emeria Angel,Creature,Angel,Zendikar,Rare,4,White,True,False,True,True,b'Jim Murray',0.74
-Felidar Sovereign,Creature,Cat Beast,Zendikar,Mythic Rare,6,White,True,False,True,True,b'Zoltan Boros',1.22
-"Iona, Shield of Emeria",Legendary Creature,Angel,Zendikar,Mythic Rare,9,White,True,False,False,True,b'Jason Chan',4.3
-Journey to Nowhere,Enchantment,None,Zendikar,Common,2,White,True,False,True,True,b'Warren Mahy',0.62
-Kabira Evangel,Creature,Human Cleric Ally,Zendikar,Rare,3,White,True,False,True,False,b'Eric Deschamps',0.7
-Kazandu Blademaster,Creature,Human Soldier Ally,Zendikar,Uncommon,2,White,True,False,True,False,b'Michael Komarck',0.35
-Kor Aeronaut,Creature,Kor Soldier,Zendikar,Uncommon,2,White,True,False,True,True,b'Karl Kopinski',0.07
-Kor Cartographer,Creature,Kor Scout,Zendikar,Common,4,White,True,False,True,True,b'Ryan Pancoast',0.3
-Kor Duelist,Creature,Kor Soldier,Zendikar,Uncommon,1,White,True,False,True,True,b'Izzy',0.17
-Kor Hookmaster,Creature,Kor Soldier,Zendikar,Common,3,White,True,False,True,True,b'Wayne Reynolds',0.05
-Kor Outfitter,Creature,Kor Soldier,Zendikar,Common,2,White,True,False,True,False,b'Kieran Yanner',0.22
-Kor Sanctifiers,Creature,Kor Cleric,Zendikar,Common,3,White,True,False,True,True,b'Dan Scott',0.11
-Kor Skyfisher,Creature,Kor Soldier,Zendikar,Common,2,White,True,False,True,True,b'Dan Scott',0.24
-Landbind Ritual,Sorcery,None,Zendikar,Uncommon,5,White,True,False,True,False,b'Steve Prescott',0.07
-Luminarch Ascension,Enchantment,None,Zendikar,Rare,2,White,True,False,True,True,b'Michael Komarck',5.64
-Makindi Shieldmate,Creature,Kor Soldier Ally,Zendikar,Common,3,White,True,False,True,False,b'Howard Lyon',0.11
-Narrow Escape,Instant,None,Zendikar,Common,3,White,True,False,True,True,b'Karl Kopinski',0.12
-Nimbus Wings,Enchantment,Aura,Zendikar,Common,2,White,True,False,True,False,b'Chris Rahn',0.12
-Noble Vestige,Creature,Spirit,Zendikar,Common,3,White,True,False,True,False,b'Jason Chan',0.09
-Ondu Cleric,Creature,Kor Cleric Ally,Zendikar,Common,2,White,True,False,True,False,b'Jim Murray',0.15
-Pillarfield Ox,Creature,Ox,Zendikar,Common,4,White,True,False,True,True,b'Andrew Robinson',0.12
-Pitfall Trap,Instant,Trap,Zendikar,Uncommon,3,White,True,False,True,True,b'Franz Vohwinkel',0.04
-Quest for the Holy Relic,Enchantment,None,Zendikar,Uncommon,1,White,True,False,True,False,b'Greg Staples',0.21
-Shepherd of the Lost,Creature,Angel,Zendikar,Uncommon,5,White,True,False,True,True,b'Kekai Kotaki',0.12
-Shieldmate's Blessing,Instant,None,Zendikar,Common,1,White,True,False,True,False,b'Mike Bierek',0.03
-Steppe Lynx,Creature,Cat,Zendikar,Common,1,White,True,False,True,False,b'Nic Klein',0.13
-Sunspring Expedition,Enchantment,None,Zendikar,Common,1,White,True,False,True,False,b'Chris J. Anderson',0.12
-Windborne Charge,Sorcery,None,Zendikar,Uncommon,4,White,True,False,True,True,b'Ryan Pancoast',0.08
-World Queller,Creature,Avatar,Zendikar,Rare,5,White,True,False,True,False,b'James Paick',0.33
-Aether Figment,Creature,Illusion,Zendikar,Uncommon,2,Blue,True,False,True,True,b'Thomas M. Baxa',0.13
-Archive Trap,Instant,Trap,Zendikar,Rare,5,Blue,True,False,True,False,b'Jason Felix',7.21
-Archmage Ascension,Enchantment,None,Zendikar,Rare,3,Blue,True,False,True,False,b'Christopher Moeller',1.1
-Caller of Gales,Creature,Merfolk Wizard,Zendikar,Common,1,Blue,True,False,True,True,b'Alex Horley-Orlandelli',0.09
-Cancel,Instant,None,Zendikar,Common,3,Blue,True,False,True,True,b'Scott Chou',0.1
-Cosi's Trickster,Creature,Merfolk Wizard,Zendikar,Rare,1,Blue,True,False,True,False,b'Igor Kieryluk',0.44
-Gomazoa,Creature,Jellyfish,Zendikar,Uncommon,3,Blue,True,False,True,True,b'Chippy',0.12
-Hedron Crab,Creature,Crab,Zendikar,Uncommon,1,Blue,True,False,True,True,b'Jesper Ejsing',4.06
-Into the Roil,Instant,None,Zendikar,Common,2,Blue,True,False,True,True,b'Kieran Yanner',0.16
-Ior Ruin Expedition,Enchantment,None,Zendikar,Common,2,Blue,True,False,True,True,b'Chris Rahn',0.1
-Kraken Hatchling,Creature,Kraken,Zendikar,Common,1,Blue,True,False,True,True,b'Jason Felix',0.09
-Lethargy Trap,Instant,Trap,Zendikar,Common,4,Blue,True,False,True,False,b'Anthony Francisco',0.04
-Living Tsunami,Creature,Elemental,Zendikar,Uncommon,4,Blue,True,False,True,False,b'Matt Cavotta',0.09
-"Lorthos, the Tidemaker",Legendary Creature,Octopus,Zendikar,Mythic Rare,8,Blue,True,False,True,True,b'Kekai Kotaki',1.14
-Lullmage Mentor,Creature,Merfolk Wizard,Zendikar,Rare,3,Blue,True,False,True,False,b'Jaime Jones',0.87
-Merfolk Seastalkers,Creature,Merfolk Scout,Zendikar,Uncommon,4,Blue,True,False,True,False,b'Eric Deschamps',0.08
-Merfolk Wayfinder,Creature,Merfolk Scout,Zendikar,Uncommon,3,Blue,True,False,True,True,b'Christopher Moeller',0.1
-Mindbreak Trap,Instant,Trap,Zendikar,Mythic Rare,4,Blue,True,False,True,False,b'Christopher Moeller',4.4
-Paralyzing Grasp,Enchantment,Aura,Zendikar,Common,3,Blue,True,False,True,True,b'Izzy',0.05
-Quest for Ancient Secrets,Enchantment,None,Zendikar,Uncommon,1,Blue,True,False,True,False,b'Mike Bierek',0.12
-Reckless Scholar,Creature,Human Wizard,Zendikar,Common,3,Blue,True,False,True,True,b'Steve Prescott',0.06
-Rite of Replication,Sorcery,None,Zendikar,Rare,4,Blue,True,False,True,True,b'Matt Cavotta',4.0
-Roil Elemental,Creature,Elemental,Zendikar,Rare,6,Blue,True,False,True,False,b'Raymond Swanland',9.9
-Sea Gate Loremaster,Creature,Merfolk Wizard Ally,Zendikar,Rare,5,Blue,True,False,True,False,b'Dave Kendall',0.43
-Seascape Aerialist,Creature,Merfolk Wizard Ally,Zendikar,Uncommon,5,Blue,True,False,True,False,b'Andrew Robinson',0.16
-Shoal Serpent,Creature,Serpent,Zendikar,Common,6,Blue,True,False,True,False,b'Trevor Claxton',0.09
-Sky Ruin Drake,Creature,Drake,Zendikar,Common,5,Blue,True,False,True,True,b'Izzy',0.06
-Spell Pierce,Instant,None,Zendikar,Common,1,Blue,True,False,True,True,b'Vance Kovacs',0.36
-Sphinx of Jwar Isle,Creature,Sphinx,Zendikar,Rare,6,Blue,True,False,True,True,b'Justin Sweet',0.14
-Sphinx of Lost Truths,Creature,Sphinx,Zendikar,Rare,5,Blue,True,False,True,False,b'Shelly Wan',0.24
-Spreading Seas,Enchantment,Aura,Zendikar,Common,2,Blue,True,False,True,False,b'Jung Park',0.55
-Summoner's Bane,Instant,None,Zendikar,Uncommon,4,Blue,True,False,True,True,b'Cyril Van Der Haegen',0.11
-Tempest Owl,Creature,Bird,Zendikar,Common,2,Blue,True,False,True,False,b'Dan Scott',0.07
-Trapfinder's Trick,Sorcery,None,Zendikar,Common,2,Blue,True,False,True,False,b'Philip Straub',0.05
-Trapmaker's Snare,Instant,None,Zendikar,Uncommon,2,Blue,True,False,True,False,b'Daarken',0.11
-Umara Raptor,Creature,Bird Ally,Zendikar,Common,3,Blue,True,False,True,False,b'Sam Wood',0.11
-Welkin Tern,Creature,Bird,Zendikar,Common,2,Blue,True,False,True,True,b'Austin Hsu',0.1
-Whiplash Trap,Instant,Trap,Zendikar,Common,5,Blue,True,False,True,True,b'Zoltan Boros',0.09
-Windrider Eel,Creature,Fish,Zendikar,Common,4,Blue,True,False,True,True,b'Austin Hsu',0.14
-Bala Ged Thief,Creature,Human Rogue Ally,Zendikar,Rare,4,Black,True,False,True,False,b'Matt Cavotta',0.31
-Blood Seeker,Creature,Vampire Shaman,Zendikar,Common,2,Black,True,False,True,True,b'Greg Staples',0.2
-Blood Tribute,Sorcery,None,Zendikar,Rare,6,Black,True,False,True,True,b'Alex Horley-Orlandelli',0.49
-Bloodchief Ascension,Enchantment,None,Zendikar,Rare,1,Black,True,False,True,False,b'Adi Granov',13.68
-Bloodghast,Creature,Vampire Spirit,Zendikar,Rare,2,Black,True,False,True,True,b'Daarken',9.36
-Bog Tatters,Creature,Wraith,Zendikar,Common,5,Black,True,False,True,False,b'Daarken',0.07
-Crypt Ripper,Creature,Shade,Zendikar,Common,4,Black,True,False,True,False,b'Dave Kendall',0.06
-Desecrated Earth,Sorcery,None,Zendikar,Common,5,Black,True,False,True,False,b'Daarken',0.04
-Disfigure,Instant,None,Zendikar,Common,1,Black,True,True,True,True,b'Justin Sweet',0.17
-Feast of Blood,Sorcery,None,Zendikar,Uncommon,2,Black,True,False,True,True,b'Jason Felix',0.43
-Gatekeeper of Malakir,Creature,Vampire Warrior,Zendikar,Uncommon,2,Black,True,False,True,True,b'Karl Kopinski',0.69
-Giant Scorpion,Creature,Scorpion,Zendikar,Common,3,Black,True,False,True,True,b'Raymond Swanland',0.06
-Grim Discovery,Sorcery,None,Zendikar,Common,2,Black,True,False,True,True,b'Christopher Moeller',0.13
-Guul Draz Specter,Creature,Specter,Zendikar,Rare,4,Black,True,False,True,True,b'Mark Tedin',0.24
-Guul Draz Vampire,Creature,Vampire Rogue,Zendikar,Common,1,Black,True,False,True,False,b'Steve Argyle',0.24
-Hagra Crocodile,Creature,Crocodile,Zendikar,Common,4,Black,True,False,True,False,b'Daren Bader',0.04
-Hagra Diabolist,Creature,Ogre Shaman Ally,Zendikar,Uncommon,5,Black,True,False,True,False,b'Karl Kopinski',0.27
-Halo Hunter,Creature,Demon,Zendikar,Rare,5,Black,True,False,True,False,b'Chris Rahn',0.22
-Heartstabber Mosquito,Creature,Insect,Zendikar,Common,4,Black,True,False,True,True,b'Jason Felix',0.1
-Hideous End,Instant,None,Zendikar,Common,3,Black,True,False,True,True,b'Zoltan Boros',0.1
-"Kalitas, Bloodchief of Ghet",Legendary Creature,Vampire Warrior,Zendikar,Mythic Rare,7,Black,True,False,True,False,b'Todd Lockwood',4.58
-Malakir Bloodwitch,Creature,Vampire Shaman,Zendikar,Rare,5,Black,True,False,True,True,b'Shelly Wan',0.87
-Marsh Casualties,Sorcery,None,Zendikar,Uncommon,2,Black,True,False,True,True,b'Scott Chou',0.15
-Mind Sludge,Sorcery,None,Zendikar,Uncommon,5,Black,True,False,True,True,b'Howard Lyon',0.13
-Mindless Null,Creature,Zombie,Zendikar,Common,3,Black,True,False,True,False,b'Karl Kopinski',0.05
-Mire Blight,Enchantment,Aura,Zendikar,Common,1,Black,True,False,True,False,b'Dave Kendall',0.1
-Needlebite Trap,Instant,Trap,Zendikar,Uncommon,7,Black,True,False,True,False,b'Daarken',0.18
-Nimana Sell-Sword,Creature,Human Warrior Ally,Zendikar,Common,4,Black,True,False,True,False,b'Daarken',0.09
-"Ob Nixilis, the Fallen",Legendary Creature,Demon,Zendikar,Mythic Rare,5,Black,True,False,True,True,b'Jason Felix',9.59
-Quest for the Gravelord,Enchantment,None,Zendikar,Uncommon,1,Black,True,False,True,True,b'Chris Rahn',0.17
-Ravenous Trap,Instant,Trap,Zendikar,Uncommon,4,Black,True,False,True,True,b'Cyril Van Der Haegen',0.59
-Sadistic Sacrament,Sorcery,None,Zendikar,Rare,3,Black,True,False,True,False,b'Dan Scott',1.32
-Sorin Markov,Legendary Planeswalker,Sorin,Zendikar,Mythic Rare,6,Black,True,False,True,True,b'Michael Komarck',12.56
-Soul Stair Expedition,Enchantment,None,Zendikar,Common,1,Black,True,False,True,False,b'Anthony Francisco',0.14
-Surrakar Marauder,Creature,Surrakar,Zendikar,Common,2,Black,True,False,True,False,b'Kev Walker',0.04
-Vampire Hexmage,Creature,Vampire Shaman,Zendikar,Uncommon,2,Black,True,False,True,True,b'Eric Deschamps',0.53
-Vampire Lacerator,Creature,Vampire Warrior,Zendikar,Common,1,Black,True,False,True,True,b'Steve Argyle',0.11
-Vampire Nighthawk,Creature,Vampire Shaman,Zendikar,Uncommon,3,Black,True,False,True,True,b'Jason Chan',0.52
-Vampire's Bite,Instant,None,Zendikar,Common,1,Black,True,False,True,True,b'Christopher Moeller',0.13
-Bladetusk Boar,Creature,Boar,Zendikar,Common,4,Red,True,False,True,True,b'Paul Bonner',0.05
-Burst Lightning,Instant,None,Zendikar,Common,1,Red,True,False,True,True,b'Vance Kovacs',0.25
-Chandra Ablaze,Legendary Planeswalker,Chandra,Zendikar,Mythic Rare,6,Red,True,False,True,False,b'Steve Argyle',5.25
-Demolish,Sorcery,None,Zendikar,Common,4,Red,True,True,True,True,b'John Avon',0.04
-Electropotence,Enchantment,None,Zendikar,Rare,3,Red,True,False,True,False,b'Christopher Moeller',0.19
-Elemental Appeal,Sorcery,None,Zendikar,Rare,4,Red,True,False,True,False,b'Anthony Francisco',0.21
-Geyser Glider,Creature,Elemental Beast,Zendikar,Uncommon,5,Red,True,False,True,True,b'Warren Mahy',0.06
-Goblin Bushwhacker,Creature,Goblin Warrior,Zendikar,Common,1,Red,True,False,True,True,b'Mark Tedin',0.78
-Goblin Guide,Creature,Goblin Scout,Zendikar,Rare,1,Red,True,False,True,True,b'Warren Mahy',11.09
-Goblin Ruinblaster,Creature,Goblin Shaman,Zendikar,Uncommon,3,Red,True,False,True,True,b'Matt Cavotta',0.13
-Goblin Shortcutter,Creature,Goblin Scout,Zendikar,Common,2,Red,True,False,True,True,b'Jesper Ejsing',0.06
-Goblin War Paint,Enchantment,Aura,Zendikar,Common,2,Red,True,False,True,True,b'Austin Hsu',0.07
-Hellfire Mongrel,Creature,Elemental Hound,Zendikar,Uncommon,3,Red,True,False,True,True,b'Dan Scott',0.07
-Hellkite Charger,Creature,Dragon,Zendikar,Rare,6,Red,True,False,True,True,b'Jaime Jones',0.67
-Highland Berserker,Creature,Human Berserker Ally,Zendikar,Common,2,Red,True,False,True,False,b'Chris Rahn',0.11
-Inferno Trap,Instant,Trap,Zendikar,Uncommon,4,Red,True,False,True,True,b'Philip Straub',0.05
-Kazuul Warlord,Creature,Minotaur Warrior Ally,Zendikar,Rare,5,Red,True,False,True,False,b'Kev Walker',0.33
-Lavaball Trap,Instant,Trap,Zendikar,Rare,8,Red,True,False,True,False,b'Zoltan Boros',0.17
-Magma Rift,Sorcery,None,Zendikar,Common,3,Red,True,False,True,False,b'Jung Park',0.07
-Mark of Mutiny,Sorcery,None,Zendikar,Uncommon,3,Red,True,False,True,True,b'Mike Bierek',0.12
-Molten Ravager,Creature,Elemental,Zendikar,Common,3,Red,True,False,True,False,b'Dave Kendall',0.07
-Murasa Pyromancer,Creature,Human Shaman Ally,Zendikar,Uncommon,6,Red,True,False,True,False,b'Kekai Kotaki',0.15
-Obsidian Fireheart,Creature,Elemental,Zendikar,Mythic Rare,4,Red,True,False,True,True,b'Raymond Swanland',0.89
-Plated Geopede,Creature,Insect,Zendikar,Common,2,Red,True,False,True,True,b'Eric Deschamps',0.13
-Punishing Fire,Instant,None,Zendikar,Uncommon,2,Red,False,False,True,True,b'Christopher Moeller',0.31
-Pyromancer Ascension,Enchantment,None,Zendikar,Rare,2,Red,True,False,True,True,b'Kev Walker',1.04
-Quest for Pure Flame,Enchantment,None,Zendikar,Uncommon,1,Red,True,False,True,False,b'Cyril Van Der Haegen',0.25
-Ruinous Minotaur,Creature,Minotaur Warrior,Zendikar,Common,3,Red,True,False,True,False,b'Raymond Swanland',0.1
-Runeflare Trap,Instant,Trap,Zendikar,Uncommon,6,Red,True,False,True,False,b'Franz Vohwinkel',0.12
-Seismic Shudder,Instant,None,Zendikar,Common,2,Red,True,False,True,False,b'Vincent Proce',0.09
-Shatterskull Giant,Creature,Giant Warrior,Zendikar,Common,4,Red,True,False,True,False,b'Kekai Kotaki',0.07
-Slaughter Cry,Instant,None,Zendikar,Common,3,Red,True,False,True,True,b'Matt Cavotta',0.03
-Spire Barrage,Sorcery,None,Zendikar,Common,5,Red,True,False,True,True,b'Ryan Pancoast',0.05
-Torch Slinger,Creature,Goblin Shaman,Zendikar,Common,3,Red,True,False,True,True,b'Andrew Robinson',0.07
-Tuktuk Grunts,Creature,Goblin Warrior Ally,Zendikar,Common,5,Red,True,False,True,False,b'Mike Bierek',0.06
-Unstable Footing,Instant,None,Zendikar,Uncommon,1,Red,True,False,True,False,b'Nic Klein',0.1
-Warren Instigator,Creature,Goblin Berserker,Zendikar,Mythic Rare,2,Red,True,False,True,True,b'Andrew Robinson',4.33
-Zektar Shrine Expedition,Enchantment,None,Zendikar,Common,2,Red,True,False,True,False,b'Justin Sweet',0.13
-Baloth Cage Trap,Instant,Trap,Zendikar,Uncommon,5,Green,True,False,True,True,b'Austin Hsu',0.1
-Baloth Woodcrasher,Creature,Beast,Zendikar,Uncommon,6,Green,True,False,True,True,b'Zoltan Boros',0.14
-Beast Hunt,Sorcery,None,Zendikar,Common,4,Green,True,False,True,True,b'Kieran Yanner',0.06
-Beastmaster Ascension,Enchantment,None,Zendikar,Rare,3,Green,True,False,True,True,b'Alex Horley-Orlandelli',4.22
-Cobra Trap,Instant,Trap,Zendikar,Uncommon,6,Green,True,False,True,True,b'Scott Chou',0.08
-Frontier Guide,Creature,Elf Scout,Zendikar,Uncommon,2,Green,True,False,True,True,b'Wayne Reynolds',0.12
-Gigantiform,Enchantment,Aura,Zendikar,Rare,5,Green,True,False,True,False,b'Justin Sweet',0.26
-Grazing Gladehart,Creature,Antelope,Zendikar,Common,3,Green,True,False,True,True,b'Ryan Pancoast',0.11
-Greenweaver Druid,Creature,Elf Druid,Zendikar,Uncommon,3,Green,True,False,True,True,b'Justin Sweet',0.16
-Harrow,Instant,None,Zendikar,Common,3,Green,True,False,True,True,b'Izzy',0.27
-Joraga Bard,Creature,Elf Rogue Ally,Zendikar,Common,4,Green,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.12
-Khalni Heart Expedition,Enchantment,None,Zendikar,Common,2,Green,True,False,True,True,b'Jason Chan',0.27
-Lotus Cobra,Creature,Snake,Zendikar,Mythic Rare,2,Green,True,False,True,True,b'Chippy',11.81
-Mold Shambler,Creature,Fungus Beast,Zendikar,Common,4,Green,True,False,True,True,b'Karl Kopinski',0.16
-Nissa Revane,Legendary Planeswalker,Nissa,Zendikar,Mythic Rare,4,Green,True,False,True,True,b'Jaime Jones',6.91
-Nissa's Chosen,Creature,Elf Warrior,Zendikar,Common,2,Green,True,False,True,True,b'Jaime Jones',0.13
-Oracle of Mul Daya,Creature,Elf Shaman,Zendikar,Rare,4,Green,True,False,True,False,b'Vance Kovacs',31.22
-Oran-Rief Recluse,Creature,Spider,Zendikar,Common,3,Green,True,False,True,True,b'Lars Grant-West',0.13
-Oran-Rief Survivalist,Creature,Human Warrior Ally,Zendikar,Common,2,Green,True,False,True,False,b'Kev Walker',0.11
-Predatory Urge,Enchantment,Aura,Zendikar,Rare,4,Green,True,False,True,True,b'Scott Chou',0.18
-Primal Bellow,Instant,None,Zendikar,Uncommon,1,Green,True,False,True,False,b'Daren Bader',0.17
-Quest for the Gemblades,Enchantment,None,Zendikar,Uncommon,2,Green,True,False,True,False,b'Karl Kopinski',0.12
-Rampaging Baloths,Creature,Beast,Zendikar,Mythic Rare,6,Green,True,False,True,True,b'Steve Prescott',1.07
-Relic Crush,Instant,None,Zendikar,Common,5,Green,True,False,True,True,b'Steven Belledin',0.13
-River Boa,Creature,Snake,Zendikar,Uncommon,2,Green,True,False,True,True,b'Paul Bonner',0.2
-Savage Silhouette,Enchantment,Aura,Zendikar,Common,3,Green,True,False,True,False,b'Dave Kendall',0.08
-Scute Mob,Creature,Insect,Zendikar,Rare,1,Green,True,False,True,True,b'Zoltan Boros',0.47
-Scythe Tiger,Creature,Cat,Zendikar,Common,1,Green,True,False,True,False,b'Michael Komarck',0.12
-Summoning Trap,Instant,Trap,Zendikar,Rare,6,Green,True,False,True,True,b'Kieran Yanner',0.37
-Tajuru Archer,Creature,Elf Archer Ally,Zendikar,Uncommon,3,Green,True,False,True,True,b'Chris Rahn',0.12
-Tanglesap,Instant,None,Zendikar,Common,2,Green,True,False,True,False,b'Trevor Claxton',0.09
-Terra Stomper,Creature,Beast,Zendikar,Rare,6,Green,True,False,True,True,b'Goran Josic',0.25
-Territorial Baloth,Creature,Beast,Zendikar,Common,5,Green,True,False,True,True,b'Jesper Ejsing',0.1
-Timbermaw Larva,Creature,Beast,Zendikar,Common,4,Green,True,False,True,False,b'Matt Cavotta',0.09
-Turntimber Basilisk,Creature,Basilisk,Zendikar,Uncommon,3,Green,True,False,True,True,b'Goran Josic',0.12
-Turntimber Ranger,Creature,Elf Scout Ally,Zendikar,Rare,5,Green,True,False,True,False,b'Wayne Reynolds',0.44
-Vastwood Gorger,Creature,Wurm,Zendikar,Common,6,Green,True,False,True,True,b'Kieran Yanner',0.05
-Vines of Vastwood,Instant,None,Zendikar,Common,1,Green,True,False,True,True,b'Christopher Moeller',0.87
-Zendikar Farguide,Creature,Elemental,Zendikar,Common,5,Green,True,False,True,False,b'Vincent Proce',0.04
-Adventuring Gear,Artifact,Equipment,Zendikar,Common,1,Colorless,True,False,True,False,b'Howard Lyon',0.18
-Blade of the Bloodchief,Artifact,Equipment,Zendikar,Rare,1,Colorless,True,False,True,True,b'Jung Park',1.58
-Blazing Torch,Artifact,Equipment,Zendikar,Uncommon,1,Colorless,True,False,True,True,b'Vance Kovacs',0.07
-Carnage Altar,Artifact,None,Zendikar,Uncommon,2,Colorless,True,False,True,True,b'James Paick',0.15
-Eldrazi Monument,Artifact,None,Zendikar,Mythic Rare,5,Colorless,True,False,True,True,b'Mark Tedin',7.97
-Eternity Vessel,Artifact,None,Zendikar,Mythic Rare,6,Colorless,True,False,True,False,b'John Avon',2.4
-Expedition Map,Artifact,None,Zendikar,Common,1,Colorless,True,False,True,True,b'Franz Vohwinkel',3.39
-Explorer's Scope,Artifact,Equipment,Zendikar,Common,1,Colorless,True,False,True,True,b'Vincent Proce',0.25
-Grappling Hook,Artifact,Equipment,Zendikar,Rare,4,Colorless,True,False,True,True,b'Philip Straub',0.44
-Hedron Scrabbler,Artifact Creature,Construct,Zendikar,Common,2,Colorless,True,False,True,False,b'Jason Felix',0.1
-Khalni Gem,Artifact,None,Zendikar,Uncommon,4,Colorless,True,False,True,False,b'Franz Vohwinkel',0.23
-Spidersilk Net,Artifact,Equipment,Zendikar,Common,0,Colorless,True,False,True,True,b'Zoltan Boros',0.13
-Stonework Puma,Artifact Creature,Cat Ally,Zendikar,Common,3,Colorless,True,False,True,True,b'Christopher Moeller',0.12
-Trailblazer's Boots,Artifact,Equipment,Zendikar,Uncommon,2,Colorless,True,False,True,True,b'Zoltan Boros',1.43
-Trusty Machete,Artifact,Equipment,Zendikar,Uncommon,1,Colorless,True,False,True,True,b'Raymond Swanland',0.15
-Akoum Refuge,Land,None,Zendikar,Uncommon,0,Colorless,True,False,True,True,b'Fred Fields',0.18
-Arid Mesa,Land,None,Zendikar,Rare,0,Colorless,True,False,True,True,b'Raymond Swanland',32.42
-Crypt of Agadeem,Land,None,Zendikar,Rare,0,Colorless,True,False,True,True,b'Jason Felix',2.44
-"Emeria, the Sky Ruin",Land,None,Zendikar,Rare,0,Colorless,True,False,True,True,b'Jaime Jones',6.86
-Graypelt Refuge,Land,None,Zendikar,Uncommon,0,Colorless,True,False,True,True,b'Philip Straub',0.28
-Jwar Isle Refuge,Land,None,Zendikar,Uncommon,0,Colorless,True,False,True,True,b'Cyril Van Der Haegen',0.37
-Kabira Crossroads,Land,None,Zendikar,Common,0,Colorless,True,False,True,True,b'James Paick',0.27
-Kazandu Refuge,Land,None,Zendikar,Uncommon,0,Colorless,True,False,True,True,b'Franz Vohwinkel',0.21
-"Magosi, the Waterveil",Land,None,Zendikar,Rare,0,Colorless,True,False,True,False,b'Eric Deschamps',0.43
-Marsh Flats,Land,None,Zendikar,Rare,0,Colorless,True,False,True,True,b'Izzy',37.86
-Misty Rainforest,Land,None,Zendikar,Rare,0,Colorless,True,False,True,True,b'Shelly Wan',83.63
-"Oran-Rief, the Vastwood",Land,None,Zendikar,Rare,0,Colorless,True,False,True,True,b'Mike Bierek',1.1
-Piranha Marsh,Land,None,Zendikar,Common,0,Colorless,True,False,True,False,b'Nic Klein',0.16
-Scalding Tarn,Land,None,Zendikar,Rare,0,Colorless,True,False,True,True,b'Philip Straub',67.13
-Sejiri Refuge,Land,None,Zendikar,Uncommon,0,Colorless,True,False,True,True,b'Ryan Pancoast',0.54
-Soaring Seacliff,Land,None,Zendikar,Common,0,Colorless,True,False,True,True,b'Izzy',0.1
-Teetering Peaks,Land,None,Zendikar,Common,0,Colorless,True,False,True,True,b'Fred Fields',0.1
-Turntimber Grove,Land,None,Zendikar,Common,0,Colorless,True,False,True,True,b'Rob Alexander',0.1
-"Valakut, the Molten Pinnacle",Land,None,Zendikar,Rare,0,Colorless,True,False,True,True,b'Kieran Yanner',19.92
-Verdant Catacombs,Land,None,Zendikar,Rare,0,Colorless,True,False,True,True,b'Vance Kovacs',64.38
-Plains,Basic Land,Plains,Zendikar,Common,0,Colorless,True,True,True,True,b'John Avon',0.45
-Plains,Basic Land,Plains,Zendikar,Common,0,Colorless,True,True,True,True,b'Jung Park',0.46
-Plains,Basic Land,Plains,Zendikar,Common,0,Colorless,True,True,True,True,b'V\xc3\xa9ronique Meignaud',0.36
-Plains,Basic Land,Plains,Zendikar,Common,0,Colorless,True,True,True,True,b'Vincent Proce',0.29
-Island,Basic Land,Island,Zendikar,Common,0,Colorless,True,True,True,True,b'John Avon',0.68
-Island,Basic Land,Island,Zendikar,Common,0,Colorless,True,True,True,True,b'Jung Park',0.48
-Island,Basic Land,Island,Zendikar,Common,0,Colorless,True,True,True,True,b'V\xc3\xa9ronique Meignaud',1.58
-Island,Basic Land,Island,Zendikar,Common,0,Colorless,True,True,True,True,b'Vincent Proce',0.3
-Swamp,Basic Land,Swamp,Zendikar,Common,0,Colorless,True,True,True,True,b'John Avon',0.7
-Swamp,Basic Land,Swamp,Zendikar,Common,0,Colorless,True,True,True,True,b'Jung Park',0.43
-Swamp,Basic Land,Swamp,Zendikar,Common,0,Colorless,True,True,True,True,b'V\xc3\xa9ronique Meignaud',0.48
-Swamp,Basic Land,Swamp,Zendikar,Common,0,Colorless,True,True,True,True,b'Vincent Proce',0.39
-Mountain,Basic Land,Mountain,Zendikar,Common,0,Colorless,True,True,True,True,b'John Avon',0.46
-Mountain,Basic Land,Mountain,Zendikar,Common,0,Colorless,True,True,True,True,b'Jung Park',0.32
-Mountain,Basic Land,Mountain,Zendikar,Common,0,Colorless,True,True,True,True,b'V\xc3\xa9ronique Meignaud',0.79
-Mountain,Basic Land,Mountain,Zendikar,Common,0,Colorless,True,True,True,True,b'Vincent Proce',0.46
-Forest,Basic Land,Forest,Zendikar,Common,0,Colorless,True,True,True,True,b'John Avon',0.64
-Forest,Basic Land,Forest,Zendikar,Common,0,Colorless,True,True,True,True,b'Jung Park',0.48
-Forest,Basic Land,Forest,Zendikar,Common,0,Colorless,True,True,True,True,b'V\xc3\xa9ronique Meignaud',1.18
-Forest,Basic Land,Forest,Zendikar,Common,0,Colorless,True,True,True,True,b'Vincent Proce',0.29
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Armament Master,Creature,Kor Soldier,Zendikar,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Steven Belledin',0.26,False
+Arrow Volley Trap,Instant,Trap,Zendikar,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Argyle',0.11,False
+Bold Defense,Instant,None,Zendikar,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Scott Chou',0.09,False
+Brave the Elements,Instant,None,Zendikar,Uncommon,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Goran Josic',0.3,False
+Caravan Hurda,Creature,Giant,Zendikar,Common,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Kendall',0.09,False
+Celestial Mantle,Enchantment,Aura,Zendikar,Rare,6,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Argyle',2.85,False
+Cliff Threader,Creature,Kor Scout,Zendikar,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Paul Bonner',0.05,False
+Conqueror's Pledge,Sorcery,None,Zendikar,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.37,False
+Day of Judgment,Sorcery,None,Zendikar,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Vincent Proce',2.21,False
+Devout Lightcaster,Creature,Kor Cleric,Zendikar,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Shelly Wan',0.27,False
+Emeria Angel,Creature,Angel,Zendikar,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Murray',0.87,False
+Felidar Sovereign,Creature,Cat Beast,Zendikar,Mythic Rare,6,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',1.17,False
+Iona Shield of Emeria,Creature,Angel,Zendikar,Mythic Rare,9,White,Legal,Not Legal,Banned,Legal,Legal,True,b'Jason Chan',4.18,True
+Journey to Nowhere,Enchantment,None,Zendikar,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Warren Mahy',0.56,False
+Kabira Evangel,Creature,Human Cleric Ally,Zendikar,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Eric Deschamps',0.61,False
+Kazandu Blademaster,Creature,Human Soldier Ally,Zendikar,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Komarck',0.34,False
+Kor Aeronaut,Creature,Kor Soldier,Zendikar,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.08,False
+Kor Cartographer,Creature,Kor Scout,Zendikar,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Pancoast',0.31,False
+Kor Duelist,Creature,Kor Soldier,Zendikar,Uncommon,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.18,False
+Kor Hookmaster,Creature,Kor Soldier,Zendikar,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.07,False
+Kor Outfitter,Creature,Kor Soldier,Zendikar,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Kieran Yanner',0.24,False
+Kor Sanctifiers,Creature,Kor Cleric,Zendikar,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.13,False
+Kor Skyfisher,Creature,Kor Soldier,Zendikar,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.29,False
+Landbind Ritual,Sorcery,None,Zendikar,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Prescott',0.1,False
+Luminarch Ascension,Enchantment,None,Zendikar,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Komarck',6.0,False
+Makindi Shieldmate,Creature,Kor Soldier Ally,Zendikar,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Howard Lyon',0.1,False
+Narrow Escape,Instant,None,Zendikar,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.19,False
+Nimbus Wings,Enchantment,Aura,Zendikar,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Chris Rahn',0.12,False
+Noble Vestige,Creature,Spirit,Zendikar,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Jason Chan',0.09,False
+Ondu Cleric,Creature,Kor Cleric Ally,Zendikar,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Murray',0.17,False
+Pillarfield Ox,Creature,Ox,Zendikar,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Robinson',0.09,False
+Pitfall Trap,Instant,Trap,Zendikar,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',0.06,False
+Quest for the Holy Relic,Enchantment,None,Zendikar,Uncommon,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.19,False
+Shepherd of the Lost,Creature,Angel,Zendikar,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Kekai Kotaki',0.12,False
+Shieldmate's Blessing,Instant,None,Zendikar,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Bierek',0.07,False
+Steppe Lynx,Creature,Cat,Zendikar,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Nic Klein',0.15,False
+Sunspring Expedition,Enchantment,None,Zendikar,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Chris J. Anderson',0.12,False
+Windborne Charge,Sorcery,None,Zendikar,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Pancoast',0.13,False
+World Queller,Creature,Avatar,Zendikar,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'James Paick',0.32,False
+Aether Figment,Creature,Illusion,Zendikar,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Thomas M. Baxa',0.13,False
+Archive Trap,Instant,Trap,Zendikar,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Jason Felix',8.22,False
+Archmage Ascension,Enchantment,None,Zendikar,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',1.35,False
+Caller of Gales,Creature,Merfolk Wizard,Zendikar,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Alex Horley-Orlandelli',0.09,False
+Cancel,Instant,None,Zendikar,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Chou',0.09,False
+Cosi's Trickster,Creature,Merfolk Wizard,Zendikar,Rare,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Igor Kieryluk',0.43,False
+Gomazoa,Creature,Jellyfish,Zendikar,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Chippy',0.11,False
+Hedron Crab,Creature,Crab,Zendikar,Uncommon,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',2.38,False
+Into the Roil,Instant,None,Zendikar,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Kieran Yanner',0.16,False
+Ior Ruin Expedition,Enchantment,None,Zendikar,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.1,False
+Kraken Hatchling,Creature,Kraken,Zendikar,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Felix',0.16,False
+Lethargy Trap,Instant,Trap,Zendikar,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony Francisco',0.06,False
+Living Tsunami,Creature,Elemental,Zendikar,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.09,False
+Lorthos the Tidemaker,Creature,Octopus,Zendikar,Mythic Rare,8,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Kekai Kotaki',1.13,True
+Lullmage Mentor,Creature,Merfolk Wizard,Zendikar,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Jaime Jones',0.94,False
+Merfolk Seastalkers,Creature,Merfolk Scout,Zendikar,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Eric Deschamps',0.09,False
+Merfolk Wayfinder,Creature,Merfolk Scout,Zendikar,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.11,False
+Mindbreak Trap,Instant,Trap,Zendikar,Mythic Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',4.71,False
+Paralyzing Grasp,Enchantment,Aura,Zendikar,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.05,False
+Quest for Ancient Secrets,Enchantment,None,Zendikar,Uncommon,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Bierek',0.12,False
+Reckless Scholar,Creature,Human Wizard,Zendikar,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.06,False
+Rite of Replication,Sorcery,None,Zendikar,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',4.79,False
+Roil Elemental,Creature,Elemental,Zendikar,Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Raymond Swanland',11.07,False
+Sea Gate Loremaster,Creature,Merfolk Wizard Ally,Zendikar,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Kendall',0.49,False
+Seascape Aerialist,Creature,Merfolk Wizard Ally,Zendikar,Uncommon,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Andrew Robinson',0.15,False
+Shoal Serpent,Creature,Serpent,Zendikar,Common,6,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Trevor Claxton',0.09,False
+Sky Ruin Drake,Creature,Drake,Zendikar,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.06,False
+Spell Pierce,Instant,None,Zendikar,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Vance Kovacs',0.47,False
+Sphinx of Jwar Isle,Creature,Sphinx,Zendikar,Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Sweet',0.14,False
+Sphinx of Lost Truths,Creature,Sphinx,Zendikar,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Shelly Wan',0.25,False
+Spreading Seas,Enchantment,Aura,Zendikar,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Jung Park',0.64,False
+Summoner's Bane,Instant,None,Zendikar,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Cyril Van Der Haegen',0.12,False
+Tempest Owl,Creature,Bird,Zendikar,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.08,False
+Trapfinder's Trick,Sorcery,None,Zendikar,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Philip Straub',0.05,False
+Trapmaker's Snare,Instant,None,Zendikar,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Daarken',0.13,False
+Umara Raptor,Creature,Bird Ally,Zendikar,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Sam Wood',0.11,False
+Welkin Tern,Creature,Bird,Zendikar,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Austin Hsu',0.09,False
+Whiplash Trap,Instant,Trap,Zendikar,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.09,False
+Windrider Eel,Creature,Fish,Zendikar,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Austin Hsu',0.13,False
+Bala Ged Thief,Creature,Human Rogue Ally,Zendikar,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.32,False
+Blood Seeker,Creature,Vampire Shaman,Zendikar,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.15,False
+Blood Tribute,Sorcery,None,Zendikar,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Alex Horley-Orlandelli',0.65,False
+Bloodchief Ascension,Enchantment,None,Zendikar,Rare,1,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Adi Granov',16.33,False
+Bloodghast,Creature,Vampire Spirit,Zendikar,Rare,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',9.2,False
+Bog Tatters,Creature,Wraith,Zendikar,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Daarken',0.07,False
+Crypt Ripper,Creature,Shade,Zendikar,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Kendall',0.07,False
+Desecrated Earth,Sorcery,None,Zendikar,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Daarken',0.05,False
+Disfigure,Instant,None,Zendikar,Common,1,Black,Legal,Legal,Legal,Legal,Legal,True,b'Justin Sweet',0.17,False
+Feast of Blood,Sorcery,None,Zendikar,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Felix',0.46,False
+Gatekeeper of Malakir,Creature,Vampire Warrior,Zendikar,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.74,False
+Giant Scorpion,Creature,Scorpion,Zendikar,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.09,False
+Grim Discovery,Sorcery,None,Zendikar,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.13,False
+Guul Draz Specter,Creature,Specter,Zendikar,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.27,False
+Guul Draz Vampire,Creature,Vampire Rogue,Zendikar,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Argyle',0.27,False
+Hagra Crocodile,Creature,Crocodile,Zendikar,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.07,False
+Hagra Diabolist,Creature,Ogre Shaman Ally,Zendikar,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Karl Kopinski',0.28,False
+Halo Hunter,Creature,Demon,Zendikar,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Chris Rahn',0.29,False
+Heartstabber Mosquito,Creature,Insect,Zendikar,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Felix',0.09,False
+Hideous End,Instant,None,Zendikar,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.1,False
+Kalitas Bloodchief of Ghet,Creature,Vampire Warrior,Zendikar,Mythic Rare,7,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Todd Lockwood',4.73,True
+Malakir Bloodwitch,Creature,Vampire Shaman,Zendikar,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Shelly Wan',0.91,False
+Marsh Casualties,Sorcery,None,Zendikar,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Chou',0.14,False
+Mind Sludge,Sorcery,None,Zendikar,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Howard Lyon',0.14,False
+Mindless Null,Creature,Zombie,Zendikar,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Karl Kopinski',0.06,False
+Mire Blight,Enchantment,Aura,Zendikar,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Kendall',0.07,False
+Needlebite Trap,Instant,Trap,Zendikar,Uncommon,7,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Daarken',0.17,False
+Nimana Sell-Sword,Creature,Human Warrior Ally,Zendikar,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Daarken',0.09,False
+Ob Nixilis the Fallen,Creature,Demon,Zendikar,Mythic Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Felix',10.6,True
+Quest for the Gravelord,Enchantment,None,Zendikar,Uncommon,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.17,False
+Ravenous Trap,Instant,Trap,Zendikar,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Cyril Van Der Haegen',0.58,False
+Sadistic Sacrament,Sorcery,None,Zendikar,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',1.7,False
+Sorin Markov,Planeswalker,Sorin,Zendikar,Mythic Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Komarck',11.17,True
+Soul Stair Expedition,Enchantment,None,Zendikar,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony Francisco',0.15,False
+Surrakar Marauder,Creature,Surrakar,Zendikar,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.07,False
+Vampire Hexmage,Creature,Vampire Shaman,Zendikar,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Deschamps',0.55,False
+Vampire Lacerator,Creature,Vampire Warrior,Zendikar,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Argyle',0.11,False
+Vampire Nighthawk,Creature,Vampire Shaman,Zendikar,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',0.5,False
+Vampire's Bite,Instant,None,Zendikar,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.14,False
+Bladetusk Boar,Creature,Boar,Zendikar,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Paul Bonner',0.06,False
+Burst Lightning,Instant,None,Zendikar,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Vance Kovacs',0.22,False
+Chandra Ablaze,Planeswalker,Chandra,Zendikar,Mythic Rare,6,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Argyle',4.33,True
+Demolish,Sorcery,None,Zendikar,Common,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.05,False
+Electropotence,Enchantment,None,Zendikar,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.23,False
+Elemental Appeal,Sorcery,None,Zendikar,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony Francisco',0.25,False
+Geyser Glider,Creature,Elemental Beast,Zendikar,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Warren Mahy',0.08,False
+Goblin Bushwhacker,Creature,Goblin Warrior,Zendikar,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.82,False
+Goblin Guide,Creature,Goblin Scout,Zendikar,Rare,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Warren Mahy',11.12,False
+Goblin Ruinblaster,Creature,Goblin Shaman,Zendikar,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.14,False
+Goblin Shortcutter,Creature,Goblin Scout,Zendikar,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.05,False
+Goblin War Paint,Enchantment,Aura,Zendikar,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Austin Hsu',0.09,False
+Hellfire Mongrel,Creature,Elemental Dog,Zendikar,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.09,False
+Hellkite Charger,Creature,Dragon,Zendikar,Rare,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',1.0,False
+Highland Berserker,Creature,Human Berserker Ally,Zendikar,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Chris Rahn',0.11,False
+Inferno Trap,Instant,Trap,Zendikar,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Philip Straub',0.05,False
+Kazuul Warlord,Creature,Minotaur Warrior Ally,Zendikar,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.32,False
+Lavaball Trap,Instant,Trap,Zendikar,Rare,8,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.17,False
+Magma Rift,Sorcery,None,Zendikar,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Jung Park',0.08,False
+Mark of Mutiny,Sorcery,None,Zendikar,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Bierek',0.15,False
+Molten Ravager,Creature,Elemental,Zendikar,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Kendall',0.08,False
+Murasa Pyromancer,Creature,Human Shaman Ally,Zendikar,Uncommon,6,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Kekai Kotaki',0.16,False
+Obsidian Fireheart,Creature,Elemental,Zendikar,Mythic Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.75,False
+Plated Geopede,Creature,Insect,Zendikar,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Deschamps',0.13,False
+Punishing Fire,Instant,None,Zendikar,Uncommon,2,Red,Banned,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.34,False
+Pyromancer Ascension,Enchantment,None,Zendikar,Rare,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.68,False
+Quest for Pure Flame,Enchantment,None,Zendikar,Uncommon,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Cyril Van Der Haegen',0.26,False
+Ruinous Minotaur,Creature,Minotaur Warrior,Zendikar,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Raymond Swanland',0.09,False
+Runeflare Trap,Instant,Trap,Zendikar,Uncommon,6,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Franz Vohwinkel',0.15,False
+Seismic Shudder,Instant,None,Zendikar,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Vincent Proce',0.09,False
+Shatterskull Giant,Creature,Giant Warrior,Zendikar,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Kekai Kotaki',0.07,False
+Slaughter Cry,Instant,None,Zendikar,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.04,False
+Spire Barrage,Sorcery,None,Zendikar,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Pancoast',0.05,False
+Torch Slinger,Creature,Goblin Shaman,Zendikar,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Robinson',0.08,False
+Tuktuk Grunts,Creature,Goblin Warrior Ally,Zendikar,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Bierek',0.06,False
+Unstable Footing,Instant,None,Zendikar,Uncommon,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Nic Klein',0.09,False
+Warren Instigator,Creature,Goblin Berserker,Zendikar,Mythic Rare,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Robinson',4.47,False
+Zektar Shrine Expedition,Enchantment,None,Zendikar,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Justin Sweet',0.12,False
+Baloth Cage Trap,Instant,Trap,Zendikar,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Austin Hsu',0.1,False
+Baloth Woodcrasher,Creature,Beast,Zendikar,Uncommon,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.12,False
+Beast Hunt,Sorcery,None,Zendikar,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Kieran Yanner',0.07,False
+Beastmaster Ascension,Enchantment,None,Zendikar,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Alex Horley-Orlandelli',3.74,False
+Cobra Trap,Instant,Trap,Zendikar,Uncommon,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Chou',0.1,False
+Frontier Guide,Creature,Elf Scout,Zendikar,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.14,False
+Gigantiform,Enchantment,Aura,Zendikar,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Justin Sweet',0.25,False
+Grazing Gladehart,Creature,Antelope,Zendikar,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Pancoast',0.12,False
+Greenweaver Druid,Creature,Elf Druid,Zendikar,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Sweet',0.18,False
+Harrow,Instant,None,Zendikar,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.25,False
+Joraga Bard,Creature,Elf Rogue Ally,Zendikar,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',0.11,False
+Khalni Heart Expedition,Enchantment,None,Zendikar,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',0.32,False
+Lotus Cobra,Creature,Snake,Zendikar,Mythic Rare,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Chippy',12.22,False
+Mold Shambler,Creature,Fungus Beast,Zendikar,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.16,False
+Nissa Revane,Planeswalker,Nissa,Zendikar,Mythic Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',7.08,True
+Nissa's Chosen,Creature,Elf Warrior,Zendikar,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',0.15,False
+Oracle of Mul Daya,Creature,Elf Shaman,Zendikar,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Vance Kovacs',40.54,False
+Oran-Rief Recluse,Creature,Spider,Zendikar,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.13,False
+Oran-Rief Survivalist,Creature,Human Warrior Ally,Zendikar,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.12,False
+Predatory Urge,Enchantment,Aura,Zendikar,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Chou',0.16,False
+Primal Bellow,Instant,None,Zendikar,Uncommon,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.18,False
+Quest for the Gemblades,Enchantment,None,Zendikar,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Karl Kopinski',0.12,False
+Rampaging Baloths,Creature,Beast,Zendikar,Mythic Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',1.06,False
+Relic Crush,Instant,None,Zendikar,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.12,False
+River Boa,Creature,Snake,Zendikar,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Paul Bonner',0.22,False
+Savage Silhouette,Enchantment,Aura,Zendikar,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Kendall',0.09,False
+Scute Mob,Creature,Insect,Zendikar,Rare,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.59,False
+Scythe Tiger,Creature,Cat,Zendikar,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Komarck',0.17,False
+Summoning Trap,Instant,Trap,Zendikar,Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Kieran Yanner',0.4,False
+Tajuru Archer,Creature,Elf Archer Ally,Zendikar,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.13,False
+Tanglesap,Instant,None,Zendikar,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Trevor Claxton',0.1,False
+Terra Stomper,Creature,Beast,Zendikar,Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Goran Josic',0.25,False
+Territorial Baloth,Creature,Beast,Zendikar,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.05,False
+Timbermaw Larva,Creature,Beast,Zendikar,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.09,False
+Turntimber Basilisk,Creature,Basilisk,Zendikar,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Goran Josic',0.12,False
+Turntimber Ranger,Creature,Elf Scout Ally,Zendikar,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne Reynolds',0.46,False
+Vastwood Gorger,Creature,Wurm,Zendikar,Common,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Kieran Yanner',0.04,False
+Vines of Vastwood,Instant,None,Zendikar,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.8,False
+Zendikar Farguide,Creature,Elemental,Zendikar,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Vincent Proce',0.05,False
+Adventuring Gear,Artifact,Equipment,Zendikar,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Howard Lyon',0.21,False
+Blade of the Bloodchief,Artifact,Equipment,Zendikar,Rare,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jung Park',1.89,False
+Blazing Torch,Artifact,Equipment,Zendikar,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Vance Kovacs',0.09,False
+Carnage Altar,Artifact,None,Zendikar,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'James Paick',0.16,False
+Eldrazi Monument,Artifact,None,Zendikar,Mythic Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',7.33,False
+Eternity Vessel,Artifact,None,Zendikar,Mythic Rare,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',3.18,False
+Expedition Map,Artifact,None,Zendikar,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',4.29,False
+Explorer's Scope,Artifact,Equipment,Zendikar,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Vincent Proce',0.24,False
+Grappling Hook,Artifact,Equipment,Zendikar,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Philip Straub',0.48,False
+Hedron Scrabbler,Artifact Creature,Construct,Zendikar,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Jason Felix',0.1,False
+Khalni Gem,Artifact,None,Zendikar,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Franz Vohwinkel',0.25,False
+Spidersilk Net,Artifact,Equipment,Zendikar,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.13,False
+Stonework Puma,Artifact Creature,Cat Ally,Zendikar,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.13,False
+Trailblazer's Boots,Artifact,Equipment,Zendikar,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',1.24,False
+Trusty Machete,Artifact,Equipment,Zendikar,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.17,False
+Akoum Refuge,Land,None,Zendikar,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Fred Fields',0.2,False
+Arid Mesa,Land,None,Zendikar,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',39.79,False
+Crypt of Agadeem,Land,None,Zendikar,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Felix',2.69,False
+Emeria the Sky Ruin,Land,None,Zendikar,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',7.3,False
+Graypelt Refuge,Land,None,Zendikar,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Philip Straub',0.29,False
+Jwar Isle Refuge,Land,None,Zendikar,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Cyril Van Der Haegen',0.38,False
+Kabira Crossroads,Land,None,Zendikar,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'James Paick',0.28,False
+Kazandu Refuge,Land,None,Zendikar,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',0.23,False
+Magosi the Waterveil,Land,None,Zendikar,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Eric Deschamps',0.47,False
+Marsh Flats,Land,None,Zendikar,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',36.09,False
+Misty Rainforest,Land,None,Zendikar,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Shelly Wan',89.67,False
+Oran-Rief the Vastwood,Land,None,Zendikar,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Bierek',1.06,False
+Piranha Marsh,Land,None,Zendikar,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Nic Klein',0.14,False
+Scalding Tarn,Land,None,Zendikar,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Philip Straub',72.81,False
+Sejiri Refuge,Land,None,Zendikar,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Pancoast',0.41,False
+Soaring Seacliff,Land,None,Zendikar,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.09,False
+Teetering Peaks,Land,None,Zendikar,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Fred Fields',0.12,False
+Turntimber Grove,Land,None,Zendikar,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.1,False
+Valakut the Molten Pinnacle,Land,None,Zendikar,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Kieran Yanner',19.61,False
+Verdant Catacombs,Land,None,Zendikar,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Vance Kovacs',74.98,False
+Plains,Basic Land,Plains,Zendikar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.46,False
+Plains,Basic Land,Plains,Zendikar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jung Park',0.48,False
+Plains,Basic Land,Plains,Zendikar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'V\xc3\xa9ronique Meignaud',0.38,False
+Plains,Basic Land,Plains,Zendikar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Vincent Proce',0.3,False
+Island,Basic Land,Island,Zendikar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.71,False
+Island,Basic Land,Island,Zendikar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jung Park',0.5,False
+Island,Basic Land,Island,Zendikar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'V\xc3\xa9ronique Meignaud',1.42,False
+Island,Basic Land,Island,Zendikar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Vincent Proce',0.35,False
+Swamp,Basic Land,Swamp,Zendikar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.73,False
+Swamp,Basic Land,Swamp,Zendikar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jung Park',0.45,False
+Swamp,Basic Land,Swamp,Zendikar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'V\xc3\xa9ronique Meignaud',0.55,False
+Swamp,Basic Land,Swamp,Zendikar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Vincent Proce',0.43,False
+Mountain,Basic Land,Mountain,Zendikar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.46,False
+Mountain,Basic Land,Mountain,Zendikar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jung Park',0.33,False
+Mountain,Basic Land,Mountain,Zendikar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'V\xc3\xa9ronique Meignaud',0.69,False
+Mountain,Basic Land,Mountain,Zendikar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Vincent Proce',0.44,False
+Forest,Basic Land,Forest,Zendikar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.77,False
+Forest,Basic Land,Forest,Zendikar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jung Park',0.46,False
+Forest,Basic Land,Forest,Zendikar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'V\xc3\xa9ronique Meignaud',0.96,False
+Forest,Basic Land,Forest,Zendikar,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Vincent Proce',0.33,False

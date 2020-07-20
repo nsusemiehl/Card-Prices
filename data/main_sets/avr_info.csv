@@ -1,245 +1,245 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Angel of Glory's Rise,Creature,Angel,Avacyn Restored,Rare,7,White,True,False,True,True,b'James Ryman',0.39
-Angel of Jubilation,Creature,Angel,Avacyn Restored,Rare,4,White,True,False,True,False,b'Terese Nielsen',3.84
-Angel's Mercy,Instant,None,Avacyn Restored,Common,4,White,True,False,True,True,b'Greg Staples',0.1
-Angelic Wall,Creature,Wall,Avacyn Restored,Common,2,White,True,False,True,True,b'Allen Williams',0.12
-Archangel,Creature,Angel,Avacyn Restored,Uncommon,7,White,True,False,True,True,b'Cynthia Sheppard',0.09
-"Avacyn, Angel of Hope",Legendary Creature,Angel,Avacyn Restored,Mythic Rare,8,White,True,False,True,True,b'Jason Chan',33.97
-Banishing Stroke,Instant,None,Avacyn Restored,Uncommon,6,White,True,False,True,True,b'Igor Kieryluk',0.08
-Builder's Blessing,Enchantment,None,Avacyn Restored,Uncommon,4,White,True,False,True,False,b'John Stanko',0.11
-Call to Serve,Enchantment,Aura,Avacyn Restored,Common,2,White,True,False,True,False,b'Jaime Jones',0.08
-Cathars' Crusade,Enchantment,None,Avacyn Restored,Rare,5,White,True,False,True,True,b'Karl Kopinski',4.44
-Cathedral Sanctifier,Creature,Human Cleric,Avacyn Restored,Common,1,White,True,False,True,True,b'Michael C. Hayes',0.13
-Cloudshift,Instant,None,Avacyn Restored,Common,1,White,True,False,True,True,b'Howard Lyon',0.21
-Commander's Authority,Enchantment,Aura,Avacyn Restored,Uncommon,5,White,True,False,True,False,b'Johannes Voss',0.1
-Cursebreak,Instant,None,Avacyn Restored,Common,2,White,True,False,True,False,b'Sam Wolfe Connelly',0.09
-Defang,Enchantment,Aura,Avacyn Restored,Common,2,White,True,False,True,False,b'Steven Belledin',0.06
-Defy Death,Sorcery,None,Avacyn Restored,Uncommon,5,White,True,False,True,False,b'Karl Kopinski',0.27
-Devout Chaplain,Creature,Human Cleric,Avacyn Restored,Uncommon,3,White,True,False,True,True,b'Lucas Graciano',0.16
-Divine Deflection,Instant,None,Avacyn Restored,Rare,2,White,True,False,True,False,b'Steve Prescott',0.16
-Emancipation Angel,Creature,Angel,Avacyn Restored,Uncommon,3,White,True,False,True,True,b'Scott Chou',0.19
-Entreat the Angels,Sorcery,None,Avacyn Restored,Mythic Rare,5,White,True,False,True,True,b'Todd Lockwood',1.41
-Farbog Explorer,Creature,Human Scout,Avacyn Restored,Common,3,White,True,False,True,False,b'Scott Chou',0.06
-Goldnight Commander,Creature,Human Cleric Soldier,Avacyn Restored,Uncommon,4,White,True,False,True,False,b'Chris Rahn',0.16
-Goldnight Redeemer,Creature,Angel,Avacyn Restored,Uncommon,6,White,True,False,True,True,b'Karl Kopinski',0.11
-Herald of War,Creature,Angel,Avacyn Restored,Rare,5,White,True,False,True,False,b'Eric Deschamps',1.52
-Holy Justiciar,Creature,Human Cleric,Avacyn Restored,Uncommon,4,White,True,False,True,False,b'David Rapoza',0.05
-Leap of Faith,Instant,None,Avacyn Restored,Common,3,White,True,False,True,False,b'Gabor Szikszai',0.02
-Midnight Duelist,Creature,Human Soldier,Avacyn Restored,Common,1,White,True,False,True,False,b'Bud Cook',0.04
-Midvast Protector,Creature,Human Wizard,Avacyn Restored,Common,4,White,True,False,True,False,b'James Ryman',0.02
-Moonlight Geist,Creature,Spirit,Avacyn Restored,Common,3,White,True,False,True,False,b'Dan Scott',0.02
-Moorland Inquisitor,Creature,Human Soldier,Avacyn Restored,Common,2,White,True,True,True,True,b'David Palumbo',0.04
-Nearheath Pilgrim,Creature,Human Cleric,Avacyn Restored,Uncommon,2,White,True,False,True,False,b'Erica Yang',0.09
-Restoration Angel,Creature,Angel,Avacyn Restored,Rare,4,White,True,False,True,True,b'Johannes Voss',1.88
-Riders of Gavony,Creature,Human Knight,Avacyn Restored,Rare,4,White,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.27
-Righteous Blow,Instant,None,Avacyn Restored,Common,1,White,True,True,True,True,b'Clint Cearley',0.03
-Seraph of Dawn,Creature,Angel,Avacyn Restored,Common,4,White,True,False,True,False,b'Todd Lockwood',0.17
-Silverblade Paladin,Creature,Human Knight,Avacyn Restored,Rare,3,White,True,False,True,True,b'Jason Chan',0.55
-Spectral Gateguards,Creature,Spirit Soldier,Avacyn Restored,Common,5,White,True,False,True,True,b'Wayne England',0.06
-Terminus,Sorcery,None,Avacyn Restored,Rare,6,White,True,False,True,True,b'James Paick',1.4
-Thraben Valiant,Creature,Human Soldier,Avacyn Restored,Common,2,White,True,False,True,True,b'Jason Chan',0.06
-Voice of the Provinces,Creature,Angel,Avacyn Restored,Common,6,White,True,False,True,True,b'Igor Kieryluk',0.11
-Zealous Strike,Instant,None,Avacyn Restored,Common,2,White,True,False,True,True,b'Bud Cook',0.06
-Alchemist's Apprentice,Creature,Human Wizard,Avacyn Restored,Common,2,Blue,True,False,True,False,b'David Palumbo',0.1
-Amass the Components,Sorcery,None,Avacyn Restored,Common,4,Blue,True,False,True,True,b'Matt Stewart',0.09
-Arcane Melee,Enchantment,None,Avacyn Restored,Rare,5,Blue,True,False,True,True,b'Jaime Jones',0.31
-Captain of the Mists,Creature,Human Wizard,Avacyn Restored,Rare,3,Blue,True,False,True,True,b'Allen Williams',0.17
-Crippling Chill,Instant,None,Avacyn Restored,Common,3,Blue,True,False,True,True,b'Svetlin Velinov',0.03
-Deadeye Navigator,Creature,Spirit,Avacyn Restored,Rare,6,Blue,True,False,True,True,b'Tomasz Jedruszek',5.6
-Devastation Tide,Sorcery,None,Avacyn Restored,Rare,5,Blue,True,False,True,True,b'Raymond Swanland',1.05
-Dreadwaters,Sorcery,None,Avacyn Restored,Common,4,Blue,True,False,True,True,b'Cliff Childs',0.06
-Elgaud Shieldmate,Creature,Human Soldier,Avacyn Restored,Common,4,Blue,True,False,True,False,b'Anthony Palumbo',0.12
-Favorable Winds,Enchantment,None,Avacyn Restored,Uncommon,2,Blue,True,False,True,True,b'Winona Nelson',0.3
-Fettergeist,Creature,Spirit,Avacyn Restored,Uncommon,3,Blue,True,False,True,False,b'Izzy',0.11
-Fleeting Distraction,Instant,None,Avacyn Restored,Common,1,Blue,True,False,True,True,b'Ryan Yee',0.08
-Galvanic Alchemist,Creature,Human Wizard,Avacyn Restored,Common,3,Blue,True,False,True,False,b'Svetlin Velinov',0.08
-Geist Snatch,Instant,None,Avacyn Restored,Common,4,Blue,True,False,True,False,b'Dan Scott',0.09
-Ghostform,Sorcery,None,Avacyn Restored,Common,2,Blue,True,False,True,True,b'Scott Chou',0.05
-Ghostly Flicker,Instant,None,Avacyn Restored,Common,3,Blue,True,False,True,True,b'Raymond Swanland',0.64
-Ghostly Touch,Enchantment,Aura,Avacyn Restored,Uncommon,2,Blue,True,False,True,False,b'Jason Felix',0.07
-Gryff Vanguard,Creature,Human Knight,Avacyn Restored,Common,5,Blue,True,False,True,True,b'Jason Chan',0.05
-Havengul Skaab,Creature,Zombie Horror,Avacyn Restored,Common,6,Blue,True,False,True,False,b'Vincent Proce',0.02
-Infinite Reflection,Enchantment,Aura,Avacyn Restored,Rare,6,Blue,True,False,True,True,b'Igor Kieryluk',0.24
-Into the Void,Sorcery,None,Avacyn Restored,Uncommon,4,Blue,True,False,True,True,b'Daarken',0.04
-Latch Seeker,Creature,Spirit,Avacyn Restored,Uncommon,3,Blue,True,False,True,True,b'Vincent Proce',0.13
-Lone Revenant,Creature,Spirit,Avacyn Restored,Rare,5,Blue,True,False,True,True,b'Jaime Jones',0.13
-Lunar Mystic,Creature,Human Wizard,Avacyn Restored,Rare,4,Blue,True,False,True,True,b'Wesley Burt',0.17
-Mass Appeal,Sorcery,None,Avacyn Restored,Uncommon,3,Blue,True,False,True,False,b'Christopher Moeller',0.11
-Mist Raven,Creature,Bird,Avacyn Restored,Common,4,Blue,True,False,True,True,b'John Avon',0.06
-Misthollow Griffin,Creature,Griffin,Avacyn Restored,Mythic Rare,4,Blue,True,False,True,True,b'Jaime Jones',1.0
-Nephalia Smuggler,Creature,Human Rogue,Avacyn Restored,Uncommon,1,Blue,True,False,True,True,b'Matt Stewart',0.13
-Outwit,Instant,None,Avacyn Restored,Common,1,Blue,True,False,True,False,b'Erica Yang',0.07
-Peel from Reality,Instant,None,Avacyn Restored,Common,2,Blue,True,False,True,True,b'Jason Felix',0.07
-Rotcrown Ghoul,Creature,Zombie,Avacyn Restored,Common,5,Blue,True,False,True,False,b'Dave Kendall',0.07
-Scrapskin Drake,Creature,Zombie Drake,Avacyn Restored,Common,3,Blue,True,False,True,True,b'Kev Walker',0.1
-Second Guess,Instant,None,Avacyn Restored,Uncommon,2,Blue,True,False,True,False,b'Karl Kopinski',0.04
-Spectral Prison,Enchantment,Aura,Avacyn Restored,Common,2,Blue,True,False,True,False,b'Vincent Proce',0.03
-Spirit Away,Enchantment,Aura,Avacyn Restored,Rare,7,Blue,True,False,True,False,b'Greg Staples',0.15
-Stern Mentor,Creature,Human Wizard,Avacyn Restored,Uncommon,4,Blue,True,False,True,False,b'Igor Kieryluk',0.05
-Stolen Goods,Sorcery,None,Avacyn Restored,Rare,4,Blue,True,False,True,True,b'Anthony Francisco',0.18
-"Tamiyo, the Moon Sage",Legendary Planeswalker,Tamiyo,Avacyn Restored,Mythic Rare,5,Blue,True,False,True,True,b'Eric Deschamps',12.21
-Tandem Lookout,Creature,Human Scout,Avacyn Restored,Uncommon,3,Blue,True,False,True,True,b'Kev Walker',0.17
-Temporal Mastery,Sorcery,None,Avacyn Restored,Mythic Rare,7,Blue,True,False,True,True,b'Franz Vohwinkel',6.24
-Vanishment,Instant,None,Avacyn Restored,Uncommon,5,Blue,True,False,True,False,b'Daarken',0.12
-Wingcrafter,Creature,Human Wizard,Avacyn Restored,Common,1,Blue,True,False,True,True,b'Matt Stewart',0.11
-Appetite for Brains,Sorcery,None,Avacyn Restored,Uncommon,1,Black,True,False,True,True,b'Michael C. Hayes',0.08
-Barter in Blood,Sorcery,None,Avacyn Restored,Uncommon,4,Black,True,False,True,True,b'Eric Deschamps',0.09
-Blood Artist,Creature,Vampire,Avacyn Restored,Uncommon,2,Black,True,False,True,True,b'Johannes Voss',3.39
-Bloodflow Connoisseur,Creature,Vampire,Avacyn Restored,Common,3,Black,True,False,True,True,b'Slawomir Maniak',0.15
-Bone Splinters,Sorcery,None,Avacyn Restored,Common,1,Black,True,True,True,True,b'Nils Hamm',0.09
-Butcher Ghoul,Creature,Zombie,Avacyn Restored,Common,2,Black,True,False,True,True,b'Christopher Moeller',0.16
-Corpse Traders,Creature,Human Rogue,Avacyn Restored,Uncommon,4,Black,True,False,True,True,b'Kev Walker',0.07
-Crypt Creeper,Creature,Zombie,Avacyn Restored,Common,2,Black,True,False,True,True,b'Scott Chou',0.1
-Dark Impostor,Creature,Vampire Assassin,Avacyn Restored,Rare,3,Black,True,False,True,True,b'Johannes Voss',0.57
-Death Wind,Instant,None,Avacyn Restored,Common,2,Black,True,False,True,True,b'Tomasz Jedruszek',0.12
-Demonic Rising,Enchantment,None,Avacyn Restored,Rare,5,Black,True,False,True,False,b'Trevor Claxton',0.16
-Demonic Taskmaster,Creature,Demon,Avacyn Restored,Uncommon,3,Black,True,False,True,False,b'Chris Rahn',0.09
-Demonlord of Ashmouth,Creature,Demon,Avacyn Restored,Rare,4,Black,True,False,True,False,b'Lucas Graciano',0.28
-Descent into Madness,Enchantment,None,Avacyn Restored,Mythic Rare,5,Black,True,False,True,False,b'Anthony Francisco',0.48
-Dread Slaver,Creature,Zombie Horror,Avacyn Restored,Rare,5,Black,True,False,True,False,b'Dave Kendall',0.31
-Driver of the Dead,Creature,Vampire,Avacyn Restored,Common,4,Black,True,False,True,True,b'James Ryman',0.06
-Essence Harvest,Sorcery,None,Avacyn Restored,Common,3,Black,True,False,True,False,b'Daarken',0.27
-Evernight Shade,Creature,Shade,Avacyn Restored,Uncommon,4,Black,True,False,True,True,b'Nic Klein',0.06
-Exquisite Blood,Enchantment,None,Avacyn Restored,Rare,5,Black,True,False,True,False,b'Cynthia Sheppard',38.33
-Ghoulflesh,Enchantment,Aura,Avacyn Restored,Common,1,Black,True,False,True,False,b'Igor Kieryluk',0.05
-Gloom Surgeon,Creature,Spirit,Avacyn Restored,Rare,2,Black,True,False,True,False,b'Volkan Ba\xc7\xb5a',0.12
-Grave Exchange,Sorcery,None,Avacyn Restored,Common,6,Black,True,False,True,False,b'Sam Wolfe Connelly',0.04
-Griselbrand,Legendary Creature,Demon,Avacyn Restored,Mythic Rare,8,Black,True,False,False,True,b'Igor Kieryluk',7.76
-Harvester of Souls,Creature,Demon,Avacyn Restored,Rare,6,Black,True,False,True,True,b'Slawomir Maniak',1.19
-Homicidal Seclusion,Enchantment,None,Avacyn Restored,Uncommon,5,Black,True,False,True,False,b'Cliff Childs',0.08
-Human Frailty,Instant,None,Avacyn Restored,Uncommon,1,Black,True,False,True,True,b'David Palumbo',0.12
-Hunted Ghoul,Creature,Zombie,Avacyn Restored,Common,1,Black,True,False,True,False,b'Ryan Pancoast',0.06
-Killing Wave,Sorcery,None,Avacyn Restored,Rare,2,Black,True,False,True,True,b'Steve Argyle',1.26
-Maalfeld Twins,Creature,Zombie,Avacyn Restored,Uncommon,6,Black,True,False,True,False,b'Mike Sass',0.12
-Marrow Bats,Creature,Bat Skeleton,Avacyn Restored,Uncommon,5,Black,True,False,True,True,b'Jason A. Engle',0.09
-Mental Agony,Sorcery,None,Avacyn Restored,Common,4,Black,True,False,True,False,b'Greg Staples',0.08
-Necrobite,Instant,None,Avacyn Restored,Common,3,Black,True,False,True,True,b'Nils Hamm',0.07
-Polluted Dead,Creature,Zombie,Avacyn Restored,Common,5,Black,True,False,True,False,b'Jason A. Engle',0.05
-Predator's Gambit,Enchantment,Aura,Avacyn Restored,Common,1,Black,True,False,True,False,b'Zoltan Boros',0.09
-Renegade Demon,Creature,Demon,Avacyn Restored,Common,5,Black,True,False,True,True,b'Tomasz Jedruszek',0.12
-Searchlight Geist,Creature,Spirit,Avacyn Restored,Common,3,Black,True,False,True,False,b'Steven Belledin',0.02
-Soulcage Fiend,Creature,Demon,Avacyn Restored,Common,3,Black,True,False,True,False,b'Jason A. Engle',0.13
-Treacherous Pit-Dweller,Creature,Demon,Avacyn Restored,Rare,2,Black,True,False,True,False,b'Svetlin Velinov',0.21
-Triumph of Cruelty,Enchantment,None,Avacyn Restored,Uncommon,3,Black,True,False,True,False,b'Izzy',0.04
-Undead Executioner,Creature,Zombie,Avacyn Restored,Common,4,Black,True,False,True,False,b'Dave Kendall',0.13
-Unhallowed Pact,Enchantment,Aura,Avacyn Restored,Common,3,Black,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.09
-Aggravate,Instant,None,Avacyn Restored,Uncommon,5,Red,True,False,True,False,b'Matt Stewart',0.04
-Archwing Dragon,Creature,Dragon,Avacyn Restored,Rare,4,Red,True,False,True,False,b'Daarken',0.34
-Banners Raised,Instant,None,Avacyn Restored,Common,1,Red,True,False,True,False,b'Mike Bierek',0.05
-Battle Hymn,Instant,None,Avacyn Restored,Common,2,Red,True,False,True,False,b'Nils Hamm',0.45
-Bonfire of the Damned,Sorcery,None,Avacyn Restored,Mythic Rare,3,Red,True,False,True,True,b'James Paick',1.86
-Burn at the Stake,Sorcery,None,Avacyn Restored,Rare,5,Red,True,False,True,False,b'Zoltan Boros',0.68
-Dangerous Wager,Instant,None,Avacyn Restored,Common,2,Red,True,False,True,False,b'Drew Baker',0.15
-Demolish,Sorcery,None,Avacyn Restored,Common,4,Red,True,True,True,True,b'Raymond Swanland',0.06
-Dual Casting,Enchantment,Aura,Avacyn Restored,Rare,2,Red,True,False,True,False,b'Johannes Voss',0.42
-Falkenrath Exterminator,Creature,Vampire Archer,Avacyn Restored,Uncommon,2,Red,True,False,True,False,b'Winona Nelson',0.14
-Fervent Cathar,Creature,Human Knight,Avacyn Restored,Common,3,Red,True,False,True,True,b'Steven Belledin',0.06
-Gang of Devils,Creature,Devil,Avacyn Restored,Uncommon,6,Red,True,False,True,True,b'Erica Yang',0.06
-Guise of Fire,Enchantment,Aura,Avacyn Restored,Common,1,Red,True,False,True,False,b'Dave Kendall',0.02
-Hanweir Lancer,Creature,Human Knight,Avacyn Restored,Common,3,Red,True,False,True,True,b'Steve Prescott',0.08
-Havengul Vampire,Creature,Vampire,Avacyn Restored,Uncommon,4,Red,True,False,True,True,b'James Ryman',0.11
-Heirs of Stromkirk,Creature,Vampire,Avacyn Restored,Common,4,Red,True,False,True,False,b'Winona Nelson',0.11
-Hound of Griselbrand,Creature,Elemental Hound,Avacyn Restored,Rare,4,Red,True,False,True,False,b'Svetlin Velinov',0.24
-Kessig Malcontents,Creature,Human Warrior,Avacyn Restored,Uncommon,3,Red,True,False,True,False,b'John Stanko',0.24
-Kruin Striker,Creature,Human Warrior,Avacyn Restored,Common,2,Red,True,False,True,True,b'Christopher Moeller',0.08
-Lightning Mauler,Creature,Human Berserker,Avacyn Restored,Uncommon,2,Red,True,False,True,False,b'Dave Kendall',0.11
-Lightning Prowess,Enchantment,Aura,Avacyn Restored,Uncommon,3,Red,True,False,True,False,b'David Rapoza',0.12
-Mad Prophet,Creature,Human Shaman,Avacyn Restored,Common,4,Red,True,False,True,True,b'Wayne Reynolds',0.15
-Malicious Intent,Enchantment,Aura,Avacyn Restored,Common,2,Red,True,False,True,False,b'Kev Walker',0.04
-Malignus,Creature,Elemental Spirit,Avacyn Restored,Mythic Rare,5,Red,True,False,True,False,b'Jung Park',2.5
-Pillar of Flame,Sorcery,None,Avacyn Restored,Common,1,Red,True,False,True,True,b'Karl Kopinski',0.09
-Raging Poltergeist,Creature,Spirit,Avacyn Restored,Common,5,Red,True,False,True,False,b'Slawomir Maniak',0.03
-Reforge the Soul,Sorcery,None,Avacyn Restored,Rare,5,Red,True,False,True,True,b'Jaime Jones',4.85
-Riot Ringleader,Creature,Human Warrior,Avacyn Restored,Common,3,Red,True,False,True,False,b'Gabor Szikszai',0.08
-Rite of Ruin,Sorcery,None,Avacyn Restored,Rare,7,Red,True,False,True,False,b'Clint Cearley',0.15
-Rush of Blood,Instant,None,Avacyn Restored,Uncommon,3,Red,True,False,True,False,b'Cynthia Sheppard',0.11
-Scalding Devil,Creature,Devil,Avacyn Restored,Common,2,Red,True,False,True,False,b'Erica Yang',0.07
-Somberwald Vigilante,Creature,Human Warrior,Avacyn Restored,Common,1,Red,True,False,True,True,b'John Stanko',0.08
-Stonewright,Creature,Human Shaman,Avacyn Restored,Uncommon,1,Red,True,False,True,False,b'Wesley Burt',0.05
-Thatcher Revolt,Sorcery,None,Avacyn Restored,Common,3,Red,True,False,True,False,b'Ryan Pancoast',0.11
-Thunderbolt,Instant,None,Avacyn Restored,Common,2,Red,True,False,True,True,b'Anthony Francisco',0.07
-Thunderous Wrath,Instant,None,Avacyn Restored,Uncommon,6,Red,True,False,True,True,b'Adam Paquette',0.13
-"Tibalt, the Fiend-Blooded",Legendary Planeswalker,Tibalt,Avacyn Restored,Mythic Rare,2,Red,True,False,True,True,b'Peter Mohrbacher',1.15
-Tyrant of Discord,Creature,Elemental,Avacyn Restored,Rare,7,Red,True,False,True,False,b'Richard Wright',0.33
-Uncanny Speed,Instant,None,Avacyn Restored,Common,2,Red,True,False,True,False,b'Raymond Swanland',0.07
-Vexing Devil,Creature,Devil,Avacyn Restored,Rare,1,Red,True,False,True,True,b'Lucas Graciano',2.45
-Vigilante Justice,Enchantment,None,Avacyn Restored,Uncommon,4,Red,True,False,True,True,b'Steve Prescott',0.07
-Zealous Conscripts,Creature,Human Warrior,Avacyn Restored,Rare,5,Red,True,False,True,True,b'Steve Prescott',1.07
-Abundant Growth,Enchantment,Aura,Avacyn Restored,Common,1,Green,True,False,True,True,b'Vincent Proce',0.25
-Blessings of Nature,Sorcery,None,Avacyn Restored,Uncommon,5,Green,True,False,True,False,b'Anthony Francisco',0.18
-Borderland Ranger,Creature,Human Scout,Avacyn Restored,Common,3,Green,True,False,True,True,b'Zoltan Boros',0.08
-Bower Passage,Enchantment,None,Avacyn Restored,Uncommon,2,Green,True,False,True,False,b'Cliff Childs',0.21
-Champion of Lambholt,Creature,Human Warrior,Avacyn Restored,Rare,3,Green,True,False,True,True,b'Christopher Moeller',2.19
-Craterhoof Behemoth,Creature,Beast,Avacyn Restored,Mythic Rare,8,Green,True,False,True,True,b'Chris Rahn',43.51
-Descendants' Path,Enchantment,None,Avacyn Restored,Rare,3,Green,True,False,True,False,b'Terese Nielsen',4.96
-Diregraf Escort,Creature,Human Cleric,Avacyn Restored,Common,1,Green,True,False,True,False,b'Ryan Pancoast',0.06
-Druid's Familiar,Creature,Bear,Avacyn Restored,Uncommon,4,Green,True,False,True,False,b'Adam Paquette',0.2
-Druids' Repository,Enchantment,None,Avacyn Restored,Rare,3,Green,True,False,True,False,b'Daarken',1.68
-Eaten by Spiders,Instant,None,Avacyn Restored,Uncommon,3,Green,True,False,True,False,b'Slawomir Maniak',0.11
-Flowering Lumberknot,Creature,Treefolk,Avacyn Restored,Common,4,Green,True,False,True,False,b'Nic Klein',0.05
-Geist Trappers,Creature,Human Warrior,Avacyn Restored,Common,5,Green,True,False,True,False,b'Anthony Palumbo',0.02
-Gloomwidow,Creature,Spider,Avacyn Restored,Uncommon,3,Green,True,False,True,True,b'Svetlin Velinov',0.08
-Grounded,Enchantment,Aura,Avacyn Restored,Common,2,Green,True,False,True,False,b'Greg Staples',0.07
-Howlgeist,Creature,Spirit Wolf,Avacyn Restored,Uncommon,6,Green,True,False,True,False,b'David Rapoza',0.15
-Joint Assault,Instant,None,Avacyn Restored,Common,1,Green,True,False,True,False,b'Raymond Swanland',0.05
-Lair Delve,Sorcery,None,Avacyn Restored,Common,3,Green,True,False,True,False,b'Jason A. Engle',0.03
-Natural End,Instant,None,Avacyn Restored,Common,3,Green,True,True,True,True,b'Scott Chou',0.07
-Nettle Swine,Creature,Boar,Avacyn Restored,Common,4,Green,True,False,True,False,b'Christopher Moeller',0.06
-Nightshade Peddler,Creature,Human Druid,Avacyn Restored,Common,2,Green,True,False,True,False,b'John Stanko',0.1
-Pathbreaker Wurm,Creature,Wurm,Avacyn Restored,Common,6,Green,True,False,True,False,b'Nils Hamm',0.1
-Primal Surge,Sorcery,None,Avacyn Restored,Mythic Rare,10,Green,True,False,True,False,b'David Rapoza',2.92
-Rain of Thorns,Sorcery,None,Avacyn Restored,Uncommon,6,Green,True,False,True,True,b'Sam Burley',0.09
-Revenge of the Hunted,Sorcery,None,Avacyn Restored,Rare,6,Green,True,False,True,False,b'Christopher Moeller',0.3
-Sheltering Word,Instant,None,Avacyn Restored,Common,2,Green,True,False,True,False,b'Igor Kieryluk',0.13
-Snare the Skies,Instant,None,Avacyn Restored,Common,1,Green,True,False,True,False,b'Ryan Yee',0.03
-Somberwald Sage,Creature,Human Druid,Avacyn Restored,Rare,3,Green,True,False,True,False,b'Steve Argyle',2.85
-Soul of the Harvest,Creature,Elemental,Avacyn Restored,Rare,6,Green,True,False,True,True,b'Eytan Zana',1.05
-Terrifying Presence,Instant,None,Avacyn Restored,Common,2,Green,True,False,True,True,b'Jaime Jones',0.13
-Timberland Guide,Creature,Human Scout,Avacyn Restored,Common,2,Green,True,False,True,True,b'Zoltan Boros',0.09
-Triumph of Ferocity,Enchantment,None,Avacyn Restored,Uncommon,3,Green,True,False,True,True,b'James Ryman',0.14
-Trusted Forcemage,Creature,Human Shaman,Avacyn Restored,Common,3,Green,True,False,True,False,b'Cynthia Sheppard',0.07
-Ulvenwald Tracker,Creature,Human Shaman,Avacyn Restored,Rare,1,Green,True,False,True,True,b'Christopher Moeller',0.99
-Vorstclaw,Creature,Elemental Horror,Avacyn Restored,Uncommon,6,Green,True,True,True,True,b'Lucas Graciano',0.04
-Wandering Wolf,Creature,Wolf,Avacyn Restored,Common,2,Green,True,False,True,True,b'Tomasz Jedruszek',0.08
-Wild Defiance,Enchantment,None,Avacyn Restored,Rare,3,Green,True,False,True,False,b'Slawomir Maniak',0.7
-Wildwood Geist,Creature,Spirit,Avacyn Restored,Common,5,Green,True,False,True,False,b'Lars Grant-West',0.05
-Wolfir Avenger,Creature,Wolf Warrior,Avacyn Restored,Uncommon,3,Green,True,False,True,False,b'Daniel Ljunggren',0.18
-Wolfir Silverheart,Creature,Wolf Warrior,Avacyn Restored,Rare,5,Green,True,False,True,False,b'Raymond Swanland',0.78
-Yew Spirit,Creature,Spirit Treefolk,Avacyn Restored,Uncommon,5,Green,True,False,True,False,b'Dan Scott',0.11
-"Bruna, Light of Alabaster",Legendary Creature,Angel,Avacyn Restored,Mythic Rare,6,Gold,True,False,True,True,b'Winona Nelson',0.78
-"Gisela, Blade of Goldnight",Legendary Creature,Angel,Avacyn Restored,Mythic Rare,7,Gold,True,False,True,True,b'Jason Chan',6.59
-"Sigarda, Host of Herons",Legendary Creature,Angel,Avacyn Restored,Mythic Rare,5,Gold,True,False,True,True,b'Chris Rahn',5.58
-Angel's Tomb,Artifact,None,Avacyn Restored,Uncommon,3,Colorless,True,False,True,True,b'Dan Scott',0.08
-Angelic Armaments,Artifact,Equipment,Avacyn Restored,Uncommon,3,Colorless,True,False,True,False,b'Daniel Ljunggren',0.09
-Bladed Bracers,Artifact,Equipment,Avacyn Restored,Common,1,Colorless,True,False,True,False,b'Ryan Yee',0.1
-Conjurer's Closet,Artifact,None,Avacyn Restored,Rare,5,Colorless,True,False,True,True,b'Jason Felix',5.43
-Gallows at Willow Hill,Artifact,None,Avacyn Restored,Rare,3,Colorless,True,False,True,False,b'John Avon',0.14
-Haunted Guardian,Artifact Creature,Construct,Avacyn Restored,Uncommon,2,Colorless,True,False,True,False,b'Daniel Ljunggren',0.05
-Moonsilver Spear,Artifact,Equipment,Avacyn Restored,Rare,4,Colorless,True,False,True,True,b'James Paick',0.51
-Narstad Scrapper,Artifact Creature,Construct,Avacyn Restored,Common,5,Colorless,True,False,True,False,b'Steven Belledin',0.05
-Otherworld Atlas,Artifact,None,Avacyn Restored,Rare,4,Colorless,True,False,True,False,b'Sam Wolfe Connelly',0.68
-Scroll of Avacyn,Artifact,None,Avacyn Restored,Common,1,Colorless,True,False,True,False,b'Cliff Childs',0.22
-Scroll of Griselbrand,Artifact,None,Avacyn Restored,Common,1,Colorless,True,False,True,False,b'Cliff Childs',0.09
-Tormentor's Trident,Artifact,Equipment,Avacyn Restored,Uncommon,2,Colorless,True,False,True,False,b'Anthony Palumbo',0.12
-Vanguard's Shield,Artifact,Equipment,Avacyn Restored,Common,2,Colorless,True,False,True,False,b'Ryan Pancoast',0.08
-Vessel of Endless Rest,Artifact,None,Avacyn Restored,Uncommon,3,Colorless,True,False,True,True,b'John Avon',0.18
-Alchemist's Refuge,Land,None,Avacyn Restored,Rare,0,Colorless,True,False,True,True,b'Dan Scott',3.81
-Cavern of Souls,Land,None,Avacyn Restored,Rare,0,Colorless,True,False,True,True,b'Cliff Childs',51.65
-Desolate Lighthouse,Land,None,Avacyn Restored,Rare,0,Colorless,True,False,True,True,b'Scott Chou',0.43
-Seraph Sanctuary,Land,None,Avacyn Restored,Common,0,Colorless,True,False,True,True,b'David Palumbo',0.32
-Slayers' Stronghold,Land,None,Avacyn Restored,Rare,0,Colorless,True,False,True,False,b'Karl Kopinski',0.9
-Plains,Basic Land,Plains,Avacyn Restored,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.12
-Plains,Basic Land,Plains,Avacyn Restored,Common,0,Colorless,True,True,True,True,b'Jung Park',0.12
-Plains,Basic Land,Plains,Avacyn Restored,Common,0,Colorless,True,True,True,True,b'Eytan Zana',0.13
-Island,Basic Land,Island,Avacyn Restored,Common,0,Colorless,True,True,True,True,b'James Paick',0.1
-Island,Basic Land,Island,Avacyn Restored,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.18
-Island,Basic Land,Island,Avacyn Restored,Common,0,Colorless,True,True,True,True,b'Jung Park',0.12
-Swamp,Basic Land,Swamp,Avacyn Restored,Common,0,Colorless,True,True,True,True,b'James Paick',0.18
-Swamp,Basic Land,Swamp,Avacyn Restored,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.15
-Swamp,Basic Land,Swamp,Avacyn Restored,Common,0,Colorless,True,True,True,True,b'Jung Park',0.21
-Mountain,Basic Land,Mountain,Avacyn Restored,Common,0,Colorless,True,True,True,True,b'James Paick',0.12
-Mountain,Basic Land,Mountain,Avacyn Restored,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.12
-Mountain,Basic Land,Mountain,Avacyn Restored,Common,0,Colorless,True,True,True,True,b'Eytan Zana',0.15
-Forest,Basic Land,Forest,Avacyn Restored,Common,0,Colorless,True,True,True,True,b'James Paick',0.13
-Forest,Basic Land,Forest,Avacyn Restored,Common,0,Colorless,True,True,True,True,b'Jung Park',0.23
-Forest,Basic Land,Forest,Avacyn Restored,Common,0,Colorless,True,True,True,True,b'Eytan Zana',0.31
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Angel of Glory's Rise,Creature,Angel,Avacyn Restored,Rare,7,White,Legal,Not Legal,Legal,Legal,Legal,True,b'James Ryman',0.44,False
+Angel of Jubilation,Creature,Angel,Avacyn Restored,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',4.45,False
+Angel's Mercy,Instant,None,Avacyn Restored,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.1,False
+Angelic Wall,Creature,Wall,Avacyn Restored,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Allen Williams',0.12,False
+Archangel,Creature,Angel,Avacyn Restored,Uncommon,7,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Cynthia Sheppard',0.09,False
+Avacyn Angel of Hope,Creature,Angel,Avacyn Restored,Mythic Rare,8,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',53.67,True
+Banishing Stroke,Instant,None,Avacyn Restored,Uncommon,6,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.14,False
+Builder's Blessing,Enchantment,None,Avacyn Restored,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'John Stanko',0.11,False
+Call to Serve,Enchantment,Aura,Avacyn Restored,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Jaime Jones',0.1,False
+Cathars' Crusade,Enchantment,None,Avacyn Restored,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',8.19,False
+Cathedral Sanctifier,Creature,Human Cleric,Avacyn Restored,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael C. Hayes',0.11,False
+Cloudshift,Instant,None,Avacyn Restored,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Howard Lyon',0.17,False
+Commander's Authority,Enchantment,Aura,Avacyn Restored,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Johannes Voss',0.14,False
+Cursebreak,Instant,None,Avacyn Restored,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Sam Wolfe Connelly',0.1,False
+Defang,Enchantment,Aura,Avacyn Restored,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Steven Belledin',0.06,False
+Defy Death,Sorcery,None,Avacyn Restored,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Karl Kopinski',0.22,False
+Devout Chaplain,Creature,Human Cleric,Avacyn Restored,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Lucas Graciano',0.18,False
+Divine Deflection,Instant,None,Avacyn Restored,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Prescott',0.2,False
+Emancipation Angel,Creature,Angel,Avacyn Restored,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Chou',0.2,False
+Entreat the Angels,Sorcery,None,Avacyn Restored,Mythic Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Todd Lockwood',1.41,False
+Farbog Explorer,Creature,Human Scout,Avacyn Restored,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Scott Chou',0.05,False
+Goldnight Commander,Creature,Human Cleric Soldier,Avacyn Restored,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Chris Rahn',0.21,False
+Goldnight Redeemer,Creature,Angel,Avacyn Restored,Uncommon,6,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.12,False
+Herald of War,Creature,Angel,Avacyn Restored,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Eric Deschamps',1.96,False
+Holy Justiciar,Creature,Human Cleric,Avacyn Restored,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'David Rapoza',0.05,False
+Leap of Faith,Instant,None,Avacyn Restored,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Gabor Szikszai',0.02,False
+Midnight Duelist,Creature,Human Soldier,Avacyn Restored,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Bud Cook',0.13,False
+Midvast Protector,Creature,Human Wizard,Avacyn Restored,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'James Ryman',0.02,False
+Moonlight Geist,Creature,Spirit,Avacyn Restored,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.02,False
+Moorland Inquisitor,Creature,Human Soldier,Avacyn Restored,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'David Palumbo',0.07,False
+Nearheath Pilgrim,Creature,Human Cleric,Avacyn Restored,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Erica Yang',0.09,False
+Restoration Angel,Creature,Angel,Avacyn Restored,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Johannes Voss',2.24,False
+Riders of Gavony,Creature,Human Knight,Avacyn Restored,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',0.29,False
+Righteous Blow,Instant,None,Avacyn Restored,Common,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Clint Cearley',0.03,False
+Seraph of Dawn,Creature,Angel,Avacyn Restored,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Todd Lockwood',0.17,False
+Silverblade Paladin,Creature,Human Knight,Avacyn Restored,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',0.53,False
+Spectral Gateguards,Creature,Spirit Soldier,Avacyn Restored,Common,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne England',0.05,False
+Terminus,Sorcery,None,Avacyn Restored,Rare,6,White,Legal,Not Legal,Legal,Legal,Legal,True,b'James Paick',1.26,False
+Thraben Valiant,Creature,Human Soldier,Avacyn Restored,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',0.09,False
+Voice of the Provinces,Creature,Angel,Avacyn Restored,Common,6,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.09,False
+Zealous Strike,Instant,None,Avacyn Restored,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Bud Cook',0.07,False
+Alchemist's Apprentice,Creature,Human Wizard,Avacyn Restored,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'David Palumbo',0.11,False
+Amass the Components,Sorcery,None,Avacyn Restored,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.13,False
+Arcane Melee,Enchantment,None,Avacyn Restored,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',0.31,False
+Captain of the Mists,Creature,Human Wizard,Avacyn Restored,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Allen Williams',0.17,False
+Crippling Chill,Instant,None,Avacyn Restored,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.09,False
+Deadeye Navigator,Creature,Spirit,Avacyn Restored,Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',6.68,False
+Devastation Tide,Sorcery,None,Avacyn Restored,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',1.45,False
+Dreadwaters,Sorcery,None,Avacyn Restored,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Cliff Childs',0.06,False
+Elgaud Shieldmate,Creature,Human Soldier,Avacyn Restored,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony Palumbo',0.12,False
+Favorable Winds,Enchantment,None,Avacyn Restored,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Winona Nelson',0.28,False
+Fettergeist,Creature,Spirit,Avacyn Restored,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Izzy',0.11,False
+Fleeting Distraction,Instant,None,Avacyn Restored,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Yee',0.07,False
+Galvanic Alchemist,Creature,Human Wizard,Avacyn Restored,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Svetlin Velinov',0.09,False
+Geist Snatch,Instant,None,Avacyn Restored,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.09,False
+Ghostform,Sorcery,None,Avacyn Restored,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Chou',0.07,False
+Ghostly Flicker,Instant,None,Avacyn Restored,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.62,False
+Ghostly Touch,Enchantment,Aura,Avacyn Restored,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Jason Felix',0.08,False
+Gryff Vanguard,Creature,Human Knight,Avacyn Restored,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',0.04,False
+Havengul Skaab,Creature,Zombie Horror,Avacyn Restored,Common,6,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Vincent Proce',0.02,False
+Infinite Reflection,Enchantment,Aura,Avacyn Restored,Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.26,False
+Into the Void,Sorcery,None,Avacyn Restored,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.04,False
+Latch Seeker,Creature,Spirit,Avacyn Restored,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Vincent Proce',0.15,False
+Lone Revenant,Creature,Spirit,Avacyn Restored,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',0.16,False
+Lunar Mystic,Creature,Human Wizard,Avacyn Restored,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Wesley Burt',0.2,False
+Mass Appeal,Sorcery,None,Avacyn Restored,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.12,False
+Mist Raven,Creature,Bird,Avacyn Restored,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.06,False
+Misthollow Griffin,Creature,Griffin,Avacyn Restored,Mythic Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',1.02,False
+Nephalia Smuggler,Creature,Human Rogue,Avacyn Restored,Uncommon,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.14,False
+Outwit,Instant,None,Avacyn Restored,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Erica Yang',0.08,False
+Peel from Reality,Instant,None,Avacyn Restored,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Felix',0.1,False
+Rotcrown Ghoul,Creature,Zombie,Avacyn Restored,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Kendall',0.08,False
+Scrapskin Drake,Creature,Zombie Drake,Avacyn Restored,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.1,False
+Second Guess,Instant,None,Avacyn Restored,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Karl Kopinski',0.06,False
+Spectral Prison,Enchantment,Aura,Avacyn Restored,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Vincent Proce',0.14,False
+Spirit Away,Enchantment,Aura,Avacyn Restored,Rare,7,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.19,False
+Stern Mentor,Creature,Human Wizard,Avacyn Restored,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Igor Kieryluk',0.07,False
+Stolen Goods,Sorcery,None,Avacyn Restored,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony Francisco',0.2,False
+Tamiyo the Moon Sage,Planeswalker,Tamiyo,Avacyn Restored,Mythic Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Deschamps',13.29,True
+Tandem Lookout,Creature,Human Scout,Avacyn Restored,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.14,False
+Temporal Mastery,Sorcery,None,Avacyn Restored,Mythic Rare,7,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',6.56,False
+Vanishment,Instant,None,Avacyn Restored,Uncommon,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Daarken',0.15,False
+Wingcrafter,Creature,Human Wizard,Avacyn Restored,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.1,False
+Appetite for Brains,Sorcery,None,Avacyn Restored,Uncommon,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael C. Hayes',0.09,False
+Barter in Blood,Sorcery,None,Avacyn Restored,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Deschamps',0.1,False
+Blood Artist,Creature,Vampire,Avacyn Restored,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Johannes Voss',4.27,False
+Bloodflow Connoisseur,Creature,Vampire,Avacyn Restored,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',0.15,False
+Bone Splinters,Sorcery,None,Avacyn Restored,Common,1,Black,Legal,Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.1,False
+Butcher Ghoul,Creature,Zombie,Avacyn Restored,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.22,False
+Corpse Traders,Creature,Human Rogue,Avacyn Restored,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.07,False
+Crypt Creeper,Creature,Zombie,Avacyn Restored,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Chou',0.12,False
+Dark Impostor,Creature,Vampire Assassin,Avacyn Restored,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Johannes Voss',0.54,False
+Death Wind,Instant,None,Avacyn Restored,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.12,False
+Demonic Rising,Enchantment,None,Avacyn Restored,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Trevor Claxton',0.17,False
+Demonic Taskmaster,Creature,Demon,Avacyn Restored,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Chris Rahn',0.11,False
+Demonlord of Ashmouth,Creature,Demon,Avacyn Restored,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Lucas Graciano',0.3,False
+Descent into Madness,Enchantment,None,Avacyn Restored,Mythic Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony Francisco',0.44,False
+Dread Slaver,Creature,Zombie Horror,Avacyn Restored,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Kendall',0.3,False
+Driver of the Dead,Creature,Vampire,Avacyn Restored,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'James Ryman',0.06,False
+Essence Harvest,Sorcery,None,Avacyn Restored,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Daarken',0.24,False
+Evernight Shade,Creature,Shade,Avacyn Restored,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Nic Klein',0.11,False
+Exquisite Blood,Enchantment,None,Avacyn Restored,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Cynthia Sheppard',36.26,False
+Ghoulflesh,Enchantment,Aura,Avacyn Restored,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Igor Kieryluk',0.06,False
+Gloom Surgeon,Creature,Spirit,Avacyn Restored,Rare,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Volkan Ba\xc7\xb5a',0.14,False
+Grave Exchange,Sorcery,None,Avacyn Restored,Common,6,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Sam Wolfe Connelly',0.04,False
+Griselbrand,Creature,Demon,Avacyn Restored,Mythic Rare,8,Black,Legal,Not Legal,Banned,Legal,Legal,True,b'Igor Kieryluk',7.71,True
+Harvester of Souls,Creature,Demon,Avacyn Restored,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',1.31,False
+Homicidal Seclusion,Enchantment,None,Avacyn Restored,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Cliff Childs',0.1,False
+Human Frailty,Instant,None,Avacyn Restored,Uncommon,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'David Palumbo',0.16,False
+Hunted Ghoul,Creature,Zombie,Avacyn Restored,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Ryan Pancoast',0.06,False
+Killing Wave,Sorcery,None,Avacyn Restored,Rare,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Argyle',1.35,False
+Maalfeld Twins,Creature,Zombie,Avacyn Restored,Uncommon,6,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Sass',0.12,False
+Marrow Bats,Creature,Bat Skeleton,Avacyn Restored,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason A. Engle',0.09,False
+Mental Agony,Sorcery,None,Avacyn Restored,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.08,False
+Necrobite,Instant,None,Avacyn Restored,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.06,False
+Polluted Dead,Creature,Zombie,Avacyn Restored,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Jason A. Engle',0.06,False
+Predator's Gambit,Enchantment,Aura,Avacyn Restored,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.08,False
+Renegade Demon,Creature,Demon,Avacyn Restored,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.1,False
+Searchlight Geist,Creature,Spirit,Avacyn Restored,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Steven Belledin',0.02,False
+Soulcage Fiend,Creature,Demon,Avacyn Restored,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Jason A. Engle',0.12,False
+Treacherous Pit-Dweller,Creature,Demon,Avacyn Restored,Rare,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Svetlin Velinov',0.26,False
+Triumph of Cruelty,Enchantment,None,Avacyn Restored,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Izzy',0.06,False
+Undead Executioner,Creature,Zombie,Avacyn Restored,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Kendall',0.04,False
+Unhallowed Pact,Enchantment,Aura,Avacyn Restored,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',0.11,False
+Aggravate,Instant,None,Avacyn Restored,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Stewart',0.06,False
+Archwing Dragon,Creature,Dragon,Avacyn Restored,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Daarken',0.44,False
+Banners Raised,Instant,None,Avacyn Restored,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Bierek',0.07,False
+Battle Hymn,Instant,None,Avacyn Restored,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Nils Hamm',0.57,False
+Bonfire of the Damned,Sorcery,None,Avacyn Restored,Mythic Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'James Paick',1.98,False
+Burn at the Stake,Sorcery,None,Avacyn Restored,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',1.09,False
+Dangerous Wager,Instant,None,Avacyn Restored,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Drew Baker',0.17,False
+Demolish,Sorcery,None,Avacyn Restored,Common,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.05,False
+Dual Casting,Enchantment,Aura,Avacyn Restored,Rare,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Johannes Voss',0.74,False
+Falkenrath Exterminator,Creature,Vampire Archer,Avacyn Restored,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Winona Nelson',0.11,False
+Fervent Cathar,Creature,Human Knight,Avacyn Restored,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.07,False
+Gang of Devils,Creature,Devil,Avacyn Restored,Uncommon,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Erica Yang',0.05,False
+Guise of Fire,Enchantment,Aura,Avacyn Restored,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Kendall',0.04,False
+Hanweir Lancer,Creature,Human Knight,Avacyn Restored,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.09,False
+Havengul Vampire,Creature,Vampire,Avacyn Restored,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'James Ryman',0.13,False
+Heirs of Stromkirk,Creature,Vampire,Avacyn Restored,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Winona Nelson',0.09,False
+Hound of Griselbrand,Creature,Elemental Dog,Avacyn Restored,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Svetlin Velinov',0.33,False
+Kessig Malcontents,Creature,Human Warrior,Avacyn Restored,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'John Stanko',0.23,False
+Kruin Striker,Creature,Human Warrior,Avacyn Restored,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.08,False
+Lightning Mauler,Creature,Human Berserker,Avacyn Restored,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Kendall',0.11,False
+Lightning Prowess,Enchantment,Aura,Avacyn Restored,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'David Rapoza',0.1,False
+Mad Prophet,Creature,Human Shaman,Avacyn Restored,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.03,False
+Malicious Intent,Enchantment,Aura,Avacyn Restored,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.03,False
+Malignus,Creature,Elemental Spirit,Avacyn Restored,Mythic Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Jung Park',3.62,False
+Pillar of Flame,Sorcery,None,Avacyn Restored,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.09,False
+Raging Poltergeist,Creature,Spirit,Avacyn Restored,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Slawomir Maniak',0.04,False
+Reforge the Soul,Sorcery,None,Avacyn Restored,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',9.77,False
+Riot Ringleader,Creature,Human Warrior,Avacyn Restored,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Gabor Szikszai',0.11,False
+Rite of Ruin,Sorcery,None,Avacyn Restored,Rare,7,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Clint Cearley',0.14,False
+Rush of Blood,Instant,None,Avacyn Restored,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Cynthia Sheppard',0.13,False
+Scalding Devil,Creature,Devil,Avacyn Restored,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Erica Yang',0.06,False
+Somberwald Vigilante,Creature,Human Warrior,Avacyn Restored,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'John Stanko',0.04,False
+Stonewright,Creature,Human Shaman,Avacyn Restored,Uncommon,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Wesley Burt',0.08,False
+Thatcher Revolt,Sorcery,None,Avacyn Restored,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Ryan Pancoast',0.13,False
+Thunderbolt,Instant,None,Avacyn Restored,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony Francisco',0.06,False
+Thunderous Wrath,Instant,None,Avacyn Restored,Uncommon,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.16,False
+Tibalt the Fiend-Blooded,Planeswalker,Tibalt,Avacyn Restored,Mythic Rare,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Peter Mohrbacher',1.44,True
+Tyrant of Discord,Creature,Elemental,Avacyn Restored,Rare,7,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Richard Wright',0.36,False
+Uncanny Speed,Instant,None,Avacyn Restored,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Raymond Swanland',0.08,False
+Vexing Devil,Creature,Devil,Avacyn Restored,Rare,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Lucas Graciano',2.96,False
+Vigilante Justice,Enchantment,None,Avacyn Restored,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.09,False
+Zealous Conscripts,Creature,Human Warrior,Avacyn Restored,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',1.6,False
+Abundant Growth,Enchantment,Aura,Avacyn Restored,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Vincent Proce',0.32,False
+Blessings of Nature,Sorcery,None,Avacyn Restored,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony Francisco',0.2,False
+Borderland Ranger,Creature,Human Scout,Avacyn Restored,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.09,False
+Bower Passage,Enchantment,None,Avacyn Restored,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Cliff Childs',0.21,False
+Champion of Lambholt,Creature,Human Warrior,Avacyn Restored,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',2.37,False
+Craterhoof Behemoth,Creature,Beast,Avacyn Restored,Mythic Rare,8,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',52.29,False
+Descendants' Path,Enchantment,None,Avacyn Restored,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',5.57,False
+Diregraf Escort,Creature,Human Cleric,Avacyn Restored,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Ryan Pancoast',0.07,False
+Druid's Familiar,Creature,Bear,Avacyn Restored,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Paquette',0.23,False
+Druids' Repository,Enchantment,None,Avacyn Restored,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Daarken',1.9,False
+Eaten by Spiders,Instant,None,Avacyn Restored,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Slawomir Maniak',0.09,False
+Flowering Lumberknot,Creature,Treefolk,Avacyn Restored,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Nic Klein',0.05,False
+Geist Trappers,Creature,Human Warrior,Avacyn Restored,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony Palumbo',0.03,False
+Gloomwidow,Creature,Spider,Avacyn Restored,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.1,False
+Grounded,Enchantment,Aura,Avacyn Restored,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.1,False
+Howlgeist,Creature,Spirit Wolf,Avacyn Restored,Uncommon,6,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'David Rapoza',0.12,False
+Joint Assault,Instant,None,Avacyn Restored,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Raymond Swanland',0.05,False
+Lair Delve,Sorcery,None,Avacyn Restored,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Jason A. Engle',0.04,False
+Natural End,Instant,None,Avacyn Restored,Common,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Scott Chou',0.04,False
+Nettle Swine,Creature,Boar,Avacyn Restored,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.05,False
+Nightshade Peddler,Creature,Human Druid,Avacyn Restored,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'John Stanko',0.1,False
+Pathbreaker Wurm,Creature,Wurm,Avacyn Restored,Common,6,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Nils Hamm',0.1,False
+Primal Surge,Sorcery,None,Avacyn Restored,Mythic Rare,10,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'David Rapoza',3.06,False
+Rain of Thorns,Sorcery,None,Avacyn Restored,Uncommon,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Sam Burley',0.09,False
+Revenge of the Hunted,Sorcery,None,Avacyn Restored,Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.33,False
+Sheltering Word,Instant,None,Avacyn Restored,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Igor Kieryluk',0.14,False
+Snare the Skies,Instant,None,Avacyn Restored,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Ryan Yee',0.07,False
+Somberwald Sage,Creature,Human Druid,Avacyn Restored,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Argyle',3.63,False
+Soul of the Harvest,Creature,Elemental,Avacyn Restored,Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Eytan Zana',1.18,False
+Terrifying Presence,Instant,None,Avacyn Restored,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',0.15,False
+Timberland Guide,Creature,Human Scout,Avacyn Restored,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.11,False
+Triumph of Ferocity,Enchantment,None,Avacyn Restored,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'James Ryman',0.2,False
+Trusted Forcemage,Creature,Human Shaman,Avacyn Restored,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Cynthia Sheppard',0.1,False
+Ulvenwald Tracker,Creature,Human Shaman,Avacyn Restored,Rare,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',1.22,False
+Vorstclaw,Creature,Elemental Horror,Avacyn Restored,Uncommon,6,Green,Legal,Legal,Legal,Legal,Legal,True,b'Lucas Graciano',0.05,False
+Wandering Wolf,Creature,Wolf,Avacyn Restored,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.08,False
+Wild Defiance,Enchantment,None,Avacyn Restored,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Slawomir Maniak',0.76,False
+Wildwood Geist,Creature,Spirit,Avacyn Restored,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Lars Grant-West',0.05,False
+Wolfir Avenger,Creature,Wolf Warrior,Avacyn Restored,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Daniel Ljunggren',0.22,False
+Wolfir Silverheart,Creature,Wolf Warrior,Avacyn Restored,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Raymond Swanland',0.82,False
+Yew Spirit,Creature,Spirit Treefolk,Avacyn Restored,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.12,False
+Bruna Light of Alabaster,Creature,Angel,Avacyn Restored,Mythic Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Winona Nelson',0.89,True
+Gisela Blade of Goldnight,Creature,Angel,Avacyn Restored,Mythic Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',8.22,True
+Sigarda Host of Herons,Creature,Angel,Avacyn Restored,Mythic Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',7.96,True
+Angel's Tomb,Artifact,None,Avacyn Restored,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.09,False
+Angelic Armaments,Artifact,Equipment,Avacyn Restored,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Daniel Ljunggren',0.11,False
+Bladed Bracers,Artifact,Equipment,Avacyn Restored,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Ryan Yee',0.11,False
+Conjurer's Closet,Artifact,None,Avacyn Restored,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Felix',6.8,False
+Gallows at Willow Hill,Artifact,None,Avacyn Restored,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.2,False
+Haunted Guardian,Artifact Creature,Construct,Avacyn Restored,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Daniel Ljunggren',0.06,False
+Moonsilver Spear,Artifact,Equipment,Avacyn Restored,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'James Paick',0.54,False
+Narstad Scrapper,Artifact Creature,Construct,Avacyn Restored,Common,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Steven Belledin',0.06,False
+Otherworld Atlas,Artifact,None,Avacyn Restored,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Sam Wolfe Connelly',1.07,False
+Scroll of Avacyn,Artifact,None,Avacyn Restored,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Cliff Childs',0.2,False
+Scroll of Griselbrand,Artifact,None,Avacyn Restored,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Cliff Childs',0.1,False
+Tormentor's Trident,Artifact,Equipment,Avacyn Restored,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony Palumbo',0.13,False
+Vanguard's Shield,Artifact,Equipment,Avacyn Restored,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Ryan Pancoast',0.08,False
+Vessel of Endless Rest,Artifact,None,Avacyn Restored,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.22,False
+Alchemist's Refuge,Land,None,Avacyn Restored,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',5.9,False
+Cavern of Souls,Land,None,Avacyn Restored,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Cliff Childs',60.2,False
+Desolate Lighthouse,Land,None,Avacyn Restored,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Chou',0.45,False
+Seraph Sanctuary,Land,None,Avacyn Restored,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'David Palumbo',0.42,False
+Slayers' Stronghold,Land,None,Avacyn Restored,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Karl Kopinski',1.41,False
+Plains,Basic Land,Plains,Avacyn Restored,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.09,False
+Plains,Basic Land,Plains,Avacyn Restored,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jung Park',0.14,False
+Plains,Basic Land,Plains,Avacyn Restored,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Eytan Zana',0.17,False
+Island,Basic Land,Island,Avacyn Restored,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'James Paick',0.16,False
+Island,Basic Land,Island,Avacyn Restored,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.18,False
+Island,Basic Land,Island,Avacyn Restored,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jung Park',0.11,False
+Swamp,Basic Land,Swamp,Avacyn Restored,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'James Paick',0.15,False
+Swamp,Basic Land,Swamp,Avacyn Restored,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.14,False
+Swamp,Basic Land,Swamp,Avacyn Restored,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jung Park',0.18,False
+Mountain,Basic Land,Mountain,Avacyn Restored,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'James Paick',0.13,False
+Mountain,Basic Land,Mountain,Avacyn Restored,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.16,False
+Mountain,Basic Land,Mountain,Avacyn Restored,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Eytan Zana',0.17,False
+Forest,Basic Land,Forest,Avacyn Restored,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'James Paick',0.12,False
+Forest,Basic Land,Forest,Avacyn Restored,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jung Park',0.18,False
+Forest,Basic Land,Forest,Avacyn Restored,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Eytan Zana',0.25,False

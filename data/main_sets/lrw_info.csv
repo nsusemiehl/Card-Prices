@@ -1,302 +1,302 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Ajani Goldmane,Legendary Planeswalker,Ajani,Lorwyn,Rare,4,White,True,False,True,True,b'Aleksi Briclot',6.05
-Arbiter of Knollridge,Creature,Giant Wizard,Lorwyn,Rare,7,White,True,False,True,True,b'Brandon Dorman',0.19
-Austere Command,Sorcery,None,Lorwyn,Rare,6,White,True,False,True,True,b'Wayne England',9.05
-Avian Changeling,Creature,Shapeshifter,Lorwyn,Common,3,White,True,False,True,True,b'Heather Hudson',0.14
-Battle Mastery,Enchantment,Aura,Lorwyn,Uncommon,3,White,True,False,True,True,b'Zoltan Boros',0.23
-"Brigid, Hero of Kinsbaile",Legendary Creature,Kithkin Archer,Lorwyn,Rare,4,White,True,False,True,False,b'Steve Prescott',0.61
-Burrenton Forge-Tender,Creature,Kithkin Wizard,Lorwyn,Uncommon,1,White,True,False,True,True,b'Chuck Lukacs',0.38
-Cenn's Heir,Creature,Kithkin Soldier,Lorwyn,Common,2,White,True,False,True,False,b'Steven Belledin',0.1
-Changeling Hero,Creature,Shapeshifter,Lorwyn,Uncommon,5,White,True,False,True,True,b'Jeff Miracola',0.33
-Cloudgoat Ranger,Creature,Giant Warrior,Lorwyn,Uncommon,5,White,True,False,True,True,b'Adam Rex',0.16
-Crib Swap,Tribal Instant,Shapeshifter,Lorwyn,Uncommon,3,White,True,False,True,True,b'Brandon Dorman',0.32
-Dawnfluke,Creature,Elemental,Lorwyn,Common,4,White,True,False,True,False,b'Mark Zug',0.08
-Entangling Trap,Enchantment,None,Lorwyn,Uncommon,2,White,True,False,True,False,b'Warren Mahy',0.12
-Favor of the Mighty,Tribal Enchantment,Giant,Lorwyn,Rare,2,White,True,False,True,False,b'Larry MacDougall',0.49
-Galepowder Mage,Creature,Kithkin Wizard,Lorwyn,Rare,4,White,True,False,True,True,b'Jeremy Jarvis',0.32
-Goldmeadow Dodger,Creature,Kithkin Rogue,Lorwyn,Common,1,White,True,False,True,False,b'Omar Rayyan',0.08
-Goldmeadow Harrier,Creature,Kithkin Soldier,Lorwyn,Common,1,White,True,False,True,True,b'Steve Prescott',0.15
-Goldmeadow Stalwart,Creature,Kithkin Soldier,Lorwyn,Uncommon,1,White,True,False,True,False,b'Wayne Reynolds',0.14
-Harpoon Sniper,Creature,Merfolk Archer,Lorwyn,Uncommon,3,White,True,False,True,False,b'Dominick Domingo',0.22
-Hillcomber Giant,Creature,Giant Scout,Lorwyn,Common,4,White,True,False,True,True,b'Ralph Horsley',0.05
-Hoofprints of the Stag,Tribal Enchantment,Elemental,Lorwyn,Rare,2,White,True,False,True,True,b'Anthony S. Waters',0.26
-Judge of Currents,Creature,Merfolk Wizard,Lorwyn,Common,2,White,True,False,True,False,b'Dan Scott',0.14
-Kinsbaile Balloonist,Creature,Kithkin Soldier,Lorwyn,Common,4,White,True,False,True,False,b'Zoltan Boros',0.06
-Kinsbaile Skirmisher,Creature,Kithkin Soldier,Lorwyn,Common,2,White,True,False,True,True,b'Thomas Denmark',0.06
-Kithkin Greatheart,Creature,Kithkin Soldier,Lorwyn,Common,2,White,True,False,True,True,b'Greg Staples',0.11
-Kithkin Harbinger,Creature,Kithkin Wizard,Lorwyn,Uncommon,3,White,True,False,True,False,b'Steve Prescott',0.22
-Kithkin Healer,Creature,Kithkin Cleric,Lorwyn,Common,3,White,True,False,True,False,b'Rebecca Guay',0.09
-Knight of Meadowgrain,Creature,Kithkin Knight,Lorwyn,Uncommon,2,White,True,False,True,True,b'Larry MacDougall',1.14
-Lairwatch Giant,Creature,Giant Warrior,Lorwyn,Common,6,White,True,False,True,False,b'Warren Mahy',0.07
-Militia's Pride,Tribal Enchantment,Kithkin,Lorwyn,Rare,2,White,True,False,True,False,b'Larry MacDougall',1.45
-Mirror Entity,Creature,Shapeshifter,Lorwyn,Rare,3,White,True,False,True,True,b'Zoltan Boros',3.29
-Neck Snap,Instant,None,Lorwyn,Common,4,White,True,False,True,False,b'Dominick Domingo',0.05
-Oaken Brawler,Creature,Treefolk Warrior,Lorwyn,Common,4,White,True,False,True,False,b'Jim Murray',0.08
-Oblivion Ring,Enchantment,None,Lorwyn,Common,3,White,True,False,True,True,b'Wayne England',0.32
-Plover Knights,Creature,Kithkin Knight,Lorwyn,Common,5,White,True,False,True,True,b'Quinton Hoover',0.12
-Pollen Lullaby,Instant,None,Lorwyn,Uncommon,2,White,True,False,True,True,b'Warren Mahy',0.14
-Purity,Creature,Elemental Incarnation,Lorwyn,Rare,6,White,True,False,True,False,b'Warren Mahy',1.6
-Sentry Oak,Creature,Treefolk Warrior,Lorwyn,Uncommon,5,White,True,False,True,False,b'Warren Mahy',0.09
-Shields of Velis Vel,Tribal Instant,Shapeshifter,Lorwyn,Common,1,White,True,False,True,False,b'Ralph Horsley',0.23
-Soaring Hope,Enchantment,Aura,Lorwyn,Common,5,White,True,False,True,False,b'Martina Pilcerova',0.08
-Springjack Knight,Creature,Kithkin Knight,Lorwyn,Common,3,White,True,False,True,False,b'Steven Belledin',0.1
-Summon the School,Tribal Sorcery,Merfolk,Lorwyn,Uncommon,4,White,True,False,True,False,b'Dave Dorman',0.26
-Surge of Thoughtweft,Tribal Instant,Kithkin,Lorwyn,Common,2,White,True,False,True,False,b'Randy Gallegos',0.1
-Thoughtweft Trio,Creature,Kithkin Soldier,Lorwyn,Rare,4,White,True,False,True,False,b'Wayne Reynolds',0.31
-Triclopean Sight,Enchantment,Aura,Lorwyn,Common,2,White,True,False,True,False,b'Scott Hampton',0.15
-Veteran of the Depths,Creature,Merfolk Soldier,Lorwyn,Uncommon,4,White,True,False,True,False,b'Daren Bader',0.14
-Wellgabber Apothecary,Creature,Merfolk Cleric,Lorwyn,Common,5,White,True,False,True,False,b'Brandon Dorman',0.05
-Wispmare,Creature,Elemental,Lorwyn,Common,3,White,True,False,True,False,b'Eric Fortune',0.35
-Wizened Cenn,Creature,Kithkin Cleric,Lorwyn,Uncommon,2,White,True,False,True,False,b'Kev Walker',0.17
-Aethersnipe,Creature,Elemental,Lorwyn,Common,6,Blue,True,False,True,True,b'Zoltan Boros',0.08
-Amoeboid Changeling,Creature,Shapeshifter,Lorwyn,Common,2,Blue,True,False,True,True,b'Nils Hamm',0.61
-Aquitect's Will,Tribal Sorcery,Merfolk,Lorwyn,Common,1,Blue,True,False,True,True,b'Jeff Easley',0.17
-Benthicore,Creature,Elemental,Lorwyn,Uncommon,7,Blue,True,False,True,False,b'Jim Nelson',0.15
-Broken Ambitions,Instant,None,Lorwyn,Common,2,Blue,True,False,True,False,b'Franz Vohwinkel',0.12
-Captivating Glance,Enchantment,Aura,Lorwyn,Uncommon,3,Blue,True,False,True,False,b'Dan Dos Santos',0.12
-Cryptic Command,Instant,None,Lorwyn,Rare,4,Blue,True,False,True,True,b'Wayne England',24.31
-Deeptread Merrow,Creature,Merfolk Rogue,Lorwyn,Common,2,Blue,True,False,True,False,b'Terese Nielsen',0.09
-Drowner of Secrets,Creature,Merfolk Wizard,Lorwyn,Uncommon,3,Blue,True,False,True,False,b'Rebecca Guay',0.21
-Ego Erasure,Tribal Instant,Shapeshifter,Lorwyn,Uncommon,3,Blue,True,False,True,False,b'Steven Belledin',0.17
-Ethereal Whiskergill,Creature,Elemental,Lorwyn,Uncommon,4,Blue,True,False,True,False,b'Howard Lyon',0.08
-Faerie Harbinger,Creature,Faerie Wizard,Lorwyn,Uncommon,4,Blue,True,False,True,False,b'Larry MacDougall',0.6
-Faerie Trickery,Tribal Instant,Faerie,Lorwyn,Common,3,Blue,True,False,True,False,b'Terese Nielsen',0.28
-Fallowsage,Creature,Merfolk Wizard,Lorwyn,Uncommon,4,Blue,True,False,True,False,b'Paolo Parente',0.39
-Familiar's Ruse,Instant,None,Lorwyn,Uncommon,2,Blue,True,False,True,True,b'Eric Fortune',0.34
-Fathom Trawl,Sorcery,None,Lorwyn,Rare,5,Blue,True,False,True,False,b'Paul Chadwick',0.22
-Forced Fruition,Enchantment,None,Lorwyn,Rare,6,Blue,True,False,True,False,"b""William O'Connor""",10.65
-Glen Elendra Pranksters,Creature,Faerie Wizard,Lorwyn,Uncommon,4,Blue,True,False,True,False,b'Omar Rayyan',0.22
-Glimmerdust Nap,Enchantment,Aura,Lorwyn,Common,3,Blue,True,False,True,False,b'Greg Staples',0.09
-Guile,Creature,Elemental Incarnation,Lorwyn,Rare,6,Blue,True,False,True,True,b'Zoltan Boros',0.71
-Inkfathom Divers,Creature,Merfolk Soldier,Lorwyn,Common,5,Blue,True,False,True,True,b'Steven Belledin',0.07
-Jace Beleren,Legendary Planeswalker,Jace,Lorwyn,Rare,3,Blue,True,False,True,True,b'Aleksi Briclot',2.99
-Merrow Commerce,Tribal Enchantment,Merfolk,Lorwyn,Uncommon,2,Blue,True,False,True,False,b'Steve Ellis',2.11
-Merrow Harbinger,Creature,Merfolk Wizard,Lorwyn,Uncommon,4,Blue,True,False,True,False,b'Steve Prescott',0.61
-Merrow Reejerey,Creature,Merfolk Soldier,Lorwyn,Uncommon,3,Blue,True,False,True,True,b'Greg Staples',1.98
-Mistbind Clique,Creature,Faerie Wizard,Lorwyn,Rare,4,Blue,True,False,True,False,b'Ben Thompson',12.49
-Mulldrifter,Creature,Elemental,Lorwyn,Common,5,Blue,True,False,True,True,b'Eric Fortune',1.4
-Paperfin Rascal,Creature,Merfolk Rogue,Lorwyn,Common,3,Blue,True,False,True,False,b'Zoltan Boros',0.07
-Pestermite,Creature,Faerie Rogue,Lorwyn,Common,3,Blue,True,False,True,True,b'Christopher Moeller',0.46
-Ponder,Sorcery,None,Lorwyn,Common,1,Blue,False,False,True,True,b'Mark Tedin',1.98
-Protective Bubble,Enchantment,Aura,Lorwyn,Common,4,Blue,True,False,True,False,b'Steve Ellis',0.13
-Ringskipper,Creature,Faerie Wizard,Lorwyn,Common,2,Blue,True,False,True,False,b'Heather Hudson',0.09
-Scattering Stroke,Instant,None,Lorwyn,Uncommon,4,Blue,True,False,True,True,b'Franz Vohwinkel',0.1
-Scion of Oona,Creature,Faerie Soldier,Lorwyn,Rare,3,Blue,True,False,True,True,b'Eric Fortune',9.63
-Sentinels of Glen Elendra,Creature,Faerie Soldier,Lorwyn,Common,4,Blue,True,False,True,False,b'Howard Lyon',0.11
-Shapesharer,Creature,Shapeshifter,Lorwyn,Rare,2,Blue,True,False,True,False,b'Alan Pollack',5.61
-Silvergill Adept,Creature,Merfolk Wizard,Lorwyn,Uncommon,2,Blue,True,False,True,True,b'Matt Cavotta',0.52
-Silvergill Douser,Creature,Merfolk Wizard,Lorwyn,Common,2,Blue,True,False,True,False,b'Daren Bader',0.13
-Sower of Temptation,Creature,Faerie Wizard,Lorwyn,Rare,4,Blue,True,False,True,True,b'Christopher Moeller',2.07
-Spellstutter Sprite,Creature,Faerie Wizard,Lorwyn,Common,2,Blue,True,False,True,True,b'Rebecca Guay',1.93
-Stonybrook Angler,Creature,Merfolk Wizard,Lorwyn,Common,2,Blue,True,False,True,False,b'Larry MacDougall',0.13
-Streambed Aquitects,Creature,Merfolk Scout,Lorwyn,Common,3,Blue,True,False,True,True,"b""William O'Connor""",0.14
-Surgespanner,Creature,Merfolk Wizard,Lorwyn,Rare,4,Blue,True,False,True,False,b'Warren Mahy',2.97
-Tideshaper Mystic,Creature,Merfolk Wizard,Lorwyn,Common,1,Blue,True,False,True,False,b'Mark Tedin',0.14
-Turtleshell Changeling,Creature,Shapeshifter,Lorwyn,Uncommon,4,Blue,True,False,True,False,b'Ron Spencer',0.23
-Wanderwine Prophets,Creature,Merfolk Wizard,Lorwyn,Rare,6,Blue,True,False,True,False,b'Alex Horley-Orlandelli',4.11
-Whirlpool Whelm,Instant,None,Lorwyn,Common,2,Blue,True,False,True,True,b'Cyril Van Der Haegen',0.08
-Wings of Velis Vel,Tribal Instant,Shapeshifter,Lorwyn,Common,2,Blue,True,False,True,True,b'Jim Pavelec',0.1
-Zephyr Net,Enchantment,Aura,Lorwyn,Common,2,Blue,True,False,True,False,b'Heather Hudson',0.05
-Black Poplar Shaman,Creature,Treefolk Shaman,Lorwyn,Common,3,Black,True,False,True,False,b'Mark Poole',0.14
-Bog Hoodlums,Creature,Goblin Warrior,Lorwyn,Common,6,Black,True,False,True,False,b'Brandon Dorman',0.05
-Boggart Birth Rite,Tribal Sorcery,Goblin,Lorwyn,Common,1,Black,True,False,True,False,b'Ralph Horsley',0.13
-Boggart Harbinger,Creature,Goblin Shaman,Lorwyn,Uncommon,3,Black,True,False,True,False,b'Steve Prescott',0.38
-Boggart Loggers,Creature,Goblin Rogue,Lorwyn,Common,3,Black,True,False,True,False,b'Jesper Ejsing',0.07
-Boggart Mob,Creature,Goblin Warrior,Lorwyn,Rare,4,Black,True,False,True,False,b'Thomas Denmark',0.85
-Cairn Wanderer,Creature,Shapeshifter,Lorwyn,Rare,5,Black,True,False,True,True,b'Nils Hamm',3.17
-Colfenor's Plans,Enchantment,None,Lorwyn,Rare,4,Black,True,False,True,False,b'Darrell Riche',0.2
-Dread,Creature,Elemental Incarnation,Lorwyn,Rare,6,Black,True,False,True,False,b'Matt Cavotta',7.97
-Dreamspoiler Witches,Creature,Faerie Wizard,Lorwyn,Common,4,Black,True,False,True,True,b'Jeff Easley',0.1
-Exiled Boggart,Creature,Goblin Rogue,Lorwyn,Common,2,Black,True,False,True,False,b'Pete Venters',0.05
-Eyeblight's Ending,Tribal Instant,Elf,Lorwyn,Common,3,Black,True,False,True,True,b'Ron Spears',0.12
-Facevaulter,Creature,Goblin Warrior,Lorwyn,Common,1,Black,True,False,True,True,b'Wayne Reynolds',0.05
-Faerie Tauntings,Tribal Enchantment,Faerie,Lorwyn,Uncommon,3,Black,True,False,True,False,b'Michael Sutfin',0.26
-Final Revels,Sorcery,None,Lorwyn,Uncommon,5,Black,True,False,True,False,b'Omar Rayyan',0.12
-Fodder Launch,Tribal Sorcery,Goblin,Lorwyn,Uncommon,4,Black,True,False,True,False,b'Nils Hamm',0.22
-Footbottom Feast,Instant,None,Lorwyn,Common,3,Black,True,False,True,True,b'Jim Nelson',0.12
-Ghostly Changeling,Creature,Shapeshifter,Lorwyn,Uncommon,3,Black,True,False,True,True,b'Chuck Lukacs',0.12
-Hoarder's Greed,Sorcery,None,Lorwyn,Uncommon,4,Black,True,False,True,False,b'Pete Venters',0.11
-Hornet Harasser,Creature,Goblin Shaman,Lorwyn,Common,4,Black,True,False,True,False,b'Nils Hamm',0.07
-Hunter of Eyeblights,Creature,Elf Assassin,Lorwyn,Uncommon,5,Black,True,False,True,True,b'Jesper Ejsing',0.18
-Knucklebone Witch,Creature,Goblin Shaman,Lorwyn,Rare,1,Black,True,False,True,False,b'Jim Pavelec',3.38
-Liliana Vess,Legendary Planeswalker,Liliana,Lorwyn,Rare,5,Black,True,False,True,True,b'Aleksi Briclot',7.53
-Lys Alana Scarblade,Creature,Elf Assassin,Lorwyn,Uncommon,3,Black,True,False,True,True,b'Christopher Moeller',0.19
-Mad Auntie,Creature,Goblin Shaman,Lorwyn,Rare,3,Black,True,False,True,True,b'Wayne Reynolds',0.47
-Makeshift Mannequin,Instant,None,Lorwyn,Uncommon,4,Black,True,False,True,True,b'Darrell Riche',0.26
-Marsh Flitter,Creature,Faerie Rogue,Lorwyn,Uncommon,4,Black,True,False,True,True,b'Wayne Reynolds',0.2
-Moonglove Winnower,Creature,Elf Rogue,Lorwyn,Common,4,Black,True,False,True,True,"b""William O'Connor""",0.08
-Mournwhelk,Creature,Elemental,Lorwyn,Common,7,Black,True,False,True,False,b'Jeremy Jarvis',0.09
-Nameless Inversion,Tribal Instant,Shapeshifter,Lorwyn,Common,2,Black,True,False,True,True,b'Jeff Miracola',0.17
-Nath's Buffoon,Creature,Goblin Rogue,Lorwyn,Common,2,Black,True,False,True,False,b'Thomas Denmark',0.08
-Nectar Faerie,Creature,Faerie Wizard,Lorwyn,Uncommon,2,Black,True,False,True,False,b'Thomas Denmark',0.34
-Nettlevine Blight,Enchantment,Aura,Lorwyn,Rare,6,Black,True,False,True,False,b'Michael Sutfin',0.51
-Nightshade Stinger,Creature,Faerie Rogue,Lorwyn,Common,1,Black,True,False,True,False,b'Mark Poole',0.16
-Oona's Prowler,Creature,Faerie Rogue,Lorwyn,Rare,2,Black,True,False,True,False,b'Wayne Reynolds',2.06
-Peppersmoke,Tribal Instant,Faerie,Lorwyn,Common,1,Black,True,False,True,True,b'Rebecca Guay',0.11
-Profane Command,Sorcery,None,Lorwyn,Rare,3,Black,True,False,True,True,b'Wayne England',0.62
-Prowess of the Fair,Tribal Enchantment,Elf,Lorwyn,Uncommon,2,Black,True,False,True,False,b'Jeremy Jarvis',0.23
-Quill-Slinger Boggart,Creature,Goblin Warrior,Lorwyn,Common,4,Black,True,False,True,False,b'Warren Mahy',0.05
-Scarred Vinebreeder,Creature,Elf Shaman,Lorwyn,Common,2,Black,True,False,True,False,b'Alex Horley-Orlandelli',0.1
-Shriekmaw,Creature,Elemental,Lorwyn,Uncommon,5,Black,True,False,True,True,b'Steve Prescott',1.07
-Skeletal Changeling,Creature,Shapeshifter,Lorwyn,Common,2,Black,True,False,True,False,b'Alan Pollack',0.28
-Spiderwig Boggart,Creature,Goblin Shaman,Lorwyn,Common,3,Black,True,False,True,False,b'Larry MacDougall',0.07
-Squeaking Pie Sneak,Creature,Goblin Rogue,Lorwyn,Uncommon,2,Black,True,False,True,False,b'Jeff Miracola',0.13
-Thieving Sprite,Creature,Faerie Rogue,Lorwyn,Common,3,Black,True,False,True,True,b'Dan Scott',0.15
-Thorntooth Witch,Creature,Treefolk Shaman,Lorwyn,Uncommon,6,Black,True,False,True,False,"b""William O'Connor""",0.17
-Thoughtseize,Sorcery,None,Lorwyn,Rare,1,Black,True,False,True,True,b'Aleksi Briclot',40.27
-Warren Pilferers,Creature,Goblin Rogue,Lorwyn,Common,5,Black,True,False,True,True,b'Wayne Reynolds',0.11
-Weed Strangle,Sorcery,None,Lorwyn,Common,5,Black,True,False,True,False,b'Jesper Ejsing',0.11
-Adder-Staff Boggart,Creature,Goblin Warrior,Lorwyn,Common,2,Red,True,False,True,False,b'Jeff Miracola',0.1
-Ashling the Pilgrim,Legendary Creature,Elemental Shaman,Lorwyn,Rare,2,Red,True,False,True,False,b'Wayne Reynolds',2.83
-Ashling's Prerogative,Enchantment,None,Lorwyn,Rare,2,Red,True,False,True,False,b'Warren Mahy',0.41
-Axegrinder Giant,Creature,Giant Warrior,Lorwyn,Common,6,Red,True,False,True,True,b'Warren Mahy',0.06
-Blades of Velis Vel,Tribal Instant,Shapeshifter,Lorwyn,Common,2,Red,True,False,True,True,b'Ron Spencer',0.12
-Blind-Spot Giant,Creature,Giant Warrior,Lorwyn,Common,3,Red,True,False,True,True,b'Jim Murray',0.07
-Boggart Forager,Creature,Goblin Rogue,Lorwyn,Common,1,Red,True,False,True,False,b'Ron Spencer',0.07
-Boggart Shenanigans,Tribal Enchantment,Goblin,Lorwyn,Uncommon,3,Red,True,False,True,True,b'Warren Mahy',1.29
-Boggart Sprite-Chaser,Creature,Goblin Warrior,Lorwyn,Common,2,Red,True,False,True,False,b'Mark Poole',0.06
-Caterwauling Boggart,Creature,Goblin Shaman,Lorwyn,Common,4,Red,True,False,True,False,b'Steven Belledin',0.21
-Ceaseless Searblades,Creature,Elemental Warrior,Lorwyn,Uncommon,4,Red,True,False,True,False,b'Jim Murray',0.16
-Chandra Nalaar,Legendary Planeswalker,Chandra,Lorwyn,Rare,5,Red,True,False,True,True,b'Aleksi Briclot',1.88
-Changeling Berserker,Creature,Shapeshifter,Lorwyn,Uncommon,4,Red,True,False,True,False,b'Warren Mahy',0.66
-Consuming Bonfire,Tribal Sorcery,Elemental,Lorwyn,Common,5,Red,True,False,True,False,b'Randy Gallegos',0.06
-Crush Underfoot,Tribal Instant,Giant,Lorwyn,Uncommon,2,Red,True,False,True,True,b'Steven Belledin',0.15
-Faultgrinder,Creature,Elemental,Lorwyn,Common,7,Red,True,False,True,True,b'Anthony S. Waters',0.12
-Fire-Belly Changeling,Creature,Shapeshifter,Lorwyn,Common,2,Red,True,False,True,True,b'Randy Gallegos',0.19
-Flamekin Bladewhirl,Creature,Elemental Warrior,Lorwyn,Uncommon,1,Red,True,False,True,False,b'Mark Zug',0.12
-Flamekin Brawler,Creature,Elemental Warrior,Lorwyn,Common,1,Red,True,False,True,True,b'Daren Bader',0.09
-Flamekin Harbinger,Creature,Elemental Shaman,Lorwyn,Uncommon,1,Red,True,False,True,True,b'Steve Prescott',3.89
-Flamekin Spitfire,Creature,Elemental Shaman,Lorwyn,Uncommon,2,Red,True,False,True,False,b'Zoltan Boros',0.11
-Giant Harbinger,Creature,Giant Shaman,Lorwyn,Uncommon,5,Red,True,False,True,False,b'Steve Prescott',0.21
-Giant's Ire,Tribal Sorcery,Giant,Lorwyn,Common,4,Red,True,False,True,False,b'Alex Horley-Orlandelli',0.1
-Glarewielder,Creature,Elemental Shaman,Lorwyn,Uncommon,5,Red,True,False,True,False,b'Nils Hamm',0.13
-Goatnapper,Creature,Goblin Rogue,Lorwyn,Uncommon,3,Red,True,False,True,False,b'Ron Spencer',0.09
-Hamletback Goliath,Creature,Giant Warrior,Lorwyn,Rare,7,Red,True,False,True,True,b'Paolo Parente',0.24
-Hearthcage Giant,Creature,Giant Warrior,Lorwyn,Uncommon,8,Red,True,False,True,False,b'Zoltan Boros',0.15
-Heat Shimmer,Sorcery,None,Lorwyn,Rare,3,Red,True,False,True,False,b'Franz Vohwinkel',4.91
-Hostility,Creature,Elemental Incarnation,Lorwyn,Rare,6,Red,True,False,True,True,b'Omar Rayyan',0.33
-Hurly-Burly,Sorcery,None,Lorwyn,Common,2,Red,True,False,True,True,b'Steve Prescott',0.04
-Incandescent Soulstoke,Creature,Elemental Shaman,Lorwyn,Rare,3,Red,True,False,True,True,b'Todd Lockwood',1.46
-Incendiary Command,Sorcery,None,Lorwyn,Rare,5,Red,True,False,True,True,b'Wayne England',1.5
-Ingot Chewer,Creature,Elemental,Lorwyn,Common,5,Red,True,False,True,True,b'Kev Walker',0.35
-Inner-Flame Acolyte,Creature,Elemental Shaman,Lorwyn,Common,3,Red,True,False,True,True,b'Ron Spears',0.13
-Inner-Flame Igniter,Creature,Elemental Warrior,Lorwyn,Uncommon,3,Red,True,False,True,True,b'Scott Hampton',0.13
-Lash Out,Instant,None,Lorwyn,Common,2,Red,True,False,True,True,b'Scott Hampton',0.13
-Lowland Oaf,Creature,Giant Warrior,Lorwyn,Common,4,Red,True,False,True,True,b'Jeff Easley',0.08
-Mudbutton Torchrunner,Creature,Goblin Warrior,Lorwyn,Common,3,Red,True,False,True,True,b'Steve Ellis',0.08
-Needle Drop,Instant,None,Lorwyn,Common,1,Red,True,False,True,False,b'Greg Staples',0.91
-Nova Chaser,Creature,Elemental Warrior,Lorwyn,Rare,4,Red,True,False,True,False,b'Dan Scott',3.62
-Rebellion of the Flamekin,Tribal Enchantment,Elemental,Lorwyn,Uncommon,4,Red,True,False,True,False,b'Dan Dos Santos',0.09
-Smokebraider,Creature,Elemental Shaman,Lorwyn,Common,2,Red,True,False,True,True,b'Anthony S. Waters',0.24
-Soulbright Flamekin,Creature,Elemental Shaman,Lorwyn,Common,2,Red,True,False,True,True,b'Kev Walker',0.11
-Stinkdrinker Daredevil,Creature,Goblin Rogue,Lorwyn,Common,3,Red,True,False,True,True,b'Pete Venters',0.08
-Sunrise Sovereign,Creature,Giant Warrior,Lorwyn,Rare,6,Red,True,False,True,True,"b""William O'Connor""",0.26
-Tar Pitcher,Creature,Goblin Shaman,Lorwyn,Uncommon,4,Red,True,False,True,True,b'Omar Rayyan',0.08
-Tarfire,Tribal Instant,Goblin,Lorwyn,Common,1,Red,True,False,True,True,b'Omar Rayyan',0.25
-Thundercloud Shaman,Creature,Giant Shaman,Lorwyn,Uncommon,5,Red,True,False,True,True,b'Greg Staples',0.12
-Wild Ricochet,Instant,None,Lorwyn,Rare,4,Red,True,False,True,True,b'Dan Scott',0.59
-Battlewand Oak,Creature,Treefolk Warrior,Lorwyn,Common,3,Green,True,False,True,False,b'Steve Prescott',0.12
-Bog-Strider Ash,Creature,Treefolk Shaman,Lorwyn,Common,4,Green,True,False,True,False,b'Steven Belledin',0.08
-Briarhorn,Creature,Elemental,Lorwyn,Uncommon,4,Green,True,False,True,True,b'Nils Hamm',0.14
-Changeling Titan,Creature,Shapeshifter,Lorwyn,Uncommon,5,Green,True,False,True,False,b'Jesper Ejsing',2.04
-Cloudcrown Oak,Creature,Treefolk Warrior,Lorwyn,Common,4,Green,True,False,True,True,b'Rebecca Guay',0.16
-Cloudthresher,Creature,Elemental,Lorwyn,Rare,6,Green,True,False,True,True,b'Christopher Moeller',0.37
-Dauntless Dourbark,Creature,Treefolk Warrior,Lorwyn,Rare,4,Green,True,False,True,True,b'Jeremy Jarvis',2.71
-Elvish Branchbender,Creature,Elf Druid,Lorwyn,Common,3,Green,True,False,True,True,b'Ralph Horsley',0.11
-Elvish Eulogist,Creature,Elf Shaman,Lorwyn,Common,1,Green,True,False,True,True,b'Ben Thompson',0.09
-Elvish Handservant,Creature,Elf Warrior,Lorwyn,Common,1,Green,True,False,True,False,b'Steve Prescott',0.08
-Elvish Harbinger,Creature,Elf Druid,Lorwyn,Uncommon,3,Green,True,False,True,True,b'Larry MacDougall',2.2
-Elvish Promenade,Tribal Sorcery,Elf,Lorwyn,Uncommon,4,Green,True,False,True,True,b'Steve Ellis',3.73
-Epic Proportions,Enchantment,Aura,Lorwyn,Rare,6,Green,True,False,True,True,b'Jesper Ejsing',0.24
-Eyes of the Wisent,Tribal Enchantment,Elemental,Lorwyn,Rare,2,Green,True,False,True,False,b'Aleksi Briclot',0.46
-Fertile Ground,Enchantment,Aura,Lorwyn,Common,2,Green,True,False,True,True,b'Mark Tedin',0.19
-Fistful of Force,Instant,None,Lorwyn,Common,2,Green,True,False,True,False,b'Ralph Horsley',0.04
-Garruk Wildspeaker,Legendary Planeswalker,Garruk,Lorwyn,Rare,4,Green,True,False,True,True,b'Aleksi Briclot',8.04
-Gilt-Leaf Ambush,Tribal Instant,Elf,Lorwyn,Common,3,Green,True,False,True,False,b'Steve Prescott',0.15
-Gilt-Leaf Seer,Creature,Elf Shaman,Lorwyn,Common,3,Green,True,False,True,True,b'Darrell Riche',0.11
-Guardian of Cloverdell,Creature,Treefolk Shaman,Lorwyn,Uncommon,7,Green,True,False,True,False,b'Jesper Ejsing',0.09
-Heal the Scars,Instant,None,Lorwyn,Common,4,Green,True,False,True,False,b'Carl Frank',0.11
-Hunt Down,Sorcery,None,Lorwyn,Common,1,Green,True,False,True,False,b'Christopher Moeller',0.05
-Immaculate Magistrate,Creature,Elf Shaman,Lorwyn,Rare,4,Green,True,False,True,True,b'Jim Nelson',1.75
-Imperious Perfect,Creature,Elf Warrior,Lorwyn,Uncommon,3,Green,True,False,True,True,b'Scott M. Fischer',1.61
-Incremental Growth,Sorcery,None,Lorwyn,Uncommon,5,Green,True,False,True,True,b'Chuck Lukacs',0.14
-Jagged-Scar Archers,Creature,Elf Archer,Lorwyn,Uncommon,3,Green,True,False,True,True,b'Paolo Parente',0.45
-Kithkin Daggerdare,Creature,Kithkin Soldier,Lorwyn,Common,2,Green,True,False,True,False,b'Christopher Moeller',0.06
-Kithkin Mourncaller,Creature,Kithkin Scout,Lorwyn,Uncommon,3,Green,True,False,True,False,b'Dominick Domingo',0.12
-Lace with Moonglove,Instant,None,Lorwyn,Common,3,Green,True,False,True,True,b'Rebecca Guay',0.11
-Lammastide Weave,Instant,None,Lorwyn,Uncommon,2,Green,True,False,True,False,b'Howard Lyon',0.09
-Leaf Gilder,Creature,Elf Druid,Lorwyn,Common,2,Green,True,False,True,True,b'Quinton Hoover',0.09
-Lignify,Tribal Enchantment,Treefolk Aura,Lorwyn,Common,2,Green,True,False,True,True,b'Jesper Ejsing',0.75
-Lys Alana Huntmaster,Creature,Elf Warrior,Lorwyn,Common,4,Green,True,False,True,True,b'Pete Venters',0.38
-Masked Admirers,Creature,Elf Shaman,Lorwyn,Rare,4,Green,True,False,True,True,b'Eric Fortune',0.28
-Nath's Elite,Creature,Elf Warrior,Lorwyn,Common,5,Green,True,False,True,False,b'Wayne Reynolds',0.1
-Oakgnarl Warrior,Creature,Treefolk Warrior,Lorwyn,Common,7,Green,True,False,True,True,b'Jim Nelson',0.14
-Primal Command,Sorcery,None,Lorwyn,Rare,5,Green,True,False,True,True,b'Wayne England',2.03
-Rootgrapple,Tribal Instant,Treefolk,Lorwyn,Common,5,Green,True,False,True,False,b'Alan Pollack',0.15
-Seedguide Ash,Creature,Treefolk Druid,Lorwyn,Uncommon,5,Green,True,False,True,False,b'John Avon',0.7
-Spring Cleaning,Instant,None,Lorwyn,Common,2,Green,True,False,True,False,b'Michael Sutfin',0.16
-Sylvan Echoes,Enchantment,None,Lorwyn,Uncommon,1,Green,True,False,True,False,b'Rebecca Guay',0.1
-Timber Protector,Creature,Treefolk Warrior,Lorwyn,Rare,5,Green,True,False,True,False,b'Terese Nielsen',5.69
-Treefolk Harbinger,Creature,Treefolk Druid,Lorwyn,Uncommon,1,Green,True,False,True,False,b'Larry MacDougall',1.22
-Vigor,Creature,Elemental Incarnation,Lorwyn,Rare,6,Green,True,False,True,True,b'Jim Murray',7.28
-Warren-Scourge Elf,Creature,Elf Warrior,Lorwyn,Common,2,Green,True,False,True,False,b'Christopher Moeller',0.07
-Woodland Changeling,Creature,Shapeshifter,Lorwyn,Common,2,Green,True,False,True,False,b'Franz Vohwinkel',0.46
-Woodland Guidance,Sorcery,None,Lorwyn,Uncommon,4,Green,True,False,True,False,b'Richard Sardinha',0.1
-Wren's Run Packmaster,Creature,Elf Warrior,Lorwyn,Rare,4,Green,True,False,True,True,b'Mark Zug',0.5
-Wren's Run Vanquisher,Creature,Elf Warrior,Lorwyn,Uncommon,2,Green,True,False,True,True,b'Paolo Parente',0.5
-Brion Stoutarm,Legendary Creature,Giant Warrior,Lorwyn,Rare,4,Gold,True,False,True,True,b'Zoltan Boros',0.47
-"Doran, the Siege Tower",Legendary Creature,Treefolk Shaman,Lorwyn,Rare,3,Gold,True,False,True,True,b'Mark Zug',3.84
-Gaddock Teeg,Legendary Creature,Kithkin Advisor,Lorwyn,Rare,2,Gold,True,False,True,True,b'Greg Staples',5.58
-Horde of Notions,Legendary Creature,Elemental,Lorwyn,Rare,5,Gold,True,False,True,True,b'Adam Rex',0.59
-Nath of the Gilt-Leaf,Legendary Creature,Elf Warrior,Lorwyn,Rare,5,Gold,True,False,True,True,b'Kev Walker',1.25
-"Sygg, River Guide",Legendary Creature,Merfolk Wizard,Lorwyn,Rare,2,Gold,True,False,True,False,b'Larry MacDougall',0.69
-"Wort, Boggart Auntie",Legendary Creature,Goblin Shaman,Lorwyn,Rare,4,Gold,True,False,True,False,b'Larry MacDougall',3.59
-"Wydwen, the Biting Gale",Legendary Creature,Faerie Wizard,Lorwyn,Rare,4,Gold,True,False,True,True,b'Matt Cavotta',0.67
-Colfenor's Urn,Artifact,None,Lorwyn,Rare,3,Colorless,True,False,True,False,b'Jim Pavelec',1.18
-Deathrender,Artifact,Equipment,Lorwyn,Rare,4,Colorless,True,False,True,True,b'Martina Pilcerova',2.69
-Dolmen Gate,Artifact,None,Lorwyn,Rare,2,Colorless,True,False,True,True,b'Richard Sardinha',6.43
-Herbal Poultice,Artifact,None,Lorwyn,Common,0,Colorless,True,False,True,False,b'Scott Hampton',0.24
-Moonglove Extract,Artifact,None,Lorwyn,Common,3,Colorless,True,False,True,True,b'Terese Nielsen',0.04
-Rings of Brighthearth,Artifact,None,Lorwyn,Rare,3,Colorless,True,False,True,True,b'Howard Lyon',46.45
-Runed Stalactite,Artifact,Equipment,Lorwyn,Common,1,Colorless,True,False,True,True,b'Jim Pavelec',0.11
-Springleaf Drum,Artifact,None,Lorwyn,Common,1,Colorless,True,False,True,True,b'Cyril Van Der Haegen',0.61
-Thorn of Amethyst,Artifact,None,Lorwyn,Rare,2,Colorless,True,False,True,False,b'Chuck Lukacs',14.06
-Thousand-Year Elixir,Artifact,None,Lorwyn,Rare,3,Colorless,True,False,True,True,b'Richard Sardinha',8.93
-Twinning Glass,Artifact,None,Lorwyn,Rare,4,Colorless,True,False,True,False,b'Franz Vohwinkel',0.25
-Wanderer's Twig,Artifact,None,Lorwyn,Common,1,Colorless,True,False,True,True,b'Dave Dorman',0.37
-Ancient Amphitheater,Land,None,Lorwyn,Rare,0,Colorless,True,False,True,True,b'Rob Alexander',0.5
-Auntie's Hovel,Land,None,Lorwyn,Rare,0,Colorless,True,False,True,False,b'Wayne Reynolds',16.92
-Gilt-Leaf Palace,Land,None,Lorwyn,Rare,0,Colorless,True,False,True,True,b'Christopher Moeller',7.38
-Howltooth Hollow,Land,None,Lorwyn,Rare,0,Colorless,True,False,True,False,b'John Howe (Lorywn)',0.36
-Mosswort Bridge,Land,None,Lorwyn,Rare,0,Colorless,True,False,True,True,b'Jeremy Jarvis',1.02
-Secluded Glen,Land,None,Lorwyn,Rare,0,Colorless,True,False,True,False,b'Terese Nielsen',6.59
-Shelldock Isle,Land,None,Lorwyn,Rare,0,Colorless,True,False,True,False,b'Mark Tedin',7.07
-Shimmering Grotto,Land,None,Lorwyn,Common,0,Colorless,True,False,True,True,b'Alan Pollack',0.1
-Spinerock Knoll,Land,None,Lorwyn,Rare,0,Colorless,True,False,True,True,b'Steve Prescott',2.13
-Vivid Crag,Land,None,Lorwyn,Uncommon,0,Colorless,True,False,True,True,b'Martina Pilcerova',0.49
-Vivid Creek,Land,None,Lorwyn,Uncommon,0,Colorless,True,False,True,True,b'Fred Fields',0.47
-Vivid Grove,Land,None,Lorwyn,Uncommon,0,Colorless,True,False,True,True,b'Howard Lyon',0.44
-Vivid Marsh,Land,None,Lorwyn,Uncommon,0,Colorless,True,False,True,True,b'John Avon',1.5
-Vivid Meadow,Land,None,Lorwyn,Uncommon,0,Colorless,True,False,True,True,b'Rob Alexander',1.0
-Wanderwine Hub,Land,None,Lorwyn,Rare,0,Colorless,True,False,True,False,b'Warren Mahy',2.84
-Windbrisk Heights,Land,None,Lorwyn,Rare,0,Colorless,True,False,True,True,b'Omar Rayyan',1.54
-Plains,Basic Land,Plains,Lorwyn,Common,0,Colorless,True,True,True,True,b'Warren Mahy',0.27
-Plains,Basic Land,Plains,Lorwyn,Common,0,Colorless,True,True,True,True,b'Fred Fields',0.21
-Plains,Basic Land,Plains,Lorwyn,Common,0,Colorless,True,True,True,True,b'Larry MacDougall',0.28
-Plains,Basic Land,Plains,Lorwyn,Common,0,Colorless,True,True,True,True,b'Omar Rayyan',0.25
-Island,Basic Land,Island,Lorwyn,Common,0,Colorless,True,True,True,True,b'Warren Mahy',0.27
-Island,Basic Land,Island,Lorwyn,Common,0,Colorless,True,True,True,True,b'Ron Spears',1.26
-Island,Basic Land,Island,Lorwyn,Common,0,Colorless,True,True,True,True,b'Martina Pilcerova',0.24
-Island,Basic Land,Island,Lorwyn,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.25
-Swamp,Basic Land,Swamp,Lorwyn,Common,0,Colorless,True,True,True,True,b'Fred Fields',0.28
-Swamp,Basic Land,Swamp,Lorwyn,Common,0,Colorless,True,True,True,True,b'Ron Spears',1.1
-Swamp,Basic Land,Swamp,Lorwyn,Common,0,Colorless,True,True,True,True,b'Wayne Reynolds',0.24
-Swamp,Basic Land,Swamp,Lorwyn,Common,0,Colorless,True,True,True,True,b'Steve Prescott',0.5
-Mountain,Basic Land,Mountain,Lorwyn,Common,0,Colorless,True,True,True,True,b'Larry MacDougall',0.29
-Mountain,Basic Land,Mountain,Lorwyn,Common,0,Colorless,True,True,True,True,b'Martina Pilcerova',0.22
-Mountain,Basic Land,Mountain,Lorwyn,Common,0,Colorless,True,True,True,True,b'Wayne Reynolds',0.35
-Mountain,Basic Land,Mountain,Lorwyn,Common,0,Colorless,True,True,True,True,b'Darrell Riche',0.29
-Forest,Basic Land,Forest,Lorwyn,Common,0,Colorless,True,True,True,True,b'Omar Rayyan',0.27
-Forest,Basic Land,Forest,Lorwyn,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.2
-Forest,Basic Land,Forest,Lorwyn,Common,0,Colorless,True,True,True,True,b'Steve Prescott',0.34
-Forest,Basic Land,Forest,Lorwyn,Common,0,Colorless,True,True,True,True,b'Darrell Riche',0.23
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Ajani Goldmane,Planeswalker,Ajani,Lorwyn,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',5.47,True
+Arbiter of Knollridge,Creature,Giant Wizard,Lorwyn,Rare,7,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Brandon Dorman',0.2,False
+Austere Command,Sorcery,None,Lorwyn,Rare,6,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne England',10.2,False
+Avian Changeling,Creature,Shapeshifter,Lorwyn,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.15,False
+Battle Mastery,Enchantment,Aura,Lorwyn,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.24,False
+Brigid Hero of Kinsbaile,Creature,Kithkin Archer,Lorwyn,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Prescott',0.64,True
+Burrenton Forge-Tender,Creature,Kithkin Wizard,Lorwyn,Uncommon,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Chuck Lukacs',0.39,False
+Cenn's Heir,Creature,Kithkin Soldier,Lorwyn,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Steven Belledin',0.1,False
+Changeling Hero,Creature,Shapeshifter,Lorwyn,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.33,False
+Cloudgoat Ranger,Creature,Giant Warrior,Lorwyn,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',0.16,False
+Crib Swap,Tribal Instant,Shapeshifter,Lorwyn,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Brandon Dorman',0.31,False
+Dawnfluke,Creature,Elemental,Lorwyn,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Zug',0.07,False
+Entangling Trap,Enchantment,None,Lorwyn,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Warren Mahy',0.13,False
+Favor of the Mighty,Tribal Enchantment,Giant,Lorwyn,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Larry MacDougall',0.52,False
+Galepowder Mage,Creature,Kithkin Wizard,Lorwyn,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeremy Jarvis',0.34,False
+Goldmeadow Dodger,Creature,Kithkin Rogue,Lorwyn,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Omar Rayyan',0.08,False
+Goldmeadow Harrier,Creature,Kithkin Soldier,Lorwyn,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.15,False
+Goldmeadow Stalwart,Creature,Kithkin Soldier,Lorwyn,Uncommon,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne Reynolds',0.19,False
+Harpoon Sniper,Creature,Merfolk Archer,Lorwyn,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Dominick Domingo',0.22,False
+Hillcomber Giant,Creature,Giant Scout,Lorwyn,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Ralph Horsley',0.05,False
+Hoofprints of the Stag,Tribal Enchantment,Elemental,Lorwyn,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',0.29,False
+Judge of Currents,Creature,Merfolk Wizard,Lorwyn,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.15,False
+Kinsbaile Balloonist,Creature,Kithkin Soldier,Lorwyn,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.06,False
+Kinsbaile Skirmisher,Creature,Kithkin Soldier,Lorwyn,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Thomas Denmark',0.06,False
+Kithkin Greatheart,Creature,Kithkin Soldier,Lorwyn,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.09,False
+Kithkin Harbinger,Creature,Kithkin Wizard,Lorwyn,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Prescott',0.22,False
+Kithkin Healer,Creature,Kithkin Cleric,Lorwyn,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Rebecca Guay',0.09,False
+Knight of Meadowgrain,Creature,Kithkin Knight,Lorwyn,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Larry MacDougall',1.04,False
+Lairwatch Giant,Creature,Giant Warrior,Lorwyn,Common,6,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Warren Mahy',0.08,False
+Militia's Pride,Tribal Enchantment,Kithkin,Lorwyn,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Larry MacDougall',1.44,False
+Mirror Entity,Creature,Shapeshifter,Lorwyn,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',3.2,False
+Neck Snap,Instant,None,Lorwyn,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Dominick Domingo',0.05,False
+Oaken Brawler,Creature,Treefolk Warrior,Lorwyn,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Murray',0.08,False
+Oblivion Ring,Enchantment,None,Lorwyn,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne England',0.39,False
+Plover Knights,Creature,Kithkin Knight,Lorwyn,Common,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.12,False
+Pollen Lullaby,Instant,None,Lorwyn,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Warren Mahy',0.19,False
+Purity,Creature,Elemental Incarnation,Lorwyn,Rare,6,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Warren Mahy',1.61,False
+Sentry Oak,Creature,Treefolk Warrior,Lorwyn,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Warren Mahy',0.09,False
+Shields of Velis Vel,Tribal Instant,Shapeshifter,Lorwyn,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Ralph Horsley',0.25,False
+Soaring Hope,Enchantment,Aura,Lorwyn,Common,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Martina Pilcerova',0.08,False
+Springjack Knight,Creature,Kithkin Knight,Lorwyn,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Steven Belledin',0.09,False
+Summon the School,Tribal Sorcery,Merfolk,Lorwyn,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Dorman',0.27,False
+Surge of Thoughtweft,Tribal Instant,Kithkin,Lorwyn,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Gallegos',0.1,False
+Thoughtweft Trio,Creature,Kithkin Soldier,Lorwyn,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne Reynolds',0.31,False
+Triclopean Sight,Enchantment,Aura,Lorwyn,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Scott Hampton',0.13,False
+Veteran of the Depths,Creature,Merfolk Soldier,Lorwyn,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.14,False
+Wellgabber Apothecary,Creature,Merfolk Cleric,Lorwyn,Common,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Brandon Dorman',0.06,False
+Wispmare,Creature,Elemental,Lorwyn,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Eric Fortune',0.33,False
+Wizened Cenn,Creature,Kithkin Cleric,Lorwyn,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.18,False
+Aethersnipe,Creature,Elemental,Lorwyn,Common,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.08,False
+Amoeboid Changeling,Creature,Shapeshifter,Lorwyn,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.69,False
+Aquitect's Will,Tribal Sorcery,Merfolk,Lorwyn,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Easley',0.18,False
+Benthicore,Creature,Elemental,Lorwyn,Uncommon,7,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.17,False
+Broken Ambitions,Instant,None,Lorwyn,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Franz Vohwinkel',0.18,False
+Captivating Glance,Enchantment,Aura,Lorwyn,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Dos Santos',0.17,False
+Cryptic Command,Instant,None,Lorwyn,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne England',22.53,False
+Deeptread Merrow,Creature,Merfolk Rogue,Lorwyn,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.1,False
+Drowner of Secrets,Creature,Merfolk Wizard,Lorwyn,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Rebecca Guay',0.2,False
+Ego Erasure,Tribal Instant,Shapeshifter,Lorwyn,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Steven Belledin',0.17,False
+Ethereal Whiskergill,Creature,Elemental,Lorwyn,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Howard Lyon',0.08,False
+Faerie Harbinger,Creature,Faerie Wizard,Lorwyn,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Larry MacDougall',0.61,False
+Faerie Trickery,Tribal Instant,Faerie,Lorwyn,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.35,False
+Fallowsage,Creature,Merfolk Wizard,Lorwyn,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.42,False
+Familiar's Ruse,Instant,None,Lorwyn,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Fortune',0.41,False
+Fathom Trawl,Sorcery,None,Lorwyn,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Paul Chadwick',0.26,False
+Forced Fruition,Enchantment,None,Lorwyn,Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,False,"b""William O'Connor""",12.46,False
+Glen Elendra Pranksters,Creature,Faerie Wizard,Lorwyn,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Omar Rayyan',0.23,False
+Glimmerdust Nap,Enchantment,Aura,Lorwyn,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.09,False
+Guile,Creature,Elemental Incarnation,Lorwyn,Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.69,False
+Inkfathom Divers,Creature,Merfolk Soldier,Lorwyn,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.07,False
+Jace Beleren,Planeswalker,Jace,Lorwyn,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',2.8,True
+Merrow Commerce,Tribal Enchantment,Merfolk,Lorwyn,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Ellis',2.07,False
+Merrow Harbinger,Creature,Merfolk Wizard,Lorwyn,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Prescott',0.64,False
+Merrow Reejerey,Creature,Merfolk Soldier,Lorwyn,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',1.78,False
+Mistbind Clique,Creature,Faerie Wizard,Lorwyn,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Ben Thompson',11.47,False
+Mulldrifter,Creature,Elemental,Lorwyn,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Fortune',1.4,False
+Paperfin Rascal,Creature,Merfolk Rogue,Lorwyn,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.08,False
+Pestermite,Creature,Faerie Rogue,Lorwyn,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.47,False
+Ponder,Sorcery,None,Lorwyn,Common,1,Blue,Banned,Not Legal,Legal,Restrict.,Legal,True,b'Mark Tedin',2.11,False
+Protective Bubble,Enchantment,Aura,Lorwyn,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Ellis',0.15,False
+Ringskipper,Creature,Faerie Wizard,Lorwyn,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.1,False
+Scattering Stroke,Instant,None,Lorwyn,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',0.1,False
+Scion of Oona,Creature,Faerie Soldier,Lorwyn,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Fortune',9.48,False
+Sentinels of Glen Elendra,Creature,Faerie Soldier,Lorwyn,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Howard Lyon',0.11,False
+Shapesharer,Creature,Shapeshifter,Lorwyn,Rare,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Pollack',5.14,False
+Silvergill Adept,Creature,Merfolk Wizard,Lorwyn,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.52,False
+Silvergill Douser,Creature,Merfolk Wizard,Lorwyn,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.15,False
+Sower of Temptation,Creature,Faerie Wizard,Lorwyn,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',2.33,False
+Spellstutter Sprite,Creature,Faerie Wizard,Lorwyn,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',1.94,False
+Stonybrook Angler,Creature,Merfolk Wizard,Lorwyn,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Larry MacDougall',0.14,False
+Streambed Aquitects,Creature,Merfolk Scout,Lorwyn,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,"b""William O'Connor""",0.14,False
+Surgespanner,Creature,Merfolk Wizard,Lorwyn,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Warren Mahy',3.05,False
+Tideshaper Mystic,Creature,Merfolk Wizard,Lorwyn,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',0.15,False
+Turtleshell Changeling,Creature,Shapeshifter,Lorwyn,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.24,False
+Wanderwine Prophets,Creature,Merfolk Wizard,Lorwyn,Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Alex Horley-Orlandelli',4.04,False
+Whirlpool Whelm,Instant,None,Lorwyn,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Cyril Van Der Haegen',0.08,False
+Wings of Velis Vel,Tribal Instant,Shapeshifter,Lorwyn,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Pavelec',0.09,False
+Zephyr Net,Enchantment,Aura,Lorwyn,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.05,False
+Black Poplar Shaman,Creature,Treefolk Shaman,Lorwyn,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Poole',0.13,False
+Bog Hoodlums,Creature,Goblin Warrior,Lorwyn,Common,6,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Brandon Dorman',0.07,False
+Boggart Birth Rite,Tribal Sorcery,Goblin,Lorwyn,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Ralph Horsley',0.13,False
+Boggart Harbinger,Creature,Goblin Shaman,Lorwyn,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Prescott',6.52,False
+Boggart Loggers,Creature,Goblin Rogue,Lorwyn,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Jesper Ejsing',0.07,False
+Boggart Mob,Creature,Goblin Warrior,Lorwyn,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas Denmark',0.71,False
+Cairn Wanderer,Creature,Shapeshifter,Lorwyn,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',2.89,False
+Colfenor's Plans,Enchantment,None,Lorwyn,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Darrell Riche',0.21,False
+Dread,Creature,Elemental Incarnation,Lorwyn,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',7.07,False
+Dreamspoiler Witches,Creature,Faerie Wizard,Lorwyn,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Easley',0.1,False
+Exiled Boggart,Creature,Goblin Rogue,Lorwyn,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.05,False
+Eyeblight's Ending,Tribal Instant,Elf,Lorwyn,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spears',0.12,False
+Facevaulter,Creature,Goblin Warrior,Lorwyn,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.05,False
+Faerie Tauntings,Tribal Enchantment,Faerie,Lorwyn,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',0.26,False
+Final Revels,Sorcery,None,Lorwyn,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Omar Rayyan',0.11,False
+Fodder Launch,Tribal Sorcery,Goblin,Lorwyn,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Nils Hamm',0.25,False
+Footbottom Feast,Instant,None,Lorwyn,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Nelson',0.21,False
+Ghostly Changeling,Creature,Shapeshifter,Lorwyn,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Chuck Lukacs',0.11,False
+Hoarder's Greed,Sorcery,None,Lorwyn,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.1,False
+Hornet Harasser,Creature,Goblin Shaman,Lorwyn,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Nils Hamm',0.07,False
+Hunter of Eyeblights,Creature,Elf Assassin,Lorwyn,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.2,False
+Knucklebone Witch,Creature,Goblin Shaman,Lorwyn,Rare,1,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Pavelec',2.96,False
+Liliana Vess,Planeswalker,Liliana,Lorwyn,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',7.99,True
+Lys Alana Scarblade,Creature,Elf Assassin,Lorwyn,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.17,False
+Mad Auntie,Creature,Goblin Shaman,Lorwyn,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.53,False
+Makeshift Mannequin,Instant,None,Lorwyn,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Darrell Riche',0.28,False
+Marsh Flitter,Creature,Faerie Rogue,Lorwyn,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.24,False
+Moonglove Winnower,Creature,Elf Rogue,Lorwyn,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,"b""William O'Connor""",0.08,False
+Mournwhelk,Creature,Elemental,Lorwyn,Common,7,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Jeremy Jarvis',0.11,False
+Nameless Inversion,Tribal Instant,Shapeshifter,Lorwyn,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.17,False
+Nath's Buffoon,Creature,Goblin Rogue,Lorwyn,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas Denmark',0.08,False
+Nectar Faerie,Creature,Faerie Wizard,Lorwyn,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas Denmark',0.34,False
+Nettlevine Blight,Enchantment,Aura,Lorwyn,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',0.56,False
+Nightshade Stinger,Creature,Faerie Rogue,Lorwyn,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.17,False
+Oona's Prowler,Creature,Faerie Rogue,Lorwyn,Rare,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne Reynolds',1.9,False
+Peppersmoke,Tribal Instant,Faerie,Lorwyn,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',0.11,False
+Profane Command,Sorcery,None,Lorwyn,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne England',0.59,False
+Prowess of the Fair,Tribal Enchantment,Elf,Lorwyn,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Jeremy Jarvis',0.24,False
+Quill-Slinger Boggart,Creature,Goblin Warrior,Lorwyn,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Warren Mahy',0.05,False
+Scarred Vinebreeder,Creature,Elf Shaman,Lorwyn,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Alex Horley-Orlandelli',0.08,False
+Shriekmaw,Creature,Elemental,Lorwyn,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.77,False
+Skeletal Changeling,Creature,Shapeshifter,Lorwyn,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Pollack',0.27,False
+Spiderwig Boggart,Creature,Goblin Shaman,Lorwyn,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Larry MacDougall',0.07,False
+Squeaking Pie Sneak,Creature,Goblin Rogue,Lorwyn,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Miracola',0.17,False
+Thieving Sprite,Creature,Faerie Rogue,Lorwyn,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.14,False
+Thorntooth Witch,Creature,Treefolk Shaman,Lorwyn,Uncommon,6,Black,Legal,Not Legal,Legal,Legal,Legal,False,"b""William O'Connor""",0.17,False
+Thoughtseize,Sorcery,None,Lorwyn,Rare,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',38.68,False
+Warren Pilferers,Creature,Goblin Rogue,Lorwyn,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.11,False
+Weed Strangle,Sorcery,None,Lorwyn,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Jesper Ejsing',0.13,False
+Adder-Staff Boggart,Creature,Goblin Warrior,Lorwyn,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Miracola',0.09,False
+Ashling the Pilgrim,Creature,Elemental Shaman,Lorwyn,Rare,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne Reynolds',2.73,True
+Ashling's Prerogative,Enchantment,None,Lorwyn,Rare,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Warren Mahy',0.46,False
+Axegrinder Giant,Creature,Giant Warrior,Lorwyn,Common,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Warren Mahy',0.08,False
+Blades of Velis Vel,Tribal Instant,Shapeshifter,Lorwyn,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.13,False
+Blind-Spot Giant,Creature,Giant Warrior,Lorwyn,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Murray',0.08,False
+Boggart Forager,Creature,Goblin Rogue,Lorwyn,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.07,False
+Boggart Shenanigans,Tribal Enchantment,Goblin,Lorwyn,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Warren Mahy',1.15,False
+Boggart Sprite-Chaser,Creature,Goblin Warrior,Lorwyn,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Poole',0.06,False
+Caterwauling Boggart,Creature,Goblin Shaman,Lorwyn,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Steven Belledin',0.25,False
+Ceaseless Searblades,Creature,Elemental Warrior,Lorwyn,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Murray',0.18,False
+Chandra Nalaar,Planeswalker,Chandra,Lorwyn,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',1.69,True
+Changeling Berserker,Creature,Shapeshifter,Lorwyn,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Warren Mahy',0.89,False
+Consuming Bonfire,Tribal Sorcery,Elemental,Lorwyn,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Gallegos',0.05,False
+Crush Underfoot,Tribal Instant,Giant,Lorwyn,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.16,False
+Faultgrinder,Creature,Elemental,Lorwyn,Common,7,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',0.12,False
+Fire-Belly Changeling,Creature,Shapeshifter,Lorwyn,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.25,False
+Flamekin Bladewhirl,Creature,Elemental Warrior,Lorwyn,Uncommon,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Zug',0.13,False
+Flamekin Brawler,Creature,Elemental Warrior,Lorwyn,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.09,False
+Flamekin Harbinger,Creature,Elemental Shaman,Lorwyn,Uncommon,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',3.62,False
+Flamekin Spitfire,Creature,Elemental Shaman,Lorwyn,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.1,False
+Giant Harbinger,Creature,Giant Shaman,Lorwyn,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Prescott',0.22,False
+Giant's Ire,Tribal Sorcery,Giant,Lorwyn,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Alex Horley-Orlandelli',0.1,False
+Glarewielder,Creature,Elemental Shaman,Lorwyn,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Nils Hamm',0.13,False
+Goatnapper,Creature,Goblin Rogue,Lorwyn,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.11,False
+Hamletback Goliath,Creature,Giant Warrior,Lorwyn,Rare,7,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.26,False
+Hearthcage Giant,Creature,Giant Warrior,Lorwyn,Uncommon,8,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.16,False
+Heat Shimmer,Sorcery,None,Lorwyn,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Franz Vohwinkel',5.06,False
+Hostility,Creature,Elemental Incarnation,Lorwyn,Rare,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Omar Rayyan',0.32,False
+Hurly-Burly,Sorcery,None,Lorwyn,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.04,False
+Incandescent Soulstoke,Creature,Elemental Shaman,Lorwyn,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Todd Lockwood',1.6,False
+Incendiary Command,Sorcery,None,Lorwyn,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne England',1.52,False
+Ingot Chewer,Creature,Elemental,Lorwyn,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.33,False
+Inner-Flame Acolyte,Creature,Elemental Shaman,Lorwyn,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spears',0.12,False
+Inner-Flame Igniter,Creature,Elemental Warrior,Lorwyn,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Hampton',0.11,False
+Lash Out,Instant,None,Lorwyn,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Hampton',0.13,False
+Lowland Oaf,Creature,Giant Warrior,Lorwyn,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Easley',0.09,False
+Mudbutton Torchrunner,Creature,Goblin Warrior,Lorwyn,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Ellis',0.1,False
+Needle Drop,Instant,None,Lorwyn,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.72,False
+Nova Chaser,Creature,Elemental Warrior,Lorwyn,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',3.46,False
+Rebellion of the Flamekin,Tribal Enchantment,Elemental,Lorwyn,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Dos Santos',0.09,False
+Smokebraider,Creature,Elemental Shaman,Lorwyn,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',0.22,False
+Soulbright Flamekin,Creature,Elemental Shaman,Lorwyn,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.13,False
+Stinkdrinker Daredevil,Creature,Goblin Rogue,Lorwyn,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.09,False
+Sunrise Sovereign,Creature,Giant Warrior,Lorwyn,Rare,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,"b""William O'Connor""",0.28,False
+Tar Pitcher,Creature,Goblin Shaman,Lorwyn,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Omar Rayyan',0.1,False
+Tarfire,Tribal Instant,Goblin,Lorwyn,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Omar Rayyan',0.25,False
+Thundercloud Shaman,Creature,Giant Shaman,Lorwyn,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.14,False
+Wild Ricochet,Instant,None,Lorwyn,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.61,False
+Battlewand Oak,Creature,Treefolk Warrior,Lorwyn,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Prescott',0.12,False
+Bog-Strider Ash,Creature,Treefolk Shaman,Lorwyn,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Steven Belledin',0.11,False
+Briarhorn,Creature,Elemental,Lorwyn,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.13,False
+Changeling Titan,Creature,Shapeshifter,Lorwyn,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Jesper Ejsing',2.09,False
+Cloudcrown Oak,Creature,Treefolk Warrior,Lorwyn,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',0.16,False
+Cloudthresher,Creature,Elemental,Lorwyn,Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.38,False
+Dauntless Dourbark,Creature,Treefolk Warrior,Lorwyn,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeremy Jarvis',2.3,False
+Elvish Branchbender,Creature,Elf Druid,Lorwyn,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Ralph Horsley',0.13,False
+Elvish Eulogist,Creature,Elf Shaman,Lorwyn,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Ben Thompson',0.09,False
+Elvish Handservant,Creature,Elf Warrior,Lorwyn,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Prescott',0.09,False
+Elvish Harbinger,Creature,Elf Druid,Lorwyn,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Larry MacDougall',2.36,False
+Elvish Promenade,Tribal Sorcery,Elf,Lorwyn,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Ellis',3.16,False
+Epic Proportions,Enchantment,Aura,Lorwyn,Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.25,False
+Eyes of the Wisent,Tribal Enchantment,Elemental,Lorwyn,Rare,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Aleksi Briclot',0.46,False
+Fertile Ground,Enchantment,Aura,Lorwyn,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.18,False
+Fistful of Force,Instant,None,Lorwyn,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Ralph Horsley',0.06,False
+Garruk Wildspeaker,Planeswalker,Garruk,Lorwyn,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',8.32,True
+Gilt-Leaf Ambush,Tribal Instant,Elf,Lorwyn,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Prescott',0.15,False
+Gilt-Leaf Seer,Creature,Elf Shaman,Lorwyn,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Darrell Riche',0.11,False
+Guardian of Cloverdell,Creature,Treefolk Shaman,Lorwyn,Uncommon,7,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Jesper Ejsing',0.1,False
+Heal the Scars,Instant,None,Lorwyn,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Frank',0.09,False
+Hunt Down,Sorcery,None,Lorwyn,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.06,False
+Immaculate Magistrate,Creature,Elf Shaman,Lorwyn,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Nelson',1.97,False
+Imperious Perfect,Creature,Elf Warrior,Lorwyn,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',1.58,False
+Incremental Growth,Sorcery,None,Lorwyn,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Chuck Lukacs',0.14,False
+Jagged-Scar Archers,Creature,Elf Archer,Lorwyn,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.56,False
+Kithkin Daggerdare,Creature,Kithkin Soldier,Lorwyn,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.06,False
+Kithkin Mourncaller,Creature,Kithkin Scout,Lorwyn,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Dominick Domingo',0.11,False
+Lace with Moonglove,Instant,None,Lorwyn,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',0.12,False
+Lammastide Weave,Instant,None,Lorwyn,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Howard Lyon',0.09,False
+Leaf Gilder,Creature,Elf Druid,Lorwyn,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.09,False
+Lignify,Tribal Enchantment,Treefolk Aura,Lorwyn,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.79,False
+Lys Alana Huntmaster,Creature,Elf Warrior,Lorwyn,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.41,False
+Masked Admirers,Creature,Elf Shaman,Lorwyn,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Fortune',0.31,False
+Nath's Elite,Creature,Elf Warrior,Lorwyn,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne Reynolds',0.09,False
+Oakgnarl Warrior,Creature,Treefolk Warrior,Lorwyn,Common,7,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Nelson',0.14,False
+Primal Command,Sorcery,None,Lorwyn,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne England',2.02,False
+Rootgrapple,Tribal Instant,Treefolk,Lorwyn,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Pollack',0.14,False
+Seedguide Ash,Creature,Treefolk Druid,Lorwyn,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.67,False
+Spring Cleaning,Instant,None,Lorwyn,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',0.17,False
+Sylvan Echoes,Enchantment,None,Lorwyn,Uncommon,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Rebecca Guay',0.09,False
+Timber Protector,Creature,Treefolk Warrior,Lorwyn,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',5.35,False
+Treefolk Harbinger,Creature,Treefolk Druid,Lorwyn,Uncommon,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Larry MacDougall',1.12,False
+Vigor,Creature,Elemental Incarnation,Lorwyn,Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Murray',7.45,False
+Warren-Scourge Elf,Creature,Elf Warrior,Lorwyn,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.08,False
+Woodland Changeling,Creature,Shapeshifter,Lorwyn,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Franz Vohwinkel',0.44,False
+Woodland Guidance,Sorcery,None,Lorwyn,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Richard Sardinha',0.12,False
+Wren's Run Packmaster,Creature,Elf Warrior,Lorwyn,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.57,False
+Wren's Run Vanquisher,Creature,Elf Warrior,Lorwyn,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.52,False
+Brion Stoutarm,Creature,Giant Warrior,Lorwyn,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.55,True
+Doran the Siege Tower,Creature,Treefolk Shaman,Lorwyn,Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',3.47,True
+Gaddock Teeg,Creature,Kithkin Advisor,Lorwyn,Rare,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',5.13,True
+Horde of Notions,Creature,Elemental,Lorwyn,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',0.68,True
+Nath of the Gilt-Leaf,Creature,Elf Warrior,Lorwyn,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',1.24,True
+Sygg River Guide,Creature,Merfolk Wizard,Lorwyn,Rare,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Larry MacDougall',0.67,True
+Wort Boggart Auntie,Creature,Goblin Shaman,Lorwyn,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Larry MacDougall',3.51,True
+Wydwen the Biting Gale,Creature,Faerie Wizard,Lorwyn,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.67,True
+Colfenor's Urn,Artifact,None,Lorwyn,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Pavelec',1.15,False
+Deathrender,Artifact,Equipment,Lorwyn,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Martina Pilcerova',2.81,False
+Dolmen Gate,Artifact,None,Lorwyn,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Sardinha',5.77,False
+Herbal Poultice,Artifact,None,Lorwyn,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Scott Hampton',0.21,False
+Moonglove Extract,Artifact,None,Lorwyn,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.09,False
+Rings of Brighthearth,Artifact,None,Lorwyn,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Howard Lyon',48.3,False
+Runed Stalactite,Artifact,Equipment,Lorwyn,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Pavelec',0.11,False
+Springleaf Drum,Artifact,None,Lorwyn,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Cyril Van Der Haegen',0.96,False
+Thorn of Amethyst,Artifact,None,Lorwyn,Rare,2,Colorless,Legal,Not Legal,Legal,Restrict.,Legal,False,b'Chuck Lukacs',15.72,False
+Thousand-Year Elixir,Artifact,None,Lorwyn,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Sardinha',11.64,False
+Twinning Glass,Artifact,None,Lorwyn,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Franz Vohwinkel',0.27,False
+Wanderer's Twig,Artifact,None,Lorwyn,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Dorman',0.37,False
+Ancient Amphitheater,Land,None,Lorwyn,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.57,False
+Auntie's Hovel,Land,None,Lorwyn,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne Reynolds',16.89,False
+Gilt-Leaf Palace,Land,None,Lorwyn,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',5.45,False
+Howltooth Hollow,Land,None,Lorwyn,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'John Howe (Lorywn)',0.36,False
+Mosswort Bridge,Land,None,Lorwyn,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeremy Jarvis',1.02,False
+Secluded Glen,Land,None,Lorwyn,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',5.04,False
+Shelldock Isle,Land,None,Lorwyn,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',7.2,False
+Shimmering Grotto,Land,None,Lorwyn,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.1,False
+Spinerock Knoll,Land,None,Lorwyn,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',1.78,False
+Vivid Crag,Land,None,Lorwyn,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Martina Pilcerova',0.73,False
+Vivid Creek,Land,None,Lorwyn,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Fred Fields',0.49,False
+Vivid Grove,Land,None,Lorwyn,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Howard Lyon',0.47,False
+Vivid Marsh,Land,None,Lorwyn,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',1.27,False
+Vivid Meadow,Land,None,Lorwyn,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',1.04,False
+Wanderwine Hub,Land,None,Lorwyn,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Warren Mahy',3.05,False
+Windbrisk Heights,Land,None,Lorwyn,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Omar Rayyan',1.47,False
+Plains,Basic Land,Plains,Lorwyn,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Warren Mahy',0.31,False
+Plains,Basic Land,Plains,Lorwyn,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Fred Fields',0.25,False
+Plains,Basic Land,Plains,Lorwyn,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Larry MacDougall',0.29,False
+Plains,Basic Land,Plains,Lorwyn,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Omar Rayyan',0.45,False
+Island,Basic Land,Island,Lorwyn,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Warren Mahy',0.27,False
+Island,Basic Land,Island,Lorwyn,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Ron Spears',1.01,False
+Island,Basic Land,Island,Lorwyn,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Martina Pilcerova',0.25,False
+Island,Basic Land,Island,Lorwyn,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.25,False
+Swamp,Basic Land,Swamp,Lorwyn,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Fred Fields',0.35,False
+Swamp,Basic Land,Swamp,Lorwyn,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Ron Spears',1.22,False
+Swamp,Basic Land,Swamp,Lorwyn,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.28,False
+Swamp,Basic Land,Swamp,Lorwyn,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.62,False
+Mountain,Basic Land,Mountain,Lorwyn,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Larry MacDougall',0.3,False
+Mountain,Basic Land,Mountain,Lorwyn,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Martina Pilcerova',0.24,False
+Mountain,Basic Land,Mountain,Lorwyn,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.39,False
+Mountain,Basic Land,Mountain,Lorwyn,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Darrell Riche',0.34,False
+Forest,Basic Land,Forest,Lorwyn,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Omar Rayyan',0.32,False
+Forest,Basic Land,Forest,Lorwyn,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.23,False
+Forest,Basic Land,Forest,Lorwyn,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.39,False
+Forest,Basic Land,Forest,Lorwyn,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Darrell Riche',0.24,False

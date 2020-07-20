@@ -1,159 +1,159 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Archangel's Light,Sorcery,None,Dark Ascension,Mythic Rare,8,White,True,False,True,False,b'Volkan Ba\xc7\xb5a',0.46
-Bar the Door,Instant,None,Dark Ascension,Common,3,White,True,False,True,False,b'Ryan Pancoast',0.16
-Break of Day,Instant,None,Dark Ascension,Common,2,White,True,False,True,False,b'Karl Kopinski',0.11
-Burden of Guilt,Enchantment,Aura,Dark Ascension,Common,1,White,True,False,True,False,b'John Stanko',0.06
-Curse of Exhaustion,Enchantment,Aura Curse,Dark Ascension,Uncommon,4,White,True,False,True,False,b'Slawomir Maniak',0.25
-Elgaud Inquisitor,Creature,Human Cleric,Dark Ascension,Common,4,White,True,False,True,False,b'Slawomir Maniak',0.03
-Faith's Shield,Instant,None,Dark Ascension,Uncommon,1,White,True,False,True,False,b'Svetlin Velinov',0.2
-Gather the Townsfolk,Sorcery,None,Dark Ascension,Common,2,White,True,False,True,True,b'Dan Scott',0.1
-Gavony Ironwright,Creature,Human Soldier,Dark Ascension,Uncommon,3,White,True,False,True,False,b'Karl Kopinski',0.05
-Hollowhenge Spirit,Creature,Spirit,Dark Ascension,Uncommon,4,White,True,False,True,True,b'Lars Grant-West',0.11
-Increasing Devotion,Sorcery,None,Dark Ascension,Rare,5,White,True,False,True,True,b'Daniel Ljunggren',0.31
-Lingering Souls,Sorcery,None,Dark Ascension,Uncommon,3,White,True,False,True,True,b'Bud Cook',0.27
-Loyal Cathar,Creature,Human Soldier,Dark Ascension,Common,2,White,True,False,True,False,b'Ryan Pancoast',0.07
-Midnight Guard,Creature,Human Soldier,Dark Ascension,Common,3,White,True,False,True,True,b'Jason A. Engle',0.12
-Niblis of the Mist,Creature,Spirit,Dark Ascension,Common,3,White,True,False,True,False,b'Igor Kieryluk',0.02
-Niblis of the Urn,Creature,Spirit,Dark Ascension,Uncommon,2,White,True,False,True,False,b'Igor Kieryluk',0.07
-Ray of Revelation,Instant,None,Dark Ascension,Common,2,White,True,False,True,True,b'Cliff Childs',0.13
-Requiem Angel,Creature,Angel,Dark Ascension,Rare,6,White,True,False,True,True,b'Eric Deschamps',0.44
-Sanctuary Cat,Creature,Cat,Dark Ascension,Common,1,White,True,False,True,True,b'David Palumbo',0.09
-Séance,Enchantment,None,Dark Ascension,Rare,4,White,True,False,True,True,b'David Rapoza',0.29
-Silverclaw Griffin,Creature,Griffin,Dark Ascension,Common,5,White,True,False,True,False,b'Daniel Ljunggren',0.05
-Skillful Lunge,Instant,None,Dark Ascension,Common,2,White,True,False,True,False,b'Jason Felix',0.04
-Sudden Disappearance,Sorcery,None,Dark Ascension,Rare,6,White,True,False,True,False,b'Cliff Childs',0.14
-"Thalia, Guardian of Thraben",Legendary Creature,Human Soldier,Dark Ascension,Rare,2,White,True,False,True,True,b'Jana Schirmer',5.19
-Thraben Doomsayer,Creature,Human Cleric,Dark Ascension,Rare,3,White,True,False,True,True,b'John Stanko',0.54
-Thraben Heretic,Creature,Human Wizard,Dark Ascension,Uncommon,2,White,True,False,True,True,b'James Ryman',0.02
-Artful Dodge,Sorcery,None,Dark Ascension,Common,1,Blue,True,False,True,False,b'Tomasz Jedruszek',0.23
-Beguiler of Wills,Creature,Human Wizard,Dark Ascension,Mythic Rare,5,Blue,True,False,True,False,b'Eric Deschamps',1.4
-Bone to Ash,Instant,None,Dark Ascension,Common,4,Blue,True,True,True,True,b'Clint Cearley',0.04
-Call to the Kindred,Enchantment,Aura,Dark Ascension,Rare,4,Blue,True,False,True,False,b'Jason A. Engle',0.63
-Chant of the Skifsang,Enchantment,Aura,Dark Ascension,Common,3,Blue,True,False,True,False,b'Nils Hamm',0.05
-Chill of Foreboding,Sorcery,None,Dark Ascension,Uncommon,3,Blue,True,False,True,False,b'Terese Nielsen',0.07
-Counterlash,Instant,None,Dark Ascension,Rare,6,Blue,True,False,True,False,b'Austin Hsu',0.18
-Curse of Echoes,Enchantment,Aura Curse,Dark Ascension,Rare,5,Blue,True,False,True,False,b'Slawomir Maniak',0.3
-Divination,Sorcery,None,Dark Ascension,Common,3,Blue,True,False,True,True,b'Scott Chou',0.05
-Dungeon Geists,Creature,Spirit,Dark Ascension,Rare,4,Blue,True,True,True,True,b'Nils Hamm',0.2
-Geralf's Mindcrusher,Creature,Zombie Horror,Dark Ascension,Rare,6,Blue,True,False,True,False,b'Steven Belledin',0.27
-Griptide,Instant,None,Dark Ascension,Common,4,Blue,True,False,True,True,b'Igor Kieryluk',0.06
-Havengul Runebinder,Creature,Human Wizard,Dark Ascension,Rare,4,Blue,True,False,True,True,b'Bud Cook',0.2
-Headless Skaab,Creature,Zombie Warrior,Dark Ascension,Common,3,Blue,True,False,True,False,b'Johann Bodin',0.07
-Increasing Confusion,Sorcery,None,Dark Ascension,Rare,2,Blue,True,False,True,False,b'Dan Scott',1.08
-Mystic Retrieval,Sorcery,None,Dark Ascension,Uncommon,4,Blue,True,False,True,True,b'Scott Chou',0.14
-Nephalia Seakite,Creature,Bird,Dark Ascension,Common,4,Blue,True,False,True,True,b'Wayne England',0.01
-Niblis of the Breath,Creature,Spirit,Dark Ascension,Uncommon,3,Blue,True,False,True,False,b'Igor Kieryluk',0.11
-Relentless Skaabs,Creature,Zombie,Dark Ascension,Uncommon,5,Blue,True,False,True,True,b'Karl Kopinski',0.07
-Saving Grasp,Instant,None,Dark Ascension,Common,1,Blue,True,False,True,False,b'Matt Stewart',0.07
-Screeching Skaab,Creature,Zombie,Dark Ascension,Common,2,Blue,True,False,True,True,b'Clint Cearley',0.09
-Secrets of the Dead,Enchantment,None,Dark Ascension,Uncommon,3,Blue,True,False,True,True,b'Eytan Zana',0.32
-Shriekgeist,Creature,Spirit,Dark Ascension,Common,2,Blue,True,False,True,True,b'Raymond Swanland',0.05
-Soul Seizer,Creature,Spirit,Dark Ascension,Uncommon,5,Blue,True,False,True,False,b'Lucas Graciano',0.05
-Stormbound Geist,Creature,Spirit,Dark Ascension,Common,3,Blue,True,False,True,False,b'Dan Scott',0.2
-Thought Scour,Instant,None,Dark Ascension,Common,1,Blue,True,False,True,True,b'David Rapoza',0.35
-Tower Geist,Creature,Spirit,Dark Ascension,Uncommon,4,Blue,True,False,True,True,b'Izzy',0.05
-Black Cat,Creature,Zombie Cat,Dark Ascension,Common,2,Black,True,False,True,True,b'David Palumbo',0.1
-Chosen of Markov,Creature,Human,Dark Ascension,Common,3,Black,True,False,True,False,b'Steve Argyle',0.11
-Curse of Misfortunes,Enchantment,Aura Curse,Dark Ascension,Rare,5,Black,True,False,True,False,b'Terese Nielsen',0.44
-Curse of Thirst,Enchantment,Aura Curse,Dark Ascension,Uncommon,5,Black,True,False,True,True,b'Christopher Moeller',0.13
-Deadly Allure,Sorcery,None,Dark Ascension,Uncommon,1,Black,True,False,True,False,b'Steve Argyle',0.15
-Death's Caress,Sorcery,None,Dark Ascension,Common,5,Black,True,False,True,False,b'James Ryman',0.05
-Falkenrath Torturer,Creature,Vampire,Dark Ascension,Common,3,Black,True,False,True,False,b'Steve Argyle',0.05
-Farbog Boneflinger,Creature,Zombie,Dark Ascension,Uncommon,5,Black,True,False,True,True,b'Tomasz Jedruszek',0.05
-Fiend of the Shadows,Creature,Vampire Wizard,Dark Ascension,Rare,5,Black,True,False,True,False,b'Igor Kieryluk',0.22
-Geralf's Messenger,Creature,Zombie,Dark Ascension,Rare,3,Black,True,False,True,False,b'Kev Walker',6.85
-Gravecrawler,Creature,Zombie,Dark Ascension,Rare,1,Black,True,False,True,True,b'Steven Belledin',5.96
-Gravepurge,Instant,None,Dark Ascension,Common,3,Black,True,False,True,True,b'Zoltan Boros',0.09
-Gruesome Discovery,Sorcery,None,Dark Ascension,Common,4,Black,True,False,True,False,b'John Stanko',0.03
-Harrowing Journey,Sorcery,None,Dark Ascension,Uncommon,5,Black,True,False,True,False,b'James Paick',0.06
-Highborn Ghoul,Creature,Zombie,Dark Ascension,Common,2,Black,True,False,True,False,b'Volkan Ba\xc7\xb5a',0.12
-Increasing Ambition,Sorcery,None,Dark Ascension,Rare,5,Black,True,False,True,False,b'Volkan Ba\xc7\xb5a',1.06
-"Mikaeus, the Unhallowed",Legendary Creature,Zombie Cleric,Dark Ascension,Mythic Rare,6,Black,True,False,True,True,b'Chris Rahn',23.79
-Ravenous Demon,Creature,Demon,Dark Ascension,Rare,5,Black,True,False,True,True,b'Igor Kieryluk',0.16
-Reap the Seagraf,Sorcery,None,Dark Ascension,Common,3,Black,True,False,True,False,b'James Ryman',0.06
-Sightless Ghoul,Creature,Zombie Soldier,Dark Ascension,Common,4,Black,True,False,True,False,b'Svetlin Velinov',0.12
-Skirsdag Flayer,Creature,Human Cleric,Dark Ascension,Uncommon,2,Black,True,False,True,False,b'Austin Hsu',0.08
-Spiteful Shadows,Enchantment,Aura,Dark Ascension,Common,2,Black,True,False,True,False,b'John Stanko',0.06
-Tragic Slip,Instant,None,Dark Ascension,Common,1,Black,True,False,True,True,b'Christopher Moeller',0.25
-Undying Evil,Instant,None,Dark Ascension,Common,1,Black,True,False,True,False,b'Kev Walker',0.32
-Vengeful Vampire,Creature,Vampire,Dark Ascension,Uncommon,6,Black,True,False,True,False,b'Lucas Graciano',0.13
-Wakedancer,Creature,Human Shaman,Dark Ascension,Uncommon,3,Black,True,False,True,True,b'Austin Hsu',0.06
-Zombie Apocalypse,Sorcery,None,Dark Ascension,Rare,6,Black,True,False,True,True,b'Peter Mohrbacher',1.89
-Afflicted Deserter,Creature,Human Werewolf,Dark Ascension,Uncommon,4,Red,True,False,True,False,b'David Palumbo',0.17
-Alpha Brawl,Sorcery,None,Dark Ascension,Rare,8,Red,True,False,True,False,b'Randy Gallegos',0.25
-Blood Feud,Sorcery,None,Dark Ascension,Uncommon,6,Red,True,False,True,True,b'Winona Nelson',0.11
-Burning Oil,Instant,None,Dark Ascension,Uncommon,2,Red,True,False,True,False,b'Trevor Claxton',0.08
-Curse of Bloodletting,Enchantment,Aura Curse,Dark Ascension,Rare,5,Red,True,False,True,False,b'Michael C. Hayes',1.38
-Erdwal Ripper,Creature,Vampire,Dark Ascension,Common,3,Red,True,False,True,False,b'Kev Walker',0.08
-Faithless Looting,Sorcery,None,Dark Ascension,Common,1,Red,False,False,True,True,b'Gabor Szikszai',0.45
-Fires of Undeath,Instant,None,Dark Ascension,Common,3,Red,True,False,True,False,b'Jason Chan',0.03
-Flayer of the Hatebound,Creature,Devil,Dark Ascension,Rare,6,Red,True,False,True,True,b'Jana Schirmer',0.35
-Fling,Instant,None,Dark Ascension,Common,2,Red,True,True,True,True,b'Izzy',0.09
-Forge Devil,Creature,Devil,Dark Ascension,Common,1,Red,True,False,True,True,b'Austin Hsu',0.07
-Heckling Fiends,Creature,Devil,Dark Ascension,Uncommon,3,Red,True,False,True,True,b'Clint Cearley',0.09
-Hellrider,Creature,Devil,Dark Ascension,Rare,4,Red,True,False,True,True,b'Svetlin Velinov',0.43
-Hinterland Hermit,Creature,Human Werewolf,Dark Ascension,Common,2,Red,True,False,True,False,b'Steven Belledin',0.07
-Increasing Vengeance,Instant,None,Dark Ascension,Rare,2,Red,True,False,True,True,b'Anthony Francisco',0.51
-Markov Blademaster,Creature,Vampire Warrior,Dark Ascension,Rare,3,Red,True,False,True,False,b'Jana Schirmer',0.48
-Markov Warlord,Creature,Vampire Warrior,Dark Ascension,Uncommon,6,Red,True,False,True,False,b'Cynthia Sheppard',0.08
-Mondronen Shaman,Creature,Human Shaman Werewolf,Dark Ascension,Rare,4,Red,True,False,True,True,b'Mike Sass',0.37
-Moonveil Dragon,Creature,Dragon,Dark Ascension,Mythic Rare,6,Red,True,False,True,False,b'Todd Lockwood',1.48
-Nearheath Stalker,Creature,Vampire Rogue,Dark Ascension,Common,5,Red,True,False,True,True,b'Michael C. Hayes',0.05
-Pyreheart Wolf,Creature,Wolf,Dark Ascension,Uncommon,3,Red,True,False,True,False,b'Lars Grant-West',0.18
-Russet Wolves,Creature,Wolf,Dark Ascension,Common,4,Red,True,False,True,False,b'Christopher Moeller',0.06
-Scorch the Fields,Sorcery,None,Dark Ascension,Common,5,Red,True,False,True,False,b'Jaime Jones',0.02
-Shattered Perception,Sorcery,None,Dark Ascension,Uncommon,3,Red,True,False,True,False,b'Terese Nielsen',0.2
-Talons of Falkenrath,Enchantment,Aura,Dark Ascension,Common,2,Red,True,False,True,False,b'Svetlin Velinov',0.03
-Torch Fiend,Creature,Devil,Dark Ascension,Common,2,Red,True,False,True,True,b'Winona Nelson',0.06
-Wrack with Madness,Sorcery,None,Dark Ascension,Common,4,Red,True,False,True,False,b'Todd Lockwood',0.06
-Briarpack Alpha,Creature,Wolf,Dark Ascension,Uncommon,4,Green,True,False,True,True,b'Daarken',0.1
-Clinging Mists,Instant,None,Dark Ascension,Common,3,Green,True,False,True,False,b'Anthony Francisco',0.07
-Crushing Vines,Instant,None,Dark Ascension,Common,3,Green,True,False,True,True,b'Scott Chou',0.08
-Dawntreader Elk,Creature,Elk,Dark Ascension,Common,2,Green,True,False,True,False,b'John Avon',0.23
-Deranged Outcast,Creature,Human Rogue,Dark Ascension,Rare,2,Green,True,False,True,False,b'Nils Hamm',0.12
-Favor of the Woods,Enchantment,Aura,Dark Ascension,Common,3,Green,True,False,True,False,b'Tomasz Jedruszek',0.09
-Feed the Pack,Enchantment,None,Dark Ascension,Rare,6,Green,True,False,True,False,b'Steve Prescott',0.32
-Ghoultree,Creature,Zombie Treefolk,Dark Ascension,Rare,8,Green,True,False,True,False,b'Volkan Ba\xc7\xb5a',0.49
-Gravetiller Wurm,Creature,Wurm,Dark Ascension,Uncommon,6,Green,True,False,True,False,b'Slawomir Maniak',0.07
-Grim Flowering,Sorcery,None,Dark Ascension,Uncommon,6,Green,True,False,True,True,b'Adam Paquette',0.09
-Hollowhenge Beast,Creature,Beast,Dark Ascension,Common,5,Green,True,False,True,False,b'Dave Kendall',0.03
-Hunger of the Howlpack,Instant,None,Dark Ascension,Common,1,Green,True,False,True,True,b'Nils Hamm',0.2
-Increasing Savagery,Sorcery,None,Dark Ascension,Rare,4,Green,True,False,True,True,b'Steve Prescott',0.42
-Kessig Recluse,Creature,Spider,Dark Ascension,Common,4,Green,True,False,True,False,b'Vincent Proce',0.11
-Lambholt Elder,Creature,Human Werewolf,Dark Ascension,Uncommon,3,Green,True,False,True,False,b'Matt Stewart',0.2
-Lost in the Woods,Enchantment,None,Dark Ascension,Rare,5,Green,True,False,True,False,b'Matt Stewart',0.13
-Predator Ooze,Creature,Ooze,Dark Ascension,Rare,3,Green,True,False,True,True,b'Ryan Yee',1.41
-Scorned Villager,Creature,Human Werewolf,Dark Ascension,Common,2,Green,True,False,True,False,b'Cynthia Sheppard',0.2
-Somberwald Dryad,Creature,Dryad,Dark Ascension,Common,2,Green,True,False,True,False,b'Jaime Jones',0.05
-Strangleroot Geist,Creature,Spirit,Dark Ascension,Uncommon,2,Green,True,False,True,True,b'Jason Chan',0.37
-Tracker's Instincts,Sorcery,None,Dark Ascension,Uncommon,2,Green,True,False,True,False,b'Jung Park',0.1
-Ulvenwald Bear,Creature,Bear,Dark Ascension,Common,3,Green,True,False,True,False,b'Jason A. Engle',0.15
-Village Survivors,Creature,Human,Dark Ascension,Uncommon,5,Green,True,False,True,False,b'David Rapoza',0.06
-Vorapede,Creature,Insect,Dark Ascension,Mythic Rare,5,Green,True,False,True,True,b'Slawomir Maniak',0.82
-Wild Hunger,Instant,None,Dark Ascension,Common,3,Green,True,False,True,True,b'Karl Kopinski',0.11
-Wolfbitten Captive,Creature,Human Werewolf,Dark Ascension,Rare,1,Green,True,False,True,False,b'Zoltan Boros',0.59
-Young Wolf,Creature,Wolf,Dark Ascension,Common,1,Green,True,False,True,False,b'Ryan Pancoast',0.38
-Diregraf Captain,Creature,Zombie Soldier,Dark Ascension,Uncommon,3,Gold,True,False,True,True,b'Slawomir Maniak',0.3
-Drogskol Captain,Creature,Spirit Soldier,Dark Ascension,Uncommon,3,Gold,True,False,True,True,b'Peter Mohrbacher',0.37
-Drogskol Reaver,Creature,Spirit,Dark Ascension,Mythic Rare,7,Gold,True,False,True,False,b'Vincent Proce',1.65
-Falkenrath Aristocrat,Creature,Vampire Noble,Dark Ascension,Mythic Rare,4,Gold,True,False,True,True,b'Igor Kieryluk',0.91
-Havengul Lich,Creature,Zombie Wizard,Dark Ascension,Mythic Rare,5,Gold,True,False,True,True,b'James Ryman',1.57
-Huntmaster of the Fells,Creature,Human Werewolf,Dark Ascension,Mythic Rare,4,Gold,True,False,True,True,b'Chris Rahn',6.42
-Immerwolf,Creature,Wolf,Dark Ascension,Uncommon,3,Gold,True,False,True,False,b'Terese Nielsen',0.42
-"Sorin, Lord of Innistrad",Legendary Planeswalker,Sorin,Dark Ascension,Mythic Rare,4,Gold,True,False,True,True,b'Michael Komarck',4.75
-Stromkirk Captain,Creature,Vampire Soldier,Dark Ascension,Uncommon,3,Gold,True,False,True,True,b'Jana Schirmer',0.37
-Altar of the Lost,Artifact,None,Dark Ascension,Uncommon,3,Colorless,True,False,True,False,b'Daarken',0.05
-Avacyn's Collar,Artifact,Equipment,Dark Ascension,Uncommon,1,Colorless,True,False,True,False,b'James Paick',0.11
-Chalice of Life,Artifact,None,Dark Ascension,Uncommon,3,Colorless,True,False,True,False,b'Ryan Yee',0.57
-"Elbrus, the Binding Blade",Legendary Artifact,Equipment,Dark Ascension,Mythic Rare,7,Colorless,True,False,True,True,b'Eric Deschamps',2.68
-Executioner's Hood,Artifact,Equipment,Dark Ascension,Common,2,Colorless,True,False,True,False,b'Anthony Palumbo',0.09
-Grafdigger's Cage,Artifact,None,Dark Ascension,Rare,1,Colorless,True,True,True,True,b'Daniel Ljunggren',1.74
-Heavy Mattock,Artifact,Equipment,Dark Ascension,Common,3,Colorless,True,False,True,False,b'Winona Nelson',0.04
-Helvault,Legendary Artifact,None,Dark Ascension,Mythic Rare,3,Colorless,True,False,True,True,b'Jaime Jones',0.41
-Jar of Eyeballs,Artifact,None,Dark Ascension,Rare,3,Colorless,True,False,True,True,b'Jaime Jones',0.15
-Warden of the Wall,Artifact,None,Dark Ascension,Uncommon,3,Colorless,True,False,True,False,b'Daniel Ljunggren',0.06
-Wolfhunter's Quiver,Artifact,Equipment,Dark Ascension,Uncommon,1,Colorless,True,False,True,False,b'Daniel Ljunggren',0.06
-Evolving Wilds,Land,None,Dark Ascension,Common,0,Colorless,True,True,True,True,b'Cliff Childs',0.14
-Grim Backwoods,Land,None,Dark Ascension,Rare,0,Colorless,True,False,True,True,b'Vincent Proce',0.26
-Haunted Fengraf,Land,None,Dark Ascension,Common,0,Colorless,True,False,True,True,b'Adam Paquette',0.11
-Vault of the Archangel,Land,None,Dark Ascension,Rare,0,Colorless,True,False,True,True,b'John Avon',2.88
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Archangel's Light,Sorcery,None,Dark Ascension,Mythic Rare,8,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Volkan Ba\xc7\xb5a',0.58,False
+Bar the Door,Instant,None,Dark Ascension,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Ryan Pancoast',0.13,False
+Break of Day,Instant,None,Dark Ascension,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Karl Kopinski',0.13,False
+Burden of Guilt,Enchantment,Aura,Dark Ascension,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'John Stanko',0.06,False
+Curse of Exhaustion,Enchantment,Aura Curse,Dark Ascension,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Slawomir Maniak',0.27,False
+Elgaud Inquisitor,Creature,Human Cleric,Dark Ascension,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Slawomir Maniak',0.03,False
+Faith's Shield,Instant,None,Dark Ascension,Uncommon,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Svetlin Velinov',0.23,False
+Gather the Townsfolk,Sorcery,None,Dark Ascension,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.13,False
+Gavony Ironwright,Creature,Human Soldier,Dark Ascension,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Karl Kopinski',0.05,False
+Hollowhenge Spirit,Creature,Spirit,Dark Ascension,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.11,False
+Increasing Devotion,Sorcery,None,Dark Ascension,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',0.36,False
+Lingering Souls,Sorcery,None,Dark Ascension,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Bud Cook',0.31,False
+Loyal Cathar,Creature,Human Soldier,Dark Ascension,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Ryan Pancoast',0.1,False
+Midnight Guard,Creature,Human Soldier,Dark Ascension,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason A. Engle',0.14,False
+Niblis of the Mist,Creature,Spirit,Dark Ascension,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Igor Kieryluk',0.02,False
+Niblis of the Urn,Creature,Spirit,Dark Ascension,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Igor Kieryluk',0.08,False
+Ray of Revelation,Instant,None,Dark Ascension,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Cliff Childs',0.13,False
+Requiem Angel,Creature,Angel,Dark Ascension,Rare,6,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Deschamps',0.47,False
+Sanctuary Cat,Creature,Cat,Dark Ascension,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'David Palumbo',0.09,False
+Séance,Enchantment,None,Dark Ascension,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'David Rapoza',0.3,False
+Silverclaw Griffin,Creature,Griffin,Dark Ascension,Common,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Daniel Ljunggren',0.05,False
+Skillful Lunge,Instant,None,Dark Ascension,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Jason Felix',0.04,False
+Sudden Disappearance,Sorcery,None,Dark Ascension,Rare,6,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Cliff Childs',0.15,False
+Thalia Guardian of Thraben,Creature,Human Soldier,Dark Ascension,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jana Schirmer',4.96,True
+Thraben Doomsayer,Creature,Human Cleric,Dark Ascension,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'John Stanko',0.55,False
+Thraben Heretic,Creature,Human Wizard,Dark Ascension,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'James Ryman',0.02,False
+Artful Dodge,Sorcery,None,Dark Ascension,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Tomasz Jedruszek',0.21,False
+Beguiler of Wills,Creature,Human Wizard,Dark Ascension,Mythic Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Eric Deschamps',1.75,False
+Bone to Ash,Instant,None,Dark Ascension,Common,4,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Clint Cearley',0.05,False
+Call to the Kindred,Enchantment,Aura,Dark Ascension,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Jason A. Engle',0.63,False
+Chant of the Skifsang,Enchantment,Aura,Dark Ascension,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Nils Hamm',0.05,False
+Chill of Foreboding,Sorcery,None,Dark Ascension,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.08,False
+Counterlash,Instant,None,Dark Ascension,Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Austin Hsu',0.18,False
+Curse of Echoes,Enchantment,Aura Curse,Dark Ascension,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Slawomir Maniak',0.29,False
+Divination,Sorcery,None,Dark Ascension,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Chou',0.05,False
+Dungeon Geists,Creature,Spirit,Dark Ascension,Rare,4,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.21,False
+Geralf's Mindcrusher,Creature,Zombie Horror,Dark Ascension,Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Steven Belledin',0.3,False
+Griptide,Instant,None,Dark Ascension,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.05,False
+Havengul Runebinder,Creature,Human Wizard,Dark Ascension,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Bud Cook',0.15,False
+Headless Skaab,Creature,Zombie Warrior,Dark Ascension,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Johann Bodin',0.07,False
+Increasing Confusion,Sorcery,None,Dark Ascension,Rare,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',1.21,False
+Mystic Retrieval,Sorcery,None,Dark Ascension,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Chou',0.19,False
+Nephalia Seakite,Creature,Bird,Dark Ascension,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne England',0.02,False
+Niblis of the Breath,Creature,Spirit,Dark Ascension,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Igor Kieryluk',0.15,False
+Relentless Skaabs,Creature,Zombie,Dark Ascension,Uncommon,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.04,False
+Saving Grasp,Instant,None,Dark Ascension,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Stewart',0.1,False
+Screeching Skaab,Creature,Zombie,Dark Ascension,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Clint Cearley',0.06,False
+Secrets of the Dead,Enchantment,None,Dark Ascension,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Eytan Zana',0.3,False
+Shriekgeist,Creature,Spirit,Dark Ascension,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.05,False
+Soul Seizer,Creature,Spirit,Dark Ascension,Uncommon,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Lucas Graciano',0.09,False
+Stormbound Geist,Creature,Spirit,Dark Ascension,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.2,False
+Thought Scour,Instant,None,Dark Ascension,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'David Rapoza',0.37,False
+Tower Geist,Creature,Spirit,Dark Ascension,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.05,False
+Black Cat,Creature,Zombie Cat,Dark Ascension,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'David Palumbo',0.12,False
+Chosen of Markov,Creature,Human,Dark Ascension,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Argyle',0.1,False
+Curse of Misfortunes,Enchantment,Aura Curse,Dark Ascension,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.46,False
+Curse of Thirst,Enchantment,Aura Curse,Dark Ascension,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.23,False
+Deadly Allure,Sorcery,None,Dark Ascension,Uncommon,1,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Argyle',0.17,False
+Death's Caress,Sorcery,None,Dark Ascension,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'James Ryman',0.05,False
+Falkenrath Torturer,Creature,Vampire,Dark Ascension,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Argyle',0.08,False
+Farbog Boneflinger,Creature,Zombie,Dark Ascension,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.03,False
+Fiend of the Shadows,Creature,Vampire Wizard,Dark Ascension,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Igor Kieryluk',0.24,False
+Geralf's Messenger,Creature,Zombie,Dark Ascension,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',6.59,False
+Gravecrawler,Creature,Zombie,Dark Ascension,Rare,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',4.31,False
+Gravepurge,Instant,None,Dark Ascension,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.12,False
+Gruesome Discovery,Sorcery,None,Dark Ascension,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'John Stanko',0.03,False
+Harrowing Journey,Sorcery,None,Dark Ascension,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'James Paick',0.06,False
+Highborn Ghoul,Creature,Zombie,Dark Ascension,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Volkan Ba\xc7\xb5a',0.12,False
+Increasing Ambition,Sorcery,None,Dark Ascension,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Volkan Ba\xc7\xb5a',1.11,False
+Mikaeus the Unhallowed,Creature,Zombie Cleric,Dark Ascension,Mythic Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',33.54,True
+Ravenous Demon,Creature,Demon,Dark Ascension,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.16,False
+Reap the Seagraf,Sorcery,None,Dark Ascension,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'James Ryman',0.07,False
+Sightless Ghoul,Creature,Zombie Soldier,Dark Ascension,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Svetlin Velinov',0.14,False
+Skirsdag Flayer,Creature,Human Cleric,Dark Ascension,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Austin Hsu',0.08,False
+Spiteful Shadows,Enchantment,Aura,Dark Ascension,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'John Stanko',0.09,False
+Tragic Slip,Instant,None,Dark Ascension,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.27,False
+Undying Evil,Instant,None,Dark Ascension,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.32,False
+Vengeful Vampire,Creature,Vampire,Dark Ascension,Uncommon,6,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Lucas Graciano',0.14,False
+Wakedancer,Creature,Human Shaman,Dark Ascension,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Austin Hsu',0.07,False
+Zombie Apocalypse,Sorcery,None,Dark Ascension,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Peter Mohrbacher',2.2,False
+Afflicted Deserter,Creature,Human Werewolf,Dark Ascension,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'David Palumbo',0.18,False
+Alpha Brawl,Sorcery,None,Dark Ascension,Rare,8,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Gallegos',0.29,False
+Blood Feud,Sorcery,None,Dark Ascension,Uncommon,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Winona Nelson',0.11,False
+Burning Oil,Instant,None,Dark Ascension,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Trevor Claxton',0.07,False
+Curse of Bloodletting,Enchantment,Aura Curse,Dark Ascension,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael C. Hayes',1.72,False
+Erdwal Ripper,Creature,Vampire,Dark Ascension,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.1,False
+Faithless Looting,Sorcery,None,Dark Ascension,Common,1,Red,Banned,Not Legal,Legal,Legal,Legal,True,b'Gabor Szikszai',0.5,False
+Fires of Undeath,Instant,None,Dark Ascension,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Jason Chan',0.05,False
+Flayer of the Hatebound,Creature,Devil,Dark Ascension,Rare,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jana Schirmer',0.35,False
+Fling,Instant,None,Dark Ascension,Common,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Izzy',0.1,False
+Forge Devil,Creature,Devil,Dark Ascension,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Austin Hsu',0.08,False
+Heckling Fiends,Creature,Devil,Dark Ascension,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Clint Cearley',0.09,False
+Hellrider,Creature,Devil,Dark Ascension,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.4,False
+Hinterland Hermit,Creature,Human Werewolf,Dark Ascension,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Steven Belledin',0.07,False
+Increasing Vengeance,Instant,None,Dark Ascension,Rare,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony Francisco',0.76,False
+Markov Blademaster,Creature,Vampire Warrior,Dark Ascension,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Jana Schirmer',0.48,False
+Markov Warlord,Creature,Vampire Warrior,Dark Ascension,Uncommon,6,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Cynthia Sheppard',0.1,False
+Mondronen Shaman,Creature,Human Shaman Werewolf,Dark Ascension,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Sass',0.38,False
+Moonveil Dragon,Creature,Dragon,Dark Ascension,Mythic Rare,6,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Todd Lockwood',1.44,False
+Nearheath Stalker,Creature,Vampire Rogue,Dark Ascension,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael C. Hayes',0.06,False
+Pyreheart Wolf,Creature,Wolf,Dark Ascension,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Lars Grant-West',0.2,False
+Russet Wolves,Creature,Wolf,Dark Ascension,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.06,False
+Scorch the Fields,Sorcery,None,Dark Ascension,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Jaime Jones',0.09,False
+Shattered Perception,Sorcery,None,Dark Ascension,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.23,False
+Talons of Falkenrath,Enchantment,Aura,Dark Ascension,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Svetlin Velinov',0.04,False
+Torch Fiend,Creature,Devil,Dark Ascension,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Winona Nelson',0.07,False
+Wrack with Madness,Sorcery,None,Dark Ascension,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Todd Lockwood',0.09,False
+Briarpack Alpha,Creature,Wolf,Dark Ascension,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.09,False
+Clinging Mists,Instant,None,Dark Ascension,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony Francisco',0.11,False
+Crushing Vines,Instant,None,Dark Ascension,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Chou',0.09,False
+Dawntreader Elk,Creature,Elk,Dark Ascension,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.3,False
+Deranged Outcast,Creature,Human Rogue,Dark Ascension,Rare,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Nils Hamm',0.14,False
+Favor of the Woods,Enchantment,Aura,Dark Ascension,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Tomasz Jedruszek',0.09,False
+Feed the Pack,Enchantment,None,Dark Ascension,Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Prescott',0.37,False
+Ghoultree,Creature,Zombie Treefolk,Dark Ascension,Rare,8,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Volkan Ba\xc7\xb5a',0.73,False
+Gravetiller Wurm,Creature,Wurm,Dark Ascension,Uncommon,6,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Slawomir Maniak',0.07,False
+Grim Flowering,Sorcery,None,Dark Ascension,Uncommon,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.09,False
+Hollowhenge Beast,Creature,Beast,Dark Ascension,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Kendall',0.03,False
+Hunger of the Howlpack,Instant,None,Dark Ascension,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.22,False
+Increasing Savagery,Sorcery,None,Dark Ascension,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.56,False
+Kessig Recluse,Creature,Spider,Dark Ascension,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Vincent Proce',0.14,False
+Lambholt Elder,Creature,Human Werewolf,Dark Ascension,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Stewart',0.2,False
+Lost in the Woods,Enchantment,None,Dark Ascension,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Stewart',0.16,False
+Predator Ooze,Creature,Ooze,Dark Ascension,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Yee',1.48,False
+Scorned Villager,Creature,Human Werewolf,Dark Ascension,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Cynthia Sheppard',0.22,False
+Somberwald Dryad,Creature,Dryad,Dark Ascension,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Jaime Jones',0.04,False
+Strangleroot Geist,Creature,Spirit,Dark Ascension,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',0.33,False
+Tracker's Instincts,Sorcery,None,Dark Ascension,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Jung Park',0.11,False
+Ulvenwald Bear,Creature,Bear,Dark Ascension,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Jason A. Engle',0.15,False
+Village Survivors,Creature,Human,Dark Ascension,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'David Rapoza',0.07,False
+Vorapede,Creature,Insect,Dark Ascension,Mythic Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',0.79,False
+Wild Hunger,Instant,None,Dark Ascension,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.09,False
+Wolfbitten Captive,Creature,Human Werewolf,Dark Ascension,Rare,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.64,False
+Young Wolf,Creature,Wolf,Dark Ascension,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Ryan Pancoast',0.4,False
+Diregraf Captain,Creature,Zombie Soldier,Dark Ascension,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',0.32,False
+Drogskol Captain,Creature,Spirit Soldier,Dark Ascension,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Peter Mohrbacher',0.4,False
+Drogskol Reaver,Creature,Spirit,Dark Ascension,Mythic Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Vincent Proce',2.24,False
+Falkenrath Aristocrat,Creature,Vampire Noble,Dark Ascension,Mythic Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',1.0,False
+Havengul Lich,Creature,Zombie Wizard,Dark Ascension,Mythic Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'James Ryman',1.91,False
+Huntmaster of the Fells,Creature,Human Werewolf,Dark Ascension,Mythic Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',5.94,False
+Immerwolf,Creature,Wolf,Dark Ascension,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.49,False
+Sorin Lord of Innistrad,Planeswalker,Sorin,Dark Ascension,Mythic Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Komarck',5.44,True
+Stromkirk Captain,Creature,Vampire Soldier,Dark Ascension,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jana Schirmer',0.48,False
+Altar of the Lost,Artifact,None,Dark Ascension,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Daarken',0.06,False
+Avacyn's Collar,Artifact,Equipment,Dark Ascension,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'James Paick',0.1,False
+Chalice of Life,Artifact,None,Dark Ascension,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Ryan Yee',0.58,False
+Elbrus the Binding Blade,Artifact,Equipment,Dark Ascension,Mythic Rare,7,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Deschamps',3.42,True
+Executioner's Hood,Artifact,Equipment,Dark Ascension,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony Palumbo',0.14,False
+Grafdigger's Cage,Artifact,None,Dark Ascension,Rare,1,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',2.37,False
+Heavy Mattock,Artifact,Equipment,Dark Ascension,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Winona Nelson',0.04,False
+Helvault,Artifact,None,Dark Ascension,Mythic Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',0.43,True
+Jar of Eyeballs,Artifact,None,Dark Ascension,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',0.19,False
+Warden of the Wall,Artifact,None,Dark Ascension,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Daniel Ljunggren',0.08,False
+Wolfhunter's Quiver,Artifact,Equipment,Dark Ascension,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Daniel Ljunggren',0.1,False
+Evolving Wilds,Land,None,Dark Ascension,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Cliff Childs',0.15,False
+Grim Backwoods,Land,None,Dark Ascension,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Vincent Proce',0.26,False
+Haunted Fengraf,Land,None,Dark Ascension,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.13,False
+Vault of the Archangel,Land,None,Dark Ascension,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',3.64,False

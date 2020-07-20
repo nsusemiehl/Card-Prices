@@ -1,265 +1,265 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Scion of Ugin,Creature,Dragon Spirit,Dragons of Tarkir,Uncommon,6,Colorless,True,False,True,True,b'Cliff Childs',0.09
-"Anafenza, Kin-Tree Spirit",Legendary Creature,Spirit Soldier,Dragons of Tarkir,Rare,2,White,True,False,True,True,b'Ryan Yee',1.42
-Arashin Foremost,Creature,Human Warrior,Dragons of Tarkir,Rare,3,White,True,False,True,True,b'David Palumbo',0.29
-Artful Maneuver,Instant,None,Dragons of Tarkir,Common,2,White,True,False,True,True,b'Lars Grant-West',0.07
-Aven Sunstriker,Creature,Bird Warrior,Dragons of Tarkir,Uncommon,3,White,True,False,True,True,b'John Severin Brassell',0.14
-Aven Tactician,Creature,Bird Soldier,Dragons of Tarkir,Common,5,White,True,False,True,True,b'Christopher Moeller',0.05
-Battle Mastery,Enchantment,Aura,Dragons of Tarkir,Uncommon,3,White,True,False,True,True,b'Viktor Titov',0.17
-Center Soul,Instant,None,Dragons of Tarkir,Common,2,White,True,False,True,True,b'Igor Kieryluk',0.1
-Champion of Arashin,Creature,Hound Warrior,Dragons of Tarkir,Common,4,White,True,False,True,True,b'Joseph Meehan',0.03
-Dragon Hunter,Creature,Human Warrior,Dragons of Tarkir,Uncommon,1,White,True,False,True,True,b'Johannes Voss',0.12
-Dragon's Eye Sentry,Creature,Human Monk,Dragons of Tarkir,Common,1,White,True,False,True,True,b'Anastasia Ovchinnikova',0.11
-Dromoka Captain,Creature,Human Soldier,Dragons of Tarkir,Uncommon,3,White,True,False,True,True,b'Matt Stewart',0.07
-Dromoka Dunecaster,Creature,Human Wizard,Dragons of Tarkir,Common,1,White,True,False,True,True,b'Mark Winters',0.04
-Dromoka Warrior,Creature,Human Warrior,Dragons of Tarkir,Common,2,White,True,False,True,True,b'Zack Stella',0.03
-Echoes of the Kin Tree,Enchantment,None,Dragons of Tarkir,Uncommon,2,White,True,False,True,True,b'Ryan Alexander Lee',0.09
-Enduring Victory,Instant,None,Dragons of Tarkir,Common,5,White,True,False,True,True,b'Mike Sass',0.04
-Fate Forgotten,Instant,None,Dragons of Tarkir,Common,3,White,True,False,True,True,b'Cliff Childs',0.11
-Glaring Aegis,Enchantment,Aura,Dragons of Tarkir,Common,1,White,True,True,True,True,b'Anthony Palumbo',0.08
-Gleam of Authority,Enchantment,Aura,Dragons of Tarkir,Rare,2,White,True,False,True,True,b'Jakub Kasper',0.21
-Graceblade Artisan,Creature,Human Monk,Dragons of Tarkir,Uncommon,3,White,True,False,True,True,b'Magali Villeneuve',0.13
-Great Teacher's Decree,Sorcery,None,Dragons of Tarkir,Uncommon,4,White,True,False,True,True,b'Zoltan Boros',0.08
-Herald of Dromoka,Creature,Human Warrior,Dragons of Tarkir,Common,2,White,True,False,True,True,b'Zack Stella',0.14
-Hidden Dragonslayer,Creature,Human Warrior,Dragons of Tarkir,Rare,2,White,True,False,True,True,b'Anastasia Ovchinnikova',0.19
-Lightwalker,Creature,Human Warrior,Dragons of Tarkir,Common,2,White,True,False,True,True,b'Winona Nelson',0.03
-Misthoof Kirin,Creature,Kirin,Dragons of Tarkir,Common,3,White,True,False,True,True,b'Ryan Barger',0.05
-Myth Realized,Enchantment,None,Dragons of Tarkir,Rare,1,White,True,False,True,True,b'Jason Rainville',0.36
-Ojutai Exemplars,Creature,Human Monk,Dragons of Tarkir,Mythic Rare,4,White,True,False,True,True,b'Willian Murai',0.38
-Orator of Ojutai,Creature,Bird Monk,Dragons of Tarkir,Uncommon,2,White,True,False,True,True,b'Zack Stella',0.17
-Pacifism,Enchantment,Aura,Dragons of Tarkir,Common,2,White,True,True,True,True,b'Mark Zug',0.05
-Profound Journey,Sorcery,None,Dragons of Tarkir,Rare,7,White,True,False,True,True,b'Tomasz Jedruszek',0.16
-Radiant Purge,Instant,None,Dragons of Tarkir,Rare,2,White,True,False,True,True,b'Igor Kieryluk',0.15
-Resupply,Instant,None,Dragons of Tarkir,Common,6,White,True,False,True,True,b'Filip Burburan',0.04
-Sandcrafter Mage,Creature,Human Wizard,Dragons of Tarkir,Common,3,White,True,False,True,True,b'Willian Murai',0.06
-Sandstorm Charger,Creature,Beast,Dragons of Tarkir,Common,5,White,True,False,True,True,b'Dave Kendall',0.03
-Scale Blessing,Instant,None,Dragons of Tarkir,Uncommon,4,White,True,False,True,True,b'Matt Stewart',0.1
-Secure the Wastes,Instant,None,Dragons of Tarkir,Rare,2,White,True,False,True,True,b'Scott Murphy',2.08
-Shieldhide Dragon,Creature,Dragon,Dragons of Tarkir,Uncommon,6,White,True,False,True,True,b'Chris Rallis',0.17
-Silkwrap,Enchantment,None,Dragons of Tarkir,Uncommon,2,White,True,False,True,True,b'David Gaillet',0.12
-Strongarm Monk,Creature,Human Monk,Dragons of Tarkir,Uncommon,5,White,True,False,True,True,b'Viktor Titov',0.11
-Student of Ojutai,Creature,Human Monk,Dragons of Tarkir,Common,4,White,True,False,True,True,b'Jason A. Engle',0.05
-Sunscorch Regent,Creature,Dragon,Dragons of Tarkir,Rare,5,White,True,False,True,True,b'Matt Stewart',1.24
-Surge of Righteousness,Instant,None,Dragons of Tarkir,Uncommon,2,White,True,False,True,True,b'Marco Nelor',0.16
-Territorial Roc,Creature,Bird,Dragons of Tarkir,Common,2,White,True,False,True,True,b'YW Tang',0.03
-Ancient Carp,Creature,Fish,Dragons of Tarkir,Common,5,Blue,True,False,True,True,b'Christopher Burdett',0.08
-Anticipate,Instant,None,Dragons of Tarkir,Common,2,Blue,True,True,True,True,b'Lake Hurwitz',0.09
-Belltoll Dragon,Creature,Dragon,Dragons of Tarkir,Uncommon,6,Blue,True,False,True,True,b'Zack Stella',0.14
-Blessed Reincarnation,Instant,None,Dragons of Tarkir,Rare,4,Blue,True,False,True,True,b'Kev Walker',0.12
-Clone Legion,Sorcery,None,Dragons of Tarkir,Mythic Rare,9,Blue,True,False,True,True,b'Svetlin Velinov',0.97
-Contradict,Instant,None,Dragons of Tarkir,Common,5,Blue,True,False,True,True,b'Steve Prescott',0.06
-Dance of the Skywise,Instant,None,Dragons of Tarkir,Uncommon,2,Blue,True,False,True,True,b'Jack Wang',0.08
-Dirgur Nemesis,Creature,Serpent,Dragons of Tarkir,Common,6,Blue,True,False,True,True,b'Mathias Kollros',0.04
-Dragonlord's Prerogative,Instant,None,Dragons of Tarkir,Rare,6,Blue,True,False,True,True,b'Seb McKinnon',0.19
-Elusive Spellfist,Creature,Human Monk,Dragons of Tarkir,Common,2,Blue,True,False,True,True,b'Viktor Titov',0.08
-Encase in Ice,Enchantment,Aura,Dragons of Tarkir,Uncommon,2,Blue,True,False,True,True,b'Mathias Kollros',0.09
-Glint,Instant,None,Dragons of Tarkir,Common,2,Blue,True,False,True,True,b'Igor Kieryluk',0.08
-Gudul Lurker,Creature,Salamander,Dragons of Tarkir,Uncommon,1,Blue,True,False,True,True,b'Christopher Burdett',0.51
-Gurmag Drowner,Creature,Naga Wizard,Dragons of Tarkir,Common,4,Blue,True,False,True,True,b'Lake Hurwitz',0.06
-Icefall Regent,Creature,Dragon,Dragons of Tarkir,Rare,5,Blue,True,False,True,True,b'David Gaillet',0.28
-Illusory Gains,Enchantment,Aura,Dragons of Tarkir,Rare,5,Blue,True,False,True,True,b'Kev Walker',0.15
-Learn from the Past,Instant,None,Dragons of Tarkir,Uncommon,4,Blue,True,False,True,True,b'Chase Stone',0.13
-Living Lore,Creature,Avatar,Dragons of Tarkir,Rare,4,Blue,True,False,True,True,b'Jason Felix',0.12
-Mirror Mockery,Enchantment,Aura,Dragons of Tarkir,Rare,2,Blue,True,False,True,True,b'Ryan Alexander Lee',0.32
-Monastery Loremaster,Creature,Djinn Wizard,Dragons of Tarkir,Common,4,Blue,True,False,True,True,b'Ryan Alexander Lee',0.08
-Mystic Meditation,Sorcery,None,Dragons of Tarkir,Common,4,Blue,True,False,True,True,b'Howard Lyon',0.06
-Negate,Instant,None,Dragons of Tarkir,Common,2,Blue,True,True,True,True,b'Willian Murai',0.1
-Ojutai Interceptor,Creature,Bird Soldier,Dragons of Tarkir,Common,4,Blue,True,False,True,True,b'Johann Bodin',0.03
-Ojutai's Breath,Instant,None,Dragons of Tarkir,Common,3,Blue,True,False,True,True,b'Kev Walker',0.04
-Ojutai's Summons,Sorcery,None,Dragons of Tarkir,Common,5,Blue,True,False,True,True,b'Jakub Kasper',0.06
-Palace Familiar,Creature,Bird,Dragons of Tarkir,Common,2,Blue,True,False,True,True,b'Kev Walker',0.07
-Profaner of the Dead,Creature,Naga Wizard,Dragons of Tarkir,Rare,4,Blue,True,False,True,True,b'Vincent Proce',0.27
-Qarsi Deceiver,Creature,Naga Wizard,Dragons of Tarkir,Uncommon,2,Blue,True,False,True,True,b'Raymond Swanland',0.15
-Reduce in Stature,Enchantment,Aura,Dragons of Tarkir,Common,3,Blue,True,False,True,True,b'Dan Scott',0.05
-Shorecrasher Elemental,Creature,Elemental,Dragons of Tarkir,Mythic Rare,3,Blue,True,False,True,True,b'Igor Kieryluk',0.45
-Sidisi's Faithful,Creature,Naga Wizard,Dragons of Tarkir,Common,1,Blue,True,False,True,True,b'Lius Lasahido',0.15
-Sight Beyond Sight,Sorcery,None,Dragons of Tarkir,Uncommon,4,Blue,True,False,True,True,b'Anastasia Ovchinnikova',0.06
-Silumgar Sorcerer,Creature,Human Wizard,Dragons of Tarkir,Uncommon,3,Blue,True,False,True,True,b'Jeff Simpson',0.15
-Silumgar Spell-Eater,Creature,Naga Wizard,Dragons of Tarkir,Uncommon,3,Blue,True,False,True,True,b'Dave Kendall',0.13
-Silumgar's Scorn,Instant,None,Dragons of Tarkir,Uncommon,2,Blue,True,False,True,True,b'Ryan Yee',0.2
-Skywise Teachings,Enchantment,None,Dragons of Tarkir,Uncommon,4,Blue,True,False,True,True,b'Filip Burburan',0.07
-Stratus Dancer,Creature,Djinn Monk,Dragons of Tarkir,Rare,2,Blue,True,False,True,True,b'Anastasia Ovchinnikova',0.26
-Taigam's Strike,Sorcery,None,Dragons of Tarkir,Common,4,Blue,True,False,True,True,b'David Gaillet',0.07
-Updraft Elemental,Creature,Elemental,Dragons of Tarkir,Common,3,Blue,True,False,True,True,b'Raf Sarmento',0.04
-Void Squall,Sorcery,None,Dragons of Tarkir,Uncommon,5,Blue,True,False,True,True,b'James Paick',0.07
-Youthful Scholar,Creature,Human Wizard,Dragons of Tarkir,Uncommon,4,Blue,True,False,True,True,b'Cynthia Sheppard',0.06
-Zephyr Scribe,Creature,Human Monk,Dragons of Tarkir,Common,3,Blue,True,False,True,True,b'Lius Lasahido',0.06
-Acid-Spewer Dragon,Creature,Dragon,Dragons of Tarkir,Uncommon,6,Black,True,False,True,True,b'James Zapata',0.11
-Ambuscade Shaman,Creature,Orc Shaman,Dragons of Tarkir,Uncommon,3,Black,True,False,True,True,b'Anthony Palumbo',0.11
-Blood-Chin Fanatic,Creature,Orc Warrior,Dragons of Tarkir,Rare,3,Black,True,False,True,True,b'David Palumbo',0.2
-Blood-Chin Rager,Creature,Human Warrior,Dragons of Tarkir,Uncommon,2,Black,True,False,True,True,b'Karl Kopinski',0.22
-Butcher's Glee,Instant,None,Dragons of Tarkir,Common,3,Black,True,False,True,True,b'Jesper Ejsing',0.09
-Coat with Venom,Instant,None,Dragons of Tarkir,Common,1,Black,True,False,True,True,b'Johann Bodin',0.1
-Corpseweft,Enchantment,None,Dragons of Tarkir,Rare,3,Black,True,False,True,True,b'Nils Hamm',0.12
-Damnable Pact,Sorcery,None,Dragons of Tarkir,Rare,3,Black,True,False,True,True,b'Zack Stella',0.3
-Deadly Wanderings,Enchantment,None,Dragons of Tarkir,Uncommon,5,Black,True,False,True,True,b'David Palumbo',0.12
-Death Wind,Instant,None,Dragons of Tarkir,Uncommon,2,Black,True,False,True,True,b'Nils Hamm',0.08
-Deathbringer Regent,Creature,Dragon,Dragons of Tarkir,Rare,7,Black,True,False,True,True,b'Adam Paquette',0.25
-Defeat,Sorcery,None,Dragons of Tarkir,Common,2,Black,True,False,True,True,b'Dave Kendall',0.05
-Duress,Sorcery,None,Dragons of Tarkir,Common,1,Black,True,True,True,True,b'Jason Rainville',0.12
-Dutiful Attendant,Creature,Human Warrior,Dragons of Tarkir,Common,3,Black,True,False,True,True,b'Aaron Miller',0.14
-Flatten,Instant,None,Dragons of Tarkir,Common,4,Black,True,False,True,True,b'Raoul Vitale',0.03
-Foul Renewal,Instant,None,Dragons of Tarkir,Rare,4,Black,True,False,True,True,b'Filip Burburan',0.15
-Foul-Tongue Invocation,Instant,None,Dragons of Tarkir,Uncommon,3,Black,True,False,True,True,b'Daarken',0.13
-Foul-Tongue Shriek,Instant,None,Dragons of Tarkir,Common,1,Black,True,False,True,True,b'Dave Kendall',0.14
-Gravepurge,Instant,None,Dragons of Tarkir,Common,3,Black,True,False,True,True,b'Nils Hamm',0.12
-Hand of Silumgar,Creature,Human Warrior,Dragons of Tarkir,Common,2,Black,True,False,True,True,b'Lius Lasahido',0.07
-Hedonist's Trove,Enchantment,None,Dragons of Tarkir,Rare,7,Black,True,False,True,True,b'Peter Mohrbacher',0.2
-Kolaghan Skirmisher,Creature,Human Warrior,Dragons of Tarkir,Common,2,Black,True,False,True,True,b'Anthony Palumbo',0.03
-Marang River Skeleton,Creature,Skeleton,Dragons of Tarkir,Uncommon,2,Black,True,False,True,True,b'Jack Wang',0.09
-Marsh Hulk,Creature,Zombie Ogre,Dragons of Tarkir,Common,6,Black,True,False,True,True,b'Raf Sarmento',0.15
-Mind Rot,Sorcery,None,Dragons of Tarkir,Common,3,Black,True,True,True,True,b'Clint Cearley',0.04
-Minister of Pain,Creature,Human Shaman,Dragons of Tarkir,Uncommon,3,Black,True,False,True,True,b'Izzy',0.16
-Pitiless Horde,Creature,Orc Berserker,Dragons of Tarkir,Rare,3,Black,True,False,True,True,b'Viktor Titov',0.14
-Qarsi Sadist,Creature,Human Cleric,Dragons of Tarkir,Common,2,Black,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.06
-Rakshasa Gravecaller,Creature,Cat Demon,Dragons of Tarkir,Uncommon,5,Black,True,False,True,True,b'Jakub Kasper',0.12
-Reckless Imp,Creature,Imp,Dragons of Tarkir,Common,3,Black,True,False,True,True,b'Torstein Nordstrand',0.05
-Risen Executioner,Creature,Zombie Warrior,Dragons of Tarkir,Mythic Rare,4,Black,True,False,True,True,b'Craig J Spearing',1.48
-Self-Inflicted Wound,Sorcery,None,Dragons of Tarkir,Uncommon,2,Black,True,False,True,True,b'Mathias Kollros',0.22
-Shambling Goblin,Creature,Zombie Goblin,Dragons of Tarkir,Common,1,Black,True,False,True,True,b'Yeong-Hao Han',0.08
-Sibsig Icebreakers,Creature,Zombie,Dragons of Tarkir,Common,3,Black,True,False,True,True,b'Zoltan Boros',0.06
-"Sidisi, Undead Vizier",Legendary Creature,Zombie Naga,Dragons of Tarkir,Rare,5,Black,True,False,True,True,b'Min Yum',7.01
-Silumgar Assassin,Creature,Human Assassin,Dragons of Tarkir,Rare,2,Black,True,False,True,True,b'Yohann Schepacz',0.16
-Silumgar Butcher,Creature,Zombie Djinn,Dragons of Tarkir,Common,5,Black,True,False,True,True,b'Dave Kendall',0.05
-Ukud Cobra,Creature,Snake,Dragons of Tarkir,Uncommon,4,Black,True,False,True,True,b'Johann Bodin',0.11
-Ultimate Price,Instant,None,Dragons of Tarkir,Uncommon,2,Black,True,False,True,True,b'Jack Wang',0.13
-Virulent Plague,Enchantment,None,Dragons of Tarkir,Uncommon,3,Black,True,False,True,True,b'Johann Bodin',0.15
-Vulturous Aven,Creature,Bird Shaman,Dragons of Tarkir,Common,4,Black,True,False,True,True,b'Kev Walker',0.11
-Wandering Tombshell,Creature,Zombie Turtle,Dragons of Tarkir,Common,4,Black,True,False,True,True,b'Yeong-Hao Han',0.06
-Atarka Efreet,Creature,Efreet Shaman,Dragons of Tarkir,Common,4,Red,True,False,True,True,b'Izzy',0.05
-Atarka Pummeler,Creature,Ogre Warrior,Dragons of Tarkir,Uncommon,5,Red,True,False,True,True,b'Lucas Graciano',0.04
-Berserkers' Onslaught,Enchantment,None,Dragons of Tarkir,Rare,5,Red,True,False,True,True,b'Zoltan Boros',1.08
-Commune with Lava,Instant,None,Dragons of Tarkir,Rare,3,Red,True,False,True,True,b'Ryan Barger',0.27
-Crater Elemental,Creature,Elemental,Dragons of Tarkir,Rare,3,Red,True,False,True,True,b'Svetlin Velinov',0.15
-Descent of the Dragons,Sorcery,None,Dragons of Tarkir,Mythic Rare,6,Red,True,False,True,True,b'Steve Prescott',1.55
-Draconic Roar,Instant,None,Dragons of Tarkir,Uncommon,2,Red,True,False,True,True,b'Kev Walker',0.2
-Dragon Fodder,Sorcery,None,Dragons of Tarkir,Common,2,Red,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.13
-Dragon Tempest,Enchantment,None,Dragons of Tarkir,Rare,2,Red,True,False,True,True,b'Willian Murai',0.92
-Dragon Whisperer,Creature,Human Shaman,Dragons of Tarkir,Mythic Rare,2,Red,True,False,True,True,b'Chris Rallis',0.83
-Dragonlord's Servant,Creature,Goblin Shaman,Dragons of Tarkir,Uncommon,2,Red,True,False,True,True,b'Steve Prescott',0.22
-Hardened Berserker,Creature,Human Berserker,Dragons of Tarkir,Common,3,Red,True,False,True,True,b'Viktor Titov',0.03
-Impact Tremors,Enchantment,None,Dragons of Tarkir,Common,2,Red,True,False,True,True,b'Lake Hurwitz',0.93
-Ire Shaman,Creature,Orc Shaman,Dragons of Tarkir,Rare,2,Red,True,False,True,True,b'Jack Wang',0.13
-Kindled Fury,Instant,None,Dragons of Tarkir,Common,1,Red,True,False,True,True,b'Dan Scott',0.04
-Kolaghan Aspirant,Creature,Human Warrior,Dragons of Tarkir,Common,2,Red,True,False,True,True,b'Aaron Miller',0.02
-Kolaghan Forerunners,Creature,Human Berserker,Dragons of Tarkir,Uncommon,3,Red,True,False,True,True,b'Jason A. Engle',0.09
-Kolaghan Stormsinger,Creature,Human Shaman,Dragons of Tarkir,Common,1,Red,True,False,True,True,b'Scott Murphy',0.05
-Lightning Berserker,Creature,Human Berserker,Dragons of Tarkir,Uncommon,1,Red,True,False,True,True,b'Joseph Meehan',0.1
-Lose Calm,Sorcery,None,Dragons of Tarkir,Common,4,Red,True,False,True,True,b'Jason A. Engle',0.08
-Magmatic Chasm,Sorcery,None,Dragons of Tarkir,Common,2,Red,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.07
-Qal Sisma Behemoth,Creature,Ogre Warrior,Dragons of Tarkir,Uncommon,3,Red,True,False,True,True,b'Evan Shipard',0.04
-Rending Volley,Instant,None,Dragons of Tarkir,Uncommon,1,Red,True,False,True,True,b'Lucas Graciano',0.24
-Roast,Sorcery,None,Dragons of Tarkir,Uncommon,2,Red,True,False,True,True,b'Zoltan Boros',0.25
-Sabertooth Outrider,Creature,Human Warrior,Dragons of Tarkir,Common,4,Red,True,False,True,True,b'Winona Nelson',0.02
-Sarkhan's Rage,Instant,None,Dragons of Tarkir,Common,5,Red,True,False,True,True,b'Chris Rahn',0.08
-Sarkhan's Triumph,Instant,None,Dragons of Tarkir,Uncommon,3,Red,True,False,True,True,b'Chris Rahn',0.61
-Screamreach Brawler,Creature,Orc Berserker,Dragons of Tarkir,Common,3,Red,True,False,True,True,b'Slawomir Maniak',0.05
-Seismic Rupture,Sorcery,None,Dragons of Tarkir,Uncommon,3,Red,True,False,True,True,b'Jason A. Engle',0.1
-Sprinting Warbrute,Creature,Ogre Berserker,Dragons of Tarkir,Common,5,Red,True,False,True,True,b'Lake Hurwitz',0.07
-Stormcrag Elemental,Creature,Elemental,Dragons of Tarkir,Uncommon,6,Red,True,False,True,True,b'Ralph Horsley',0.03
-Stormwing Dragon,Creature,Dragon,Dragons of Tarkir,Uncommon,6,Red,True,False,True,True,b'Svetlin Velinov',0.12
-Summit Prowler,Creature,Yeti,Dragons of Tarkir,Common,4,Red,True,False,True,True,b'Filip Burburan',0.02
-Tail Slash,Instant,None,Dragons of Tarkir,Common,3,Red,True,False,True,True,b'Efrem Palacios',0.05
-Thunderbreak Regent,Creature,Dragon,Dragons of Tarkir,Rare,4,Red,True,False,True,True,b'Ryan Pancoast',1.96
-Tormenting Voice,Sorcery,None,Dragons of Tarkir,Common,2,Red,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.1
-Twin Bolt,Instant,None,Dragons of Tarkir,Common,2,Red,True,False,True,True,b'Svetlin Velinov',0.07
-Vandalize,Sorcery,None,Dragons of Tarkir,Common,5,Red,True,False,True,True,b'Ryan Barger',0.02
-Volcanic Rush,Instant,None,Dragons of Tarkir,Common,5,Red,True,False,True,True,b'Ryan Barger',0.02
-Volcanic Vision,Sorcery,None,Dragons of Tarkir,Rare,7,Red,True,False,True,True,b'Noah Bradley',0.31
-Warbringer,Creature,Orc Berserker,Dragons of Tarkir,Uncommon,4,Red,True,False,True,True,b'Raymond Swanland',0.1
-Zurgo Bellstriker,Legendary Creature,Orc Warrior,Dragons of Tarkir,Rare,1,Red,True,False,True,True,b'Jason Rainville',0.51
-Aerie Bowmasters,Creature,Hound Archer,Dragons of Tarkir,Common,4,Green,True,False,True,True,b'Matt Stewart',0.07
-Ainok Artillerist,Creature,Hound Archer,Dragons of Tarkir,Common,3,Green,True,False,True,True,b'James Paick',0.04
-Ainok Survivalist,Creature,Hound Shaman,Dragons of Tarkir,Uncommon,2,Green,True,False,True,True,b'Craig J Spearing',0.11
-Assault Formation,Enchantment,None,Dragons of Tarkir,Rare,2,Green,True,False,True,True,b'Kieran Yanner',0.77
-Atarka Beastbreaker,Creature,Human Warrior,Dragons of Tarkir,Common,2,Green,True,False,True,True,b'Johannes Voss',0.03
-Avatar of the Resolute,Creature,Avatar,Dragons of Tarkir,Rare,2,Green,True,False,True,True,b'Jeff Simpson',1.2
-Circle of Elders,Creature,Human Shaman,Dragons of Tarkir,Uncommon,4,Green,True,False,True,True,b'Jakub Kasper',0.06
-Collected Company,Instant,None,Dragons of Tarkir,Rare,4,Green,True,False,True,True,b'Franz Vohwinkel',16.15
-Colossodon Yearling,Creature,Beast,Dragons of Tarkir,Common,3,Green,True,False,True,True,b'Yeong-Hao Han',0.05
-Conifer Strider,Creature,Elemental,Dragons of Tarkir,Common,4,Green,True,False,True,True,b'YW Tang',0.08
-Deathmist Raptor,Creature,Dinosaur Beast,Dragons of Tarkir,Mythic Rare,3,Green,True,False,True,True,b'Filip Burburan',0.93
-Den Protector,Creature,Human Warrior,Dragons of Tarkir,Rare,2,Green,True,False,True,True,b'Viktor Titov',0.47
-Display of Dominance,Instant,None,Dragons of Tarkir,Uncommon,2,Green,True,False,True,True,b'Tomasz Jedruszek',0.18
-Dragon-Scarred Bear,Creature,Bear,Dragons of Tarkir,Common,3,Green,True,False,True,True,b'Lars Grant-West',0.13
-Dromoka's Gift,Instant,None,Dragons of Tarkir,Uncommon,5,Green,True,False,True,True,b'Winona Nelson',0.09
-Epic Confrontation,Sorcery,None,Dragons of Tarkir,Common,2,Green,True,False,True,True,b'Wayne Reynolds',0.1
-Explosive Vegetation,Sorcery,None,Dragons of Tarkir,Uncommon,4,Green,True,False,True,True,b'Florian de Gesincourt',1.09
-Foe-Razer Regent,Creature,Dragon,Dragons of Tarkir,Rare,7,Green,True,False,True,True,b'Lucas Graciano',0.28
-Glade Watcher,Creature,Elemental,Dragons of Tarkir,Common,2,Green,True,False,True,True,b'Jesper Ejsing',0.07
-Guardian Shield-Bearer,Creature,Human Soldier,Dragons of Tarkir,Common,2,Green,True,False,True,True,b'Lindsey Look',0.04
-Herdchaser Dragon,Creature,Dragon,Dragons of Tarkir,Uncommon,6,Green,True,False,True,True,b'Seb McKinnon',0.14
-Inspiring Call,Instant,None,Dragons of Tarkir,Uncommon,3,Green,True,False,True,True,b'Dan Scott',0.42
-Lurking Arynx,Creature,Cat Beast,Dragons of Tarkir,Uncommon,5,Green,True,False,True,True,b'Carl Frank',0.05
-Naturalize,Instant,None,Dragons of Tarkir,Common,2,Green,True,False,True,True,b'James Paick',0.08
-Obscuring Aether,Enchantment,None,Dragons of Tarkir,Rare,1,Green,True,False,True,True,b'Min Yum',0.41
-Pinion Feast,Instant,None,Dragons of Tarkir,Common,5,Green,True,False,True,True,b'Ryan Barger',0.04
-Press the Advantage,Instant,None,Dragons of Tarkir,Uncommon,4,Green,True,False,True,True,b'Marco Nelor',0.04
-Revealing Wind,Instant,None,Dragons of Tarkir,Common,3,Green,True,False,True,True,b'Phill Simmer',0.08
-Salt Road Ambushers,Creature,Hound Warrior,Dragons of Tarkir,Uncommon,4,Green,True,False,True,True,b'Joseph Meehan',0.18
-Salt Road Quartermasters,Creature,Human Soldier,Dragons of Tarkir,Uncommon,3,Green,True,False,True,True,b'Anthony Palumbo',0.07
-Sandsteppe Scavenger,Creature,Hound Scout,Dragons of Tarkir,Common,5,Green,True,False,True,True,b'Kieran Yanner',0.11
-Scaleguard Sentinels,Creature,Human Soldier,Dragons of Tarkir,Uncommon,2,Green,True,False,True,True,b'Matt Stewart',0.05
-Segmented Krotiq,Creature,Insect,Dragons of Tarkir,Common,6,Green,True,False,True,True,b'Christopher Moeller',0.04
-Servant of the Scale,Creature,Human Soldier,Dragons of Tarkir,Common,1,Green,True,False,True,True,b'Winona Nelson',0.16
-Shaman of Forgotten Ways,Creature,Human Shaman,Dragons of Tarkir,Mythic Rare,3,Green,True,False,True,True,b'Tyler Jacobson',4.67
-Shape the Sands,Instant,None,Dragons of Tarkir,Common,1,Green,True,False,True,True,b'Ryan Yee',0.07
-Sheltered Aerie,Enchantment,Aura,Dragons of Tarkir,Common,3,Green,True,False,True,True,b'Raoul Vitale',0.09
-Sight of the Scalelords,Enchantment,None,Dragons of Tarkir,Uncommon,5,Green,True,False,True,True,b'Marc Simonetti',0.24
-Stampeding Elk Herd,Creature,Elk,Dragons of Tarkir,Common,5,Green,True,False,True,True,b'Carl Frank',0.07
-Sunbringer's Touch,Sorcery,None,Dragons of Tarkir,Rare,4,Green,True,False,True,True,b'Lucas Graciano',0.12
-"Surrak, the Hunt Caller",Legendary Creature,Human Warrior,Dragons of Tarkir,Rare,4,Green,True,False,True,True,b'Wesley Burt',1.01
-Tread Upon,Instant,None,Dragons of Tarkir,Common,2,Green,True,False,True,True,b'Efrem Palacios',0.04
-Arashin Sovereign,Creature,Dragon,Dragons of Tarkir,Rare,7,Gold,True,False,True,True,b'Dan Scott',0.21
-Atarka's Command,Instant,None,Dragons of Tarkir,Rare,2,Gold,True,False,True,True,b'Chris Rahn',2.57
-Boltwing Marauder,Creature,Dragon,Dragons of Tarkir,Rare,5,Gold,True,False,True,True,b'Raymond Swanland',0.22
-Cunning Breezedancer,Creature,Dragon,Dragons of Tarkir,Uncommon,6,Gold,True,False,True,True,b'Todd Lockwood',0.1
-Dragonlord Atarka,Legendary Creature,Elder Dragon,Dragons of Tarkir,Mythic Rare,7,Gold,True,False,True,True,b'Karl Kopinski',6.73
-Dragonlord Dromoka,Legendary Creature,Elder Dragon,Dragons of Tarkir,Mythic Rare,6,Gold,True,False,True,True,b'Eric Deschamps',13.54
-Dragonlord Kolaghan,Legendary Creature,Elder Dragon,Dragons of Tarkir,Mythic Rare,6,Gold,True,False,True,True,b'Jaime Jones',4.76
-Dragonlord Ojutai,Legendary Creature,Elder Dragon,Dragons of Tarkir,Mythic Rare,5,Gold,True,False,True,True,b'Chase Stone',6.42
-Dragonlord Silumgar,Legendary Creature,Elder Dragon,Dragons of Tarkir,Mythic Rare,6,Gold,True,False,True,True,b'Steven Belledin',9.73
-Dromoka's Command,Instant,None,Dragons of Tarkir,Rare,2,Gold,True,False,True,True,b'James Ryman',1.77
-Enduring Scalelord,Creature,Dragon,Dragons of Tarkir,Uncommon,6,Gold,True,False,True,True,b'Clint Cearley',0.12
-Harbinger of the Hunt,Creature,Dragon,Dragons of Tarkir,Rare,5,Gold,True,False,True,True,b'Aaron Miller',0.34
-Kolaghan's Command,Instant,None,Dragons of Tarkir,Rare,3,Gold,True,False,True,True,b'Daarken',8.97
-Narset Transcendent,Legendary Planeswalker,Narset,Dragons of Tarkir,Mythic Rare,4,Gold,True,False,True,True,b'Magali Villeneuve',7.96
-Necromaster Dragon,Creature,Dragon,Dragons of Tarkir,Rare,5,Gold,True,False,True,True,b'Mark Zug',0.33
-Ojutai's Command,Instant,None,Dragons of Tarkir,Rare,4,Gold,True,False,True,True,b'Willian Murai',0.44
-Pristine Skywise,Creature,Dragon,Dragons of Tarkir,Rare,6,Gold,True,False,True,True,b'Adam Paquette',0.13
-Ruthless Deathfang,Creature,Dragon,Dragons of Tarkir,Uncommon,6,Gold,True,False,True,True,b'Filip Burburan',0.16
-Sarkhan Unbroken,Legendary Planeswalker,Sarkhan,Dragons of Tarkir,Mythic Rare,5,Gold,True,False,True,True,b'Aleksi Briclot',5.6
-Savage Ventmaw,Creature,Dragon,Dragons of Tarkir,Uncommon,6,Gold,True,False,True,True,b'Slawomir Maniak',0.25
-Silumgar's Command,Instant,None,Dragons of Tarkir,Rare,5,Gold,True,False,True,True,b'Nils Hamm',0.29
-Swift Warkite,Creature,Dragon,Dragons of Tarkir,Uncommon,6,Gold,True,False,True,True,b'Izzy',0.21
-Ancestral Statue,Artifact Creature,Golem,Dragons of Tarkir,Common,4,Colorless,True,False,True,True,b'Tomasz Jedruszek',0.18
-Atarka Monument,Artifact,None,Dragons of Tarkir,Uncommon,3,Colorless,True,False,True,True,b'Daniel Ljunggren',0.14
-Custodian of the Trove,Artifact Creature,Golem,Dragons of Tarkir,Common,3,Colorless,True,False,True,True,b'Raoul Vitale',0.03
-Dragonloft Idol,Artifact Creature,Gargoyle,Dragons of Tarkir,Uncommon,4,Colorless,True,False,True,True,b'Jung Park',0.09
-Dromoka Monument,Artifact,None,Dragons of Tarkir,Uncommon,3,Colorless,True,False,True,True,b'Daniel Ljunggren',0.12
-Gate Smasher,Artifact,Equipment,Dragons of Tarkir,Uncommon,3,Colorless,True,False,True,True,b'Filip Burburan',0.09
-Keeper of the Lens,Artifact Creature,Golem,Dragons of Tarkir,Common,1,Colorless,True,False,True,True,b'Ryan Barger',0.05
-Kolaghan Monument,Artifact,None,Dragons of Tarkir,Uncommon,3,Colorless,True,False,True,True,b'Daniel Ljunggren',0.14
-Ojutai Monument,Artifact,None,Dragons of Tarkir,Uncommon,3,Colorless,True,False,True,True,b'Daniel Ljunggren',0.15
-Silumgar Monument,Artifact,None,Dragons of Tarkir,Uncommon,3,Colorless,True,False,True,True,b'Daniel Ljunggren',0.15
-Spidersilk Net,Artifact,Equipment,Dragons of Tarkir,Common,0,Colorless,True,False,True,True,b'Steve Argyle',0.12
-Stormrider Rig,Artifact,Equipment,Dragons of Tarkir,Uncommon,2,Colorless,True,False,True,True,b'Min Yum',0.12
-Tapestry of the Ages,Artifact,None,Dragons of Tarkir,Uncommon,4,Colorless,True,False,True,True,b'Yeong-Hao Han',0.06
-Vial of Dragonfire,Artifact,None,Dragons of Tarkir,Common,2,Colorless,True,True,True,True,b'Franz Vohwinkel',0.06
-Evolving Wilds,Land,None,Dragons of Tarkir,Common,0,Colorless,True,True,True,True,b'Andreas Rocha',0.12
-Haven of the Spirit Dragon,Land,None,Dragons of Tarkir,Rare,0,Colorless,True,False,True,True,b'Raymond Swanland',1.78
-Plains,Basic Land,Plains,Dragons of Tarkir,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.12
-Plains,Basic Land,Plains,Dragons of Tarkir,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.13
-Plains,Basic Land,Plains,Dragons of Tarkir,Common,0,Colorless,True,True,True,True,b'Florian de Gesincourt',0.14
-Island,Basic Land,Island,Dragons of Tarkir,Common,0,Colorless,True,True,True,True,b'Florian de Gesincourt',0.19
-Island,Basic Land,Island,Dragons of Tarkir,Common,0,Colorless,True,True,True,True,b'Florian de Gesincourt',0.16
-Island,Basic Land,Island,Dragons of Tarkir,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.14
-Swamp,Basic Land,Swamp,Dragons of Tarkir,Common,0,Colorless,True,True,True,True,b'Noah Bradley',0.18
-Swamp,Basic Land,Swamp,Dragons of Tarkir,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.13
-Swamp,Basic Land,Swamp,Dragons of Tarkir,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.16
-Mountain,Basic Land,Mountain,Dragons of Tarkir,Common,0,Colorless,True,True,True,True,b'Noah Bradley',0.12
-Mountain,Basic Land,Mountain,Dragons of Tarkir,Common,0,Colorless,True,True,True,True,b'Noah Bradley',0.13
-Mountain,Basic Land,Mountain,Dragons of Tarkir,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.23
-Forest,Basic Land,Forest,Dragons of Tarkir,Common,0,Colorless,True,True,True,True,b'Sam Burley',0.1
-Forest,Basic Land,Forest,Dragons of Tarkir,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.11
-Forest,Basic Land,Forest,Dragons of Tarkir,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.17
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Scion of Ugin,Creature,Dragon Spirit,Dragons of Tarkir,Uncommon,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Cliff Childs',0.11,False
+Anafenza Kin-Tree Spirit,Creature,Spirit Soldier,Dragons of Tarkir,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Yee',1.45,True
+Arashin Foremost,Creature,Human Warrior,Dragons of Tarkir,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'David Palumbo',0.34,False
+Artful Maneuver,Instant,None,Dragons of Tarkir,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.09,False
+Aven Sunstriker,Creature,Bird Warrior,Dragons of Tarkir,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'John Severin Brassell',0.12,False
+Aven Tactician,Creature,Bird Soldier,Dragons of Tarkir,Common,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.04,False
+Battle Mastery,Enchantment,Aura,Dragons of Tarkir,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Viktor Titov',0.16,False
+Center Soul,Instant,None,Dragons of Tarkir,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.12,False
+Champion of Arashin,Creature,Dog Warrior,Dragons of Tarkir,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Joseph Meehan',0.05,False
+Dragon Hunter,Creature,Human Warrior,Dragons of Tarkir,Uncommon,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Johannes Voss',0.14,False
+Dragon's Eye Sentry,Creature,Human Monk,Dragons of Tarkir,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Anastasia Ovchinnikova',0.1,False
+Dromoka Captain,Creature,Human Soldier,Dragons of Tarkir,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.08,False
+Dromoka Dunecaster,Creature,Human Wizard,Dragons of Tarkir,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Winters',0.04,False
+Dromoka Warrior,Creature,Human Warrior,Dragons of Tarkir,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Zack Stella',0.04,False
+Echoes of the Kin Tree,Enchantment,None,Dragons of Tarkir,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Alexander Lee',0.1,False
+Enduring Victory,Instant,None,Dragons of Tarkir,Common,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Sass',0.04,False
+Fate Forgotten,Instant,None,Dragons of Tarkir,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Cliff Childs',0.12,False
+Glaring Aegis,Enchantment,Aura,Dragons of Tarkir,Common,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Anthony Palumbo',0.09,False
+Gleam of Authority,Enchantment,Aura,Dragons of Tarkir,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jakub Kasper',0.23,False
+Graceblade Artisan,Creature,Human Monk,Dragons of Tarkir,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Magali Villeneuve',0.14,False
+Great Teacher's Decree,Sorcery,None,Dragons of Tarkir,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.1,False
+Herald of Dromoka,Creature,Human Warrior,Dragons of Tarkir,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Zack Stella',0.17,False
+Hidden Dragonslayer,Creature,Human Warrior,Dragons of Tarkir,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Anastasia Ovchinnikova',0.2,False
+Lightwalker,Creature,Human Warrior,Dragons of Tarkir,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Winona Nelson',0.03,False
+Misthoof Kirin,Creature,Kirin,Dragons of Tarkir,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Barger',0.04,False
+Myth Realized,Enchantment,None,Dragons of Tarkir,Rare,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Rainville',0.4,False
+Ojutai Exemplars,Creature,Human Monk,Dragons of Tarkir,Mythic Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Willian Murai',0.5,False
+Orator of Ojutai,Creature,Bird Monk,Dragons of Tarkir,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Zack Stella',0.17,False
+Pacifism,Enchantment,Aura,Dragons of Tarkir,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Mark Zug',0.06,False
+Profound Journey,Sorcery,None,Dragons of Tarkir,Rare,7,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.2,False
+Radiant Purge,Instant,None,Dragons of Tarkir,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.2,False
+Resupply,Instant,None,Dragons of Tarkir,Common,6,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Filip Burburan',0.04,False
+Sandcrafter Mage,Creature,Human Wizard,Dragons of Tarkir,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Willian Murai',0.06,False
+Sandstorm Charger,Creature,Beast,Dragons of Tarkir,Common,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Kendall',0.03,False
+Scale Blessing,Instant,None,Dragons of Tarkir,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.11,False
+Secure the Wastes,Instant,None,Dragons of Tarkir,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Murphy',3.07,False
+Shieldhide Dragon,Creature,Dragon,Dragons of Tarkir,Uncommon,6,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rallis',0.15,False
+Silkwrap,Enchantment,None,Dragons of Tarkir,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'David Gaillet',0.11,False
+Strongarm Monk,Creature,Human Monk,Dragons of Tarkir,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Viktor Titov',0.13,False
+Student of Ojutai,Creature,Human Monk,Dragons of Tarkir,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason A. Engle',0.06,False
+Sunscorch Regent,Creature,Dragon,Dragons of Tarkir,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',1.4,False
+Surge of Righteousness,Instant,None,Dragons of Tarkir,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Marco Nelor',0.19,False
+Territorial Roc,Creature,Bird,Dragons of Tarkir,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'YW Tang',0.02,False
+Ancient Carp,Creature,Fish,Dragons of Tarkir,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Burdett',0.05,False
+Anticipate,Instant,None,Dragons of Tarkir,Common,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Lake Hurwitz',0.12,False
+Belltoll Dragon,Creature,Dragon,Dragons of Tarkir,Uncommon,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Zack Stella',0.13,False
+Blessed Reincarnation,Instant,None,Dragons of Tarkir,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.11,False
+Clone Legion,Sorcery,None,Dragons of Tarkir,Mythic Rare,9,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',1.16,False
+Contradict,Instant,None,Dragons of Tarkir,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.08,False
+Dance of the Skywise,Instant,None,Dragons of Tarkir,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jack Wang',0.11,False
+Dirgur Nemesis,Creature,Serpent,Dragons of Tarkir,Common,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mathias Kollros',0.04,False
+Dragonlord's Prerogative,Instant,None,Dragons of Tarkir,Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Seb McKinnon',0.21,False
+Elusive Spellfist,Creature,Human Monk,Dragons of Tarkir,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Viktor Titov',0.09,False
+Encase in Ice,Enchantment,Aura,Dragons of Tarkir,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mathias Kollros',0.09,False
+Glint,Instant,None,Dragons of Tarkir,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.09,False
+Gudul Lurker,Creature,Salamander,Dragons of Tarkir,Uncommon,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Burdett',0.59,False
+Gurmag Drowner,Creature,Naga Wizard,Dragons of Tarkir,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Lake Hurwitz',0.06,False
+Icefall Regent,Creature,Dragon,Dragons of Tarkir,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'David Gaillet',0.37,False
+Illusory Gains,Enchantment,Aura,Dragons of Tarkir,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.2,False
+Learn from the Past,Instant,None,Dragons of Tarkir,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Chase Stone',0.14,False
+Living Lore,Creature,Avatar,Dragons of Tarkir,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Felix',0.15,False
+Mirror Mockery,Enchantment,Aura,Dragons of Tarkir,Rare,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Alexander Lee',0.35,False
+Monastery Loremaster,Creature,Djinn Wizard,Dragons of Tarkir,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Alexander Lee',0.08,False
+Mystic Meditation,Sorcery,None,Dragons of Tarkir,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Howard Lyon',0.06,False
+Negate,Instant,None,Dragons of Tarkir,Common,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Willian Murai',0.09,False
+Ojutai Interceptor,Creature,Bird Soldier,Dragons of Tarkir,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Johann Bodin',0.03,False
+Ojutai's Breath,Instant,None,Dragons of Tarkir,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.05,False
+Ojutai's Summons,Sorcery,None,Dragons of Tarkir,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jakub Kasper',0.06,False
+Palace Familiar,Creature,Bird,Dragons of Tarkir,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.07,False
+Profaner of the Dead,Creature,Naga Wizard,Dragons of Tarkir,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Vincent Proce',0.25,False
+Qarsi Deceiver,Creature,Naga Wizard,Dragons of Tarkir,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.15,False
+Reduce in Stature,Enchantment,Aura,Dragons of Tarkir,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.07,False
+Shorecrasher Elemental,Creature,Elemental,Dragons of Tarkir,Mythic Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.49,False
+Sidisi's Faithful,Creature,Naga Wizard,Dragons of Tarkir,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Lius Lasahido',0.19,False
+Sight Beyond Sight,Sorcery,None,Dragons of Tarkir,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Anastasia Ovchinnikova',0.07,False
+Silumgar Sorcerer,Creature,Human Wizard,Dragons of Tarkir,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Simpson',0.15,False
+Silumgar Spell-Eater,Creature,Naga Wizard,Dragons of Tarkir,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Kendall',0.15,False
+Silumgar's Scorn,Instant,None,Dragons of Tarkir,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Yee',0.2,False
+Skywise Teachings,Enchantment,None,Dragons of Tarkir,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Filip Burburan',0.09,False
+Stratus Dancer,Creature,Djinn Monk,Dragons of Tarkir,Rare,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Anastasia Ovchinnikova',0.24,False
+Taigam's Strike,Sorcery,None,Dragons of Tarkir,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'David Gaillet',0.07,False
+Updraft Elemental,Creature,Elemental,Dragons of Tarkir,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Raf Sarmento',0.06,False
+Void Squall,Sorcery,None,Dragons of Tarkir,Uncommon,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'James Paick',0.07,False
+Youthful Scholar,Creature,Human Wizard,Dragons of Tarkir,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Cynthia Sheppard',0.06,False
+Zephyr Scribe,Creature,Human Monk,Dragons of Tarkir,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Lius Lasahido',0.08,False
+Acid-Spewer Dragon,Creature,Dragon,Dragons of Tarkir,Uncommon,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'James Zapata',0.14,False
+Ambuscade Shaman,Creature,Orc Shaman,Dragons of Tarkir,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony Palumbo',0.11,False
+Blood-Chin Fanatic,Creature,Orc Warrior,Dragons of Tarkir,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'David Palumbo',0.21,False
+Blood-Chin Rager,Creature,Human Warrior,Dragons of Tarkir,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.26,False
+Butcher's Glee,Instant,None,Dragons of Tarkir,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.1,False
+Coat with Venom,Instant,None,Dragons of Tarkir,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Johann Bodin',0.13,False
+Corpseweft,Enchantment,None,Dragons of Tarkir,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.15,False
+Damnable Pact,Sorcery,None,Dragons of Tarkir,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Zack Stella',0.29,False
+Deadly Wanderings,Enchantment,None,Dragons of Tarkir,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'David Palumbo',0.1,False
+Death Wind,Instant,None,Dragons of Tarkir,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.11,False
+Deathbringer Regent,Creature,Dragon,Dragons of Tarkir,Rare,7,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.29,False
+Defeat,Sorcery,None,Dragons of Tarkir,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Kendall',0.09,False
+Duress,Sorcery,None,Dragons of Tarkir,Common,1,Black,Legal,Legal,Legal,Legal,Legal,True,b'Jason Rainville',0.12,False
+Dutiful Attendant,Creature,Human Warrior,Dragons of Tarkir,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Aaron Miller',0.14,False
+Flatten,Instant,None,Dragons of Tarkir,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Raoul Vitale',0.03,False
+Foul Renewal,Instant,None,Dragons of Tarkir,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Filip Burburan',0.18,False
+Foul-Tongue Invocation,Instant,None,Dragons of Tarkir,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.13,False
+Foul-Tongue Shriek,Instant,None,Dragons of Tarkir,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Kendall',0.11,False
+Gravepurge,Instant,None,Dragons of Tarkir,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.13,False
+Hand of Silumgar,Creature,Human Warrior,Dragons of Tarkir,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Lius Lasahido',0.06,False
+Hedonist's Trove,Enchantment,None,Dragons of Tarkir,Rare,7,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Peter Mohrbacher',0.2,False
+Kolaghan Skirmisher,Creature,Human Warrior,Dragons of Tarkir,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony Palumbo',0.03,False
+Marang River Skeleton,Creature,Skeleton,Dragons of Tarkir,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jack Wang',0.1,False
+Marsh Hulk,Creature,Zombie Ogre,Dragons of Tarkir,Common,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Raf Sarmento',0.19,False
+Mind Rot,Sorcery,None,Dragons of Tarkir,Common,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Clint Cearley',0.14,False
+Minister of Pain,Creature,Human Shaman,Dragons of Tarkir,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.11,False
+Pitiless Horde,Creature,Orc Berserker,Dragons of Tarkir,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Viktor Titov',0.14,False
+Qarsi Sadist,Creature,Human Cleric,Dragons of Tarkir,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',0.07,False
+Rakshasa Gravecaller,Creature,Cat Demon,Dragons of Tarkir,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jakub Kasper',0.15,False
+Reckless Imp,Creature,Imp,Dragons of Tarkir,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Torstein Nordstrand',0.05,False
+Risen Executioner,Creature,Zombie Warrior,Dragons of Tarkir,Mythic Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Craig J Spearing',1.82,False
+Self-Inflicted Wound,Sorcery,None,Dragons of Tarkir,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Mathias Kollros',0.21,False
+Shambling Goblin,Creature,Zombie Goblin,Dragons of Tarkir,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Yeong-Hao Han',0.08,False
+Sibsig Icebreakers,Creature,Zombie,Dragons of Tarkir,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.07,False
+Sidisi Undead Vizier,Creature,Zombie Naga,Dragons of Tarkir,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Min Yum',8.43,True
+Silumgar Assassin,Creature,Human Assassin,Dragons of Tarkir,Rare,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Yohann Schepacz',0.15,False
+Silumgar Butcher,Creature,Zombie Djinn,Dragons of Tarkir,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Kendall',0.06,False
+Ukud Cobra,Creature,Snake,Dragons of Tarkir,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Johann Bodin',0.12,False
+Ultimate Price,Instant,None,Dragons of Tarkir,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jack Wang',0.15,False
+Virulent Plague,Enchantment,None,Dragons of Tarkir,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Johann Bodin',0.2,False
+Vulturous Aven,Creature,Bird Shaman,Dragons of Tarkir,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.11,False
+Wandering Tombshell,Creature,Zombie Turtle,Dragons of Tarkir,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Yeong-Hao Han',0.06,False
+Atarka Efreet,Creature,Efreet Shaman,Dragons of Tarkir,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.07,False
+Atarka Pummeler,Creature,Ogre Warrior,Dragons of Tarkir,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Lucas Graciano',0.05,False
+Berserkers' Onslaught,Enchantment,None,Dragons of Tarkir,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',1.1,False
+Commune with Lava,Instant,None,Dragons of Tarkir,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Barger',0.28,False
+Crater Elemental,Creature,Elemental,Dragons of Tarkir,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.14,False
+Descent of the Dragons,Sorcery,None,Dragons of Tarkir,Mythic Rare,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',2.03,False
+Draconic Roar,Instant,None,Dragons of Tarkir,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.22,False
+Dragon Fodder,Sorcery,None,Dragons of Tarkir,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',0.13,False
+Dragon Tempest,Enchantment,None,Dragons of Tarkir,Rare,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Willian Murai',1.41,False
+Dragon Whisperer,Creature,Human Shaman,Dragons of Tarkir,Mythic Rare,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rallis',0.83,False
+Dragonlord's Servant,Creature,Goblin Shaman,Dragons of Tarkir,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.28,False
+Hardened Berserker,Creature,Human Berserker,Dragons of Tarkir,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Viktor Titov',0.04,False
+Impact Tremors,Enchantment,None,Dragons of Tarkir,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Lake Hurwitz',1.39,False
+Ire Shaman,Creature,Orc Shaman,Dragons of Tarkir,Rare,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jack Wang',0.14,False
+Kindled Fury,Instant,None,Dragons of Tarkir,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.04,False
+Kolaghan Aspirant,Creature,Human Warrior,Dragons of Tarkir,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Aaron Miller',0.05,False
+Kolaghan Forerunners,Creature,Human Berserker,Dragons of Tarkir,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason A. Engle',0.09,False
+Kolaghan Stormsinger,Creature,Human Shaman,Dragons of Tarkir,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Murphy',0.06,False
+Lightning Berserker,Creature,Human Berserker,Dragons of Tarkir,Uncommon,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Joseph Meehan',0.11,False
+Lose Calm,Sorcery,None,Dragons of Tarkir,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason A. Engle',0.09,False
+Magmatic Chasm,Sorcery,None,Dragons of Tarkir,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',0.06,False
+Qal Sisma Behemoth,Creature,Ogre Warrior,Dragons of Tarkir,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Evan Shipard',0.06,False
+Rending Volley,Instant,None,Dragons of Tarkir,Uncommon,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Lucas Graciano',0.22,False
+Roast,Sorcery,None,Dragons of Tarkir,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.24,False
+Sabertooth Outrider,Creature,Human Warrior,Dragons of Tarkir,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Winona Nelson',0.03,False
+Sarkhan's Rage,Instant,None,Dragons of Tarkir,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.08,False
+Sarkhan's Triumph,Instant,None,Dragons of Tarkir,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.58,False
+Screamreach Brawler,Creature,Orc Berserker,Dragons of Tarkir,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',0.05,False
+Seismic Rupture,Sorcery,None,Dragons of Tarkir,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason A. Engle',0.13,False
+Sprinting Warbrute,Creature,Ogre Berserker,Dragons of Tarkir,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Lake Hurwitz',0.09,False
+Stormcrag Elemental,Creature,Elemental,Dragons of Tarkir,Uncommon,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ralph Horsley',0.05,False
+Stormwing Dragon,Creature,Dragon,Dragons of Tarkir,Uncommon,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.12,False
+Summit Prowler,Creature,Yeti,Dragons of Tarkir,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Filip Burburan',0.02,False
+Tail Slash,Instant,None,Dragons of Tarkir,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Efrem Palacios',0.04,False
+Thunderbreak Regent,Creature,Dragon,Dragons of Tarkir,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Pancoast',2.09,False
+Tormenting Voice,Sorcery,None,Dragons of Tarkir,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',0.1,False
+Twin Bolt,Instant,None,Dragons of Tarkir,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.07,False
+Vandalize,Sorcery,None,Dragons of Tarkir,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Barger',0.03,False
+Volcanic Rush,Instant,None,Dragons of Tarkir,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Barger',0.08,False
+Volcanic Vision,Sorcery,None,Dragons of Tarkir,Rare,7,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Noah Bradley',0.32,False
+Warbringer,Creature,Orc Berserker,Dragons of Tarkir,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.1,False
+Zurgo Bellstriker,Creature,Orc Warrior,Dragons of Tarkir,Rare,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Rainville',0.58,True
+Aerie Bowmasters,Creature,Dog Archer,Dragons of Tarkir,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.09,False
+Ainok Artillerist,Creature,Dog Archer,Dragons of Tarkir,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'James Paick',0.05,False
+Ainok Survivalist,Creature,Dog Shaman,Dragons of Tarkir,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Craig J Spearing',0.12,False
+Assault Formation,Enchantment,None,Dragons of Tarkir,Rare,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Kieran Yanner',0.71,False
+Atarka Beastbreaker,Creature,Human Warrior,Dragons of Tarkir,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Johannes Voss',0.03,False
+Avatar of the Resolute,Creature,Avatar,Dragons of Tarkir,Rare,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Simpson',1.43,False
+Circle of Elders,Creature,Human Shaman,Dragons of Tarkir,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jakub Kasper',0.09,False
+Collected Company,Instant,None,Dragons of Tarkir,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',15.13,False
+Colossodon Yearling,Creature,Beast,Dragons of Tarkir,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Yeong-Hao Han',0.06,False
+Conifer Strider,Creature,Elemental,Dragons of Tarkir,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'YW Tang',0.1,False
+Deathmist Raptor,Creature,Dinosaur Beast,Dragons of Tarkir,Mythic Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Filip Burburan',0.77,False
+Den Protector,Creature,Human Warrior,Dragons of Tarkir,Rare,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Viktor Titov',0.49,False
+Display of Dominance,Instant,None,Dragons of Tarkir,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.17,False
+Dragon-Scarred Bear,Creature,Bear,Dragons of Tarkir,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.16,False
+Dromoka's Gift,Instant,None,Dragons of Tarkir,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Winona Nelson',0.1,False
+Epic Confrontation,Sorcery,None,Dragons of Tarkir,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.09,False
+Explosive Vegetation,Sorcery,None,Dragons of Tarkir,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Florian de Gesincourt',1.05,False
+Foe-Razer Regent,Creature,Dragon,Dragons of Tarkir,Rare,7,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Lucas Graciano',0.29,False
+Glade Watcher,Creature,Elemental,Dragons of Tarkir,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.07,False
+Guardian Shield-Bearer,Creature,Human Soldier,Dragons of Tarkir,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Lindsey Look',0.07,False
+Herdchaser Dragon,Creature,Dragon,Dragons of Tarkir,Uncommon,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Seb McKinnon',0.16,False
+Inspiring Call,Instant,None,Dragons of Tarkir,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.49,False
+Lurking Arynx,Creature,Cat Beast,Dragons of Tarkir,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Frank',0.06,False
+Naturalize,Instant,None,Dragons of Tarkir,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'James Paick',0.09,False
+Obscuring Aether,Enchantment,None,Dragons of Tarkir,Rare,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Min Yum',0.45,False
+Pinion Feast,Instant,None,Dragons of Tarkir,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Barger',0.06,False
+Press the Advantage,Instant,None,Dragons of Tarkir,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Marco Nelor',0.06,False
+Revealing Wind,Instant,None,Dragons of Tarkir,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Phill Simmer',0.12,False
+Salt Road Ambushers,Creature,Dog Warrior,Dragons of Tarkir,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Joseph Meehan',0.29,False
+Salt Road Quartermasters,Creature,Human Soldier,Dragons of Tarkir,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony Palumbo',0.1,False
+Sandsteppe Scavenger,Creature,Dog Scout,Dragons of Tarkir,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Kieran Yanner',0.1,False
+Scaleguard Sentinels,Creature,Human Soldier,Dragons of Tarkir,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.06,False
+Segmented Krotiq,Creature,Insect,Dragons of Tarkir,Common,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.04,False
+Servant of the Scale,Creature,Human Soldier,Dragons of Tarkir,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Winona Nelson',0.17,False
+Shaman of Forgotten Ways,Creature,Human Shaman,Dragons of Tarkir,Mythic Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Tyler Jacobson',5.72,False
+Shape the Sands,Instant,None,Dragons of Tarkir,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Yee',0.08,False
+Sheltered Aerie,Enchantment,Aura,Dragons of Tarkir,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Raoul Vitale',0.12,False
+Sight of the Scalelords,Enchantment,None,Dragons of Tarkir,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Marc Simonetti',0.2,False
+Stampeding Elk Herd,Creature,Elk,Dragons of Tarkir,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Frank',0.09,False
+Sunbringer's Touch,Sorcery,None,Dragons of Tarkir,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Lucas Graciano',0.13,False
+Surrak the Hunt Caller,Creature,Human Warrior,Dragons of Tarkir,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Wesley Burt',0.99,True
+Tread Upon,Instant,None,Dragons of Tarkir,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Efrem Palacios',0.05,False
+Arashin Sovereign,Creature,Dragon,Dragons of Tarkir,Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.19,False
+Atarka's Command,Instant,None,Dragons of Tarkir,Rare,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',2.91,False
+Boltwing Marauder,Creature,Dragon,Dragons of Tarkir,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.28,False
+Cunning Breezedancer,Creature,Dragon,Dragons of Tarkir,Uncommon,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Todd Lockwood',0.11,False
+Dragonlord Atarka,Creature,Elder Dragon,Dragons of Tarkir,Mythic Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',7.4,True
+Dragonlord Dromoka,Creature,Elder Dragon,Dragons of Tarkir,Mythic Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Deschamps',15.06,True
+Dragonlord Kolaghan,Creature,Elder Dragon,Dragons of Tarkir,Mythic Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',6.93,True
+Dragonlord Ojutai,Creature,Elder Dragon,Dragons of Tarkir,Mythic Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Chase Stone',4.09,True
+Dragonlord Silumgar,Creature,Elder Dragon,Dragons of Tarkir,Mythic Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',10.86,True
+Dromoka's Command,Instant,None,Dragons of Tarkir,Rare,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'James Ryman',1.6,False
+Enduring Scalelord,Creature,Dragon,Dragons of Tarkir,Uncommon,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Clint Cearley',0.14,False
+Harbinger of the Hunt,Creature,Dragon,Dragons of Tarkir,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Aaron Miller',0.3,False
+Kolaghan's Command,Instant,None,Dragons of Tarkir,Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',8.44,False
+Narset Transcendent,Planeswalker,Narset,Dragons of Tarkir,Mythic Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Magali Villeneuve',9.3,True
+Necromaster Dragon,Creature,Dragon,Dragons of Tarkir,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.37,False
+Ojutai's Command,Instant,None,Dragons of Tarkir,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Willian Murai',0.55,False
+Pristine Skywise,Creature,Dragon,Dragons of Tarkir,Rare,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.14,False
+Ruthless Deathfang,Creature,Dragon,Dragons of Tarkir,Uncommon,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Filip Burburan',0.15,False
+Sarkhan Unbroken,Planeswalker,Sarkhan,Dragons of Tarkir,Mythic Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',5.99,True
+Savage Ventmaw,Creature,Dragon,Dragons of Tarkir,Uncommon,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',0.31,False
+Silumgar's Command,Instant,None,Dragons of Tarkir,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.26,False
+Swift Warkite,Creature,Dragon,Dragons of Tarkir,Uncommon,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.17,False
+Ancestral Statue,Artifact Creature,Golem,Dragons of Tarkir,Common,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.19,False
+Atarka Monument,Artifact,None,Dragons of Tarkir,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',0.15,False
+Custodian of the Trove,Artifact Creature,Golem,Dragons of Tarkir,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Raoul Vitale',0.05,False
+Dragonloft Idol,Artifact Creature,Gargoyle,Dragons of Tarkir,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jung Park',0.12,False
+Dromoka Monument,Artifact,None,Dragons of Tarkir,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',0.11,False
+Gate Smasher,Artifact,Equipment,Dragons of Tarkir,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Filip Burburan',0.1,False
+Keeper of the Lens,Artifact Creature,Golem,Dragons of Tarkir,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Barger',0.06,False
+Kolaghan Monument,Artifact,None,Dragons of Tarkir,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',0.16,False
+Ojutai Monument,Artifact,None,Dragons of Tarkir,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',0.18,False
+Silumgar Monument,Artifact,None,Dragons of Tarkir,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',0.15,False
+Spidersilk Net,Artifact,Equipment,Dragons of Tarkir,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Argyle',0.12,False
+Stormrider Rig,Artifact,Equipment,Dragons of Tarkir,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Min Yum',0.12,False
+Tapestry of the Ages,Artifact,None,Dragons of Tarkir,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Yeong-Hao Han',0.08,False
+Vial of Dragonfire,Artifact,None,Dragons of Tarkir,Common,2,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',0.07,False
+Evolving Wilds,Land,None,Dragons of Tarkir,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Andreas Rocha',0.1,False
+Haven of the Spirit Dragon,Land,None,Dragons of Tarkir,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',2.05,False
+Plains,Basic Land,Plains,Dragons of Tarkir,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Sam Burley',0.13,False
+Plains,Basic Land,Plains,Dragons of Tarkir,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Sam Burley',0.13,False
+Plains,Basic Land,Plains,Dragons of Tarkir,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Florian de Gesincourt',0.14,False
+Island,Basic Land,Island,Dragons of Tarkir,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Florian de Gesincourt',0.2,False
+Island,Basic Land,Island,Dragons of Tarkir,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Florian de Gesincourt',0.17,False
+Island,Basic Land,Island,Dragons of Tarkir,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.16,False
+Swamp,Basic Land,Swamp,Dragons of Tarkir,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Noah Bradley',0.21,False
+Swamp,Basic Land,Swamp,Dragons of Tarkir,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.14,False
+Swamp,Basic Land,Swamp,Dragons of Tarkir,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.17,False
+Mountain,Basic Land,Mountain,Dragons of Tarkir,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Noah Bradley',0.18,False
+Mountain,Basic Land,Mountain,Dragons of Tarkir,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Noah Bradley',0.13,False
+Mountain,Basic Land,Mountain,Dragons of Tarkir,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Titus Lunter',0.23,False
+Forest,Basic Land,Forest,Dragons of Tarkir,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Sam Burley',0.11,False
+Forest,Basic Land,Forest,Dragons of Tarkir,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Titus Lunter',0.12,False
+Forest,Basic Land,Forest,Dragons of Tarkir,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Titus Lunter',0.17,False

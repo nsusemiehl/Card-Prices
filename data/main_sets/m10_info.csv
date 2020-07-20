@@ -1,250 +1,250 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Ajani Goldmane,Legendary Planeswalker,Ajani,Magic 2010,Mythic Rare,4,White,True,False,True,True,b'Aleksi Briclot',4.62
-Angel's Mercy,Instant,None,Magic 2010,Common,4,White,True,False,True,True,b'Andrew Robinson',0.07
-Armored Ascension,Enchantment,Aura,Magic 2010,Uncommon,4,White,True,False,True,True,b'Jesper Ejsing',0.18
-Baneslayer Angel,Creature,Angel,Magic 2010,Mythic Rare,5,White,True,False,True,True,b'Greg Staples',7.86
-Blinding Mage,Creature,Human Wizard,Magic 2010,Common,2,White,True,False,True,True,b'Eric Deschamps',0.06
-Captain of the Watch,Creature,Human Soldier,Magic 2010,Rare,6,White,True,False,True,True,b'Greg Staples',0.55
-Celestial Purge,Instant,None,Magic 2010,Uncommon,2,White,True,False,True,True,b'David Palumbo',0.16
-Divine Verdict,Instant,None,Magic 2010,Common,4,White,True,False,True,True,b'Kev Walker',0.02
-Elite Vanguard,Creature,Human Soldier,Magic 2010,Uncommon,1,White,True,False,True,True,b'Mark Tedin',0.11
-Excommunicate,Sorcery,None,Magic 2010,Common,3,White,True,False,True,True,b'Matt Stewart',0.1
-Glorious Charge,Instant,None,Magic 2010,Common,2,White,True,False,True,True,b'Izzy',0.03
-Griffin Sentinel,Creature,Griffin,Magic 2010,Common,3,White,True,True,True,True,b'Warren Mahy',0.02
-Guardian Seraph,Creature,Angel,Magic 2010,Rare,4,White,True,False,True,False,b'Paul Bonner',0.52
-Harm's Way,Instant,None,Magic 2010,Uncommon,1,White,True,False,True,True,b'Dan Scott',0.11
-Holy Strength,Enchantment,Aura,Magic 2010,Common,1,White,True,False,True,True,b'Terese Nielsen',0.07
-Honor of the Pure,Enchantment,None,Magic 2010,Rare,2,White,True,False,True,True,b'Greg Staples',1.27
-Indestructibility,Enchantment,Aura,Magic 2010,Rare,4,White,True,False,True,True,b'Darrell Riche',0.87
-Lifelink,Enchantment,Aura,Magic 2010,Common,1,White,True,False,True,True,b'Terese Nielsen',0.2
-Lightwielder Paladin,Creature,Human Knight,Magic 2010,Rare,5,White,True,False,True,True,b'D. Alexander Gregory',0.17
-Mesa Enchantress,Creature,Human Druid,Magic 2010,Rare,3,White,True,False,True,True,b'Randy Gallegos',0.71
-Open the Vaults,Sorcery,None,Magic 2010,Rare,6,White,True,False,True,True,b'Brian Despain',2.8
-Pacifism,Enchantment,Aura,Magic 2010,Common,2,White,True,True,True,True,b'Robert Bliss',0.09
-Palace Guard,Creature,Human Soldier,Magic 2010,Common,3,White,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.09
-Planar Cleansing,Sorcery,None,Magic 2010,Rare,6,White,True,True,True,True,b'Michael Komarck',0.32
-Razorfoot Griffin,Creature,Griffin,Magic 2010,Common,4,White,True,False,True,True,b'Ben Thompson',0.03
-Rhox Pikemaster,Creature,Rhino Soldier,Magic 2010,Uncommon,4,White,True,False,True,False,b'Steve Prescott',0.15
-Righteousness,Instant,None,Magic 2010,Uncommon,1,White,True,True,True,True,b'Wayne England',0.19
-Safe Passage,Instant,None,Magic 2010,Common,3,White,True,False,True,True,b'Christopher Moeller',0.06
-Serra Angel,Creature,Angel,Magic 2010,Uncommon,5,White,True,False,True,True,b'Greg Staples',0.11
-Siege Mastodon,Creature,Elephant,Magic 2010,Common,5,White,True,True,True,True,b'Matt Cavotta',0.03
-Silence,Instant,None,Magic 2010,Rare,1,White,True,False,True,True,b'Wayne Reynolds',3.47
-Silvercoat Lion,Creature,Cat,Magic 2010,Common,2,White,True,False,True,True,b'Terese Nielsen',0.05
-Solemn Offering,Sorcery,None,Magic 2010,Common,3,White,True,False,True,True,b'Sam Wood',0.12
-Soul Warden,Creature,Human Cleric,Magic 2010,Common,1,White,True,False,True,True,b'Randy Gallegos',0.39
-Stormfront Pegasus,Creature,Pegasus,Magic 2010,Common,2,White,True,False,True,True,b'rk post',0.11
-Tempest of Light,Instant,None,Magic 2010,Uncommon,3,White,True,False,True,True,b'Wayne England',0.1
-Undead Slayer,Creature,Human Cleric,Magic 2010,Uncommon,3,White,True,False,True,False,b'Eric Fortune',0.07
-Veteran Armorsmith,Creature,Human Soldier,Magic 2010,Common,2,White,True,False,True,True,b'Michael Komarck',0.15
-Veteran Swordsmith,Creature,Human Soldier,Magic 2010,Common,3,White,True,False,True,True,b'Michael Komarck',0.21
-Wall of Faith,Creature,Wall,Magic 2010,Common,4,White,True,False,True,False,b'Martina Pilcerova',0.13
-White Knight,Creature,Human Knight,Magic 2010,Uncommon,2,White,True,False,True,True,b'Christopher Moeller',0.25
-Air Elemental,Creature,Elemental,Magic 2010,Uncommon,5,Blue,True,True,True,True,b'Kev Walker',0.02
-Alluring Siren,Creature,Siren,Magic 2010,Uncommon,2,Blue,True,False,True,True,b'Chippy',0.07
-Cancel,Instant,None,Magic 2010,Common,3,Blue,True,False,True,True,b'David Palumbo',0.08
-Clone,Creature,Shapeshifter,Magic 2010,Rare,4,Blue,True,False,True,True,b'Kev Walker',0.29
-Convincing Mirage,Enchantment,Aura,Magic 2010,Common,2,Blue,True,False,True,False,b'Ryan Pancoast',0.12
-Coral Merfolk,Creature,Merfolk,Magic 2010,Common,2,Blue,True,True,True,True,b'rk post',0.04
-Disorient,Instant,None,Magic 2010,Common,4,Blue,True,False,True,False,b'John Matson',0.03
-Divination,Sorcery,None,Magic 2010,Common,3,Blue,True,False,True,True,b'Howard Lyon',0.08
-Djinn of Wishes,Creature,Djinn,Magic 2010,Rare,5,Blue,True,False,True,True,b'Kev Walker',0.16
-Essence Scatter,Instant,None,Magic 2010,Common,2,Blue,True,True,True,True,b'Jon Foster',0.12
-Fabricate,Sorcery,None,Magic 2010,Uncommon,3,Blue,True,False,True,True,b'Warren Mahy',4.18
-Flashfreeze,Instant,None,Magic 2010,Uncommon,2,Blue,True,False,True,True,b'Brian Despain',0.06
-Hive Mind,Enchantment,None,Magic 2010,Rare,6,Blue,True,False,True,False,b'Steve Argyle',2.35
-Horned Turtle,Creature,Turtle,Magic 2010,Common,3,Blue,True,False,True,True,b'DiTerlizzi',0.05
-Ice Cage,Enchantment,Aura,Magic 2010,Common,2,Blue,True,False,True,True,b'Mike Bierek',0.06
-Illusionary Servant,Creature,Illusion,Magic 2010,Common,3,Blue,True,False,True,False,b'Dave Kendall',0.12
-Jace Beleren,Legendary Planeswalker,Jace,Magic 2010,Mythic Rare,3,Blue,True,False,True,True,b'Aleksi Briclot',2.72
-Jump,Instant,None,Magic 2010,Common,1,Blue,True,False,True,True,b'Eric Deschamps',0.09
-Levitation,Enchantment,None,Magic 2010,Uncommon,4,Blue,True,False,True,True,b'Jim Murray',0.14
-Merfolk Looter,Creature,Merfolk Rogue,Magic 2010,Common,2,Blue,True,False,True,True,b'Austin Hsu',0.11
-Merfolk Sovereign,Creature,Merfolk Noble,Magic 2010,Rare,3,Blue,True,False,True,True,b'Jesper Ejsing',0.39
-Mind Control,Enchantment,Aura,Magic 2010,Uncommon,5,Blue,True,False,True,True,b'Mark Tedin',0.12
-Mind Spring,Sorcery,None,Magic 2010,Rare,3,Blue,True,False,True,True,b'Mark Zug',0.36
-Negate,Instant,None,Magic 2010,Common,2,Blue,True,True,True,True,b'Jeremy Jarvis',0.12
-Phantom Warrior,Creature,Illusion Warrior,Magic 2010,Uncommon,3,Blue,True,True,True,True,b'Greg Staples',0.07
-Polymorph,Sorcery,None,Magic 2010,Rare,4,Blue,True,False,True,True,b'Robert Bliss',1.08
-Ponder,Sorcery,None,Magic 2010,Common,1,Blue,False,False,True,True,b'Dan Scott',1.7
-Sage Owl,Creature,Bird,Magic 2010,Common,2,Blue,True,False,True,True,b'Cyril Van Der Haegen',0.15
-Serpent of the Endless Sea,Creature,Serpent,Magic 2010,Common,5,Blue,True,False,True,False,b'Kieran Yanner',0.14
-Sleep,Sorcery,None,Magic 2010,Uncommon,4,Blue,True,False,True,True,b'Chris Rahn',0.16
-Snapping Drake,Creature,Drake,Magic 2010,Common,4,Blue,True,True,True,True,b'Todd Lockwood',0.12
-Sphinx Ambassador,Creature,Sphinx,Magic 2010,Mythic Rare,7,Blue,True,False,True,False,b'Jim Murray',6.38
-Telepathy,Enchantment,None,Magic 2010,Uncommon,1,Blue,True,False,True,True,b'Matthew D. Wilson',0.3
-Time Warp,Sorcery,None,Magic 2010,Mythic Rare,5,Blue,True,False,True,True,b'Jon Foster',13.32
-Tome Scour,Sorcery,None,Magic 2010,Common,1,Blue,True,False,True,True,b'Steven Belledin',0.24
-Traumatize,Sorcery,None,Magic 2010,Rare,5,Blue,True,False,True,True,b'Greg Staples',1.72
-Twincast,Instant,None,Magic 2010,Rare,2,Blue,True,False,True,True,b'Christopher Moeller',3.36
-Unsummon,Instant,None,Magic 2010,Common,1,Blue,True,True,True,True,b'Izzy',0.18
-Wall of Frost,Creature,Wall,Magic 2010,Uncommon,3,Blue,True,False,True,True,b'Mike Bierek',0.22
-Wind Drake,Creature,Drake,Magic 2010,Common,3,Blue,True,False,True,True,b'Steve Prescott',0.02
-Zephyr Sprite,Creature,Faerie,Magic 2010,Common,1,Blue,True,False,True,False,b'Kev Walker',0.26
-Acolyte of Xathrid,Creature,Human Cleric,Magic 2010,Common,1,Black,True,False,True,True,b'Chris Rahn',0.08
-Assassinate,Sorcery,None,Magic 2010,Common,3,Black,True,False,True,True,b'Kev Walker',0.11
-Black Knight,Creature,Human Knight,Magic 2010,Uncommon,2,Black,True,False,True,True,b'Christopher Moeller',0.16
-Bog Wraith,Creature,Wraith,Magic 2010,Uncommon,4,Black,True,False,True,True,b'Daarken',0.07
-Cemetery Reaper,Creature,Zombie,Magic 2010,Rare,3,Black,True,False,True,True,b'Dave Allsop',1.77
-Child of Night,Creature,Vampire,Magic 2010,Common,2,Black,True,True,True,True,b'Ash Wood',0.05
-Consume Spirit,Sorcery,None,Magic 2010,Uncommon,3,Black,True,False,True,True,b'Justin Sweet',0.12
-Deathmark,Sorcery,None,Magic 2010,Uncommon,1,Black,True,False,True,True,b'Steven Belledin',0.07
-Diabolic Tutor,Sorcery,None,Magic 2010,Uncommon,4,Black,True,False,True,True,b'Greg Staples',0.52
-Disentomb,Sorcery,None,Magic 2010,Common,1,Black,True,True,True,True,b'Alex Horley-Orlandelli',0.09
-Doom Blade,Instant,None,Magic 2010,Common,2,Black,True,False,True,True,b'Chippy',0.2
-Dread Warlock,Creature,Human Wizard Warlock,Magic 2010,Common,3,Black,True,False,True,False,b'Daarken',0.09
-Drudge Skeletons,Creature,Skeleton,Magic 2010,Common,2,Black,True,False,True,True,b'Daarken',0.11
-Duress,Sorcery,None,Magic 2010,Common,1,Black,True,True,True,True,b'Steven Belledin',0.15
-Gravedigger,Creature,Zombie,Magic 2010,Common,4,Black,True,True,True,True,b'Dermot Power',0.08
-Haunting Echoes,Sorcery,None,Magic 2010,Rare,5,Black,True,False,True,True,b'Nils Hamm',0.28
-Howling Banshee,Creature,Spirit,Magic 2010,Uncommon,4,Black,True,False,True,True,b'Andrew Robinson',0.1
-Hypnotic Specter,Creature,Specter,Magic 2010,Rare,3,Black,True,False,True,True,b'Greg Staples',1.04
-Kelinore Bat,Creature,Bat,Magic 2010,Common,3,Black,True,False,True,False,b'Dave Kendall',0.13
-Liliana Vess,Legendary Planeswalker,Liliana,Magic 2010,Mythic Rare,5,Black,True,False,True,True,b'Aleksi Briclot',7.86
-Looming Shade,Creature,Shade,Magic 2010,Common,3,Black,True,False,True,True,b'Kev Walker',0.04
-Megrim,Enchantment,None,Magic 2010,Uncommon,3,Black,True,False,True,True,b'Nick Percival',0.35
-Mind Rot,Sorcery,None,Magic 2010,Common,3,Black,True,True,True,True,b'Steve Luke',0.03
-Mind Shatter,Sorcery,None,Magic 2010,Rare,3,Black,True,False,True,True,b'Michael Sutfin',0.23
-Nightmare,Creature,Nightmare Horse,Magic 2010,Rare,6,Black,True,False,True,True,b'Carl Critchlow',0.33
-Relentless Rats,Creature,Rat,Magic 2010,Uncommon,3,Black,True,False,True,True,b'Thomas M. Baxa',1.33
-Rise from the Grave,Sorcery,None,Magic 2010,Uncommon,5,Black,True,False,True,True,b'Vance Kovacs',0.11
-Royal Assassin,Creature,Human Assassin,Magic 2010,Rare,3,Black,True,False,True,True,b'Mark Zug',0.51
-Sanguine Bond,Enchantment,None,Magic 2010,Rare,5,Black,True,False,True,True,b'Jaime Jones',1.33
-Sign in Blood,Sorcery,None,Magic 2010,Common,2,Black,True,False,True,True,b'Howard Lyon',0.16
-Soul Bleed,Enchantment,Aura,Magic 2010,Common,3,Black,True,False,True,False,b'Zoltan Boros',0.1
-Tendrils of Corruption,Instant,None,Magic 2010,Common,4,Black,True,False,True,True,b'Vance Kovacs',0.22
-Underworld Dreams,Enchantment,None,Magic 2010,Rare,3,Black,True,True,True,True,b'Carl Critchlow',3.8
-Unholy Strength,Enchantment,Aura,Magic 2010,Common,1,Black,True,False,True,True,b'Terese Nielsen',0.12
-Vampire Aristocrat,Creature,Vampire Rogue Noble,Magic 2010,Common,3,Black,True,False,True,True,b'Austin Hsu',0.12
-Vampire Nocturnus,Creature,Vampire,Magic 2010,Mythic Rare,4,Black,True,False,True,True,b'Raymond Swanland',7.29
-Wall of Bone,Creature,Skeleton Wall,Magic 2010,Uncommon,3,Black,True,False,True,True,b'Jaime Jones',0.12
-Warpath Ghoul,Creature,Zombie,Magic 2010,Common,3,Black,True,False,True,True,b'rk post',0.05
-Weakness,Enchantment,Aura,Magic 2010,Common,1,Black,True,False,True,True,b'Kev Walker',0.01
-Xathrid Demon,Creature,Demon,Magic 2010,Mythic Rare,6,Black,True,False,True,True,b'Wayne Reynolds',0.5
-Zombie Goliath,Creature,Zombie Giant,Magic 2010,Common,5,Black,True,False,True,True,b'E. M. Gist',0.06
-Act of Treason,Sorcery,None,Magic 2010,Uncommon,3,Red,True,True,True,True,b'Eric Deschamps',0.06
-Ball Lightning,Creature,Elemental,Magic 2010,Rare,3,Red,True,False,True,True,b'Trevor Claxton',2.08
-Berserkers of Blood Ridge,Creature,Human Berserker,Magic 2010,Common,5,Red,True,False,True,True,b'Karl Kopinski',0.02
-Bogardan Hellkite,Creature,Dragon,Magic 2010,Mythic Rare,8,Red,True,False,True,True,b'Scott M. Fischer',0.48
-Burning Inquiry,Sorcery,None,Magic 2010,Common,1,Red,True,False,True,True,b'Zoltan Boros',1.56
-Burst of Speed,Sorcery,None,Magic 2010,Common,1,Red,True,False,True,False,b'Zoltan Boros',0.1
-Canyon Minotaur,Creature,Minotaur Warrior,Magic 2010,Common,4,Red,True,False,True,True,b'Steve Prescott',0.19
-Capricious Efreet,Creature,Efreet,Magic 2010,Rare,6,Red,True,False,True,True,b'Justin Sweet',0.17
-Chandra Nalaar,Legendary Planeswalker,Chandra,Magic 2010,Mythic Rare,5,Red,True,False,True,True,b'Aleksi Briclot',1.68
-Dragon Whelp,Creature,Dragon,Magic 2010,Uncommon,4,Red,True,False,True,True,b'Steven Belledin',0.19
-Earthquake,Sorcery,None,Magic 2010,Rare,2,Red,True,False,True,True,b'Adrian Smith',0.44
-Fiery Hellhound,Creature,Elemental Hound,Magic 2010,Common,3,Red,True,False,True,True,b'Ted Galaday',0.04
-Fireball,Sorcery,None,Magic 2010,Uncommon,2,Red,True,False,True,True,b'Dave Dorman',0.16
-Firebreathing,Enchantment,Aura,Magic 2010,Common,1,Red,True,False,True,True,b'Aleksi Briclot',0.05
-Goblin Artillery,Creature,Goblin Warrior,Magic 2010,Uncommon,3,Red,True,False,True,False,b'Alex Horley-Orlandelli',0.11
-Goblin Chieftain,Creature,Goblin,Magic 2010,Rare,3,Red,True,False,True,True,b'Sam Wood',2.45
-Goblin Piker,Creature,Goblin Warrior,Magic 2010,Common,2,Red,True,False,True,True,b'DiTerlizzi',0.04
-Ignite Disorder,Instant,None,Magic 2010,Uncommon,2,Red,True,False,True,True,b'Zoltan Boros',0.18
-Inferno Elemental,Creature,Elemental,Magic 2010,Uncommon,6,Red,True,False,True,False,b'Zoltan Boros',0.16
-Jackal Familiar,Creature,Jackal,Magic 2010,Common,1,Red,True,False,True,False,b'Alex Horley-Orlandelli',0.14
-Kindled Fury,Instant,None,Magic 2010,Common,1,Red,True,False,True,True,b'Wayne Reynolds',0.03
-Lava Axe,Sorcery,None,Magic 2010,Common,5,Red,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.1
-Lightning Bolt,Instant,None,Magic 2010,Common,1,Red,True,False,True,True,b'Christopher Moeller',1.58
-Lightning Elemental,Creature,Elemental,Magic 2010,Common,4,Red,True,False,True,True,b'Kev Walker',0.13
-Magma Phoenix,Creature,Phoenix,Magic 2010,Rare,5,Red,True,False,True,True,b'Raymond Swanland',0.19
-Manabarbs,Enchantment,None,Magic 2010,Rare,4,Red,True,False,True,True,b'Jeff Miracola',0.36
-Panic Attack,Sorcery,None,Magic 2010,Common,3,Red,True,False,True,True,b'Izzy',0.04
-Prodigal Pyromancer,Creature,Human Wizard,Magic 2010,Uncommon,3,Red,True,False,True,True,b'Jeremy Jarvis',0.09
-Pyroclasm,Sorcery,None,Magic 2010,Uncommon,2,Red,True,False,True,True,b'John Avon',0.19
-Raging Goblin,Creature,Goblin Berserker,Magic 2010,Common,1,Red,True,False,True,True,b'Jeff Miracola',0.1
-Seismic Strike,Instant,None,Magic 2010,Common,3,Red,True,False,True,True,b'Christopher Moeller',0.11
-Shatter,Instant,None,Magic 2010,Common,2,Red,True,False,True,True,b'Tim Hildebrandt',0.1
-Shivan Dragon,Creature,Dragon,Magic 2010,Rare,6,Red,True,True,True,True,b'Donato Giancola',0.16
-Siege-Gang Commander,Creature,Goblin,Magic 2010,Rare,5,Red,True,False,True,True,b'Christopher Moeller',0.71
-Sparkmage Apprentice,Creature,Human Wizard,Magic 2010,Common,2,Red,True,False,True,True,b'Jaime Jones',0.1
-Stone Giant,Creature,Giant,Magic 2010,Uncommon,4,Red,True,False,True,True,b'Warren Mahy',0.04
-Trumpet Blast,Instant,None,Magic 2010,Common,3,Red,True,False,True,True,b'Carl Critchlow',0.07
-Viashino Spearhunter,Creature,Viashino Warrior,Magic 2010,Common,3,Red,True,False,True,False,b'Carl Critchlow',0.02
-Wall of Fire,Creature,Wall,Magic 2010,Uncommon,3,Red,True,False,True,True,b'Dan Dos Santos',0.03
-Warp World,Sorcery,None,Magic 2010,Rare,8,Red,True,False,True,True,b'Ron Spencer',0.61
-Yawning Fissure,Sorcery,None,Magic 2010,Common,5,Red,True,False,True,False,b'V\xc3\xa9ronique Meignaud',0.07
-Acidic Slime,Creature,Ooze,Magic 2010,Uncommon,5,Green,True,False,True,True,b'Karl Kopinski',0.3
-Ant Queen,Creature,Insect,Magic 2010,Rare,5,Green,True,False,True,True,b'Trevor Claxton',0.48
-Awakener Druid,Creature,Human Druid,Magic 2010,Uncommon,3,Green,True,False,True,True,b'Jason Chan',0.06
-Birds of Paradise,Creature,Bird,Magic 2010,Rare,1,Green,True,False,True,True,b'Marcelo Vignali',6.14
-Borderland Ranger,Creature,Human Scout,Magic 2010,Common,3,Green,True,False,True,True,b'Jesper Ejsing',0.08
-Bountiful Harvest,Sorcery,None,Magic 2010,Common,5,Green,True,False,True,True,b'Jason Chan',0.09
-Bramble Creeper,Creature,Elemental,Magic 2010,Common,5,Green,True,False,True,False,b'Carl Critchlow',0.09
-Centaur Courser,Creature,Centaur Warrior,Magic 2010,Common,3,Green,True,True,True,True,b'Vance Kovacs',0.03
-Craw Wurm,Creature,Wurm,Magic 2010,Common,6,Green,True,False,True,True,b'Richard Sardinha',0.05
-Cudgel Troll,Creature,Troll,Magic 2010,Uncommon,4,Green,True,False,True,True,b'Jesper Ejsing',0.11
-Deadly Recluse,Creature,Spider,Magic 2010,Common,2,Green,True,False,True,True,b'Warren Mahy',0.15
-Elvish Archdruid,Creature,Elf Druid,Magic 2010,Rare,3,Green,True,False,True,True,b'Karl Kopinski',1.55
-Elvish Piper,Creature,Elf Shaman,Magic 2010,Rare,4,Green,True,False,True,True,b'Rebecca Guay',3.67
-Elvish Visionary,Creature,Elf Shaman,Magic 2010,Common,2,Green,True,False,True,True,b'D. Alexander Gregory',0.13
-Emerald Oryx,Creature,Antelope,Magic 2010,Common,4,Green,True,False,True,False,b'Daren Bader',0.06
-Enormous Baloth,Creature,Beast,Magic 2010,Uncommon,7,Green,True,False,True,True,b'Mark Tedin',0.04
-Entangling Vines,Enchantment,Aura,Magic 2010,Common,4,Green,True,False,True,False,b'Thomas M. Baxa',0.07
-Fog,Instant,None,Magic 2010,Common,1,Green,True,False,True,True,b'John Avon',0.12
-Garruk Wildspeaker,Legendary Planeswalker,Garruk,Magic 2010,Mythic Rare,4,Green,True,False,True,True,b'Aleksi Briclot',6.2
-Giant Growth,Instant,None,Magic 2010,Common,1,Green,True,True,True,True,b'Matt Cavotta',0.06
-Giant Spider,Creature,Spider,Magic 2010,Common,4,Green,True,False,True,True,b'Randy Gallegos',0.01
-Great Sable Stag,Creature,Elk,Magic 2010,Rare,3,Green,True,False,True,False,b'Matt Cavotta',0.54
-Howl of the Night Pack,Sorcery,None,Magic 2010,Uncommon,7,Green,True,False,True,True,b'Lars Grant-West',0.18
-Kalonian Behemoth,Creature,Beast,Magic 2010,Rare,7,Green,True,False,True,True,b'Daarken',0.42
-Llanowar Elves,Creature,Elf Druid,Magic 2010,Common,1,Green,True,False,True,True,b'Kev Walker',0.19
-Lurking Predators,Enchantment,None,Magic 2010,Rare,6,Green,True,False,True,True,b'Mike Bierek',5.25
-Master of the Wild Hunt,Creature,Human Shaman,Magic 2010,Mythic Rare,4,Green,True,False,True,True,b'Kev Walker',5.36
-Might of Oaks,Instant,None,Magic 2010,Rare,4,Green,True,False,True,True,b'Jeremy Jarvis',0.35
-Mist Leopard,Creature,Cat,Magic 2010,Common,4,Green,True,False,True,False,b'John Matson',0.09
-Mold Adder,Creature,Fungus Snake,Magic 2010,Uncommon,1,Green,True,False,True,False,b'Matt Cavotta',0.28
-Naturalize,Instant,None,Magic 2010,Common,2,Green,True,False,True,True,b'Tim Hildebrandt',0.1
-Nature's Spiral,Sorcery,None,Magic 2010,Uncommon,2,Green,True,False,True,True,b'Terese Nielsen',0.1
-Oakenform,Enchantment,Aura,Magic 2010,Common,3,Green,True,True,True,True,b'Wayne Reynolds',0.07
-Overrun,Sorcery,None,Magic 2010,Uncommon,5,Green,True,False,True,True,b'Carl Critchlow',0.2
-Prized Unicorn,Creature,Unicorn,Magic 2010,Uncommon,4,Green,True,True,True,True,b'Sam Wood',0.11
-Protean Hydra,Creature,Hydra,Magic 2010,Mythic Rare,2,Green,True,False,True,True,b'Jim Murray',2.58
-Rampant Growth,Sorcery,None,Magic 2010,Common,2,Green,True,False,True,True,b'Steven Belledin',0.43
-Regenerate,Instant,None,Magic 2010,Common,2,Green,True,False,True,False,b'Rebecca Guay',0.11
-Runeclaw Bear,Creature,Bear,Magic 2010,Common,2,Green,True,False,True,True,b'Jesper Ejsing',0.11
-Stampeding Rhino,Creature,Rhino,Magic 2010,Common,5,Green,True,False,True,True,b'Steven Belledin',0.03
-Windstorm,Instant,None,Magic 2010,Uncommon,2,Green,True,False,True,True,b'Rob Alexander',0.09
-Angel's Feather,Artifact,None,Magic 2010,Uncommon,2,Colorless,True,False,True,True,b'Alan Pollack',0.11
-Coat of Arms,Artifact,None,Magic 2010,Rare,5,Colorless,True,False,True,True,b'Scott M. Fischer',8.22
-Darksteel Colossus,Artifact Creature,Golem,Magic 2010,Mythic Rare,2,Colorless,True,False,True,True,b'Carl Critchlow',7.56
-Demon's Horn,Artifact,None,Magic 2010,Uncommon,2,Colorless,True,False,True,True,b'Alan Pollack',0.11
-Dragon's Claw,Artifact,None,Magic 2010,Uncommon,2,Colorless,True,False,True,True,b'Alan Pollack',0.3
-Gorgon Flail,Artifact,Equipment,Magic 2010,Uncommon,2,Colorless,True,False,True,False,b'Lars Grant-West',0.73
-Howling Mine,Artifact,None,Magic 2010,Rare,2,Colorless,True,False,True,True,b'Ralph Horsley',3.53
-Kraken's Eye,Artifact,None,Magic 2010,Uncommon,2,Colorless,True,False,True,True,b'Alan Pollack',0.09
-Magebane Armor,Artifact,Equipment,Magic 2010,Rare,3,Colorless,True,False,True,False,b'Izzy',0.97
-Mirror of Fate,Artifact,None,Magic 2010,Rare,5,Colorless,True,False,True,False,b'Alan Pollack',0.53
-Ornithopter,Artifact Creature,Thopter,Magic 2010,Uncommon,0,Colorless,True,False,True,True,b'Franz Vohwinkel',0.22
-Pithing Needle,Artifact,None,Magic 2010,Rare,1,Colorless,True,False,True,True,b'Pete Venters',6.1
-Platinum Angel,Artifact Creature,Angel,Magic 2010,Mythic Rare,7,Colorless,True,False,True,True,b'Brom',4.87
-Rod of Ruin,Artifact,None,Magic 2010,Uncommon,4,Colorless,True,False,True,True,b'Mark Zug',0.03
-Spellbook,Artifact,None,Magic 2010,Uncommon,0,Colorless,True,False,True,True,b'Andrew Goldhawk',1.62
-Whispersilk Cloak,Artifact,Equipment,Magic 2010,Uncommon,3,Colorless,True,False,True,True,b'Daren Bader',1.08
-Wurm's Tooth,Artifact,None,Magic 2010,Uncommon,2,Colorless,True,False,True,True,b'Alan Pollack',0.05
-Dragonskull Summit,Land,None,Magic 2010,Rare,0,Colorless,True,False,True,True,b'Jon Foster',2.54
-Drowned Catacomb,Land,None,Magic 2010,Rare,0,Colorless,True,False,True,True,b'Dave Kendall',5.36
-Gargoyle Castle,Land,None,Magic 2010,Rare,0,Colorless,True,False,True,True,b'Paul Bonner',0.18
-Glacial Fortress,Land,None,Magic 2010,Rare,0,Colorless,True,False,True,True,b'Franz Vohwinkel',5.78
-Rootbound Crag,Land,None,Magic 2010,Rare,0,Colorless,True,False,True,True,b'Matt Stewart',3.5
-Sunpetal Grove,Land,None,Magic 2010,Rare,0,Colorless,True,False,True,True,b'Jason Chan',3.42
-Terramorphic Expanse,Land,None,Magic 2010,Common,0,Colorless,True,False,True,True,b'Dan Scott',0.27
-Plains,Basic Land,Plains,Magic 2010,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.15
-Plains,Basic Land,Plains,Magic 2010,Common,0,Colorless,True,True,True,True,b'John Avon',0.15
-Plains,Basic Land,Plains,Magic 2010,Common,0,Colorless,True,True,True,True,b'Don Hazeltine',0.16
-Plains,Basic Land,Plains,Magic 2010,Common,0,Colorless,True,True,True,True,b'Ryan Pancoast',0.12
-Island,Basic Land,Island,Magic 2010,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.18
-Island,Basic Land,Island,Magic 2010,Common,0,Colorless,True,True,True,True,b'John Avon',0.21
-Island,Basic Land,Island,Magic 2010,Common,0,Colorless,True,True,True,True,b'Scott Bailey',0.21
-Island,Basic Land,Island,Magic 2010,Common,0,Colorless,True,True,True,True,b'Fred Fields',0.24
-Swamp,Basic Land,Swamp,Magic 2010,Common,0,Colorless,True,True,True,True,b'Dan Frazier',0.19
-Swamp,Basic Land,Swamp,Magic 2010,Common,0,Colorless,True,True,True,True,b'Alex Horley-Orlandelli',0.22
-Swamp,Basic Land,Swamp,Magic 2010,Common,0,Colorless,True,True,True,True,b'Jim Pavelec',0.1
-Swamp,Basic Land,Swamp,Magic 2010,Common,0,Colorless,True,True,True,True,b'Alan Pollack',0.12
-Mountain,Basic Land,Mountain,Magic 2010,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.15
-Mountain,Basic Land,Mountain,Magic 2010,Common,0,Colorless,True,True,True,True,b'Nils Hamm',0.15
-Mountain,Basic Land,Mountain,Magic 2010,Common,0,Colorless,True,True,True,True,b'Karl Kopinski',0.09
-Mountain,Basic Land,Mountain,Magic 2010,Common,0,Colorless,True,True,True,True,b'Sam Wood',0.1
-Forest,Basic Land,Forest,Magic 2010,Common,0,Colorless,True,True,True,True,b'Glen Angus',0.15
-Forest,Basic Land,Forest,Magic 2010,Common,0,Colorless,True,True,True,True,b'John Avon',0.18
-Forest,Basic Land,Forest,Magic 2010,Common,0,Colorless,True,True,True,True,b'Steven Belledin',0.1
-Forest,Basic Land,Forest,Magic 2010,Common,0,Colorless,True,True,True,True,b'Jim Nelson',0.12
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Ajani Goldmane,Planeswalker,Ajani,Magic 2010,Mythic Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',4.87,True
+Angel's Mercy,Instant,None,Magic 2010,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Robinson',0.1,False
+Armored Ascension,Enchantment,Aura,Magic 2010,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.19,False
+Baneslayer Angel,Creature,Angel,Magic 2010,Mythic Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',7.19,False
+Blinding Mage,Creature,Human Wizard,Magic 2010,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Deschamps',0.1,False
+Captain of the Watch,Creature,Human Soldier,Magic 2010,Rare,6,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.47,False
+Celestial Purge,Instant,None,Magic 2010,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'David Palumbo',0.21,False
+Divine Verdict,Instant,None,Magic 2010,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.02,False
+Elite Vanguard,Creature,Human Soldier,Magic 2010,Uncommon,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.11,False
+Excommunicate,Sorcery,None,Magic 2010,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.1,False
+Glorious Charge,Instant,None,Magic 2010,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.07,False
+Griffin Sentinel,Creature,Griffin,Magic 2010,Common,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Warren Mahy',0.02,False
+Guardian Seraph,Creature,Angel,Magic 2010,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Paul Bonner',0.44,False
+Harm's Way,Instant,None,Magic 2010,Uncommon,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.12,False
+Holy Strength,Enchantment,Aura,Magic 2010,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.12,False
+Honor of the Pure,Enchantment,None,Magic 2010,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',1.23,False
+Indestructibility,Enchantment,Aura,Magic 2010,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Darrell Riche',1.0,False
+Lifelink,Enchantment,Aura,Magic 2010,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.18,False
+Lightwielder Paladin,Creature,Human Knight,Magic 2010,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'D. Alexander Gregory',0.22,False
+Mesa Enchantress,Creature,Human Druid,Magic 2010,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.7,False
+Open the Vaults,Sorcery,None,Magic 2010,Rare,6,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Despain',2.82,False
+Pacifism,Enchantment,Aura,Magic 2010,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Robert Bliss',0.09,False
+Palace Guard,Creature,Human Soldier,Magic 2010,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',0.1,False
+Planar Cleansing,Sorcery,None,Magic 2010,Rare,6,White,Legal,Legal,Legal,Legal,Legal,True,b'Michael Komarck',0.34,False
+Razorfoot Griffin,Creature,Griffin,Magic 2010,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Ben Thompson',0.03,False
+Rhox Pikemaster,Creature,Rhino Soldier,Magic 2010,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Prescott',0.16,False
+Righteousness,Instant,None,Magic 2010,Uncommon,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Wayne England',0.27,False
+Safe Passage,Instant,None,Magic 2010,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.11,False
+Serra Angel,Creature,Angel,Magic 2010,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.13,False
+Siege Mastodon,Creature,Elephant,Magic 2010,Common,5,White,Legal,Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.04,False
+Silence,Instant,None,Magic 2010,Rare,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',5.11,False
+Silvercoat Lion,Creature,Cat,Magic 2010,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.08,False
+Solemn Offering,Sorcery,None,Magic 2010,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Sam Wood',0.12,False
+Soul Warden,Creature,Human Cleric,Magic 2010,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.38,False
+Stormfront Pegasus,Creature,Pegasus,Magic 2010,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',0.12,False
+Tempest of Light,Instant,None,Magic 2010,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne England',0.12,False
+Undead Slayer,Creature,Human Cleric,Magic 2010,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Eric Fortune',0.11,False
+Veteran Armorsmith,Creature,Human Soldier,Magic 2010,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Komarck',0.16,False
+Veteran Swordsmith,Creature,Human Soldier,Magic 2010,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Komarck',0.21,False
+Wall of Faith,Creature,Wall,Magic 2010,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Martina Pilcerova',0.13,False
+White Knight,Creature,Human Knight,Magic 2010,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.21,False
+Air Elemental,Creature,Elemental,Magic 2010,Uncommon,5,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Kev Walker',0.02,False
+Alluring Siren,Creature,Siren,Magic 2010,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Chippy',0.09,False
+Cancel,Instant,None,Magic 2010,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'David Palumbo',0.08,False
+Clone,Creature,Shapeshifter,Magic 2010,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.33,False
+Convincing Mirage,Enchantment,Aura,Magic 2010,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Ryan Pancoast',0.17,False
+Coral Merfolk,Creature,Merfolk,Magic 2010,Common,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'rk post',0.06,False
+Disorient,Instant,None,Magic 2010,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'John Matson',0.03,False
+Divination,Sorcery,None,Magic 2010,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Howard Lyon',0.08,False
+Djinn of Wishes,Creature,Djinn,Magic 2010,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.16,False
+Essence Scatter,Instant,None,Magic 2010,Common,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Jon Foster',0.12,False
+Fabricate,Sorcery,None,Magic 2010,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Warren Mahy',6.2,False
+Flashfreeze,Instant,None,Magic 2010,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Despain',0.05,False
+Hive Mind,Enchantment,None,Magic 2010,Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Argyle',2.25,False
+Horned Turtle,Creature,Turtle,Magic 2010,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'DiTerlizzi',0.06,False
+Ice Cage,Enchantment,Aura,Magic 2010,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Bierek',0.1,False
+Illusionary Servant,Creature,Illusion,Magic 2010,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Kendall',0.12,False
+Jace Beleren,Planeswalker,Jace,Magic 2010,Mythic Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',2.9,True
+Jump,Instant,None,Magic 2010,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Deschamps',0.04,False
+Levitation,Enchantment,None,Magic 2010,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Murray',0.12,False
+Merfolk Looter,Creature,Merfolk Rogue,Magic 2010,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Austin Hsu',0.09,False
+Merfolk Sovereign,Creature,Merfolk Noble,Magic 2010,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.39,False
+Mind Control,Enchantment,Aura,Magic 2010,Uncommon,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.12,False
+Mind Spring,Sorcery,None,Magic 2010,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.36,False
+Negate,Instant,None,Magic 2010,Common,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Jeremy Jarvis',0.14,False
+Phantom Warrior,Creature,Illusion Warrior,Magic 2010,Uncommon,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Greg Staples',0.07,False
+Polymorph,Sorcery,None,Magic 2010,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Robert Bliss',0.83,False
+Ponder,Sorcery,None,Magic 2010,Common,1,Blue,Banned,Not Legal,Legal,Restrict.,Legal,True,b'Dan Scott',1.72,False
+Sage Owl,Creature,Bird,Magic 2010,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Cyril Van Der Haegen',0.16,False
+Serpent of the Endless Sea,Creature,Serpent,Magic 2010,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Kieran Yanner',0.13,False
+Sleep,Sorcery,None,Magic 2010,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.15,False
+Snapping Drake,Creature,Drake,Magic 2010,Common,4,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Todd Lockwood',0.05,False
+Sphinx Ambassador,Creature,Sphinx,Magic 2010,Mythic Rare,7,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Murray',6.24,False
+Telepathy,Enchantment,None,Magic 2010,Uncommon,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Matthew D. Wilson',0.32,False
+Time Warp,Sorcery,None,Magic 2010,Mythic Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jon Foster',12.44,False
+Tome Scour,Sorcery,None,Magic 2010,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.31,False
+Traumatize,Sorcery,None,Magic 2010,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',1.87,False
+Twincast,Instant,None,Magic 2010,Rare,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',7.4,False
+Unsummon,Instant,None,Magic 2010,Common,1,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Izzy',0.1,False
+Wall of Frost,Creature,Wall,Magic 2010,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Bierek',0.22,False
+Wind Drake,Creature,Drake,Magic 2010,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.02,False
+Zephyr Sprite,Creature,Faerie,Magic 2010,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.25,False
+Acolyte of Xathrid,Creature,Human Cleric,Magic 2010,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.12,False
+Assassinate,Sorcery,None,Magic 2010,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.14,False
+Black Knight,Creature,Human Knight,Magic 2010,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.16,False
+Bog Wraith,Creature,Wraith,Magic 2010,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.07,False
+Cemetery Reaper,Creature,Zombie,Magic 2010,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Allsop',2.44,False
+Child of Night,Creature,Vampire,Magic 2010,Common,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Ash Wood',0.08,False
+Consume Spirit,Sorcery,None,Magic 2010,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Sweet',0.14,False
+Deathmark,Sorcery,None,Magic 2010,Uncommon,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.09,False
+Diabolic Tutor,Sorcery,None,Magic 2010,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.54,False
+Disentomb,Sorcery,None,Magic 2010,Common,1,Black,Legal,Legal,Legal,Legal,Legal,True,b'Alex Horley-Orlandelli',0.14,False
+Doom Blade,Instant,None,Magic 2010,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Chippy',0.21,False
+Dread Warlock,Creature,Human Wizard Warlock,Magic 2010,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Daarken',0.1,False
+Drudge Skeletons,Creature,Skeleton,Magic 2010,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.11,False
+Duress,Sorcery,None,Magic 2010,Common,1,Black,Legal,Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.13,False
+Gravedigger,Creature,Zombie,Magic 2010,Common,4,Black,Legal,Legal,Legal,Legal,Legal,True,b'Dermot Power',0.08,False
+Haunting Echoes,Sorcery,None,Magic 2010,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.27,False
+Howling Banshee,Creature,Spirit,Magic 2010,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Robinson',0.08,False
+Hypnotic Specter,Creature,Specter,Magic 2010,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.96,False
+Kelinore Bat,Creature,Bat,Magic 2010,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Kendall',0.13,False
+Liliana Vess,Planeswalker,Liliana,Magic 2010,Mythic Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',7.53,True
+Looming Shade,Creature,Shade,Magic 2010,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.03,False
+Megrim,Enchantment,None,Magic 2010,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Nick Percival',0.35,False
+Mind Rot,Sorcery,None,Magic 2010,Common,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Steve Luke',0.1,False
+Mind Shatter,Sorcery,None,Magic 2010,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Sutfin',0.27,False
+Nightmare,Creature,Nightmare Horse,Magic 2010,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.33,False
+Relentless Rats,Creature,Rat,Magic 2010,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Thomas M. Baxa',1.84,False
+Rise from the Grave,Sorcery,None,Magic 2010,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Vance Kovacs',0.1,False
+Royal Assassin,Creature,Human Assassin,Magic 2010,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.53,False
+Sanguine Bond,Enchantment,None,Magic 2010,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',1.57,False
+Sign in Blood,Sorcery,None,Magic 2010,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Howard Lyon',0.21,False
+Soul Bleed,Enchantment,Aura,Magic 2010,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.15,False
+Tendrils of Corruption,Instant,None,Magic 2010,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Vance Kovacs',0.24,False
+Underworld Dreams,Enchantment,None,Magic 2010,Rare,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Carl Critchlow',2.82,False
+Unholy Strength,Enchantment,Aura,Magic 2010,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.11,False
+Vampire Aristocrat,Creature,Vampire Rogue Noble,Magic 2010,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Austin Hsu',0.11,False
+Vampire Nocturnus,Creature,Vampire,Magic 2010,Mythic Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',7.16,False
+Wall of Bone,Creature,Skeleton Wall,Magic 2010,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',0.12,False
+Warpath Ghoul,Creature,Zombie,Magic 2010,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',0.06,False
+Weakness,Enchantment,Aura,Magic 2010,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.02,False
+Xathrid Demon,Creature,Demon,Magic 2010,Mythic Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.46,False
+Zombie Goliath,Creature,Zombie Giant,Magic 2010,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'E. M. Gist',0.1,False
+Act of Treason,Sorcery,None,Magic 2010,Uncommon,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'Eric Deschamps',0.06,False
+Ball Lightning,Creature,Elemental,Magic 2010,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Trevor Claxton',1.92,False
+Berserkers of Blood Ridge,Creature,Human Berserker,Magic 2010,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.08,False
+Bogardan Hellkite,Creature,Dragon,Magic 2010,Mythic Rare,8,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',0.52,False
+Burning Inquiry,Sorcery,None,Magic 2010,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',1.3,False
+Burst of Speed,Sorcery,None,Magic 2010,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.11,False
+Canyon Minotaur,Creature,Minotaur Warrior,Magic 2010,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.04,False
+Capricious Efreet,Creature,Efreet,Magic 2010,Rare,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Sweet',0.17,False
+Chandra Nalaar,Planeswalker,Chandra,Magic 2010,Mythic Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',1.82,True
+Dragon Whelp,Creature,Dragon,Magic 2010,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.14,False
+Earthquake,Sorcery,None,Magic 2010,Rare,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Adrian Smith',0.57,False
+Fiery Hellhound,Creature,Elemental Dog,Magic 2010,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ted Galaday',0.04,False
+Fireball,Sorcery,None,Magic 2010,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Dorman',0.15,False
+Firebreathing,Enchantment,Aura,Magic 2010,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',0.05,False
+Goblin Artillery,Creature,Goblin Warrior,Magic 2010,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Alex Horley-Orlandelli',0.11,False
+Goblin Chieftain,Creature,Goblin,Magic 2010,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Sam Wood',2.35,False
+Goblin Piker,Creature,Goblin Warrior,Magic 2010,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'DiTerlizzi',0.04,False
+Ignite Disorder,Instant,None,Magic 2010,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.12,False
+Inferno Elemental,Creature,Elemental,Magic 2010,Uncommon,6,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.1,False
+Jackal Familiar,Creature,Jackal,Magic 2010,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Alex Horley-Orlandelli',0.18,False
+Kindled Fury,Instant,None,Magic 2010,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.03,False
+Lava Axe,Sorcery,None,Magic 2010,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.18,False
+Lightning Bolt,Instant,None,Magic 2010,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',1.38,False
+Lightning Elemental,Creature,Elemental,Magic 2010,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.12,False
+Magma Phoenix,Creature,Phoenix,Magic 2010,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.19,False
+Manabarbs,Enchantment,None,Magic 2010,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.41,False
+Panic Attack,Sorcery,None,Magic 2010,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.06,False
+Prodigal Pyromancer,Creature,Human Wizard,Magic 2010,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeremy Jarvis',0.09,False
+Pyroclasm,Sorcery,None,Magic 2010,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.2,False
+Raging Goblin,Creature,Goblin Berserker,Magic 2010,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.09,False
+Seismic Strike,Instant,None,Magic 2010,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.08,False
+Shatter,Instant,None,Magic 2010,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Tim Hildebrandt',0.11,False
+Shivan Dragon,Creature,Dragon,Magic 2010,Rare,6,Red,Legal,Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.42,False
+Siege-Gang Commander,Creature,Goblin,Magic 2010,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.65,False
+Sparkmage Apprentice,Creature,Human Wizard,Magic 2010,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',0.12,False
+Stone Giant,Creature,Giant,Magic 2010,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Warren Mahy',0.1,False
+Trumpet Blast,Instant,None,Magic 2010,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.07,False
+Viashino Spearhunter,Creature,Viashino Warrior,Magic 2010,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.02,False
+Wall of Fire,Creature,Wall,Magic 2010,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Dos Santos',0.05,False
+Warp World,Sorcery,None,Magic 2010,Rare,8,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.47,False
+Yawning Fissure,Sorcery,None,Magic 2010,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'V\xc3\xa9ronique Meignaud',0.08,False
+Acidic Slime,Creature,Ooze,Magic 2010,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.28,False
+Ant Queen,Creature,Insect,Magic 2010,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Trevor Claxton',0.49,False
+Awakener Druid,Creature,Human Druid,Magic 2010,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',0.06,False
+Birds of Paradise,Creature,Bird,Magic 2010,Rare,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Marcelo Vignali',6.49,False
+Borderland Ranger,Creature,Human Scout,Magic 2010,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.12,False
+Bountiful Harvest,Sorcery,None,Magic 2010,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',0.08,False
+Bramble Creeper,Creature,Elemental,Magic 2010,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.09,False
+Centaur Courser,Creature,Centaur Warrior,Magic 2010,Common,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Vance Kovacs',0.03,False
+Craw Wurm,Creature,Wurm,Magic 2010,Common,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Sardinha',0.05,False
+Cudgel Troll,Creature,Troll,Magic 2010,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.11,False
+Deadly Recluse,Creature,Spider,Magic 2010,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Warren Mahy',0.14,False
+Elvish Archdruid,Creature,Elf Druid,Magic 2010,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',1.66,False
+Elvish Piper,Creature,Elf Shaman,Magic 2010,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',3.45,False
+Elvish Visionary,Creature,Elf Shaman,Magic 2010,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'D. Alexander Gregory',0.13,False
+Emerald Oryx,Creature,Antelope,Magic 2010,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.06,False
+Enormous Baloth,Creature,Beast,Magic 2010,Uncommon,7,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.04,False
+Entangling Vines,Enchantment,Aura,Magic 2010,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.15,False
+Fog,Instant,None,Magic 2010,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.11,False
+Garruk Wildspeaker,Planeswalker,Garruk,Magic 2010,Mythic Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',5.34,True
+Giant Growth,Instant,None,Magic 2010,Common,1,Green,Legal,Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.07,False
+Giant Spider,Creature,Spider,Magic 2010,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.08,False
+Great Sable Stag,Creature,Elk,Magic 2010,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.55,False
+Howl of the Night Pack,Sorcery,None,Magic 2010,Uncommon,7,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.2,False
+Kalonian Behemoth,Creature,Beast,Magic 2010,Rare,7,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.45,False
+Llanowar Elves,Creature,Elf Druid,Magic 2010,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.22,False
+Lurking Predators,Enchantment,None,Magic 2010,Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Bierek',7.14,False
+Master of the Wild Hunt,Creature,Human Shaman,Magic 2010,Mythic Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',5.47,False
+Might of Oaks,Instant,None,Magic 2010,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeremy Jarvis',0.38,False
+Mist Leopard,Creature,Cat,Magic 2010,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'John Matson',0.09,False
+Mold Adder,Creature,Fungus Snake,Magic 2010,Uncommon,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.33,False
+Naturalize,Instant,None,Magic 2010,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Tim Hildebrandt',0.11,False
+Nature's Spiral,Sorcery,None,Magic 2010,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.11,False
+Oakenform,Enchantment,Aura,Magic 2010,Common,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.09,False
+Overrun,Sorcery,None,Magic 2010,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.2,False
+Prized Unicorn,Creature,Unicorn,Magic 2010,Uncommon,4,Green,Legal,Legal,Legal,Legal,Legal,True,b'Sam Wood',0.11,False
+Protean Hydra,Creature,Hydra,Magic 2010,Mythic Rare,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Murray',3.56,False
+Rampant Growth,Sorcery,None,Magic 2010,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.44,False
+Regenerate,Instant,None,Magic 2010,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Rebecca Guay',0.11,False
+Runeclaw Bear,Creature,Bear,Magic 2010,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.1,False
+Stampeding Rhino,Creature,Rhino,Magic 2010,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.03,False
+Windstorm,Instant,None,Magic 2010,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.11,False
+Angel's Feather,Artifact,None,Magic 2010,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.12,False
+Coat of Arms,Artifact,None,Magic 2010,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',8.09,False
+Darksteel Colossus,Artifact Creature,Golem,Magic 2010,Mythic Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',7.68,False
+Demon's Horn,Artifact,None,Magic 2010,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.11,False
+Dragon's Claw,Artifact,None,Magic 2010,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.33,False
+Gorgon Flail,Artifact,Equipment,Magic 2010,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Lars Grant-West',1.24,False
+Howling Mine,Artifact,None,Magic 2010,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Ralph Horsley',3.57,False
+Kraken's Eye,Artifact,None,Magic 2010,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.12,False
+Magebane Armor,Artifact,Equipment,Magic 2010,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Izzy',1.05,False
+Mirror of Fate,Artifact,None,Magic 2010,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Pollack',0.57,False
+Ornithopter,Artifact Creature,Thopter,Magic 2010,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',0.23,False
+Pithing Needle,Artifact,None,Magic 2010,Rare,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',5.65,False
+Platinum Angel,Artifact Creature,Angel,Magic 2010,Mythic Rare,7,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Brom',5.19,False
+Rod of Ruin,Artifact,None,Magic 2010,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.03,False
+Spellbook,Artifact,None,Magic 2010,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Goldhawk',2.05,False
+Whispersilk Cloak,Artifact,Equipment,Magic 2010,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',1.11,False
+Wurm's Tooth,Artifact,None,Magic 2010,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.06,False
+Dragonskull Summit,Land,None,Magic 2010,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jon Foster',3.27,False
+Drowned Catacomb,Land,None,Magic 2010,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Kendall',5.68,False
+Gargoyle Castle,Land,None,Magic 2010,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Paul Bonner',0.15,False
+Glacial Fortress,Land,None,Magic 2010,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',5.7,False
+Rootbound Crag,Land,None,Magic 2010,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',3.4,False
+Sunpetal Grove,Land,None,Magic 2010,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',3.76,False
+Terramorphic Expanse,Land,None,Magic 2010,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.28,False
+Plains,Basic Land,Plains,Magic 2010,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.19,False
+Plains,Basic Land,Plains,Magic 2010,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.26,False
+Plains,Basic Land,Plains,Magic 2010,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Don Hazeltine',0.16,False
+Plains,Basic Land,Plains,Magic 2010,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Ryan Pancoast',0.23,False
+Island,Basic Land,Island,Magic 2010,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.18,False
+Island,Basic Land,Island,Magic 2010,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.2,False
+Island,Basic Land,Island,Magic 2010,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Scott Bailey',0.21,False
+Island,Basic Land,Island,Magic 2010,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Fred Fields',0.24,False
+Swamp,Basic Land,Swamp,Magic 2010,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.22,False
+Swamp,Basic Land,Swamp,Magic 2010,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Alex Horley-Orlandelli',0.2,False
+Swamp,Basic Land,Swamp,Magic 2010,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jim Pavelec',0.15,False
+Swamp,Basic Land,Swamp,Magic 2010,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.17,False
+Mountain,Basic Land,Mountain,Magic 2010,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.18,False
+Mountain,Basic Land,Mountain,Magic 2010,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.14,False
+Mountain,Basic Land,Mountain,Magic 2010,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.09,False
+Mountain,Basic Land,Mountain,Magic 2010,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Sam Wood',0.1,False
+Forest,Basic Land,Forest,Magic 2010,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Glen Angus',0.14,False
+Forest,Basic Land,Forest,Magic 2010,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.18,False
+Forest,Basic Land,Forest,Magic 2010,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.1,False
+Forest,Basic Land,Forest,Magic 2010,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jim Nelson',0.12,False

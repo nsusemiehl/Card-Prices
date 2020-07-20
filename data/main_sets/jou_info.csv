@@ -1,166 +1,166 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Aegis of the Gods,Enchantment Creature,Human Soldier,Journey into Nyx,Rare,2,White,True,False,True,True,b'Yefim Kligerman',1.28
-Ajani's Presence,Instant,None,Journey into Nyx,Common,1,White,True,False,True,True,b'Raymond Swanland',0.27
-Akroan Mastiff,Creature,Hound,Journey into Nyx,Common,4,White,True,False,True,True,b'Zoltan Boros',0.05
-Armament of Nyx,Enchantment,Aura,Journey into Nyx,Common,3,White,True,False,True,True,b'Slawomir Maniak',0.05
-Banishing Light,Enchantment,None,Journey into Nyx,Uncommon,3,White,True,True,True,True,b'Willian Murai',0.23
-Dawnbringer Charioteers,Creature,Human Soldier,Journey into Nyx,Rare,4,White,True,False,True,True,b'Ryan Alexander Lee',0.14
-Deicide,Instant,None,Journey into Nyx,Rare,2,White,True,False,True,True,b'Jason Chan',0.29
-Dictate of Heliod,Enchantment,None,Journey into Nyx,Rare,5,White,True,False,True,True,b'Terese Nielsen',0.32
-Eagle of the Watch,Creature,Bird,Journey into Nyx,Common,3,White,True,False,True,True,b'Scott Murphy',0.04
-Eidolon of Rhetoric,Enchantment Creature,Spirit,Journey into Nyx,Uncommon,3,White,True,False,True,True,b'Ryan Yee',0.72
-Font of Vigor,Enchantment,None,Journey into Nyx,Common,2,White,True,False,True,True,b'Noah Bradley',0.08
-Godsend,Legendary Artifact,Equipment,Journey into Nyx,Mythic Rare,3,White,True,False,True,True,b'Daniel Ljunggren',8.98
-Harvestguard Alseids,Enchantment Creature,Nymph,Journey into Nyx,Common,3,White,True,False,True,True,b'Igor Kieryluk',0.1
-Lagonna-Band Trailblazer,Creature,Centaur Scout,Journey into Nyx,Common,1,White,True,False,True,True,b'James Zapata',0.23
-Launch the Fleet,Sorcery,None,Journey into Nyx,Rare,1,White,True,False,True,True,b'Karl Kopinski',0.41
-Leonin Iconoclast,Creature,Cat Monk,Journey into Nyx,Uncommon,4,White,True,False,True,True,b'Steve Prescott',0.12
-Mortal Obstinacy,Enchantment,Aura,Journey into Nyx,Common,1,White,True,False,True,True,b'Slawomir Maniak',0.05
-Nyx-Fleece Ram,Enchantment Creature,Sheep,Journey into Nyx,Uncommon,2,White,True,False,True,True,b'Terese Nielsen',0.88
-Oppressive Rays,Enchantment,Aura,Journey into Nyx,Common,1,White,True,False,True,True,b'Mark Zug',0.09
-Oreskos Swiftclaw,Creature,Cat Warrior,Journey into Nyx,Common,2,White,True,False,True,True,b'James Ryman',0.06
-Phalanx Formation,Instant,None,Journey into Nyx,Uncommon,3,White,True,False,True,True,b'Dan Scott',0.09
-Quarry Colossus,Creature,Giant,Journey into Nyx,Uncommon,7,White,True,False,True,True,b'Todd Lockwood',0.07
-Reprisal,Instant,None,Journey into Nyx,Uncommon,2,White,True,False,True,True,b'Raymond Swanland',0.13
-Sightless Brawler,Enchantment Creature,Human Warrior,Journey into Nyx,Uncommon,2,White,True,False,True,True,b'Johann Bodin',0.07
-Skybind,Enchantment,None,Journey into Nyx,Rare,5,White,True,False,True,True,b'Igor Kieryluk',0.24
-Skyspear Cavalry,Creature,Human Soldier,Journey into Nyx,Uncommon,5,White,True,False,True,True,b'Wayne Reynolds',0.09
-Stonewise Fortifier,Creature,Human Wizard,Journey into Nyx,Common,2,White,True,False,True,True,b'Ryan Alexander Lee',0.01
-Supply-Line Cranes,Creature,Bird,Journey into Nyx,Common,5,White,True,False,True,True,b'Daniel Ljunggren',0.07
-Tethmos High Priest,Creature,Cat Cleric,Journey into Nyx,Uncommon,3,White,True,False,True,True,b'Mark Zug',0.12
-Aerial Formation,Instant,None,Journey into Nyx,Common,1,Blue,True,False,True,True,b'Zack Stella',0.03
-Battlefield Thaumaturge,Creature,Human Wizard,Journey into Nyx,Rare,2,Blue,True,False,True,True,b'Mike Sass',0.19
-Cloaked Siren,Creature,Siren,Journey into Nyx,Common,4,Blue,True,False,True,True,b'Mark Zug',0.06
-Countermand,Instant,None,Journey into Nyx,Common,4,Blue,True,False,True,True,b'Clint Cearley',0.11
-Crystalline Nautilus,Enchantment Creature,Nautilus,Journey into Nyx,Uncommon,3,Blue,True,False,True,True,b'Brad Rigney',0.09
-Dakra Mystic,Creature,Merfolk Wizard,Journey into Nyx,Uncommon,1,Blue,True,False,True,True,b'Wesley Burt',0.23
-Daring Thief,Creature,Human Rogue,Journey into Nyx,Rare,3,Blue,True,False,True,True,b'Johann Bodin',0.24
-Dictate of Kruphix,Enchantment,None,Journey into Nyx,Rare,3,Blue,True,False,True,True,b'Daarken',0.8
-Font of Fortunes,Enchantment,None,Journey into Nyx,Common,2,Blue,True,False,True,True,b'Jonas De Ro',0.07
-Godhunter Octopus,Creature,Octopus,Journey into Nyx,Common,6,Blue,True,False,True,True,b'Tyler Jacobson',0.06
-Hour of Need,Instant,None,Journey into Nyx,Uncommon,3,Blue,True,False,True,True,b'Jesper Ejsing',0.11
-Hubris,Instant,None,Journey into Nyx,Common,2,Blue,True,False,True,True,b'Seb McKinnon',0.06
-Hypnotic Siren,Enchantment Creature,Siren,Journey into Nyx,Rare,1,Blue,True,False,True,True,b'James Ryman',0.37
-Interpret the Signs,Sorcery,None,Journey into Nyx,Uncommon,6,Blue,True,False,True,True,b'Cynthia Sheppard',0.14
-Kiora's Dismissal,Instant,None,Journey into Nyx,Uncommon,1,Blue,True,False,True,True,b'Mathias Kollros',0.11
-Pin to the Earth,Enchantment,Aura,Journey into Nyx,Common,2,Blue,True,False,True,True,b'Johann Bodin',0.02
-Polymorphous Rush,Instant,None,Journey into Nyx,Rare,3,Blue,True,False,True,True,b'Ryan Barger',0.16
-Pull from the Deep,Sorcery,None,Journey into Nyx,Uncommon,4,Blue,True,False,True,True,b'Ryan Yee',0.21
-Riptide Chimera,Enchantment Creature,Chimera,Journey into Nyx,Uncommon,3,Blue,True,False,True,True,b'Ryan Barger',0.17
-Rise of Eagles,Sorcery,None,Journey into Nyx,Common,6,Blue,True,False,True,True,b'Noah Bradley',0.1
-Sage of Hours,Creature,Human Wizard,Journey into Nyx,Mythic Rare,2,Blue,True,False,True,True,b'Matt Stewart',2.62
-Scourge of Fleets,Creature,Kraken,Journey into Nyx,Rare,7,Blue,True,False,True,True,b'Steven Belledin',0.33
-Sigiled Starfish,Creature,Starfish,Journey into Nyx,Common,2,Blue,True,False,True,True,b'Nils Hamm',0.1
-Thassa's Devourer,Enchantment Creature,Elemental,Journey into Nyx,Common,5,Blue,True,False,True,True,b'David Palumbo',0.06
-Thassa's Ire,Enchantment,None,Journey into Nyx,Uncommon,1,Blue,True,False,True,True,b'Chris Rahn',0.14
-Triton Cavalry,Creature,Merfolk Soldier,Journey into Nyx,Uncommon,4,Blue,True,False,True,True,b'Kev Walker',0.06
-Triton Shorestalker,Creature,Merfolk Rogue,Journey into Nyx,Common,1,Blue,True,False,True,True,b'Svetlin Velinov',0.28
-War-Wing Siren,Creature,Siren Soldier,Journey into Nyx,Common,3,Blue,True,False,True,True,b'Magali Villeneuve',0.04
-Whitewater Naiads,Enchantment Creature,Nymph,Journey into Nyx,Uncommon,5,Blue,True,False,True,True,b'William Wu',0.12
-Agent of Erebos,Enchantment Creature,Zombie,Journey into Nyx,Uncommon,4,Black,True,False,True,True,b'Cyril Van Der Haegen',0.25
-Aspect of Gorgon,Enchantment,Aura,Journey into Nyx,Common,3,Black,True,False,True,True,b'Willian Murai',0.14
-Bloodcrazed Hoplite,Creature,Human Soldier,Journey into Nyx,Common,2,Black,True,False,True,True,b'Jeff Simpson',0.07
-Brain Maggot,Enchantment Creature,Insect,Journey into Nyx,Uncommon,2,Black,True,False,True,True,b'Min Yum',0.14
-Cast into Darkness,Enchantment,Aura,Journey into Nyx,Common,2,Black,True,False,True,True,b'Clint Cearley',0.03
-Cruel Feeding,Instant,None,Journey into Nyx,Common,1,Black,True,False,True,True,b'Jason A. Engle',0.05
-Dictate of Erebos,Enchantment,None,Journey into Nyx,Rare,5,Black,True,False,True,True,b'Michael C. Hayes',6.41
-Doomwake Giant,Enchantment Creature,Giant,Journey into Nyx,Rare,5,Black,True,False,True,True,b'Kev Walker',0.21
-Dreadbringer Lampads,Enchantment Creature,Nymph,Journey into Nyx,Common,5,Black,True,False,True,True,b'Willian Murai',0.06
-Extinguish All Hope,Sorcery,None,Journey into Nyx,Rare,6,Black,True,False,True,True,b'Chase Stone',0.25
-Feast of Dreams,Instant,None,Journey into Nyx,Common,2,Black,True,False,True,True,b'Clint Cearley',0.04
-Felhide Petrifier,Creature,Minotaur Warrior,Journey into Nyx,Uncommon,3,Black,True,False,True,True,b'James Ryman',0.25
-Font of Return,Enchantment,None,Journey into Nyx,Common,2,Black,True,False,True,True,b'Daarken',0.1
-Gnarled Scarhide,Enchantment Creature,Minotaur,Journey into Nyx,Uncommon,1,Black,True,False,True,True,b'Greg Staples',0.18
-Grim Guardian,Enchantment Creature,Zombie,Journey into Nyx,Common,3,Black,True,False,True,True,b'Ryan Barger',0.14
-"King Macar, the Gold-Cursed",Legendary Creature,Human Noble,Journey into Nyx,Rare,4,Black,True,False,True,True,b'Greg Staples',0.36
-Master of the Feast,Enchantment Creature,Demon,Journey into Nyx,Rare,3,Black,True,False,True,True,b'Chris Rahn',0.63
-Nightmarish End,Instant,None,Journey into Nyx,Uncommon,3,Black,True,False,True,True,b'Willian Murai',0.06
-Nyx Infusion,Enchantment,Aura,Journey into Nyx,Common,3,Black,True,False,True,True,b'Jason A. Engle',0.05
-Pharika's Chosen,Creature,Snake,Journey into Nyx,Common,1,Black,True,False,True,True,b'Jonas De Ro',0.13
-Returned Reveler,Creature,Zombie Satyr,Journey into Nyx,Common,2,Black,True,False,True,True,b'Allen Williams',0.11
-Ritual of the Returned,Instant,None,Journey into Nyx,Uncommon,4,Black,True,False,True,True,b'Zack Stella',0.15
-Rotted Hulk,Creature,Elemental,Journey into Nyx,Common,4,Black,True,False,True,True,b'Raymond Swanland',0.05
-Silence the Believers,Instant,None,Journey into Nyx,Rare,4,Black,True,False,True,True,b'Slawomir Maniak',0.24
-Spiteful Blow,Sorcery,None,Journey into Nyx,Uncommon,6,Black,True,False,True,True,b'Jason Chan',0.06
-Squelching Leeches,Creature,Leech,Journey into Nyx,Uncommon,4,Black,True,False,True,True,b'Svetlin Velinov',0.13
-Thoughtrender Lamia,Enchantment Creature,Lamia,Journey into Nyx,Uncommon,6,Black,True,False,True,True,b'Magali Villeneuve',0.12
-Tormented Thoughts,Sorcery,None,Journey into Nyx,Uncommon,3,Black,True,False,True,True,b'Allen Williams',0.06
-Worst Fears,Sorcery,None,Journey into Nyx,Mythic Rare,8,Black,True,False,True,True,b'Eric Deschamps',1.07
-Akroan Line Breaker,Creature,Human Warrior,Journey into Nyx,Uncommon,3,Red,True,False,True,True,b'Marco Nelor',0.07
-Bearer of the Heavens,Creature,Giant,Journey into Nyx,Rare,8,Red,True,False,True,True,b'Ryan Alexander Lee',0.37
-Bladetusk Boar,Creature,Boar,Journey into Nyx,Common,4,Red,True,False,True,True,b'Sam Burley',0.02
-Blinding Flare,Sorcery,None,Journey into Nyx,Uncommon,1,Red,True,False,True,True,b'Evan Shipard',0.15
-Cyclops of Eternal Fury,Enchantment Creature,Cyclops,Journey into Nyx,Uncommon,6,Red,True,False,True,True,b'Matt Stewart',0.09
-Dictate of the Twin Gods,Enchantment,None,Journey into Nyx,Rare,5,Red,True,False,True,True,b'Jaime Jones',0.56
-Eidolon of the Great Revel,Enchantment Creature,Spirit,Journey into Nyx,Rare,2,Red,True,False,True,True,b'Cyril Van Der Haegen',5.59
-Flamespeaker's Will,Enchantment,Aura,Journey into Nyx,Common,1,Red,True,False,True,True,b'Daniel Ljunggren',0.06
-Flurry of Horns,Sorcery,None,Journey into Nyx,Common,5,Red,True,False,True,True,b'Phill Simmer',0.1
-Font of Ire,Enchantment,None,Journey into Nyx,Common,2,Red,True,False,True,True,b'Zack Stella',0.05
-Forgeborn Oreads,Enchantment Creature,Nymph,Journey into Nyx,Uncommon,4,Red,True,False,True,True,b'Ryan Yee',0.1
-Gluttonous Cyclops,Creature,Cyclops,Journey into Nyx,Common,6,Red,True,False,True,True,b'Steve Prescott',0.02
-Harness by Force,Sorcery,None,Journey into Nyx,Rare,3,Red,True,False,True,True,b'Yefim Kligerman',0.25
-Knowledge and Power,Enchantment,None,Journey into Nyx,Uncommon,5,Red,True,False,True,True,b'Jung Park',0.09
-Lightning Diadem,Enchantment,Aura,Journey into Nyx,Common,6,Red,True,False,True,True,b'Ryan Alexander Lee',0.05
-Magma Spray,Instant,None,Journey into Nyx,Common,1,Red,True,False,True,True,b'Richard Wright',0.12
-Mogis's Warhound,Enchantment Creature,Hound,Journey into Nyx,Uncommon,2,Red,True,False,True,True,b'John Severin Brassell',0.09
-Pensive Minotaur,Creature,Minotaur Warrior,Journey into Nyx,Common,3,Red,True,False,True,True,b'Svetlin Velinov',0.02
-Prophetic Flamespeaker,Creature,Human Shaman,Journey into Nyx,Mythic Rare,3,Red,True,False,True,True,b'Cynthia Sheppard',0.54
-Riddle of Lightning,Instant,None,Journey into Nyx,Uncommon,5,Red,True,False,True,True,b'Daarken',0.1
-Rollick of Abandon,Sorcery,None,Journey into Nyx,Uncommon,5,Red,True,False,True,True,b'Mathias Kollros',0.08
-Rouse the Mob,Instant,None,Journey into Nyx,Common,1,Red,True,False,True,True,b'John Stanko',0.09
-Satyr Hoplite,Creature,Satyr Soldier,Journey into Nyx,Common,1,Red,True,False,True,True,b'Mark Zug',0.1
-Sigiled Skink,Creature,Lizard,Journey into Nyx,Common,2,Red,True,False,True,True,b'Yeong-Hao Han',0.02
-Spawn of Thraxes,Creature,Dragon,Journey into Nyx,Rare,7,Red,True,False,True,True,b'Svetlin Velinov',0.31
-Spite of Mogis,Sorcery,None,Journey into Nyx,Uncommon,1,Red,True,False,True,True,b'Vincent Proce',0.16
-Starfall,Instant,None,Journey into Nyx,Common,5,Red,True,False,True,True,b'Chris Rahn',0.01
-Twinflame,Sorcery,None,Journey into Nyx,Rare,2,Red,True,False,True,True,b'Chase Stone',1.15
-Wildfire Cerberus,Creature,Hound,Journey into Nyx,Uncommon,5,Red,True,False,True,True,b'Slawomir Maniak',0.07
-Bassara Tower Archer,Creature,Human Archer,Journey into Nyx,Uncommon,2,Green,True,False,True,True,b'Slawomir Maniak',0.26
-Colossal Heroics,Instant,None,Journey into Nyx,Uncommon,3,Green,True,False,True,True,b'Seb McKinnon',0.1
-Consign to Dust,Instant,None,Journey into Nyx,Uncommon,3,Green,True,False,True,True,b'Andreas Rocha',0.09
-Desecration Plague,Sorcery,None,Journey into Nyx,Common,4,Green,True,False,True,True,b'Ralph Horsley',0.07
-Dictate of Karametra,Enchantment,None,Journey into Nyx,Rare,5,Green,True,False,True,True,b'Noah Bradley',1.07
-Eidolon of Blossoms,Enchantment Creature,Spirit,Journey into Nyx,Rare,4,Green,True,False,True,True,b'Min Yum',0.46
-Font of Fertility,Enchantment,None,Journey into Nyx,Common,1,Green,True,False,True,True,b'Jack Wang',0.14
-Golden Hind,Creature,Elk,Journey into Nyx,Common,2,Green,True,False,True,True,b'Cyril Van Der Haegen',0.05
-Goldenhide Ox,Enchantment Creature,Ox,Journey into Nyx,Uncommon,6,Green,True,False,True,True,b'Jack Wang',0.13
-Heroes' Bane,Creature,Hydra,Journey into Nyx,Rare,5,Green,True,False,True,True,b'Raymond Swanland',0.35
-Humbler of Mortals,Enchantment Creature,Elemental,Journey into Nyx,Common,6,Green,True,False,True,True,b'Jason Felix',0.1
-Hydra Broodmaster,Creature,Hydra,Journey into Nyx,Rare,6,Green,True,False,True,True,b'Steve Prescott',1.94
-Kruphix's Insight,Sorcery,None,Journey into Nyx,Common,3,Green,True,False,True,True,b'Igor Kieryluk',0.1
-Market Festival,Enchantment,Aura,Journey into Nyx,Common,4,Green,True,False,True,True,b'Ryan Barger',0.19
-Nature's Panoply,Instant,None,Journey into Nyx,Common,1,Green,True,False,True,True,b'John Avon',0.08
-Nessian Game Warden,Creature,Beast,Journey into Nyx,Uncommon,5,Green,True,False,True,True,b'Vincent Proce',0.09
-Oakheart Dryads,Enchantment Creature,Nymph Dryad,Journey into Nyx,Common,3,Green,True,False,True,True,b'Johann Bodin',0.08
-Pheres-Band Thunderhoof,Creature,Centaur Warrior,Journey into Nyx,Common,5,Green,True,False,True,True,b'Christopher Moeller',0.07
-Pheres-Band Warchief,Creature,Centaur Warrior,Journey into Nyx,Rare,4,Green,True,False,True,True,b'James Ryman',0.17
-Ravenous Leucrocota,Creature,Beast,Journey into Nyx,Common,4,Green,True,False,True,True,b'Christopher Burdett',0.02
-Renowned Weaver,Creature,Human Shaman,Journey into Nyx,Common,1,Green,True,False,True,True,b'Yohann Schepacz',0.09
-Reviving Melody,Sorcery,None,Journey into Nyx,Uncommon,3,Green,True,False,True,True,b'Cynthia Sheppard',0.11
-Satyr Grovedancer,Creature,Satyr Shaman,Journey into Nyx,Common,2,Green,True,False,True,True,b'Jason A. Engle',0.06
-Setessan Tactics,Instant,None,Journey into Nyx,Rare,2,Green,True,False,True,True,b'Mark Winters',0.34
-Solidarity of Heroes,Instant,None,Journey into Nyx,Uncommon,2,Green,True,False,True,True,b'Eric Deschamps',0.97
-Spirespine,Enchantment Creature,Beast,Journey into Nyx,Uncommon,3,Green,True,False,True,True,b'Sam Burley',0.07
-Strength from the Fallen,Enchantment,None,Journey into Nyx,Uncommon,2,Green,True,False,True,True,b'Min Yum',0.11
-Swarmborn Giant,Creature,Giant,Journey into Nyx,Uncommon,4,Green,True,False,True,True,b'Jaime Jones',0.1
-"Ajani, Mentor of Heroes",Legendary Planeswalker,Ajani,Journey into Nyx,Mythic Rare,5,Gold,True,False,True,True,b'Aaron Miller',8.2
-"Athreos, God of Passage",Legendary Enchantment Creature,God,Journey into Nyx,Mythic Rare,3,Gold,True,False,True,True,b'Ryan Barger',8.74
-Desperate Stand,Sorcery,None,Journey into Nyx,Uncommon,2,Gold,True,False,True,True,b'Raymond Swanland',0.13
-Disciple of Deceit,Creature,Human Rogue,Journey into Nyx,Uncommon,2,Gold,True,False,True,True,b'Daarken',0.22
-Fleetfeather Cockatrice,Creature,Cockatrice,Journey into Nyx,Uncommon,5,Gold,True,False,True,True,b'Matt Stewart',0.13
-"Iroas, God of Victory",Legendary Enchantment Creature,God,Journey into Nyx,Mythic Rare,4,Gold,True,False,True,True,b'Slawomir Maniak',6.87
-"Keranos, God of Storms",Legendary Enchantment Creature,God,Journey into Nyx,Mythic Rare,5,Gold,True,False,True,True,b'Daarken',5.71
-"Kruphix, God of Horizons",Legendary Enchantment Creature,God,Journey into Nyx,Mythic Rare,5,Gold,True,False,True,True,b'Daarken',8.17
-Nyx Weaver,Enchantment Creature,Spider,Journey into Nyx,Uncommon,3,Gold,True,False,True,True,b'Jack Wang',0.25
-"Pharika, God of Affliction",Legendary Enchantment Creature,God,Journey into Nyx,Mythic Rare,3,Gold,True,False,True,True,b'Peter Mohrbacher',2.14
-Revel of the Fallen God,Sorcery,None,Journey into Nyx,Rare,7,Gold,True,False,True,True,b'Adam Paquette',0.14
-Stormchaser Chimera,Creature,Chimera,Journey into Nyx,Uncommon,4,Gold,True,False,True,True,b'Greg Staples',0.07
-Underworld Coinsmith,Enchantment Creature,Human Cleric,Journey into Nyx,Uncommon,2,Gold,True,False,True,True,b'Mark Winters',0.13
-Armory of Iroas,Artifact,Equipment,Journey into Nyx,Uncommon,2,Colorless,True,False,True,True,b'Yeong-Hao Han',0.23
-Chariot of Victory,Artifact,Equipment,Journey into Nyx,Uncommon,3,Colorless,True,False,True,True,b'John Stanko',0.43
-Deserter's Quarters,Artifact,None,Journey into Nyx,Uncommon,2,Colorless,True,False,True,True,b'Daniel Ljunggren',0.04
-Gold-Forged Sentinel,Artifact Creature,Chimera,Journey into Nyx,Uncommon,6,Colorless,True,False,True,True,b'James Zapata',0.04
-Hall of Triumph,Legendary Artifact,None,Journey into Nyx,Rare,3,Colorless,True,False,True,True,b'Ryan Yee',0.33
-Mana Confluence,Land,None,Journey into Nyx,Rare,0,Colorless,True,False,True,True,b'Richard Wright',22.58
-Temple of Epiphany,Land,None,Journey into Nyx,Rare,0,Colorless,True,True,True,True,b'Noah Bradley',1.7
-Temple of Malady,Land,None,Journey into Nyx,Rare,0,Colorless,True,True,True,True,b'James Paick',1.29
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Aegis of the Gods,Enchantment Creature,Human Soldier,Journey into Nyx,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Yefim Kligerman',1.41,False
+Ajani's Presence,Instant,None,Journey into Nyx,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.31,False
+Akroan Mastiff,Creature,Dog,Journey into Nyx,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.06,False
+Armament of Nyx,Enchantment,Aura,Journey into Nyx,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',0.05,False
+Banishing Light,Enchantment,None,Journey into Nyx,Uncommon,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Willian Murai',0.12,False
+Dawnbringer Charioteers,Creature,Human Soldier,Journey into Nyx,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Alexander Lee',0.15,False
+Deicide,Instant,None,Journey into Nyx,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',0.33,False
+Dictate of Heliod,Enchantment,None,Journey into Nyx,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.24,False
+Eagle of the Watch,Creature,Bird,Journey into Nyx,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Murphy',0.05,False
+Eidolon of Rhetoric,Enchantment Creature,Spirit,Journey into Nyx,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Yee',0.54,False
+Font of Vigor,Enchantment,None,Journey into Nyx,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Noah Bradley',0.07,False
+Godsend,Artifact,Equipment,Journey into Nyx,Mythic Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',9.18,True
+Harvestguard Alseids,Enchantment Creature,Nymph,Journey into Nyx,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.11,False
+Lagonna-Band Trailblazer,Creature,Centaur Scout,Journey into Nyx,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'James Zapata',0.2,False
+Launch the Fleet,Sorcery,None,Journey into Nyx,Rare,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.44,False
+Leonin Iconoclast,Creature,Cat Monk,Journey into Nyx,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.12,False
+Mortal Obstinacy,Enchantment,Aura,Journey into Nyx,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',0.06,False
+Nyx-Fleece Ram,Enchantment Creature,Sheep,Journey into Nyx,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.59,False
+Oppressive Rays,Enchantment,Aura,Journey into Nyx,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.09,False
+Oreskos Swiftclaw,Creature,Cat Warrior,Journey into Nyx,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'James Ryman',0.04,False
+Phalanx Formation,Instant,None,Journey into Nyx,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.09,False
+Quarry Colossus,Creature,Giant,Journey into Nyx,Uncommon,7,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Todd Lockwood',0.11,False
+Reprisal,Instant,None,Journey into Nyx,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.12,False
+Sightless Brawler,Enchantment Creature,Human Warrior,Journey into Nyx,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Johann Bodin',0.07,False
+Skybind,Enchantment,None,Journey into Nyx,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.25,False
+Skyspear Cavalry,Creature,Human Soldier,Journey into Nyx,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.1,False
+Stonewise Fortifier,Creature,Human Wizard,Journey into Nyx,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Alexander Lee',0.01,False
+Supply-Line Cranes,Creature,Bird,Journey into Nyx,Common,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',0.08,False
+Tethmos High Priest,Creature,Cat Cleric,Journey into Nyx,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.14,False
+Aerial Formation,Instant,None,Journey into Nyx,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Zack Stella',0.05,False
+Battlefield Thaumaturge,Creature,Human Wizard,Journey into Nyx,Rare,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Sass',0.22,False
+Cloaked Siren,Creature,Siren,Journey into Nyx,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.06,False
+Countermand,Instant,None,Journey into Nyx,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Clint Cearley',0.11,False
+Crystalline Nautilus,Enchantment Creature,Nautilus,Journey into Nyx,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Brad Rigney',0.11,False
+Dakra Mystic,Creature,Merfolk Wizard,Journey into Nyx,Uncommon,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Wesley Burt',0.22,False
+Daring Thief,Creature,Human Rogue,Journey into Nyx,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Johann Bodin',0.26,False
+Dictate of Kruphix,Enchantment,None,Journey into Nyx,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',1.16,False
+Font of Fortunes,Enchantment,None,Journey into Nyx,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jonas De Ro',0.08,False
+Godhunter Octopus,Creature,Octopus,Journey into Nyx,Common,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Tyler Jacobson',0.06,False
+Hour of Need,Instant,None,Journey into Nyx,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.1,False
+Hubris,Instant,None,Journey into Nyx,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Seb McKinnon',0.07,False
+Hypnotic Siren,Enchantment Creature,Siren,Journey into Nyx,Rare,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'James Ryman',0.45,False
+Interpret the Signs,Sorcery,None,Journey into Nyx,Uncommon,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Cynthia Sheppard',0.18,False
+Kiora's Dismissal,Instant,None,Journey into Nyx,Uncommon,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mathias Kollros',0.12,False
+Pin to the Earth,Enchantment,Aura,Journey into Nyx,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Johann Bodin',0.04,False
+Polymorphous Rush,Instant,None,Journey into Nyx,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Barger',0.15,False
+Pull from the Deep,Sorcery,None,Journey into Nyx,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Yee',0.18,False
+Riptide Chimera,Enchantment Creature,Chimera,Journey into Nyx,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Barger',0.14,False
+Rise of Eagles,Sorcery,None,Journey into Nyx,Common,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Noah Bradley',0.07,False
+Sage of Hours,Creature,Human Wizard,Journey into Nyx,Mythic Rare,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',2.63,False
+Scourge of Fleets,Creature,Kraken,Journey into Nyx,Rare,7,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.38,False
+Sigiled Starfish,Creature,Starfish,Journey into Nyx,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.12,False
+Thassa's Devourer,Enchantment Creature,Elemental,Journey into Nyx,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'David Palumbo',0.06,False
+Thassa's Ire,Enchantment,None,Journey into Nyx,Uncommon,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.15,False
+Triton Cavalry,Creature,Merfolk Soldier,Journey into Nyx,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.11,False
+Triton Shorestalker,Creature,Merfolk Rogue,Journey into Nyx,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.3,False
+War-Wing Siren,Creature,Siren Soldier,Journey into Nyx,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Magali Villeneuve',0.06,False
+Whitewater Naiads,Enchantment Creature,Nymph,Journey into Nyx,Uncommon,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'William Wu',0.12,False
+Agent of Erebos,Enchantment Creature,Zombie,Journey into Nyx,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Cyril Van Der Haegen',0.25,False
+Aspect of Gorgon,Enchantment,Aura,Journey into Nyx,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Willian Murai',0.11,False
+Bloodcrazed Hoplite,Creature,Human Soldier,Journey into Nyx,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Simpson',0.09,False
+Brain Maggot,Enchantment Creature,Insect,Journey into Nyx,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Min Yum',0.15,False
+Cast into Darkness,Enchantment,Aura,Journey into Nyx,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Clint Cearley',0.04,False
+Cruel Feeding,Instant,None,Journey into Nyx,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason A. Engle',0.05,False
+Dictate of Erebos,Enchantment,None,Journey into Nyx,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael C. Hayes',7.4,False
+Doomwake Giant,Enchantment Creature,Giant,Journey into Nyx,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.26,False
+Dreadbringer Lampads,Enchantment Creature,Nymph,Journey into Nyx,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Willian Murai',0.06,False
+Extinguish All Hope,Sorcery,None,Journey into Nyx,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Chase Stone',0.3,False
+Feast of Dreams,Instant,None,Journey into Nyx,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Clint Cearley',0.06,False
+Felhide Petrifier,Creature,Minotaur Warrior,Journey into Nyx,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'James Ryman',0.26,False
+Font of Return,Enchantment,None,Journey into Nyx,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.09,False
+Gnarled Scarhide,Enchantment Creature,Minotaur,Journey into Nyx,Uncommon,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.17,False
+Grim Guardian,Enchantment Creature,Zombie,Journey into Nyx,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Barger',0.1,False
+King Macar the Gold-Cursed,Creature,Human Noble,Journey into Nyx,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.39,True
+Master of the Feast,Enchantment Creature,Demon,Journey into Nyx,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.71,False
+Nightmarish End,Instant,None,Journey into Nyx,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Willian Murai',0.07,False
+Nyx Infusion,Enchantment,Aura,Journey into Nyx,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason A. Engle',0.04,False
+Pharika's Chosen,Creature,Snake,Journey into Nyx,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jonas De Ro',0.13,False
+Returned Reveler,Creature,Zombie Satyr,Journey into Nyx,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Allen Williams',0.14,False
+Ritual of the Returned,Instant,None,Journey into Nyx,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Zack Stella',0.12,False
+Rotted Hulk,Creature,Elemental,Journey into Nyx,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.05,False
+Silence the Believers,Instant,None,Journey into Nyx,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',0.25,False
+Spiteful Blow,Sorcery,None,Journey into Nyx,Uncommon,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',0.07,False
+Squelching Leeches,Creature,Leech,Journey into Nyx,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.15,False
+Thoughtrender Lamia,Enchantment Creature,Lamia,Journey into Nyx,Uncommon,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Magali Villeneuve',0.14,False
+Tormented Thoughts,Sorcery,None,Journey into Nyx,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Allen Williams',0.08,False
+Worst Fears,Sorcery,None,Journey into Nyx,Mythic Rare,8,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Deschamps',1.23,False
+Akroan Line Breaker,Creature,Human Warrior,Journey into Nyx,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Marco Nelor',0.07,False
+Bearer of the Heavens,Creature,Giant,Journey into Nyx,Rare,8,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Alexander Lee',0.4,False
+Bladetusk Boar,Creature,Boar,Journey into Nyx,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Sam Burley',0.05,False
+Blinding Flare,Sorcery,None,Journey into Nyx,Uncommon,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Evan Shipard',0.16,False
+Cyclops of Eternal Fury,Enchantment Creature,Cyclops,Journey into Nyx,Uncommon,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.09,False
+Dictate of the Twin Gods,Enchantment,None,Journey into Nyx,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',0.91,False
+Eidolon of the Great Revel,Enchantment Creature,Spirit,Journey into Nyx,Rare,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Cyril Van Der Haegen',6.02,False
+Flamespeaker's Will,Enchantment,Aura,Journey into Nyx,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',0.07,False
+Flurry of Horns,Sorcery,None,Journey into Nyx,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Phill Simmer',0.12,False
+Font of Ire,Enchantment,None,Journey into Nyx,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Zack Stella',0.08,False
+Forgeborn Oreads,Enchantment Creature,Nymph,Journey into Nyx,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Yee',0.13,False
+Gluttonous Cyclops,Creature,Cyclops,Journey into Nyx,Common,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.02,False
+Harness by Force,Sorcery,None,Journey into Nyx,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Yefim Kligerman',0.23,False
+Knowledge and Power,Enchantment,None,Journey into Nyx,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jung Park',0.1,False
+Lightning Diadem,Enchantment,Aura,Journey into Nyx,Common,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Alexander Lee',0.06,False
+Magma Spray,Instant,None,Journey into Nyx,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Wright',0.1,False
+Mogis's Warhound,Enchantment Creature,Dog,Journey into Nyx,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'John Severin Brassell',0.1,False
+Pensive Minotaur,Creature,Minotaur Warrior,Journey into Nyx,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.03,False
+Prophetic Flamespeaker,Creature,Human Shaman,Journey into Nyx,Mythic Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Cynthia Sheppard',0.61,False
+Riddle of Lightning,Instant,None,Journey into Nyx,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.11,False
+Rollick of Abandon,Sorcery,None,Journey into Nyx,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mathias Kollros',0.11,False
+Rouse the Mob,Instant,None,Journey into Nyx,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'John Stanko',0.09,False
+Satyr Hoplite,Creature,Satyr Soldier,Journey into Nyx,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.15,False
+Sigiled Skink,Creature,Lizard,Journey into Nyx,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Yeong-Hao Han',0.03,False
+Spawn of Thraxes,Creature,Dragon,Journey into Nyx,Rare,7,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.36,False
+Spite of Mogis,Sorcery,None,Journey into Nyx,Uncommon,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Vincent Proce',0.16,False
+Starfall,Instant,None,Journey into Nyx,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.04,False
+Twinflame,Sorcery,None,Journey into Nyx,Rare,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Chase Stone',1.3,False
+Wildfire Cerberus,Creature,Dog,Journey into Nyx,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',0.1,False
+Bassara Tower Archer,Creature,Human Archer,Journey into Nyx,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',0.28,False
+Colossal Heroics,Instant,None,Journey into Nyx,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Seb McKinnon',0.13,False
+Consign to Dust,Instant,None,Journey into Nyx,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Andreas Rocha',0.09,False
+Desecration Plague,Sorcery,None,Journey into Nyx,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Ralph Horsley',0.08,False
+Dictate of Karametra,Enchantment,None,Journey into Nyx,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Noah Bradley',0.91,False
+Eidolon of Blossoms,Enchantment Creature,Spirit,Journey into Nyx,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Min Yum',0.48,False
+Font of Fertility,Enchantment,None,Journey into Nyx,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jack Wang',0.13,False
+Golden Hind,Creature,Elk,Journey into Nyx,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Cyril Van Der Haegen',0.07,False
+Goldenhide Ox,Enchantment Creature,Ox,Journey into Nyx,Uncommon,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jack Wang',0.16,False
+Heroes' Bane,Creature,Hydra,Journey into Nyx,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.38,False
+Humbler of Mortals,Enchantment Creature,Elemental,Journey into Nyx,Common,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Felix',0.1,False
+Hydra Broodmaster,Creature,Hydra,Journey into Nyx,Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',2.54,False
+Kruphix's Insight,Sorcery,None,Journey into Nyx,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.09,False
+Market Festival,Enchantment,Aura,Journey into Nyx,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Barger',0.21,False
+Nature's Panoply,Instant,None,Journey into Nyx,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.09,False
+Nessian Game Warden,Creature,Beast,Journey into Nyx,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Vincent Proce',0.11,False
+Oakheart Dryads,Enchantment Creature,Nymph Dryad,Journey into Nyx,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Johann Bodin',0.09,False
+Pheres-Band Thunderhoof,Creature,Centaur Warrior,Journey into Nyx,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.08,False
+Pheres-Band Warchief,Creature,Centaur Warrior,Journey into Nyx,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'James Ryman',0.17,False
+Ravenous Leucrocota,Creature,Beast,Journey into Nyx,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Burdett',0.02,False
+Renowned Weaver,Creature,Human Shaman,Journey into Nyx,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Yohann Schepacz',0.08,False
+Reviving Melody,Sorcery,None,Journey into Nyx,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Cynthia Sheppard',0.12,False
+Satyr Grovedancer,Creature,Satyr Shaman,Journey into Nyx,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason A. Engle',0.08,False
+Setessan Tactics,Instant,None,Journey into Nyx,Rare,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Winters',0.33,False
+Solidarity of Heroes,Instant,None,Journey into Nyx,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Deschamps',1.15,False
+Spirespine,Enchantment Creature,Beast,Journey into Nyx,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Sam Burley',0.12,False
+Strength from the Fallen,Enchantment,None,Journey into Nyx,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Min Yum',0.13,False
+Swarmborn Giant,Creature,Giant,Journey into Nyx,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',0.16,False
+Ajani Mentor of Heroes,Planeswalker,Ajani,Journey into Nyx,Mythic Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Aaron Miller',10.58,True
+Athreos God of Passage,Enchantment Creature,God,Journey into Nyx,Mythic Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Barger',9.22,True
+Desperate Stand,Sorcery,None,Journey into Nyx,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.13,False
+Disciple of Deceit,Creature,Human Rogue,Journey into Nyx,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.2,False
+Fleetfeather Cockatrice,Creature,Cockatrice,Journey into Nyx,Uncommon,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.16,False
+Iroas God of Victory,Enchantment Creature,God,Journey into Nyx,Mythic Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',8.35,True
+Keranos God of Storms,Enchantment Creature,God,Journey into Nyx,Mythic Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',6.75,True
+Kruphix God of Horizons,Enchantment Creature,God,Journey into Nyx,Mythic Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',6.36,True
+Nyx Weaver,Enchantment Creature,Spider,Journey into Nyx,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jack Wang',0.23,False
+Pharika God of Affliction,Enchantment Creature,God,Journey into Nyx,Mythic Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Peter Mohrbacher',1.94,True
+Revel of the Fallen God,Sorcery,None,Journey into Nyx,Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.18,False
+Stormchaser Chimera,Creature,Chimera,Journey into Nyx,Uncommon,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.08,False
+Underworld Coinsmith,Enchantment Creature,Human Cleric,Journey into Nyx,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Winters',0.12,False
+Armory of Iroas,Artifact,Equipment,Journey into Nyx,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Yeong-Hao Han',0.23,False
+Chariot of Victory,Artifact,Equipment,Journey into Nyx,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'John Stanko',0.43,False
+Deserter's Quarters,Artifact,None,Journey into Nyx,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',0.06,False
+Gold-Forged Sentinel,Artifact Creature,Chimera,Journey into Nyx,Uncommon,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'James Zapata',0.05,False
+Hall of Triumph,Artifact,None,Journey into Nyx,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Yee',0.4,True
+Mana Confluence,Land,None,Journey into Nyx,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Wright',24.73,False
+Temple of Epiphany,Land,None,Journey into Nyx,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Noah Bradley',1.74,False
+Temple of Malady,Land,None,Journey into Nyx,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'James Paick',1.26,False

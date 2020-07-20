@@ -1,307 +1,307 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Animate Wall,Enchantment,Aura,Revised Edition,Rare,1,White,False,False,True,True,b'Dan Frazier',0.41
-Armageddon,Sorcery,None,Revised Edition,Rare,4,White,False,False,True,True,b'Jesper Myrfors',5.38
-Balance,Sorcery,None,Revised Edition,Rare,2,White,False,False,False,True,b'Mark Poole',2.46
-Benalish Hero,Creature,Human Soldier,Revised Edition,Common,1,White,False,False,True,True,b'Douglas Shuler',0.11
-Black Ward,Enchantment,Aura,Revised Edition,Uncommon,1,White,False,False,True,True,b'Dan Frazier',0.19
-Blessing,Enchantment,Aura,Revised Edition,Rare,2,White,True,False,True,True,b'Julie Baroh',0.45
-Blue Ward,Enchantment,Aura,Revised Edition,Uncommon,1,White,False,False,True,True,b'Dan Frazier',0.19
-Castle,Enchantment,None,Revised Edition,Uncommon,4,White,False,False,True,True,b'Dameon Willich',0.2
-Circle of Protection: Black,Enchantment,None,Revised Edition,Common,2,White,True,False,True,True,b'Jesper Myrfors',0.11
-Circle of Protection: Blue,Enchantment,None,Revised Edition,Common,2,White,True,False,True,True,b'Dameon Willich',0.1
-Circle of Protection: Green,Enchantment,None,Revised Edition,Common,2,White,True,False,True,True,b'Sandra Everingham',0.1
-Circle of Protection: Red,Enchantment,None,Revised Edition,Common,2,White,True,False,True,True,b'Mark Tedin',0.14
-Circle of Protection: White,Enchantment,None,Revised Edition,Common,2,White,True,False,True,True,b'Douglas Shuler',0.12
-Conversion,Enchantment,None,Revised Edition,Uncommon,4,White,False,False,True,True,b'Jesper Myrfors',0.13
-Crusade,Enchantment,None,Revised Edition,Rare,2,White,False,False,True,True,b'Mark Poole',2.82
-Death Ward,Instant,None,Revised Edition,Common,1,White,False,False,True,True,b'Mark Poole',0.1
-Disenchant,Instant,None,Revised Edition,Common,2,White,True,True,True,True,b'Amy Weber',0.24
-Eye for an Eye,Instant,None,Revised Edition,Rare,2,White,False,False,True,True,b'Mark Poole',0.62
-Farmstead,Enchantment,Aura,Revised Edition,Rare,3,White,False,False,True,True,b'Mark Poole',1.04
-Green Ward,Enchantment,Aura,Revised Edition,Uncommon,1,White,False,False,True,True,b'Dan Frazier',0.17
-Guardian Angel,Instant,None,Revised Edition,Common,2,White,False,False,True,True,b'Anson Maddocks',0.13
-Healing Salve,Instant,None,Revised Edition,Common,1,White,True,False,True,True,b'Dan Frazier',0.11
-Holy Armor,Enchantment,Aura,Revised Edition,Common,1,White,False,False,True,True,b'Melissa A. Benson',0.1
-Holy Strength,Enchantment,Aura,Revised Edition,Common,1,White,True,False,True,True,b'Anson Maddocks',0.1
-Island Sanctuary,Enchantment,None,Revised Edition,Rare,2,White,False,False,True,True,b'Mark Poole',3.2
-Karma,Enchantment,None,Revised Edition,Uncommon,4,White,True,False,True,True,b'Richard Thomas',0.2
-Lance,Enchantment,Aura,Revised Edition,Uncommon,1,White,False,False,True,True,b'Rob Alexander',0.1
-Mesa Pegasus,Creature,Pegasus,Revised Edition,Common,2,White,False,False,True,True,b'Melissa A. Benson',0.15
-Northern Paladin,Creature,Human Knight,Revised Edition,Rare,4,White,False,False,True,True,b'Douglas Shuler',0.86
-Pearled Unicorn,Creature,Unicorn,Revised Edition,Common,3,White,False,False,True,True,b'Cornelius Brudi',0.08
-Personal Incarnation,Creature,Avatar Incarnation,Revised Edition,Rare,6,White,False,False,True,True,b'Kev Brockschmidt',0.47
-Purelace,Instant,None,Revised Edition,Rare,1,White,False,False,True,True,b'Sandra Everingham',0.23
-Red Ward,Enchantment,Aura,Revised Edition,Uncommon,1,White,False,False,True,True,b'Dan Frazier',0.16
-Resurrection,Sorcery,None,Revised Edition,Uncommon,4,White,True,False,True,True,b'Dan Frazier',0.14
-Reverse Damage,Instant,None,Revised Edition,Rare,3,White,True,False,True,True,b'Dameon Willich',1.4
-Reverse Polarity,Instant,None,Revised Edition,Uncommon,2,White,False,False,True,True,b'Justin Hampton',0.09
-Righteousness,Instant,None,Revised Edition,Rare,1,White,True,True,True,True,b'Douglas Shuler',1.22
-Samite Healer,Creature,Human Cleric,Revised Edition,Common,2,White,True,False,True,True,b'Tom W\xc3\xa4nerstrand',0.08
-Savannah Lions,Creature,Cat,Revised Edition,Rare,1,White,True,False,True,True,b'Daniel Gelon',3.27
-Serra Angel,Creature,Angel,Revised Edition,Uncommon,5,White,True,False,True,True,b'Douglas Shuler',1.94
-Swords to Plowshares,Instant,None,Revised Edition,Uncommon,1,White,False,False,True,True,b'Jeff A. Menges',2.47
-Veteran Bodyguard,Creature,Human,Revised Edition,Rare,5,White,False,False,True,True,b'Douglas Shuler',1.51
-Wall of Swords,Creature,Wall,Revised Edition,Uncommon,4,White,True,False,True,True,b'Mark Tedin',0.21
-White Knight,Creature,Human Knight,Revised Edition,Uncommon,2,White,True,False,True,True,b'Daniel Gelon',0.6
-White Ward,Enchantment,Aura,Revised Edition,Uncommon,1,White,False,False,True,True,b'Dan Frazier',0.18
-Wrath of God,Sorcery,None,Revised Edition,Rare,4,White,True,False,True,True,b'Quinton Hoover',8.6
-Air Elemental,Creature,Elemental,Revised Edition,Uncommon,5,Blue,True,True,True,True,b'Richard Thomas',0.19
-Animate Artifact,Enchantment,Aura,Revised Edition,Uncommon,4,Blue,False,False,True,True,b'Douglas Shuler',0.15
-Blue Elemental Blast,Instant,None,Revised Edition,Common,1,Blue,False,False,True,True,b'Richard Thomas',0.14
-Braingeyser,Sorcery,None,Revised Edition,Rare,3,Blue,False,False,True,True,b'Mark Tedin',8.41
-Clone,Creature,Shapeshifter,Revised Edition,Uncommon,4,Blue,True,False,True,True,b'Julie Baroh',0.43
-Control Magic,Enchantment,Aura,Revised Edition,Uncommon,4,Blue,False,False,True,True,b'Dameon Willich',1.27
-Copy Artifact,Enchantment,None,Revised Edition,Rare,2,Blue,False,False,True,True,b'Amy Weber',30.72
-Counterspell,Instant,None,Revised Edition,Uncommon,2,Blue,False,False,True,True,b'Mark Poole',2.27
-Creature Bond,Enchantment,Aura,Revised Edition,Common,2,Blue,False,False,True,True,b'Anson Maddocks',0.09
-Drain Power,Sorcery,None,Revised Edition,Rare,2,Blue,False,False,True,True,b'Douglas Shuler',1.8
-Energy Flux,Enchantment,None,Revised Edition,Uncommon,3,Blue,False,False,True,True,b'Kaja Foglio',0.23
-Feedback,Enchantment,Aura,Revised Edition,Uncommon,3,Blue,False,False,True,True,b'Quinton Hoover',0.13
-Flight,Enchantment,Aura,Revised Edition,Common,1,Blue,True,False,True,True,b'Anson Maddocks',0.09
-Hurkyl's Recall,Instant,None,Revised Edition,Rare,2,Blue,True,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',2.35
-Island Fish Jasconius,Creature,Fish,Revised Edition,Rare,7,Blue,False,False,True,True,b'Jesper Myrfors',0.36
-Jump,Instant,None,Revised Edition,Common,1,Blue,True,False,True,True,b'Mark Poole',0.09
-Lifetap,Enchantment,None,Revised Edition,Uncommon,2,Blue,False,False,True,True,b'Anson Maddocks',0.14
-Lord of Atlantis,Creature,Merfolk,Revised Edition,Rare,2,Blue,True,False,True,True,b'Melissa A. Benson',4.78
-Magical Hack,Instant,None,Revised Edition,Rare,1,Blue,False,False,True,True,b'Julie Baroh',0.6
-Mahamoti Djinn,Creature,Djinn,Revised Edition,Rare,6,Blue,True,False,True,True,b'Dan Frazier',1.57
-Mana Short,Instant,None,Revised Edition,Rare,3,Blue,False,False,True,True,b'Dameon Willich',1.56
-Merfolk of the Pearl Trident,Creature,Merfolk,Revised Edition,Common,1,Blue,True,False,True,True,b'Jeff A. Menges',0.11
-Phantasmal Forces,Creature,Illusion,Revised Edition,Uncommon,4,Blue,False,False,True,True,b'Mark Poole',0.15
-Phantasmal Terrain,Enchantment,Aura,Revised Edition,Common,2,Blue,False,False,True,True,b'Dameon Willich',0.1
-Phantom Monster,Creature,Illusion,Revised Edition,Uncommon,4,Blue,False,False,True,True,b'Jesper Myrfors',0.18
-Pirate Ship,Creature,Human Pirate,Revised Edition,Rare,5,Blue,True,False,True,True,b'Tom W\xc3\xa4nerstrand',0.41
-Power Leak,Enchantment,Aura,Revised Edition,Common,2,Blue,False,False,True,True,b'Drew Tucker',0.1
-Power Sink,Instant,None,Revised Edition,Common,2,Blue,False,False,True,True,b'Richard Thomas',0.14
-Prodigal Sorcerer,Creature,Human Wizard,Revised Edition,Common,3,Blue,True,False,True,True,b'Douglas Shuler',0.14
-Psychic Venom,Enchantment,Aura,Revised Edition,Common,2,Blue,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.1
-Reconstruction,Sorcery,None,Revised Edition,Common,1,Blue,False,False,True,True,b'Anson Maddocks',0.12
-Sea Serpent,Creature,Serpent,Revised Edition,Common,6,Blue,False,False,True,True,b'Jeff A. Menges',0.09
-Serendib Efreet,Creature,Efreet,Revised Edition,Rare,3,Blue,False,False,True,True,b'Jesper Myrfors',4.09
-Siren's Call,Instant,None,Revised Edition,Uncommon,1,Blue,False,False,True,True,b'Anson Maddocks',0.13
-Sleight of Mind,Instant,None,Revised Edition,Rare,1,Blue,False,False,True,True,b'Mark Poole',0.48
-Spell Blast,Instant,None,Revised Edition,Common,2,Blue,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.1
-Stasis,Enchantment,None,Revised Edition,Rare,2,Blue,False,False,True,True,b'Fay Jones',5.49
-Steal Artifact,Enchantment,Aura,Revised Edition,Uncommon,4,Blue,True,False,True,True,b'Amy Weber',0.2
-Thoughtlace,Instant,None,Revised Edition,Rare,1,Blue,False,False,True,True,b'Mark Poole',0.27
-Unstable Mutation,Enchantment,Aura,Revised Edition,Common,1,Blue,True,False,True,True,b'Douglas Shuler',0.11
-Unsummon,Instant,None,Revised Edition,Common,1,Blue,True,True,True,True,b'Douglas Shuler',0.16
-Vesuvan Doppelganger,Creature,Shapeshifter,Revised Edition,Rare,5,Blue,False,False,True,True,b'Quinton Hoover',12.94
-Volcanic Eruption,Sorcery,None,Revised Edition,Rare,4,Blue,False,False,True,True,b'Douglas Shuler',0.37
-Wall of Air,Creature,Wall,Revised Edition,Uncommon,3,Blue,True,False,True,True,b'Richard Thomas',0.25
-Wall of Water,Creature,Wall,Revised Edition,Uncommon,3,Blue,False,False,True,True,b'Richard Thomas',0.17
-Water Elemental,Creature,Elemental,Revised Edition,Uncommon,5,Blue,False,False,True,True,b'Jeff A. Menges',0.13
-Animate Dead,Enchantment,Aura,Revised Edition,Uncommon,2,Black,False,False,True,True,b'Anson Maddocks',2.67
-Bad Moon,Enchantment,None,Revised Edition,Rare,2,Black,True,False,True,True,b'Jesper Myrfors',2.75
-Black Knight,Creature,Human Knight,Revised Edition,Uncommon,2,Black,True,False,True,True,b'Jeff A. Menges',1.09
-Bog Wraith,Creature,Wraith,Revised Edition,Uncommon,4,Black,True,False,True,True,b'Jeff A. Menges',0.15
-Contract from Below,Sorcery,None,Revised Edition,Rare,1,Black,False,False,False,True,b'Douglas Shuler',1.33
-Cursed Land,Enchantment,Aura,Revised Edition,Uncommon,4,Black,False,False,True,True,b'Jesper Myrfors',0.17
-Dark Ritual,Instant,None,Revised Edition,Common,1,Black,False,False,True,True,b'Sandra Everingham',0.64
-Darkpact,Sorcery,None,Revised Edition,Rare,3,Black,False,False,False,True,b'Quinton Hoover',0.98
-Deathgrip,Enchantment,None,Revised Edition,Uncommon,2,Black,False,False,True,True,b'Anson Maddocks',0.15
-Deathlace,Instant,None,Revised Edition,Rare,1,Black,False,False,True,True,b'Sandra Everingham',0.28
-Demonic Attorney,Sorcery,None,Revised Edition,Rare,3,Black,False,False,False,True,b'Daniel Gelon',1.15
-Demonic Hordes,Creature,Demon,Revised Edition,Rare,6,Black,False,False,True,True,b'Jesper Myrfors',3.32
-Demonic Tutor,Sorcery,None,Revised Edition,Uncommon,2,Black,False,False,True,True,b'Douglas Shuler',29.85
-Drain Life,Sorcery,None,Revised Edition,Common,3,Black,False,False,True,True,b'Douglas Shuler',0.15
-Drudge Skeletons,Creature,Skeleton,Revised Edition,Common,2,Black,True,False,True,True,b'Sandra Everingham',0.12
-El-Hajjâj,Creature,Human Wizard,Revised Edition,Rare,3,Black,False,False,True,True,b'Dameon Willich',0.21
-Erg Raiders,Creature,Human Warrior,Revised Edition,Common,2,Black,False,False,True,True,b'Dameon Willich',0.1
-Evil Presence,Enchantment,Aura,Revised Edition,Uncommon,1,Black,True,False,True,True,b'Sandra Everingham',0.22
-Fear,Enchantment,Aura,Revised Edition,Common,2,Black,True,False,True,True,b'Mark Poole',0.09
-Frozen Shade,Creature,Shade,Revised Edition,Common,3,Black,False,False,True,True,b'Douglas Shuler',0.11
-Gloom,Enchantment,None,Revised Edition,Uncommon,3,Black,False,False,True,True,b'Dan Frazier',0.27
-Howl from Beyond,Instant,None,Revised Edition,Common,2,Black,False,False,True,True,b'Mark Poole',0.1
-Hypnotic Specter,Creature,Specter,Revised Edition,Uncommon,3,Black,True,False,True,True,b'Douglas Shuler',2.37
-Lord of the Pit,Creature,Demon,Revised Edition,Rare,7,Black,True,False,True,True,b'Mark Tedin',1.97
-Mind Twist,Sorcery,None,Revised Edition,Rare,2,Black,False,False,True,True,b'Julie Baroh',5.18
-Nether Shadow,Creature,Spirit,Revised Edition,Rare,2,Black,False,False,True,True,b'Christopher Rush',1.84
-Nettling Imp,Creature,Imp,Revised Edition,Uncommon,3,Black,False,False,True,True,b'Quinton Hoover',0.45
-Nightmare,Creature,Nightmare Horse,Revised Edition,Rare,6,Black,True,False,True,True,b'Melissa A. Benson',3.33
-Paralyze,Enchantment,Aura,Revised Edition,Common,1,Black,False,False,True,True,b'Anson Maddocks',0.14
-Pestilence,Enchantment,None,Revised Edition,Common,4,Black,False,False,True,True,b'Jesper Myrfors',0.24
-Plague Rats,Creature,Rat,Revised Edition,Common,3,Black,False,False,True,True,b'Anson Maddocks',0.11
-Raise Dead,Sorcery,None,Revised Edition,Common,1,Black,True,False,True,True,b'Jeff A. Menges',0.07
-Royal Assassin,Creature,Human Assassin,Revised Edition,Rare,3,Black,True,False,True,True,b'Tom W\xc3\xa4nerstrand',6.05
-Sacrifice,Instant,None,Revised Edition,Uncommon,1,Black,False,False,True,True,b'Dan Frazier',0.92
-Scathe Zombies,Creature,Zombie,Revised Edition,Common,3,Black,True,False,True,True,b'Jesper Myrfors',0.1
-Scavenging Ghoul,Creature,Zombie,Revised Edition,Uncommon,4,Black,False,False,True,True,b'Jeff A. Menges',0.13
-Sengir Vampire,Creature,Vampire,Revised Edition,Uncommon,5,Black,True,False,True,True,b'Anson Maddocks',0.99
-Simulacrum,Instant,None,Revised Edition,Uncommon,2,Black,False,False,True,True,b'Mark Poole',0.15
-Sorceress Queen,Creature,Human Wizard,Revised Edition,Rare,3,Black,False,False,True,True,b'Kaja Foglio',1.67
-Terror,Instant,None,Revised Edition,Common,2,Black,True,False,True,True,b'Ron Spencer',0.15
-Unholy Strength,Enchantment,Aura,Revised Edition,Common,1,Black,True,False,True,True,b'Douglas Shuler',0.18
-Wall of Bone,Creature,Skeleton Wall,Revised Edition,Uncommon,3,Black,True,False,True,True,b'Anson Maddocks',0.15
-Warp Artifact,Enchantment,Aura,Revised Edition,Rare,2,Black,False,False,True,True,b'Amy Weber',0.3
-Weakness,Enchantment,Aura,Revised Edition,Common,1,Black,True,False,True,True,b'Douglas Shuler',0.09
-Will-o'-the-Wisp,Creature,Spirit,Revised Edition,Rare,1,Black,True,False,True,True,b'Jesper Myrfors',2.81
-Zombie Master,Creature,Zombie,Revised Edition,Rare,3,Black,False,False,True,True,b'Jeff A. Menges',3.9
-Atog,Creature,Atog,Revised Edition,Common,2,Red,True,False,True,True,b'Jesper Myrfors',0.26
-Burrowing,Enchantment,Aura,Revised Edition,Uncommon,1,Red,False,False,True,True,b'Mark Poole',0.16
-Chaoslace,Instant,None,Revised Edition,Rare,1,Red,False,False,True,True,b'Dameon Willich',0.27
-Disintegrate,Sorcery,None,Revised Edition,Common,2,Red,True,False,True,True,b'Anson Maddocks',0.17
-Dragon Whelp,Creature,Dragon,Revised Edition,Uncommon,4,Red,True,False,True,True,b'Amy Weber',0.26
-Dwarven Warriors,Creature,Dwarf Warrior,Revised Edition,Common,3,Red,False,False,True,True,b'Douglas Shuler',0.11
-Dwarven Weaponsmith,Creature,Dwarf Artificer,Revised Edition,Uncommon,2,Red,False,False,True,True,b'Mark Poole',0.13
-Earth Elemental,Creature,Elemental,Revised Edition,Uncommon,5,Red,True,False,True,True,b'Dan Frazier',0.14
-Earthbind,Enchantment,Aura,Revised Edition,Common,1,Red,False,False,True,True,b'Quinton Hoover',0.16
-Earthquake,Sorcery,None,Revised Edition,Rare,2,Red,True,False,True,True,b'Dan Frazier',1.28
-Fire Elemental,Creature,Elemental,Revised Edition,Uncommon,5,Red,True,True,True,True,b'Melissa A. Benson',0.25
-Fireball,Sorcery,None,Revised Edition,Common,2,Red,True,False,True,True,b'Mark Tedin',0.31
-Firebreathing,Enchantment,Aura,Revised Edition,Common,1,Red,True,False,True,True,b'Dan Frazier',0.09
-Flashfires,Sorcery,None,Revised Edition,Uncommon,4,Red,True,False,True,True,b'Dameon Willich',0.16
-Fork,Instant,None,Revised Edition,Rare,2,Red,False,False,True,True,b'Amy Weber',16.14
-Goblin Balloon Brigade,Creature,Goblin Warrior,Revised Edition,Uncommon,1,Red,True,False,True,True,b'Andi Rusu',0.33
-Goblin King,Creature,Goblin,Revised Edition,Rare,3,Red,True,False,True,True,b'Jesper Myrfors',2.89
-Granite Gargoyle,Creature,Gargoyle,Revised Edition,Rare,3,Red,False,False,True,True,b'Christopher Rush',2.02
-Gray Ogre,Creature,Ogre,Revised Edition,Common,3,Red,False,False,True,True,b'Dan Frazier',0.05
-Hill Giant,Creature,Giant,Revised Edition,Common,4,Red,True,False,True,True,b'Dan Frazier',0.07
-Hurloon Minotaur,Creature,Minotaur,Revised Edition,Common,3,Red,False,False,True,True,b'Anson Maddocks',0.13
-Keldon Warlord,Creature,Human Barbarian,Revised Edition,Uncommon,4,Red,False,False,True,True,b'Kev Brockschmidt',0.25
-Kird Ape,Creature,Ape,Revised Edition,Common,1,Red,True,False,True,True,"b'Ken Meyer, Jr.'",0.22
-Lightning Bolt,Instant,None,Revised Edition,Common,1,Red,True,False,True,True,b'Christopher Rush',1.4
-Magnetic Mountain,Enchantment,None,Revised Edition,Rare,3,Red,False,False,True,True,b'Susan Van Camp',0.34
-Mana Flare,Enchantment,None,Revised Edition,Rare,3,Red,False,False,True,True,b'Christopher Rush',6.43
-Manabarbs,Enchantment,None,Revised Edition,Rare,4,Red,True,False,True,True,b'Christopher Rush',0.47
-Mijae Djinn,Creature,Djinn,Revised Edition,Rare,3,Red,False,False,True,True,b'Susan Van Camp',1.88
-Mons's Goblin Raiders,Creature,Goblin,Revised Edition,Common,1,Red,False,False,True,True,b'Jeff A. Menges',0.13
-Orcish Artillery,Creature,Orc Warrior,Revised Edition,Uncommon,3,Red,True,False,True,True,b'Anson Maddocks',0.12
-Orcish Oriflamme,Enchantment,None,Revised Edition,Uncommon,4,Red,False,False,True,True,b'Dan Frazier',0.14
-Power Surge,Enchantment,None,Revised Edition,Rare,2,Red,False,False,True,True,b'Douglas Shuler',0.34
-Red Elemental Blast,Instant,None,Revised Edition,Common,1,Red,False,False,True,True,b'Richard Thomas',0.29
-Roc of Kher Ridges,Creature,Bird,Revised Edition,Rare,4,Red,False,False,True,True,b'Andi Rusu',1.32
-Rock Hydra,Creature,Hydra,Revised Edition,Rare,3,Red,False,False,True,True,b'Jeff A. Menges',2.45
-Sedge Troll,Creature,Troll,Revised Edition,Rare,3,Red,False,False,True,True,b'Dan Frazier',2.73
-Shatter,Instant,None,Revised Edition,Common,2,Red,True,False,True,True,b'Amy Weber',0.14
-Shatterstorm,Sorcery,None,Revised Edition,Uncommon,4,Red,True,False,True,True,b'Mark Poole',0.57
-Shivan Dragon,Creature,Dragon,Revised Edition,Rare,6,Red,True,True,True,True,b'Melissa A. Benson',9.64
-Smoke,Enchantment,None,Revised Edition,Rare,2,Red,False,False,True,True,b'Jesper Myrfors',2.9
-Stone Giant,Creature,Giant,Revised Edition,Uncommon,4,Red,True,False,True,True,b'Dameon Willich',0.14
-Stone Rain,Sorcery,None,Revised Edition,Common,3,Red,True,False,True,True,b'Daniel Gelon',0.17
-Tunnel,Instant,None,Revised Edition,Uncommon,1,Red,False,False,True,True,b'Dan Frazier',0.14
-Uthden Troll,Creature,Troll,Revised Edition,Uncommon,3,Red,True,False,True,True,b'Douglas Shuler',0.24
-Wall of Fire,Creature,Wall,Revised Edition,Uncommon,3,Red,True,False,True,True,b'Richard Thomas',0.13
-Wall of Stone,Creature,Wall,Revised Edition,Uncommon,3,Red,True,False,True,True,b'Dan Frazier',0.14
-Wheel of Fortune,Sorcery,None,Revised Edition,Rare,3,Red,False,False,True,True,b'Daniel Gelon',11.62
-Aspect of Wolf,Enchantment,Aura,Revised Edition,Rare,2,Green,False,False,True,True,b'Jeff A. Menges',0.52
-Birds of Paradise,Creature,Bird,Revised Edition,Rare,1,Green,True,False,True,True,b'Mark Poole',12.41
-Channel,Sorcery,None,Revised Edition,Uncommon,2,Green,False,False,False,True,b'Richard Thomas',0.25
-Cockatrice,Creature,Cockatrice,Revised Edition,Rare,5,Green,True,False,True,True,b'Dan Frazier',0.97
-Craw Wurm,Creature,Wurm,Revised Edition,Common,6,Green,True,False,True,True,b'Daniel Gelon',0.11
-Crumble,Instant,None,Revised Edition,Uncommon,1,Green,False,False,True,True,b'Jesper Myrfors',0.19
-Desert Twister,Sorcery,None,Revised Edition,Uncommon,6,Green,False,False,True,True,b'Susan Van Camp',0.23
-Elvish Archers,Creature,Elf Archer,Revised Edition,Rare,2,Green,False,False,True,True,b'Anson Maddocks',1.84
-Fastbond,Enchantment,None,Revised Edition,Rare,1,Green,False,False,False,True,b'Mark Poole',10.41
-Fog,Instant,None,Revised Edition,Common,1,Green,True,False,True,True,b'Jesper Myrfors',0.14
-Force of Nature,Creature,Elemental,Revised Edition,Rare,6,Green,True,False,True,True,b'Douglas Shuler',2.61
-Fungusaur,Creature,Fungus Dinosaur,Revised Edition,Rare,4,Green,True,False,True,True,b'Daniel Gelon',0.43
-Gaea's Liege,Creature,Avatar,Revised Edition,Rare,6,Green,True,False,True,True,b'Dameon Willich',1.74
-Giant Growth,Instant,None,Revised Edition,Common,1,Green,True,True,True,True,b'Sandra Everingham',0.19
-Giant Spider,Creature,Spider,Revised Edition,Common,4,Green,True,False,True,True,b'Sandra Everingham',0.11
-Grizzly Bears,Creature,Bear,Revised Edition,Common,2,Green,True,False,True,True,b'Jeff A. Menges',0.16
-Hurricane,Sorcery,None,Revised Edition,Uncommon,2,Green,True,False,True,True,b'Dameon Willich',0.29
-Instill Energy,Enchantment,Aura,Revised Edition,Uncommon,1,Green,False,False,True,True,b'Dameon Willich',0.57
-Ironroot Treefolk,Creature,Treefolk,Revised Edition,Common,5,Green,False,False,True,True,b'Jesper Myrfors',0.1
-Kudzu,Enchantment,Aura,Revised Edition,Rare,3,Green,False,False,True,True,b'Mark Poole',1.21
-Ley Druid,Creature,Human Druid,Revised Edition,Uncommon,3,Green,True,False,True,True,b'Sandra Everingham',0.15
-Lifeforce,Enchantment,None,Revised Edition,Uncommon,2,Green,False,False,True,True,b'Dameon Willich',0.23
-Lifelace,Instant,None,Revised Edition,Rare,1,Green,False,False,True,True,b'Amy Weber',0.17
-Living Artifact,Enchantment,Aura,Revised Edition,Rare,1,Green,False,False,True,True,b'Anson Maddocks',0.38
-Living Lands,Enchantment,None,Revised Edition,Rare,4,Green,False,False,True,True,b'Jesper Myrfors',0.41
-Llanowar Elves,Creature,Elf Druid,Revised Edition,Common,1,Green,True,False,True,True,b'Anson Maddocks',0.25
-Lure,Enchantment,Aura,Revised Edition,Uncommon,3,Green,True,False,True,True,b'Anson Maddocks',0.18
-Regeneration,Enchantment,Aura,Revised Edition,Common,2,Green,True,False,True,True,b'Quinton Hoover',0.1
-Regrowth,Sorcery,None,Revised Edition,Uncommon,2,Green,True,False,True,True,b'Dameon Willich',1.12
-Scryb Sprites,Creature,Faerie,Revised Edition,Common,1,Green,False,False,True,True,b'Amy Weber',0.16
-Shanodin Dryads,Creature,Nymph Dryad,Revised Edition,Common,1,Green,False,False,True,True,b'Anson Maddocks',0.11
-Stream of Life,Sorcery,None,Revised Edition,Common,2,Green,True,False,True,True,b'Mark Poole',0.11
-Thicket Basilisk,Creature,Basilisk,Revised Edition,Uncommon,5,Green,False,False,True,True,b'Dan Frazier',0.23
-Timber Wolves,Creature,Wolf,Revised Edition,Rare,1,Green,False,False,True,True,b'Melissa A. Benson',0.39
-Titania's Song,Enchantment,None,Revised Edition,Rare,4,Green,False,False,True,True,b'Kerstin Kaman',0.36
-Tranquility,Sorcery,None,Revised Edition,Common,3,Green,False,False,True,True,b'Douglas Shuler',0.09
-Tsunami,Sorcery,None,Revised Edition,Uncommon,4,Green,False,False,True,True,b'Richard Thomas',0.2
-Verduran Enchantress,Creature,Human Druid,Revised Edition,Rare,3,Green,True,False,True,True,b'Kev Brockschmidt',2.61
-Wall of Brambles,Creature,Plant Wall,Revised Edition,Uncommon,3,Green,False,False,True,True,b'Anson Maddocks',0.16
-Wall of Ice,Creature,Wall,Revised Edition,Uncommon,3,Green,False,False,True,True,b'Richard Thomas',0.59
-Wall of Wood,Creature,Wall,Revised Edition,Common,1,Green,True,False,True,True,b'Mark Tedin',0.08
-Wanderlust,Enchantment,Aura,Revised Edition,Uncommon,3,Green,False,False,True,True,b'Cornelius Brudi',0.15
-War Mammoth,Creature,Elephant,Revised Edition,Common,4,Green,False,False,True,True,b'Jeff A. Menges',0.12
-Web,Enchantment,Aura,Revised Edition,Rare,1,Green,True,False,True,True,b'Rob Alexander',0.45
-Wild Growth,Enchantment,Aura,Revised Edition,Common,1,Green,False,False,True,True,b'Mark Poole',0.31
-Aladdin's Lamp,Artifact,None,Revised Edition,Rare,1,Colorless,False,False,True,True,b'Mark Tedin',0.4
-Aladdin's Ring,Artifact,None,Revised Edition,Rare,8,Colorless,True,False,True,True,b'Dan Frazier',0.35
-Ankh of Mishra,Artifact,None,Revised Edition,Rare,2,Colorless,False,False,True,True,b'Amy Weber',2.98
-Armageddon Clock,Artifact,None,Revised Edition,Rare,6,Colorless,False,False,True,True,b'Amy Weber',0.35
-Basalt Monolith,Artifact,None,Revised Edition,Uncommon,3,Colorless,False,False,True,True,b'Jesper Myrfors',3.97
-Black Vise,Artifact,None,Revised Edition,Uncommon,1,Colorless,False,False,True,True,b'Richard Thomas',0.67
-Bottle of Suleiman,Artifact,None,Revised Edition,Rare,4,Colorless,False,False,True,True,b'Jesper Myrfors',0.28
-Brass Man,Artifact Creature,Construct,Revised Edition,Uncommon,1,Colorless,False,False,True,True,b'Christopher Rush',0.17
-Celestial Prism,Artifact,None,Revised Edition,Uncommon,3,Colorless,False,False,True,True,b'Amy Weber',0.1
-Clockwork Beast,Artifact Creature,Beast,Revised Edition,Rare,6,Colorless,False,False,True,True,b'Drew Tucker',0.27
-Conservator,Artifact,None,Revised Edition,Uncommon,4,Colorless,False,False,True,True,b'Amy Weber',0.11
-Crystal Rod,Artifact,None,Revised Edition,Uncommon,1,Colorless,True,False,True,True,b'Amy Weber',0.11
-Dancing Scimitar,Artifact Creature,Spirit,Revised Edition,Rare,4,Colorless,True,False,True,True,b'Anson Maddocks',0.39
-Dingus Egg,Artifact,None,Revised Edition,Rare,4,Colorless,True,False,True,True,b'Dan Frazier',0.76
-Disrupting Scepter,Artifact,None,Revised Edition,Rare,3,Colorless,True,False,True,True,b'Dan Frazier',1.28
-Dragon Engine,Artifact Creature,Construct,Revised Edition,Rare,3,Colorless,False,False,True,True,b'Anson Maddocks',0.35
-Ebony Horse,Artifact,None,Revised Edition,Rare,3,Colorless,False,False,True,True,b'Dameon Willich',0.28
-Flying Carpet,Artifact,None,Revised Edition,Rare,4,Colorless,True,False,True,True,b'Mark Tedin',0.25
-Glasses of Urza,Artifact,None,Revised Edition,Uncommon,1,Colorless,False,False,True,True,b'Douglas Shuler',0.23
-Helm of Chatzuk,Artifact,None,Revised Edition,Rare,1,Colorless,False,False,True,True,b'Mark Tedin',0.34
-Howling Mine,Artifact,None,Revised Edition,Rare,2,Colorless,True,False,True,True,b'Mark Poole',6.25
-Iron Star,Artifact,None,Revised Edition,Uncommon,1,Colorless,True,False,True,True,b'Dan Frazier',0.1
-Ivory Cup,Artifact,None,Revised Edition,Uncommon,1,Colorless,True,False,True,True,b'Anson Maddocks',0.17
-Ivory Tower,Artifact,None,Revised Edition,Rare,1,Colorless,False,False,True,True,b'Margaret Organ-Kean',3.38
-Jade Monolith,Artifact,None,Revised Edition,Rare,4,Colorless,False,False,True,True,b'Anson Maddocks',0.3
-Jandor's Ring,Artifact,None,Revised Edition,Rare,6,Colorless,False,False,True,True,b'Dan Frazier',0.29
-Jandor's Saddlebags,Artifact,None,Revised Edition,Rare,2,Colorless,False,False,True,True,b'Dameon Willich',0.47
-Jayemdae Tome,Artifact,None,Revised Edition,Rare,4,Colorless,True,False,True,True,b'Mark Tedin',2.2
-Juggernaut,Artifact Creature,Juggernaut,Revised Edition,Uncommon,4,Colorless,True,False,True,True,b'Dan Frazier',0.44
-Kormus Bell,Artifact,None,Revised Edition,Rare,4,Colorless,False,False,True,True,b'Christopher Rush',0.52
-Library of Leng,Artifact,None,Revised Edition,Uncommon,1,Colorless,False,False,True,True,b'Daniel Gelon',1.3
-Living Wall,Artifact Creature,Wall,Revised Edition,Uncommon,4,Colorless,False,False,True,True,b'Anson Maddocks',0.38
-Mana Vault,Artifact,None,Revised Edition,Rare,1,Colorless,False,False,True,True,b'Mark Tedin',32.24
-Meekstone,Artifact,None,Revised Edition,Rare,1,Colorless,False,False,True,True,b'Quinton Hoover',5.04
-Millstone,Artifact,None,Revised Edition,Rare,2,Colorless,True,False,True,True,b'Kaja Foglio',1.51
-Mishra's War Machine,Artifact Creature,Juggernaut,Revised Edition,Rare,7,Colorless,False,False,True,True,b'Amy Weber',0.26
-Nevinyrral's Disk,Artifact,None,Revised Edition,Rare,4,Colorless,False,False,True,True,b'Mark Tedin',5.31
-Obsianus Golem,Artifact Creature,Golem,Revised Edition,Uncommon,6,Colorless,False,False,True,True,b'Jesper Myrfors',0.14
-Onulet,Artifact Creature,Construct,Revised Edition,Rare,3,Colorless,False,False,True,True,b'Anson Maddocks',0.26
-Ornithopter,Artifact Creature,Thopter,Revised Edition,Uncommon,0,Colorless,True,False,True,True,b'Amy Weber',0.32
-Primal Clay,Artifact Creature,Shapeshifter,Revised Edition,Rare,4,Colorless,True,False,True,True,b'Kaja Foglio',0.29
-Rocket Launcher,Artifact,None,Revised Edition,Rare,4,Colorless,False,False,True,True,b'Pete Venters',0.46
-Rod of Ruin,Artifact,None,Revised Edition,Uncommon,4,Colorless,True,False,True,True,b'Christopher Rush',0.13
-Sol Ring,Artifact,None,Revised Edition,Uncommon,1,Colorless,False,False,True,True,b'Mark Tedin',10.98
-Soul Net,Artifact,None,Revised Edition,Uncommon,1,Colorless,False,False,True,True,b'Dameon Willich',0.14
-Sunglasses of Urza,Artifact,None,Revised Edition,Rare,3,Colorless,False,False,True,True,b'Dan Frazier',0.5
-The Hive,Artifact,None,Revised Edition,Rare,5,Colorless,True,False,True,True,b'Sandra Everingham',0.45
-The Rack,Artifact,None,Revised Edition,Uncommon,1,Colorless,True,False,True,True,b'Richard Thomas',0.96
-Throne of Bone,Artifact,None,Revised Edition,Uncommon,1,Colorless,True,False,True,True,b'Anson Maddocks',0.12
-Winter Orb,Artifact,None,Revised Edition,Rare,2,Colorless,False,False,True,True,b'Mark Tedin',9.23
-Wooden Sphere,Artifact,None,Revised Edition,Uncommon,1,Colorless,True,False,True,True,b'Mark Tedin',0.19
-Badlands,Land,Swamp Mountain,Revised Edition,Rare,0,Colorless,False,False,True,True,b'Rob Alexander',6.24
-Bayou,Land,Swamp Forest,Revised Edition,Rare,0,Colorless,False,False,True,True,b'Jesper Myrfors',39.66
-Plateau,Land,Mountain Plains,Revised Edition,Rare,0,Colorless,False,False,True,True,b'Cornelius Brudi',19.17
-Savannah,Land,Forest Plains,Revised Edition,Rare,0,Colorless,False,False,True,True,b'Rob Alexander',44.74
-Scrubland,Land,Plains Swamp,Revised Edition,Rare,0,Colorless,False,False,True,True,b'Jesper Myrfors',42.57
-Taiga,Land,Mountain Forest,Revised Edition,Rare,0,Colorless,False,False,True,True,b'Rob Alexander',56.68
-Tropical Island,Land,Forest Island,Revised Edition,Rare,0,Colorless,False,False,True,True,b'Jesper Myrfors',97.47
-Tundra,Land,Plains Island,Revised Edition,Rare,0,Colorless,False,False,True,True,b'Jesper Myrfors',72.09
-Underground Sea,Land,Island Swamp,Revised Edition,Rare,0,Colorless,False,False,True,True,b'Rob Alexander',73.51
-Volcanic Island,Land,Island Mountain,Revised Edition,Rare,0,Colorless,False,False,True,True,b'Brian Sn\xc3\xb5ddy',12.93
-Plains,Basic Land,Plains,Revised Edition,Common,0,Colorless,True,True,True,True,b'Jesper Myrfors',0.33
-Plains,Basic Land,Plains,Revised Edition,Common,0,Colorless,True,True,True,True,b'Jesper Myrfors',0.28
-Plains,Basic Land,Plains,Revised Edition,Common,0,Colorless,True,True,True,True,b'Jesper Myrfors',0.28
-Island,Basic Land,Island,Revised Edition,Common,0,Colorless,True,True,True,True,b'Mark Poole',0.45
-Island,Basic Land,Island,Revised Edition,Common,0,Colorless,True,True,True,True,b'Mark Poole',0.36
-Island,Basic Land,Island,Revised Edition,Common,0,Colorless,True,True,True,True,b'Mark Poole',0.39
-Swamp,Basic Land,Swamp,Revised Edition,Common,0,Colorless,True,True,True,True,b'Dan Frazier',0.38
-Swamp,Basic Land,Swamp,Revised Edition,Common,0,Colorless,True,True,True,True,b'Dan Frazier',0.33
-Swamp,Basic Land,Swamp,Revised Edition,Common,0,Colorless,True,True,True,True,b'Dan Frazier',0.53
-Mountain,Basic Land,Mountain,Revised Edition,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',0.34
-Mountain,Basic Land,Mountain,Revised Edition,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',0.3
-Mountain,Basic Land,Mountain,Revised Edition,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',0.33
-Forest,Basic Land,Forest,Revised Edition,Common,0,Colorless,True,True,True,True,b'Christopher Rush',0.24
-Forest,Basic Land,Forest,Revised Edition,Common,0,Colorless,True,True,True,True,b'Christopher Rush',0.32
-Forest,Basic Land,Forest,Revised Edition,Common,0,Colorless,True,True,True,True,b'Christopher Rush',0.26
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Animate Wall,Enchantment,Aura,Revised Edition,Rare,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.45,False
+Armageddon,Sorcery,None,Revised Edition,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',5.53,False
+Balance,Sorcery,None,Revised Edition,Rare,2,White,Not Legal,Not Legal,Banned,Restrict.,Banned,True,b'Mark Poole',2.85,False
+Benalish Hero,Creature,Human Soldier,Revised Edition,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.11,False
+Black Ward,Enchantment,Aura,Revised Edition,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.2,False
+Blessing,Enchantment,Aura,Revised Edition,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Julie Baroh',0.64,False
+Blue Ward,Enchantment,Aura,Revised Edition,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.2,False
+Castle,Enchantment,None,Revised Edition,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.22,False
+Circle of Protection: Black,Enchantment,None,Revised Edition,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.13,False
+Circle of Protection: Blue,Enchantment,None,Revised Edition,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.12,False
+Circle of Protection: Green,Enchantment,None,Revised Edition,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.1,False
+Circle of Protection: Red,Enchantment,None,Revised Edition,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.15,False
+Circle of Protection: White,Enchantment,None,Revised Edition,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.14,False
+Conversion,Enchantment,None,Revised Edition,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.14,False
+Crusade,Enchantment,None,Revised Edition,Rare,2,White,Not Legal,Not Legal,Banned,Banned,Banned,True,b'Mark Poole',0.14,False
+Death Ward,Instant,None,Revised Edition,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.11,False
+Disenchant,Instant,None,Revised Edition,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Amy Weber',0.27,False
+Eye for an Eye,Instant,None,Revised Edition,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.69,False
+Farmstead,Enchantment,Aura,Revised Edition,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',1.09,False
+Green Ward,Enchantment,Aura,Revised Edition,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.18,False
+Guardian Angel,Instant,None,Revised Edition,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.09,False
+Healing Salve,Instant,None,Revised Edition,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.1,False
+Holy Armor,Enchantment,Aura,Revised Edition,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.08,False
+Holy Strength,Enchantment,Aura,Revised Edition,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.09,False
+Island Sanctuary,Enchantment,None,Revised Edition,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',3.37,False
+Karma,Enchantment,None,Revised Edition,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.19,False
+Lance,Enchantment,Aura,Revised Edition,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.14,False
+Mesa Pegasus,Creature,Pegasus,Revised Edition,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.14,False
+Northern Paladin,Creature,Human Knight,Revised Edition,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',1.26,False
+Pearled Unicorn,Creature,Unicorn,Revised Edition,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Cornelius Brudi',0.09,False
+Personal Incarnation,Creature,Avatar Incarnation,Revised Edition,Rare,6,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Brockschmidt',0.54,False
+Purelace,Instant,None,Revised Edition,Rare,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.26,False
+Red Ward,Enchantment,Aura,Revised Edition,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.16,False
+Resurrection,Sorcery,None,Revised Edition,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.2,False
+Reverse Damage,Instant,None,Revised Edition,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',1.25,False
+Reverse Polarity,Instant,None,Revised Edition,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Hampton',0.11,False
+Righteousness,Instant,None,Revised Edition,Rare,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Douglas Shuler',1.15,False
+Samite Healer,Creature,Human Cleric,Revised Edition,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',0.14,False
+Savannah Lions,Creature,Cat,Revised Edition,Rare,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',3.31,False
+Serra Angel,Creature,Angel,Revised Edition,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',2.21,False
+Swords to Plowshares,Instant,None,Revised Edition,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',2.4,False
+Veteran Bodyguard,Creature,Human,Revised Edition,Rare,5,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',1.4,False
+Wall of Swords,Creature,Wall,Revised Edition,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.21,False
+White Knight,Creature,Human Knight,Revised Edition,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.55,False
+White Ward,Enchantment,Aura,Revised Edition,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.17,False
+Wrath of God,Sorcery,None,Revised Edition,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',8.84,False
+Air Elemental,Creature,Elemental,Revised Edition,Uncommon,5,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.23,False
+Animate Artifact,Enchantment,Aura,Revised Edition,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.17,False
+Blue Elemental Blast,Instant,None,Revised Edition,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.14,False
+Braingeyser,Sorcery,None,Revised Edition,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',9.11,False
+Clone,Creature,Shapeshifter,Revised Edition,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Julie Baroh',0.59,False
+Control Magic,Enchantment,Aura,Revised Edition,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',1.34,False
+Copy Artifact,Enchantment,None,Revised Edition,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',42.83,False
+Counterspell,Instant,None,Revised Edition,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',2.16,False
+Creature Bond,Enchantment,Aura,Revised Edition,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.11,False
+Drain Power,Sorcery,None,Revised Edition,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',1.81,False
+Energy Flux,Enchantment,None,Revised Edition,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.23,False
+Feedback,Enchantment,Aura,Revised Edition,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.15,False
+Flight,Enchantment,Aura,Revised Edition,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.08,False
+Hurkyl's Recall,Instant,None,Revised Edition,Rare,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'N\xc3\xa9N\xc3\xa9 Thomas',2.35,False
+Island Fish Jasconius,Creature,Fish,Revised Edition,Rare,7,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.36,False
+Jump,Instant,None,Revised Edition,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.08,False
+Lifetap,Enchantment,None,Revised Edition,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.17,False
+Lord of Atlantis,Creature,Merfolk,Revised Edition,Rare,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',4.44,False
+Magical Hack,Instant,None,Revised Edition,Rare,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Julie Baroh',0.6,False
+Mahamoti Djinn,Creature,Djinn,Revised Edition,Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',1.94,False
+Mana Short,Instant,None,Revised Edition,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',1.67,False
+Merfolk of the Pearl Trident,Creature,Merfolk,Revised Edition,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.1,False
+Phantasmal Forces,Creature,Illusion,Revised Edition,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.18,False
+Phantasmal Terrain,Enchantment,Aura,Revised Edition,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.11,False
+Phantom Monster,Creature,Illusion,Revised Edition,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.22,False
+Pirate Ship,Creature,Human Pirate,Revised Edition,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',0.41,False
+Power Leak,Enchantment,Aura,Revised Edition,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.09,False
+Power Sink,Instant,None,Revised Edition,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.13,False
+Prodigal Sorcerer,Creature,Human Wizard,Revised Edition,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.16,False
+Psychic Venom,Enchantment,Aura,Revised Edition,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.1,False
+Reconstruction,Sorcery,None,Revised Edition,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.11,False
+Sea Serpent,Creature,Serpent,Revised Edition,Common,6,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.09,False
+Serendib Efreet,Creature,Efreet,Revised Edition,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',3.6,False
+Siren's Call,Instant,None,Revised Edition,Uncommon,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.15,False
+Sleight of Mind,Instant,None,Revised Edition,Rare,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.5,False
+Spell Blast,Instant,None,Revised Edition,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.11,False
+Stasis,Enchantment,None,Revised Edition,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Fay Jones',5.68,False
+Steal Artifact,Enchantment,Aura,Revised Edition,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.2,False
+Thoughtlace,Instant,None,Revised Edition,Rare,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.28,False
+Unstable Mutation,Enchantment,Aura,Revised Edition,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.11,False
+Unsummon,Instant,None,Revised Edition,Common,1,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.14,False
+Vesuvan Doppelganger,Creature,Shapeshifter,Revised Edition,Rare,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',12.34,False
+Volcanic Eruption,Sorcery,None,Revised Edition,Rare,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.38,False
+Wall of Air,Creature,Wall,Revised Edition,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.24,False
+Wall of Water,Creature,Wall,Revised Edition,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.19,False
+Water Elemental,Creature,Elemental,Revised Edition,Uncommon,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.14,False
+Animate Dead,Enchantment,Aura,Revised Edition,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',3.31,False
+Bad Moon,Enchantment,None,Revised Edition,Rare,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',2.85,False
+Black Knight,Creature,Human Knight,Revised Edition,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',1.21,False
+Bog Wraith,Creature,Wraith,Revised Edition,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.19,False
+Contract from Below,Sorcery,None,Revised Edition,Rare,1,Black,Not Legal,Not Legal,Banned,Banned,Banned,True,b'Douglas Shuler',1.28,False
+Cursed Land,Enchantment,Aura,Revised Edition,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.18,False
+Dark Ritual,Instant,None,Revised Edition,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.57,False
+Darkpact,Sorcery,None,Revised Edition,Rare,3,Black,Not Legal,Not Legal,Banned,Banned,Banned,True,b'Quinton Hoover',1.04,False
+Deathgrip,Enchantment,None,Revised Edition,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.17,False
+Deathlace,Instant,None,Revised Edition,Rare,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.27,False
+Demonic Attorney,Sorcery,None,Revised Edition,Rare,3,Black,Not Legal,Not Legal,Banned,Banned,Banned,True,b'Daniel Gelon',1.2,False
+Demonic Hordes,Creature,Demon,Revised Edition,Rare,6,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',3.43,False
+Demonic Tutor,Sorcery,None,Revised Edition,Uncommon,2,Black,Not Legal,Not Legal,Legal,Restrict.,Banned,True,b'Douglas Shuler',35.38,False
+Drain Life,Sorcery,None,Revised Edition,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.15,False
+Drudge Skeletons,Creature,Skeleton,Revised Edition,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.13,False
+El-Hajjâj,Creature,Human Wizard,Revised Edition,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.24,False
+Erg Raiders,Creature,Human Warrior,Revised Edition,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.12,False
+Evil Presence,Enchantment,Aura,Revised Edition,Uncommon,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.22,False
+Fear,Enchantment,Aura,Revised Edition,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.1,False
+Frozen Shade,Creature,Shade,Revised Edition,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.1,False
+Gloom,Enchantment,None,Revised Edition,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.26,False
+Howl from Beyond,Instant,None,Revised Edition,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.09,False
+Hypnotic Specter,Creature,Specter,Revised Edition,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',2.04,False
+Lord of the Pit,Creature,Demon,Revised Edition,Rare,7,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',1.73,False
+Mind Twist,Sorcery,None,Revised Edition,Rare,2,Black,Not Legal,Not Legal,Legal,Legal,Banned,True,b'Julie Baroh',5.29,False
+Nether Shadow,Creature,Spirit,Revised Edition,Rare,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',1.51,False
+Nettling Imp,Creature,Imp,Revised Edition,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.44,False
+Nightmare,Creature,Nightmare Horse,Revised Edition,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',3.34,False
+Paralyze,Enchantment,Aura,Revised Edition,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.18,False
+Pestilence,Enchantment,None,Revised Edition,Common,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.23,False
+Plague Rats,Creature,Rat,Revised Edition,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.11,False
+Raise Dead,Sorcery,None,Revised Edition,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.1,False
+Royal Assassin,Creature,Human Assassin,Revised Edition,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',6.14,False
+Sacrifice,Instant,None,Revised Edition,Uncommon,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.39,False
+Scathe Zombies,Creature,Zombie,Revised Edition,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.09,False
+Scavenging Ghoul,Creature,Zombie,Revised Edition,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.14,False
+Sengir Vampire,Creature,Vampire,Revised Edition,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',1.07,False
+Simulacrum,Instant,None,Revised Edition,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.15,False
+Sorceress Queen,Creature,Human Wizard,Revised Edition,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',1.72,False
+Terror,Instant,None,Revised Edition,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.15,False
+Unholy Strength,Enchantment,Aura,Revised Edition,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.21,False
+Wall of Bone,Creature,Skeleton Wall,Revised Edition,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.16,False
+Warp Artifact,Enchantment,Aura,Revised Edition,Rare,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.29,False
+Weakness,Enchantment,Aura,Revised Edition,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.09,False
+Will-o'-the-Wisp,Creature,Spirit,Revised Edition,Rare,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',2.63,False
+Zombie Master,Creature,Zombie,Revised Edition,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',3.82,False
+Atog,Creature,Atog,Revised Edition,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.26,False
+Burrowing,Enchantment,Aura,Revised Edition,Uncommon,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.15,False
+Chaoslace,Instant,None,Revised Edition,Rare,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.26,False
+Disintegrate,Sorcery,None,Revised Edition,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.17,False
+Dragon Whelp,Creature,Dragon,Revised Edition,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.26,False
+Dwarven Warriors,Creature,Dwarf Warrior,Revised Edition,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.11,False
+Dwarven Weaponsmith,Creature,Dwarf Artificer,Revised Edition,Uncommon,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.15,False
+Earth Elemental,Creature,Elemental,Revised Edition,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.15,False
+Earthbind,Enchantment,Aura,Revised Edition,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.21,False
+Earthquake,Sorcery,None,Revised Edition,Rare,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',1.31,False
+Fire Elemental,Creature,Elemental,Revised Edition,Uncommon,5,Red,Legal,Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.27,False
+Fireball,Sorcery,None,Revised Edition,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.36,False
+Firebreathing,Enchantment,Aura,Revised Edition,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.09,False
+Flashfires,Sorcery,None,Revised Edition,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.16,False
+Fork,Instant,None,Revised Edition,Rare,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',20.47,False
+Goblin Balloon Brigade,Creature,Goblin Warrior,Revised Edition,Uncommon,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Andi Rusu',0.29,False
+Goblin King,Creature,Goblin,Revised Edition,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',2.9,False
+Granite Gargoyle,Creature,Gargoyle,Revised Edition,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',2.23,False
+Gray Ogre,Creature,Ogre,Revised Edition,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.06,False
+Hill Giant,Creature,Giant,Revised Edition,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.07,False
+Hurloon Minotaur,Creature,Minotaur,Revised Edition,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.12,False
+Keldon Warlord,Creature,Human Barbarian,Revised Edition,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Brockschmidt',0.25,False
+Kird Ape,Creature,Ape,Revised Edition,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,"b'Ken Meyer, Jr.'",0.2,False
+Lightning Bolt,Instant,None,Revised Edition,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',1.76,False
+Magnetic Mountain,Enchantment,None,Revised Edition,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Susan Van Camp',0.39,False
+Mana Flare,Enchantment,None,Revised Edition,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',6.92,False
+Manabarbs,Enchantment,None,Revised Edition,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.48,False
+Mijae Djinn,Creature,Djinn,Revised Edition,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Susan Van Camp',1.64,False
+Mons's Goblin Raiders,Creature,Goblin,Revised Edition,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.11,False
+Orcish Artillery,Creature,Orc Warrior,Revised Edition,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.13,False
+Orcish Oriflamme,Enchantment,None,Revised Edition,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.15,False
+Power Surge,Enchantment,None,Revised Edition,Rare,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.36,False
+Red Elemental Blast,Instant,None,Revised Edition,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.44,False
+Roc of Kher Ridges,Creature,Bird,Revised Edition,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Andi Rusu',1.43,False
+Rock Hydra,Creature,Hydra,Revised Edition,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',2.51,False
+Sedge Troll,Creature,Troll,Revised Edition,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',2.71,False
+Shatter,Instant,None,Revised Edition,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.12,False
+Shatterstorm,Sorcery,None,Revised Edition,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.55,False
+Shivan Dragon,Creature,Dragon,Revised Edition,Rare,6,Red,Legal,Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',8.87,False
+Smoke,Enchantment,None,Revised Edition,Rare,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',2.93,False
+Stone Giant,Creature,Giant,Revised Edition,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.14,False
+Stone Rain,Sorcery,None,Revised Edition,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.16,False
+Tunnel,Instant,None,Revised Edition,Uncommon,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.16,False
+Uthden Troll,Creature,Troll,Revised Edition,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.25,False
+Wall of Fire,Creature,Wall,Revised Edition,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.15,False
+Wall of Stone,Creature,Wall,Revised Edition,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.17,False
+Wheel of Fortune,Sorcery,None,Revised Edition,Rare,3,Red,Not Legal,Not Legal,Legal,Restrict.,Banned,True,b'Daniel Gelon',172.33,False
+Aspect of Wolf,Enchantment,Aura,Revised Edition,Rare,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.67,False
+Birds of Paradise,Creature,Bird,Revised Edition,Rare,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',13.4,False
+Channel,Sorcery,None,Revised Edition,Uncommon,2,Green,Not Legal,Not Legal,Banned,Restrict.,Banned,True,b'Richard Thomas',0.26,False
+Cockatrice,Creature,Cockatrice,Revised Edition,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',1.21,False
+Craw Wurm,Creature,Wurm,Revised Edition,Common,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.11,False
+Crumble,Instant,None,Revised Edition,Uncommon,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.19,False
+Desert Twister,Sorcery,None,Revised Edition,Uncommon,6,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Susan Van Camp',0.24,False
+Elvish Archers,Creature,Elf Archer,Revised Edition,Rare,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',2.01,False
+Fastbond,Enchantment,None,Revised Edition,Rare,1,Green,Not Legal,Not Legal,Banned,Legal,Banned,True,b'Mark Poole',11.02,False
+Fog,Instant,None,Revised Edition,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.15,False
+Force of Nature,Creature,Elemental,Revised Edition,Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',2.89,False
+Fungusaur,Creature,Fungus Dinosaur,Revised Edition,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.45,False
+Gaea's Liege,Creature,Avatar,Revised Edition,Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',1.83,False
+Giant Growth,Instant,None,Revised Edition,Common,1,Green,Legal,Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.19,False
+Giant Spider,Creature,Spider,Revised Edition,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.08,False
+Grizzly Bears,Creature,Bear,Revised Edition,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.13,False
+Hurricane,Sorcery,None,Revised Edition,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.29,False
+Instill Energy,Enchantment,Aura,Revised Edition,Uncommon,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.69,False
+Ironroot Treefolk,Creature,Treefolk,Revised Edition,Common,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.09,False
+Kudzu,Enchantment,Aura,Revised Edition,Rare,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',1.29,False
+Ley Druid,Creature,Human Druid,Revised Edition,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.16,False
+Lifeforce,Enchantment,None,Revised Edition,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.24,False
+Lifelace,Instant,None,Revised Edition,Rare,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.2,False
+Living Artifact,Enchantment,Aura,Revised Edition,Rare,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.34,False
+Living Lands,Enchantment,None,Revised Edition,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.39,False
+Llanowar Elves,Creature,Elf Druid,Revised Edition,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.25,False
+Lure,Enchantment,Aura,Revised Edition,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.18,False
+Regeneration,Enchantment,Aura,Revised Edition,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.09,False
+Regrowth,Sorcery,None,Revised Edition,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',1.04,False
+Scryb Sprites,Creature,Faerie,Revised Edition,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.16,False
+Shanodin Dryads,Creature,Nymph Dryad,Revised Edition,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.1,False
+Stream of Life,Sorcery,None,Revised Edition,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.1,False
+Thicket Basilisk,Creature,Basilisk,Revised Edition,Uncommon,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.24,False
+Timber Wolves,Creature,Wolf,Revised Edition,Rare,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.43,False
+Titania's Song,Enchantment,None,Revised Edition,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kerstin Kaman',0.44,False
+Tranquility,Sorcery,None,Revised Edition,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.09,False
+Tsunami,Sorcery,None,Revised Edition,Uncommon,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.21,False
+Verduran Enchantress,Creature,Human Druid,Revised Edition,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Brockschmidt',2.72,False
+Wall of Brambles,Creature,Plant Wall,Revised Edition,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.17,False
+Wall of Ice,Creature,Wall,Revised Edition,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.29,False
+Wall of Wood,Creature,Wall,Revised Edition,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.07,False
+Wanderlust,Enchantment,Aura,Revised Edition,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Cornelius Brudi',0.18,False
+War Mammoth,Creature,Elephant,Revised Edition,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.11,False
+Web,Enchantment,Aura,Revised Edition,Rare,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.45,False
+Wild Growth,Enchantment,Aura,Revised Edition,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.25,False
+Aladdin's Lamp,Artifact,None,Revised Edition,Rare,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.46,False
+Aladdin's Ring,Artifact,None,Revised Edition,Rare,8,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.37,False
+Ankh of Mishra,Artifact,None,Revised Edition,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',2.87,False
+Armageddon Clock,Artifact,None,Revised Edition,Rare,6,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.39,False
+Basalt Monolith,Artifact,None,Revised Edition,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',6.73,False
+Black Vise,Artifact,None,Revised Edition,Uncommon,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.72,False
+Bottle of Suleiman,Artifact,None,Revised Edition,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.3,False
+Brass Man,Artifact Creature,Construct,Revised Edition,Uncommon,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.2,False
+Celestial Prism,Artifact,None,Revised Edition,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.16,False
+Clockwork Beast,Artifact Creature,Beast,Revised Edition,Rare,6,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.29,False
+Conservator,Artifact,None,Revised Edition,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.14,False
+Crystal Rod,Artifact,None,Revised Edition,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.14,False
+Dancing Scimitar,Artifact Creature,Spirit,Revised Edition,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.49,False
+Dingus Egg,Artifact,None,Revised Edition,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.67,False
+Disrupting Scepter,Artifact,None,Revised Edition,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',1.16,False
+Dragon Engine,Artifact Creature,Construct,Revised Edition,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.34,False
+Ebony Horse,Artifact,None,Revised Edition,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.3,False
+Flying Carpet,Artifact,None,Revised Edition,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.3,False
+Glasses of Urza,Artifact,None,Revised Edition,Uncommon,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.25,False
+Helm of Chatzuk,Artifact,None,Revised Edition,Rare,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.34,False
+Howling Mine,Artifact,None,Revised Edition,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',6.05,False
+Iron Star,Artifact,None,Revised Edition,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.11,False
+Ivory Cup,Artifact,None,Revised Edition,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.15,False
+Ivory Tower,Artifact,None,Revised Edition,Rare,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Margaret Organ-Kean',3.49,False
+Jade Monolith,Artifact,None,Revised Edition,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.33,False
+Jandor's Ring,Artifact,None,Revised Edition,Rare,6,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.3,False
+Jandor's Saddlebags,Artifact,None,Revised Edition,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.48,False
+Jayemdae Tome,Artifact,None,Revised Edition,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',2.25,False
+Juggernaut,Artifact Creature,Juggernaut,Revised Edition,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.55,False
+Kormus Bell,Artifact,None,Revised Edition,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.55,False
+Library of Leng,Artifact,None,Revised Edition,Uncommon,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',1.44,False
+Living Wall,Artifact Creature,Wall,Revised Edition,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.37,False
+Mana Vault,Artifact,None,Revised Edition,Rare,1,Colorless,Not Legal,Not Legal,Legal,Restrict.,Banned,True,b'Mark Tedin',46.59,False
+Meekstone,Artifact,None,Revised Edition,Rare,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',4.86,False
+Millstone,Artifact,None,Revised Edition,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',1.73,False
+Mishra's War Machine,Artifact Creature,Juggernaut,Revised Edition,Rare,7,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.28,False
+Nevinyrral's Disk,Artifact,None,Revised Edition,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',5.2,False
+Obsianus Golem,Artifact Creature,Golem,Revised Edition,Uncommon,6,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.19,False
+Onulet,Artifact Creature,Construct,Revised Edition,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.28,False
+Ornithopter,Artifact Creature,Thopter,Revised Edition,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.33,False
+Primal Clay,Artifact Creature,Shapeshifter,Revised Edition,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.3,False
+Rocket Launcher,Artifact,None,Revised Edition,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.44,False
+Rod of Ruin,Artifact,None,Revised Edition,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.16,False
+Sol Ring,Artifact,None,Revised Edition,Uncommon,1,Colorless,Not Legal,Not Legal,Legal,Restrict.,Banned,True,b'Mark Tedin',13.64,False
+Soul Net,Artifact,None,Revised Edition,Uncommon,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.15,False
+Sunglasses of Urza,Artifact,None,Revised Edition,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.69,False
+The Hive,Artifact,None,Revised Edition,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.43,False
+The Rack,Artifact,None,Revised Edition,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.84,False
+Throne of Bone,Artifact,None,Revised Edition,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.13,False
+Winter Orb,Artifact,None,Revised Edition,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',9.28,False
+Wooden Sphere,Artifact,None,Revised Edition,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.2,False
+Badlands,Land,Swamp Mountain,Revised Edition,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',236.38,False
+Bayou,Land,Swamp Forest,Revised Edition,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',261.8,False
+Plateau,Land,Mountain Plains,Revised Edition,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Cornelius Brudi',141.83,False
+Savannah,Land,Forest Plains,Revised Edition,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',163.88,False
+Scrubland,Land,Plains Swamp,Revised Edition,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',171.31,False
+Taiga,Land,Mountain Forest,Revised Edition,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',183.71,False
+Tropical Island,Land,Forest Island,Revised Edition,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',373.26,False
+Tundra,Land,Plains Island,Revised Edition,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',263.68,False
+Underground Sea,Land,Island Swamp,Revised Edition,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',475.0,False
+Volcanic Island,Land,Island Mountain,Revised Edition,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',419.86,False
+Plains,Basic Land,Plains,Revised Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.38,False
+Plains,Basic Land,Plains,Revised Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.33,False
+Plains,Basic Land,Plains,Revised Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jesper Myrfors',0.37,False
+Island,Basic Land,Island,Revised Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Poole',0.54,False
+Island,Basic Land,Island,Revised Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Poole',0.41,False
+Island,Basic Land,Island,Revised Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Poole',0.49,False
+Swamp,Basic Land,Swamp,Revised Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.39,False
+Swamp,Basic Land,Swamp,Revised Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.4,False
+Swamp,Basic Land,Swamp,Revised Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.6,False
+Mountain,Basic Land,Mountain,Revised Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.33,False
+Mountain,Basic Land,Mountain,Revised Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.32,False
+Mountain,Basic Land,Mountain,Revised Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.33,False
+Forest,Basic Land,Forest,Revised Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.32,False
+Forest,Basic Land,Forest,Revised Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.36,False
+Forest,Basic Land,Forest,Revised Edition,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.3,False

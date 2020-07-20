@@ -1,185 +1,185 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Deceiver of Form,Creature,Eldrazi,Oath of the Gatewatch,Rare,7,Colorless,True,False,True,True,b'Viktor Titov',0.31
-Eldrazi Mimic,Creature,Eldrazi,Oath of the Gatewatch,Rare,2,Colorless,True,False,True,True,b'Craig J Spearing',0.69
-Endbringer,Creature,Eldrazi,Oath of the Gatewatch,Rare,6,Colorless,True,False,True,True,b'Vincent Proce',0.7
-"Kozilek, the Great Distortion",Legendary Creature,Eldrazi,Oath of the Gatewatch,Mythic Rare,10,Colorless,True,False,True,True,b'Aleksi Briclot',9.07
-Kozilek's Pathfinder,Creature,Eldrazi,Oath of the Gatewatch,Common,6,Colorless,True,False,True,True,b'James Zapata',0.06
-Matter Reshaper,Creature,Eldrazi,Oath of the Gatewatch,Rare,3,Colorless,True,False,True,True,b'Chris Rahn',2.09
-Reality Smasher,Creature,Eldrazi,Oath of the Gatewatch,Rare,5,Colorless,True,False,True,True,b'Jason Rainville',2.54
-Spatial Contortion,Instant,None,Oath of the Gatewatch,Uncommon,2,Colorless,True,False,True,True,b'Daarken',0.27
-Thought-Knot Seer,Creature,Eldrazi,Oath of the Gatewatch,Rare,4,Colorless,True,False,True,True,b'Svetlin Velinov',5.83
-Walker of the Wastes,Creature,Eldrazi,Oath of the Gatewatch,Uncommon,5,Colorless,True,False,True,True,b'Joseph Meehan',0.2
-Warden of Geometries,Creature,Eldrazi Drone,Oath of the Gatewatch,Common,4,Colorless,True,False,True,True,b'Jason Felix',0.17
-Warping Wail,Instant,None,Oath of the Gatewatch,Uncommon,2,Colorless,True,False,True,True,b'Jason Felix',0.5
-Eldrazi Displacer,Creature,Eldrazi,Oath of the Gatewatch,Rare,3,White,True,False,True,True,b'Daarken',2.59
-Affa Protector,Creature,Human Soldier Ally,Oath of the Gatewatch,Common,3,White,True,False,True,True,b'Izzy',0.02
-Allied Reinforcements,Sorcery,None,Oath of the Gatewatch,Uncommon,4,White,True,False,True,True,b'Matt Stewart',0.08
-Call the Gatewatch,Sorcery,None,Oath of the Gatewatch,Rare,3,White,True,False,True,True,b'Yefim Kligerman',0.36
-Dazzling Reflection,Instant,None,Oath of the Gatewatch,Common,2,White,True,False,True,True,b'David Palumbo',0.1
-Expedition Raptor,Creature,Bird,Oath of the Gatewatch,Common,5,White,True,False,True,True,b'Johann Bodin',0.01
-General Tazri,Legendary Creature,Human Ally,Oath of the Gatewatch,Mythic Rare,5,White,True,False,True,True,b'Chris Rahn',0.49
-Immolating Glare,Instant,None,Oath of the Gatewatch,Uncommon,2,White,True,False,True,True,b'Daarken',0.1
-Iona's Blessing,Enchantment,Aura,Oath of the Gatewatch,Uncommon,4,White,True,False,True,True,b'David Gaillet',0.05
-Isolation Zone,Enchantment,None,Oath of the Gatewatch,Common,4,White,True,False,True,True,b'Chris Rallis',0.04
-Kor Scythemaster,Creature,Kor Soldier Ally,Oath of the Gatewatch,Common,3,White,True,False,True,True,b'Ryan Pancoast',0.03
-Kor Sky Climber,Creature,Kor Soldier Ally,Oath of the Gatewatch,Common,3,White,True,False,True,True,b'Victor Adame Minguez',0.06
-"Linvala, the Preserver",Legendary Creature,Angel,Oath of the Gatewatch,Mythic Rare,6,White,True,False,True,True,b'Magali Villeneuve',0.79
-Make a Stand,Instant,None,Oath of the Gatewatch,Uncommon,3,White,True,False,True,True,b'Magali Villeneuve',0.17
-Makindi Aeronaut,Creature,Kor Scout Ally,Oath of the Gatewatch,Common,2,White,True,False,True,True,b'Matt Stewart',0.02
-Mighty Leap,Instant,None,Oath of the Gatewatch,Common,2,White,True,False,True,True,b'Winona Nelson',0.03
-Munda's Vanguard,Creature,Kor Knight Ally,Oath of the Gatewatch,Rare,5,White,True,False,True,True,b'Steve Prescott',0.15
-Oath of Gideon,Legendary Enchantment,None,Oath of the Gatewatch,Rare,3,White,True,False,True,True,b'Wesley Burt',0.44
-Ondu War Cleric,Creature,Human Cleric Ally,Oath of the Gatewatch,Common,2,White,True,False,True,True,b'Ben Maier',0.05
-Relief Captain,Creature,Kor Knight Ally,Oath of the Gatewatch,Uncommon,4,White,True,False,True,True,b'Anastasia Ovchinnikova',0.06
-Searing Light,Instant,None,Oath of the Gatewatch,Common,1,White,True,False,True,True,b'Marco Nelor',0.03
-Shoulder to Shoulder,Sorcery,None,Oath of the Gatewatch,Common,3,White,True,False,True,True,b'Chris Rallis',0.03
-Spawnbinder Mage,Creature,Human Wizard Ally,Oath of the Gatewatch,Common,4,White,True,False,True,True,b'Dan Scott',0.02
-Steppe Glider,Creature,Elemental,Oath of the Gatewatch,Uncommon,5,White,True,False,True,True,b'John Severin Brassell',0.03
-Stone Haven Outfitter,Creature,Kor Artificer Ally,Oath of the Gatewatch,Rare,2,White,True,False,True,True,b'Jason Rainville',0.26
-Stoneforge Acolyte,Creature,Kor Artificer Ally,Oath of the Gatewatch,Uncommon,1,White,True,False,True,True,b'Chris Rallis',0.06
-Wall of Resurgence,Creature,Wall,Oath of the Gatewatch,Uncommon,3,White,True,False,True,True,b'Daniel Ljunggren',0.1
-Abstruse Interference,Instant,None,Oath of the Gatewatch,Common,3,Blue,True,False,True,True,b'Igor Kieryluk',0.06
-Blinding Drone,Creature,Eldrazi Drone,Oath of the Gatewatch,Common,2,Blue,True,False,True,True,b'Lake Hurwitz',0.05
-Cultivator Drone,Creature,Eldrazi Drone,Oath of the Gatewatch,Common,3,Blue,True,False,True,True,b'Slawomir Maniak',0.05
-Deepfathom Skulker,Creature,Eldrazi,Oath of the Gatewatch,Rare,6,Blue,True,False,True,True,b'Joseph Meehan',0.22
-Dimensional Infiltrator,Creature,Eldrazi,Oath of the Gatewatch,Rare,2,Blue,True,False,True,True,b'Chase Stone',0.15
-Gravity Negator,Creature,Eldrazi Drone,Oath of the Gatewatch,Common,4,Blue,True,False,True,True,b'Chase Stone',0.05
-Prophet of Distortion,Creature,Eldrazi Drone,Oath of the Gatewatch,Uncommon,1,Blue,True,False,True,True,b'Lius Lasahido',0.15
-Slip Through Space,Sorcery,None,Oath of the Gatewatch,Common,1,Blue,True,False,True,True,b'Raymond Swanland',0.19
-Thought Harvester,Creature,Eldrazi Drone,Oath of the Gatewatch,Uncommon,4,Blue,True,False,True,True,b'Winona Nelson',0.11
-Void Shatter,Instant,None,Oath of the Gatewatch,Uncommon,3,Blue,True,False,True,True,b'Jason Felix',0.28
-Ancient Crab,Creature,Crab,Oath of the Gatewatch,Common,3,Blue,True,False,True,True,b'Steve Prescott',0.04
-Comparative Analysis,Instant,None,Oath of the Gatewatch,Common,4,Blue,True,False,True,True,b'Willian Murai',0.03
-Containment Membrane,Enchantment,Aura,Oath of the Gatewatch,Common,3,Blue,True,False,True,True,b'Daarken',0.03
-Crush of Tentacles,Sorcery,None,Oath of the Gatewatch,Mythic Rare,6,Blue,True,False,True,True,b'Jama Jurabaev',1.14
-Cyclone Sire,Creature,Elemental,Oath of the Gatewatch,Uncommon,5,Blue,True,False,True,True,b'Igor Kieryluk',0.03
-Gift of Tusks,Instant,None,Oath of the Gatewatch,Uncommon,1,Blue,True,False,True,True,b'Kev Walker',0.04
-Grip of the Roil,Instant,None,Oath of the Gatewatch,Uncommon,3,Blue,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.09
-Hedron Alignment,Enchantment,None,Oath of the Gatewatch,Rare,3,Blue,True,False,True,True,b'Craig J Spearing',0.12
-Jwar Isle Avenger,Creature,Sphinx,Oath of the Gatewatch,Common,5,Blue,True,False,True,True,b'Ryan Pancoast',0.04
-Negate,Instant,None,Oath of the Gatewatch,Common,2,Blue,True,True,True,True,b'Ryan Pancoast',0.13
-Oath of Jace,Legendary Enchantment,None,Oath of the Gatewatch,Rare,3,Blue,True,False,True,True,b'Wesley Burt',0.31
-Overwhelming Denial,Instant,None,Oath of the Gatewatch,Rare,4,Blue,True,False,True,True,b'Jama Jurabaev',0.28
-Roiling Waters,Sorcery,None,Oath of the Gatewatch,Uncommon,7,Blue,True,False,True,True,b'David Gaillet',0.04
-Sphinx of the Final Word,Creature,Sphinx,Oath of the Gatewatch,Mythic Rare,7,Blue,True,False,True,True,b'Lius Lasahido',1.1
-Sweep Away,Instant,None,Oath of the Gatewatch,Common,3,Blue,True,False,True,True,b'Winona Nelson',0.05
-Umara Entangler,Creature,Merfolk Rogue Ally,Oath of the Gatewatch,Common,2,Blue,True,False,True,True,b'James Ryman',0.02
-Unity of Purpose,Instant,None,Oath of the Gatewatch,Uncommon,4,Blue,True,False,True,True,b'Jason Felix',0.06
-Bearer of Silence,Creature,Eldrazi,Oath of the Gatewatch,Rare,2,Black,True,False,True,True,b'Tyler Jacobson',0.2
-Dread Defiler,Creature,Eldrazi,Oath of the Gatewatch,Rare,7,Black,True,False,True,True,b'Slawomir Maniak',0.14
-Essence Depleter,Creature,Eldrazi Drone,Oath of the Gatewatch,Uncommon,3,Black,True,False,True,True,b'Chase Stone',0.07
-Flaying Tendrils,Sorcery,None,Oath of the Gatewatch,Uncommon,3,Black,True,False,True,True,b'Slawomir Maniak',0.07
-Havoc Sower,Creature,Eldrazi Drone,Oath of the Gatewatch,Uncommon,4,Black,True,False,True,True,b'Svetlin Velinov',0.07
-Inverter of Truth,Creature,Eldrazi,Oath of the Gatewatch,Mythic Rare,4,Black,True,False,True,True,b'Chase Stone',1.83
-Kozilek's Shrieker,Creature,Eldrazi Drone,Oath of the Gatewatch,Common,3,Black,True,False,True,True,b'Jason Felix',0.04
-Kozilek's Translator,Creature,Eldrazi Drone,Oath of the Gatewatch,Common,5,Black,True,False,True,True,b'Izzy',0.05
-Oblivion Strike,Sorcery,None,Oath of the Gatewatch,Common,4,Black,True,False,True,True,b'Daniel Ljunggren',0.07
-Reaver Drone,Creature,Eldrazi Drone,Oath of the Gatewatch,Uncommon,1,Black,True,False,True,True,b'Chris Rallis',0.11
-Sifter of Skulls,Creature,Eldrazi,Oath of the Gatewatch,Rare,4,Black,True,False,True,True,b'Slawomir Maniak',1.01
-Sky Scourer,Creature,Eldrazi Drone,Oath of the Gatewatch,Common,2,Black,True,False,True,True,b'Winona Nelson',0.05
-Slaughter Drone,Creature,Eldrazi Drone,Oath of the Gatewatch,Common,2,Black,True,False,True,True,b'Dan Scott',0.05
-Unnatural Endurance,Instant,None,Oath of the Gatewatch,Common,1,Black,True,False,True,True,b'Mathias Kollros',0.06
-Visions of Brutality,Enchantment,Aura,Oath of the Gatewatch,Uncommon,2,Black,True,False,True,True,b'Jama Jurabaev',0.12
-Witness the End,Sorcery,None,Oath of the Gatewatch,Common,4,Black,True,False,True,True,b'Igor Kieryluk',0.03
-Corpse Churn,Instant,None,Oath of the Gatewatch,Common,2,Black,True,True,True,True,b'Magali Villeneuve',0.08
-Drana's Chosen,Creature,Vampire Shaman Ally,Oath of the Gatewatch,Rare,4,Black,True,False,True,True,b'Deruchenko Alexander',0.13
-Grasp of Darkness,Instant,None,Oath of the Gatewatch,Uncommon,2,Black,True,False,True,True,b'Daarken',0.28
-"Kalitas, Traitor of Ghet",Legendary Creature,Vampire Warrior,Oath of the Gatewatch,Mythic Rare,4,Black,True,False,True,True,b'Todd Lockwood',22.85
-Malakir Soothsayer,Creature,Vampire Shaman Ally,Oath of the Gatewatch,Uncommon,5,Black,True,False,True,True,b'Greg Opalinski',0.08
-Null Caller,Creature,Vampire Shaman,Oath of the Gatewatch,Uncommon,4,Black,True,False,True,True,b'Darek Zabrocki',0.06
-Remorseless Punishment,Sorcery,None,Oath of the Gatewatch,Rare,5,Black,True,False,True,True,b'Ryan Barger',0.16
-Tar Snare,Instant,None,Oath of the Gatewatch,Common,3,Black,True,False,True,True,b'Karl Kopinski',0.01
-Untamed Hunger,Enchantment,Aura,Oath of the Gatewatch,Common,3,Black,True,False,True,True,b'Willian Murai',0.04
-Vampire Envoy,Creature,Vampire Cleric Ally,Oath of the Gatewatch,Common,3,Black,True,False,True,True,b'Johannes Voss',0.09
-Zulaport Chainmage,Creature,Human Shaman Ally,Oath of the Gatewatch,Common,4,Black,True,False,True,True,b'Chris Rallis',0.03
-Consuming Sinkhole,Instant,None,Oath of the Gatewatch,Common,4,Red,True,False,True,True,b'Igor Kieryluk',0.02
-Eldrazi Aggressor,Creature,Eldrazi Drone,Oath of the Gatewatch,Common,3,Red,True,False,True,True,b'Mathias Kollros',0.03
-Eldrazi Obligator,Creature,Eldrazi,Oath of the Gatewatch,Rare,3,Red,True,False,True,True,b'Jason Felix',0.33
-Immobilizer Eldrazi,Creature,Eldrazi Drone,Oath of the Gatewatch,Uncommon,2,Red,True,False,True,True,b'Svetlin Velinov',0.08
-Kozilek's Return,Instant,None,Oath of the Gatewatch,Mythic Rare,3,Red,True,False,True,True,b'Lius Lasahido',2.1
-Maw of Kozilek,Creature,Eldrazi Drone,Oath of the Gatewatch,Common,4,Red,True,False,True,True,b'Daarken',0.06
-Reality Hemorrhage,Instant,None,Oath of the Gatewatch,Common,2,Red,True,False,True,True,b'Chris Rallis',0.03
-Akoum Flameseeker,Creature,Human Shaman Ally,Oath of the Gatewatch,Common,3,Red,True,False,True,True,b'Willian Murai',0.02
-Boulder Salvo,Sorcery,None,Oath of the Gatewatch,Common,5,Red,True,False,True,True,b'Vincent Proce',0.02
-Brute Strength,Instant,None,Oath of the Gatewatch,Common,2,Red,True,False,True,True,b'Wayne Reynolds',0.06
-"Chandra, Flamecaller",Legendary Planeswalker,Chandra,Oath of the Gatewatch,Mythic Rare,6,Red,True,False,True,True,b'Jason Rainville',2.15
-Cinder Hellion,Creature,Hellion,Oath of the Gatewatch,Common,5,Red,True,False,True,True,b'Jason Kang',0.02
-Devour in Flames,Sorcery,None,Oath of the Gatewatch,Uncommon,3,Red,True,False,True,True,b'Svetlin Velinov',0.04
-Embodiment of Fury,Creature,Elemental,Oath of the Gatewatch,Uncommon,4,Red,True,False,True,True,b'David Palumbo',0.12
-Expedite,Instant,None,Oath of the Gatewatch,Common,1,Red,True,False,True,True,b'Kieran Yanner',0.18
-Fall of the Titans,Instant,None,Oath of the Gatewatch,Rare,3,Red,True,False,True,True,b'Chris Rallis',0.26
-Goblin Dark-Dwellers,Creature,Goblin,Oath of the Gatewatch,Rare,5,Red,True,False,True,True,b'Steven Belledin',0.31
-Goblin Freerunner,Creature,Goblin Warrior Ally,Oath of the Gatewatch,Common,4,Red,True,False,True,True,b'Wayne Reynolds',0.05
-Kazuul's Toll Collector,Creature,Ogre Warrior,Oath of the Gatewatch,Uncommon,3,Red,True,False,True,True,b'Greg Staples',0.16
-Oath of Chandra,Legendary Enchantment,None,Oath of the Gatewatch,Rare,2,Red,True,False,True,True,b'Wesley Burt',0.24
-Press into Service,Sorcery,None,Oath of the Gatewatch,Uncommon,5,Red,True,False,True,True,b'Steve Prescott',0.09
-Pyromancer's Assault,Enchantment,None,Oath of the Gatewatch,Uncommon,4,Red,True,False,True,True,b'Todd Lockwood',0.03
-Reckless Bushwhacker,Creature,Goblin Warrior Ally,Oath of the Gatewatch,Uncommon,3,Red,True,False,True,True,b'Kieran Yanner',0.57
-Sparkmage's Gambit,Sorcery,None,Oath of the Gatewatch,Common,2,Red,True,False,True,True,b'Mathias Kollros',0.04
-Tears of Valakut,Instant,None,Oath of the Gatewatch,Uncommon,2,Red,True,False,True,True,b'Noah Bradley',0.04
-Tyrant of Valakut,Creature,Dragon,Oath of the Gatewatch,Rare,7,Red,True,False,True,True,b'Tyler Jacobson',0.11
-Zada's Commando,Creature,Goblin Archer Ally,Oath of the Gatewatch,Common,2,Red,True,False,True,True,b'Zack Stella',0.03
-Birthing Hulk,Creature,Eldrazi Drone,Oath of the Gatewatch,Uncommon,7,Green,True,False,True,True,b'Jack Wang',0.08
-Ruin in Their Wake,Sorcery,None,Oath of the Gatewatch,Uncommon,2,Green,True,False,True,True,b'Jason Felix',0.09
-Scion Summoner,Creature,Eldrazi Drone,Oath of the Gatewatch,Common,3,Green,True,False,True,True,b'Johann Bodin',0.08
-Stalking Drone,Creature,Eldrazi Drone,Oath of the Gatewatch,Common,2,Green,True,False,True,True,b'Slawomir Maniak',0.03
-Vile Redeemer,Creature,Eldrazi,Oath of the Gatewatch,Rare,3,Green,True,False,True,True,b'Jason Rainville',0.18
-World Breaker,Creature,Eldrazi,Oath of the Gatewatch,Mythic Rare,7,Green,True,False,True,True,b'Jaime Jones',5.4
-Baloth Pup,Creature,Beast,Oath of the Gatewatch,Uncommon,2,Green,True,False,True,True,b'Steve Prescott',0.03
-Bonds of Mortality,Enchantment,None,Oath of the Gatewatch,Uncommon,2,Green,True,False,True,True,b'Chris Rallis',0.18
-Canopy Gorger,Creature,Wurm,Oath of the Gatewatch,Common,6,Green,True,False,True,True,b'Lake Hurwitz',0.03
-Elemental Uprising,Instant,None,Oath of the Gatewatch,Common,2,Green,True,False,True,True,b'Svetlin Velinov',0.03
-Embodiment of Insight,Creature,Elemental,Oath of the Gatewatch,Uncommon,5,Green,True,False,True,True,b'Marco Nelor',0.15
-Gladehart Cavalry,Creature,Elf Knight,Oath of the Gatewatch,Rare,7,Green,True,False,True,True,b'Steven Belledin',0.13
-Harvester Troll,Creature,Troll,Oath of the Gatewatch,Uncommon,4,Green,True,False,True,True,b'Greg Staples',0.03
-Lead by Example,Instant,None,Oath of the Gatewatch,Common,2,Green,True,False,True,True,b'Johannes Voss',0.04
-Loam Larva,Creature,Insect,Oath of the Gatewatch,Common,2,Green,True,False,True,True,b'Jason Kang',0.03
-Natural State,Instant,None,Oath of the Gatewatch,Common,1,Green,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.21
-Netcaster Spider,Creature,Spider,Oath of the Gatewatch,Common,3,Green,True,True,True,True,b'Zoltan Boros',0.03
-"Nissa, Voice of Zendikar",Legendary Planeswalker,Nissa,Oath of the Gatewatch,Mythic Rare,3,Green,True,False,True,True,b'Raymond Swanland',4.98
-Nissa's Judgment,Sorcery,None,Oath of the Gatewatch,Uncommon,5,Green,True,False,True,True,b'Tyler Jacobson',0.08
-Oath of Nissa,Legendary Enchantment,None,Oath of the Gatewatch,Rare,1,Green,True,False,True,True,b'Wesley Burt',1.06
-Pulse of Murasa,Instant,None,Oath of the Gatewatch,Common,3,Green,True,True,True,True,b'Matt Stewart',0.12
-Saddleback Lagac,Creature,Lizard,Oath of the Gatewatch,Common,4,Green,True,False,True,True,b'Jason Kang',0.02
-Seed Guardian,Creature,Elemental,Oath of the Gatewatch,Uncommon,4,Green,True,False,True,True,b'Vincent Proce',0.07
-Sylvan Advocate,Creature,Elf Druid Ally,Oath of the Gatewatch,Rare,2,Green,True,False,True,True,b'Volkan Ba\xc7\xb5a',0.35
-Tajuru Pathwarden,Creature,Elf Warrior Ally,Oath of the Gatewatch,Common,5,Green,True,False,True,True,b'Victor Adame Minguez',0.05
-Vines of the Recluse,Instant,None,Oath of the Gatewatch,Common,1,Green,True,False,True,True,b'Dan Scott',0.06
-Zendikar Resurgent,Enchantment,None,Oath of the Gatewatch,Rare,7,Green,True,False,True,True,b'Chris Rallis',4.09
-Flayer Drone,Creature,Eldrazi Drone,Oath of the Gatewatch,Uncommon,3,Gold,True,False,True,True,b'Lius Lasahido',0.11
-Mindmelter,Creature,Eldrazi Drone,Oath of the Gatewatch,Uncommon,3,Gold,True,False,True,True,b'Jason Felix',0.09
-Void Grafter,Creature,Eldrazi Drone,Oath of the Gatewatch,Uncommon,3,Gold,True,False,True,True,b'Alejandro Mirabal',0.13
-"Ayli, Eternal Pilgrim",Legendary Creature,Kor Cleric,Oath of the Gatewatch,Rare,2,Gold,True,False,True,True,b'Cynthia Sheppard',0.76
-Baloth Null,Creature,Zombie Beast,Oath of the Gatewatch,Uncommon,6,Gold,True,False,True,True,b'Jakub Kasper',0.07
-Cliffhaven Vampire,Creature,Vampire Warrior Ally,Oath of the Gatewatch,Uncommon,4,Gold,True,False,True,True,b'David Gaillet',0.45
-Joraga Auxiliary,Creature,Elf Soldier Ally,Oath of the Gatewatch,Uncommon,3,Gold,True,False,True,True,b'David Gaillet',0.07
-"Jori En, Ruin Diver",Legendary Creature,Merfolk Wizard,Oath of the Gatewatch,Rare,3,Gold,True,False,True,True,b'Igor Kieryluk',0.26
-"Mina and Denn, Wildborn",Legendary Creature,Elf Ally,Oath of the Gatewatch,Rare,4,Gold,True,False,True,True,b'Izzy',1.48
-Reflector Mage,Creature,Human Wizard,Oath of the Gatewatch,Uncommon,3,Gold,True,False,True,True,b'Willian Murai',0.94
-Relentless Hunter,Creature,Human Warrior,Oath of the Gatewatch,Uncommon,3,Gold,True,False,True,True,b'Matt Stewart',0.07
-Stormchaser Mage,Creature,Human Wizard,Oath of the Gatewatch,Uncommon,2,Gold,True,False,True,True,b'Clint Cearley',0.3
-Weapons Trainer,Creature,Human Soldier Ally,Oath of the Gatewatch,Uncommon,2,Gold,True,False,True,True,b'Greg Opalinski',0.07
-Bone Saw,Artifact,Equipment,Oath of the Gatewatch,Common,0,Colorless,True,False,True,True,b'Kev Walker',0.09
-Captain's Claws,Artifact,Equipment,Oath of the Gatewatch,Rare,2,Colorless,True,False,True,True,b'Anthony Palumbo',0.3
-Chitinous Cloak,Artifact,Equipment,Oath of the Gatewatch,Uncommon,3,Colorless,True,False,True,True,b'Chris Rahn',0.06
-Hedron Crawler,Artifact Creature,Construct,Oath of the Gatewatch,Common,2,Colorless,True,False,True,True,b'Daniel Ljunggren',0.24
-Seer's Lantern,Artifact,None,Oath of the Gatewatch,Common,3,Colorless,True,False,True,True,b'Jung Park',0.12
-Stoneforge Masterwork,Artifact,Equipment,Oath of the Gatewatch,Rare,1,Colorless,True,False,True,True,b'Ben Maier',1.46
-Strider Harness,Artifact,Equipment,Oath of the Gatewatch,Uncommon,3,Colorless,True,False,True,True,b'Kev Walker',0.05
-Cinder Barrens,Land,None,Oath of the Gatewatch,Uncommon,0,Colorless,True,False,True,True,b'Cliff Childs',0.09
-Corrupted Crossroads,Land,None,Oath of the Gatewatch,Rare,0,Colorless,True,False,True,True,b'Ryan Pancoast',0.2
-Crumbling Vestige,Land,None,Oath of the Gatewatch,Common,0,Colorless,True,False,True,True,b'Zack Stella',0.1
-Hissing Quagmire,Land,None,Oath of the Gatewatch,Rare,0,Colorless,True,False,True,True,b'Cliff Childs',1.29
-Holdout Settlement,Land,None,Oath of the Gatewatch,Common,0,Colorless,True,False,True,True,b'Kieran Yanner',0.15
-Meandering River,Land,None,Oath of the Gatewatch,Uncommon,0,Colorless,True,False,True,True,b'Cliff Childs',0.09
-Mirrorpool,Land,None,Oath of the Gatewatch,Mythic Rare,0,Colorless,True,False,True,True,b'Cliff Childs',2.48
-Needle Spires,Land,None,Oath of the Gatewatch,Rare,0,Colorless,True,False,True,True,b'Jonas De Ro',0.75
-Ruins of Oran-Rief,Land,None,Oath of the Gatewatch,Rare,0,Colorless,True,False,True,True,b'Jason Felix',0.33
-Sea Gate Wreckage,Land,None,Oath of the Gatewatch,Rare,0,Colorless,True,False,True,True,b'Zack Stella',0.46
-Submerged Boneyard,Land,None,Oath of the Gatewatch,Uncommon,0,Colorless,True,False,True,True,b'Cliff Childs',0.13
-Timber Gorge,Land,None,Oath of the Gatewatch,Uncommon,0,Colorless,True,False,True,True,b'Cliff Childs',0.1
-Tranquil Expanse,Land,None,Oath of the Gatewatch,Uncommon,0,Colorless,True,False,True,True,b'Cliff Childs',0.11
-Unknown Shores,Land,None,Oath of the Gatewatch,Common,0,Colorless,True,True,True,True,b'Jung Park',0.07
-Wandering Fumarole,Land,None,Oath of the Gatewatch,Rare,0,Colorless,True,False,True,True,b'Florian de Gesincourt',0.74
-Wastes,Basic Land,None,Oath of the Gatewatch,Common,0,Colorless,True,False,True,True,b'Jason Felix',0.49
-Wastes,Basic Land,None,Oath of the Gatewatch,Common,0,Colorless,True,False,True,True,b'Raymond Swanland',0.63
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Deceiver of Form,Creature,Eldrazi,Oath of the Gatewatch,Rare,7,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Viktor Titov',0.34,False
+Eldrazi Mimic,Creature,Eldrazi,Oath of the Gatewatch,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Craig J Spearing',0.7,False
+Endbringer,Creature,Eldrazi,Oath of the Gatewatch,Rare,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Vincent Proce',0.76,False
+Kozilek the Great Distortion,Creature,Eldrazi,Oath of the Gatewatch,Mythic Rare,10,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',13.66,True
+Kozilek's Pathfinder,Creature,Eldrazi,Oath of the Gatewatch,Common,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'James Zapata',0.09,False
+Matter Reshaper,Creature,Eldrazi,Oath of the Gatewatch,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',1.85,False
+Reality Smasher,Creature,Eldrazi,Oath of the Gatewatch,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Rainville',2.29,False
+Spatial Contortion,Instant,None,Oath of the Gatewatch,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.27,False
+Thought-Knot Seer,Creature,Eldrazi,Oath of the Gatewatch,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',6.09,False
+Walker of the Wastes,Creature,Eldrazi,Oath of the Gatewatch,Uncommon,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Joseph Meehan',0.21,False
+Warden of Geometries,Creature,Eldrazi Drone,Oath of the Gatewatch,Common,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Felix',0.19,False
+Warping Wail,Instant,None,Oath of the Gatewatch,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Felix',0.44,False
+Eldrazi Displacer,Creature,Eldrazi,Oath of the Gatewatch,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',3.06,False
+Affa Protector,Creature,Human Soldier Ally,Oath of the Gatewatch,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.03,False
+Allied Reinforcements,Sorcery,None,Oath of the Gatewatch,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.12,False
+Call the Gatewatch,Sorcery,None,Oath of the Gatewatch,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Yefim Kligerman',0.39,False
+Dazzling Reflection,Instant,None,Oath of the Gatewatch,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'David Palumbo',0.12,False
+Expedition Raptor,Creature,Bird,Oath of the Gatewatch,Common,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Johann Bodin',0.02,False
+General Tazri,Creature,Human Ally,Oath of the Gatewatch,Mythic Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.52,True
+Immolating Glare,Instant,None,Oath of the Gatewatch,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.14,False
+Iona's Blessing,Enchantment,Aura,Oath of the Gatewatch,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'David Gaillet',0.07,False
+Isolation Zone,Enchantment,None,Oath of the Gatewatch,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rallis',0.04,False
+Kor Scythemaster,Creature,Kor Soldier Ally,Oath of the Gatewatch,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Pancoast',0.04,False
+Kor Sky Climber,Creature,Kor Soldier Ally,Oath of the Gatewatch,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Victor Adame Minguez',0.08,False
+Linvala the Preserver,Creature,Angel,Oath of the Gatewatch,Mythic Rare,6,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Magali Villeneuve',0.8,True
+Make a Stand,Instant,None,Oath of the Gatewatch,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Magali Villeneuve',0.17,False
+Makindi Aeronaut,Creature,Kor Scout Ally,Oath of the Gatewatch,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.02,False
+Mighty Leap,Instant,None,Oath of the Gatewatch,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Winona Nelson',0.07,False
+Munda's Vanguard,Creature,Kor Knight Ally,Oath of the Gatewatch,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.15,False
+Oath of Gideon,Enchantment,None,Oath of the Gatewatch,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Wesley Burt',0.44,True
+Ondu War Cleric,Creature,Human Cleric Ally,Oath of the Gatewatch,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Ben Maier',0.05,False
+Relief Captain,Creature,Kor Knight Ally,Oath of the Gatewatch,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Anastasia Ovchinnikova',0.06,False
+Searing Light,Instant,None,Oath of the Gatewatch,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Marco Nelor',0.02,False
+Shoulder to Shoulder,Sorcery,None,Oath of the Gatewatch,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rallis',0.05,False
+Spawnbinder Mage,Creature,Human Wizard Ally,Oath of the Gatewatch,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.04,False
+Steppe Glider,Creature,Elemental,Oath of the Gatewatch,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'John Severin Brassell',0.05,False
+Stone Haven Outfitter,Creature,Kor Artificer Ally,Oath of the Gatewatch,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Rainville',0.23,False
+Stoneforge Acolyte,Creature,Kor Artificer Ally,Oath of the Gatewatch,Uncommon,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rallis',0.07,False
+Wall of Resurgence,Creature,Wall,Oath of the Gatewatch,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',0.12,False
+Abstruse Interference,Instant,None,Oath of the Gatewatch,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.06,False
+Blinding Drone,Creature,Eldrazi Drone,Oath of the Gatewatch,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Lake Hurwitz',0.06,False
+Cultivator Drone,Creature,Eldrazi Drone,Oath of the Gatewatch,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',0.07,False
+Deepfathom Skulker,Creature,Eldrazi,Oath of the Gatewatch,Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Joseph Meehan',0.24,False
+Dimensional Infiltrator,Creature,Eldrazi,Oath of the Gatewatch,Rare,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Chase Stone',0.17,False
+Gravity Negator,Creature,Eldrazi Drone,Oath of the Gatewatch,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Chase Stone',0.05,False
+Prophet of Distortion,Creature,Eldrazi Drone,Oath of the Gatewatch,Uncommon,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Lius Lasahido',0.1,False
+Slip Through Space,Sorcery,None,Oath of the Gatewatch,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.17,False
+Thought Harvester,Creature,Eldrazi Drone,Oath of the Gatewatch,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Winona Nelson',0.11,False
+Void Shatter,Instant,None,Oath of the Gatewatch,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Felix',0.27,False
+Ancient Crab,Creature,Crab,Oath of the Gatewatch,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.04,False
+Comparative Analysis,Instant,None,Oath of the Gatewatch,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Willian Murai',0.04,False
+Containment Membrane,Enchantment,Aura,Oath of the Gatewatch,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.04,False
+Crush of Tentacles,Sorcery,None,Oath of the Gatewatch,Mythic Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jama Jurabaev',0.97,False
+Cyclone Sire,Creature,Elemental,Oath of the Gatewatch,Uncommon,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.04,False
+Gift of Tusks,Instant,None,Oath of the Gatewatch,Uncommon,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.12,False
+Grip of the Roil,Instant,None,Oath of the Gatewatch,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',0.1,False
+Hedron Alignment,Enchantment,None,Oath of the Gatewatch,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Craig J Spearing',0.14,False
+Jwar Isle Avenger,Creature,Sphinx,Oath of the Gatewatch,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Pancoast',0.03,False
+Negate,Instant,None,Oath of the Gatewatch,Common,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Ryan Pancoast',0.12,False
+Oath of Jace,Enchantment,None,Oath of the Gatewatch,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Wesley Burt',0.31,True
+Overwhelming Denial,Instant,None,Oath of the Gatewatch,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jama Jurabaev',0.25,False
+Roiling Waters,Sorcery,None,Oath of the Gatewatch,Uncommon,7,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'David Gaillet',0.1,False
+Sphinx of the Final Word,Creature,Sphinx,Oath of the Gatewatch,Mythic Rare,7,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Lius Lasahido',1.13,False
+Sweep Away,Instant,None,Oath of the Gatewatch,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Winona Nelson',0.04,False
+Umara Entangler,Creature,Merfolk Rogue Ally,Oath of the Gatewatch,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'James Ryman',0.04,False
+Unity of Purpose,Instant,None,Oath of the Gatewatch,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Felix',0.07,False
+Bearer of Silence,Creature,Eldrazi,Oath of the Gatewatch,Rare,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Tyler Jacobson',0.24,False
+Dread Defiler,Creature,Eldrazi,Oath of the Gatewatch,Rare,7,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',0.15,False
+Essence Depleter,Creature,Eldrazi Drone,Oath of the Gatewatch,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Chase Stone',0.07,False
+Flaying Tendrils,Sorcery,None,Oath of the Gatewatch,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',0.08,False
+Havoc Sower,Creature,Eldrazi Drone,Oath of the Gatewatch,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.06,False
+Inverter of Truth,Creature,Eldrazi,Oath of the Gatewatch,Mythic Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Chase Stone',1.58,False
+Kozilek's Shrieker,Creature,Eldrazi Drone,Oath of the Gatewatch,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Felix',0.05,False
+Kozilek's Translator,Creature,Eldrazi Drone,Oath of the Gatewatch,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.06,False
+Oblivion Strike,Sorcery,None,Oath of the Gatewatch,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',0.1,False
+Reaver Drone,Creature,Eldrazi Drone,Oath of the Gatewatch,Uncommon,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rallis',0.11,False
+Sifter of Skulls,Creature,Eldrazi,Oath of the Gatewatch,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',1.22,False
+Sky Scourer,Creature,Eldrazi Drone,Oath of the Gatewatch,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Winona Nelson',0.05,False
+Slaughter Drone,Creature,Eldrazi Drone,Oath of the Gatewatch,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.05,False
+Unnatural Endurance,Instant,None,Oath of the Gatewatch,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Mathias Kollros',0.08,False
+Visions of Brutality,Enchantment,Aura,Oath of the Gatewatch,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jama Jurabaev',0.14,False
+Witness the End,Sorcery,None,Oath of the Gatewatch,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.05,False
+Corpse Churn,Instant,None,Oath of the Gatewatch,Common,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Magali Villeneuve',0.09,False
+Drana's Chosen,Creature,Vampire Shaman Ally,Oath of the Gatewatch,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Deruchenko Alexander',0.11,False
+Grasp of Darkness,Instant,None,Oath of the Gatewatch,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.23,False
+Kalitas Traitor of Ghet,Creature,Vampire Warrior,Oath of the Gatewatch,Mythic Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Todd Lockwood',20.99,True
+Malakir Soothsayer,Creature,Vampire Shaman Ally,Oath of the Gatewatch,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Opalinski',0.08,False
+Null Caller,Creature,Vampire Shaman,Oath of the Gatewatch,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Darek Zabrocki',0.07,False
+Remorseless Punishment,Sorcery,None,Oath of the Gatewatch,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Barger',0.15,False
+Tar Snare,Instant,None,Oath of the Gatewatch,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.02,False
+Untamed Hunger,Enchantment,Aura,Oath of the Gatewatch,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Willian Murai',0.04,False
+Vampire Envoy,Creature,Vampire Cleric Ally,Oath of the Gatewatch,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Johannes Voss',0.1,False
+Zulaport Chainmage,Creature,Human Shaman Ally,Oath of the Gatewatch,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rallis',0.03,False
+Consuming Sinkhole,Instant,None,Oath of the Gatewatch,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.03,False
+Eldrazi Aggressor,Creature,Eldrazi Drone,Oath of the Gatewatch,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mathias Kollros',0.04,False
+Eldrazi Obligator,Creature,Eldrazi,Oath of the Gatewatch,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Felix',0.43,False
+Immobilizer Eldrazi,Creature,Eldrazi Drone,Oath of the Gatewatch,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.1,False
+Kozilek's Return,Instant,None,Oath of the Gatewatch,Mythic Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Lius Lasahido',1.95,False
+Maw of Kozilek,Creature,Eldrazi Drone,Oath of the Gatewatch,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.06,False
+Reality Hemorrhage,Instant,None,Oath of the Gatewatch,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rallis',0.08,False
+Akoum Flameseeker,Creature,Human Shaman Ally,Oath of the Gatewatch,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Willian Murai',0.03,False
+Boulder Salvo,Sorcery,None,Oath of the Gatewatch,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Vincent Proce',0.03,False
+Brute Strength,Instant,None,Oath of the Gatewatch,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.06,False
+Chandra Flamecaller,Planeswalker,Chandra,Oath of the Gatewatch,Mythic Rare,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Rainville',1.82,True
+Cinder Hellion,Creature,Hellion,Oath of the Gatewatch,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Kang',0.04,False
+Devour in Flames,Sorcery,None,Oath of the Gatewatch,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.08,False
+Embodiment of Fury,Creature,Elemental,Oath of the Gatewatch,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'David Palumbo',0.13,False
+Expedite,Instant,None,Oath of the Gatewatch,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Kieran Yanner',0.21,False
+Fall of the Titans,Instant,None,Oath of the Gatewatch,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rallis',0.25,False
+Goblin Dark-Dwellers,Creature,Goblin,Oath of the Gatewatch,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.3,False
+Goblin Freerunner,Creature,Goblin Warrior Ally,Oath of the Gatewatch,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.05,False
+Kazuul's Toll Collector,Creature,Ogre Warrior,Oath of the Gatewatch,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.14,False
+Oath of Chandra,Enchantment,None,Oath of the Gatewatch,Rare,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Wesley Burt',0.25,True
+Press into Service,Sorcery,None,Oath of the Gatewatch,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.1,False
+Pyromancer's Assault,Enchantment,None,Oath of the Gatewatch,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Todd Lockwood',0.06,False
+Reckless Bushwhacker,Creature,Goblin Warrior Ally,Oath of the Gatewatch,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Kieran Yanner',0.55,False
+Sparkmage's Gambit,Sorcery,None,Oath of the Gatewatch,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mathias Kollros',0.06,False
+Tears of Valakut,Instant,None,Oath of the Gatewatch,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Noah Bradley',0.05,False
+Tyrant of Valakut,Creature,Dragon,Oath of the Gatewatch,Rare,7,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Tyler Jacobson',0.12,False
+Zada's Commando,Creature,Goblin Archer Ally,Oath of the Gatewatch,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Zack Stella',0.04,False
+Birthing Hulk,Creature,Eldrazi Drone,Oath of the Gatewatch,Uncommon,7,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jack Wang',0.09,False
+Ruin in Their Wake,Sorcery,None,Oath of the Gatewatch,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Felix',0.07,False
+Scion Summoner,Creature,Eldrazi Drone,Oath of the Gatewatch,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Johann Bodin',0.09,False
+Stalking Drone,Creature,Eldrazi Drone,Oath of the Gatewatch,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',0.03,False
+Vile Redeemer,Creature,Eldrazi,Oath of the Gatewatch,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Rainville',0.2,False
+World Breaker,Creature,Eldrazi,Oath of the Gatewatch,Mythic Rare,7,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jaime Jones',4.63,False
+Baloth Pup,Creature,Beast,Oath of the Gatewatch,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.06,False
+Bonds of Mortality,Enchantment,None,Oath of the Gatewatch,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rallis',0.21,False
+Canopy Gorger,Creature,Wurm,Oath of the Gatewatch,Common,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Lake Hurwitz',0.04,False
+Elemental Uprising,Instant,None,Oath of the Gatewatch,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.04,False
+Embodiment of Insight,Creature,Elemental,Oath of the Gatewatch,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Marco Nelor',0.14,False
+Gladehart Cavalry,Creature,Elf Knight,Oath of the Gatewatch,Rare,7,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.15,False
+Harvester Troll,Creature,Troll,Oath of the Gatewatch,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.04,False
+Lead by Example,Instant,None,Oath of the Gatewatch,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Johannes Voss',0.04,False
+Loam Larva,Creature,Insect,Oath of the Gatewatch,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Kang',0.07,False
+Natural State,Instant,None,Oath of the Gatewatch,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',0.17,False
+Netcaster Spider,Creature,Spider,Oath of the Gatewatch,Common,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.04,False
+Nissa Voice of Zendikar,Planeswalker,Nissa,Oath of the Gatewatch,Mythic Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',3.72,True
+Nissa's Judgment,Sorcery,None,Oath of the Gatewatch,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Tyler Jacobson',0.08,False
+Oath of Nissa,Enchantment,None,Oath of the Gatewatch,Rare,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Wesley Burt',1.5,True
+Pulse of Murasa,Instant,None,Oath of the Gatewatch,Common,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.12,False
+Saddleback Lagac,Creature,Lizard,Oath of the Gatewatch,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Kang',0.03,False
+Seed Guardian,Creature,Elemental,Oath of the Gatewatch,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Vincent Proce',0.11,False
+Sylvan Advocate,Creature,Elf Druid Ally,Oath of the Gatewatch,Rare,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',0.33,False
+Tajuru Pathwarden,Creature,Elf Warrior Ally,Oath of the Gatewatch,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Victor Adame Minguez',0.06,False
+Vines of the Recluse,Instant,None,Oath of the Gatewatch,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.1,False
+Zendikar Resurgent,Enchantment,None,Oath of the Gatewatch,Rare,7,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rallis',4.94,False
+Flayer Drone,Creature,Eldrazi Drone,Oath of the Gatewatch,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Lius Lasahido',0.12,False
+Mindmelter,Creature,Eldrazi Drone,Oath of the Gatewatch,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Felix',0.11,False
+Void Grafter,Creature,Eldrazi Drone,Oath of the Gatewatch,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Alejandro Mirabal',0.12,False
+Ayli Eternal Pilgrim,Creature,Kor Cleric,Oath of the Gatewatch,Rare,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Cynthia Sheppard',0.77,True
+Baloth Null,Creature,Zombie Beast,Oath of the Gatewatch,Uncommon,6,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jakub Kasper',0.09,False
+Cliffhaven Vampire,Creature,Vampire Warrior Ally,Oath of the Gatewatch,Uncommon,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'David Gaillet',0.56,False
+Joraga Auxiliary,Creature,Elf Soldier Ally,Oath of the Gatewatch,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'David Gaillet',0.06,False
+Jori En Ruin Diver,Creature,Merfolk Wizard,Oath of the Gatewatch,Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.31,True
+Mina and Denn Wildborn,Creature,Elf Ally,Oath of the Gatewatch,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',2.56,True
+Reflector Mage,Creature,Human Wizard,Oath of the Gatewatch,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Willian Murai',0.81,False
+Relentless Hunter,Creature,Human Warrior,Oath of the Gatewatch,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.06,False
+Stormchaser Mage,Creature,Human Wizard,Oath of the Gatewatch,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Clint Cearley',0.32,False
+Weapons Trainer,Creature,Human Soldier Ally,Oath of the Gatewatch,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Opalinski',0.07,False
+Bone Saw,Artifact,Equipment,Oath of the Gatewatch,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.12,False
+Captain's Claws,Artifact,Equipment,Oath of the Gatewatch,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony Palumbo',0.28,False
+Chitinous Cloak,Artifact,Equipment,Oath of the Gatewatch,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.08,False
+Hedron Crawler,Artifact Creature,Construct,Oath of the Gatewatch,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',0.24,False
+Seer's Lantern,Artifact,None,Oath of the Gatewatch,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jung Park',0.14,False
+Stoneforge Masterwork,Artifact,Equipment,Oath of the Gatewatch,Rare,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Ben Maier',1.76,False
+Strider Harness,Artifact,Equipment,Oath of the Gatewatch,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.08,False
+Cinder Barrens,Land,None,Oath of the Gatewatch,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Cliff Childs',0.1,False
+Corrupted Crossroads,Land,None,Oath of the Gatewatch,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Ryan Pancoast',0.21,False
+Crumbling Vestige,Land,None,Oath of the Gatewatch,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Zack Stella',0.15,False
+Hissing Quagmire,Land,None,Oath of the Gatewatch,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Cliff Childs',1.24,False
+Holdout Settlement,Land,None,Oath of the Gatewatch,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Kieran Yanner',0.17,False
+Meandering River,Land,None,Oath of the Gatewatch,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Cliff Childs',0.09,False
+Mirrorpool,Land,None,Oath of the Gatewatch,Mythic Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Cliff Childs',3.58,False
+Needle Spires,Land,None,Oath of the Gatewatch,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jonas De Ro',0.67,False
+Ruins of Oran-Rief,Land,None,Oath of the Gatewatch,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Felix',0.38,False
+Sea Gate Wreckage,Land,None,Oath of the Gatewatch,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Zack Stella',0.42,False
+Submerged Boneyard,Land,None,Oath of the Gatewatch,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Cliff Childs',0.14,False
+Timber Gorge,Land,None,Oath of the Gatewatch,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Cliff Childs',0.09,False
+Tranquil Expanse,Land,None,Oath of the Gatewatch,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Cliff Childs',0.11,False
+Unknown Shores,Land,None,Oath of the Gatewatch,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jung Park',0.09,False
+Wandering Fumarole,Land,None,Oath of the Gatewatch,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Florian de Gesincourt',0.9,False
+Wastes,Basic Land,None,Oath of the Gatewatch,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Felix',0.52,False
+Wastes,Basic Land,None,Oath of the Gatewatch,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.74,False

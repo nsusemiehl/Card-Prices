@@ -1,276 +1,276 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Amrou Scout,Creature,Kithkin Rebel Scout,Time Spiral,Common,2,White,True,False,True,True,b'Quinton Hoover',0.06
-Amrou Seekers,Creature,Kithkin Rebel,Time Spiral,Common,3,White,True,False,True,True,b'Quinton Hoover',0.13
-Angel's Grace,Instant,None,Time Spiral,Rare,1,White,True,False,True,True,b'Mark Zug',13.13
-Benalish Cavalry,Creature,Human Knight,Time Spiral,Common,2,White,True,False,True,False,b'Paolo Parente',0.12
-Castle Raptors,Creature,Bird Soldier,Time Spiral,Common,5,White,True,False,True,False,b'Christopher Moeller',0.11
-Cavalry Master,Creature,Human Knight,Time Spiral,Uncommon,4,White,True,False,True,False,b'Thomas M. Baxa',0.16
-Celestial Crusader,Creature,Spirit,Time Spiral,Uncommon,4,White,True,False,True,True,b'Jim Murray',0.16
-Children of Korlis,Creature,Human Rebel Cleric,Time Spiral,Common,1,White,True,False,True,False,b'Quinton Hoover',0.5
-Chronosavant,Creature,Giant,Time Spiral,Rare,6,White,True,False,True,False,b'Pete Venters',0.15
-Cloudchaser Kestrel,Creature,Bird,Time Spiral,Common,3,White,True,False,True,False,b'Daren Bader',0.16
-D'Avenant Healer,Creature,Human Cleric Archer,Time Spiral,Common,3,White,True,False,True,False,b'Michael Sutfin',0.04
-Detainment Spell,Enchantment,Aura,Time Spiral,Common,1,White,True,False,True,True,b'Darrell Riche',0.13
-Errant Doomsayers,Creature,Human Rebel,Time Spiral,Common,2,White,True,False,True,False,b'Liz Danforth',0.04
-Evangelize,Sorcery,None,Time Spiral,Rare,5,White,True,False,True,False,b'Randy Elliott',0.23
-Flickering Spirit,Creature,Spirit,Time Spiral,Common,4,White,True,False,True,False,b'Alex Horley-Orlandelli',0.07
-Foriysian Interceptor,Creature,Human Soldier,Time Spiral,Common,4,White,True,False,True,False,b'Anson Maddocks',0.12
-Fortify,Instant,None,Time Spiral,Common,3,White,True,False,True,True,b'Christopher Moeller',0.07
-Gaze of Justice,Sorcery,None,Time Spiral,Common,1,White,True,False,True,False,b'John Avon',0.11
-Griffin Guide,Enchantment,Aura,Time Spiral,Uncommon,3,White,True,False,True,True,b'Jim Nelson',0.14
-Gustcloak Cavalier,Creature,Human Knight,Time Spiral,Uncommon,5,White,True,False,True,False,b'Stuart Griffin',0.16
-Icatian Crier,Creature,Human Spellshaper,Time Spiral,Common,3,White,True,False,True,True,b'Michael Phillippi',0.13
-Jedit's Dragoons,Creature,Cat Soldier,Time Spiral,Common,6,White,True,False,True,True,b'John Matson',0.12
-Knight of the Holy Nimbus,Creature,Human Rebel Knight,Time Spiral,Uncommon,2,White,True,False,True,False,b'Wayne England',0.31
-Magus of the Disk,Creature,Human Wizard,Time Spiral,Rare,4,White,True,False,True,True,b'Jeremy Jarvis',0.95
-Mangara of Corondor,Legendary Creature,Human Wizard,Time Spiral,Rare,3,White,True,False,True,True,b'Zoltan Boros',0.51
-Momentary Blink,Instant,None,Time Spiral,Common,2,White,True,False,True,True,b'Anthony S. Waters',0.17
-Opal Guardian,Enchantment,None,Time Spiral,Rare,3,White,True,False,True,False,b'Christopher Rush',0.11
-Outrider en-Kor,Creature,Kor Rebel Knight,Time Spiral,Uncommon,3,White,True,False,True,False,b'D. Alexander Gregory',0.18
-Pentarch Paladin,Creature,Human Knight,Time Spiral,Rare,5,White,True,False,True,False,b'Jim Murray',1.0
-Pentarch Ward,Enchantment,Aura,Time Spiral,Common,3,White,True,False,True,True,b'Dany Orizio',0.15
-Plated Pegasus,Creature,Pegasus,Time Spiral,Uncommon,3,White,True,False,True,False,b'Greg Hildebrandt',0.17
-Pull from Eternity,Instant,None,Time Spiral,Uncommon,1,White,True,False,True,True,b'Ron Spears',0.88
-Pulmonic Sliver,Creature,Sliver,Time Spiral,Rare,5,White,True,False,True,False,b'Jeff Easley',7.15
-Quilled Sliver,Creature,Sliver,Time Spiral,Uncommon,2,White,True,False,True,False,b'John Matson',0.3
-Return to Dust,Instant,None,Time Spiral,Uncommon,4,White,True,False,True,True,b'Wayne Reynolds',1.49
-Serra Avenger,Creature,Angel,Time Spiral,Rare,2,White,True,False,True,True,b'Scott M. Fischer',1.54
-Sidewinder Sliver,Creature,Sliver,Time Spiral,Common,1,White,True,False,True,False,b'Ron Spencer',0.79
-Spirit Loop,Enchantment,Aura,Time Spiral,Uncommon,2,White,True,False,True,False,b'Wayne Reynolds',0.78
-Temporal Isolation,Enchantment,Aura,Time Spiral,Common,2,White,True,False,True,False,b'Stephen Tappin',0.26
-Tivadar of Thorn,Legendary Creature,Human Knight,Time Spiral,Rare,3,White,True,False,True,False,b'Carl Critchlow',0.27
-Watcher Sliver,Creature,Sliver,Time Spiral,Common,4,White,True,False,True,False,b'Liz Danforth',0.2
-Weathered Bodyguards,Creature,Human Soldier,Time Spiral,Rare,6,White,True,False,True,False,b'Wayne Reynolds',0.21
-Zealot il-Vec,Creature,Human Rebel,Time Spiral,Common,3,White,True,False,True,False,b'Chippy',0.18
-Bewilder,Instant,None,Time Spiral,Common,3,Blue,True,False,True,True,b'Ralph Horsley',0.03
-Brine Elemental,Creature,Elemental,Time Spiral,Uncommon,6,Blue,True,False,True,True,b'Stephen Tappin',0.23
-Cancel,Instant,None,Time Spiral,Common,3,Blue,True,False,True,True,b'Mark Poole',0.08
-Careful Consideration,Instant,None,Time Spiral,Uncommon,4,Blue,True,False,True,True,b'Janine Johnston',0.23
-Clockspinning,Instant,None,Time Spiral,Common,1,Blue,True,False,True,False,b'Zoltan Boros',0.34
-Coral Trickster,Creature,Merfolk Rogue,Time Spiral,Common,2,Blue,True,False,True,True,b'D. Alexander Gregory',0.1
-Crookclaw Transmuter,Creature,Bird Wizard,Time Spiral,Common,4,Blue,True,False,True,True,b'Ron Spencer',0.08
-Draining Whelk,Creature,Illusion,Time Spiral,Rare,6,Blue,True,False,True,False,b'Mark Tedin',2.9
-Dream Stalker,Creature,Illusion,Time Spiral,Common,2,Blue,True,False,True,True,b'Brian Despain',0.28
-Drifter il-Dal,Creature,Human Wizard,Time Spiral,Common,1,Blue,True,False,True,False,b'Justin Sweet',0.08
-Eternity Snare,Enchantment,Aura,Time Spiral,Common,6,Blue,True,False,True,True,b'Drew Tucker',0.03
-Fathom Seer,Creature,Illusion,Time Spiral,Common,2,Blue,True,False,True,True,b'Ralph Horsley',0.12
-Fledgling Mawcor,Creature,Beast,Time Spiral,Uncommon,4,Blue,True,False,True,True,b'Kev Walker',0.1
-Fool's Demise,Enchantment,Aura,Time Spiral,Uncommon,5,Blue,True,False,True,True,b'Zoltan Boros',0.19
-Ixidron,Creature,Illusion,Time Spiral,Rare,5,Blue,True,False,True,True,b'Terese Nielsen',1.03
-Looter il-Kor,Creature,Kor Rogue,Time Spiral,Common,2,Blue,True,False,True,True,b'Mike Dringenberg',0.47
-Magus of the Jar,Creature,Human Wizard,Time Spiral,Rare,5,Blue,True,False,True,False,b'Zoltan Boros',1.1
-Moonlace,Instant,None,Time Spiral,Rare,1,Blue,True,False,True,False,b'Mike Dringenberg',0.15
-Mystical Teachings,Instant,None,Time Spiral,Common,4,Blue,True,False,True,True,b'Ron Spears',0.29
-Ophidian Eye,Enchantment,Aura,Time Spiral,Common,3,Blue,True,False,True,False,b'Zoltan Boros',1.07
-Paradox Haze,Enchantment,Aura,Time Spiral,Uncommon,3,Blue,True,False,True,True,b'Greg Staples',3.08
-Psionic Sliver,Creature,Sliver,Time Spiral,Rare,5,Blue,True,False,True,False,b'Wayne England',2.59
-Sage of Epityr,Creature,Human Wizard,Time Spiral,Common,1,Blue,True,False,True,False,b'Randy Gallegos',0.56
-Screeching Sliver,Creature,Sliver,Time Spiral,Common,1,Blue,True,False,True,False,b'Stuart Griffin',0.23
-Shadow Sliver,Creature,Sliver,Time Spiral,Common,3,Blue,True,False,True,False,b'Warren Mahy',0.34
-Slipstream Serpent,Creature,Serpent,Time Spiral,Common,8,Blue,True,False,True,False,b'Darrell Riche',0.1
-Snapback,Instant,None,Time Spiral,Common,2,Blue,True,False,True,False,b'Alan Pollack',0.24
-Spell Burst,Instant,None,Time Spiral,Uncommon,2,Blue,True,False,True,False,b'Terese Nielsen',0.58
-Spiketail Drakeling,Creature,Drake,Time Spiral,Common,3,Blue,True,False,True,False,b'Dave Dorman',0.11
-Sprite Noble,Creature,Faerie Noble,Time Spiral,Rare,3,Blue,True,False,True,True,b'Randy Gallegos',0.37
-Stormcloud Djinn,Creature,Djinn,Time Spiral,Uncommon,5,Blue,True,False,True,False,b'Greg Staples',0.04
-"Teferi, Mage of Zhalfir",Legendary Creature,Human Wizard,Time Spiral,Rare,5,Blue,True,False,True,True,b'D. Alexander Gregory',5.11
-Telekinetic Sliver,Creature,Sliver,Time Spiral,Uncommon,4,Blue,True,False,True,False,b'Randy Elliott',1.03
-Temporal Eddy,Sorcery,None,Time Spiral,Common,4,Blue,True,False,True,False,b'Wayne England',0.1
-Think Twice,Instant,None,Time Spiral,Common,2,Blue,True,False,True,True,b'Jim Nelson',0.18
-Tolarian Sentinel,Creature,Human Spellshaper,Time Spiral,Common,4,Blue,True,False,True,False,b'Thomas M. Baxa',0.05
-Trickbind,Instant,None,Time Spiral,Rare,2,Blue,True,False,True,False,b'John Zeleznik',4.21
-Truth or Tale,Instant,None,Time Spiral,Uncommon,2,Blue,True,False,True,False,b'Michael Phillippi',0.13
-Vesuvan Shapeshifter,Creature,Shapeshifter,Time Spiral,Rare,5,Blue,True,False,True,True,b'Quinton Hoover',0.66
-Voidmage Husher,Creature,Human Wizard,Time Spiral,Uncommon,4,Blue,True,False,True,True,b'Chippy',0.45
-Walk the Aeons,Sorcery,None,Time Spiral,Rare,6,Blue,True,False,True,False,b'Jeremy Jarvis',6.94
-Wipe Away,Instant,None,Time Spiral,Uncommon,3,Blue,True,False,True,False,b'Jeff Miracola',0.94
-Assassinate,Sorcery,None,Time Spiral,Common,3,Black,True,False,True,True,b'Kev Walker',0.07
-Basal Sliver,Creature,Sliver,Time Spiral,Common,3,Black,True,False,True,False,b'Drew Tucker',0.31
-Call to the Netherworld,Sorcery,None,Time Spiral,Common,1,Black,True,False,True,True,b'Vance Kovacs',0.61
-Cyclopean Giant,Creature,Zombie Giant,Time Spiral,Common,4,Black,True,False,True,False,b'Mark Tedin',0.14
-Dark Withering,Instant,None,Time Spiral,Common,6,Black,True,False,True,True,b'Wayne Reynolds',0.28
-Deathspore Thallid,Creature,Zombie Fungus,Time Spiral,Common,2,Black,True,False,True,False,b'Randy Elliott',0.35
-Demonic Collusion,Sorcery,None,Time Spiral,Rare,5,Black,True,False,True,False,b'Jim Nelson',1.27
-Dread Return,Sorcery,None,Time Spiral,Uncommon,4,Black,False,False,True,True,b'Kev Walker',1.71
-Drudge Reavers,Creature,Skeleton,Time Spiral,Common,4,Black,True,False,True,False,b'Greg Staples',0.09
-"Endrek Sahr, Master Breeder",Legendary Creature,Human Wizard,Time Spiral,Rare,5,Black,True,False,True,True,b'Mark Tedin',1.37
-Evil Eye of Urborg,Creature,Eye,Time Spiral,Uncommon,5,Black,True,False,True,False,b'Clint Langley',0.09
-Faceless Devourer,Creature,Nightmare Horror,Time Spiral,Uncommon,3,Black,True,False,True,False,b'Chippy',0.07
-Fallen Ideal,Enchantment,Aura,Time Spiral,Uncommon,3,Black,True,False,True,True,b'Anson Maddocks',0.23
-Feebleness,Enchantment,Aura,Time Spiral,Common,2,Black,True,False,True,False,b'Kev Walker',0.09
-Gorgon Recluse,Creature,Gorgon,Time Spiral,Common,5,Black,True,False,True,True,b'Darrell Riche',0.23
-Haunting Hymn,Instant,None,Time Spiral,Uncommon,6,Black,True,False,True,True,b'rk post',0.09
-Liege of the Pit,Creature,Demon,Time Spiral,Rare,8,Black,True,False,True,False,b'Jeremy Jarvis',0.19
-Lim-Dûl the Necromancer,Legendary Creature,Human Wizard,Time Spiral,Rare,7,Black,True,False,True,False,b'Matt Cavotta',1.74
-Magus of the Mirror,Creature,Human Wizard,Time Spiral,Rare,6,Black,True,False,True,True,b'Christopher Moeller',0.32
-Mana Skimmer,Creature,Leech,Time Spiral,Common,4,Black,True,False,True,False,b'Daniel Gelon',0.03
-Mindlash Sliver,Creature,Sliver,Time Spiral,Common,1,Black,True,False,True,False,b'Jeff Miracola',0.23
-Nether Traitor,Creature,Spirit,Time Spiral,Rare,2,Black,True,False,True,False,b'Vance Kovacs',11.99
-Nightshade Assassin,Creature,Human Assassin,Time Spiral,Uncommon,4,Black,True,False,True,True,b'Alan Pollack',0.14
-Pit Keeper,Creature,Human Wizard,Time Spiral,Common,2,Black,True,False,True,True,b'Anthony S. Waters',0.14
-Plague Sliver,Creature,Sliver,Time Spiral,Rare,4,Black,True,False,True,False,b'Dave Allsop',0.49
-Premature Burial,Sorcery,None,Time Spiral,Uncommon,2,Black,True,False,True,False,b'Clint Langley',0.09
-Psychotic Episode,Sorcery,None,Time Spiral,Common,3,Black,True,False,True,False,b'Drew Tucker',0.26
-Sangrophage,Creature,Zombie,Time Spiral,Common,2,Black,True,False,True,False,b'Pete Venters',0.15
-Sengir Nosferatu,Creature,Vampire,Time Spiral,Rare,5,Black,True,False,True,False,b'Scott M. Fischer',0.24
-Skittering Monstrosity,Creature,Horror,Time Spiral,Uncommon,5,Black,True,False,True,False,b'rk post',0.04
-Skulking Knight,Creature,Zombie Knight,Time Spiral,Common,3,Black,True,False,True,False,b'rk post',0.14
-Smallpox,Sorcery,None,Time Spiral,Uncommon,2,Black,True,False,True,True,b'Janine Johnston',0.46
-Strangling Soot,Instant,None,Time Spiral,Common,3,Black,True,False,True,True,b'Jim Murray',0.07
-Stronghold Overseer,Creature,Demon,Time Spiral,Rare,6,Black,True,False,True,False,b'Puddnhead',0.53
-Sudden Death,Instant,None,Time Spiral,Uncommon,3,Black,True,False,True,False,b'Dave Allsop',0.29
-Sudden Spoiling,Instant,None,Time Spiral,Rare,3,Black,True,False,True,True,b'Alan Pollack',2.13
-Tendrils of Corruption,Instant,None,Time Spiral,Common,4,Black,True,False,True,True,b'Mike Dringenberg',0.22
-Traitor's Clutch,Instant,None,Time Spiral,Common,5,Black,True,False,True,False,b'Dave Allsop',0.09
-Trespasser il-Vec,Creature,Human Rogue,Time Spiral,Common,3,Black,True,False,True,False,b'Jim Murray',0.1
-Urborg Syphon-Mage,Creature,Human Spellshaper,Time Spiral,Common,3,Black,True,False,True,True,b'Greg Staples',0.18
-Vampiric Sliver,Creature,Sliver,Time Spiral,Uncommon,4,Black,True,False,True,False,b'Thomas M. Baxa',0.45
-Viscid Lemures,Creature,Spirit,Time Spiral,Common,5,Black,True,False,True,False,b'Drew Tucker',0.05
-Aetherflame Wall,Creature,Wall,Time Spiral,Common,2,Red,True,False,True,False,b'Justin Sweet',0.09
-Ancient Grudge,Instant,None,Time Spiral,Common,2,Red,True,False,True,True,b'Jim Nelson',0.31
-Barbed Shocker,Creature,Insect,Time Spiral,Uncommon,4,Red,True,False,True,True,b'Tony Szczudlo',0.12
-Basalt Gargoyle,Creature,Gargoyle,Time Spiral,Uncommon,3,Red,True,False,True,False,b'Clint Langley',0.08
-Blazing Blade Askari,Creature,Human Knight,Time Spiral,Common,3,Red,True,False,True,False,b'Dan Frazier',0.05
-Bogardan Hellkite,Creature,Dragon,Time Spiral,Rare,8,Red,True,False,True,True,b'Scott M. Fischer',0.48
-Bogardan Rager,Creature,Elemental,Time Spiral,Common,6,Red,True,False,True,True,b'Clint Langley',0.08
-Bonesplitter Sliver,Creature,Sliver,Time Spiral,Common,4,Red,True,False,True,False,b'Dany Orizio',0.25
-Coal Stoker,Creature,Elemental,Time Spiral,Common,4,Red,True,False,True,True,b'Mark Zug',0.14
-Conflagrate,Sorcery,None,Time Spiral,Uncommon,3,Red,True,False,True,True,b'Warren Mahy',0.44
-Empty the Warrens,Sorcery,None,Time Spiral,Common,4,Red,True,False,True,True,b'Mark Brill',0.47
-Firemaw Kavu,Creature,Kavu,Time Spiral,Uncommon,6,Red,True,False,True,False,b'Greg Hildebrandt',0.1
-Flamecore Elemental,Creature,Elemental,Time Spiral,Common,4,Red,True,False,True,False,b'Dave Dorman',0.08
-Flowstone Channeler,Creature,Human Spellshaper,Time Spiral,Common,3,Red,True,False,True,False,b'Alan Pollack',0.05
-Fortune Thief,Creature,Human Rogue,Time Spiral,Rare,5,Red,True,False,True,True,b'Christopher Moeller',0.35
-Fury Sliver,Creature,Sliver,Time Spiral,Uncommon,6,Red,True,False,True,True,b'Paolo Parente',0.73
-Ghitu Firebreathing,Enchantment,Aura,Time Spiral,Common,2,Red,True,False,True,False,b'Jim Nelson',0.1
-Goblin Skycutter,Creature,Goblin Warrior,Time Spiral,Common,2,Red,True,False,True,False,b'Clint Langley',0.09
-Grapeshot,Sorcery,None,Time Spiral,Common,2,Red,True,False,True,True,b'Pete Venters',0.6
-Ground Rift,Sorcery,None,Time Spiral,Common,1,Red,True,False,True,False,b'Thomas M. Baxa',0.18
-"Ib Halfheart, Goblin Tactician",Legendary Creature,Goblin Advisor,Time Spiral,Rare,4,Red,True,False,True,True,b'Wayne Reynolds',1.82
-Ignite Memories,Sorcery,None,Time Spiral,Uncommon,5,Red,True,False,True,False,b'Justin Sweet',0.38
-Ironclaw Buzzardiers,Creature,Orc Scout,Time Spiral,Common,3,Red,True,False,True,False,b'Carl Critchlow',0.14
-"Jaya Ballard, Task Mage",Legendary Creature,Human Spellshaper,Time Spiral,Rare,3,Red,True,False,True,True,b'Matt Cavotta',0.73
-Lightning Axe,Instant,None,Time Spiral,Common,1,Red,True,False,True,True,b'Dan Scott',1.39
-Magus of the Scroll,Creature,Human Wizard,Time Spiral,Rare,1,Red,True,False,True,False,b'Greg Staples',0.22
-Mogg War Marshal,Creature,Goblin Warrior,Time Spiral,Common,2,Red,True,False,True,True,b'Wayne England',0.65
-Norin the Wary,Legendary Creature,Human Warrior,Time Spiral,Rare,1,Red,True,False,True,True,b'Heather Hudson',3.36
-Orcish Cannonade,Instant,None,Time Spiral,Common,3,Red,True,False,True,True,b'Pete Venters',0.5
-Reiterate,Instant,None,Time Spiral,Rare,3,Red,True,False,True,False,b'Dan Scott',9.07
-Sedge Sliver,Creature,Sliver,Time Spiral,Rare,3,Red,True,False,True,False,b'Richard Kane Ferguson',8.98
-Subterranean Shambler,Creature,Elemental,Time Spiral,Common,4,Red,True,False,True,False,b'Kev Walker',0.11
-Sudden Shock,Instant,None,Time Spiral,Uncommon,2,Red,True,False,True,True,b'Vance Kovacs',0.25
-Sulfurous Blast,Instant,None,Time Spiral,Uncommon,4,Red,True,False,True,True,b'Jeff Miracola',0.14
-Tectonic Fiend,Creature,Elemental,Time Spiral,Uncommon,6,Red,True,False,True,False,b'Mark Tedin',0.05
-Thick-Skinned Goblin,Creature,Goblin Shaman,Time Spiral,Uncommon,2,Red,True,False,True,False,b'Ralph Horsley',0.1
-Two-Headed Sliver,Creature,Sliver,Time Spiral,Common,2,Red,True,False,True,False,b'Dany Orizio',0.6
-Undying Rage,Enchantment,Aura,Time Spiral,Uncommon,3,Red,True,False,True,True,b'Scott M. Fischer',0.1
-Viashino Bladescout,Creature,Viashino Scout,Time Spiral,Common,3,Red,True,False,True,False,b'Dany Orizio',0.07
-Volcanic Awakening,Sorcery,None,Time Spiral,Uncommon,6,Red,True,False,True,False,b'Dan Scott',0.21
-Word of Seizing,Instant,None,Time Spiral,Rare,5,Red,True,False,True,True,b'Vance Kovacs',0.35
-Aether Web,Enchantment,Aura,Time Spiral,Common,2,Green,True,False,True,False,b'Justin Sweet',0.14
-Ashcoat Bear,Creature,Bear,Time Spiral,Common,2,Green,True,False,True,False,b'Carl Critchlow',0.61
-Aspect of Mongoose,Enchantment,Aura,Time Spiral,Uncommon,2,Green,True,False,True,False,b'Dave Dorman',0.61
-Chameleon Blur,Instant,None,Time Spiral,Common,4,Green,True,False,True,False,b'Anthony S. Waters',0.11
-Durkwood Tracker,Creature,Giant,Time Spiral,Uncommon,5,Green,True,False,True,False,b'Michael Phillippi',0.15
-Fungus Sliver,Creature,Fungus Sliver,Time Spiral,Rare,4,Green,True,False,True,True,b'Daniel Gelon',1.85
-Gemhide Sliver,Creature,Sliver,Time Spiral,Common,2,Green,True,False,True,True,b'John Matson',1.68
-Glass Asp,Creature,Snake,Time Spiral,Common,3,Green,True,False,True,False,b'Richard Kane Ferguson',0.1
-Greenseeker,Creature,Elf Spellshaper,Time Spiral,Common,1,Green,True,False,True,False,b'Rebecca Guay',0.19
-Havenwood Wurm,Creature,Wurm,Time Spiral,Common,7,Green,True,False,True,False,b'Stuart Griffin',0.07
-Herd Gnarr,Creature,Beast,Time Spiral,Common,4,Green,True,False,True,True,b'Daren Bader',0.05
-Krosan Grip,Instant,None,Time Spiral,Uncommon,3,Green,True,False,True,True,b'Zoltan Boros',2.83
-Magus of the Candelabra,Creature,Human Wizard,Time Spiral,Rare,1,Green,True,False,True,True,b'Terese Nielsen',0.66
-Might of Old Krosa,Instant,None,Time Spiral,Uncommon,1,Green,True,False,True,True,b'Una Fricker',1.18
-Might Sliver,Creature,Sliver,Time Spiral,Uncommon,5,Green,True,False,True,True,b'Jeff Miracola',1.08
-Molder,Instant,None,Time Spiral,Common,2,Green,True,False,True,False,b'Greg Hildebrandt',0.13
-Mwonvuli Acid-Moss,Sorcery,None,Time Spiral,Common,4,Green,True,False,True,False,b'Randy Gallegos',0.82
-Pendelhaven Elder,Creature,Elf Shaman,Time Spiral,Uncommon,2,Green,True,False,True,False,b'Pete Venters',0.12
-Penumbra Spider,Creature,Spider,Time Spiral,Common,4,Green,True,False,True,True,b'Jeff Easley',0.13
-Phantom Wurm,Creature,Wurm Spirit,Time Spiral,Uncommon,6,Green,True,False,True,False,b'Alan Pollack',0.09
-Primal Forcemage,Creature,Elf Shaman,Time Spiral,Uncommon,3,Green,True,False,True,True,b'Jeff Miracola',0.28
-Savage Thallid,Creature,Fungus,Time Spiral,Common,5,Green,True,False,True,True,b'Luca Zontini',0.26
-Scarwood Treefolk,Creature,Treefolk,Time Spiral,Common,4,Green,True,False,True,False,b'Stuart Griffin',0.09
-Scryb Ranger,Creature,Faerie,Time Spiral,Uncommon,2,Green,True,False,True,True,b'Rebecca Guay',1.22
-Spectral Force,Creature,Elemental Spirit,Time Spiral,Rare,5,Green,True,False,True,False,b'Dan Scott',0.28
-Spike Tiller,Creature,Spike,Time Spiral,Rare,5,Green,True,False,True,False,b'Tony Szczudlo',0.17
-Spinneret Sliver,Creature,Sliver,Time Spiral,Common,2,Green,True,False,True,False,b'Michael Sutfin',0.89
-Sporesower Thallid,Creature,Fungus,Time Spiral,Uncommon,4,Green,True,False,True,True,b'Ron Spencer',0.34
-Sprout,Instant,None,Time Spiral,Common,1,Green,True,False,True,True,b'Anthony S. Waters',0.16
-Squall Line,Instant,None,Time Spiral,Rare,3,Green,True,False,True,False,b'Lars Grant-West',0.69
-Stonewood Invocation,Instant,None,Time Spiral,Rare,4,Green,True,False,True,False,b'Pete Venters',0.73
-Strength in Numbers,Instant,None,Time Spiral,Common,2,Green,True,False,True,True,b'Ron Spencer',0.1
-Thallid Germinator,Creature,Fungus,Time Spiral,Common,3,Green,True,False,True,True,b'Tom W\xc3\xa4nerstrand',0.17
-Thallid Shell-Dweller,Creature,Fungus,Time Spiral,Common,2,Green,True,False,True,True,b'Carl Critchlow',0.26
-Thelon of Havenwood,Legendary Creature,Elf Druid,Time Spiral,Rare,2,Green,True,False,True,False,b'Kev Walker',0.98
-Thelonite Hermit,Creature,Elf Shaman,Time Spiral,Rare,4,Green,True,False,True,True,b'Chippy',0.3
-Thrill of the Hunt,Instant,None,Time Spiral,Common,1,Green,True,False,True,False,b'Stephen Tappin',0.14
-Tromp the Domains,Sorcery,None,Time Spiral,Uncommon,6,Green,True,False,True,True,b'Mike Dringenberg',0.09
-Unyaro Bees,Creature,Insect,Time Spiral,Rare,3,Green,True,False,True,False,b'Tom W\xc3\xa4nerstrand',0.33
-Verdant Embrace,Enchantment,Aura,Time Spiral,Rare,5,Green,True,False,True,False,b'Stephen Tappin',2.73
-Wormwood Dryad,Creature,Dryad,Time Spiral,Common,3,Green,True,False,True,False,b'Warren Mahy',0.17
-Wurmcalling,Sorcery,None,Time Spiral,Rare,2,Green,True,False,True,False,b'Jeff Easley',0.63
-Yavimaya Dryad,Creature,Dryad,Time Spiral,Uncommon,3,Green,True,False,True,True,b'Rebecca Guay',0.31
-Dementia Sliver,Creature,Sliver,Time Spiral,Uncommon,5,Gold,True,False,True,False,b'Una Fricker',0.2
-"Dralnu, Lich Lord",Legendary Creature,Zombie Wizard,Time Spiral,Rare,5,Gold,True,False,True,False,b'Greg Staples',1.02
-Firewake Sliver,Creature,Sliver,Time Spiral,Uncommon,3,Gold,True,False,True,False,b'Anthony S. Waters',0.33
-Ghostflame Sliver,Creature,Sliver,Time Spiral,Uncommon,2,Gold,True,False,True,False,b'Luca Zontini',0.4
-Harmonic Sliver,Creature,Sliver,Time Spiral,Uncommon,3,Gold,True,False,True,True,b'Luca Zontini',4.29
-Kaervek the Merciless,Legendary Creature,Human Shaman,Time Spiral,Rare,7,Gold,True,False,True,True,b'rk post',5.09
-"Mishra, Artificer Prodigy",Legendary Creature,Human Artificer,Time Spiral,Rare,4,Gold,True,False,True,False,b'Scott M. Fischer',0.72
-Opaline Sliver,Creature,Sliver,Time Spiral,Uncommon,3,Gold,True,False,True,False,b'Dave Dorman',1.1
-Saffi Eriksdotter,Legendary Creature,Human Scout,Time Spiral,Rare,2,Gold,True,False,True,False,b'Christopher Moeller',5.62
-Scion of the Ur-Dragon,Legendary Creature,Dragon Avatar,Time Spiral,Rare,5,Gold,True,False,True,True,b'Jim Murray',1.5
-"Stonebrow, Krosan Hero",Legendary Creature,Centaur Warrior,Time Spiral,Rare,5,Gold,True,False,True,True,b'Ron Spears',0.48
-Assembly-Worker,Artifact Creature,Assembly-Worker,Time Spiral,Uncommon,3,Colorless,True,False,True,True,b'Chippy',0.14
-Brass Gnat,Artifact Creature,Insect,Time Spiral,Common,1,Colorless,True,False,True,False,b'Martina Pilcerova',0.06
-Candles of Leng,Artifact,None,Time Spiral,Rare,2,Colorless,True,False,True,False,b'Daniel Gelon',0.24
-Chromatic Star,Artifact,None,Time Spiral,Common,1,Colorless,True,False,True,True,b'Alex Horley-Orlandelli',1.83
-Chronatog Totem,Artifact,None,Time Spiral,Uncommon,3,Colorless,True,False,True,False,b'Christopher Rush',0.14
-Clockwork Hydra,Artifact Creature,Hydra,Time Spiral,Uncommon,5,Colorless,True,False,True,True,b'Daren Bader',0.22
-Foriysian Totem,Artifact,None,Time Spiral,Uncommon,3,Colorless,True,False,True,False,b'Anson Maddocks',0.13
-Gauntlet of Power,Artifact,None,Time Spiral,Rare,5,Colorless,True,False,True,True,b'Greg Hildebrandt',17.92
-Hivestone,Artifact,None,Time Spiral,Rare,2,Colorless,True,False,True,False,b'Dave Allsop',1.33
-Jhoira's Timebug,Artifact Creature,Insect,Time Spiral,Common,2,Colorless,True,False,True,False,b'Dan Frazier',0.25
-Locket of Yesterdays,Artifact,None,Time Spiral,Uncommon,1,Colorless,True,False,True,False,b'Dany Orizio',0.23
-Paradise Plume,Artifact,None,Time Spiral,Uncommon,4,Colorless,True,False,True,False,b'Wayne England',0.23
-Phyrexian Totem,Artifact,None,Time Spiral,Uncommon,3,Colorless,True,False,True,True,b'John Zeleznik',0.21
-Prismatic Lens,Artifact,None,Time Spiral,Common,2,Colorless,True,False,True,True,b'Alan Pollack',0.26
-"Sarpadian Empires, Vol. VII",Artifact,None,Time Spiral,Rare,3,Colorless,True,False,True,False,b'Doug Chaffee',0.28
-Stuffy Doll,Artifact Creature,Construct,Time Spiral,Rare,5,Colorless,True,False,True,True,b'Dave Allsop',3.45
-Thunder Totem,Artifact,None,Time Spiral,Uncommon,3,Colorless,True,False,True,False,b'Randy Gallegos',0.16
-Triskelavus,Artifact Creature,Construct,Time Spiral,Rare,7,Colorless,True,False,True,True,b'Mark Zug',0.21
-Venser's Sliver,Artifact Creature,Sliver,Time Spiral,Common,5,Colorless,True,False,True,False,b'Carl Critchlow',0.16
-Weatherseed Totem,Artifact,None,Time Spiral,Uncommon,3,Colorless,True,False,True,False,b'Heather Hudson',0.16
-Academy Ruins,Legendary Land,None,Time Spiral,Rare,0,Colorless,True,False,True,True,b'Zoltan Boros',25.14
-Calciform Pools,Land,None,Time Spiral,Uncommon,0,Colorless,True,False,True,False,b'Darrell Riche',0.53
-Dreadship Reef,Land,None,Time Spiral,Uncommon,0,Colorless,True,False,True,True,b'Lars Grant-West',0.28
-Flagstones of Trokair,Legendary Land,None,Time Spiral,Rare,0,Colorless,True,False,True,True,b'Rob Alexander',3.96
-Fungal Reaches,Land,None,Time Spiral,Uncommon,0,Colorless,True,False,True,True,b'Martina Pilcerova',0.23
-Gemstone Caverns,Legendary Land,None,Time Spiral,Rare,0,Colorless,True,False,True,False,b'Martina Pilcerova',21.89
-Kher Keep,Legendary Land,None,Time Spiral,Rare,0,Colorless,True,False,True,True,b'Paolo Parente',2.07
-Molten Slagheap,Land,None,Time Spiral,Uncommon,0,Colorless,True,False,True,True,b'Daren Bader',0.15
-Saltcrusted Steppe,Land,None,Time Spiral,Uncommon,0,Colorless,True,False,True,True,b'Greg Staples',0.18
-Swarmyard,Land,None,Time Spiral,Rare,0,Colorless,True,False,True,False,b'Thomas M. Baxa',19.17
-Terramorphic Expanse,Land,None,Time Spiral,Common,0,Colorless,True,False,True,True,b'Dan Scott',0.25
-Urza's Factory,Land,Urza’s,Time Spiral,Uncommon,0,Colorless,True,False,True,True,b'Mark Tedin',0.19
-Vesuva,Land,None,Time Spiral,Rare,0,Colorless,True,False,True,True,b'Zoltan Boros',25.35
-Plains,Basic Land,Plains,Time Spiral,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.09
-Plains,Basic Land,Plains,Time Spiral,Common,0,Colorless,True,True,True,True,b'Craig Mullins',0.1
-Plains,Basic Land,Plains,Time Spiral,Common,0,Colorless,True,True,True,True,b'Justin Sweet',0.16
-Plains,Basic Land,Plains,Time Spiral,Common,0,Colorless,True,True,True,True,b'Richard Wright',0.18
-Island,Basic Land,Island,Time Spiral,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.18
-Island,Basic Land,Island,Time Spiral,Common,0,Colorless,True,True,True,True,b'Jeremy Jarvis',0.18
-Island,Basic Land,Island,Time Spiral,Common,0,Colorless,True,True,True,True,b'Craig Mullins',0.17
-Island,Basic Land,Island,Time Spiral,Common,0,Colorless,True,True,True,True,b'Richard Wright',0.22
-Swamp,Basic Land,Swamp,Time Spiral,Common,0,Colorless,True,True,True,True,b'John Avon',0.18
-Swamp,Basic Land,Swamp,Time Spiral,Common,0,Colorless,True,True,True,True,b'Vance Kovacs',0.17
-Swamp,Basic Land,Swamp,Time Spiral,Common,0,Colorless,True,True,True,True,b'Craig Mullins',0.15
-Swamp,Basic Land,Swamp,Time Spiral,Common,0,Colorless,True,True,True,True,b'Richard Wright',0.29
-Mountain,Basic Land,Mountain,Time Spiral,Common,0,Colorless,True,True,True,True,b'John Avon',0.11
-Mountain,Basic Land,Mountain,Time Spiral,Common,0,Colorless,True,True,True,True,b'D. Alexander Gregory',0.15
-Mountain,Basic Land,Mountain,Time Spiral,Common,0,Colorless,True,True,True,True,b'Craig Mullins',0.14
-Mountain,Basic Land,Mountain,Time Spiral,Common,0,Colorless,True,True,True,True,b'Greg Staples',0.14
-Forest,Basic Land,Forest,Time Spiral,Common,0,Colorless,True,True,True,True,b'Rob Alexander',0.17
-Forest,Basic Land,Forest,Time Spiral,Common,0,Colorless,True,True,True,True,b'Vance Kovacs',0.11
-Forest,Basic Land,Forest,Time Spiral,Common,0,Colorless,True,True,True,True,b'Craig Mullins',0.15
-Forest,Basic Land,Forest,Time Spiral,Common,0,Colorless,True,True,True,True,b'Stephen Tappin',0.17
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Amrou Scout,Creature,Kithkin Rebel Scout,Time Spiral,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.13,False
+Amrou Seekers,Creature,Kithkin Rebel,Time Spiral,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.13,False
+Angel's Grace,Instant,None,Time Spiral,Rare,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',19.66,False
+Benalish Cavalry,Creature,Human Knight,Time Spiral,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.13,False
+Castle Raptors,Creature,Bird Soldier,Time Spiral,Common,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.11,False
+Cavalry Master,Creature,Human Knight,Time Spiral,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.16,False
+Celestial Crusader,Creature,Spirit,Time Spiral,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Murray',0.16,False
+Children of Korlis,Creature,Human Rebel Cleric,Time Spiral,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Quinton Hoover',0.57,False
+Chronosavant,Creature,Giant,Time Spiral,Rare,6,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.18,False
+Cloudchaser Kestrel,Creature,Bird,Time Spiral,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.17,False
+D'Avenant Healer,Creature,Human Cleric Archer,Time Spiral,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',0.04,False
+Detainment Spell,Enchantment,Aura,Time Spiral,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Darrell Riche',0.14,False
+Errant Doomsayers,Creature,Human Rebel,Time Spiral,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Liz Danforth',0.08,False
+Evangelize,Sorcery,None,Time Spiral,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Elliott',0.24,False
+Flickering Spirit,Creature,Spirit,Time Spiral,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Alex Horley-Orlandelli',0.08,False
+Foriysian Interceptor,Creature,Human Soldier,Time Spiral,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Anson Maddocks',0.12,False
+Fortify,Instant,None,Time Spiral,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.08,False
+Gaze of Justice,Sorcery,None,Time Spiral,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.11,False
+Griffin Guide,Enchantment,Aura,Time Spiral,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Nelson',0.12,False
+Gustcloak Cavalier,Creature,Human Knight,Time Spiral,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Stuart Griffin',0.13,False
+Icatian Crier,Creature,Human Spellshaper,Time Spiral,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Phillippi',0.12,False
+Jedit's Dragoons,Creature,Cat Soldier,Time Spiral,Common,6,White,Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',0.12,False
+Knight of the Holy Nimbus,Creature,Human Rebel Knight,Time Spiral,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne England',0.31,False
+Magus of the Disk,Creature,Human Wizard,Time Spiral,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeremy Jarvis',0.82,False
+Mangara of Corondor,Creature,Human Wizard,Time Spiral,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.51,True
+Momentary Blink,Instant,None,Time Spiral,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',0.19,False
+Opal Guardian,Enchantment,None,Time Spiral,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Rush',0.12,False
+Outrider en-Kor,Creature,Kor Rebel Knight,Time Spiral,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'D. Alexander Gregory',0.17,False
+Pentarch Paladin,Creature,Human Knight,Time Spiral,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Murray',0.78,False
+Pentarch Ward,Enchantment,Aura,Time Spiral,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Dany Orizio',0.14,False
+Plated Pegasus,Creature,Pegasus,Time Spiral,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Hildebrandt',0.18,False
+Pull from Eternity,Instant,None,Time Spiral,Uncommon,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spears',0.91,False
+Pulmonic Sliver,Creature,Sliver,Time Spiral,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Easley',7.59,False
+Quilled Sliver,Creature,Sliver,Time Spiral,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'John Matson',0.3,False
+Return to Dust,Instant,None,Time Spiral,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',1.45,False
+Serra Avenger,Creature,Angel,Time Spiral,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',1.28,False
+Sidewinder Sliver,Creature,Sliver,Time Spiral,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.74,False
+Spirit Loop,Enchantment,Aura,Time Spiral,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne Reynolds',0.72,False
+Temporal Isolation,Enchantment,Aura,Time Spiral,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Stephen Tappin',0.27,False
+Tivadar of Thorn,Creature,Human Knight,Time Spiral,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.29,True
+Watcher Sliver,Creature,Sliver,Time Spiral,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Liz Danforth',0.16,False
+Weathered Bodyguards,Creature,Human Soldier,Time Spiral,Rare,6,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne Reynolds',0.21,False
+Zealot il-Vec,Creature,Human Rebel,Time Spiral,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Chippy',0.16,False
+Bewilder,Instant,None,Time Spiral,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Ralph Horsley',0.08,False
+Brine Elemental,Creature,Elemental,Time Spiral,Uncommon,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Stephen Tappin',0.25,False
+Cancel,Instant,None,Time Spiral,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.07,False
+Careful Consideration,Instant,None,Time Spiral,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Janine Johnston',0.24,False
+Clockspinning,Instant,None,Time Spiral,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.39,False
+Coral Trickster,Creature,Merfolk Rogue,Time Spiral,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'D. Alexander Gregory',0.1,False
+Crookclaw Transmuter,Creature,Bird Wizard,Time Spiral,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.14,False
+Draining Whelk,Creature,Illusion,Time Spiral,Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',2.5,False
+Dream Stalker,Creature,Illusion,Time Spiral,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Despain',0.32,False
+Drifter il-Dal,Creature,Human Wizard,Time Spiral,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Justin Sweet',0.12,False
+Eternity Snare,Enchantment,Aura,Time Spiral,Common,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.05,False
+Fathom Seer,Creature,Illusion,Time Spiral,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Ralph Horsley',0.12,False
+Fledgling Mawcor,Creature,Beast,Time Spiral,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.14,False
+Fool's Demise,Enchantment,Aura,Time Spiral,Uncommon,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.19,False
+Ixidron,Creature,Illusion,Time Spiral,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',1.08,False
+Looter il-Kor,Creature,Kor Rogue,Time Spiral,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Dringenberg',0.64,False
+Magus of the Jar,Creature,Human Wizard,Time Spiral,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',1.92,False
+Moonlace,Instant,None,Time Spiral,Rare,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Dringenberg',0.16,False
+Mystical Teachings,Instant,None,Time Spiral,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spears',0.28,False
+Ophidian Eye,Enchantment,Aura,Time Spiral,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Zoltan Boros',1.36,False
+Paradox Haze,Enchantment,Aura,Time Spiral,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',3.17,False
+Psionic Sliver,Creature,Sliver,Time Spiral,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne England',2.4,False
+Sage of Epityr,Creature,Human Wizard,Time Spiral,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Gallegos',0.52,False
+Screeching Sliver,Creature,Sliver,Time Spiral,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Stuart Griffin',0.25,False
+Shadow Sliver,Creature,Sliver,Time Spiral,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Warren Mahy',0.56,False
+Slipstream Serpent,Creature,Serpent,Time Spiral,Common,8,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Darrell Riche',0.1,False
+Snapback,Instant,None,Time Spiral,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Pollack',0.26,False
+Spell Burst,Instant,None,Time Spiral,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.53,False
+Spiketail Drakeling,Creature,Drake,Time Spiral,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Dorman',0.11,False
+Sprite Noble,Creature,Faerie Noble,Time Spiral,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.38,False
+Stormcloud Djinn,Creature,Djinn,Time Spiral,Uncommon,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.04,False
+Teferi Mage of Zhalfir,Creature,Human Wizard,Time Spiral,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'D. Alexander Gregory',4.65,True
+Telekinetic Sliver,Creature,Sliver,Time Spiral,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Elliott',1.0,False
+Temporal Eddy,Sorcery,None,Time Spiral,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne England',0.04,False
+Think Twice,Instant,None,Time Spiral,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Nelson',0.19,False
+Tolarian Sentinel,Creature,Human Spellshaper,Time Spiral,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.05,False
+Trickbind,Instant,None,Time Spiral,Rare,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'John Zeleznik',5.25,False
+Truth or Tale,Instant,None,Time Spiral,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Phillippi',0.15,False
+Vesuvan Shapeshifter,Creature,Shapeshifter,Time Spiral,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.64,False
+Voidmage Husher,Creature,Human Wizard,Time Spiral,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Chippy',0.5,False
+Walk the Aeons,Sorcery,None,Time Spiral,Rare,6,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Jeremy Jarvis',7.66,False
+Wipe Away,Instant,None,Time Spiral,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Miracola',0.76,False
+Assassinate,Sorcery,None,Time Spiral,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.07,False
+Basal Sliver,Creature,Sliver,Time Spiral,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Drew Tucker',0.4,False
+Call to the Netherworld,Sorcery,None,Time Spiral,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Vance Kovacs',0.55,False
+Cyclopean Giant,Creature,Zombie Giant,Time Spiral,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',0.13,False
+Dark Withering,Instant,None,Time Spiral,Common,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.31,False
+Deathspore Thallid,Creature,Zombie Fungus,Time Spiral,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Elliott',0.38,False
+Demonic Collusion,Sorcery,None,Time Spiral,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',1.53,False
+Dread Return,Sorcery,None,Time Spiral,Uncommon,4,Black,Banned,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',1.45,False
+Drudge Reavers,Creature,Skeleton,Time Spiral,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.1,False
+Endrek Sahr Master Breeder,Creature,Human Wizard,Time Spiral,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',1.35,True
+Evil Eye of Urborg,Creature,Eye,Time Spiral,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Clint Langley',0.12,False
+Faceless Devourer,Creature,Nightmare Horror,Time Spiral,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Chippy',0.09,False
+Fallen Ideal,Enchantment,Aura,Time Spiral,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.25,False
+Feebleness,Enchantment,Aura,Time Spiral,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.2,False
+Gorgon Recluse,Creature,Gorgon,Time Spiral,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Darrell Riche',0.26,False
+Haunting Hymn,Instant,None,Time Spiral,Uncommon,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',0.1,False
+Liege of the Pit,Creature,Demon,Time Spiral,Rare,8,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Jeremy Jarvis',0.22,False
+Lim-Dûl the Necromancer,Creature,Human Wizard,Time Spiral,Rare,7,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',1.63,True
+Magus of the Mirror,Creature,Human Wizard,Time Spiral,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.34,False
+Mana Skimmer,Creature,Leech,Time Spiral,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Daniel Gelon',0.09,False
+Mindlash Sliver,Creature,Sliver,Time Spiral,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Miracola',0.22,False
+Nether Traitor,Creature,Spirit,Time Spiral,Rare,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Vance Kovacs',11.71,False
+Nightshade Assassin,Creature,Human Assassin,Time Spiral,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.17,False
+Pit Keeper,Creature,Human Wizard,Time Spiral,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',0.18,False
+Plague Sliver,Creature,Sliver,Time Spiral,Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Allsop',0.53,False
+Premature Burial,Sorcery,None,Time Spiral,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Clint Langley',0.09,False
+Psychotic Episode,Sorcery,None,Time Spiral,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Drew Tucker',0.27,False
+Sangrophage,Creature,Zombie,Time Spiral,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.15,False
+Sengir Nosferatu,Creature,Vampire,Time Spiral,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',0.28,False
+Skittering Monstrosity,Creature,Horror,Time Spiral,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'rk post',0.04,False
+Skulking Knight,Creature,Zombie Knight,Time Spiral,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'rk post',0.13,False
+Smallpox,Sorcery,None,Time Spiral,Uncommon,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Janine Johnston',0.47,False
+Strangling Soot,Instant,None,Time Spiral,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Murray',0.07,False
+Stronghold Overseer,Creature,Demon,Time Spiral,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Puddnhead',0.64,False
+Sudden Death,Instant,None,Time Spiral,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Allsop',0.25,False
+Sudden Spoiling,Instant,None,Time Spiral,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',2.57,False
+Tendrils of Corruption,Instant,None,Time Spiral,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Dringenberg',0.24,False
+Traitor's Clutch,Instant,None,Time Spiral,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Allsop',0.1,False
+Trespasser il-Vec,Creature,Human Rogue,Time Spiral,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Murray',0.11,False
+Urborg Syphon-Mage,Creature,Human Spellshaper,Time Spiral,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.14,False
+Vampiric Sliver,Creature,Sliver,Time Spiral,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.45,False
+Viscid Lemures,Creature,Spirit,Time Spiral,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Drew Tucker',0.07,False
+Aetherflame Wall,Creature,Wall,Time Spiral,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Justin Sweet',0.08,False
+Ancient Grudge,Instant,None,Time Spiral,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Nelson',0.29,False
+Barbed Shocker,Creature,Insect,Time Spiral,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Tony Szczudlo',0.17,False
+Basalt Gargoyle,Creature,Gargoyle,Time Spiral,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Clint Langley',0.08,False
+Blazing Blade Askari,Creature,Human Knight,Time Spiral,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Frazier',0.07,False
+Bogardan Hellkite,Creature,Dragon,Time Spiral,Rare,8,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',0.61,False
+Bogardan Rager,Creature,Elemental,Time Spiral,Common,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Clint Langley',0.08,False
+Bonesplitter Sliver,Creature,Sliver,Time Spiral,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Dany Orizio',0.28,False
+Coal Stoker,Creature,Elemental,Time Spiral,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.16,False
+Conflagrate,Sorcery,None,Time Spiral,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Warren Mahy',0.52,False
+Empty the Warrens,Sorcery,None,Time Spiral,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Brill',0.5,False
+Firemaw Kavu,Creature,Kavu,Time Spiral,Uncommon,6,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Hildebrandt',0.11,False
+Flamecore Elemental,Creature,Elemental,Time Spiral,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Dorman',0.08,False
+Flowstone Channeler,Creature,Human Spellshaper,Time Spiral,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Pollack',0.06,False
+Fortune Thief,Creature,Human Rogue,Time Spiral,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.35,False
+Fury Sliver,Creature,Sliver,Time Spiral,Uncommon,6,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.75,False
+Ghitu Firebreathing,Enchantment,Aura,Time Spiral,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.1,False
+Goblin Skycutter,Creature,Goblin Warrior,Time Spiral,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Clint Langley',0.09,False
+Grapeshot,Sorcery,None,Time Spiral,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.59,False
+Ground Rift,Sorcery,None,Time Spiral,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.19,False
+Ib Halfheart Goblin Tactician,Creature,Goblin Advisor,Time Spiral,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',1.63,True
+Ignite Memories,Sorcery,None,Time Spiral,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Justin Sweet',0.42,False
+Ironclaw Buzzardiers,Creature,Orc Scout,Time Spiral,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.17,False
+Jaya Ballard Task Mage,Creature,Human Spellshaper,Time Spiral,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.71,True
+Lightning Axe,Instant,None,Time Spiral,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',1.13,False
+Magus of the Scroll,Creature,Human Wizard,Time Spiral,Rare,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.22,False
+Mogg War Marshal,Creature,Goblin Warrior,Time Spiral,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Wayne England',0.63,False
+Norin the Wary,Creature,Human Warrior,Time Spiral,Rare,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',3.33,True
+Orcish Cannonade,Instant,None,Time Spiral,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.28,False
+Reiterate,Instant,None,Time Spiral,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',13.12,False
+Sedge Sliver,Creature,Sliver,Time Spiral,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Richard Kane Ferguson',8.21,False
+Subterranean Shambler,Creature,Elemental,Time Spiral,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.11,False
+Sudden Shock,Instant,None,Time Spiral,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Vance Kovacs',0.28,False
+Sulfurous Blast,Instant,None,Time Spiral,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.13,False
+Tectonic Fiend,Creature,Elemental,Time Spiral,Uncommon,6,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',0.08,False
+Thick-Skinned Goblin,Creature,Goblin Shaman,Time Spiral,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Ralph Horsley',0.12,False
+Two-Headed Sliver,Creature,Sliver,Time Spiral,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Dany Orizio',0.58,False
+Undying Rage,Enchantment,Aura,Time Spiral,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',0.1,False
+Viashino Bladescout,Creature,Viashino Scout,Time Spiral,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Dany Orizio',0.07,False
+Volcanic Awakening,Sorcery,None,Time Spiral,Uncommon,6,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.19,False
+Word of Seizing,Instant,None,Time Spiral,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Vance Kovacs',0.37,False
+Aether Web,Enchantment,Aura,Time Spiral,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Justin Sweet',0.13,False
+Ashcoat Bear,Creature,Bear,Time Spiral,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.51,False
+Aspect of Mongoose,Enchantment,Aura,Time Spiral,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Dorman',0.64,False
+Chameleon Blur,Instant,None,Time Spiral,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony S. Waters',0.11,False
+Durkwood Tracker,Creature,Giant,Time Spiral,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Phillippi',0.15,False
+Fungus Sliver,Creature,Fungus Sliver,Time Spiral,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',1.76,False
+Gemhide Sliver,Creature,Sliver,Time Spiral,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',2.0,False
+Glass Asp,Creature,Snake,Time Spiral,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Richard Kane Ferguson',0.11,False
+Greenseeker,Creature,Elf Spellshaper,Time Spiral,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Rebecca Guay',0.18,False
+Havenwood Wurm,Creature,Wurm,Time Spiral,Common,7,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Stuart Griffin',0.09,False
+Herd Gnarr,Creature,Beast,Time Spiral,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.03,False
+Krosan Grip,Instant,None,Time Spiral,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',2.8,False
+Magus of the Candelabra,Creature,Human Wizard,Time Spiral,Rare,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.65,False
+Might of Old Krosa,Instant,None,Time Spiral,Uncommon,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Una Fricker',1.06,False
+Might Sliver,Creature,Sliver,Time Spiral,Uncommon,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',1.56,False
+Molder,Instant,None,Time Spiral,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Hildebrandt',0.13,False
+Mwonvuli Acid-Moss,Sorcery,None,Time Spiral,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Gallegos',0.75,False
+Pendelhaven Elder,Creature,Elf Shaman,Time Spiral,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.13,False
+Penumbra Spider,Creature,Spider,Time Spiral,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Easley',0.13,False
+Phantom Wurm,Creature,Wurm Spirit,Time Spiral,Uncommon,6,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Pollack',0.24,False
+Primal Forcemage,Creature,Elf Shaman,Time Spiral,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.26,False
+Savage Thallid,Creature,Fungus,Time Spiral,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Luca Zontini',0.3,False
+Scarwood Treefolk,Creature,Treefolk,Time Spiral,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Stuart Griffin',0.09,False
+Scryb Ranger,Creature,Faerie,Time Spiral,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',1.13,False
+Spectral Force,Creature,Elemental Spirit,Time Spiral,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.29,False
+Spike Tiller,Creature,Spike,Time Spiral,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Tony Szczudlo',0.2,False
+Spinneret Sliver,Creature,Sliver,Time Spiral,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',0.85,False
+Sporesower Thallid,Creature,Fungus,Time Spiral,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.41,False
+Sprout,Instant,None,Time Spiral,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',0.15,False
+Squall Line,Instant,None,Time Spiral,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Lars Grant-West',1.17,False
+Stonewood Invocation,Instant,None,Time Spiral,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.77,False
+Strength in Numbers,Instant,None,Time Spiral,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.1,False
+Thallid Germinator,Creature,Fungus,Time Spiral,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',0.16,False
+Thallid Shell-Dweller,Creature,Fungus,Time Spiral,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Carl Critchlow',0.28,False
+Thelon of Havenwood,Creature,Elf Druid,Time Spiral,Rare,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.76,True
+Thelonite Hermit,Creature,Elf Shaman,Time Spiral,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Chippy',0.33,False
+Thrill of the Hunt,Instant,None,Time Spiral,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Stephen Tappin',0.14,False
+Tromp the Domains,Sorcery,None,Time Spiral,Uncommon,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Dringenberg',0.09,False
+Unyaro Bees,Creature,Insect,Time Spiral,Rare,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Tom W\xc3\xa4nerstrand',0.36,False
+Verdant Embrace,Enchantment,Aura,Time Spiral,Rare,5,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Stephen Tappin',2.82,False
+Wormwood Dryad,Creature,Dryad,Time Spiral,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Warren Mahy',0.17,False
+Wurmcalling,Sorcery,None,Time Spiral,Rare,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Easley',0.83,False
+Yavimaya Dryad,Creature,Dryad,Time Spiral,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',0.36,False
+Dementia Sliver,Creature,Sliver,Time Spiral,Uncommon,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Una Fricker',0.2,False
+Dralnu Lich Lord,Creature,Zombie Wizard,Time Spiral,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',1.07,True
+Firewake Sliver,Creature,Sliver,Time Spiral,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony S. Waters',0.31,False
+Ghostflame Sliver,Creature,Sliver,Time Spiral,Uncommon,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Luca Zontini',0.4,False
+Harmonic Sliver,Creature,Sliver,Time Spiral,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Luca Zontini',3.11,False
+Kaervek the Merciless,Creature,Human Shaman,Time Spiral,Rare,7,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',5.5,True
+Mishra Artificer Prodigy,Creature,Human Artificer,Time Spiral,Rare,4,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',0.8,True
+Opaline Sliver,Creature,Sliver,Time Spiral,Uncommon,3,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Dorman',1.14,False
+Saffi Eriksdotter,Creature,Human Scout,Time Spiral,Rare,2,Gold,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',11.89,True
+Scion of the Ur-Dragon,Creature,Dragon Avatar,Time Spiral,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Jim Murray',1.59,True
+Stonebrow Krosan Hero,Creature,Centaur Warrior,Time Spiral,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spears',0.51,True
+Assembly-Worker,Artifact Creature,Assembly-Worker,Time Spiral,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Chippy',0.14,False
+Brass Gnat,Artifact Creature,Insect,Time Spiral,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Martina Pilcerova',0.06,False
+Candles of Leng,Artifact,None,Time Spiral,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Daniel Gelon',0.23,False
+Chromatic Star,Artifact,None,Time Spiral,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alex Horley-Orlandelli',2.14,False
+Chronatog Totem,Artifact,None,Time Spiral,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Rush',0.19,False
+Clockwork Hydra,Artifact Creature,Hydra,Time Spiral,Uncommon,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.23,False
+Foriysian Totem,Artifact,None,Time Spiral,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Anson Maddocks',0.16,False
+Gauntlet of Power,Artifact,None,Time Spiral,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Hildebrandt',19.39,False
+Hivestone,Artifact,None,Time Spiral,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Allsop',1.36,False
+Jhoira's Timebug,Artifact Creature,Insect,Time Spiral,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Frazier',0.24,False
+Locket of Yesterdays,Artifact,None,Time Spiral,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Dany Orizio',0.24,False
+Paradise Plume,Artifact,None,Time Spiral,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne England',0.23,False
+Phyrexian Totem,Artifact,None,Time Spiral,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'John Zeleznik',0.22,False
+Prismatic Lens,Artifact,None,Time Spiral,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.29,False
+Sarpadian Empires Vol. VII,Artifact,None,Time Spiral,Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Doug Chaffee',0.29,False
+Stuffy Doll,Artifact Creature,Construct,Time Spiral,Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Allsop',4.16,False
+Thunder Totem,Artifact,None,Time Spiral,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Gallegos',0.16,False
+Triskelavus,Artifact Creature,Construct,Time Spiral,Rare,7,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.23,False
+Venser's Sliver,Artifact Creature,Sliver,Time Spiral,Common,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.15,False
+Weatherseed Totem,Artifact,None,Time Spiral,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.16,False
+Academy Ruins,Land,None,Time Spiral,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',26.62,True
+Calciform Pools,Land,None,Time Spiral,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Darrell Riche',0.51,False
+Dreadship Reef,Land,None,Time Spiral,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.29,False
+Flagstones of Trokair,Land,None,Time Spiral,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',3.78,True
+Fungal Reaches,Land,None,Time Spiral,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Martina Pilcerova',0.23,False
+Gemstone Caverns,Land,None,Time Spiral,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Martina Pilcerova',32.77,True
+Kher Keep,Land,None,Time Spiral,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',2.04,True
+Molten Slagheap,Land,None,Time Spiral,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.16,False
+Saltcrusted Steppe,Land,None,Time Spiral,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.17,False
+Swarmyard,Land,None,Time Spiral,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',19.84,False
+Terramorphic Expanse,Land,None,Time Spiral,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Scott',0.31,False
+Urza's Factory,Land,Urza’s,Time Spiral,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.2,False
+Vesuva,Land,None,Time Spiral,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Zoltan Boros',26.13,False
+Plains,Basic Land,Plains,Time Spiral,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.09,False
+Plains,Basic Land,Plains,Time Spiral,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Craig Mullins',0.12,False
+Plains,Basic Land,Plains,Time Spiral,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Justin Sweet',0.24,False
+Plains,Basic Land,Plains,Time Spiral,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Richard Wright',0.18,False
+Island,Basic Land,Island,Time Spiral,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.18,False
+Island,Basic Land,Island,Time Spiral,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jeremy Jarvis',0.19,False
+Island,Basic Land,Island,Time Spiral,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Craig Mullins',0.18,False
+Island,Basic Land,Island,Time Spiral,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Richard Wright',0.21,False
+Swamp,Basic Land,Swamp,Time Spiral,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.18,False
+Swamp,Basic Land,Swamp,Time Spiral,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Vance Kovacs',0.17,False
+Swamp,Basic Land,Swamp,Time Spiral,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Craig Mullins',0.17,False
+Swamp,Basic Land,Swamp,Time Spiral,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Richard Wright',0.27,False
+Mountain,Basic Land,Mountain,Time Spiral,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'John Avon',0.11,False
+Mountain,Basic Land,Mountain,Time Spiral,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'D. Alexander Gregory',0.18,False
+Mountain,Basic Land,Mountain,Time Spiral,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Craig Mullins',0.14,False
+Mountain,Basic Land,Mountain,Time Spiral,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Greg Staples',0.14,False
+Forest,Basic Land,Forest,Time Spiral,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.17,False
+Forest,Basic Land,Forest,Time Spiral,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Vance Kovacs',0.15,False
+Forest,Basic Land,Forest,Time Spiral,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Craig Mullins',0.17,False
+Forest,Basic Land,Forest,Time Spiral,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Stephen Tappin',0.17,False

@@ -1,168 +1,168 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Archangel,Creature,Angel,Visions,Rare,7,White,True,False,True,True,b'Christopher Rush',0.35
-Daraja Griffin,Creature,Griffin,Visions,Uncommon,4,White,False,False,True,True,b'Stuart Griffin',0.09
-Equipoise,Enchantment,None,Visions,Rare,3,White,False,False,True,False,b'Adam Rex',1.5
-Eye of Singularity,World Enchantment,None,Visions,Rare,4,White,False,False,True,False,b'Eric Peterson',0.58
-Freewind Falcon,Creature,Bird,Visions,Common,2,White,False,False,True,True,b'Una Fricker',0.09
-Gossamer Chains,Enchantment,None,Visions,Common,2,White,False,False,True,False,b'Steve Luke',0.16
-Honorable Passage,Instant,None,Visions,Uncommon,2,White,True,False,True,True,b'Jeff Miracola',0.18
-Hope Charm,Instant,None,Visions,Common,1,White,False,False,True,False,b'Greg Spalenka',0.11
-Infantry Veteran,Creature,Human Soldier,Visions,Common,1,White,True,False,True,True,b'Christopher Rush',0.06
-Jamuraan Lion,Creature,Cat,Visions,Common,3,White,False,False,True,True,b'Stuart Griffin',0.12
-Knight of Valor,Creature,Human Knight,Visions,Common,3,White,False,False,True,False,b'Jeff Miracola',0.08
-Longbow Archer,Creature,Human Soldier Archer,Visions,Uncommon,2,White,False,False,True,True,b'Eric Peterson',0.18
-Miraculous Recovery,Instant,None,Visions,Uncommon,5,White,False,False,True,True,b'Brian Horton',0.21
-Parapet,Enchantment,None,Visions,Common,2,White,False,False,True,False,b'Mark Poole',0.08
-Peace Talks,Sorcery,None,Visions,Uncommon,2,White,False,False,True,True,b'Roger Raupp',0.16
-Relic Ward,Enchantment,Aura,Visions,Uncommon,2,White,False,False,True,False,b'John Coulthart',0.14
-Remedy,Instant,None,Visions,Common,2,White,False,False,True,True,b'Zina Saunders',0.07
-Resistance Fighter,Creature,Human Soldier,Visions,Common,1,White,False,False,True,True,b'Cecil Fernando',0.08
-Retribution of the Meek,Sorcery,None,Visions,Rare,3,White,False,False,True,False,b'Nathalie Hertz',5.37
-Righteous Aura,Enchantment,None,Visions,Common,2,White,False,False,True,True,b'Jeff Miracola',0.18
-Sun Clasp,Enchantment,Aura,Visions,Common,2,White,False,False,True,True,b'John Coulthart',0.16
-Teferi's Honor Guard,Creature,Human Knight,Visions,Uncommon,3,White,False,False,True,False,b'Cecil Fernando',0.07
-Tithe,Instant,None,Visions,Rare,1,White,False,False,True,True,b'Jon J Muth',11.98
-Warrior's Honor,Instant,None,Visions,Common,3,White,True,False,True,True,b'D. Alexander Gregory',0.07
-Zhalfirin Crusader,Creature,Human Knight,Visions,Rare,3,White,False,False,True,True,b'Alan Rabinowitz',0.53
-Betrayal,Enchantment,Aura,Visions,Common,1,Blue,False,False,True,False,b'Gary Leach',0.21
-Breezekeeper,Creature,Djinn,Visions,Common,4,Blue,False,False,True,False,b'Adam Rex',0.09
-Chronatog,Creature,Atog,Visions,Rare,2,Blue,False,False,True,False,b'Christopher Rush',1.11
-Cloud Elemental,Creature,Elemental,Visions,Common,3,Blue,True,False,True,True,b'Adam Rex',0.06
-Desertion,Instant,None,Visions,Rare,5,Blue,False,False,True,True,b'Richard Kane Ferguson',2.37
-Dream Tides,Enchantment,None,Visions,Uncommon,4,Blue,False,False,True,False,b'Jerry Tiritilli',0.66
-Flooded Shoreline,Enchantment,None,Visions,Rare,2,Blue,False,False,True,False,b'Romas Kukalis',0.71
-Foreshadow,Instant,None,Visions,Uncommon,2,Blue,False,False,True,False,b'George Pratt',0.12
-Impulse,Instant,None,Visions,Common,2,Blue,False,False,True,True,b'Bryan Talbot',0.36
-Inspiration,Instant,None,Visions,Common,4,Blue,True,False,True,True,b'Zina Saunders',0.08
-Knight of the Mists,Creature,Human Knight,Visions,Common,3,Blue,False,False,True,True,b'Harold McNeill',0.12
-Man-o'-War,Creature,Jellyfish,Visions,Common,3,Blue,True,False,True,True,b'Jon J Muth',0.16
-Mystic Veil,Enchantment,Aura,Visions,Common,2,Blue,False,False,True,False,b'D. Alexander Gregory',0.12
-Ovinomancer,Creature,Human Wizard,Visions,Uncommon,3,Blue,True,False,True,True,b'Kev Walker',0.16
-Prosperity,Sorcery,None,Visions,Uncommon,2,Blue,False,False,True,True,b'Dan Frazier',0.79
-Rainbow Efreet,Creature,Efreet,Visions,Rare,4,Blue,False,False,True,True,b'Nathalie Hertz',0.76
-Shimmering Efreet,Creature,Efreet,Visions,Uncommon,3,Blue,False,False,True,False,b'Thomas Gianni',0.18
-Shrieking Drake,Creature,Drake,Visions,Common,1,Blue,False,False,True,True,b'Ian Miller',1.56
-Teferi's Realm,World Enchantment,None,Visions,Rare,3,Blue,False,False,True,False,b'Alan Rabinowitz',1.5
-Three Wishes,Instant,None,Visions,Rare,3,Blue,False,False,True,False,b'George Pratt',0.96
-Time and Tide,Instant,None,Visions,Uncommon,2,Blue,False,False,True,False,b'George Pratt',0.19
-Undo,Sorcery,None,Visions,Common,3,Blue,False,False,True,True,b'Terese Nielsen',0.09
-Vanishing,Enchantment,Aura,Visions,Common,1,Blue,False,False,True,False,b'John Matson',0.35
-Vision Charm,Instant,None,Visions,Common,1,Blue,False,False,True,False,b'Greg Spalenka',0.16
-Waterspout Djinn,Creature,Djinn,Visions,Uncommon,4,Blue,False,False,True,True,b'Thomas Gianni',0.14
-Aku Djinn,Creature,Djinn,Visions,Rare,5,Black,False,False,True,False,b'Terese Nielsen',0.6
-Blanket of Night,Enchantment,None,Visions,Uncommon,3,Black,False,False,True,False,b'Cliff Nielsen',0.44
-Brood of Cockroaches,Creature,Insect,Visions,Uncommon,2,Black,False,False,True,False,b'Geofrey Darrow',0.22
-Coercion,Sorcery,None,Visions,Common,3,Black,True,False,True,True,b'DiTerlizzi',0.12
-Crypt Rats,Creature,Rat,Visions,Common,3,Black,True,False,True,True,b'Paul Lee',0.45
-Dark Privilege,Enchantment,Aura,Visions,Common,2,Black,False,False,True,True,b'Tom Kyffin',0.32
-Death Watch,Enchantment,Aura,Visions,Common,1,Black,False,False,True,False,b'Brian Horton',0.12
-Desolation,Enchantment,None,Visions,Uncommon,3,Black,False,False,True,False,b'George Pratt',0.67
-Fallen Askari,Creature,Human Knight,Visions,Common,2,Black,False,False,True,True,b'Adrian Smith',0.08
-Forbidden Ritual,Sorcery,None,Visions,Rare,4,Black,False,False,True,False,b'Christopher Rush',0.77
-Funeral Charm,Instant,None,Visions,Common,1,Black,True,False,True,True,b'Greg Spalenka',0.46
-Infernal Harvest,Sorcery,None,Visions,Common,2,Black,False,False,True,False,b'Nathalie Hertz',0.09
-Kaervek's Spite,Instant,None,Visions,Rare,3,Black,False,False,True,False,b'Bryan Talbot',0.74
-Necromancy,Enchantment,None,Visions,Uncommon,3,Black,False,False,True,False,b'Pete Venters',12.67
-Necrosavant,Creature,Zombie Giant,Visions,Rare,6,Black,False,False,True,True,b'John Coulthart',0.21
-Nekrataal,Creature,Human Assassin,Visions,Uncommon,4,Black,True,False,True,True,b'Adrian Smith',0.26
-Pillar Tombs of Aku,World Enchantment,None,Visions,Rare,4,Black,False,False,True,False,b'Terese Nielsen',0.34
-Python,Creature,Snake,Visions,Common,3,Black,False,False,True,True,b'Steve White',0.06
-Suq'Ata Assassin,Creature,Human Assassin,Visions,Uncommon,3,Black,False,False,True,False,b'Gary Gianni',0.25
-Tar Pit Warrior,Creature,Cyclops Warrior,Visions,Common,3,Black,False,False,True,True,b'George Pratt',0.12
-Urborg Mindsucker,Creature,Horror,Visions,Common,3,Black,False,False,True,True,b'DiTerlizzi',0.08
-Vampiric Tutor,Instant,None,Visions,Rare,1,Black,False,False,True,True,b'Gary Leach',76.72
-Vampirism,Enchantment,Aura,Visions,Uncommon,2,Black,False,False,True,True,b'Gary Leach',0.15
-Wake of Vultures,Creature,Bird,Visions,Common,4,Black,False,False,True,True,b'Jeff Miracola',0.07
-Wicked Reward,Instant,None,Visions,Common,2,Black,False,False,True,True,b'D. Alexander Gregory',0.05
-Bogardan Phoenix,Creature,Phoenix,Visions,Rare,5,Red,False,False,True,False,"b""David O'Connor""",0.4
-Dwarven Vigilantes,Creature,Dwarf,Visions,Common,3,Red,False,False,True,False,b'Pete Venters',0.09
-Elkin Lair,World Enchantment,None,Visions,Rare,4,Red,False,False,True,False,b'Jerry Tiritilli',0.9
-Fireblast,Instant,None,Visions,Common,6,Red,False,False,True,True,b'Michael Danza',0.88
-Goblin Recruiter,Creature,Goblin,Visions,Uncommon,2,Red,False,False,True,True,b'Scott Kirschner',2.2
-Goblin Swine-Rider,Creature,Goblin,Visions,Common,1,Red,False,False,True,False,b'Geofrey Darrow',0.08
-Hearth Charm,Instant,None,Visions,Common,1,Red,False,False,True,False,b'Greg Spalenka',0.09
-Heat Wave,Enchantment,None,Visions,Uncommon,3,Red,False,False,True,False,b'Alan Rabinowitz',0.12
-Hulking Cyclops,Creature,Cyclops,Visions,Uncommon,5,Red,True,False,True,True,b'DiTerlizzi',0.07
-Keeper of Kookus,Creature,Goblin,Visions,Common,1,Red,False,False,True,False,b'Scott Hampton',0.13
-Kookus,Creature,Djinn,Visions,Rare,5,Red,False,False,True,False,b'Scott Hampton',0.37
-Lightning Cloud,Enchantment,None,Visions,Rare,4,Red,False,False,True,False,b'John Matson',0.38
-Mob Mentality,Enchantment,Aura,Visions,Uncommon,1,Red,False,False,True,False,b'Douglas Shuler',0.31
-Ogre Enforcer,Creature,Ogre,Visions,Rare,5,Red,False,False,True,False,b'Pete Venters',0.32
-Raging Gorilla,Creature,Ape,Visions,Common,3,Red,False,False,True,False,b'Tom Kyffin',0.09
-Relentless Assault,Sorcery,None,Visions,Rare,4,Red,True,False,True,True,b'Geofrey Darrow',0.97
-Rock Slide,Instant,None,Visions,Common,2,Red,False,False,True,False,b'Mike Kerr',0.07
-Solfatara,Instant,None,Visions,Common,3,Red,False,False,True,False,b'Omaha P\xc3\xa9rez',0.1
-Song of Blood,Sorcery,None,Visions,Common,2,Red,False,False,True,False,b'Eric Peterson',0.1
-Spitting Drake,Creature,Drake,Visions,Uncommon,4,Red,False,False,True,True,b'Geofrey Darrow',0.08
-Suq'Ata Lancer,Creature,Human Knight,Visions,Common,3,Red,True,False,True,True,b'Jeff Miracola',0.1
-Talruum Champion,Creature,Minotaur,Visions,Common,5,Red,False,False,True,False,b'Pete Venters',0.08
-Talruum Piper,Creature,Minotaur,Visions,Uncommon,5,Red,False,False,True,False,b'Pete Venters',0.16
-Tremor,Sorcery,None,Visions,Common,1,Red,True,False,True,True,b'Michael Danza',0.05
-Viashino Sandstalker,Creature,Viashino Warrior,Visions,Uncommon,3,Red,True,False,True,True,b'Andrew Robinson',0.15
-Bull Elephant,Creature,Elephant,Visions,Common,4,Green,False,False,True,True,b'Steve White',0.08
-City of Solitude,Enchantment,None,Visions,Rare,3,Green,False,False,True,True,b'Romas Kukalis',7.29
-Creeping Mold,Sorcery,None,Visions,Uncommon,4,Green,True,False,True,True,b'David Seeley',0.19
-Elephant Grass,Enchantment,None,Visions,Uncommon,1,Green,False,False,True,False,b'Tony Roberts',1.44
-Elven Cache,Sorcery,None,Visions,Common,4,Green,False,False,True,True,b'John Matson',0.07
-Emerald Charm,Instant,None,Visions,Common,1,Green,False,False,True,True,b'Greg Spalenka',0.24
-Feral Instinct,Instant,None,Visions,Common,2,Green,False,False,True,False,b'Una Fricker',0.15
-Giant Caterpillar,Creature,Insect,Visions,Common,4,Green,False,False,True,True,b'Zina Saunders',0.08
-Katabatic Winds,Enchantment,None,Visions,Rare,3,Green,False,False,True,False,b'Gary Gianni',0.68
-King Cheetah,Creature,Cat,Visions,Common,4,Green,True,False,True,True,b'Terese Nielsen',0.11
-Kyscu Drake,Creature,Drake,Visions,Uncommon,4,Green,False,False,True,False,b'Geofrey Darrow',0.11
-Lichenthrope,Creature,Plant Fungus,Visions,Rare,5,Green,False,False,True,False,b'Bob Eggleton',0.33
-Mortal Wound,Enchantment,Aura,Visions,Common,1,Green,False,False,True,False,b'Kev Walker',0.09
-Natural Order,Sorcery,None,Visions,Rare,4,Green,False,False,True,True,b'Terese Nielsen',16.23
-Panther Warriors,Creature,Cat Warrior,Visions,Common,5,Green,False,False,True,True,b'Cecil Fernando',0.11
-Quirion Druid,Creature,Elf Druid,Visions,Rare,3,Green,False,False,True,False,b'John Matson',0.71
-Quirion Ranger,Creature,Elf,Visions,Common,1,Green,False,False,True,True,b'Tom Kyffin',2.8
-River Boa,Creature,Snake,Visions,Common,2,Green,True,False,True,True,b'Steve White',0.24
-Rowen,Enchantment,None,Visions,Rare,4,Green,False,False,True,True,b'Jon J Muth',0.3
-Spider Climb,Enchantment,Aura,Visions,Common,1,Green,False,False,True,False,b'Ron Spencer',0.09
-Stampeding Wildebeests,Creature,Antelope Beast,Visions,Uncommon,4,Green,True,False,True,True,b'Randy Gallegos',0.2
-Summer Bloom,Sorcery,None,Visions,Uncommon,2,Green,False,False,True,True,b'Nicola Leonard',1.01
-Uktabi Orangutan,Creature,Ape,Visions,Uncommon,3,Green,False,False,True,True,b'Una Fricker',0.22
-Warthog,Creature,Boar,Visions,Common,3,Green,False,False,True,True,b'Steve White',0.08
-Wind Shear,Instant,None,Visions,Uncommon,3,Green,False,False,True,False,b'John Matson',0.09
-Army Ants,Creature,Insect,Visions,Uncommon,3,Gold,False,False,True,False,b'Geofrey Darrow',0.4
-Breathstealer's Crypt,Enchantment,None,Visions,Rare,4,Gold,False,False,True,False,b'Blackie del Rio',3.88
-Corrosion,Enchantment,None,Visions,Rare,3,Gold,False,False,True,False,b'Michael Danza',0.44
-Femeref Enchantress,Creature,Human Druid,Visions,Rare,2,Gold,False,False,True,False,b'D. Alexander Gregory',3.45
-Firestorm Hellkite,Creature,Dragon,Visions,Rare,6,Gold,False,False,True,False,b'Pete Venters',0.35
-Guiding Spirit,Creature,Angel Spirit,Visions,Rare,3,Gold,False,False,True,False,b'Terese Nielsen',1.03
-Mundungu,Creature,Human Wizard,Visions,Uncommon,3,Gold,False,False,True,False,b'Terese Nielsen',0.23
-Pygmy Hippo,Creature,Hippo,Visions,Rare,2,Gold,False,False,True,False,b'Steve White',0.92
-Righteous War,Enchantment,None,Visions,Rare,3,Gold,False,False,True,False,b'Ian Miller',1.1
-Scalebane's Elite,Creature,Human Soldier,Visions,Uncommon,5,Gold,False,False,True,False,b'Steve Luke',0.1
-Simoon,Instant,None,Visions,Uncommon,2,Gold,False,False,True,True,b'Randy Gallegos',0.14
-Squandered Resources,Enchantment,None,Visions,Rare,2,Gold,False,False,True,False,b'Romas Kukalis',13.22
-Suleiman's Legacy,Enchantment,None,Visions,Rare,2,Gold,False,False,True,False,b'Kaja Foglio',0.69
-Tempest Drake,Creature,Drake,Visions,Uncommon,3,Gold,False,False,True,False,b'Gerry Grace',0.16
-Viashivan Dragon,Creature,Dragon,Visions,Rare,6,Gold,False,False,True,False,b'Ian Miller',0.72
-Anvil of Bogardan,Artifact,None,Visions,Rare,2,Colorless,False,False,True,False,b'Roger Raupp',11.31
-Brass-Talon Chimera,Artifact Creature,Chimera,Visions,Uncommon,4,Colorless,False,False,True,False,b'Mike Dringenberg',0.11
-Diamond Kaleidoscope,Artifact,None,Visions,Rare,4,Colorless,False,False,True,False,b'Ron Spencer',0.51
-Dragon Mask,Artifact,None,Visions,Uncommon,3,Colorless,False,False,True,True,b'Craig Hooper',0.15
-Helm of Awakening,Artifact,None,Visions,Uncommon,2,Colorless,False,False,True,True,b'Adam Rex',5.38
-Iron-Heart Chimera,Artifact Creature,Chimera,Visions,Uncommon,4,Colorless,False,False,True,False,b'Mike Dringenberg',0.16
-Juju Bubble,Artifact,None,Visions,Uncommon,1,Colorless,False,False,True,False,b'Donato Giancola',0.2
-Lead-Belly Chimera,Artifact Creature,Chimera,Visions,Uncommon,4,Colorless,False,False,True,False,b'Mike Dringenberg',0.15
-Magma Mine,Artifact,None,Visions,Uncommon,1,Colorless,False,False,True,False,b'Ron Spencer',0.17
-Matopi Golem,Artifact Creature,Golem,Visions,Uncommon,5,Colorless,False,False,True,False,b'Tom Kyffin',0.12
-Phyrexian Marauder,Artifact Creature,Construct,Visions,Rare,1,Colorless,False,False,True,False,b'David Seeley',0.96
-Phyrexian Walker,Artifact Creature,Construct,Visions,Common,0,Colorless,False,False,True,False,b'Bryan Talbot',0.48
-Sands of Time,Artifact,None,Visions,Rare,4,Colorless,False,False,True,False,b'Paul Lee',1.13
-Sisay's Ring,Artifact,None,Visions,Common,4,Colorless,False,False,True,True,b'Donato Giancola',0.4
-Snake Basket,Artifact,None,Visions,Rare,4,Colorless,False,False,True,True,b'Roger Raupp',1.19
-Teferi's Puzzle Box,Artifact,None,Visions,Rare,4,Colorless,True,False,True,True,b'Kaja Foglio',8.12
-Tin-Wing Chimera,Artifact Creature,Chimera,Visions,Uncommon,4,Colorless,False,False,True,False,b'Mike Dringenberg',0.14
-Triangle of War,Artifact,None,Visions,Rare,1,Colorless,False,False,True,True,b'Ian Miller',0.66
-Wand of Denial,Artifact,None,Visions,Rare,2,Colorless,False,False,True,True,b'Steve Luke',0.24
-Coral Atoll,Land,None,Visions,Uncommon,0,Colorless,False,False,True,True,b'John Avon',0.43
-Dormant Volcano,Land,None,Visions,Uncommon,0,Colorless,False,False,True,True,b'John Avon',0.24
-Everglades,Land,None,Visions,Uncommon,0,Colorless,False,False,True,True,b'Bob Eggleton',0.34
-Griffin Canyon,Land,None,Visions,Rare,0,Colorless,False,False,True,False,b'Stuart Griffin',1.56
-Jungle Basin,Land,None,Visions,Uncommon,0,Colorless,False,False,True,True,b'John Avon',0.31
-Karoo,Land,None,Visions,Uncommon,0,Colorless,False,False,True,True,b'Zina Saunders',0.39
-Quicksand,Land,None,Visions,Uncommon,0,Colorless,True,False,True,True,b'Roger Raupp',0.23
-Undiscovered Paradise,Land,None,Visions,Rare,0,Colorless,False,False,True,True,"b""David O'Connor""",6.38
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Archangel,Creature,Angel,Visions,Rare,7,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.34,False
+Daraja Griffin,Creature,Griffin,Visions,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Stuart Griffin',0.14,False
+Equipoise,Enchantment,None,Visions,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Rex',1.46,False
+Eye of Singularity,World Enchantment,None,Visions,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Eric Peterson',0.58,False
+Freewind Falcon,Creature,Bird,Visions,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Una Fricker',0.09,False
+Gossamer Chains,Enchantment,None,Visions,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Luke',0.17,False
+Honorable Passage,Instant,None,Visions,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.2,False
+Hope Charm,Instant,None,Visions,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Spalenka',0.1,False
+Infantry Veteran,Creature,Human Soldier,Visions,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.08,False
+Jamuraan Lion,Creature,Cat,Visions,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Stuart Griffin',0.12,False
+Knight of Valor,Creature,Human Knight,Visions,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Miracola',0.11,False
+Longbow Archer,Creature,Human Soldier Archer,Visions,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Peterson',0.19,False
+Miraculous Recovery,Instant,None,Visions,Uncommon,5,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Horton',0.23,False
+Parapet,Enchantment,None,Visions,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Poole',0.08,False
+Peace Talks,Sorcery,None,Visions,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Roger Raupp',0.16,False
+Relic Ward,Enchantment,Aura,Visions,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'John Coulthart',0.15,False
+Remedy,Instant,None,Visions,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Zina Saunders',0.07,False
+Resistance Fighter,Creature,Human Soldier,Visions,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Cecil Fernando',0.08,False
+Retribution of the Meek,Sorcery,None,Visions,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Nathalie Hertz',5.81,False
+Righteous Aura,Enchantment,None,Visions,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.19,False
+Sun Clasp,Enchantment,Aura,Visions,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Coulthart',0.16,False
+Teferi's Honor Guard,Creature,Human Knight,Visions,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Cecil Fernando',0.16,False
+Tithe,Instant,None,Visions,Rare,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jon J Muth',16.43,False
+Warrior's Honor,Instant,None,Visions,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'D. Alexander Gregory',0.08,False
+Zhalfirin Crusader,Creature,Human Knight,Visions,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Rabinowitz',0.59,False
+Betrayal,Enchantment,Aura,Visions,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Gary Leach',0.21,False
+Breezekeeper,Creature,Djinn,Visions,Common,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Rex',0.1,False
+Chronatog,Creature,Atog,Visions,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Rush',1.22,False
+Cloud Elemental,Creature,Elemental,Visions,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',0.06,False
+Desertion,Instant,None,Visions,Rare,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Kane Ferguson',2.66,False
+Dream Tides,Enchantment,None,Visions,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jerry Tiritilli',0.73,False
+Flooded Shoreline,Enchantment,None,Visions,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Romas Kukalis',0.72,False
+Foreshadow,Instant,None,Visions,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'George Pratt',0.15,False
+Impulse,Instant,None,Visions,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Bryan Talbot',0.41,False
+Inspiration,Instant,None,Visions,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Zina Saunders',0.09,False
+Knight of the Mists,Creature,Human Knight,Visions,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Harold McNeill',0.09,False
+Man-o'-War,Creature,Jellyfish,Visions,Common,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jon J Muth',0.17,False
+Mystic Veil,Enchantment,Aura,Visions,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'D. Alexander Gregory',0.15,False
+Ovinomancer,Creature,Human Wizard,Visions,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.17,False
+Prosperity,Sorcery,None,Visions,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',1.07,False
+Rainbow Efreet,Creature,Efreet,Visions,Rare,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Nathalie Hertz',0.75,False
+Shimmering Efreet,Creature,Efreet,Visions,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas Gianni',0.18,False
+Shrieking Drake,Creature,Drake,Visions,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ian Miller',1.47,False
+Teferi's Realm,World Enchantment,None,Visions,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Rabinowitz',1.74,False
+Three Wishes,Instant,None,Visions,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'George Pratt',1.2,False
+Time and Tide,Instant,None,Visions,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'George Pratt',0.22,False
+Undo,Sorcery,None,Visions,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.13,False
+Vanishing,Enchantment,Aura,Visions,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'John Matson',0.49,False
+Vision Charm,Instant,None,Visions,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Spalenka',0.18,False
+Waterspout Djinn,Creature,Djinn,Visions,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Thomas Gianni',0.14,False
+Aku Djinn,Creature,Djinn,Visions,Rare,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.69,False
+Blanket of Night,Enchantment,None,Visions,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Cliff Nielsen',0.44,False
+Brood of Cockroaches,Creature,Insect,Visions,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Geofrey Darrow',0.35,False
+Coercion,Sorcery,None,Visions,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'DiTerlizzi',0.11,False
+Crypt Rats,Creature,Rat,Visions,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Paul Lee',0.51,False
+Dark Privilege,Enchantment,Aura,Visions,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Tom Kyffin',0.32,False
+Death Watch,Enchantment,Aura,Visions,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brian Horton',0.14,False
+Desolation,Enchantment,None,Visions,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'George Pratt',0.66,False
+Fallen Askari,Creature,Human Knight,Visions,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Adrian Smith',0.11,False
+Forbidden Ritual,Sorcery,None,Visions,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Rush',0.75,False
+Funeral Charm,Instant,None,Visions,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Spalenka',0.44,False
+Infernal Harvest,Sorcery,None,Visions,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Nathalie Hertz',0.09,False
+Kaervek's Spite,Instant,None,Visions,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Bryan Talbot',0.69,False
+Necromancy,Enchantment,None,Visions,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',18.67,False
+Necrosavant,Creature,Zombie Giant,Visions,Rare,6,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Coulthart',0.22,False
+Nekrataal,Creature,Human Assassin,Visions,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Adrian Smith',0.26,False
+Pillar Tombs of Aku,World Enchantment,None,Visions,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.4,False
+Python,Creature,Snake,Visions,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Steve White',0.06,False
+Suq'Ata Assassin,Creature,Human Assassin,Visions,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Gary Gianni',0.24,False
+Tar Pit Warrior,Creature,Cyclops Warrior,Visions,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'George Pratt',0.12,False
+Urborg Mindsucker,Creature,Horror,Visions,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'DiTerlizzi',0.08,False
+Vampiric Tutor,Instant,None,Visions,Rare,1,Black,Not Legal,Not Legal,Legal,Restrict.,Banned,True,b'Gary Leach',94.94,False
+Vampirism,Enchantment,Aura,Visions,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Gary Leach',0.15,False
+Wake of Vultures,Creature,Bird,Visions,Common,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.09,False
+Wicked Reward,Instant,None,Visions,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'D. Alexander Gregory',0.06,False
+Bogardan Phoenix,Creature,Phoenix,Visions,Rare,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,"b""David O'Connor""",0.38,False
+Dwarven Vigilantes,Creature,Dwarf,Visions,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.09,False
+Elkin Lair,World Enchantment,None,Visions,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jerry Tiritilli',0.88,False
+Fireblast,Instant,None,Visions,Common,6,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Danza',1.06,False
+Goblin Recruiter,Creature,Goblin,Visions,Uncommon,2,Red,Not Legal,Not Legal,Legal,Legal,Banned,True,b'Scott Kirschner',6.38,False
+Goblin Swine-Rider,Creature,Goblin,Visions,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Geofrey Darrow',0.1,False
+Hearth Charm,Instant,None,Visions,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Spalenka',0.09,False
+Heat Wave,Enchantment,None,Visions,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Rabinowitz',0.22,False
+Hulking Cyclops,Creature,Cyclops,Visions,Uncommon,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'DiTerlizzi',0.06,False
+Keeper of Kookus,Creature,Goblin,Visions,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott Hampton',0.15,False
+Kookus,Creature,Djinn,Visions,Rare,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott Hampton',0.37,False
+Lightning Cloud,Enchantment,None,Visions,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'John Matson',0.46,False
+Mob Mentality,Enchantment,Aura,Visions,Uncommon,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Douglas Shuler',0.31,False
+Ogre Enforcer,Creature,Ogre,Visions,Rare,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.35,False
+Raging Gorilla,Creature,Ape,Visions,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Tom Kyffin',0.1,False
+Relentless Assault,Sorcery,None,Visions,Rare,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Geofrey Darrow',1.22,False
+Rock Slide,Instant,None,Visions,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Kerr',0.08,False
+Solfatara,Instant,None,Visions,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Omaha P\xc3\xa9rez',0.1,False
+Song of Blood,Sorcery,None,Visions,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Eric Peterson',0.11,False
+Spitting Drake,Creature,Drake,Visions,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Geofrey Darrow',0.09,False
+Suq'Ata Lancer,Creature,Human Knight,Visions,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Miracola',0.1,False
+Talruum Champion,Creature,Minotaur,Visions,Common,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.09,False
+Talruum Piper,Creature,Minotaur,Visions,Uncommon,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.19,False
+Tremor,Sorcery,None,Visions,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Danza',0.06,False
+Viashino Sandstalker,Creature,Viashino Warrior,Visions,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Robinson',0.15,False
+Bull Elephant,Creature,Elephant,Visions,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Steve White',0.08,False
+City of Solitude,Enchantment,None,Visions,Rare,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Romas Kukalis',14.0,False
+Creeping Mold,Sorcery,None,Visions,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'David Seeley',0.21,False
+Elephant Grass,Enchantment,None,Visions,Uncommon,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Tony Roberts',1.61,False
+Elven Cache,Sorcery,None,Visions,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Matson',0.1,False
+Emerald Charm,Instant,None,Visions,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Spalenka',0.23,False
+Feral Instinct,Instant,None,Visions,Common,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Una Fricker',0.15,False
+Giant Caterpillar,Creature,Insect,Visions,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Zina Saunders',0.08,False
+Katabatic Winds,Enchantment,None,Visions,Rare,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Gary Gianni',0.68,False
+King Cheetah,Creature,Cat,Visions,Common,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.11,False
+Kyscu Drake,Creature,Drake,Visions,Uncommon,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Geofrey Darrow',0.11,False
+Lichenthrope,Creature,Plant Fungus,Visions,Rare,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Bob Eggleton',0.35,False
+Mortal Wound,Enchantment,Aura,Visions,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.08,False
+Natural Order,Sorcery,None,Visions,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',18.09,False
+Panther Warriors,Creature,Cat Warrior,Visions,Common,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Cecil Fernando',0.1,False
+Quirion Druid,Creature,Elf Druid,Visions,Rare,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'John Matson',0.63,False
+Quirion Ranger,Creature,Elf,Visions,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Tom Kyffin',2.95,False
+River Boa,Creature,Snake,Visions,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve White',0.23,False
+Rowen,Enchantment,None,Visions,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jon J Muth',0.31,False
+Spider Climb,Enchantment,Aura,Visions,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.1,False
+Stampeding Wildebeests,Creature,Antelope Beast,Visions,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.2,False
+Summer Bloom,Sorcery,None,Visions,Uncommon,2,Green,Banned,Not Legal,Legal,Legal,Legal,True,b'Nicola Leonard',1.12,False
+Uktabi Orangutan,Creature,Ape,Visions,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Una Fricker',0.26,False
+Warthog,Creature,Boar,Visions,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Steve White',0.1,False
+Wind Shear,Instant,None,Visions,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'John Matson',0.09,False
+Army Ants,Creature,Insect,Visions,Uncommon,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Geofrey Darrow',0.42,False
+Breathstealer's Crypt,Enchantment,None,Visions,Rare,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Blackie del Rio',4.15,False
+Corrosion,Enchantment,None,Visions,Rare,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Danza',0.42,False
+Femeref Enchantress,Creature,Human Druid,Visions,Rare,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'D. Alexander Gregory',3.65,False
+Firestorm Hellkite,Creature,Dragon,Visions,Rare,6,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.38,False
+Guiding Spirit,Creature,Angel Spirit,Visions,Rare,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.87,False
+Mundungu,Creature,Human Wizard,Visions,Uncommon,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.28,False
+Pygmy Hippo,Creature,Hippo,Visions,Rare,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Steve White',0.94,False
+Righteous War,Enchantment,None,Visions,Rare,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ian Miller',1.07,False
+Scalebane's Elite,Creature,Human Soldier,Visions,Uncommon,5,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Luke',0.1,False
+Simoon,Instant,None,Visions,Uncommon,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.14,False
+Squandered Resources,Enchantment,None,Visions,Rare,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Romas Kukalis',13.99,False
+Suleiman's Legacy,Enchantment,None,Visions,Rare,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kaja Foglio',0.65,False
+Tempest Drake,Creature,Drake,Visions,Uncommon,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Gerry Grace',0.17,False
+Viashivan Dragon,Creature,Dragon,Visions,Rare,6,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ian Miller',0.73,False
+Anvil of Bogardan,Artifact,None,Visions,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Roger Raupp',24.11,False
+Brass-Talon Chimera,Artifact Creature,Chimera,Visions,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Dringenberg',0.15,False
+Diamond Kaleidoscope,Artifact,None,Visions,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.46,False
+Dragon Mask,Artifact,None,Visions,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Craig Hooper',0.16,False
+Helm of Awakening,Artifact,None,Visions,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Adam Rex',3.49,False
+Iron-Heart Chimera,Artifact Creature,Chimera,Visions,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Dringenberg',0.18,False
+Juju Bubble,Artifact,None,Visions,Uncommon,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Donato Giancola',0.23,False
+Lead-Belly Chimera,Artifact Creature,Chimera,Visions,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Dringenberg',0.19,False
+Magma Mine,Artifact,None,Visions,Uncommon,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.17,False
+Matopi Golem,Artifact Creature,Golem,Visions,Uncommon,5,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Tom Kyffin',0.17,False
+Phyrexian Marauder,Artifact Creature,Construct,Visions,Rare,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'David Seeley',0.91,False
+Phyrexian Walker,Artifact Creature,Construct,Visions,Common,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Bryan Talbot',0.57,False
+Sands of Time,Artifact,None,Visions,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Paul Lee',1.21,False
+Sisay's Ring,Artifact,None,Visions,Common,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.64,False
+Snake Basket,Artifact,None,Visions,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Roger Raupp',1.12,False
+Teferi's Puzzle Box,Artifact,None,Visions,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',7.38,False
+Tin-Wing Chimera,Artifact Creature,Chimera,Visions,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Dringenberg',0.18,False
+Triangle of War,Artifact,None,Visions,Rare,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ian Miller',0.68,False
+Wand of Denial,Artifact,None,Visions,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Luke',0.24,False
+Coral Atoll,Land,None,Visions,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.43,False
+Dormant Volcano,Land,None,Visions,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.27,False
+Everglades,Land,None,Visions,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Bob Eggleton',0.38,False
+Griffin Canyon,Land,None,Visions,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Stuart Griffin',1.52,False
+Jungle Basin,Land,None,Visions,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.33,False
+Karoo,Land,None,Visions,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Zina Saunders',0.43,False
+Quicksand,Land,None,Visions,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Roger Raupp',0.26,False
+Undiscovered Paradise,Land,None,Visions,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,"b""David O'Connor""",6.26,False

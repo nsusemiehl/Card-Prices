@@ -1,144 +1,144 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Aura Blast,Instant,None,Planeshift,Common,2,White,False,False,True,False,b'Ron Walotsky',0.22
-Aurora Griffin,Creature,Griffin,Planeshift,Common,4,White,False,False,True,False,b'Ciruelo',0.07
-Disciple of Kangee,Creature,Human Wizard,Planeshift,Common,3,White,False,False,True,False,b'Wayne England',0.08
-Dominaria's Judgment,Instant,None,Planeshift,Rare,3,White,False,False,True,False,b'John Avon',0.28
-Guard Dogs,Creature,Hound,Planeshift,Uncommon,4,White,False,False,True,False,b'Mike Raabe',0.08
-Heroic Defiance,Enchantment,Aura,Planeshift,Common,2,White,False,False,True,False,b'Terese Nielsen',0.04
-Hobble,Enchantment,Aura,Planeshift,Common,3,White,False,False,True,False,b'Alan Pollack',0.09
-Honorable Scout,Creature,Human Soldier Scout,Planeshift,Common,1,White,False,False,True,False,b'Mike Ploog',0.07
-Lashknife Barrier,Enchantment,None,Planeshift,Uncommon,3,White,False,False,True,True,b'Paolo Parente',0.16
-March of Souls,Sorcery,None,Planeshift,Rare,5,White,False,False,True,False,b'Marc Fishman',0.74
-Orim's Chant,Instant,None,Planeshift,Rare,1,White,False,False,True,True,b'Kev Walker',11.05
-Planeswalker's Mirth,Enchantment,None,Planeshift,Rare,3,White,False,False,True,False,b'John Matson',0.23
-Pollen Remedy,Instant,None,Planeshift,Common,1,White,False,False,True,False,b'Ben Thompson',0.04
-Samite Elder,Creature,Human Cleric,Planeshift,Rare,3,White,False,False,True,False,b'Terese Nielsen',0.29
-Samite Pilgrim,Creature,Human Cleric,Planeshift,Common,2,White,False,False,True,False,b'D. J. Cleland-Hura',0.07
-Sunscape Battlemage,Creature,Human Wizard,Planeshift,Uncommon,3,White,False,False,True,True,b'Tony Szczudlo',0.14
-Sunscape Familiar,Creature,Wall,Planeshift,Common,2,White,False,False,True,False,b'Brian Despain',1.02
-Surprise Deployment,Instant,None,Planeshift,Uncommon,4,White,False,False,True,False,b'Bradley Williams',0.19
-Voice of All,Creature,Angel,Planeshift,Uncommon,4,White,True,False,True,True,b'rk post',0.24
-Allied Strategies,Sorcery,None,Planeshift,Uncommon,5,Blue,False,False,True,True,b'Paolo Parente',0.11
-Arctic Merfolk,Creature,Merfolk,Planeshift,Common,2,Blue,False,False,True,False,b'Ron Spears',0.19
-Confound,Instant,None,Planeshift,Common,2,Blue,False,False,True,False,b'Doug Chaffee',0.15
-Dralnu's Pet,Creature,Shapeshifter,Planeshift,Rare,3,Blue,False,False,True,False,b'Glen Angus',0.25
-Ertai's Trickery,Instant,None,Planeshift,Uncommon,1,Blue,False,False,True,False,b'Kev Walker',0.03
-Escape Routes,Enchantment,None,Planeshift,Common,3,Blue,False,False,True,False,b'Marc Fishman',0.11
-Gainsay,Instant,None,Planeshift,Uncommon,2,Blue,True,False,True,True,b'Roger Raupp',0.16
-Hunting Drake,Creature,Drake,Planeshift,Common,5,Blue,False,False,True,False,b'Wayne England',0.1
-Planar Overlay,Sorcery,None,Planeshift,Rare,3,Blue,False,False,True,False,b'Ron Walotsky',0.16
-Planeswalker's Mischief,Enchantment,None,Planeshift,Rare,3,Blue,False,False,True,False,b'Pete Venters',0.2
-Rushing River,Instant,None,Planeshift,Common,3,Blue,False,False,True,True,b'Don Hazeltine',0.14
-Sea Snidd,Creature,Beast,Planeshift,Common,5,Blue,False,False,True,False,b'Chippy',0.09
-Shifting Sky,Enchantment,None,Planeshift,Uncommon,3,Blue,True,False,True,True,b'Jerry Tiritilli',0.21
-Sisay's Ingenuity,Enchantment,Aura,Planeshift,Common,1,Blue,False,False,True,False,b'Paolo Parente',0.13
-Sleeping Potion,Enchantment,Aura,Planeshift,Common,2,Blue,False,False,True,False,b'Daren Bader',0.1
-Stormscape Battlemage,Creature,Metathran Wizard,Planeshift,Uncommon,3,Blue,False,False,True,True,b'Christopher Moeller',0.19
-Stormscape Familiar,Creature,Bird,Planeshift,Common,2,Blue,True,False,True,True,b'Heather Hudson',0.16
-Sunken Hope,Enchantment,None,Planeshift,Rare,5,Blue,True,False,True,True,b'Greg Staples',0.28
-Waterspout Elemental,Creature,Elemental,Planeshift,Rare,5,Blue,False,False,True,False,b'Mark Romanoski',0.13
-Bog Down,Sorcery,None,Planeshift,Common,3,Black,False,False,True,False,b'Andrew Goldhawk',0.04
-Dark Suspicions,Enchantment,None,Planeshift,Rare,4,Black,False,False,True,False,b'Matt Cavotta',0.28
-Death Bomb,Instant,None,Planeshift,Common,4,Black,False,False,True,False,b'Dan Frazier',0.09
-Diabolic Intent,Sorcery,None,Planeshift,Rare,2,Black,False,False,True,True,b'Dave Dorman',19.56
-Exotic Disease,Sorcery,None,Planeshift,Uncommon,5,Black,False,False,True,False,b'Kev Walker',0.09
-Lord of the Undead,Creature,Zombie,Planeshift,Rare,3,Black,True,False,True,True,b'Brom',11.53
-Maggot Carrier,Creature,Zombie,Planeshift,Common,1,Black,True,False,True,True,b'Ron Spencer',0.09
-Morgue Toad,Creature,Frog,Planeshift,Common,3,Black,False,False,True,True,b'Franz Vohwinkel',0.06
-Nightscape Battlemage,Creature,Zombie Wizard,Planeshift,Uncommon,3,Black,False,False,True,True,b'Andrew Goldhawk',0.18
-Nightscape Familiar,Creature,Zombie,Planeshift,Common,2,Black,False,False,True,True,b'Jeff Easley',0.28
-Noxious Vapors,Sorcery,None,Planeshift,Uncommon,3,Black,False,False,True,False,b'Ben Thompson',0.14
-Phyrexian Bloodstock,Creature,Zombie,Planeshift,Common,5,Black,False,False,True,False,b'Mark Tedin',0.07
-Phyrexian Scuta,Creature,Zombie,Planeshift,Rare,4,Black,False,False,True,True,b'Scott M. Fischer',0.34
-Planeswalker's Scorn,Enchantment,None,Planeshift,Rare,3,Black,False,False,True,False,b'Glen Angus',0.17
-Shriek of Dread,Instant,None,Planeshift,Common,2,Black,False,False,True,False,b'Nelson DeCastro',0.07
-Sinister Strength,Enchantment,Aura,Planeshift,Common,2,Black,False,False,True,False,b'Terese Nielsen',0.09
-Slay,Instant,None,Planeshift,Uncommon,3,Black,True,False,True,True,b'Ben Thompson',0.24
-Volcano Imp,Creature,Imp,Planeshift,Common,4,Black,False,False,True,False,b'Thomas M. Baxa',0.05
-Warped Devotion,Enchantment,None,Planeshift,Uncommon,3,Black,True,False,True,True,b'Dany Orizio',0.31
-Caldera Kavu,Creature,Kavu,Planeshift,Common,3,Red,False,False,True,False,b'Arnie Swekel',0.08
-Deadapult,Enchantment,None,Planeshift,Rare,3,Red,False,False,True,False,b'Mark Brill',0.13
-Flametongue Kavu,Creature,Kavu,Planeshift,Uncommon,4,Red,False,False,True,True,b'Pete Venters',0.36
-Goblin Game,Sorcery,None,Planeshift,Rare,7,Red,False,False,True,True,b'DiTerlizzi',2.29
-Implode,Sorcery,None,Planeshift,Uncommon,5,Red,False,False,True,False,b'Arnie Swekel',0.17
-Insolence,Enchantment,Aura,Planeshift,Common,3,Red,False,False,True,False,b'Carl Critchlow',0.05
-Kavu Recluse,Creature,Kavu,Planeshift,Common,3,Red,False,False,True,False,b'Aaron Boyd',0.07
-Keldon Mantle,Enchantment,Aura,Planeshift,Common,2,Red,False,False,True,True,b'Rebecca Guay',0.09
-Magma Burst,Instant,None,Planeshift,Common,4,Red,False,False,True,False,b'Bradley Williams',0.05
-Mire Kavu,Creature,Kavu,Planeshift,Common,4,Red,False,False,True,False,b'Wayne England',0.1
-Mogg Jailer,Creature,Goblin,Planeshift,Uncommon,2,Red,False,False,True,False,b'Mark Romanoski',0.05
-Mogg Sentry,Creature,Goblin Warrior,Planeshift,Rare,1,Red,True,False,True,True,"b'Edward P. Beard, Jr.'",0.43
-Planeswalker's Fury,Enchantment,None,Planeshift,Rare,3,Red,False,False,True,False,b'Christopher Moeller',0.25
-Singe,Instant,None,Planeshift,Common,1,Red,False,False,True,False,b'John Avon',0.03
-Slingshot Goblin,Creature,Goblin,Planeshift,Common,3,Red,False,False,True,False,b'Jeff Easley',0.07
-Strafe,Sorcery,None,Planeshift,Uncommon,1,Red,False,False,True,False,b'Jim Nelson',0.15
-"Tahngarth, Talruum Hero",Legendary Creature,Minotaur Warrior,Planeshift,Rare,5,Red,False,False,True,True,b'Dave Dorman',1.04
-Thunderscape Battlemage,Creature,Human Wizard,Planeshift,Uncommon,3,Red,False,False,True,True,b'Mike Ploog',0.16
-Thunderscape Familiar,Creature,Kavu,Planeshift,Common,2,Red,False,False,True,False,b'Daren Bader',0.13
-Alpha Kavu,Creature,Kavu,Planeshift,Uncommon,3,Green,False,False,True,False,b'Matt Cavotta',0.08
-Amphibious Kavu,Creature,Kavu,Planeshift,Common,3,Green,False,False,True,False,b'Wayne England',0.09
-Falling Timber,Instant,None,Planeshift,Common,3,Green,False,False,True,False,b'Eric Peterson',0.05
-Gaea's Herald,Creature,Elf,Planeshift,Rare,2,Green,True,False,True,True,b'Dan Frazier',1.01
-Gaea's Might,Instant,None,Planeshift,Common,1,Green,False,False,True,False,b'Ron Spencer',0.09
-Magnigoth Treefolk,Creature,Treefolk,Planeshift,Rare,5,Green,False,False,True,False,b'Peter Bollinger',0.31
-Mirrorwood Treefolk,Creature,Treefolk,Planeshift,Uncommon,4,Green,False,False,True,False,b'Arnie Swekel',0.07
-Multani's Harmony,Enchantment,Aura,Planeshift,Uncommon,1,Green,False,False,True,False,b'Darrell Riche',0.24
-"Nemata, Grove Guardian",Legendary Creature,Treefolk,Planeshift,Rare,6,Green,False,False,True,False,b'John Avon',3.04
-Planeswalker's Favor,Enchantment,None,Planeshift,Rare,3,Green,False,False,True,False,b'Rebecca Guay',0.27
-Primal Growth,Sorcery,None,Planeshift,Common,3,Green,False,False,True,True,b'rk post',0.9
-Pygmy Kavu,Creature,Kavu,Planeshift,Common,4,Green,False,False,True,False,b'Greg Staples',0.08
-Quirion Dryad,Creature,Dryad,Planeshift,Rare,2,Green,True,False,True,True,b'Don Hazeltine',0.26
-Quirion Explorer,Creature,Elf Druid Scout,Planeshift,Common,2,Green,False,False,True,True,b'Ron Spears',0.1
-Root Greevil,Creature,Beast,Planeshift,Common,4,Green,False,False,True,False,b'Andrew Robinson',0.06
-Skyshroud Blessing,Instant,None,Planeshift,Uncommon,2,Green,False,False,True,False,b'Jerry Tiritilli',0.15
-Stone Kavu,Creature,Kavu,Planeshift,Common,5,Green,False,False,True,False,b'Adam Rex',0.04
-Thornscape Battlemage,Creature,Elf Wizard,Planeshift,Uncommon,3,Green,True,False,True,True,b'Matt Cavotta',0.13
-Thornscape Familiar,Creature,Insect,Planeshift,Common,2,Green,False,False,True,False,b'Heather Hudson',0.15
-Ancient Spider,Creature,Spider,Planeshift,Rare,4,Gold,False,False,True,False,b'Greg Staples',0.29
-Cavern Harpy,Creature,Harpy Beast,Planeshift,Common,2,Gold,False,False,True,False,b'Daren Bader',0.26
-Cloud Cover,Enchantment,None,Planeshift,Rare,4,Gold,False,False,True,False,b'Marc Fishman',1.98
-Crosis's Charm,Instant,None,Planeshift,Uncommon,3,Gold,False,False,True,True,b'David Martin',0.31
-Darigaaz's Charm,Instant,None,Planeshift,Uncommon,3,Gold,False,False,True,True,b'David Martin',0.19
-Daring Leap,Instant,None,Planeshift,Common,3,Gold,False,False,True,False,b'Paolo Parente',0.05
-Destructive Flow,Enchantment,None,Planeshift,Rare,3,Gold,False,False,True,False,b'Don Hazeltine',0.55
-Doomsday Specter,Creature,Specter,Planeshift,Rare,4,Gold,False,False,True,True,b'Donato Giancola',0.73
-Dralnu's Crusade,Enchantment,None,Planeshift,Rare,3,Gold,False,False,True,False,b'Arnie Swekel',0.43
-Dromar's Charm,Instant,None,Planeshift,Uncommon,3,Gold,False,False,True,True,b'David Martin',0.24
-Eladamri's Call,Instant,None,Planeshift,Rare,2,Gold,True,False,True,True,b'Kev Walker',3.36
-"Ertai, the Corrupted",Legendary Creature,Human Wizard,Planeshift,Rare,5,Gold,False,False,True,True,b'Mark Tedin',3.36
-Fleetfoot Panther,Creature,Cat,Planeshift,Uncommon,3,Gold,False,False,True,True,b'Mark Brill',0.35
-Gerrard's Command,Instant,None,Planeshift,Common,2,Gold,False,False,True,True,b'Roger Raupp',0.09
-Horned Kavu,Creature,Kavu,Planeshift,Common,2,Gold,False,False,True,False,b'Michael Sutfin',0.16
-Hull Breach,Sorcery,None,Planeshift,Common,2,Gold,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.79
-Keldon Twilight,Enchantment,None,Planeshift,Rare,3,Gold,False,False,True,False,b'Franz Vohwinkel',0.37
-Lava Zombie,Creature,Zombie,Planeshift,Common,3,Gold,False,False,True,False,b'Tom W\xc3\xa4nerstrand',0.11
-Malicious Advice,Instant,None,Planeshift,Common,3,Gold,False,False,True,False,b'Glen Angus',0.09
-Marsh Crocodile,Creature,Crocodile,Planeshift,Uncommon,4,Gold,False,False,True,True,b'Kev Walker',0.1
-Meddling Mage,Creature,Human Wizard,Planeshift,Rare,2,Gold,True,False,True,True,b'Christopher Moeller',11.37
-Natural Emergence,Enchantment,None,Planeshift,Rare,4,Gold,False,False,True,False,b'Heather Hudson',0.17
-Phyrexian Tyranny,Enchantment,None,Planeshift,Rare,3,Gold,False,False,True,False,b'Kev Walker',3.94
-Questing Phelddagrif,Creature,Phelddagrif,Planeshift,Rare,4,Gold,False,False,True,True,b'Matt Cavotta',1.3
-Radiant Kavu,Creature,Kavu,Planeshift,Rare,3,Gold,False,False,True,False,b'Ron Spencer',0.15
-Razing Snidd,Creature,Beast,Planeshift,Uncommon,6,Gold,False,False,True,False,b'Alan Pollack',0.15
-Rith's Charm,Instant,None,Planeshift,Uncommon,3,Gold,False,False,True,True,b'David Martin',0.2
-Sawtooth Loon,Creature,Bird,Planeshift,Uncommon,4,Gold,False,False,True,True,b'Heather Hudson',0.2
-Shivan Wurm,Creature,Wurm,Planeshift,Rare,5,Gold,False,False,True,True,b'Scott M. Fischer',0.57
-Silver Drake,Creature,Drake,Planeshift,Common,3,Gold,False,False,True,True,b'Alan Pollack',0.11
-Sparkcaster,Creature,Kavu,Planeshift,Uncommon,4,Gold,False,False,True,False,b'Adam Rex',0.22
-Steel Leaf Paladin,Creature,Elf Knight,Planeshift,Common,6,Gold,False,False,True,False,b'Paolo Parente',0.08
-Terminate,Instant,None,Planeshift,Common,2,Gold,True,False,True,True,b'DiTerlizzi',0.65
-Treva's Charm,Instant,None,Planeshift,Uncommon,3,Gold,False,False,True,True,b'David Martin',0.19
-Urza's Guilt,Sorcery,None,Planeshift,Rare,4,Gold,False,False,True,False,b'Paolo Parente',0.43
-Draco,Artifact Creature,Dragon,Planeshift,Rare,2,Colorless,False,False,True,True,b'Sam Wood',3.11
-Mana Cylix,Artifact,None,Planeshift,Uncommon,1,Colorless,True,False,True,True,b'Donato Giancola',0.17
-Skyship Weatherlight,Legendary Artifact,None,Planeshift,Rare,4,Colorless,False,False,True,True,b'Mark Tedin',1.74
-Star Compass,Artifact,None,Planeshift,Uncommon,2,Colorless,True,False,True,True,b'Donato Giancola',1.27
-Stratadon,Artifact Creature,Beast,Planeshift,Uncommon,1,Colorless,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.1
-Crosis's Catacombs,Land,Lair,Planeshift,Uncommon,0,Colorless,False,False,True,False,"b'Edward P. Beard, Jr.'",1.4
-Darigaaz's Caldera,Land,Lair,Planeshift,Uncommon,0,Colorless,False,False,True,True,b'Franz Vohwinkel',1.06
-Dromar's Cavern,Land,Lair,Planeshift,Uncommon,0,Colorless,False,False,True,False,b'Franz Vohwinkel',0.7
-Forsaken City,Land,None,Planeshift,Rare,0,Colorless,False,False,True,False,b'Dana Knutson',1.21
-Meteor Crater,Land,None,Planeshift,Rare,0,Colorless,False,False,True,False,b'John Avon',2.4
-Rith's Grove,Land,Lair,Planeshift,Uncommon,0,Colorless,False,False,True,False,b'Scott Bailey',0.49
-Terminal Moraine,Land,None,Planeshift,Uncommon,0,Colorless,False,False,True,False,b'Scott Bailey',1.69
-Treva's Ruins,Land,Lair,Planeshift,Uncommon,0,Colorless,False,False,True,True,b'Jerry Tiritilli',1.16
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Aura Blast,Instant,None,Planeshift,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Walotsky',0.24,False
+Aurora Griffin,Creature,Griffin,Planeshift,Common,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ciruelo',0.07,False
+Disciple of Kangee,Creature,Human Wizard,Planeshift,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne England',0.08,False
+Dominaria's Judgment,Instant,None,Planeshift,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.27,False
+Guard Dogs,Creature,Dog,Planeshift,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Raabe',0.15,False
+Heroic Defiance,Enchantment,Aura,Planeshift,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.05,False
+Hobble,Enchantment,Aura,Planeshift,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Pollack',0.1,False
+Honorable Scout,Creature,Human Soldier Scout,Planeshift,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Ploog',0.07,False
+Lashknife Barrier,Enchantment,None,Planeshift,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.19,False
+March of Souls,Sorcery,None,Planeshift,Rare,5,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Marc Fishman',0.74,False
+Orim's Chant,Instant,None,Planeshift,Rare,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',15.13,False
+Planeswalker's Mirth,Enchantment,None,Planeshift,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'John Matson',0.23,False
+Pollen Remedy,Instant,None,Planeshift,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ben Thompson',0.04,False
+Samite Elder,Creature,Human Cleric,Planeshift,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.34,False
+Samite Pilgrim,Creature,Human Cleric,Planeshift,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'D. J. Cleland-Hura',0.1,False
+Sunscape Battlemage,Creature,Human Wizard,Planeshift,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Tony Szczudlo',0.14,False
+Sunscape Familiar,Creature,Wall,Planeshift,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brian Despain',0.92,False
+Surprise Deployment,Instant,None,Planeshift,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Bradley Williams',0.19,False
+Voice of All,Creature,Angel,Planeshift,Uncommon,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',0.27,False
+Allied Strategies,Sorcery,None,Planeshift,Uncommon,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Paolo Parente',0.1,False
+Arctic Merfolk,Creature,Merfolk,Planeshift,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spears',0.21,False
+Confound,Instant,None,Planeshift,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Doug Chaffee',0.15,False
+Dralnu's Pet,Creature,Shapeshifter,Planeshift,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Glen Angus',0.25,False
+Ertai's Trickery,Instant,None,Planeshift,Uncommon,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.17,False
+Escape Routes,Enchantment,None,Planeshift,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Marc Fishman',0.12,False
+Gainsay,Instant,None,Planeshift,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Roger Raupp',0.14,False
+Hunting Drake,Creature,Drake,Planeshift,Common,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne England',0.13,False
+Planar Overlay,Sorcery,None,Planeshift,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Walotsky',0.16,False
+Planeswalker's Mischief,Enchantment,None,Planeshift,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.23,False
+Rushing River,Instant,None,Planeshift,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Don Hazeltine',0.16,False
+Sea Snidd,Creature,Beast,Planeshift,Common,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Chippy',0.09,False
+Shifting Sky,Enchantment,None,Planeshift,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jerry Tiritilli',0.21,False
+Sisay's Ingenuity,Enchantment,Aura,Planeshift,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.13,False
+Sleeping Potion,Enchantment,Aura,Planeshift,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.11,False
+Stormscape Battlemage,Creature,Metathran Wizard,Planeshift,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',0.17,False
+Stormscape Familiar,Creature,Bird,Planeshift,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.16,False
+Sunken Hope,Enchantment,None,Planeshift,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.27,False
+Waterspout Elemental,Creature,Elemental,Planeshift,Rare,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Romanoski',0.13,False
+Bog Down,Sorcery,None,Planeshift,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Andrew Goldhawk',0.06,False
+Dark Suspicions,Enchantment,None,Planeshift,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.29,False
+Death Bomb,Instant,None,Planeshift,Common,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Frazier',0.09,False
+Diabolic Intent,Sorcery,None,Planeshift,Rare,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Dorman',24.23,False
+Exotic Disease,Sorcery,None,Planeshift,Uncommon,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.11,False
+Lord of the Undead,Creature,Zombie,Planeshift,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Brom',11.31,False
+Maggot Carrier,Creature,Zombie,Planeshift,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.09,False
+Morgue Toad,Creature,Frog,Planeshift,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',0.08,False
+Nightscape Battlemage,Creature,Zombie Wizard,Planeshift,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Andrew Goldhawk',0.19,False
+Nightscape Familiar,Creature,Zombie,Planeshift,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Easley',0.29,False
+Noxious Vapors,Sorcery,None,Planeshift,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ben Thompson',0.18,False
+Phyrexian Bloodstock,Creature,Zombie,Planeshift,Common,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',0.07,False
+Phyrexian Scuta,Creature,Zombie,Planeshift,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',0.37,False
+Planeswalker's Scorn,Enchantment,None,Planeshift,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Glen Angus',0.17,False
+Shriek of Dread,Instant,None,Planeshift,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Nelson DeCastro',0.07,False
+Sinister Strength,Enchantment,Aura,Planeshift,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Terese Nielsen',0.12,False
+Slay,Instant,None,Planeshift,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Ben Thompson',0.21,False
+Volcano Imp,Creature,Imp,Planeshift,Common,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Thomas M. Baxa',0.05,False
+Warped Devotion,Enchantment,None,Planeshift,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Dany Orizio',0.31,False
+Caldera Kavu,Creature,Kavu,Planeshift,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Arnie Swekel',0.07,False
+Deadapult,Enchantment,None,Planeshift,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Brill',0.16,False
+Flametongue Kavu,Creature,Kavu,Planeshift,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.36,False
+Goblin Game,Sorcery,None,Planeshift,Rare,7,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'DiTerlizzi',2.2,False
+Implode,Sorcery,None,Planeshift,Uncommon,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Arnie Swekel',0.17,False
+Insolence,Enchantment,Aura,Planeshift,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.07,False
+Kavu Recluse,Creature,Kavu,Planeshift,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Aaron Boyd',0.08,False
+Keldon Mantle,Enchantment,Aura,Planeshift,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',0.11,False
+Magma Burst,Instant,None,Planeshift,Common,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Bradley Williams',0.05,False
+Mire Kavu,Creature,Kavu,Planeshift,Common,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne England',0.11,False
+Mogg Jailer,Creature,Goblin,Planeshift,Uncommon,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Romanoski',0.07,False
+Mogg Sentry,Creature,Goblin Warrior,Planeshift,Rare,1,Red,Legal,Not Legal,Legal,Legal,Legal,True,"b'Edward P. Beard, Jr.'",0.42,False
+Planeswalker's Fury,Enchantment,None,Planeshift,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Moeller',0.26,False
+Singe,Instant,None,Planeshift,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.06,False
+Slingshot Goblin,Creature,Goblin,Planeshift,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Easley',0.07,False
+Strafe,Sorcery,None,Planeshift,Uncommon,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jim Nelson',0.11,False
+Tahngarth Talruum Hero,Creature,Minotaur Warrior,Planeshift,Rare,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Dorman',1.05,True
+Thunderscape Battlemage,Creature,Human Wizard,Planeshift,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Ploog',0.15,False
+Thunderscape Familiar,Creature,Kavu,Planeshift,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.14,False
+Alpha Kavu,Creature,Kavu,Planeshift,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Cavotta',0.09,False
+Amphibious Kavu,Creature,Kavu,Planeshift,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne England',0.09,False
+Falling Timber,Instant,None,Planeshift,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Eric Peterson',0.05,False
+Gaea's Herald,Creature,Elf,Planeshift,Rare,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',1.03,False
+Gaea's Might,Instant,None,Planeshift,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.08,False
+Magnigoth Treefolk,Creature,Treefolk,Planeshift,Rare,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Peter Bollinger',0.31,False
+Mirrorwood Treefolk,Creature,Treefolk,Planeshift,Uncommon,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Arnie Swekel',0.1,False
+Multani's Harmony,Enchantment,Aura,Planeshift,Uncommon,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Darrell Riche',0.25,False
+Nemata Grove Guardian,Creature,Treefolk,Planeshift,Rare,6,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',2.75,True
+Planeswalker's Favor,Enchantment,None,Planeshift,Rare,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rebecca Guay',0.29,False
+Primal Growth,Sorcery,None,Planeshift,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',0.83,False
+Pygmy Kavu,Creature,Kavu,Planeshift,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.09,False
+Quirion Dryad,Creature,Dryad,Planeshift,Rare,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Don Hazeltine',0.3,False
+Quirion Explorer,Creature,Elf Druid Scout,Planeshift,Common,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spears',0.11,False
+Root Greevil,Creature,Beast,Planeshift,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Andrew Robinson',0.07,False
+Skyshroud Blessing,Instant,None,Planeshift,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jerry Tiritilli',0.16,False
+Stone Kavu,Creature,Kavu,Planeshift,Common,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Rex',0.04,False
+Thornscape Battlemage,Creature,Elf Wizard,Planeshift,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.12,False
+Thornscape Familiar,Creature,Insect,Planeshift,Common,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.17,False
+Ancient Spider,Creature,Spider,Planeshift,Rare,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.29,False
+Cavern Harpy,Creature,Harpy Beast,Planeshift,Common,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.29,False
+Cloud Cover,Enchantment,None,Planeshift,Rare,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Marc Fishman',1.89,False
+Crosis's Charm,Instant,None,Planeshift,Uncommon,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'David Martin',0.34,False
+Darigaaz's Charm,Instant,None,Planeshift,Uncommon,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'David Martin',0.19,False
+Daring Leap,Instant,None,Planeshift,Common,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.06,False
+Destructive Flow,Enchantment,None,Planeshift,Rare,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Don Hazeltine',0.55,False
+Doomsday Specter,Creature,Specter,Planeshift,Rare,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.74,False
+Dralnu's Crusade,Enchantment,None,Planeshift,Rare,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Arnie Swekel',0.41,False
+Dromar's Charm,Instant,None,Planeshift,Uncommon,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'David Martin',0.26,False
+Eladamri's Call,Instant,None,Planeshift,Rare,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',4.3,False
+Ertai the Corrupted,Creature,Human Wizard,Planeshift,Rare,5,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',3.47,True
+Fleetfoot Panther,Creature,Cat,Planeshift,Uncommon,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Brill',0.37,False
+Gerrard's Command,Instant,None,Planeshift,Common,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Roger Raupp',0.11,False
+Horned Kavu,Creature,Kavu,Planeshift,Common,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',0.16,False
+Hull Breach,Sorcery,None,Planeshift,Common,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.76,False
+Keldon Twilight,Enchantment,None,Planeshift,Rare,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Franz Vohwinkel',0.34,False
+Lava Zombie,Creature,Zombie,Planeshift,Common,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Tom W\xc3\xa4nerstrand',0.13,False
+Malicious Advice,Instant,None,Planeshift,Common,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Glen Angus',0.1,False
+Marsh Crocodile,Creature,Crocodile,Planeshift,Uncommon,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.1,False
+Meddling Mage,Creature,Human Wizard,Planeshift,Rare,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Moeller',9.91,False
+Natural Emergence,Enchantment,None,Planeshift,Rare,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.17,False
+Phyrexian Tyranny,Enchantment,None,Planeshift,Rare,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',3.67,False
+Questing Phelddagrif,Creature,Phelddagrif,Planeshift,Rare,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',1.22,False
+Radiant Kavu,Creature,Kavu,Planeshift,Rare,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.16,False
+Razing Snidd,Creature,Beast,Planeshift,Uncommon,6,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Alan Pollack',0.14,False
+Rith's Charm,Instant,None,Planeshift,Uncommon,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'David Martin',0.21,False
+Sawtooth Loon,Creature,Bird,Planeshift,Uncommon,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.22,False
+Shivan Wurm,Creature,Wurm,Planeshift,Rare,5,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',0.58,False
+Silver Drake,Creature,Drake,Planeshift,Common,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Alan Pollack',0.12,False
+Sparkcaster,Creature,Kavu,Planeshift,Uncommon,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Adam Rex',0.19,False
+Steel Leaf Paladin,Creature,Elf Knight,Planeshift,Common,6,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.08,False
+Terminate,Instant,None,Planeshift,Common,2,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'DiTerlizzi',0.66,False
+Treva's Charm,Instant,None,Planeshift,Uncommon,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'David Martin',0.22,False
+Urza's Guilt,Sorcery,None,Planeshift,Rare,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Paolo Parente',0.42,False
+Draco,Artifact Creature,Dragon,Planeshift,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Sam Wood',3.2,False
+Mana Cylix,Artifact,None,Planeshift,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.16,False
+Skyship Weatherlight,Artifact,None,Planeshift,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',1.72,True
+Star Compass,Artifact,None,Planeshift,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',1.26,False
+Stratadon,Artifact Creature,Beast,Planeshift,Uncommon,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brian Sn\xc3\xb5ddy',0.11,False
+Crosis's Catacombs,Land,Lair,Planeshift,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,"b'Edward P. Beard, Jr.'",1.36,False
+Darigaaz's Caldera,Land,Lair,Planeshift,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',1.04,False
+Dromar's Cavern,Land,Lair,Planeshift,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Franz Vohwinkel',0.72,False
+Forsaken City,Land,None,Planeshift,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dana Knutson',1.18,False
+Meteor Crater,Land,None,Planeshift,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',2.47,False
+Rith's Grove,Land,Lair,Planeshift,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott Bailey',0.52,False
+Terminal Moraine,Land,None,Planeshift,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott Bailey',1.92,False
+Treva's Ruins,Land,Lair,Planeshift,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jerry Tiritilli',1.13,False

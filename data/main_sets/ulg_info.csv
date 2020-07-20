@@ -1,144 +1,144 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Angelic Curator,Creature,Angel Spirit,Urza's Legacy,Common,2,White,False,False,True,False,b'Greg Staples',0.12
-Blessed Reversal,Instant,None,Urza's Legacy,Rare,2,White,True,False,True,True,b'Pete Venters',0.24
-Burst of Energy,Instant,None,Urza's Legacy,Common,1,White,False,False,True,False,b'Mark Brill',0.15
-Cessation,Enchantment,Aura,Urza's Legacy,Common,3,White,False,False,True,False,b'Mark Zug',0.14
-Defender of Law,Creature,Human Knight,Urza's Legacy,Common,3,White,False,False,True,False,b'Carl Critchlow',0.11
-Devout Harpist,Creature,Human,Urza's Legacy,Common,1,White,False,False,True,False,b'Rebecca Guay',0.14
-Erase,Instant,None,Urza's Legacy,Common,1,White,True,False,True,True,b'Ron Spears',0.13
-Expendable Troops,Creature,Human Soldier,Urza's Legacy,Common,2,White,False,False,True,False,b'Carl Critchlow',0.07
-Hope and Glory,Instant,None,Urza's Legacy,Uncommon,2,White,False,False,True,False,b'Heather Hudson',0.11
-Iron Will,Instant,None,Urza's Legacy,Common,1,White,False,False,True,False,b'Val Mayerik',0.08
-Karmic Guide,Creature,Angel Spirit,Urza's Legacy,Rare,5,White,False,False,True,True,b'Heather Hudson',3.93
-Knighthood,Enchantment,None,Urza's Legacy,Uncommon,3,White,False,False,True,True,b'Kev Walker',0.18
-Martyr's Cause,Enchantment,None,Urza's Legacy,Uncommon,3,White,False,False,True,True,b'Jeff Laubenstein',1.91
-Mother of Runes,Creature,Human Cleric,Urza's Legacy,Uncommon,1,White,False,False,True,True,b'Scott M. Fischer',2.45
-Opal Avenger,Enchantment,None,Urza's Legacy,Rare,3,White,False,False,True,False,"b'Edward P. Beard, Jr.'",0.31
-Opal Champion,Enchantment,None,Urza's Legacy,Common,3,White,False,False,True,False,"b'Edward P. Beard, Jr.'",0.06
-Peace and Quiet,Instant,None,Urza's Legacy,Uncommon,2,White,False,False,True,False,b'Don Hazeltine',0.13
-Planar Collapse,Enchantment,None,Urza's Legacy,Rare,2,White,False,False,True,False,b'Mark Zug',1.22
-Purify,Sorcery,None,Urza's Legacy,Rare,5,White,False,False,True,True,b'John Avon',0.31
-"Radiant, Archangel",Legendary Creature,Angel,Urza's Legacy,Rare,5,White,False,False,True,True,b'Michael Sutfin',2.97
-Radiant's Dragoons,Creature,Human Soldier,Urza's Legacy,Uncommon,4,White,False,False,True,False,b'Pete Venters',0.16
-Radiant's Judgment,Instant,None,Urza's Legacy,Common,3,White,False,False,True,True,b'Greg Staples',0.19
-Sustainer of the Realm,Creature,Angel,Urza's Legacy,Uncommon,4,White,False,False,True,True,b'Greg Staples',0.16
-Tragic Poet,Creature,Human,Urza's Legacy,Common,1,White,True,False,True,True,b'Quinton Hoover',0.13
-Anthroplasm,Creature,Shapeshifter,Urza's Legacy,Rare,4,Blue,False,False,True,False,b'Ron Spencer',0.24
-Archivist,Creature,Human Wizard,Urza's Legacy,Rare,4,Blue,True,False,True,True,b'Pete Venters',0.3
-Aura Flux,Enchantment,None,Urza's Legacy,Common,3,Blue,False,False,True,False,b'John Avon',0.22
-Bouncing Beebles,Creature,Beeble,Urza's Legacy,Common,3,Blue,False,False,True,False,b'Jeff Miracola',0.08
-Cloud of Faeries,Creature,Faerie,Urza's Legacy,Common,2,Blue,False,False,True,True,b'Melissa A. Benson',1.4
-Delusions of Mediocrity,Enchantment,None,Urza's Legacy,Rare,4,Blue,False,False,True,True,b'Jeff Laubenstein',0.35
-Fleeting Image,Creature,Illusion,Urza's Legacy,Rare,3,Blue,True,False,True,True,b'Scott M. Fischer',0.19
-Frantic Search,Instant,None,Urza's Legacy,Common,3,Blue,False,False,True,True,b'Jeff Miracola',0.8
-Intervene,Instant,None,Urza's Legacy,Common,1,Blue,False,False,True,False,b'Heather Hudson',0.17
-King Crab,Creature,Crab,Urza's Legacy,Uncommon,6,Blue,False,False,True,False,b'Daniel Gelon',0.17
-Levitation,Enchantment,None,Urza's Legacy,Uncommon,4,Blue,True,False,True,True,b'Heather Hudson',0.15
-Miscalculation,Instant,None,Urza's Legacy,Common,2,Blue,False,False,True,True,b'Jeff Laubenstein',0.28
-Opportunity,Instant,None,Urza's Legacy,Uncommon,6,Blue,True,False,True,True,b'Ron Spears',0.1
-Palinchron,Creature,Illusion,Urza's Legacy,Rare,7,Blue,False,False,True,True,b'Matthew D. Wilson',25.44
-Raven Familiar,Creature,Bird,Urza's Legacy,Uncommon,3,Blue,False,False,True,True,"b'Edward P. Beard, Jr.'",0.2
-Rebuild,Instant,None,Urza's Legacy,Uncommon,3,Blue,True,False,True,True,b'Allen Williams',0.75
-Second Chance,Enchantment,None,Urza's Legacy,Rare,3,Blue,False,False,True,False,b'Mark Tedin',2.49
-Slow Motion,Enchantment,Aura,Urza's Legacy,Common,3,Blue,False,False,True,False,b'Todd Lockwood',0.11
-Snap,Instant,None,Urza's Legacy,Common,2,Blue,False,False,True,True,b'Mike Raabe',0.87
-Thornwind Faeries,Creature,Faerie,Urza's Legacy,Common,3,Blue,False,False,True,True,b'Rebecca Guay',0.18
-Tinker,Sorcery,None,Urza's Legacy,Uncommon,3,Blue,False,False,False,True,b'Mike Raabe',1.94
-Vigilant Drake,Creature,Drake,Urza's Legacy,Common,5,Blue,False,False,True,True,b'Greg Staples',0.06
-Walking Sponge,Creature,Sponge,Urza's Legacy,Uncommon,2,Blue,False,False,True,False,b'Ron Spencer',0.13
-Weatherseed Faeries,Creature,Faerie,Urza's Legacy,Common,3,Blue,False,False,True,False,b'Don Hazeltine',0.09
-Bone Shredder,Creature,Minion,Urza's Legacy,Uncommon,3,Black,False,False,True,True,b'Ron Spencer',0.29
-Brink of Madness,Enchantment,None,Urza's Legacy,Rare,4,Black,False,False,True,False,b'Donato Giancola',0.32
-Engineered Plague,Enchantment,None,Urza's Legacy,Uncommon,3,Black,False,False,True,True,b'Michael Sutfin',0.28
-Eviscerator,Creature,Horror,Urza's Legacy,Rare,5,Black,False,False,True,False,b'Michael Sutfin',0.19
-Fog of Gnats,Creature,Insect,Urza's Legacy,Common,2,Black,False,False,True,False,b'Jeff Miracola',0.11
-Giant Cockroach,Creature,Insect,Urza's Legacy,Common,4,Black,True,False,True,True,b'Heather Hudson',0.07
-Lurking Skirge,Enchantment,None,Urza's Legacy,Rare,2,Black,False,False,True,False,b'Daren Bader',0.18
-No Mercy,Enchantment,None,Urza's Legacy,Rare,4,Black,False,False,True,True,b'Mark Tedin',18.57
-Ostracize,Sorcery,None,Urza's Legacy,Common,1,Black,False,False,True,True,b'Chippy',0.08
-Phyrexian Broodlings,Creature,Minion,Urza's Legacy,Common,3,Black,False,False,True,True,b'Daren Bader',0.1
-Phyrexian Debaser,Creature,Carrier,Urza's Legacy,Common,4,Black,False,False,True,True,b'Mark Tedin',0.1
-Phyrexian Defiler,Creature,Carrier,Urza's Legacy,Uncommon,4,Black,False,False,True,True,b'DiTerlizzi',0.09
-Phyrexian Denouncer,Creature,Carrier,Urza's Legacy,Common,2,Black,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.08
-Phyrexian Plaguelord,Creature,Carrier,Urza's Legacy,Rare,5,Black,True,False,True,True,b'Kev Walker',0.32
-Phyrexian Reclamation,Enchantment,None,Urza's Legacy,Uncommon,1,Black,False,False,True,True,b'rk post',3.31
-Plague Beetle,Creature,Insect,Urza's Legacy,Common,1,Black,True,False,True,True,b'Tom Fleming',0.12
-Rank and File,Creature,Zombie,Urza's Legacy,Uncommon,4,Black,False,False,True,False,b'Donato Giancola',0.08
-Sick and Tired,Instant,None,Urza's Legacy,Common,3,Black,False,False,True,False,b'Val Mayerik',0.06
-Sleeper's Guile,Enchantment,Aura,Urza's Legacy,Common,3,Black,False,False,True,False,b'Daren Bader',0.1
-Subversion,Enchantment,None,Urza's Legacy,Rare,5,Black,False,False,True,True,b'Rob Alexander',0.94
-Swat,Instant,None,Urza's Legacy,Common,3,Black,False,False,True,True,b'Daren Bader',0.1
-Tethered Skirge,Creature,Imp,Urza's Legacy,Uncommon,3,Black,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.16
-Treacherous Link,Enchantment,Aura,Urza's Legacy,Uncommon,2,Black,False,False,True,False,b'Carl Critchlow',0.12
-Unearth,Sorcery,None,Urza's Legacy,Common,1,Black,True,False,True,True,b'Don Hazeltine',0.5
-About Face,Instant,None,Urza's Legacy,Common,1,Red,False,False,True,False,b'Melissa A. Benson',0.13
-Avalanche Riders,Creature,Human Nomad,Urza's Legacy,Uncommon,4,Red,True,False,True,True,"b'Edward P. Beard, Jr.'",0.55
-Defender of Chaos,Creature,Human Knight,Urza's Legacy,Common,3,Red,False,False,True,False,b'Carl Critchlow',0.1
-Ghitu Fire-Eater,Creature,Human Nomad,Urza's Legacy,Uncommon,3,Red,False,False,True,True,b'Melissa A. Benson',0.16
-Ghitu Slinger,Creature,Human Nomad,Urza's Legacy,Common,3,Red,False,False,True,True,b'Melissa A. Benson',0.09
-Ghitu War Cry,Enchantment,None,Urza's Legacy,Uncommon,3,Red,False,False,True,True,b'Douglas Shuler',0.09
-Goblin Medics,Creature,Goblin Shaman,Urza's Legacy,Common,3,Red,False,False,True,False,b'Jeff Laubenstein',0.09
-Goblin Welder,Creature,Goblin Artificer,Urza's Legacy,Rare,1,Red,False,False,True,True,b'Scott M. Fischer',2.08
-Granite Grip,Enchantment,Aura,Urza's Legacy,Common,3,Red,False,False,True,True,b'Mike Raabe',0.1
-Impending Disaster,Enchantment,None,Urza's Legacy,Rare,2,Red,False,False,True,True,b'Pete Venters',2.54
-Last-Ditch Effort,Instant,None,Urza's Legacy,Uncommon,1,Red,False,False,True,False,b'Dan Frazier',0.39
-Lava Axe,Sorcery,None,Urza's Legacy,Common,5,Red,True,False,True,True,b'Brian Sn\xc3\xb5ddy',0.07
-Molten Hydra,Creature,Hydra,Urza's Legacy,Rare,2,Red,False,False,True,False,b'Greg Staples',0.4
-Parch,Instant,None,Urza's Legacy,Common,2,Red,False,False,True,False,b'Ron Spencer',0.09
-Pygmy Pyrosaur,Creature,Lizard,Urza's Legacy,Common,2,Red,False,False,True,True,b'Dan Frazier',0.05
-Pyromancy,Enchantment,None,Urza's Legacy,Rare,4,Red,False,False,True,False,b'Quinton Hoover',0.34
-Rack and Ruin,Instant,None,Urza's Legacy,Uncommon,3,Red,False,False,True,True,b'Donato Giancola',0.11
-Rivalry,Enchantment,None,Urza's Legacy,Rare,3,Red,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.2
-Shivan Phoenix,Creature,Phoenix,Urza's Legacy,Rare,6,Red,False,False,True,False,b'Daren Bader',0.28
-Sluggishness,Enchantment,Aura,Urza's Legacy,Common,2,Red,False,False,True,False,b'Pete Venters',0.09
-Viashino Bey,Creature,Viashino,Urza's Legacy,Common,4,Red,False,False,True,False,b'Bradley Williams',0.05
-Viashino Cutthroat,Creature,Viashino,Urza's Legacy,Uncommon,4,Red,False,False,True,False,"b'Edward P. Beard, Jr.'",0.12
-Viashino Heretic,Creature,Viashino,Urza's Legacy,Uncommon,3,Red,False,False,True,False,b'Douglas Shuler',1.74
-Viashino Sandscout,Creature,Viashino Scout,Urza's Legacy,Common,2,Red,True,False,True,True,b'Scott M. Fischer',0.07
-Bloated Toad,Creature,Frog,Urza's Legacy,Uncommon,3,Green,False,False,True,False,b'Una Fricker',0.19
-Crop Rotation,Instant,None,Urza's Legacy,Common,1,Green,False,False,True,True,b'DiTerlizzi',2.04
-Darkwatch Elves,Creature,Elf,Urza's Legacy,Uncommon,3,Green,False,False,True,False,b'Don Hazeltine',0.11
-Defense of the Heart,Enchantment,None,Urza's Legacy,Rare,4,Green,False,False,True,True,b'Rebecca Guay',14.83
-Deranged Hermit,Creature,Elf,Urza's Legacy,Rare,5,Green,False,False,True,True,b'Kev Walker',10.06
-Gang of Elk,Creature,Elk Beast,Urza's Legacy,Uncommon,6,Green,False,False,True,True,b'Una Fricker',0.12
-Harmonic Convergence,Instant,None,Urza's Legacy,Uncommon,3,Green,False,False,True,False,b'John Avon',0.15
-Hidden Gibbons,Enchantment,None,Urza's Legacy,Rare,1,Green,False,False,True,False,b'Una Fricker',0.33
-Lone Wolf,Creature,Wolf,Urza's Legacy,Uncommon,3,Green,True,False,True,True,b'Una Fricker',0.13
-Might of Oaks,Instant,None,Urza's Legacy,Rare,4,Green,True,False,True,True,b'Ron Spencer',0.7
-"Multani, Maro-Sorcerer",Legendary Creature,Elemental,Urza's Legacy,Rare,6,Green,False,False,True,False,b'Daren Bader',2.47
-Multani's Acolyte,Creature,Elf,Urza's Legacy,Common,2,Green,False,False,True,False,"b'Edward P. Beard, Jr.'",0.14
-Multani's Presence,Enchantment,None,Urza's Legacy,Uncommon,1,Green,False,False,True,False,b'Scott M. Fischer',0.17
-Rancor,Enchantment,Aura,Urza's Legacy,Common,1,Green,True,False,True,True,b'Kev Walker',0.9
-Repopulate,Instant,None,Urza's Legacy,Common,2,Green,False,False,True,False,b'Una Fricker',0.15
-Silk Net,Instant,None,Urza's Legacy,Common,1,Green,False,False,True,False,b'Rob Alexander',0.11
-Simian Grunts,Creature,Ape,Urza's Legacy,Common,3,Green,False,False,True,True,b'Pete Venters',0.07
-Treefolk Mystic,Creature,Treefolk,Urza's Legacy,Common,4,Green,False,False,True,False,b'DiTerlizzi',0.1
-Weatherseed Elf,Creature,Elf,Urza's Legacy,Common,1,Green,False,False,True,False,b'Heather Hudson',0.09
-Weatherseed Treefolk,Creature,Treefolk,Urza's Legacy,Rare,5,Green,False,False,True,True,b'Heather Hudson',0.85
-Wing Snare,Sorcery,None,Urza's Legacy,Uncommon,3,Green,True,False,True,True,b'Henry Van Der Linde',0.12
-Yavimaya Granger,Creature,Elf,Urza's Legacy,Common,3,Green,False,False,True,False,b'Henry Van Der Linde',0.53
-Yavimaya Scion,Creature,Treefolk,Urza's Legacy,Common,5,Green,False,False,True,False,b'DiTerlizzi',0.06
-Yavimaya Wurm,Creature,Wurm,Urza's Legacy,Common,6,Green,True,False,True,True,b'Melissa A. Benson',0.09
-Angel's Trumpet,Artifact,None,Urza's Legacy,Uncommon,3,Colorless,False,False,True,False,b'Kev Walker',0.58
-Beast of Burden,Artifact Creature,Golem,Urza's Legacy,Rare,6,Colorless,True,False,True,True,b'Ron Spears',0.3
-Crawlspace,Artifact,None,Urza's Legacy,Rare,3,Colorless,False,False,True,True,b'Douglas Shuler',7.13
-Damping Engine,Artifact,None,Urza's Legacy,Rare,4,Colorless,False,False,True,False,b'rk post',0.36
-Defense Grid,Artifact,None,Urza's Legacy,Rare,2,Colorless,True,False,True,True,b'Mark Tedin',7.71
-Grim Monolith,Artifact,None,Urza's Legacy,Rare,2,Colorless,False,False,True,True,b'Chippy',49.96
-Iron Maiden,Artifact,None,Urza's Legacy,Rare,3,Colorless,False,False,True,False,b'Tom W\xc3\xa4nerstrand',1.36
-Jhoira's Toolbox,Artifact Creature,Insect,Urza's Legacy,Uncommon,2,Colorless,False,False,True,False,b'Mike Raabe',0.19
-Memory Jar,Artifact,None,Urza's Legacy,Rare,5,Colorless,False,False,True,True,b'Donato Giancola',14.46
-Quicksilver Amulet,Artifact,None,Urza's Legacy,Rare,4,Colorless,True,False,True,True,b'Douglas Shuler',4.68
-Ring of Gix,Artifact,None,Urza's Legacy,Rare,3,Colorless,False,False,True,True,b'Mark Tedin',0.85
-Scrapheap,Artifact,None,Urza's Legacy,Rare,3,Colorless,False,False,True,False,b'Bradley Williams',0.26
-Thran Lens,Artifact,None,Urza's Legacy,Rare,2,Colorless,False,False,True,False,b'Allen Williams',0.3
-Thran War Machine,Artifact Creature,Construct,Urza's Legacy,Uncommon,4,Colorless,False,False,True,False,b'Pete Venters',0.06
-Thran Weaponry,Artifact,None,Urza's Legacy,Rare,4,Colorless,False,False,True,False,b'Anthony S. Waters',0.27
-Ticking Gnomes,Artifact Creature,Gnome,Urza's Legacy,Uncommon,3,Colorless,False,False,True,True,b'Henry Van Der Linde',0.1
-Urza's Blueprints,Artifact,None,Urza's Legacy,Rare,6,Colorless,False,False,True,False,b'Tom W\xc3\xa4nerstrand',0.28
-Wheel of Torture,Artifact,None,Urza's Legacy,Rare,3,Colorless,False,False,True,False,b'Henry Van Der Linde',0.52
-Faerie Conclave,Land,None,Urza's Legacy,Uncommon,0,Colorless,True,False,True,True,b'Val Mayerik',1.4
-Forbidding Watchtower,Land,None,Urza's Legacy,Uncommon,0,Colorless,True,False,True,True,b'Mark Brill',0.37
-Ghitu Encampment,Land,None,Urza's Legacy,Uncommon,0,Colorless,True,False,True,True,b'Don Hazeltine',0.16
-Spawning Pool,Land,None,Urza's Legacy,Uncommon,0,Colorless,True,False,True,True,b'Rob Alexander',0.27
-Treetop Village,Land,None,Urza's Legacy,Uncommon,0,Colorless,True,False,True,True,b'Anthony S. Waters',0.78
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Angelic Curator,Creature,Angel Spirit,Urza's Legacy,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.14,False
+Blessed Reversal,Instant,None,Urza's Legacy,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.26,False
+Burst of Energy,Instant,None,Urza's Legacy,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Brill',0.14,False
+Cessation,Enchantment,Aura,Urza's Legacy,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Zug',0.13,False
+Defender of Law,Creature,Human Knight,Urza's Legacy,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.11,False
+Devout Harpist,Creature,Human,Urza's Legacy,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rebecca Guay',0.16,False
+Erase,Instant,None,Urza's Legacy,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spears',0.15,False
+Expendable Troops,Creature,Human Soldier,Urza's Legacy,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.08,False
+Hope and Glory,Instant,None,Urza's Legacy,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.13,False
+Iron Will,Instant,None,Urza's Legacy,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Val Mayerik',0.1,False
+Karmic Guide,Creature,Angel Spirit,Urza's Legacy,Rare,5,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',3.92,False
+Knighthood,Enchantment,None,Urza's Legacy,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.17,False
+Martyr's Cause,Enchantment,None,Urza's Legacy,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Laubenstein',1.53,False
+Mother of Runes,Creature,Human Cleric,Urza's Legacy,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',2.67,False
+Opal Avenger,Enchantment,None,Urza's Legacy,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,"b'Edward P. Beard, Jr.'",0.29,False
+Opal Champion,Enchantment,None,Urza's Legacy,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,"b'Edward P. Beard, Jr.'",0.08,False
+Peace and Quiet,Instant,None,Urza's Legacy,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Don Hazeltine',0.14,False
+Planar Collapse,Enchantment,None,Urza's Legacy,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Zug',1.23,False
+Purify,Sorcery,None,Urza's Legacy,Rare,5,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'John Avon',0.29,False
+Radiant Archangel,Creature,Angel,Urza's Legacy,Rare,5,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Sutfin',3.0,True
+Radiant's Dragoons,Creature,Human Soldier,Urza's Legacy,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.16,False
+Radiant's Judgment,Instant,None,Urza's Legacy,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.25,False
+Sustainer of the Realm,Creature,Angel,Urza's Legacy,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.15,False
+Tragic Poet,Creature,Human,Urza's Legacy,Common,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.14,False
+Anthroplasm,Creature,Shapeshifter,Urza's Legacy,Rare,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.25,False
+Archivist,Creature,Human Wizard,Urza's Legacy,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.34,False
+Aura Flux,Enchantment,None,Urza's Legacy,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.23,False
+Bouncing Beebles,Creature,Beeble,Urza's Legacy,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Miracola',0.1,False
+Cloud of Faeries,Creature,Faerie,Urza's Legacy,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',1.73,False
+Delusions of Mediocrity,Enchantment,None,Urza's Legacy,Rare,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Laubenstein',0.35,False
+Fleeting Image,Creature,Illusion,Urza's Legacy,Rare,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',0.23,False
+Frantic Search,Instant,None,Urza's Legacy,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Banned,True,b'Jeff Miracola',0.87,False
+Intervene,Instant,None,Urza's Legacy,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.19,False
+King Crab,Creature,Crab,Urza's Legacy,Uncommon,6,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daniel Gelon',0.18,False
+Levitation,Enchantment,None,Urza's Legacy,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.16,False
+Miscalculation,Instant,None,Urza's Legacy,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff Laubenstein',0.3,False
+Opportunity,Instant,None,Urza's Legacy,Uncommon,6,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spears',0.13,False
+Palinchron,Creature,Illusion,Urza's Legacy,Rare,7,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Matthew D. Wilson',29.06,False
+Raven Familiar,Creature,Bird,Urza's Legacy,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,"b'Edward P. Beard, Jr.'",0.2,False
+Rebuild,Instant,None,Urza's Legacy,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Allen Williams',0.69,False
+Second Chance,Enchantment,None,Urza's Legacy,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',2.45,False
+Slow Motion,Enchantment,Aura,Urza's Legacy,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Todd Lockwood',0.12,False
+Snap,Instant,None,Urza's Legacy,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Raabe',0.94,False
+Thornwind Faeries,Creature,Faerie,Urza's Legacy,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',0.2,False
+Tinker,Sorcery,None,Urza's Legacy,Uncommon,3,Blue,Not Legal,Not Legal,Banned,Restrict.,Banned,True,b'Mike Raabe',1.87,False
+Vigilant Drake,Creature,Drake,Urza's Legacy,Common,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.07,False
+Walking Sponge,Creature,Sponge,Urza's Legacy,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.14,False
+Weatherseed Faeries,Creature,Faerie,Urza's Legacy,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Don Hazeltine',0.09,False
+Bone Shredder,Creature,Minion,Urza's Legacy,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.32,False
+Brink of Madness,Enchantment,None,Urza's Legacy,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Donato Giancola',0.24,False
+Engineered Plague,Enchantment,None,Urza's Legacy,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Michael Sutfin',0.28,False
+Eviscerator,Creature,Horror,Urza's Legacy,Rare,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Michael Sutfin',0.18,False
+Fog of Gnats,Creature,Insect,Urza's Legacy,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Miracola',0.12,False
+Giant Cockroach,Creature,Insect,Urza's Legacy,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.08,False
+Lurking Skirge,Enchantment,None,Urza's Legacy,Rare,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.17,False
+No Mercy,Enchantment,None,Urza's Legacy,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',20.77,False
+Ostracize,Sorcery,None,Urza's Legacy,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Chippy',0.11,False
+Phyrexian Broodlings,Creature,Minion,Urza's Legacy,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.1,False
+Phyrexian Debaser,Creature,Carrier,Urza's Legacy,Common,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.1,False
+Phyrexian Defiler,Creature,Carrier,Urza's Legacy,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'DiTerlizzi',0.11,False
+Phyrexian Denouncer,Creature,Carrier,Urza's Legacy,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.08,False
+Phyrexian Plaguelord,Creature,Carrier,Urza's Legacy,Rare,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.33,False
+Phyrexian Reclamation,Enchantment,None,Urza's Legacy,Uncommon,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'rk post',2.89,False
+Plague Beetle,Creature,Insect,Urza's Legacy,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom Fleming',0.12,False
+Rank and File,Creature,Zombie,Urza's Legacy,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Donato Giancola',0.09,False
+Sick and Tired,Instant,None,Urza's Legacy,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Val Mayerik',0.07,False
+Sleeper's Guile,Enchantment,Aura,Urza's Legacy,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.1,False
+Subversion,Enchantment,None,Urza's Legacy,Rare,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.93,False
+Swat,Instant,None,Urza's Legacy,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daren Bader',0.1,False
+Tethered Skirge,Creature,Imp,Urza's Legacy,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brian Sn\xc3\xb5ddy',0.15,False
+Treacherous Link,Enchantment,Aura,Urza's Legacy,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.14,False
+Unearth,Sorcery,None,Urza's Legacy,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Don Hazeltine',0.46,False
+About Face,Instant,None,Urza's Legacy,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Melissa A. Benson',0.17,False
+Avalanche Riders,Creature,Human Nomad,Urza's Legacy,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,"b'Edward P. Beard, Jr.'",0.54,False
+Defender of Chaos,Creature,Human Knight,Urza's Legacy,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Carl Critchlow',0.09,False
+Ghitu Fire-Eater,Creature,Human Nomad,Urza's Legacy,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.17,False
+Ghitu Slinger,Creature,Human Nomad,Urza's Legacy,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.14,False
+Ghitu War Cry,Enchantment,None,Urza's Legacy,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.1,False
+Goblin Medics,Creature,Goblin Shaman,Urza's Legacy,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff Laubenstein',0.11,False
+Goblin Welder,Creature,Goblin Artificer,Urza's Legacy,Rare,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',2.33,False
+Granite Grip,Enchantment,Aura,Urza's Legacy,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Raabe',0.1,False
+Impending Disaster,Enchantment,None,Urza's Legacy,Rare,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',2.22,False
+Last-Ditch Effort,Instant,None,Urza's Legacy,Uncommon,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Frazier',0.38,False
+Lava Axe,Sorcery,None,Urza's Legacy,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.1,False
+Molten Hydra,Creature,Hydra,Urza's Legacy,Rare,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.39,False
+Parch,Instant,None,Urza's Legacy,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.1,False
+Pygmy Pyrosaur,Creature,Lizard,Urza's Legacy,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.05,False
+Pyromancy,Enchantment,None,Urza's Legacy,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Quinton Hoover',0.34,False
+Rack and Ruin,Instant,None,Urza's Legacy,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Donato Giancola',0.13,False
+Rivalry,Enchantment,None,Urza's Legacy,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brian Sn\xc3\xb5ddy',0.25,False
+Shivan Phoenix,Creature,Phoenix,Urza's Legacy,Rare,6,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',0.33,False
+Sluggishness,Enchantment,Aura,Urza's Legacy,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.09,False
+Viashino Bey,Creature,Viashino,Urza's Legacy,Common,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Bradley Williams',0.06,False
+Viashino Cutthroat,Creature,Viashino,Urza's Legacy,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,"b'Edward P. Beard, Jr.'",0.14,False
+Viashino Heretic,Creature,Viashino,Urza's Legacy,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Douglas Shuler',1.79,False
+Viashino Sandscout,Creature,Viashino Scout,Urza's Legacy,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott M. Fischer',0.07,False
+Bloated Toad,Creature,Frog,Urza's Legacy,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Una Fricker',0.21,False
+Crop Rotation,Instant,None,Urza's Legacy,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'DiTerlizzi',2.06,False
+Darkwatch Elves,Creature,Elf,Urza's Legacy,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Don Hazeltine',0.13,False
+Defense of the Heart,Enchantment,None,Urza's Legacy,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rebecca Guay',12.1,False
+Deranged Hermit,Creature,Elf,Urza's Legacy,Rare,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',11.06,False
+Gang of Elk,Creature,Elk Beast,Urza's Legacy,Uncommon,6,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Una Fricker',0.09,False
+Harmonic Convergence,Instant,None,Urza's Legacy,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'John Avon',0.16,False
+Hidden Gibbons,Enchantment,None,Urza's Legacy,Rare,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Una Fricker',0.33,False
+Lone Wolf,Creature,Wolf,Urza's Legacy,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Una Fricker',0.14,False
+Might of Oaks,Instant,None,Urza's Legacy,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.74,False
+Multani Maro-Sorcerer,Creature,Elemental,Urza's Legacy,Rare,6,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daren Bader',2.5,True
+Multani's Acolyte,Creature,Elf,Urza's Legacy,Common,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,"b'Edward P. Beard, Jr.'",0.16,False
+Multani's Presence,Enchantment,None,Urza's Legacy,Uncommon,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Scott M. Fischer',0.17,False
+Rancor,Enchantment,Aura,Urza's Legacy,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.97,False
+Repopulate,Instant,None,Urza's Legacy,Common,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Una Fricker',0.15,False
+Silk Net,Instant,None,Urza's Legacy,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rob Alexander',0.11,False
+Simian Grunts,Creature,Ape,Urza's Legacy,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.07,False
+Treefolk Mystic,Creature,Treefolk,Urza's Legacy,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'DiTerlizzi',0.1,False
+Weatherseed Elf,Creature,Elf,Urza's Legacy,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.11,False
+Weatherseed Treefolk,Creature,Treefolk,Urza's Legacy,Rare,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.79,False
+Wing Snare,Sorcery,None,Urza's Legacy,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Henry Van Der Linde',0.12,False
+Yavimaya Granger,Creature,Elf,Urza's Legacy,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Henry Van Der Linde',0.31,False
+Yavimaya Scion,Creature,Treefolk,Urza's Legacy,Common,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'DiTerlizzi',0.06,False
+Yavimaya Wurm,Creature,Wurm,Urza's Legacy,Common,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.1,False
+Angel's Trumpet,Artifact,None,Urza's Legacy,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.6,False
+Beast of Burden,Artifact Creature,Golem,Urza's Legacy,Rare,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spears',0.31,False
+Crawlspace,Artifact,None,Urza's Legacy,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',7.29,False
+Damping Engine,Artifact,None,Urza's Legacy,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'rk post',0.34,False
+Defense Grid,Artifact,None,Urza's Legacy,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',7.57,False
+Grim Monolith,Artifact,None,Urza's Legacy,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Chippy',197.07,False
+Iron Maiden,Artifact,None,Urza's Legacy,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Tom W\xc3\xa4nerstrand',1.5,False
+Jhoira's Toolbox,Artifact Creature,Insect,Urza's Legacy,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Raabe',0.2,False
+Memory Jar,Artifact,None,Urza's Legacy,Rare,5,Colorless,Not Legal,Not Legal,Legal,Restrict.,Banned,True,b'Donato Giancola',17.74,False
+Quicksilver Amulet,Artifact,None,Urza's Legacy,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',4.93,False
+Ring of Gix,Artifact,None,Urza's Legacy,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.86,False
+Scrapheap,Artifact,None,Urza's Legacy,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Bradley Williams',0.26,False
+Thran Lens,Artifact,None,Urza's Legacy,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Allen Williams',0.31,False
+Thran War Machine,Artifact Creature,Construct,Urza's Legacy,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.08,False
+Thran Weaponry,Artifact,None,Urza's Legacy,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony S. Waters',0.26,False
+Ticking Gnomes,Artifact Creature,Gnome,Urza's Legacy,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Henry Van Der Linde',0.11,False
+Urza's Blueprints,Artifact,None,Urza's Legacy,Rare,6,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Tom W\xc3\xa4nerstrand',0.26,False
+Wheel of Torture,Artifact,None,Urza's Legacy,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Henry Van Der Linde',0.58,False
+Faerie Conclave,Land,None,Urza's Legacy,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Val Mayerik',1.27,False
+Forbidding Watchtower,Land,None,Urza's Legacy,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Brill',0.38,False
+Ghitu Encampment,Land,None,Urza's Legacy,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Don Hazeltine',0.17,False
+Spawning Pool,Land,None,Urza's Legacy,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.29,False
+Treetop Village,Land,None,Urza's Legacy,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',0.71,False

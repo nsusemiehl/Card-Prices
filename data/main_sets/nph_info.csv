@@ -1,176 +1,176 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Karn Liberated,Legendary Planeswalker,Karn,New Phyrexia,Mythic Rare,7,Colorless,True,False,True,True,b'Jason Chan',36.5
-Apostle's Blessing,Instant,None,New Phyrexia,Common,3,White,True,False,True,True,b'Brad Rigney',0.27
-Auriok Survivors,Creature,Human Soldier,New Phyrexia,Uncommon,6,White,True,False,True,False,b'James Ryman',0.06
-Blade Splicer,Creature,Human Artificer,New Phyrexia,Rare,3,White,True,False,True,True,b'Greg Staples',0.79
-Cathedral Membrane,Artifact Creature,Wall,New Phyrexia,Uncommon,3,White,True,False,True,False,b'Richard Whitters',0.21
-Chancellor of the Annex,Creature,Angel,New Phyrexia,Rare,7,White,True,False,True,True,b'Min Yum',3.13
-Dispatch,Instant,None,New Phyrexia,Uncommon,1,White,True,False,True,True,b'Erica Yang',0.88
-Due Respect,Instant,None,New Phyrexia,Uncommon,2,White,True,False,True,False,b'James Ryman',0.12
-"Elesh Norn, Grand Cenobite",Legendary Creature,Praetor,New Phyrexia,Mythic Rare,7,White,True,False,True,True,b'Igor Kieryluk',20.37
-Exclusion Ritual,Enchantment,None,New Phyrexia,Uncommon,6,White,True,False,True,False,b'Daniel Ljunggren',0.1
-Forced Worship,Enchantment,Aura,New Phyrexia,Common,2,White,True,False,True,False,b'Karl Kopinski',0.07
-Inquisitor Exarch,Creature,Cleric,New Phyrexia,Uncommon,2,White,True,False,True,False,b'Igor Kieryluk',0.11
-Lost Leonin,Creature,Cat Soldier,New Phyrexia,Common,2,White,True,False,True,False,b'Min Yum',0.17
-Loxodon Convert,Creature,Elephant Soldier,New Phyrexia,Common,4,White,True,False,True,False,b'Adrian Smith',0.06
-Marrow Shards,Instant,None,New Phyrexia,Uncommon,2,White,True,False,True,False,b'Raymond Swanland',0.13
-Master Splicer,Creature,Human Artificer,New Phyrexia,Uncommon,4,White,True,True,True,True,b'Chippy',0.1
-Norn's Annex,Artifact,None,New Phyrexia,Rare,7,White,True,False,True,True,b'James Paick',4.6
-Phyrexian Unlife,Enchantment,None,New Phyrexia,Rare,3,White,True,False,True,False,b'Jason Chan',2.8
-Porcelain Legionnaire,Artifact Creature,Soldier,New Phyrexia,Common,4,White,True,False,True,False,b'Eric Deschamps',0.11
-Puresteel Paladin,Creature,Human Knight,New Phyrexia,Rare,2,White,True,False,True,False,b'Jason Chan',10.8
-Remember the Fallen,Sorcery,None,New Phyrexia,Common,3,White,True,False,True,False,b'Eric Deschamps',0.12
-Sensor Splicer,Creature,Artificer,New Phyrexia,Common,5,White,True,False,True,True,b'Izzy',0.07
-Shattered Angel,Creature,Angel,New Phyrexia,Uncommon,5,White,True,False,True,True,b'Kev Walker',0.63
-Shriek Raptor,Creature,Bird,New Phyrexia,Common,5,White,True,False,True,False,b'Efrem Palacios',0.12
-Suture Priest,Creature,Cleric,New Phyrexia,Common,2,White,True,False,True,True,b'Igor Kieryluk',0.81
-War Report,Instant,None,New Phyrexia,Common,4,White,True,False,True,False,b'Mike Bierek',0.09
-Argent Mutation,Instant,None,New Phyrexia,Uncommon,3,Blue,True,False,True,False,b'Jana Schirmer',0.05
-Arm with Aether,Sorcery,None,New Phyrexia,Uncommon,3,Blue,True,False,True,False,b'Austin Hsu',0.15
-Blighted Agent,Creature,Human Rogue,New Phyrexia,Common,2,Blue,True,False,True,True,b'Anthony Francisco',0.65
-Chained Throatseeker,Creature,Horror,New Phyrexia,Common,6,Blue,True,False,True,False,b'Stephan Martiniere',0.06
-Chancellor of the Spires,Creature,Sphinx,New Phyrexia,Rare,7,Blue,True,False,True,False,b'Nils Hamm',0.39
-Corrupted Resolve,Instant,None,New Phyrexia,Uncommon,2,Blue,True,False,True,False,b'Greg Staples',0.13
-Deceiver Exarch,Creature,Cleric,New Phyrexia,Uncommon,3,Blue,True,False,True,True,b'Izzy',0.29
-Defensive Stance,Enchantment,Aura,New Phyrexia,Common,1,Blue,True,False,True,False,b'Dan Scott',0.04
-Gitaxian Probe,Sorcery,None,New Phyrexia,Common,2,Blue,False,False,True,True,b'Chippy',1.28
-Impaler Shrike,Creature,Bird,New Phyrexia,Common,4,Blue,True,False,True,False,b'Nils Hamm',0.07
-"Jin-Gitaxias, Core Augur",Legendary Creature,Praetor,New Phyrexia,Mythic Rare,10,Blue,True,False,True,True,b'Eric Deschamps',12.8
-Mental Misstep,Instant,None,New Phyrexia,Uncommon,2,Blue,False,False,True,False,b'Erica Yang',2.49
-Mindculling,Sorcery,None,New Phyrexia,Uncommon,6,Blue,True,False,True,False,b'Cos Koniotis',0.07
-Numbing Dose,Enchantment,Aura,New Phyrexia,Common,5,Blue,True,False,True,False,b'Brad Rigney',0.03
-Phyrexian Ingester,Creature,Beast,New Phyrexia,Rare,7,Blue,True,False,True,True,b'Chris Rahn',0.27
-Phyrexian Metamorph,Artifact Creature,Shapeshifter,New Phyrexia,Rare,5,Blue,True,False,True,True,b'Jana Schirmer',6.1
-Psychic Barrier,Instant,None,New Phyrexia,Common,2,Blue,True,False,True,False,b'Dan Scott',0.13
-Psychic Surgery,Enchantment,None,New Phyrexia,Rare,2,Blue,True,False,True,False,b'Anthony Francisco',0.31
-Spined Thopter,Artifact Creature,Thopter,New Phyrexia,Common,4,Blue,True,False,True,False,b'Pete Venters',0.08
-Spire Monitor,Creature,Drake,New Phyrexia,Common,5,Blue,True,False,True,True,b'Daniel Ljunggren',0.1
-Tezzeret's Gambit,Sorcery,None,New Phyrexia,Uncommon,5,Blue,True,False,True,True,b'Karl Kopinski',0.42
-Vapor Snag,Instant,None,New Phyrexia,Common,1,Blue,True,False,True,True,b'Raymond Swanland',0.45
-Viral Drake,Creature,Drake,New Phyrexia,Uncommon,4,Blue,True,False,True,False,b'Lars Grant-West',1.28
-Wing Splicer,Creature,Human Artificer,New Phyrexia,Uncommon,4,Blue,True,False,True,True,b'Kev Walker',0.11
-Xenograft,Enchantment,None,New Phyrexia,Rare,5,Blue,True,False,True,False,b'Daniel Ljunggren',1.31
-Blind Zealot,Creature,Human Cleric,New Phyrexia,Common,3,Black,True,False,True,False,b'Jana Schirmer',0.11
-Caress of Phyrexia,Sorcery,None,New Phyrexia,Uncommon,5,Black,True,False,True,False,b'Karl Kopinski',0.43
-Chancellor of the Dross,Creature,Vampire,New Phyrexia,Rare,7,Black,True,False,True,False,b'Stephan Martiniere',0.6
-Dementia Bat,Creature,Bat,New Phyrexia,Common,5,Black,True,False,True,False,b'Daarken',0.15
-Despise,Sorcery,None,New Phyrexia,Uncommon,1,Black,True,False,True,True,b'Terese Nielsen',0.17
-Dismember,Instant,None,New Phyrexia,Uncommon,5,Black,True,False,True,True,b'Terese Nielsen',2.28
-Enslave,Enchantment,Aura,New Phyrexia,Uncommon,6,Black,True,False,True,True,b'Chris Rahn',0.12
-Entomber Exarch,Creature,Cleric,New Phyrexia,Uncommon,4,Black,True,False,True,True,b'Svetlin Velinov',0.13
-Evil Presence,Enchantment,Aura,New Phyrexia,Common,1,Black,True,False,True,True,b'Scott Chou',0.11
-Geth's Verdict,Instant,None,New Phyrexia,Common,2,Black,True,False,True,False,b'Whit Brachna',0.38
-Glistening Oil,Enchantment,Aura,New Phyrexia,Rare,2,Black,True,False,True,False,b'Steven Belledin',1.55
-Grim Affliction,Instant,None,New Phyrexia,Common,3,Black,True,False,True,True,b'Erica Yang',0.2
-Ichor Explosion,Sorcery,None,New Phyrexia,Uncommon,7,Black,True,False,True,False,b'James Ryman',0.05
-Life's Finale,Sorcery,None,New Phyrexia,Rare,6,Black,True,False,True,False,b'Svetlin Velinov',2.0
-Mortis Dogs,Creature,Hound,New Phyrexia,Common,4,Black,True,False,True,False,b'Chippy',0.06
-Parasitic Implant,Enchantment,Aura,New Phyrexia,Common,4,Black,True,False,True,False,b'Jason Felix',0.03
-Phyrexian Obliterator,Creature,Horror,New Phyrexia,Mythic Rare,4,Black,True,False,True,True,b'Todd Lockwood',18.05
-Pith Driller,Artifact Creature,Horror,New Phyrexia,Common,6,Black,True,False,True,False,b'Nils Hamm',0.1
-Postmortem Lunge,Sorcery,None,New Phyrexia,Uncommon,3,Black,True,False,True,False,b'Daarken',0.71
-Praetor's Grasp,Sorcery,None,New Phyrexia,Rare,3,Black,True,False,True,False,b'Steve Argyle',4.33
-Reaper of Sheoldred,Creature,Horror,New Phyrexia,Uncommon,5,Black,True,False,True,False,b'Stephan Martiniere',0.7
-"Sheoldred, Whispering One",Legendary Creature,Praetor,New Phyrexia,Mythic Rare,7,Black,True,False,True,True,b'Jana Schirmer',18.91
-Surgical Extraction,Instant,None,New Phyrexia,Rare,2,Black,True,False,True,True,b'Steven Belledin',11.86
-Toxic Nim,Creature,Zombie,New Phyrexia,Common,6,Black,True,False,True,False,b'Karl Kopinski',0.11
-Vault Skirge,Artifact Creature,Imp,New Phyrexia,Common,3,Black,True,False,True,True,b'Brad Rigney',0.36
-Whispering Specter,Creature,Specter,New Phyrexia,Uncommon,3,Black,True,False,True,False,b'Jason Felix',0.61
-Act of Aggression,Instant,None,New Phyrexia,Uncommon,7,Red,True,False,True,True,b'Whit Brachna',0.16
-Artillerize,Instant,None,New Phyrexia,Common,4,Red,True,False,True,False,b'Johann Bodin',0.1
-Bludgeon Brawl,Enchantment,None,New Phyrexia,Rare,3,Red,True,False,True,False,b'Kev Walker',0.26
-Chancellor of the Forge,Creature,Giant,New Phyrexia,Rare,7,Red,True,False,True,False,b'Chippy',0.85
-Fallen Ferromancer,Creature,Human Shaman,New Phyrexia,Uncommon,4,Red,True,False,True,False,b'David Rapoza',0.18
-Flameborn Viron,Creature,Insect,New Phyrexia,Common,6,Red,True,False,True,False,b'Svetlin Velinov',0.1
-Furnace Scamp,Creature,Beast,New Phyrexia,Common,1,Red,True,False,True,False,b'Karl Kopinski',0.12
-Geosurge,Sorcery,None,New Phyrexia,Uncommon,4,Red,True,False,True,False,b'Igor Kieryluk',0.29
-Gut Shot,Instant,None,New Phyrexia,Uncommon,2,Red,True,False,True,True,b'Greg Staples',0.66
-Invader Parasite,Creature,Insect,New Phyrexia,Rare,5,Red,True,False,True,False,b'Volkan Ba\xc7\xb5a',0.24
-Moltensteel Dragon,Artifact Creature,Dragon,New Phyrexia,Rare,8,Red,True,False,True,False,b'James Ryman',0.56
-Ogre Menial,Creature,Ogre,New Phyrexia,Common,4,Red,True,False,True,False,b'David Rapoza',0.11
-Priest of Urabrask,Creature,Human Cleric,New Phyrexia,Uncommon,3,Red,True,False,True,True,b'Kev Walker',0.22
-Rage Extractor,Artifact,None,New Phyrexia,Uncommon,6,Red,True,False,True,False,b'Raymond Swanland',0.1
-Razor Swine,Creature,Boar,New Phyrexia,Common,3,Red,True,False,True,False,b'Dave Allsop',0.11
-Ruthless Invasion,Sorcery,None,New Phyrexia,Common,5,Red,True,False,True,False,b'Svetlin Velinov',0.06
-Scrapyard Salvo,Sorcery,None,New Phyrexia,Common,3,Red,True,False,True,False,b'Austin Hsu',0.12
-Slag Fiend,Creature,Construct,New Phyrexia,Rare,1,Red,True,False,True,False,b'Mike Bierek',0.2
-Slash Panther,Artifact Creature,Cat,New Phyrexia,Common,6,Red,True,False,True,False,b'Matt Stewart',0.09
-Tormentor Exarch,Creature,Cleric,New Phyrexia,Uncommon,4,Red,True,False,True,False,b'Brad Rigney',0.06
-Urabrask the Hidden,Legendary Creature,Praetor,New Phyrexia,Mythic Rare,5,Red,True,False,True,True,b'Brad Rigney',6.31
-Victorious Destruction,Sorcery,None,New Phyrexia,Common,5,Red,True,False,True,False,b'Jung Park',0.02
-Volt Charge,Instant,None,New Phyrexia,Common,3,Red,True,False,True,True,b'Jana Schirmer',0.13
-Vulshok Refugee,Creature,Human Warrior,New Phyrexia,Uncommon,3,Red,True,False,True,False,b'Wayne Reynolds',0.06
-Whipflare,Sorcery,None,New Phyrexia,Uncommon,2,Red,True,False,True,True,b'Johann Bodin',0.23
-Beast Within,Instant,None,New Phyrexia,Uncommon,3,Green,True,False,True,True,b'Dave Allsop',2.12
-Birthing Pod,Artifact,None,New Phyrexia,Rare,5,Green,False,False,True,False,b'Daarken',11.5
-Brutalizer Exarch,Creature,Cleric,New Phyrexia,Uncommon,6,Green,True,False,True,True,b'Mark Zug',0.27
-Chancellor of the Tangle,Creature,Beast,New Phyrexia,Rare,7,Green,True,False,True,False,b'Steve Prescott',0.79
-Corrosive Gale,Sorcery,None,New Phyrexia,Uncommon,3,Green,True,False,True,False,b'Dan Scott',0.16
-Death-Hood Cobra,Creature,Snake,New Phyrexia,Common,2,Green,True,False,True,True,b'Jason Felix',0.08
-Fresh Meat,Instant,None,New Phyrexia,Rare,4,Green,True,False,True,True,b'Dave Allsop',0.2
-Glissa's Scorn,Instant,None,New Phyrexia,Common,2,Green,True,False,True,False,b'Nils Hamm',0.06
-Glistener Elf,Creature,Elf Warrior,New Phyrexia,Common,1,Green,True,False,True,True,b'Steve Argyle',0.9
-Greenhilt Trainee,Creature,Elf Warrior,New Phyrexia,Uncommon,4,Green,True,False,True,False,b'Chris Rahn',0.12
-Leeching Bite,Instant,None,New Phyrexia,Common,2,Green,True,False,True,False,b'Cos Koniotis',0.04
-Maul Splicer,Creature,Human Artificer,New Phyrexia,Common,7,Green,True,False,True,True,b'Jason Chan',0.12
-"Melira, Sylvok Outcast",Legendary Creature,Human Scout,New Phyrexia,Rare,2,Green,True,False,True,False,b'Min Yum',2.43
-Mutagenic Growth,Instant,None,New Phyrexia,Common,2,Green,True,False,True,True,b'Dave Kendall',0.95
-Mycosynth Fiend,Creature,Horror,New Phyrexia,Uncommon,3,Green,True,False,True,False,b'Kev Walker',0.1
-Noxious Revival,Instant,None,New Phyrexia,Uncommon,2,Green,True,False,True,False,b'Matt Stewart',5.66
-Phyrexian Swarmlord,Creature,Insect Horror,New Phyrexia,Rare,6,Green,True,False,True,False,b'Svetlin Velinov',1.66
-Rotted Hystrix,Creature,Beast,New Phyrexia,Common,5,Green,True,False,True,False,b'Dave Allsop',0.04
-Spinebiter,Creature,Beast,New Phyrexia,Uncommon,6,Green,True,False,True,False,b'Jaime Jones',0.39
-Thundering Tanadon,Artifact Creature,Beast,New Phyrexia,Common,8,Green,True,False,True,False,b'Dan Scott',0.07
-Triumph of the Hordes,Sorcery,None,New Phyrexia,Uncommon,4,Green,True,False,True,True,b'Izzy',8.58
-Viridian Betrayers,Creature,Elf Warrior,New Phyrexia,Common,3,Green,True,False,True,False,b'Karl Kopinski',0.11
-Viridian Harvest,Enchantment,Aura,New Phyrexia,Common,1,Green,True,False,True,False,b'Johann Bodin',0.06
-Vital Splicer,Creature,Human Artificer,New Phyrexia,Uncommon,4,Green,True,False,True,True,b'Daarken',0.08
-"Vorinclex, Voice of Hunger",Legendary Creature,Praetor,New Phyrexia,Mythic Rare,8,Green,True,False,True,True,b'Karl Kopinski',22.57
-"Jor Kadeen, the Prevailer",Legendary Creature,Human Warrior,New Phyrexia,Rare,5,Gold,True,False,True,True,b'Austin Hsu',0.28
-Alloy Myr,Artifact Creature,Myr,New Phyrexia,Uncommon,3,Colorless,True,False,True,True,b'Matt Cavotta',0.25
-Batterskull,Artifact,Equipment,New Phyrexia,Mythic Rare,5,Colorless,True,False,True,True,b'Mark Zug',15.35
-Blinding Souleater,Artifact Creature,Cleric,New Phyrexia,Common,3,Colorless,True,False,True,True,b'Igor Kieryluk',0.07
-Caged Sun,Artifact,None,New Phyrexia,Rare,6,Colorless,True,False,True,True,b'Scott Chou',8.92
-Conversion Chamber,Artifact,None,New Phyrexia,Uncommon,3,Colorless,True,False,True,False,b'Anthony Francisco',0.11
-Darksteel Relic,Artifact,None,New Phyrexia,Uncommon,0,Colorless,True,False,True,True,b'Daniel Ljunggren',0.48
-Etched Monstrosity,Artifact Creature,Golem,New Phyrexia,Mythic Rare,5,Colorless,True,False,True,True,b'Steven Belledin',0.41
-Gremlin Mine,Artifact,None,New Phyrexia,Common,1,Colorless,True,False,True,False,b'Matt Stewart',0.07
-Hex Parasite,Artifact Creature,Insect,New Phyrexia,Rare,1,Colorless,True,False,True,False,b'Raymond Swanland',1.65
-Hovermyr,Artifact Creature,Myr,New Phyrexia,Common,2,Colorless,True,False,True,False,b'Dan Scott',0.16
-Immolating Souleater,Artifact Creature,Hound,New Phyrexia,Common,2,Colorless,True,False,True,False,b'Austin Hsu',0.13
-Insatiable Souleater,Artifact Creature,Beast,New Phyrexia,Common,4,Colorless,True,False,True,False,b'Dave Kendall',0.11
-Isolation Cell,Artifact,None,New Phyrexia,Uncommon,4,Colorless,True,False,True,False,b'Adrian Smith',0.22
-Kiln Walker,Artifact Creature,Construct,New Phyrexia,Uncommon,3,Colorless,True,False,True,False,b'Volkan Ba\xc7\xb5a',0.05
-Lashwrithe,Artifact,Equipment,New Phyrexia,Rare,4,Colorless,True,False,True,True,b'Jason Felix',0.44
-Mindcrank,Artifact,None,New Phyrexia,Uncommon,2,Colorless,True,False,True,True,b'Chris Rahn',1.87
-Mycosynth Wellspring,Artifact,None,New Phyrexia,Common,2,Colorless,True,False,True,True,b'David Rapoza',0.15
-Myr Superion,Artifact Creature,Myr,New Phyrexia,Rare,2,Colorless,True,False,True,True,b'Jana Schirmer',1.4
-Necropouncer,Artifact,Equipment,New Phyrexia,Uncommon,6,Colorless,True,False,True,False,b'Cos Koniotis',0.06
-Omen Machine,Artifact,None,New Phyrexia,Rare,6,Colorless,True,False,True,False,b'David Rapoza',0.72
-Pestilent Souleater,Artifact Creature,Insect,New Phyrexia,Common,5,Colorless,True,False,True,False,b'Matt Stewart',0.11
-Phyrexian Hulk,Artifact Creature,Golem,New Phyrexia,Common,6,Colorless,True,False,True,True,b'Steven Belledin',0.1
-Pristine Talisman,Artifact,None,New Phyrexia,Common,3,Colorless,True,False,True,True,b'Matt Cavotta',0.22
-Shrine of Boundless Growth,Artifact,None,New Phyrexia,Uncommon,3,Colorless,True,False,True,False,b'Karl Kopinski',0.11
-Shrine of Burning Rage,Artifact,None,New Phyrexia,Uncommon,2,Colorless,True,False,True,True,b'Dave Kendall',1.22
-Shrine of Limitless Power,Artifact,None,New Phyrexia,Uncommon,3,Colorless,True,False,True,False,b'Min Yum',0.07
-Shrine of Loyal Legions,Artifact,None,New Phyrexia,Uncommon,2,Colorless,True,False,True,True,b'Igor Kieryluk',0.11
-Shrine of Piercing Vision,Artifact,None,New Phyrexia,Uncommon,2,Colorless,True,False,True,False,b'Jana Schirmer',0.06
-Sickleslicer,Artifact,Equipment,New Phyrexia,Uncommon,3,Colorless,True,False,True,True,b'Jason Felix',0.08
-Soul Conduit,Artifact,None,New Phyrexia,Rare,6,Colorless,True,False,True,False,b'Brad Rigney',0.42
-Spellskite,Artifact Creature,Horror,New Phyrexia,Rare,2,Colorless,True,False,True,True,b'Chippy',6.03
-Surge Node,Artifact,None,New Phyrexia,Uncommon,1,Colorless,True,False,True,False,b'Lars Grant-West',0.35
-Sword of War and Peace,Artifact,Equipment,New Phyrexia,Mythic Rare,3,Colorless,True,False,True,True,b'Chris Rahn',18.88
-Torpor Orb,Artifact,None,New Phyrexia,Rare,2,Colorless,True,False,True,False,b'Svetlin Velinov',4.25
-Trespassing Souleater,Artifact Creature,Construct,New Phyrexia,Common,3,Colorless,True,False,True,False,b'Scott Chou',0.1
-Unwinding Clock,Artifact,None,New Phyrexia,Rare,4,Colorless,True,False,True,True,b'Mike Bierek',5.3
-Phyrexia's Core,Land,None,New Phyrexia,Uncommon,0,Colorless,True,False,True,True,b'Franz Vohwinkel',0.16
-Plains,Basic Land,Plains,New Phyrexia,Common,0,Colorless,True,True,True,True,b'James Paick',0.19
-Plains,Basic Land,Plains,New Phyrexia,Common,0,Colorless,True,True,True,True,b'James Paick',0.12
-Island,Basic Land,Island,New Phyrexia,Common,0,Colorless,True,True,True,True,b'Jung Park',0.25
-Island,Basic Land,Island,New Phyrexia,Common,0,Colorless,True,True,True,True,b'Jung Park',0.27
-Swamp,Basic Land,Swamp,New Phyrexia,Common,0,Colorless,True,True,True,True,b'Lars Grant-West',0.48
-Swamp,Basic Land,Swamp,New Phyrexia,Common,0,Colorless,True,True,True,True,b'Lars Grant-West',0.38
-Mountain,Basic Land,Mountain,New Phyrexia,Common,0,Colorless,True,True,True,True,b'Tomasz Jedruszek',0.53
-Mountain,Basic Land,Mountain,New Phyrexia,Common,0,Colorless,True,True,True,True,b'Tomasz Jedruszek',0.39
-Forest,Basic Land,Forest,New Phyrexia,Common,0,Colorless,True,True,True,True,b'Mark Tedin',0.23
-Forest,Basic Land,Forest,New Phyrexia,Common,0,Colorless,True,True,True,True,b'Mark Tedin',0.18
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Karn Liberated,Planeswalker,Karn,New Phyrexia,Mythic Rare,7,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',35.89,True
+Apostle's Blessing,Instant,None,New Phyrexia,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Brad Rigney',0.26,False
+Auriok Survivors,Creature,Human Soldier,New Phyrexia,Uncommon,6,White,Legal,Not Legal,Legal,Legal,Legal,False,b'James Ryman',0.09,False
+Blade Splicer,Creature,Human Artificer,New Phyrexia,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.88,False
+Cathedral Membrane,Artifact Creature,Wall,New Phyrexia,Uncommon,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Richard Whitters',0.23,False
+Chancellor of the Annex,Creature,Angel,New Phyrexia,Rare,7,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Min Yum',2.53,False
+Dispatch,Instant,None,New Phyrexia,Uncommon,1,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Erica Yang',0.96,False
+Due Respect,Instant,None,New Phyrexia,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'James Ryman',0.12,False
+Elesh Norn Grand Cenobite,Creature,Praetor,New Phyrexia,Mythic Rare,7,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',20.44,True
+Exclusion Ritual,Enchantment,None,New Phyrexia,Uncommon,6,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Daniel Ljunggren',0.1,False
+Forced Worship,Enchantment,Aura,New Phyrexia,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.08,False
+Inquisitor Exarch,Creature,Cleric,New Phyrexia,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Igor Kieryluk',0.13,False
+Lost Leonin,Creature,Cat Soldier,New Phyrexia,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Min Yum',0.16,False
+Loxodon Convert,Creature,Elephant Soldier,New Phyrexia,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Adrian Smith',0.06,False
+Marrow Shards,Instant,None,New Phyrexia,Uncommon,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Raymond Swanland',0.14,False
+Master Splicer,Creature,Human Artificer,New Phyrexia,Uncommon,4,White,Legal,Legal,Legal,Legal,Legal,True,b'Chippy',0.11,False
+Norn's Annex,Artifact,None,New Phyrexia,Rare,7,White,Legal,Not Legal,Legal,Legal,Legal,True,b'James Paick',4.56,False
+Phyrexian Unlife,Enchantment,None,New Phyrexia,Rare,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Jason Chan',3.64,False
+Porcelain Legionnaire,Artifact Creature,Soldier,New Phyrexia,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Eric Deschamps',0.15,False
+Puresteel Paladin,Creature,Human Knight,New Phyrexia,Rare,2,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Jason Chan',12.72,False
+Remember the Fallen,Sorcery,None,New Phyrexia,Common,3,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Eric Deschamps',0.14,False
+Sensor Splicer,Creature,Artificer,New Phyrexia,Common,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.07,False
+Shattered Angel,Creature,Angel,New Phyrexia,Uncommon,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.61,False
+Shriek Raptor,Creature,Bird,New Phyrexia,Common,5,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Efrem Palacios',0.12,False
+Suture Priest,Creature,Cleric,New Phyrexia,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.92,False
+War Report,Instant,None,New Phyrexia,Common,4,White,Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Bierek',0.12,False
+Argent Mutation,Instant,None,New Phyrexia,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Jana Schirmer',0.09,False
+Arm with Aether,Sorcery,None,New Phyrexia,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Austin Hsu',0.15,False
+Blighted Agent,Creature,Human Rogue,New Phyrexia,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony Francisco',0.78,False
+Chained Throatseeker,Creature,Horror,New Phyrexia,Common,6,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Stephan Martiniere',0.11,False
+Chancellor of the Spires,Creature,Sphinx,New Phyrexia,Rare,7,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Nils Hamm',0.42,False
+Corrupted Resolve,Instant,None,New Phyrexia,Uncommon,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Greg Staples',0.17,False
+Deceiver Exarch,Creature,Cleric,New Phyrexia,Uncommon,3,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',0.32,False
+Defensive Stance,Enchantment,Aura,New Phyrexia,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.03,False
+Gitaxian Probe,Sorcery,None,New Phyrexia,Common,2,Blue,Banned,Not Legal,Legal,Restrict.,Banned,True,b'Chippy',1.22,False
+Impaler Shrike,Creature,Bird,New Phyrexia,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Nils Hamm',0.08,False
+Jin-Gitaxias Core Augur,Creature,Praetor,New Phyrexia,Mythic Rare,10,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Eric Deschamps',18.44,True
+Mental Misstep,Instant,None,New Phyrexia,Uncommon,2,Blue,Banned,Not Legal,Legal,Restrict.,Banned,False,b'Erica Yang',4.22,False
+Mindculling,Sorcery,None,New Phyrexia,Uncommon,6,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Cos Koniotis',0.08,False
+Numbing Dose,Enchantment,Aura,New Phyrexia,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Brad Rigney',0.07,False
+Phyrexian Ingester,Creature,Beast,New Phyrexia,Rare,7,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.23,False
+Phyrexian Metamorph,Artifact Creature,Shapeshifter,New Phyrexia,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Jana Schirmer',6.05,False
+Psychic Barrier,Instant,None,New Phyrexia,Common,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.12,False
+Psychic Surgery,Enchantment,None,New Phyrexia,Rare,2,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony Francisco',0.43,False
+Spined Thopter,Artifact Creature,Thopter,New Phyrexia,Common,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.11,False
+Spire Monitor,Creature,Drake,New Phyrexia,Common,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',0.1,False
+Tezzeret's Gambit,Sorcery,None,New Phyrexia,Uncommon,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',0.48,False
+Vapor Snag,Instant,None,New Phyrexia,Common,1,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Raymond Swanland',0.32,False
+Viral Drake,Creature,Drake,New Phyrexia,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Lars Grant-West',1.73,False
+Wing Splicer,Creature,Human Artificer,New Phyrexia,Uncommon,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.14,False
+Xenograft,Enchantment,None,New Phyrexia,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,False,b'Daniel Ljunggren',1.35,False
+Blind Zealot,Creature,Human Cleric,New Phyrexia,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Jana Schirmer',0.11,False
+Caress of Phyrexia,Sorcery,None,New Phyrexia,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Karl Kopinski',0.41,False
+Chancellor of the Dross,Creature,Vampire,New Phyrexia,Rare,7,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Stephan Martiniere',0.55,False
+Dementia Bat,Creature,Bat,New Phyrexia,Common,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Daarken',0.15,False
+Despise,Sorcery,None,New Phyrexia,Uncommon,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',0.17,False
+Dismember,Instant,None,New Phyrexia,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Terese Nielsen',2.1,False
+Enslave,Enchantment,Aura,New Phyrexia,Uncommon,6,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.12,False
+Entomber Exarch,Creature,Cleric,New Phyrexia,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.14,False
+Evil Presence,Enchantment,Aura,New Phyrexia,Common,1,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Chou',0.11,False
+Geth's Verdict,Instant,None,New Phyrexia,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Whit Brachna',0.36,False
+Glistening Oil,Enchantment,Aura,New Phyrexia,Rare,2,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Steven Belledin',1.72,False
+Grim Affliction,Instant,None,New Phyrexia,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Erica Yang',0.24,False
+Ichor Explosion,Sorcery,None,New Phyrexia,Uncommon,7,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'James Ryman',0.08,False
+Life's Finale,Sorcery,None,New Phyrexia,Rare,6,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Svetlin Velinov',2.34,False
+Mortis Dogs,Creature,Dog,New Phyrexia,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Chippy',0.09,False
+Parasitic Implant,Enchantment,Aura,New Phyrexia,Common,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Felix',0.07,False
+Phyrexian Obliterator,Creature,Horror,New Phyrexia,Mythic Rare,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Todd Lockwood',17.96,False
+Pith Driller,Artifact Creature,Horror,New Phyrexia,Common,6,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Nils Hamm',0.1,False
+Postmortem Lunge,Sorcery,None,New Phyrexia,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Daarken',0.68,False
+Praetor's Grasp,Sorcery,None,New Phyrexia,Rare,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Argyle',7.06,False
+Reaper of Sheoldred,Creature,Horror,New Phyrexia,Uncommon,5,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Stephan Martiniere',1.07,False
+Sheoldred Whispering One,Creature,Praetor,New Phyrexia,Mythic Rare,7,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Jana Schirmer',26.89,True
+Surgical Extraction,Instant,None,New Phyrexia,Rare,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',13.34,False
+Toxic Nim,Creature,Zombie,New Phyrexia,Common,6,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Karl Kopinski',0.16,False
+Vault Skirge,Artifact Creature,Imp,New Phyrexia,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Brad Rigney',0.35,False
+Whispering Specter,Creature,Specter,New Phyrexia,Uncommon,3,Black,Legal,Not Legal,Legal,Legal,Legal,False,b'Jason Felix',1.49,False
+Act of Aggression,Instant,None,New Phyrexia,Uncommon,7,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Whit Brachna',0.2,False
+Artillerize,Instant,None,New Phyrexia,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Johann Bodin',0.09,False
+Bludgeon Brawl,Enchantment,None,New Phyrexia,Rare,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.24,False
+Chancellor of the Forge,Creature,Giant,New Phyrexia,Rare,7,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Chippy',0.98,False
+Fallen Ferromancer,Creature,Human Shaman,New Phyrexia,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'David Rapoza',0.18,False
+Flameborn Viron,Creature,Insect,New Phyrexia,Common,6,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Svetlin Velinov',0.12,False
+Furnace Scamp,Creature,Beast,New Phyrexia,Common,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Karl Kopinski',0.17,False
+Geosurge,Sorcery,None,New Phyrexia,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Igor Kieryluk',0.32,False
+Gut Shot,Instant,None,New Phyrexia,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Greg Staples',0.54,False
+Invader Parasite,Creature,Insect,New Phyrexia,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Volkan Ba\xc7\xb5a',0.24,False
+Moltensteel Dragon,Artifact Creature,Dragon,New Phyrexia,Rare,8,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'James Ryman',0.6,False
+Ogre Menial,Creature,Ogre,New Phyrexia,Common,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'David Rapoza',0.12,False
+Priest of Urabrask,Creature,Human Cleric,New Phyrexia,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Kev Walker',0.24,False
+Rage Extractor,Artifact,None,New Phyrexia,Uncommon,6,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Raymond Swanland',0.08,False
+Razor Swine,Creature,Boar,New Phyrexia,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Allsop',0.13,False
+Ruthless Invasion,Sorcery,None,New Phyrexia,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Svetlin Velinov',0.07,False
+Scrapyard Salvo,Sorcery,None,New Phyrexia,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Austin Hsu',0.16,False
+Slag Fiend,Creature,Construct,New Phyrexia,Rare,1,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Bierek',0.22,False
+Slash Panther,Artifact Creature,Cat,New Phyrexia,Common,6,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Stewart',0.1,False
+Tormentor Exarch,Creature,Cleric,New Phyrexia,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Brad Rigney',0.07,False
+Urabrask the Hidden,Creature,Praetor,New Phyrexia,Mythic Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Brad Rigney',7.2,True
+Victorious Destruction,Sorcery,None,New Phyrexia,Common,5,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Jung Park',0.1,False
+Volt Charge,Instant,None,New Phyrexia,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Jana Schirmer',0.19,False
+Vulshok Refugee,Creature,Human Warrior,New Phyrexia,Uncommon,3,Red,Legal,Not Legal,Legal,Legal,Legal,False,b'Wayne Reynolds',0.07,False
+Whipflare,Sorcery,None,New Phyrexia,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Johann Bodin',0.29,False
+Beast Within,Instant,None,New Phyrexia,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Allsop',2.2,False
+Birthing Pod,Artifact,None,New Phyrexia,Rare,5,Green,Banned,Not Legal,Legal,Legal,Legal,True,b'Daarken',14.65,False
+Brutalizer Exarch,Creature,Cleric,New Phyrexia,Uncommon,6,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',0.26,False
+Chancellor of the Tangle,Creature,Beast,New Phyrexia,Rare,7,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Steve Prescott',0.88,False
+Corrosive Gale,Sorcery,None,New Phyrexia,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.15,False
+Death-Hood Cobra,Creature,Snake,New Phyrexia,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Felix',0.09,False
+Fresh Meat,Instant,None,New Phyrexia,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Allsop',0.21,False
+Glissa's Scorn,Instant,None,New Phyrexia,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Nils Hamm',0.08,False
+Glistener Elf,Creature,Elf Warrior,New Phyrexia,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Steve Argyle',0.92,False
+Greenhilt Trainee,Creature,Elf Warrior,New Phyrexia,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Chris Rahn',0.1,False
+Leeching Bite,Instant,None,New Phyrexia,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Cos Koniotis',0.06,False
+Maul Splicer,Creature,Human Artificer,New Phyrexia,Common,7,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Chan',0.13,False
+Melira Sylvok Outcast,Creature,Human Scout,New Phyrexia,Rare,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Min Yum',3.1,True
+Mutagenic Growth,Instant,None,New Phyrexia,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Kendall',0.81,False
+Mycosynth Fiend,Creature,Horror,New Phyrexia,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Kev Walker',0.11,False
+Noxious Revival,Instant,None,New Phyrexia,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Stewart',9.92,False
+Phyrexian Swarmlord,Creature,Insect Horror,New Phyrexia,Rare,6,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Svetlin Velinov',2.06,False
+Rotted Hystrix,Creature,Beast,New Phyrexia,Common,5,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Allsop',0.05,False
+Spinebiter,Creature,Beast,New Phyrexia,Uncommon,6,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Jaime Jones',0.47,False
+Thundering Tanadon,Artifact Creature,Beast,New Phyrexia,Common,8,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.09,False
+Triumph of the Hordes,Sorcery,None,New Phyrexia,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Izzy',8.45,False
+Viridian Betrayers,Creature,Elf Warrior,New Phyrexia,Common,3,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Karl Kopinski',0.11,False
+Viridian Harvest,Enchantment,Aura,New Phyrexia,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,False,b'Johann Bodin',0.05,False
+Vital Splicer,Creature,Human Artificer,New Phyrexia,Uncommon,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Daarken',0.11,False
+Vorinclex Voice of Hunger,Creature,Praetor,New Phyrexia,Mythic Rare,8,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Karl Kopinski',28.43,True
+Jor Kadeen the Prevailer,Creature,Human Warrior,New Phyrexia,Rare,5,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Austin Hsu',0.31,True
+Alloy Myr,Artifact Creature,Myr,New Phyrexia,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.26,False
+Batterskull,Artifact,Equipment,New Phyrexia,Mythic Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Zug',15.48,False
+Blinding Souleater,Artifact Creature,Cleric,New Phyrexia,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.08,False
+Caged Sun,Artifact,None,New Phyrexia,Rare,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Scott Chou',7.37,False
+Conversion Chamber,Artifact,None,New Phyrexia,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony Francisco',0.13,False
+Darksteel Relic,Artifact,None,New Phyrexia,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',0.44,False
+Etched Monstrosity,Artifact Creature,Golem,New Phyrexia,Mythic Rare,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.55,False
+Gremlin Mine,Artifact,None,New Phyrexia,Common,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Stewart',0.1,False
+Hex Parasite,Artifact Creature,Insect,New Phyrexia,Rare,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Raymond Swanland',2.7,False
+Hovermyr,Artifact Creature,Myr,New Phyrexia,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Scott',0.16,False
+Immolating Souleater,Artifact Creature,Dog,New Phyrexia,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Austin Hsu',0.15,False
+Insatiable Souleater,Artifact Creature,Beast,New Phyrexia,Common,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Dave Kendall',0.13,False
+Isolation Cell,Artifact,None,New Phyrexia,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Adrian Smith',0.22,False
+Kiln Walker,Artifact Creature,Construct,New Phyrexia,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Volkan Ba\xc7\xb5a',0.06,False
+Lashwrithe,Artifact,Equipment,New Phyrexia,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Felix',0.53,False
+Mindcrank,Artifact,None,New Phyrexia,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',2.56,False
+Mycosynth Wellspring,Artifact,None,New Phyrexia,Common,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'David Rapoza',0.14,False
+Myr Superion,Artifact Creature,Myr,New Phyrexia,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jana Schirmer',1.32,False
+Necropouncer,Artifact,Equipment,New Phyrexia,Uncommon,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Cos Koniotis',0.08,False
+Omen Machine,Artifact,None,New Phyrexia,Rare,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'David Rapoza',0.67,False
+Pestilent Souleater,Artifact Creature,Insect,New Phyrexia,Common,5,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Matt Stewart',0.12,False
+Phyrexian Hulk,Artifact Creature,Golem,New Phyrexia,Common,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Steven Belledin',0.15,False
+Pristine Talisman,Artifact,None,New Phyrexia,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Matt Cavotta',0.21,False
+Shrine of Boundless Growth,Artifact,None,New Phyrexia,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Karl Kopinski',0.13,False
+Shrine of Burning Rage,Artifact,None,New Phyrexia,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dave Kendall',1.1,False
+Shrine of Limitless Power,Artifact,None,New Phyrexia,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Min Yum',0.08,False
+Shrine of Loyal Legions,Artifact,None,New Phyrexia,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.12,False
+Shrine of Piercing Vision,Artifact,None,New Phyrexia,Uncommon,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Jana Schirmer',0.08,False
+Sickleslicer,Artifact,Equipment,New Phyrexia,Uncommon,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Jason Felix',0.08,False
+Soul Conduit,Artifact,None,New Phyrexia,Rare,6,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Brad Rigney',0.42,False
+Spellskite,Artifact Creature,Horror,New Phyrexia,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Chippy',5.91,False
+Surge Node,Artifact,None,New Phyrexia,Uncommon,1,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Lars Grant-West',0.33,False
+Sword of War and Peace,Artifact,Equipment,New Phyrexia,Mythic Rare,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Chris Rahn',19.58,False
+Torpor Orb,Artifact,None,New Phyrexia,Rare,2,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Svetlin Velinov',4.39,False
+Trespassing Souleater,Artifact Creature,Construct,New Phyrexia,Common,3,Colorless,Legal,Not Legal,Legal,Legal,Legal,False,b'Scott Chou',0.12,False
+Unwinding Clock,Artifact,None,New Phyrexia,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Bierek',6.75,False
+Phyrexia's Core,Land,None,New Phyrexia,Uncommon,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Franz Vohwinkel',0.2,False
+Plains,Basic Land,Plains,New Phyrexia,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'James Paick',0.23,False
+Plains,Basic Land,Plains,New Phyrexia,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'James Paick',0.15,False
+Island,Basic Land,Island,New Phyrexia,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jung Park',0.27,False
+Island,Basic Land,Island,New Phyrexia,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jung Park',0.3,False
+Swamp,Basic Land,Swamp,New Phyrexia,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.45,False
+Swamp,Basic Land,Swamp,New Phyrexia,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Lars Grant-West',0.49,False
+Mountain,Basic Land,Mountain,New Phyrexia,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.54,False
+Mountain,Basic Land,Mountain,New Phyrexia,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.28,False
+Forest,Basic Land,Forest,New Phyrexia,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.25,False
+Forest,Basic Land,Forest,New Phyrexia,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.19,False

@@ -1,276 +1,276 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-"Karn, the Great Creator",Legendary Planeswalker,Karn,War of the Spark,Rare,4,Colorless,True,True,True,True,b'Wisnu Tan',5.16
-"Ugin, the Ineffable",Legendary Planeswalker,Ugin,War of the Spark,Rare,6,Colorless,True,True,True,True,b'Daarken',2.13
-Ugin's Conjurant,Creature,Spirit Monk,War of the Spark,Uncommon,1,Colorless,True,True,True,True,b'Ryan Yee',0.12
-Ajani's Pridemate,Creature,Cat Soldier,War of the Spark,Uncommon,2,White,True,True,True,True,b'Sidharth Chaturvedi',0.2
-Battlefield Promotion,Instant,None,War of the Spark,Common,2,White,True,True,True,True,b'Scott Murphy',0.05
-Bond of Discipline,Sorcery,None,War of the Spark,Uncommon,5,White,True,True,True,True,b'Zezhou Chen',0.1
-Bulwark Giant,Creature,Giant Soldier,War of the Spark,Common,6,White,True,True,True,True,b'Victor Adame Minguez',0.04
-Charmed Stray,Creature,Cat,War of the Spark,Common,1,White,True,True,True,True,b'Chris Rahn',0.1
-Defiant Strike,Instant,None,War of the Spark,Common,1,White,True,True,True,True,b'Gabor Szikszai',0.1
-Divine Arrow,Instant,None,War of the Spark,Common,2,White,True,True,True,True,b'Kieran Yanner',0.02
-Enforcer Griffin,Creature,Griffin,War of the Spark,Common,5,White,True,True,True,True,b'Johan Grenier',0.02
-Finale of Glory,Sorcery,None,War of the Spark,Mythic Rare,3,White,True,True,True,True,b'Stanton Feng',1.86
-Gideon Blackblade,Legendary Planeswalker,Gideon,War of the Spark,Mythic Rare,3,White,True,True,True,True,b'Viktor Titov',4.27
-Gideon's Sacrifice,Instant,None,War of the Spark,Common,1,White,True,True,True,True,b'Chris Rallis',0.05
-Gideon's Triumph,Instant,None,War of the Spark,Uncommon,2,White,True,True,True,True,b'Kieran Yanner',0.05
-God-Eternal Oketra,Legendary Creature,Zombie God,War of the Spark,Mythic Rare,5,White,True,True,True,True,b'Grzegorz Rutkowski',4.78
-Grateful Apparition,Creature,Spirit,War of the Spark,Uncommon,2,White,True,True,True,True,b'Izzy',0.12
-Ignite the Beacon,Instant,None,War of the Spark,Rare,5,White,True,True,True,True,b'Slawomir Maniak',0.22
-Ironclad Krovod,Creature,Beast,War of the Spark,Common,4,White,True,True,True,True,b'Sam Rowan',0.01
-Law-Rune Enforcer,Creature,Human Soldier,War of the Spark,Common,1,White,True,True,True,True,b'Eric Deschamps',0.05
-Loxodon Sergeant,Creature,Elephant Soldier,War of the Spark,Common,4,White,True,True,True,True,b'Jesper Ejsing',0.02
-Makeshift Battalion,Creature,Human Soldier,War of the Spark,Common,3,White,True,True,True,True,b'Zoltan Boros',0.03
-Martyr for the Cause,Creature,Human Soldier,War of the Spark,Common,2,White,True,True,True,True,b'Zoltan Boros',0.08
-Parhelion II,Legendary Artifact,Vehicle,War of the Spark,Rare,8,White,True,True,True,True,b'Adam Paquette',0.22
-Pouncing Lynx,Creature,Cat,War of the Spark,Common,2,White,True,True,True,True,b'Sidharth Chaturvedi',0.03
-Prison Realm,Enchantment,None,War of the Spark,Uncommon,3,White,True,True,True,True,b'Daarken',0.13
-Rally of Wings,Instant,None,War of the Spark,Uncommon,2,White,True,True,True,True,b'Magali Villeneuve',0.18
-Ravnica at War,Sorcery,None,War of the Spark,Rare,4,White,True,True,True,True,b'Adam Paquette',0.22
-Rising Populace,Creature,Human,War of the Spark,Common,3,White,True,True,True,True,b'Tomasz Jedruszek',0.05
-Single Combat,Sorcery,None,War of the Spark,Rare,5,White,True,True,True,True,b'Livia Prima',0.25
-Sunblade Angel,Creature,Angel,War of the Spark,Uncommon,6,White,True,True,True,True,b'Johannes Voss',0.09
-"Teyo, the Shieldmage",Legendary Planeswalker,Teyo,War of the Spark,Uncommon,3,White,True,True,True,True,b'Magali Villeneuve',0.21
-Teyo's Lightshield,Creature,Illusion,War of the Spark,Common,3,White,True,True,True,True,b'Igor Kieryluk',0.03
-"Tomik, Distinguished Advokist",Legendary Creature,Human Advisor,War of the Spark,Rare,2,White,True,True,True,True,b'Johannes Voss',0.44
-Topple the Statue,Instant,None,War of the Spark,Common,3,White,True,True,True,True,b'Sidharth Chaturvedi',0.06
-Trusted Pegasus,Creature,Pegasus,War of the Spark,Common,3,White,True,True,True,True,b'Chris Rahn',0.05
-The Wanderer,Legendary Planeswalker,None,War of the Spark,Uncommon,4,White,True,True,True,True,b'Wesley Burt',0.31
-Wanderer's Strike,Sorcery,None,War of the Spark,Common,5,White,True,True,True,True,b'Sara Winters',0.06
-War Screecher,Creature,Bird,War of the Spark,Common,2,White,True,True,True,True,b'Dan Scott',0.03
-Ashiok's Skulker,Creature,Nightmare,War of the Spark,Common,5,Blue,True,True,True,True,b'Livia Prima',0.06
-Augur of Bolas,Creature,Merfolk Wizard,War of the Spark,Uncommon,2,Blue,True,True,True,True,b'Alex Konstad',0.12
-Aven Eternal,Creature,Zombie Bird Warrior,War of the Spark,Common,3,Blue,True,True,True,True,b'Johan Grenier',0.04
-Bond of Insight,Sorcery,None,War of the Spark,Uncommon,4,Blue,True,True,True,True,b'Joe Slucher',0.12
-Callous Dismissal,Sorcery,None,War of the Spark,Common,2,Blue,True,True,True,True,b'Mathias Kollros',0.1
-Commence the Endgame,Instant,None,War of the Spark,Rare,6,Blue,True,True,True,True,b'Noah Bradley',0.3
-Contentious Plan,Sorcery,None,War of the Spark,Common,2,Blue,True,True,True,True,b'Eric Deschamps',0.15
-Crush Dissent,Instant,None,War of the Spark,Common,4,Blue,True,True,True,True,b'Mike Bierek',0.04
-Erratic Visionary,Creature,Human Wizard,War of the Spark,Common,2,Blue,True,True,True,True,b'Randy Vargas',0.03
-Eternal Skylord,Creature,Zombie Wizard,War of the Spark,Uncommon,5,Blue,True,True,True,True,b'Johan Grenier',0.12
-"Fblthp, the Lost",Legendary Creature,Homunculus,War of the Spark,Rare,2,Blue,True,True,True,True,b'Jesper Ejsing',0.43
-Finale of Revelation,Sorcery,None,War of the Spark,Mythic Rare,3,Blue,True,True,True,True,b'Johann Bodin',2.08
-Flux Channeler,Creature,Human Wizard,War of the Spark,Uncommon,3,Blue,True,True,True,True,b'Heonhwa Choe',0.26
-God-Eternal Kefnet,Legendary Creature,Zombie God,War of the Spark,Mythic Rare,4,Blue,True,True,True,True,b'Lius Lasahido',3.81
-"Jace, Wielder of Mysteries",Legendary Planeswalker,Jace,War of the Spark,Rare,4,Blue,True,True,True,True,b'Anna Steinbauer',6.26
-Jace's Triumph,Sorcery,None,War of the Spark,Uncommon,3,Blue,True,True,True,True,b'Kieran Yanner',0.08
-"Kasmina, Enigmatic Mentor",Legendary Planeswalker,Kasmina,War of the Spark,Uncommon,4,Blue,True,True,True,True,b'Magali Villeneuve',0.19
-Kasmina's Transmutation,Enchantment,Aura,War of the Spark,Common,2,Blue,True,True,True,True,b'Uriah Voth',0.08
-Kiora's Dambreaker,Creature,Leviathan,War of the Spark,Common,6,Blue,True,True,True,True,b'Mathias Kollros',0.04
-Lazotep Plating,Instant,None,War of the Spark,Uncommon,2,Blue,True,True,True,True,b'Yeong-Hao Han',0.2
-Naga Eternal,Creature,Zombie Naga,War of the Spark,Common,3,Blue,True,True,True,True,b'Johann Bodin',0.02
-"Narset, Parter of Veils",Legendary Planeswalker,Narset,War of the Spark,Uncommon,3,Blue,True,True,True,True,b'Magali Villeneuve',0.92
-Narset's Reversal,Instant,None,War of the Spark,Rare,2,Blue,True,True,True,True,b'Viktor Titov',3.8
-No Escape,Instant,None,War of the Spark,Common,3,Blue,True,True,True,True,b'G-host Lee',0.04
-Relentless Advance,Sorcery,None,War of the Spark,Common,4,Blue,True,True,True,True,b'Stanton Feng',0.04
-Rescuer Sphinx,Creature,Sphinx,War of the Spark,Uncommon,4,Blue,True,True,True,True,b'Jesper Ejsing',0.04
-Silent Submersible,Artifact,Vehicle,War of the Spark,Rare,2,Blue,True,True,True,True,b'Daniel Ljunggren',0.13
-Sky Theater Strix,Creature,Bird,War of the Spark,Common,2,Blue,True,True,True,True,b'Chris Seaman',0.02
-Spark Double,Creature,Illusion,War of the Spark,Rare,4,Blue,True,True,True,True,b'Eric Deschamps',6.37
-Spellkeeper Weird,Creature,Weird,War of the Spark,Common,3,Blue,True,True,True,True,b'James Paick',0.03
-Stealth Mission,Sorcery,None,War of the Spark,Common,3,Blue,True,True,True,True,b'Heonhwa Choe',0.05
-Tamiyo's Epiphany,Sorcery,None,War of the Spark,Common,4,Blue,True,True,True,True,b'Lake Hurwitz',0.05
-Teferi's Time Twist,Instant,None,War of the Spark,Common,2,Blue,True,True,True,True,b'Ralph Horsley',0.13
-Thunder Drake,Creature,Elemental Drake,War of the Spark,Common,4,Blue,True,True,True,True,b'Yeong-Hao Han',0.03
-Totally Lost,Instant,None,War of the Spark,Common,5,Blue,True,True,True,True,b'Aaron Miller',0.02
-Wall of Runes,Creature,Wall,War of the Spark,Common,1,Blue,True,True,True,True,b'Zezhou Chen',0.08
-Aid the Fallen,Sorcery,None,War of the Spark,Common,2,Black,True,True,True,True,b'Sara Winters',0.05
-Banehound,Creature,Nightmare Hound,War of the Spark,Common,1,Black,True,True,True,True,b'YW Tang',0.09
-Bleeding Edge,Sorcery,None,War of the Spark,Uncommon,3,Black,True,True,True,True,b'Mike Bierek',0.13
-Bolas's Citadel,Legendary Artifact,None,War of the Spark,Rare,6,Black,True,True,True,True,b'Jonas De Ro',2.52
-Bond of Revival,Sorcery,None,War of the Spark,Uncommon,5,Black,True,True,True,True,b'Lake Hurwitz',0.12
-Charity Extractor,Creature,Human Knight,War of the Spark,Common,4,Black,True,True,True,True,b'Matt Stewart',0.02
-Command the Dreadhorde,Sorcery,None,War of the Spark,Rare,6,Black,True,True,True,True,b'Daarken',0.51
-"Davriel, Rogue Shadowmage",Legendary Planeswalker,Davriel,War of the Spark,Uncommon,3,Black,True,True,True,True,b'Daarken',0.3
-Davriel's Shadowfugue,Sorcery,None,War of the Spark,Common,4,Black,True,True,True,True,b'Daarken',0.04
-Deliver Unto Evil,Sorcery,None,War of the Spark,Rare,3,Black,True,True,True,True,b'Seb McKinnon',0.2
-Dreadhorde Invasion,Enchantment,None,War of the Spark,Rare,2,Black,True,True,True,True,b'Stanton Feng',0.49
-Dreadmalkin,Creature,Zombie Cat,War of the Spark,Uncommon,1,Black,True,True,True,True,b'Aaron Miller',0.11
-Duskmantle Operative,Creature,Human Rogue,War of the Spark,Common,2,Black,True,True,True,True,b'Anna Steinbauer',0.02
-The Elderspell,Sorcery,None,War of the Spark,Rare,2,Black,True,True,True,True,b'Daarken',0.69
-Eternal Taskmaster,Creature,Zombie,War of the Spark,Uncommon,2,Black,True,True,True,True,b'Tomasz Jedruszek',0.12
-Finale of Eternity,Sorcery,None,War of the Spark,Mythic Rare,3,Black,True,True,True,True,b'Daarken',1.21
-God-Eternal Bontu,Legendary Creature,Zombie God,War of the Spark,Mythic Rare,5,Black,True,True,True,True,b'Lius Lasahido',2.48
-Herald of the Dreadhorde,Creature,Zombie Warrior,War of the Spark,Common,4,Black,True,True,True,True,b'Heonhwa Choe',0.04
-Kaya's Ghostform,Enchantment,Aura,War of the Spark,Common,1,Black,True,True,True,True,b'Johan Grenier',0.22
-Lazotep Behemoth,Creature,Zombie Hippo,War of the Spark,Common,5,Black,True,True,True,True,b'Zezhou Chen',0.04
-Lazotep Reaver,Creature,Zombie Beast,War of the Spark,Common,2,Black,True,True,True,True,b'Craig J Spearing',0.1
-"Liliana, Dreadhorde General",Legendary Planeswalker,Liliana,War of the Spark,Mythic Rare,6,Black,True,True,True,True,b'Chris Rallis',15.4
-Liliana's Triumph,Instant,None,War of the Spark,Uncommon,2,Black,True,True,True,True,b'Kieran Yanner',0.18
-Massacre Girl,Legendary Creature,Human Assassin,War of the Spark,Rare,5,Black,True,True,True,True,b'Chris Rallis',0.3
-"Ob Nixilis, the Hate-Twisted",Legendary Planeswalker,Nixilis,War of the Spark,Uncommon,5,Black,True,True,True,True,b'Yongjae Choi',0.22
-Ob Nixilis's Cruelty,Instant,None,War of the Spark,Common,3,Black,True,True,True,True,b'Igor Kieryluk',0.06
-Price of Betrayal,Sorcery,None,War of the Spark,Uncommon,1,Black,True,True,True,True,b'Ryan Yee',0.12
-Shriekdiver,Creature,Zombie Bird Warrior,War of the Spark,Common,3,Black,True,True,True,True,b'Piotr Dura',0.03
-Sorin's Thirst,Instant,None,War of the Spark,Common,2,Black,True,True,True,True,b'Daarken',0.08
-Spark Harvest,Sorcery,None,War of the Spark,Common,1,Black,True,True,True,True,b'Kieran Yanner',0.11
-Spark Reaper,Creature,Zombie,War of the Spark,Common,3,Black,True,True,True,True,b'Zoltan Boros',0.04
-Tithebearer Giant,Creature,Giant Warrior,War of the Spark,Common,6,Black,True,True,True,True,b'Wisnu Tan',0.04
-Toll of the Invasion,Sorcery,None,War of the Spark,Common,3,Black,True,True,True,True,b'Joe Slucher',0.07
-Unlikely Aid,Instant,None,War of the Spark,Common,2,Black,True,True,True,True,b'Viktor Titov',0.06
-Vampire Opportunist,Creature,Vampire,War of the Spark,Common,2,Black,True,True,True,True,b'Jason Rainville',0.05
-Vizier of the Scorpion,Creature,Zombie Wizard,War of the Spark,Uncommon,3,Black,True,True,True,True,b'Zack Stella',0.13
-Vraska's Finisher,Creature,Gorgon Assassin,War of the Spark,Common,3,Black,True,True,True,True,b'Igor Kieryluk',0.05
-Ahn-Crop Invader,Creature,Zombie Minotaur Warrior,War of the Spark,Common,3,Red,True,True,True,True,b'Tomasz Jedruszek',0.02
-Blindblast,Instant,None,War of the Spark,Common,3,Red,True,True,True,True,b'Sidharth Chaturvedi',0.03
-Bolt Bend,Instant,None,War of the Spark,Uncommon,4,Red,True,True,True,True,b'Svetlin Velinov',0.11
-Bond of Passion,Sorcery,None,War of the Spark,Uncommon,6,Red,True,True,True,True,b'Izzy',0.06
-Burning Prophet,Creature,Human Wizard,War of the Spark,Common,2,Red,True,True,True,True,b'Mathias Kollros',0.1
-Chainwhip Cyclops,Creature,Cyclops Warrior,War of the Spark,Common,5,Red,True,True,True,True,b'Johann Bodin',0.02
-"Chandra, Fire Artisan",Legendary Planeswalker,Chandra,War of the Spark,Rare,4,Red,True,True,True,True,b'Yongjae Choi',0.56
-Chandra's Pyrohelix,Instant,None,War of the Spark,Common,2,Red,True,True,True,True,b'Aleksi Briclot',0.07
-Chandra's Triumph,Instant,None,War of the Spark,Uncommon,2,Red,True,True,True,True,b'Kieran Yanner',0.12
-Cyclops Electromancer,Creature,Cyclops Wizard,War of the Spark,Uncommon,5,Red,True,True,True,True,b'Jason Felix',0.04
-Demolish,Sorcery,None,War of the Spark,Common,4,Red,True,True,True,True,b'Adam Paquette',0.05
-Devouring Hellion,Creature,Hellion,War of the Spark,Uncommon,3,Red,True,True,True,True,b'Bayard Wu',0.04
-Dreadhorde Arcanist,Creature,Zombie Wizard,War of the Spark,Rare,2,Red,True,True,True,True,b'G-host Lee',2.28
-Dreadhorde Twins,Creature,Zombie Jackal Warrior,War of the Spark,Uncommon,4,Red,True,True,True,True,b'Johannes Voss',0.07
-Finale of Promise,Sorcery,None,War of the Spark,Mythic Rare,3,Red,True,True,True,True,b'Jaime Jones',1.5
-Goblin Assailant,Creature,Goblin Warrior,War of the Spark,Common,2,Red,True,True,True,True,b'Jesper Ejsing',0.02
-Goblin Assault Team,Creature,Goblin Warrior,War of the Spark,Common,4,Red,True,True,True,True,b'Zoltan Boros',0.02
-Grim Initiate,Creature,Zombie Warrior,War of the Spark,Common,1,Red,True,True,True,True,b'Jason Felix',0.09
-Heartfire,Instant,None,War of the Spark,Common,2,Red,True,True,True,True,b'Craig J Spearing',0.06
-Honor the God-Pharaoh,Sorcery,None,War of the Spark,Common,3,Red,True,True,True,True,b'David Palumbo',0.05
-"Ilharg, the Raze-Boar",Legendary Creature,Boar God,War of the Spark,Mythic Rare,5,Red,True,True,True,True,b'Filip Burburan',5.46
-Invading Manticore,Creature,Zombie Manticore,War of the Spark,Common,6,Red,True,True,True,True,b'Jehan Choo',0.03
-"Jaya, Venerated Firemage",Legendary Planeswalker,Jaya,War of the Spark,Uncommon,5,Red,True,True,True,True,b'Yongjae Choi',0.23
-Jaya's Greeting,Instant,None,War of the Spark,Common,2,Red,True,True,True,True,b'Victor Adame Minguez',0.07
-"Krenko, Tin Street Kingpin",Legendary Creature,Goblin,War of the Spark,Rare,3,Red,True,True,True,True,b'Mark Behm',0.61
-Mizzium Tank,Artifact,Vehicle,War of the Spark,Rare,3,Red,True,True,True,True,b'Wayne Reynolds',0.17
-Nahiri's Stoneblades,Instant,None,War of the Spark,Common,2,Red,True,True,True,True,b'Micah Epstein',0.04
-"Neheb, Dreadhorde Champion",Legendary Creature,Zombie Minotaur Warrior,War of the Spark,Rare,4,Red,True,True,True,True,b'Igor Kieryluk',0.42
-Raging Kronch,Creature,Beast,War of the Spark,Common,3,Red,True,True,True,True,b'Steve Prescott',0.03
-Samut's Sprint,Instant,None,War of the Spark,Common,1,Red,True,True,True,True,b'Aleksi Briclot',0.11
-Sarkhan the Masterless,Legendary Planeswalker,Sarkhan,War of the Spark,Rare,5,Red,True,True,True,True,b'Kieran Yanner',0.38
-Sarkhan's Catharsis,Instant,None,War of the Spark,Common,5,Red,True,True,True,True,b'Zack Stella',0.03
-Spellgorger Weird,Creature,Weird,War of the Spark,Common,3,Red,True,True,True,True,b'James Paick',0.04
-"Tibalt, Rakish Instigator",Legendary Planeswalker,Tibalt,War of the Spark,Uncommon,3,Red,True,True,True,True,b'Chase Stone',0.25
-Tibalt's Rager,Creature,Devil,War of the Spark,Uncommon,2,Red,True,True,True,True,b'Yongjae Choi',0.05
-Turret Ogre,Creature,Ogre Warrior,War of the Spark,Common,4,Red,True,True,True,True,b'Johann Bodin',0.02
-Arboreal Grazer,Creature,Beast,War of the Spark,Common,1,Green,True,True,True,True,b'Jason Rainville',0.49
-"Arlinn, Voice of the Pack",Legendary Planeswalker,Arlinn,War of the Spark,Uncommon,6,Green,True,True,True,True,b'Ryan Pancoast',0.19
-Arlinn's Wolf,Creature,Wolf,War of the Spark,Common,3,Green,True,True,True,True,b'Kimonas Theodossiou',0.06
-Awakening of Vitu-Ghazi,Instant,None,War of the Spark,Rare,5,Green,True,True,True,True,b'Jaime Jones',0.18
-Band Together,Instant,None,War of the Spark,Common,3,Green,True,True,True,True,b'Josh Hass',0.04
-Bloom Hulk,Creature,Plant Elemental,War of the Spark,Common,4,Green,True,True,True,True,b'Even Amundsen',0.07
-Bond of Flourishing,Sorcery,None,War of the Spark,Uncommon,2,Green,True,True,True,True,b'Tyler Walpole',0.11
-Centaur Nurturer,Creature,Centaur Druid,War of the Spark,Common,4,Green,True,True,True,True,b'Even Amundsen',0.04
-Challenger Troll,Creature,Troll,War of the Spark,Uncommon,5,Green,True,True,True,True,b'Svetlin Velinov',0.05
-Courage in Crisis,Sorcery,None,War of the Spark,Common,3,Green,True,True,True,True,b'Micah Epstein',0.1
-Evolution Sage,Creature,Elf Druid,War of the Spark,Uncommon,3,Green,True,True,True,True,b'Simon Dominic',0.51
-Finale of Devastation,Sorcery,None,War of the Spark,Mythic Rare,3,Green,True,True,True,True,b'Bayard Wu',15.35
-Forced Landing,Instant,None,War of the Spark,Common,2,Green,True,True,True,True,b'Svetlin Velinov',0.03
-Giant Growth,Instant,None,War of the Spark,Common,1,Green,True,True,True,True,b'Dmitry Burmak',0.08
-God-Eternal Rhonas,Legendary Creature,Zombie God,War of the Spark,Mythic Rare,5,Green,True,True,True,True,b'Lius Lasahido',3.98
-"Jiang Yanggu, Wildcrafter",Legendary Planeswalker,Yanggu,War of the Spark,Uncommon,3,Green,True,True,True,True,b'Anna Steinbauer',0.27
-Kraul Stinger,Creature,Insect Assassin,War of the Spark,Common,3,Green,True,True,True,True,b'Randy Vargas',0.04
-Kronch Wrangler,Creature,Human Warrior,War of the Spark,Common,2,Green,True,True,True,True,b'Steve Prescott',0.04
-"Mowu, Loyal Companion",Legendary Creature,Hound,War of the Spark,Uncommon,4,Green,True,True,True,True,b'Kimonas Theodossiou',0.11
-New Horizons,Enchantment,Aura,War of the Spark,Common,3,Green,True,True,True,True,b'Eytan Zana',0.06
-"Nissa, Who Shakes the World",Legendary Planeswalker,Nissa,War of the Spark,Rare,5,Green,True,True,True,True,b'Chris Rallis',7.5
-Nissa's Triumph,Sorcery,None,War of the Spark,Uncommon,2,Green,True,True,True,True,b'Kieran Yanner',0.1
-Paradise Druid,Creature,Elf Druid,War of the Spark,Uncommon,2,Green,True,True,True,True,b'Nils Hamm',0.38
-Planewide Celebration,Sorcery,None,War of the Spark,Rare,7,Green,True,True,True,True,b'Wisnu Tan',0.34
-Pollenbright Druid,Creature,Elf Druid,War of the Spark,Common,2,Green,True,True,True,True,b'Matt Stewart',0.13
-Primordial Wurm,Creature,Wurm,War of the Spark,Common,6,Green,True,True,True,True,b'Svetlin Velinov',0.05
-Return to Nature,Instant,None,War of the Spark,Common,2,Green,True,True,True,True,b'Alayna Danner',0.13
-Snarespinner,Creature,Spider,War of the Spark,Common,2,Green,True,True,True,True,b'Yeong-Hao Han',0.05
-Steady Aim,Instant,None,War of the Spark,Common,2,Green,True,True,True,True,b'Ralph Horsley',0.05
-Storm the Citadel,Sorcery,None,War of the Spark,Uncommon,5,Green,True,True,True,True,b'Grzegorz Rutkowski',0.02
-Thundering Ceratok,Creature,Rhino,War of the Spark,Common,5,Green,True,True,True,True,b'Izzy',0.02
-"Vivien, Champion of the Wilds",Legendary Planeswalker,Vivien,War of the Spark,Rare,3,Green,True,True,True,True,b'Magali Villeneuve',1.77
-Vivien's Arkbow,Legendary Artifact,None,War of the Spark,Rare,2,Green,True,True,True,True,b'Zack Stella',0.38
-Vivien's Grizzly,Creature,Bear Spirit,War of the Spark,Common,3,Green,True,True,True,True,b'Lius Lasahido',0.06
-Wardscale Crocodile,Creature,Crocodile,War of the Spark,Common,5,Green,True,True,True,True,b'Zezhou Chen',0.04
-"Ajani, the Greathearted",Legendary Planeswalker,Ajani,War of the Spark,Rare,4,Gold,True,True,True,True,b'Victor Adame Minguez',0.95
-Angrath's Rampage,Sorcery,None,War of the Spark,Uncommon,2,Gold,True,True,True,True,b'Victor Adame Minguez',0.3
-Bioessence Hydra,Creature,Hydra Mutant,War of the Spark,Rare,5,Gold,True,True,True,True,b'Mathias Kollros',0.26
-Casualties of War,Sorcery,None,War of the Spark,Rare,6,Gold,True,True,True,True,b'Tomasz Jedruszek',1.91
-Cruel Celebrant,Creature,Vampire,War of the Spark,Uncommon,2,Gold,True,True,True,True,b'Bastien L. Deharme',0.59
-Deathsprout,Instant,None,War of the Spark,Uncommon,4,Gold,True,True,True,True,b'Seb McKinnon',0.19
-Despark,Instant,None,War of the Spark,Uncommon,2,Gold,True,True,True,True,b'Slawomir Maniak',0.41
-"Domri, Anarch of Bolas",Legendary Planeswalker,Domri,War of the Spark,Rare,3,Gold,True,True,True,True,b'Raymond Swanland',1.07
-Domri's Ambush,Sorcery,None,War of the Spark,Uncommon,2,Gold,True,True,True,True,b'Victor Adame Minguez',0.2
-Dovin's Veto,Instant,None,War of the Spark,Uncommon,2,Gold,True,True,True,True,b'Izzy',1.04
-Dreadhorde Butcher,Creature,Zombie Warrior,War of the Spark,Rare,2,Gold,True,True,True,True,b'Piotr Dura',0.61
-Elite Guardmage,Creature,Human Wizard,War of the Spark,Uncommon,4,Gold,True,True,True,True,b'Pindurski',0.17
-Enter the God-Eternals,Sorcery,None,War of the Spark,Rare,5,Gold,True,True,True,True,b'Daniel Ljunggren',0.44
-"Feather, the Redeemed",Legendary Creature,Angel,War of the Spark,Rare,3,Gold,True,True,True,True,b'Wayne Reynolds',1.25
-Gleaming Overseer,Creature,Zombie Wizard,War of the Spark,Uncommon,3,Gold,True,True,True,True,b'Volkan Ba\xc7\xb5a',0.2
-Heartwarming Redemption,Instant,None,War of the Spark,Uncommon,4,Gold,True,True,True,True,b'Howard Lyon',0.12
-Huatli's Raptor,Creature,Dinosaur,War of the Spark,Uncommon,2,Gold,True,True,True,True,b'Randy Vargas',0.12
-Invade the City,Sorcery,None,War of the Spark,Uncommon,3,Gold,True,True,True,True,b'Sung Choi',0.11
-Leyline Prowler,Creature,Nightmare Beast,War of the Spark,Uncommon,3,Gold,True,True,True,True,b'YW Tang',0.15
-Living Twister,Creature,Elemental,War of the Spark,Rare,3,Gold,True,True,True,True,b'James Paick',0.34
-Mayhem Devil,Creature,Devil,War of the Spark,Uncommon,3,Gold,True,True,True,True,b'Dmitry Burmak',0.25
-Merfolk Skydiver,Creature,Merfolk Mutant,War of the Spark,Uncommon,2,Gold,True,True,True,True,b'Sara Winters',0.16
-Neoform,Sorcery,None,War of the Spark,Uncommon,2,Gold,True,True,True,True,b'Bram Sels',0.31
-"Nicol Bolas, Dragon-God",Legendary Planeswalker,Bolas,War of the Spark,Mythic Rare,5,Gold,True,True,True,True,b'Raymond Swanland',8.46
-Niv-Mizzet Reborn,Legendary Creature,Dragon Avatar,War of the Spark,Mythic Rare,5,Gold,True,True,True,True,b'Raymond Swanland',4.58
-Oath of Kaya,Legendary Enchantment,None,War of the Spark,Rare,3,Gold,True,True,True,True,b'Wesley Burt',0.75
-Pledge of Unity,Instant,None,War of the Spark,Uncommon,3,Gold,True,True,True,True,b'Chris Rallis',0.12
-"Ral, Storm Conduit",Legendary Planeswalker,Ral,War of the Spark,Rare,4,Gold,True,True,True,True,b'Wesley Burt',1.03
-Ral's Outburst,Instant,None,War of the Spark,Uncommon,4,Gold,True,True,True,True,b'Joseph Meehan',0.09
-"Roalesk, Apex Hybrid",Legendary Creature,Human Mutant,War of the Spark,Mythic Rare,5,Gold,True,True,True,True,b'Svetlin Velinov',1.31
-Role Reversal,Sorcery,None,War of the Spark,Rare,3,Gold,True,True,True,True,b'Mathias Kollros',0.26
-Rubblebelt Rioters,Creature,Human Berserker,War of the Spark,Uncommon,3,Gold,True,True,True,True,b'Tomasz Jedruszek',0.07
-Solar Blaze,Sorcery,None,War of the Spark,Rare,4,Gold,True,True,True,True,b'Adam Paquette',0.23
-"Sorin, Vengeful Bloodlord",Legendary Planeswalker,Sorin,War of the Spark,Rare,4,Gold,True,True,True,True,b'Tommy Arnold',1.27
-Soul Diviner,Creature,Zombie Wizard,War of the Spark,Rare,2,Gold,True,True,True,True,b'Randy Vargas',0.26
-"Storrev, Devkarin Lich",Legendary Creature,Zombie Elf Wizard,War of the Spark,Rare,4,Gold,True,True,True,True,b'Igor Kieryluk',0.26
-"Tamiyo, Collector of Tales",Legendary Planeswalker,Tamiyo,War of the Spark,Rare,4,Gold,True,True,True,True,b'Chase Stone',1.18
-"Teferi, Time Raveler",Legendary Planeswalker,Teferi,War of the Spark,Rare,3,Gold,True,True,True,True,b'Chris Rallis',17.76
-Tenth District Legionnaire,Creature,Human Soldier,War of the Spark,Uncommon,2,Gold,True,True,True,True,b'Victor Adame Minguez',0.29
-Time Wipe,Sorcery,None,War of the Spark,Rare,5,Gold,True,True,True,True,b'Svetlin Velinov',0.34
-"Tolsimir, Friend to Wolves",Legendary Creature,Elf Scout,War of the Spark,Rare,5,Gold,True,True,True,True,b'Ryan Pancoast',0.42
-Tyrant's Scorn,Instant,None,War of the Spark,Uncommon,2,Gold,True,True,True,True,b'Svetlin Velinov',0.33
-Widespread Brutality,Sorcery,None,War of the Spark,Rare,4,Gold,True,True,True,True,b'Victor Adame Minguez',0.22
-"Angrath, Captain of Chaos",Legendary Planeswalker,Angrath,War of the Spark,Uncommon,6,Gold,True,True,True,True,b'Slawomir Maniak',0.19
-"Ashiok, Dream Render",Legendary Planeswalker,Ashiok,War of the Spark,Uncommon,5,Gold,True,True,True,True,b'Cynthia Sheppard',1.45
-"Dovin, Hand of Control",Legendary Planeswalker,Dovin,War of the Spark,Uncommon,4,Gold,True,True,True,True,b'Kieran Yanner',0.2
-"Huatli, the Sun's Heart",Legendary Planeswalker,Huatli,War of the Spark,Uncommon,4,Gold,True,True,True,True,b'Lius Lasahido',0.22
-"Kaya, Bane of the Dead",Legendary Planeswalker,Kaya,War of the Spark,Uncommon,9,Gold,True,True,True,True,b'Magali Villeneuve',0.18
-"Kiora, Behemoth Beckoner",Legendary Planeswalker,Kiora,War of the Spark,Uncommon,4,Gold,True,True,True,True,b'Jaime Jones',0.4
-"Nahiri, Storm of Stone",Legendary Planeswalker,Nahiri,War of the Spark,Uncommon,6,Gold,True,True,True,True,b'Aleksi Briclot',0.21
-"Saheeli, Sublime Artificer",Legendary Planeswalker,Saheeli,War of the Spark,Uncommon,5,Gold,True,True,True,True,b'Wesley Burt',0.39
-"Samut, Tyrant Smasher",Legendary Planeswalker,Samut,War of the Spark,Uncommon,6,Gold,True,True,True,True,b'Aleksi Briclot',0.21
-"Vraska, Swarm's Eminence",Legendary Planeswalker,Vraska,War of the Spark,Uncommon,6,Gold,True,True,True,True,b'Anna Steinbauer',0.22
-Firemind Vessel,Artifact,None,War of the Spark,Uncommon,4,Colorless,True,True,True,True,b'Jenn Ravenna Tran',0.31
-God-Pharaoh's Statue,Legendary Artifact,None,War of the Spark,Uncommon,6,Colorless,True,True,True,True,b'Igor Kieryluk',0.25
-Guild Globe,Artifact,None,War of the Spark,Common,2,Colorless,True,True,True,True,b'Daniel Ljunggren',0.06
-Iron Bully,Artifact Creature,Golem,War of the Spark,Common,3,Colorless,True,True,True,True,b'Aaron Miller',0.04
-Mana Geode,Artifact,None,War of the Spark,Common,3,Colorless,True,True,True,True,b'Raoul Vitale',0.24
-Prismite,Artifact Creature,Golem,War of the Spark,Common,2,Colorless,True,True,True,True,b'Alayna Danner',0.05
-Saheeli's Silverwing,Artifact Creature,Drake,War of the Spark,Common,4,Colorless,True,True,True,True,b'Daniel Ljunggren',0.02
-Blast Zone,Land,None,War of the Spark,Rare,0,Colorless,True,True,True,True,b'Chris Ostrowski',2.13
-Emergence Zone,Land,None,War of the Spark,Uncommon,0,Colorless,True,True,True,True,b'Jonas De Ro',0.21
-Gateway Plaza,Land,Gate,War of the Spark,Common,0,Colorless,True,True,True,True,b'Sung Choi',0.09
-Interplanar Beacon,Land,None,War of the Spark,Uncommon,0,Colorless,True,True,True,True,b'Adam Paquette',0.18
-Karn's Bastion,Land,None,War of the Spark,Rare,0,Colorless,True,True,True,True,b'Adam Paquette',1.87
-Mobilized District,Land,None,War of the Spark,Rare,0,Colorless,True,True,True,True,b'Jedd Chevrier',0.28
-Plains,Basic Land,Plains,War of the Spark,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.12
-Plains,Basic Land,Plains,War of the Spark,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.11
-Plains,Basic Land,Plains,War of the Spark,Common,0,Colorless,True,True,True,True,b'Richard Wright',0.1
-Island,Basic Land,Island,War of the Spark,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.1
-Island,Basic Land,Island,War of the Spark,Common,0,Colorless,True,True,True,True,b'Richard Wright',0.08
-Island,Basic Land,Island,War of the Spark,Common,0,Colorless,True,True,True,True,b'Kirsten Zirngibl',0.06
-Swamp,Basic Land,Swamp,War of the Spark,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.09
-Swamp,Basic Land,Swamp,War of the Spark,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.09
-Swamp,Basic Land,Swamp,War of the Spark,Common,0,Colorless,True,True,True,True,b'Richard Wright',0.08
-Mountain,Basic Land,Mountain,War of the Spark,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.08
-Mountain,Basic Land,Mountain,War of the Spark,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.06
-Mountain,Basic Land,Mountain,War of the Spark,Common,0,Colorless,True,True,True,True,b'Richard Wright',0.07
-Forest,Basic Land,Forest,War of the Spark,Common,0,Colorless,True,True,True,True,b'Jonas De Ro',0.1
-Forest,Basic Land,Forest,War of the Spark,Common,0,Colorless,True,True,True,True,b'Titus Lunter',0.06
-Forest,Basic Land,Forest,War of the Spark,Common,0,Colorless,True,True,True,True,b'Richard Wright',0.07
-"Gideon, the Oathsworn",Legendary Planeswalker,Gideon,War of the Spark,Mythic Rare,6,White,True,True,True,True,b'Kieran Yanner',1.26
-Desperate Lunge,Instant,None,War of the Spark,Common,2,White,True,True,True,True,b'Deruchenko Alexander',0.22
-Gideon's Battle Cry,Sorcery,None,War of the Spark,Rare,4,White,True,True,True,False,b'Zoltan Boros',0.22
-Gideon's Company,Creature,Human Soldier,War of the Spark,Uncommon,4,White,True,True,True,False,b'Milivoj \xc4\x86eran',2.65
-Orzhov Guildgate,Land,Gate,War of the Spark,Common,0,Colorless,True,True,True,True,b'Cliff Childs',0.16
-"Jace, Arcane Strategist",Legendary Planeswalker,Jace,War of the Spark,Mythic Rare,6,Blue,True,True,True,True,b'Kieran Yanner',2.54
-Guildpact Informant,Creature,Faerie Rogue,War of the Spark,Common,3,Blue,True,True,True,False,b'Randy Gallegos',0.36
-Jace's Projection,Creature,Wizard Illusion,War of the Spark,Uncommon,4,Blue,True,True,True,False,b'Darek Zabrocki',0.34
-Jace's Ruse,Sorcery,None,War of the Spark,Rare,5,Blue,True,True,True,False,b'Clint Cearley',0.23
-Simic Guildgate,Land,Gate,War of the Spark,Common,0,Colorless,True,True,True,True,b'Adam Paquette',0.19
-"Tezzeret, Master of the Bridge",Legendary Planeswalker,Tezzeret,War of the Spark,Mythic Rare,6,Gold,True,True,True,True,b'Chase Stone',5.97
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Karn the Great Creator,Planeswalker,Karn,War of the Spark,Rare,4,Colorless,Legal,Legal,Legal,Restrict.,Legal,True,b'Wisnu Tan',5.3,True
+Ugin the Ineffable,Planeswalker,Ugin,War of the Spark,Rare,6,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Daarken',2.79,True
+Ugin's Conjurant,Creature,Spirit Monk,War of the Spark,Uncommon,1,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Ryan Yee',0.11,False
+Ajani's Pridemate,Creature,Cat Soldier,War of the Spark,Uncommon,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Sidharth Chaturvedi',0.2,False
+Battlefield Promotion,Instant,None,War of the Spark,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Scott Murphy',0.05,False
+Bond of Discipline,Sorcery,None,War of the Spark,Uncommon,5,White,Legal,Legal,Legal,Legal,Legal,True,b'Zezhou Chen',0.07,False
+Bulwark Giant,Creature,Giant Soldier,War of the Spark,Common,6,White,Legal,Legal,Legal,Legal,Legal,True,b'Victor Adame Minguez',0.04,False
+Charmed Stray,Creature,Cat,War of the Spark,Common,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.11,False
+Defiant Strike,Instant,None,War of the Spark,Common,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Gabor Szikszai',0.1,False
+Divine Arrow,Instant,None,War of the Spark,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Kieran Yanner',0.03,False
+Enforcer Griffin,Creature,Griffin,War of the Spark,Common,5,White,Legal,Legal,Legal,Legal,Legal,True,b'Johan Grenier',0.02,False
+Finale of Glory,Sorcery,None,War of the Spark,Mythic Rare,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Stanton Feng',1.92,False
+Gideon Blackblade,Planeswalker,Gideon,War of the Spark,Mythic Rare,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Viktor Titov',4.23,True
+Gideon's Sacrifice,Instant,None,War of the Spark,Common,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Chris Rallis',0.07,False
+Gideon's Triumph,Instant,None,War of the Spark,Uncommon,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Kieran Yanner',0.08,False
+God-Eternal Oketra,Creature,Zombie God,War of the Spark,Mythic Rare,5,White,Legal,Legal,Legal,Legal,Legal,True,b'Grzegorz Rutkowski',6.72,True
+Grateful Apparition,Creature,Spirit,War of the Spark,Uncommon,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Izzy',0.11,False
+Ignite the Beacon,Instant,None,War of the Spark,Rare,5,White,Legal,Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',0.26,False
+Ironclad Krovod,Creature,Beast,War of the Spark,Common,4,White,Legal,Legal,Legal,Legal,Legal,True,b'Sam Rowan',0.01,False
+Law-Rune Enforcer,Creature,Human Soldier,War of the Spark,Common,1,White,Legal,Legal,Legal,Legal,Legal,True,b'Eric Deschamps',0.09,False
+Loxodon Sergeant,Creature,Elephant Soldier,War of the Spark,Common,4,White,Legal,Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.03,False
+Makeshift Battalion,Creature,Human Soldier,War of the Spark,Common,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.03,False
+Martyr for the Cause,Creature,Human Soldier,War of the Spark,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.06,False
+Parhelion II,Artifact,Vehicle,War of the Spark,Rare,8,White,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.24,True
+Pouncing Lynx,Creature,Cat,War of the Spark,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Sidharth Chaturvedi',0.04,False
+Prison Realm,Enchantment,None,War of the Spark,Uncommon,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Daarken',0.13,False
+Rally of Wings,Instant,None,War of the Spark,Uncommon,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Magali Villeneuve',0.1,False
+Ravnica at War,Sorcery,None,War of the Spark,Rare,4,White,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.21,False
+Rising Populace,Creature,Human,War of the Spark,Common,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.07,False
+Single Combat,Sorcery,None,War of the Spark,Rare,5,White,Legal,Legal,Legal,Legal,Legal,True,b'Livia Prima',0.22,False
+Sunblade Angel,Creature,Angel,War of the Spark,Uncommon,6,White,Legal,Legal,Legal,Legal,Legal,True,b'Johannes Voss',0.14,False
+Teyo the Shieldmage,Planeswalker,Teyo,War of the Spark,Uncommon,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Magali Villeneuve',0.21,True
+Teyo's Lightshield,Creature,Illusion,War of the Spark,Common,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.04,False
+Tomik Distinguished Advokist,Creature,Human Advisor,War of the Spark,Rare,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Johannes Voss',0.44,True
+Topple the Statue,Instant,None,War of the Spark,Common,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Sidharth Chaturvedi',0.07,False
+Trusted Pegasus,Creature,Pegasus,War of the Spark,Common,3,White,Legal,Legal,Legal,Legal,Legal,True,b'Chris Rahn',0.05,False
+The Wanderer,Planeswalker,None,War of the Spark,Uncommon,4,White,Legal,Legal,Legal,Legal,Legal,True,b'Wesley Burt',0.27,True
+Wanderer's Strike,Sorcery,None,War of the Spark,Common,5,White,Legal,Legal,Legal,Legal,Legal,True,b'Sara Winters',0.06,False
+War Screecher,Creature,Bird,War of the Spark,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Dan Scott',0.03,False
+Ashiok's Skulker,Creature,Nightmare,War of the Spark,Common,5,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Livia Prima',0.05,False
+Augur of Bolas,Creature,Merfolk Wizard,War of the Spark,Uncommon,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Alex Konstad',0.13,False
+Aven Eternal,Creature,Zombie Bird Warrior,War of the Spark,Common,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Johan Grenier',0.06,False
+Bond of Insight,Sorcery,None,War of the Spark,Uncommon,4,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Joe Slucher',0.11,False
+Callous Dismissal,Sorcery,None,War of the Spark,Common,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Mathias Kollros',0.09,False
+Commence the Endgame,Instant,None,War of the Spark,Rare,6,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Noah Bradley',0.28,False
+Contentious Plan,Sorcery,None,War of the Spark,Common,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Eric Deschamps',0.15,False
+Crush Dissent,Instant,None,War of the Spark,Common,4,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Mike Bierek',0.04,False
+Erratic Visionary,Creature,Human Wizard,War of the Spark,Common,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Randy Vargas',0.03,False
+Eternal Skylord,Creature,Zombie Wizard,War of the Spark,Uncommon,5,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Johan Grenier',0.14,False
+Fblthp the Lost,Creature,Homunculus,War of the Spark,Rare,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.34,True
+Finale of Revelation,Sorcery,None,War of the Spark,Mythic Rare,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Johann Bodin',4.92,False
+Flux Channeler,Creature,Human Wizard,War of the Spark,Uncommon,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Heonhwa Choe',0.28,False
+God-Eternal Kefnet,Creature,Zombie God,War of the Spark,Mythic Rare,4,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Lius Lasahido',4.3,True
+Jace Wielder of Mysteries,Planeswalker,Jace,War of the Spark,Rare,4,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Anna Steinbauer',6.22,True
+Jace's Triumph,Sorcery,None,War of the Spark,Uncommon,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Kieran Yanner',0.1,False
+Kasmina Enigmatic Mentor,Planeswalker,Kasmina,War of the Spark,Uncommon,4,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Magali Villeneuve',0.14,True
+Kasmina's Transmutation,Enchantment,Aura,War of the Spark,Common,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Uriah Voth',0.1,False
+Kiora's Dambreaker,Creature,Leviathan,War of the Spark,Common,6,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Mathias Kollros',0.06,False
+Lazotep Plating,Instant,None,War of the Spark,Uncommon,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Yeong-Hao Han',0.22,False
+Naga Eternal,Creature,Zombie Naga,War of the Spark,Common,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Johann Bodin',0.04,False
+Narset Parter of Veils,Planeswalker,Narset,War of the Spark,Uncommon,3,Blue,Legal,Legal,Legal,Restrict.,Legal,True,b'Magali Villeneuve',0.98,True
+Narset's Reversal,Instant,None,War of the Spark,Rare,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Viktor Titov',5.89,False
+No Escape,Instant,None,War of the Spark,Common,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'G-host Lee',0.06,False
+Relentless Advance,Sorcery,None,War of the Spark,Common,4,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Stanton Feng',0.03,False
+Rescuer Sphinx,Creature,Sphinx,War of the Spark,Uncommon,4,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.07,False
+Silent Submersible,Artifact,Vehicle,War of the Spark,Rare,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',0.17,False
+Sky Theater Strix,Creature,Bird,War of the Spark,Common,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Chris Seaman',0.03,False
+Spark Double,Creature,Illusion,War of the Spark,Rare,4,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Eric Deschamps',5.01,False
+Spellkeeper Weird,Creature,Weird,War of the Spark,Common,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'James Paick',0.03,False
+Stealth Mission,Sorcery,None,War of the Spark,Common,3,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Heonhwa Choe',0.07,False
+Tamiyo's Epiphany,Sorcery,None,War of the Spark,Common,4,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Lake Hurwitz',0.06,False
+Teferi's Time Twist,Instant,None,War of the Spark,Common,2,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Ralph Horsley',0.12,False
+Thunder Drake,Creature,Elemental Drake,War of the Spark,Common,4,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Yeong-Hao Han',0.05,False
+Totally Lost,Instant,None,War of the Spark,Common,5,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Aaron Miller',0.03,False
+Wall of Runes,Creature,Wall,War of the Spark,Common,1,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Zezhou Chen',0.1,False
+Aid the Fallen,Sorcery,None,War of the Spark,Common,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Sara Winters',0.1,False
+Banehound,Creature,Nightmare Dog,War of the Spark,Common,1,Black,Legal,Legal,Legal,Legal,Legal,True,b'YW Tang',0.11,False
+Bleeding Edge,Sorcery,None,War of the Spark,Uncommon,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Mike Bierek',0.09,False
+Bolas's Citadel,Artifact,None,War of the Spark,Rare,6,Black,Legal,Legal,Legal,Legal,Legal,True,b'Jonas De Ro',3.21,True
+Bond of Revival,Sorcery,None,War of the Spark,Uncommon,5,Black,Legal,Legal,Legal,Legal,Legal,True,b'Lake Hurwitz',0.14,False
+Charity Extractor,Creature,Human Knight,War of the Spark,Common,4,Black,Legal,Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.02,False
+Command the Dreadhorde,Sorcery,None,War of the Spark,Rare,6,Black,Legal,Legal,Legal,Legal,Legal,True,b'Daarken',0.52,False
+Davriel Rogue Shadowmage,Planeswalker,Davriel,War of the Spark,Uncommon,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Daarken',0.27,True
+Davriel's Shadowfugue,Sorcery,None,War of the Spark,Common,4,Black,Legal,Legal,Legal,Legal,Legal,True,b'Daarken',0.04,False
+Deliver Unto Evil,Sorcery,None,War of the Spark,Rare,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Seb McKinnon',0.23,False
+Dreadhorde Invasion,Enchantment,None,War of the Spark,Rare,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Stanton Feng',0.34,False
+Dreadmalkin,Creature,Zombie Cat,War of the Spark,Uncommon,1,Black,Legal,Legal,Legal,Legal,Legal,True,b'Aaron Miller',0.15,False
+Duskmantle Operative,Creature,Human Rogue,War of the Spark,Common,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Anna Steinbauer',0.02,False
+The Elderspell,Sorcery,None,War of the Spark,Rare,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Daarken',0.84,False
+Eternal Taskmaster,Creature,Zombie,War of the Spark,Uncommon,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.12,False
+Finale of Eternity,Sorcery,None,War of the Spark,Mythic Rare,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Daarken',1.66,False
+God-Eternal Bontu,Creature,Zombie God,War of the Spark,Mythic Rare,5,Black,Legal,Legal,Legal,Legal,Legal,True,b'Lius Lasahido',2.71,True
+Herald of the Dreadhorde,Creature,Zombie Warrior,War of the Spark,Common,4,Black,Legal,Legal,Legal,Legal,Legal,True,b'Heonhwa Choe',0.07,False
+Kaya's Ghostform,Enchantment,Aura,War of the Spark,Common,1,Black,Legal,Legal,Legal,Legal,Legal,True,b'Johan Grenier',0.21,False
+Lazotep Behemoth,Creature,Zombie Hippo,War of the Spark,Common,5,Black,Legal,Legal,Legal,Legal,Legal,True,b'Zezhou Chen',0.06,False
+Lazotep Reaver,Creature,Zombie Beast,War of the Spark,Common,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Craig J Spearing',0.14,False
+Liliana Dreadhorde General,Planeswalker,Liliana,War of the Spark,Mythic Rare,6,Black,Legal,Legal,Legal,Legal,Legal,True,b'Chris Rallis',16.91,True
+Liliana's Triumph,Instant,None,War of the Spark,Uncommon,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Kieran Yanner',0.19,False
+Massacre Girl,Creature,Human Assassin,War of the Spark,Rare,5,Black,Legal,Legal,Legal,Legal,Legal,True,b'Chris Rallis',0.23,True
+Ob Nixilis the Hate-Twisted,Planeswalker,Nixilis,War of the Spark,Uncommon,5,Black,Legal,Legal,Legal,Legal,Legal,True,b'Yongjae Choi',0.24,True
+Ob Nixilis's Cruelty,Instant,None,War of the Spark,Common,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.06,False
+Price of Betrayal,Sorcery,None,War of the Spark,Uncommon,1,Black,Legal,Legal,Legal,Legal,Legal,True,b'Ryan Yee',0.12,False
+Shriekdiver,Creature,Zombie Bird Warrior,War of the Spark,Common,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Piotr Dura',0.03,False
+Sorin's Thirst,Instant,None,War of the Spark,Common,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Daarken',0.06,False
+Spark Harvest,Sorcery,None,War of the Spark,Common,1,Black,Legal,Legal,Legal,Legal,Legal,True,b'Kieran Yanner',0.1,False
+Spark Reaper,Creature,Zombie,War of the Spark,Common,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.04,False
+Tithebearer Giant,Creature,Giant Warrior,War of the Spark,Common,6,Black,Legal,Legal,Legal,Legal,Legal,True,b'Wisnu Tan',0.03,False
+Toll of the Invasion,Sorcery,None,War of the Spark,Common,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Joe Slucher',0.05,False
+Unlikely Aid,Instant,None,War of the Spark,Common,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Viktor Titov',0.07,False
+Vampire Opportunist,Creature,Vampire,War of the Spark,Common,2,Black,Legal,Legal,Legal,Legal,Legal,True,b'Jason Rainville',0.06,False
+Vizier of the Scorpion,Creature,Zombie Wizard,War of the Spark,Uncommon,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Zack Stella',0.11,False
+Vraska's Finisher,Creature,Gorgon Assassin,War of the Spark,Common,3,Black,Legal,Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.05,False
+Ahn-Crop Invader,Creature,Zombie Minotaur Warrior,War of the Spark,Common,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.04,False
+Blindblast,Instant,None,War of the Spark,Common,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'Sidharth Chaturvedi',0.05,False
+Bolt Bend,Instant,None,War of the Spark,Uncommon,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.07,False
+Bond of Passion,Sorcery,None,War of the Spark,Uncommon,6,Red,Legal,Legal,Legal,Legal,Legal,True,b'Izzy',0.07,False
+Burning Prophet,Creature,Human Wizard,War of the Spark,Common,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Mathias Kollros',0.09,False
+Chainwhip Cyclops,Creature,Cyclops Warrior,War of the Spark,Common,5,Red,Legal,Legal,Legal,Legal,Legal,True,b'Johann Bodin',0.01,False
+Chandra Fire Artisan,Planeswalker,Chandra,War of the Spark,Rare,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Yongjae Choi',0.62,True
+Chandra's Pyrohelix,Instant,None,War of the Spark,Common,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',0.05,False
+Chandra's Triumph,Instant,None,War of the Spark,Uncommon,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Kieran Yanner',0.11,False
+Cyclops Electromancer,Creature,Cyclops Wizard,War of the Spark,Uncommon,5,Red,Legal,Legal,Legal,Legal,Legal,True,b'Jason Felix',0.05,False
+Demolish,Sorcery,None,War of the Spark,Common,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.05,False
+Devouring Hellion,Creature,Hellion,War of the Spark,Uncommon,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'Bayard Wu',0.06,False
+Dreadhorde Arcanist,Creature,Zombie Wizard,War of the Spark,Rare,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'G-host Lee',2.41,False
+Dreadhorde Twins,Creature,Zombie Jackal Warrior,War of the Spark,Uncommon,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Johannes Voss',0.1,False
+Finale of Promise,Sorcery,None,War of the Spark,Mythic Rare,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'Jaime Jones',1.68,False
+Goblin Assailant,Creature,Goblin Warrior,War of the Spark,Common,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Jesper Ejsing',0.03,False
+Goblin Assault Team,Creature,Goblin Warrior,War of the Spark,Common,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Zoltan Boros',0.03,False
+Grim Initiate,Creature,Zombie Warrior,War of the Spark,Common,1,Red,Legal,Legal,Legal,Legal,Legal,True,b'Jason Felix',0.1,False
+Heartfire,Instant,None,War of the Spark,Common,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Craig J Spearing',0.09,False
+Honor the God-Pharaoh,Sorcery,None,War of the Spark,Common,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'David Palumbo',0.05,False
+Ilharg the Raze-Boar,Creature,Boar God,War of the Spark,Mythic Rare,5,Red,Legal,Legal,Legal,Legal,Legal,True,b'Filip Burburan',5.77,True
+Invading Manticore,Creature,Zombie Manticore,War of the Spark,Common,6,Red,Legal,Legal,Legal,Legal,Legal,True,b'Jehan Choo',0.03,False
+Jaya Venerated Firemage,Planeswalker,Jaya,War of the Spark,Uncommon,5,Red,Legal,Legal,Legal,Legal,Legal,True,b'Yongjae Choi',0.23,True
+Jaya's Greeting,Instant,None,War of the Spark,Common,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Victor Adame Minguez',0.09,False
+Krenko Tin Street Kingpin,Creature,Goblin,War of the Spark,Rare,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'Mark Behm',0.67,True
+Mizzium Tank,Artifact,Vehicle,War of the Spark,Rare,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',0.18,False
+Nahiri's Stoneblades,Instant,None,War of the Spark,Common,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Micah Epstein',0.03,False
+Neheb Dreadhorde Champion,Creature,Zombie Minotaur Warrior,War of the Spark,Rare,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.51,True
+Raging Kronch,Creature,Beast,War of the Spark,Common,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.02,False
+Samut's Sprint,Instant,None,War of the Spark,Common,1,Red,Legal,Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',0.11,False
+Sarkhan the Masterless,Planeswalker,Sarkhan,War of the Spark,Rare,5,Red,Legal,Legal,Legal,Legal,Legal,True,b'Kieran Yanner',0.47,True
+Sarkhan's Catharsis,Instant,None,War of the Spark,Common,5,Red,Legal,Legal,Legal,Legal,Legal,True,b'Zack Stella',0.06,False
+Spellgorger Weird,Creature,Weird,War of the Spark,Common,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'James Paick',0.07,False
+Tibalt Rakish Instigator,Planeswalker,Tibalt,War of the Spark,Uncommon,3,Red,Legal,Legal,Legal,Legal,Legal,True,b'Chase Stone',0.26,True
+Tibalt's Rager,Creature,Devil,War of the Spark,Uncommon,2,Red,Legal,Legal,Legal,Legal,Legal,True,b'Yongjae Choi',0.08,False
+Turret Ogre,Creature,Ogre Warrior,War of the Spark,Common,4,Red,Legal,Legal,Legal,Legal,Legal,True,b'Johann Bodin',0.02,False
+Arboreal Grazer,Creature,Beast,War of the Spark,Common,1,Green,Legal,Legal,Legal,Legal,Legal,True,b'Jason Rainville',0.61,False
+Arlinn Voice of the Pack,Planeswalker,Arlinn,War of the Spark,Uncommon,6,Green,Legal,Legal,Legal,Legal,Legal,True,b'Ryan Pancoast',0.19,True
+Arlinn's Wolf,Creature,Wolf,War of the Spark,Common,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Kimonas Theodossiou',0.07,False
+Awakening of Vitu-Ghazi,Instant,None,War of the Spark,Rare,5,Green,Legal,Legal,Legal,Legal,Legal,True,b'Jaime Jones',0.23,False
+Band Together,Instant,None,War of the Spark,Common,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Josh Hass',0.06,False
+Bloom Hulk,Creature,Plant Elemental,War of the Spark,Common,4,Green,Legal,Legal,Legal,Legal,Legal,True,b'Even Amundsen',0.09,False
+Bond of Flourishing,Sorcery,None,War of the Spark,Uncommon,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Tyler Walpole',0.09,False
+Centaur Nurturer,Creature,Centaur Druid,War of the Spark,Common,4,Green,Legal,Legal,Legal,Legal,Legal,True,b'Even Amundsen',0.06,False
+Challenger Troll,Creature,Troll,War of the Spark,Uncommon,5,Green,Legal,Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.11,False
+Courage in Crisis,Sorcery,None,War of the Spark,Common,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Micah Epstein',0.1,False
+Evolution Sage,Creature,Elf Druid,War of the Spark,Uncommon,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Simon Dominic',0.68,False
+Finale of Devastation,Sorcery,None,War of the Spark,Mythic Rare,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Bayard Wu',22.25,False
+Forced Landing,Instant,None,War of the Spark,Common,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.03,False
+Giant Growth,Instant,None,War of the Spark,Common,1,Green,Legal,Legal,Legal,Legal,Legal,True,b'Dmitry Burmak',0.1,False
+God-Eternal Rhonas,Creature,Zombie God,War of the Spark,Mythic Rare,5,Green,Legal,Legal,Legal,Legal,Legal,True,b'Lius Lasahido',4.43,True
+Jiang Yanggu Wildcrafter,Planeswalker,Yanggu,War of the Spark,Uncommon,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Anna Steinbauer',0.31,True
+Kraul Stinger,Creature,Insect Assassin,War of the Spark,Common,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Randy Vargas',0.04,False
+Kronch Wrangler,Creature,Human Warrior,War of the Spark,Common,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Steve Prescott',0.07,False
+Mowu Loyal Companion,Creature,Dog,War of the Spark,Uncommon,4,Green,Legal,Legal,Legal,Legal,Legal,True,b'Kimonas Theodossiou',0.11,True
+New Horizons,Enchantment,Aura,War of the Spark,Common,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Eytan Zana',0.08,False
+Nissa Who Shakes the World,Planeswalker,Nissa,War of the Spark,Rare,5,Green,Legal,Legal,Legal,Legal,Legal,True,b'Chris Rallis',5.3,True
+Nissa's Triumph,Sorcery,None,War of the Spark,Uncommon,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Kieran Yanner',0.11,False
+Paradise Druid,Creature,Elf Druid,War of the Spark,Uncommon,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Nils Hamm',0.69,False
+Planewide Celebration,Sorcery,None,War of the Spark,Rare,7,Green,Legal,Legal,Legal,Legal,Legal,True,b'Wisnu Tan',0.35,False
+Pollenbright Druid,Creature,Elf Druid,War of the Spark,Common,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Matt Stewart',0.1,False
+Primordial Wurm,Creature,Wurm,War of the Spark,Common,6,Green,Legal,Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.06,False
+Return to Nature,Instant,None,War of the Spark,Common,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Alayna Danner',0.1,False
+Snarespinner,Creature,Spider,War of the Spark,Common,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Yeong-Hao Han',0.06,False
+Steady Aim,Instant,None,War of the Spark,Common,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Ralph Horsley',0.08,False
+Storm the Citadel,Sorcery,None,War of the Spark,Uncommon,5,Green,Legal,Legal,Legal,Legal,Legal,True,b'Grzegorz Rutkowski',0.05,False
+Thundering Ceratok,Creature,Rhino,War of the Spark,Common,5,Green,Legal,Legal,Legal,Legal,Legal,True,b'Izzy',0.02,False
+Vivien Champion of the Wilds,Planeswalker,Vivien,War of the Spark,Rare,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Magali Villeneuve',1.96,True
+Vivien's Arkbow,Artifact,None,War of the Spark,Rare,2,Green,Legal,Legal,Legal,Legal,Legal,True,b'Zack Stella',0.38,True
+Vivien's Grizzly,Creature,Bear Spirit,War of the Spark,Common,3,Green,Legal,Legal,Legal,Legal,Legal,True,b'Lius Lasahido',0.1,False
+Wardscale Crocodile,Creature,Crocodile,War of the Spark,Common,5,Green,Legal,Legal,Legal,Legal,Legal,True,b'Zezhou Chen',0.04,False
+Ajani the Greathearted,Planeswalker,Ajani,War of the Spark,Rare,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Victor Adame Minguez',1.04,True
+Angrath's Rampage,Sorcery,None,War of the Spark,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Victor Adame Minguez',0.29,False
+Bioessence Hydra,Creature,Hydra Mutant,War of the Spark,Rare,5,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Mathias Kollros',0.28,False
+Casualties of War,Sorcery,None,War of the Spark,Rare,6,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',1.95,False
+Cruel Celebrant,Creature,Vampire,War of the Spark,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Bastien L. Deharme',0.58,False
+Deathsprout,Instant,None,War of the Spark,Uncommon,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Seb McKinnon',0.21,False
+Despark,Instant,None,War of the Spark,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',0.43,False
+Domri Anarch of Bolas,Planeswalker,Domri,War of the Spark,Rare,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Raymond Swanland',1.31,True
+Domri's Ambush,Sorcery,None,War of the Spark,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Victor Adame Minguez',0.21,False
+Dovin's Veto,Instant,None,War of the Spark,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Izzy',1.11,False
+Dreadhorde Butcher,Creature,Zombie Warrior,War of the Spark,Rare,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Piotr Dura',1.16,False
+Elite Guardmage,Creature,Human Wizard,War of the Spark,Uncommon,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Pindurski',0.18,False
+Enter the God-Eternals,Sorcery,None,War of the Spark,Rare,5,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',0.56,False
+Feather the Redeemed,Creature,Angel,War of the Spark,Rare,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Wayne Reynolds',1.23,True
+Gleaming Overseer,Creature,Zombie Wizard,War of the Spark,Uncommon,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Volkan Ba\xc7\xb5a',0.16,False
+Heartwarming Redemption,Instant,None,War of the Spark,Uncommon,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Howard Lyon',0.08,False
+Huatli's Raptor,Creature,Dinosaur,War of the Spark,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Randy Vargas',0.1,False
+Invade the City,Sorcery,None,War of the Spark,Uncommon,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Sung Choi',0.12,False
+Leyline Prowler,Creature,Nightmare Beast,War of the Spark,Uncommon,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'YW Tang',0.17,False
+Living Twister,Creature,Elemental,War of the Spark,Rare,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'James Paick',0.3,False
+Mayhem Devil,Creature,Devil,War of the Spark,Uncommon,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Dmitry Burmak',0.29,False
+Merfolk Skydiver,Creature,Merfolk Mutant,War of the Spark,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Sara Winters',0.19,False
+Neoform,Sorcery,None,War of the Spark,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Bram Sels',0.29,False
+Nicol Bolas Dragon-God,Planeswalker,Bolas,War of the Spark,Mythic Rare,5,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Raymond Swanland',9.39,True
+Niv-Mizzet Reborn,Creature,Dragon Avatar,War of the Spark,Mythic Rare,5,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Raymond Swanland',2.99,True
+Oath of Kaya,Enchantment,None,War of the Spark,Rare,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Wesley Burt',0.64,True
+Pledge of Unity,Instant,None,War of the Spark,Uncommon,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Chris Rallis',0.12,False
+Ral Storm Conduit,Planeswalker,Ral,War of the Spark,Rare,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Wesley Burt',1.46,True
+Ral's Outburst,Instant,None,War of the Spark,Uncommon,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Joseph Meehan',0.15,False
+Roalesk Apex Hybrid,Creature,Human Mutant,War of the Spark,Mythic Rare,5,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',3.05,True
+Role Reversal,Sorcery,None,War of the Spark,Rare,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Mathias Kollros',0.23,False
+Rubblebelt Rioters,Creature,Human Berserker,War of the Spark,Uncommon,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Tomasz Jedruszek',0.08,False
+Solar Blaze,Sorcery,None,War of the Spark,Rare,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.25,False
+Sorin Vengeful Bloodlord,Planeswalker,Sorin,War of the Spark,Rare,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Tommy Arnold',1.33,True
+Soul Diviner,Creature,Zombie Wizard,War of the Spark,Rare,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Randy Vargas',0.22,False
+Storrev Devkarin Lich,Creature,Zombie Elf Wizard,War of the Spark,Rare,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.29,True
+Tamiyo Collector of Tales,Planeswalker,Tamiyo,War of the Spark,Rare,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Chase Stone',1.0,True
+Teferi Time Raveler,Planeswalker,Teferi,War of the Spark,Rare,3,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Chris Rallis',14.25,True
+Tenth District Legionnaire,Creature,Human Soldier,War of the Spark,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Victor Adame Minguez',0.26,False
+Time Wipe,Sorcery,None,War of the Spark,Rare,5,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.24,False
+Tolsimir Friend to Wolves,Creature,Elf Scout,War of the Spark,Rare,5,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Ryan Pancoast',0.38,True
+Tyrant's Scorn,Instant,None,War of the Spark,Uncommon,2,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Svetlin Velinov',0.27,False
+Widespread Brutality,Sorcery,None,War of the Spark,Rare,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Victor Adame Minguez',0.22,False
+Angrath Captain of Chaos,Planeswalker,Angrath,War of the Spark,Uncommon,6,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Slawomir Maniak',0.16,True
+Ashiok Dream Render,Planeswalker,Ashiok,War of the Spark,Uncommon,5,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Cynthia Sheppard',1.43,True
+Dovin Hand of Control,Planeswalker,Dovin,War of the Spark,Uncommon,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Kieran Yanner',0.18,True
+Huatli the Sun's Heart,Planeswalker,Huatli,War of the Spark,Uncommon,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Lius Lasahido',0.19,True
+Kaya Bane of the Dead,Planeswalker,Kaya,War of the Spark,Uncommon,9,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Magali Villeneuve',0.22,True
+Kiora Behemoth Beckoner,Planeswalker,Kiora,War of the Spark,Uncommon,4,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Jaime Jones',0.35,True
+Nahiri Storm of Stone,Planeswalker,Nahiri,War of the Spark,Uncommon,6,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',0.21,True
+Saheeli Sublime Artificer,Planeswalker,Saheeli,War of the Spark,Uncommon,5,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Wesley Burt',0.25,True
+Samut Tyrant Smasher,Planeswalker,Samut,War of the Spark,Uncommon,6,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Aleksi Briclot',0.19,True
+Vraska Swarm's Eminence,Planeswalker,Vraska,War of the Spark,Uncommon,6,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Anna Steinbauer',0.16,True
+Firemind Vessel,Artifact,None,War of the Spark,Uncommon,4,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jenn Ravenna Tran',0.26,False
+God-Pharaoh's Statue,Artifact,None,War of the Spark,Uncommon,6,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Igor Kieryluk',0.25,True
+Guild Globe,Artifact,None,War of the Spark,Common,2,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',0.1,False
+Iron Bully,Artifact Creature,Golem,War of the Spark,Common,3,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Aaron Miller',0.05,False
+Mana Geode,Artifact,None,War of the Spark,Common,3,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Raoul Vitale',0.12,False
+Prismite,Artifact Creature,Golem,War of the Spark,Common,2,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Alayna Danner',0.07,False
+Saheeli's Silverwing,Artifact Creature,Drake,War of the Spark,Common,4,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Daniel Ljunggren',0.03,False
+Blast Zone,Land,None,War of the Spark,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Chris Ostrowski',2.55,False
+Emergence Zone,Land,None,War of the Spark,Uncommon,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jonas De Ro',0.19,False
+Gateway Plaza,Land,Gate,War of the Spark,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Sung Choi',0.11,False
+Interplanar Beacon,Land,None,War of the Spark,Uncommon,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.14,False
+Karn's Bastion,Land,None,War of the Spark,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',2.05,False
+Mobilized District,Land,None,War of the Spark,Rare,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jedd Chevrier',0.27,False
+Plains,Basic Land,Plains,War of the Spark,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jonas De Ro',0.09,False
+Plains,Basic Land,Plains,War of the Spark,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.1,False
+Plains,Basic Land,Plains,War of the Spark,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Richard Wright',0.12,False
+Island,Basic Land,Island,War of the Spark,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.1,False
+Island,Basic Land,Island,War of the Spark,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Richard Wright',0.09,False
+Island,Basic Land,Island,War of the Spark,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Kirsten Zirngibl',0.08,False
+Swamp,Basic Land,Swamp,War of the Spark,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Titus Lunter',0.08,False
+Swamp,Basic Land,Swamp,War of the Spark,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.08,False
+Swamp,Basic Land,Swamp,War of the Spark,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Richard Wright',0.1,False
+Mountain,Basic Land,Mountain,War of the Spark,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Titus Lunter',0.1,False
+Mountain,Basic Land,Mountain,War of the Spark,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.08,False
+Mountain,Basic Land,Mountain,War of the Spark,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Richard Wright',0.08,False
+Forest,Basic Land,Forest,War of the Spark,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Jonas De Ro',0.09,False
+Forest,Basic Land,Forest,War of the Spark,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Titus Lunter',0.09,False
+Forest,Basic Land,Forest,War of the Spark,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Richard Wright',0.09,False
+Gideon the Oathsworn,Planeswalker,Gideon,War of the Spark,Mythic Rare,6,White,Legal,Legal,Legal,Legal,Legal,True,b'Kieran Yanner',1.39,True
+Desperate Lunge,Instant,None,War of the Spark,Common,2,White,Legal,Legal,Legal,Legal,Legal,False,b'Deruchenko Alexander',0.19,False
+Gideon's Battle Cry,Sorcery,None,War of the Spark,Rare,4,White,Legal,Legal,Legal,Legal,Legal,False,b'Zoltan Boros',0.2,False
+Gideon's Company,Creature,Human Soldier,War of the Spark,Uncommon,4,White,Legal,Legal,Legal,Legal,Legal,False,b'Milivoj \xc4\x86eran',2.44,False
+Orzhov Guildgate,Land,Gate,War of the Spark,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Cliff Childs',0.17,False
+Jace Arcane Strategist,Planeswalker,Jace,War of the Spark,Mythic Rare,6,Blue,Legal,Legal,Legal,Legal,Legal,True,b'Kieran Yanner',2.88,True
+Guildpact Informant,Creature,Faerie Rogue,War of the Spark,Common,3,Blue,Legal,Legal,Legal,Legal,Legal,False,b'Randy Gallegos',0.26,False
+Jace's Projection,Creature,Wizard Illusion,War of the Spark,Uncommon,4,Blue,Legal,Legal,Legal,Legal,Legal,False,b'Darek Zabrocki',0.37,False
+Jace's Ruse,Sorcery,None,War of the Spark,Rare,5,Blue,Legal,Legal,Legal,Legal,Legal,False,b'Clint Cearley',0.2,False
+Simic Guildgate,Land,Gate,War of the Spark,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Adam Paquette',0.24,False
+Tezzeret Master of the Bridge,Planeswalker,Tezzeret,War of the Spark,Mythic Rare,6,Gold,Legal,Legal,Legal,Legal,Legal,True,b'Chase Stone',6.74,True

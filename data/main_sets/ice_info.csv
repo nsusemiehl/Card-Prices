@@ -1,384 +1,384 @@
-names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,reprint,artist,price
-Adarkar Unicorn,Creature,Unicorn,Ice Age,Common,3,White,False,False,True,False,b'Quinton Hoover',0.09
-Arctic Foxes,Creature,Fox,Ice Age,Common,2,White,False,False,True,False,b'Mark Poole',0.09
-Arenson's Aura,Enchantment,None,Ice Age,Common,3,White,False,False,True,True,b'Nicola Leonard',0.1
-Armor of Faith,Enchantment,Aura,Ice Age,Common,1,White,False,False,True,True,b'Anson Maddocks',0.09
-Battle Cry,Instant,None,Ice Age,Uncommon,3,White,False,False,True,False,b'Douglas Shuler',0.09
-Black Scarab,Enchantment,Aura,Ice Age,Uncommon,1,White,False,False,True,False,b'Kaja Foglio',0.17
-Blessed Wine,Instant,None,Ice Age,Common,2,White,False,False,True,True,b'Kaja Foglio',0.07
-Blinking Spirit,Creature,Spirit,Ice Age,Rare,4,White,True,False,True,True,b'Allen Williams',0.4
-Blue Scarab,Enchantment,Aura,Ice Age,Uncommon,1,White,False,False,True,False,b'Amy Weber',0.16
-Call to Arms,Enchantment,None,Ice Age,Rare,2,White,False,False,True,True,b'Randy Gallegos',0.52
-Caribou Range,Enchantment,Aura,Ice Age,Rare,4,White,False,False,True,True,b'Ruth Thompson',0.28
-Circle of Protection: Black,Enchantment,None,Ice Age,Common,2,White,True,False,True,True,b'Sandra Everingham',0.08
-Circle of Protection: Blue,Enchantment,None,Ice Age,Common,2,White,True,False,True,True,b'Pete Venters',0.08
-Circle of Protection: Green,Enchantment,None,Ice Age,Common,2,White,True,False,True,True,b'Sandra Everingham',0.08
-Circle of Protection: Red,Enchantment,None,Ice Age,Common,2,White,True,False,True,True,b'Pete Venters',0.1
-Circle of Protection: White,Enchantment,None,Ice Age,Common,2,White,True,False,True,True,b'Sandra Everingham',0.1
-Cold Snap,Enchantment,None,Ice Age,Uncommon,3,White,False,False,True,False,b'Randy Gallegos',0.1
-Cooperation,Enchantment,Aura,Ice Age,Common,3,White,False,False,True,False,b'Phil Foglio',0.11
-Death Ward,Instant,None,Ice Age,Common,1,White,False,False,True,True,b'Harold McNeill',0.08
-Disenchant,Instant,None,Ice Age,Common,2,White,True,True,True,True,b'Brian Sn\xc3\xb5ddy',0.11
-Drought,Enchantment,None,Ice Age,Uncommon,4,White,False,False,True,False,b'N\xc3\xa9N\xc3\xa9 Thomas',0.12
-Elvish Healer,Creature,Elf Cleric,Ice Age,Common,3,White,False,False,True,False,b'Rick Emond',0.08
-Enduring Renewal,Enchantment,None,Ice Age,Rare,4,White,True,False,True,True,b'Harold McNeill',1.79
-Energy Storm,Enchantment,None,Ice Age,Rare,2,White,False,False,True,True,b'Sandra Everingham',0.8
-Formation,Instant,None,Ice Age,Rare,2,White,False,False,True,False,"b'Ken Meyer, Jr.'",0.41
-Fylgja,Enchantment,Aura,Ice Age,Common,1,White,False,False,True,False,"b'Edward P. Beard, Jr.'",0.11
-General Jarkeld,Legendary Creature,Human Soldier,Ice Age,Rare,4,White,False,False,True,False,b'Richard Thomas',0.57
-Green Scarab,Enchantment,Aura,Ice Age,Uncommon,1,White,False,False,True,False,b'Nicola Leonard',0.21
-Hallowed Ground,Enchantment,None,Ice Age,Uncommon,2,White,False,False,True,True,b'Douglas Shuler',0.13
-Heal,Instant,None,Ice Age,Common,1,White,False,False,True,True,b'Mark Tedin',0.12
-Hipparion,Creature,Horse,Ice Age,Uncommon,2,White,False,False,True,True,b'Dameon Willich',0.1
-Justice,Enchantment,None,Ice Age,Uncommon,4,White,False,False,True,True,b'Ruth Thompson',0.13
-Kelsinko Ranger,Creature,Human,Ice Age,Common,1,White,False,False,True,False,b'Mark Poole',0.06
-Kjeldoran Elite Guard,Creature,Human Soldier,Ice Age,Uncommon,4,White,False,False,True,True,b'Melissa A. Benson',0.08
-Kjeldoran Guard,Creature,Human Soldier,Ice Age,Common,2,White,False,False,True,False,b'Anthony S. Waters',0.09
-Kjeldoran Knight,Creature,Human Knight,Ice Age,Rare,2,White,False,False,True,False,b'Ron Spencer',0.56
-Kjeldoran Phalanx,Creature,Human Soldier,Ice Age,Rare,6,White,False,False,True,False,b'Richard Kane Ferguson',0.38
-Kjeldoran Royal Guard,Creature,Human Soldier,Ice Age,Rare,5,White,True,False,True,True,b'Allen Williams',0.32
-Kjeldoran Skycaptain,Creature,Human Soldier,Ice Age,Uncommon,5,White,False,False,True,True,b'Mark Poole',0.1
-Kjeldoran Skyknight,Creature,Human Knight,Ice Age,Common,3,White,False,False,True,False,b'Mark Poole',0.07
-Kjeldoran Warrior,Creature,Human Warrior,Ice Age,Common,1,White,False,False,True,False,b'Mark Poole',0.06
-Lightning Blow,Instant,None,Ice Age,Rare,2,White,False,False,True,True,b'Harold McNeill',0.5
-Lost Order of Jarkeld,Creature,Human Knight,Ice Age,Rare,4,White,False,False,True,True,b'Andi Rusu',0.3
-Mercenaries,Creature,Human Mercenary,Ice Age,Rare,4,White,False,False,True,False,b'Cornelius Brudi',0.28
-Order of the Sacred Torch,Creature,Human Knight,Ice Age,Rare,3,White,False,False,True,True,b'Ruth Thompson',0.4
-Order of the White Shield,Creature,Human Knight,Ice Age,Uncommon,2,White,False,False,True,True,b'Ruth Thompson',0.23
-Prismatic Ward,Enchantment,Aura,Ice Age,Common,2,White,False,False,True,True,b'Allen Williams',0.06
-Rally,Instant,None,Ice Age,Common,2,White,False,False,True,False,b'Heather Hudson',0.05
-Red Scarab,Enchantment,Aura,Ice Age,Uncommon,1,White,False,False,True,False,b'Sandra Everingham',0.13
-Sacred Boon,Instant,None,Ice Age,Uncommon,2,White,False,False,True,True,b'Mike Raabe',0.12
-Seraph,Creature,Angel,Ice Age,Rare,7,White,False,False,True,True,b'Christopher Rush',0.48
-Shield Bearer,Creature,Human Soldier,Ice Age,Common,2,White,False,False,True,True,b'Dan Frazier',0.03
-Snow Hound,Creature,Hound,Ice Age,Uncommon,3,White,False,False,True,False,b'Pat Morrissey',0.11
-Swords to Plowshares,Instant,None,Ice Age,Uncommon,1,White,False,False,True,True,b'Kaja Foglio',2.65
-Warning,Instant,None,Ice Age,Common,1,White,False,False,True,True,b'Pat Morrissey',0.05
-White Scarab,Enchantment,Aura,Ice Age,Uncommon,1,White,False,False,True,False,b'Phil Foglio',0.17
-Arnjlot's Ascent,Enchantment,None,Ice Age,Common,3,Blue,False,False,True,False,b'Drew Tucker',0.09
-Balduvian Conjurer,Creature,Human Wizard,Ice Age,Uncommon,2,Blue,False,False,True,True,b'Mark Tedin',0.15
-Balduvian Shaman,Creature,Human Cleric Shaman,Ice Age,Common,1,Blue,False,False,True,False,b'Quinton Hoover',0.06
-Binding Grasp,Enchantment,Aura,Ice Age,Uncommon,4,Blue,False,False,True,True,b'Ruth Thompson',0.13
-Brainstorm,Instant,None,Ice Age,Common,1,Blue,False,False,True,True,b'Christopher Rush',0.89
-Breath of Dreams,Enchantment,None,Ice Age,Uncommon,4,Blue,False,False,True,False,b'Phil Foglio',0.14
-Clairvoyance,Instant,None,Ice Age,Common,1,Blue,False,False,True,False,"b'Ken Meyer, Jr.'",0.1
-Counterspell,Instant,None,Ice Age,Common,2,Blue,False,False,True,True,b'Allen Williams',1.17
-Deflection,Instant,None,Ice Age,Rare,4,Blue,True,False,True,True,b'Mike Raabe',0.38
-Dreams of the Dead,Enchantment,None,Ice Age,Uncommon,4,Blue,False,False,True,True,b'Heather Hudson',0.17
-Enervate,Instant,None,Ice Age,Common,2,Blue,False,False,True,True,b'Allen Williams',0.08
-Errant Minion,Enchantment,Aura,Ice Age,Common,3,Blue,False,False,True,False,b'Harold McNeill',0.09
-Essence Flare,Enchantment,Aura,Ice Age,Common,1,Blue,False,False,True,True,b'Richard Kane Ferguson',0.08
-Force Void,Instant,None,Ice Age,Uncommon,3,Blue,False,False,True,False,b'Mark Tedin',0.13
-Glacial Wall,Creature,Wall,Ice Age,Uncommon,3,Blue,False,False,True,True,b'Dameon Willich',0.21
-Hydroblast,Instant,None,Ice Age,Common,1,Blue,False,False,True,True,b'Kaja Foglio',0.56
-Iceberg,Enchantment,None,Ice Age,Uncommon,3,Blue,False,False,True,True,b'Jeff A. Menges',0.17
-Icy Prison,Enchantment,None,Ice Age,Rare,2,Blue,False,False,True,True,b'Anson Maddocks',0.31
-Illusionary Forces,Creature,Illusion,Ice Age,Common,4,Blue,False,False,True,True,b'Justin Hampton',0.06
-Illusionary Presence,Creature,Illusion,Ice Age,Rare,3,Blue,False,False,True,False,b'Kaja Foglio',0.49
-Illusionary Terrain,Enchantment,None,Ice Age,Uncommon,2,Blue,False,False,True,False,b'Rob Alexander',0.15
-Illusionary Wall,Creature,Illusion Wall,Ice Age,Common,5,Blue,False,False,True,True,b'Mark Poole',0.13
-Illusions of Grandeur,Enchantment,None,Ice Age,Rare,4,Blue,False,False,True,True,b'Quinton Hoover',3.93
-Infuse,Instant,None,Ice Age,Common,3,Blue,False,False,True,True,b'Randy Gallegos',0.06
-Krovikan Sorcerer,Creature,Human Wizard,Ice Age,Common,3,Blue,False,False,True,True,b'Pat Morrissey',0.09
-Magus of the Unseen,Creature,Human Wizard,Ice Age,Rare,2,Blue,False,False,True,True,b'Kaja Foglio',0.53
-Mesmeric Trance,Enchantment,None,Ice Age,Rare,3,Blue,False,False,True,True,b'Dan Frazier',0.5
-Mistfolk,Creature,Illusion,Ice Age,Common,2,Blue,False,False,True,True,b'Quinton Hoover',0.07
-Musician,Creature,Human Wizard,Ice Age,Rare,3,Blue,False,False,True,True,b'Drew Tucker',0.67
-Mystic Might,Enchantment,Aura,Ice Age,Rare,1,Blue,False,False,True,False,b'Nicola Leonard',0.34
-Mystic Remora,Enchantment,None,Ice Age,Common,1,Blue,False,False,True,True,"b'Ken Meyer, Jr.'",5.83
-Phantasmal Mount,Creature,Illusion Horse,Ice Age,Uncommon,2,Blue,False,False,True,True,b'Melissa A. Benson',0.11
-Polar Kraken,Creature,Kraken,Ice Age,Rare,11,Blue,False,False,True,True,b'Mark Tedin',1.48
-Portent,Sorcery,None,Ice Age,Common,1,Blue,False,False,True,True,b'Liz Danforth',0.3
-Power Sink,Instant,None,Ice Age,Common,2,Blue,False,False,True,True,b'Mark Poole',0.16
-Ray of Command,Instant,None,Ice Age,Common,4,Blue,False,False,True,True,b'Harold McNeill',0.12
-Ray of Erasure,Instant,None,Ice Age,Common,1,Blue,False,False,True,False,b'Mike Raabe',0.07
-Reality Twist,Enchantment,None,Ice Age,Rare,3,Blue,False,False,True,False,b'James Ernest',0.52
-Sea Spirit,Creature,Elemental Spirit,Ice Age,Uncommon,5,Blue,False,False,True,True,b'Rob Alexander',0.1
-Shyft,Creature,Shapeshifter,Ice Age,Rare,5,Blue,False,False,True,True,b'Richard Thomas',0.23
-Sibilant Spirit,Creature,Spirit,Ice Age,Rare,6,Blue,False,False,True,True,b'Ron Spencer',0.25
-Silver Erne,Creature,Bird,Ice Age,Uncommon,4,Blue,False,False,True,False,b'Melissa A. Benson',0.13
-Sleight of Mind,Instant,None,Ice Age,Uncommon,1,Blue,False,False,True,True,b'Nicola Leonard',0.19
-Snow Devil,Enchantment,Aura,Ice Age,Common,2,Blue,False,False,True,True,"b'Ken Meyer, Jr.'",0.08
-Snowfall,Enchantment,None,Ice Age,Common,3,Blue,False,False,True,False,b'Phil Foglio',0.11
-Soldevi Machinist,Creature,Human Wizard Artificer,Ice Age,Uncommon,2,Blue,False,False,True,True,b'Jeff A. Menges',0.17
-Soul Barrier,Enchantment,None,Ice Age,Uncommon,3,Blue,False,False,True,True,b'Harold McNeill',0.2
-Thunder Wall,Creature,Wall,Ice Age,Uncommon,3,Blue,False,False,True,True,b'Richard Thomas',0.19
-Updraft,Instant,None,Ice Age,Uncommon,2,Blue,False,False,True,True,b'Allen Williams',0.11
-Wind Spirit,Creature,Elemental Spirit,Ice Age,Uncommon,5,Blue,False,False,True,True,b'Kaja Foglio',0.1
-Winter's Chill,Instant,None,Ice Age,Rare,2,Blue,False,False,True,False,"b'Edward P. Beard, Jr.'",0.65
-Word of Undoing,Instant,None,Ice Age,Common,1,Blue,False,False,True,True,b'Christopher Rush',0.07
-Wrath of Marit Lage,Enchantment,None,Ice Age,Rare,5,Blue,True,False,True,True,b'Mike Raabe',0.3
-Zur's Weirding,Enchantment,None,Ice Age,Rare,4,Blue,True,False,True,True,b'Liz Danforth',0.92
-Zuran Enchanter,Creature,Human Wizard,Ice Age,Common,2,Blue,False,False,True,False,b'Douglas Shuler',0.07
-Zuran Spellcaster,Creature,Human Wizard,Ice Age,Common,3,Blue,False,False,True,True,"b'Edward P. Beard, Jr.'",0.21
-Abyssal Specter,Creature,Specter,Ice Age,Uncommon,4,Black,True,False,True,True,b'Ruth Thompson',0.23
-Ashen Ghoul,Creature,Zombie,Ice Age,Uncommon,4,Black,False,False,True,True,b'Ron Spencer',0.24
-Brine Shaman,Creature,Human Cleric Shaman,Ice Age,Common,2,Black,False,False,True,True,b'Cornelius Brudi',0.09
-Burnt Offering,Instant,None,Ice Age,Common,1,Black,False,False,True,True,b'Daniel Gelon',0.24
-Cloak of Confusion,Enchantment,Aura,Ice Age,Common,2,Black,False,False,True,True,b'Margaret Organ-Kean',0.06
-Dance of the Dead,Enchantment,Aura,Ice Age,Uncommon,2,Black,False,False,True,True,b'Randy Gallegos',7.6
-Dark Banishing,Instant,None,Ice Age,Common,3,Black,True,False,True,True,b'Drew Tucker',0.11
-Dark Ritual,Instant,None,Ice Age,Common,1,Black,False,False,True,True,b'Justin Hampton',0.43
-Demonic Consultation,Instant,None,Ice Age,Uncommon,1,Black,False,False,True,True,b'Rob Alexander',10.71
-Dread Wight,Creature,Zombie,Ice Age,Rare,5,Black,False,False,True,True,b'Daniel Gelon',0.24
-Drift of the Dead,Creature,Wall,Ice Age,Uncommon,4,Black,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.16
-Fear,Enchantment,Aura,Ice Age,Common,2,Black,True,False,True,True,b'Rick Emond',0.07
-Flow of Maggots,Creature,Insect,Ice Age,Rare,3,Black,False,False,True,False,b'Ron Spencer',0.48
-Foul Familiar,Creature,Spirit,Ice Age,Common,3,Black,False,False,True,True,b'Anson Maddocks',0.09
-Gangrenous Zombies,Creature,Zombie,Ice Age,Common,3,Black,False,False,True,True,b'Brian Sn\xc3\xb5ddy',0.09
-Gaze of Pain,Sorcery,None,Ice Age,Common,2,Black,False,False,True,False,b'Anson Maddocks',0.09
-Gravebind,Instant,None,Ice Age,Rare,1,Black,False,False,True,True,b'Drew Tucker',0.46
-Hecatomb,Enchantment,None,Ice Age,Rare,3,Black,False,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.44
-Hoar Shade,Creature,Shade,Ice Age,Common,4,Black,False,False,True,False,b'Richard Thomas',0.06
-Howl from Beyond,Instant,None,Ice Age,Common,2,Black,False,False,True,True,b'Mark Poole',0.12
-Hyalopterous Lemure,Creature,Spirit,Ice Age,Uncommon,5,Black,False,False,True,True,b'Richard Thomas',0.19
-Icequake,Sorcery,None,Ice Age,Uncommon,3,Black,False,False,True,True,b'Richard Kane Ferguson',0.76
-Infernal Darkness,Enchantment,None,Ice Age,Rare,4,Black,False,False,True,True,b'Phil Foglio',1.38
-Infernal Denizen,Creature,Demon,Ice Age,Rare,8,Black,False,False,True,False,b'Drew Tucker',0.53
-Kjeldoran Dead,Creature,Skeleton,Ice Age,Common,1,Black,False,False,True,True,b'Melissa A. Benson',0.1
-Knight of Stromgald,Creature,Human Knight,Ice Age,Uncommon,2,Black,False,False,True,True,b'Mark Poole',0.27
-Krovikan Elementalist,Creature,Human Wizard,Ice Age,Uncommon,2,Black,False,False,True,False,b'Douglas Shuler',0.09
-Krovikan Fetish,Enchantment,Aura,Ice Age,Common,3,Black,False,False,True,True,b'Heather Hudson',0.06
-Krovikan Vampire,Creature,Vampire,Ice Age,Uncommon,5,Black,False,False,True,True,b'Quinton Hoover',0.2
-Legions of Lim-Dûl,Creature,Zombie,Ice Age,Common,3,Black,False,False,True,True,b'Anson Maddocks',0.06
-Leshrac's Rite,Enchantment,Aura,Ice Age,Uncommon,1,Black,False,False,True,True,b'Richard Thomas',0.16
-Leshrac's Sigil,Enchantment,None,Ice Age,Uncommon,2,Black,False,False,True,False,b'Drew Tucker',0.28
-Lim-Dûl's Cohort,Creature,Zombie,Ice Age,Common,3,Black,False,False,True,True,b'Douglas Shuler',0.07
-Lim-Dûl's Hex,Enchantment,None,Ice Age,Uncommon,2,Black,False,False,True,False,b'Liz Danforth',0.18
-Mind Ravel,Sorcery,None,Ice Age,Common,3,Black,False,False,True,True,b'Mark Tedin',0.08
-Mind Warp,Sorcery,None,Ice Age,Uncommon,3,Black,False,False,True,True,b'Liz Danforth',0.14
-Mind Whip,Enchantment,Aura,Ice Age,Rare,4,Black,False,False,True,False,b'Drew Tucker',0.31
-Minion of Leshrac,Creature,Demon Minion,Ice Age,Rare,7,Black,False,False,True,True,b'Allen Williams',0.77
-Minion of Tevesh Szat,Creature,Demon Minion,Ice Age,Rare,7,Black,False,False,True,True,b'Julie Baroh',0.42
-Mole Worms,Creature,Worm,Ice Age,Uncommon,3,Black,False,False,True,True,b'Daniel Gelon',0.09
-Moor Fiend,Creature,Horror,Ice Age,Common,4,Black,False,False,True,False,b'Anson Maddocks',0.07
-Necropotence,Enchantment,None,Ice Age,Rare,3,Black,False,False,True,True,b'Mark Tedin',19.39
-Norritt,Creature,Imp,Ice Age,Common,4,Black,False,False,True,False,b'Mike Raabe',0.1
-Oath of Lim-Dûl,Enchantment,None,Ice Age,Rare,4,Black,False,False,True,False,b'Douglas Shuler',0.26
-Pestilence Rats,Creature,Rat,Ice Age,Common,3,Black,False,False,True,False,b'Jeff A. Menges',0.18
-Pox,Sorcery,None,Ice Age,Rare,3,Black,False,False,True,True,b'Cornelius Brudi',2.46
-Seizures,Enchantment,Aura,Ice Age,Common,2,Black,False,False,True,False,b'Julie Baroh',0.07
-Songs of the Damned,Instant,None,Ice Age,Common,1,Black,False,False,True,True,b'Pete Venters',0.37
-Soul Burn,Sorcery,None,Ice Age,Common,3,Black,False,False,True,True,b'Rob Alexander',0.08
-Soul Kiss,Enchantment,Aura,Ice Age,Common,3,Black,False,False,True,True,b'Nicola Leonard',0.08
-Spoils of Evil,Instant,None,Ice Age,Rare,3,Black,False,False,True,False,b'Quinton Hoover',1.33
-Spoils of War,Sorcery,None,Ice Age,Rare,2,Black,False,False,True,False,b'Pete Venters',0.55
-Stench of Evil,Sorcery,None,Ice Age,Uncommon,4,Black,False,False,True,False,b'Mark Tedin',0.17
-Stromgald Cabal,Creature,Human Knight,Ice Age,Rare,3,Black,False,False,True,True,b'Anson Maddocks',0.31
-Touch of Death,Sorcery,None,Ice Age,Common,3,Black,False,False,True,True,b'Melissa A. Benson',0.06
-Withering Wisps,Enchantment,None,Ice Age,Uncommon,3,Black,False,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.18
-Aggression,Enchantment,Aura,Ice Age,Uncommon,3,Red,False,False,True,False,b'Rick Emond',0.18
-Anarchy,Sorcery,None,Ice Age,Uncommon,4,Red,False,False,True,True,b'Phil Foglio',0.27
-Avalanche,Sorcery,None,Ice Age,Uncommon,4,Red,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.1
-Balduvian Barbarians,Creature,Human Barbarian,Ice Age,Common,3,Red,True,False,True,True,b'Mark Poole',0.09
-Balduvian Hydra,Creature,Hydra,Ice Age,Rare,3,Red,False,False,True,True,b'Melissa A. Benson',0.52
-Barbarian Guides,Creature,Human Barbarian,Ice Age,Common,3,Red,False,False,True,False,b'Richard Thomas',0.08
-Battle Frenzy,Instant,None,Ice Age,Common,3,Red,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.09
-Bone Shaman,Creature,Giant Shaman,Ice Age,Common,4,Red,False,False,True,False,b'Anson Maddocks',0.09
-Brand of Ill Omen,Enchantment,Aura,Ice Age,Rare,4,Red,False,False,True,False,b'Rob Alexander',0.54
-Chaos Lord,Creature,Human,Ice Age,Rare,7,Red,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.26
-Chaos Moon,Enchantment,None,Ice Age,Rare,4,Red,False,False,True,False,b'Drew Tucker',0.35
-Conquer,Enchantment,Aura,Ice Age,Uncommon,5,Red,False,False,True,True,b'Randy Gallegos',0.18
-Curse of Marit Lage,Enchantment,None,Ice Age,Rare,5,Red,False,False,True,False,b'Amy Weber',0.33
-Dwarven Armory,Enchantment,None,Ice Age,Rare,4,Red,False,False,True,False,b'Richard Thomas',0.21
-Errantry,Enchantment,Aura,Ice Age,Common,2,Red,False,False,True,True,b'Allen Williams',0.08
-Flame Spirit,Creature,Elemental Spirit,Ice Age,Uncommon,5,Red,False,False,True,True,b'Justin Hampton',0.11
-Flare,Instant,None,Ice Age,Common,3,Red,False,False,True,True,b'Drew Tucker',0.07
-Game of Chaos,Sorcery,None,Ice Age,Rare,3,Red,False,False,True,True,b'Drew Tucker',2.08
-Glacial Crevasses,Enchantment,None,Ice Age,Rare,3,Red,False,False,True,True,b'Mike Raabe',1.38
-Goblin Mutant,Creature,Goblin Mutant,Ice Age,Uncommon,4,Red,False,False,True,True,b'Daniel Gelon',0.11
-Goblin Sappers,Creature,Goblin,Ice Age,Common,2,Red,False,False,True,False,b'Jeff A. Menges',0.06
-Goblin Ski Patrol,Creature,Goblin,Ice Age,Common,2,Red,False,False,True,True,b'Mark Poole',0.06
-Goblin Snowman,Creature,Goblin,Ice Age,Uncommon,4,Red,True,False,True,True,b'Daniel Gelon',0.22
-Grizzled Wolverine,Creature,Wolverine,Ice Age,Common,3,Red,False,False,True,False,b'Cornelius Brudi',0.06
-Imposing Visage,Enchantment,Aura,Ice Age,Common,1,Red,False,False,True,True,b'Phil Foglio',0.06
-Incinerate,Instant,None,Ice Age,Common,2,Red,True,False,True,True,b'Mark Poole',0.15
-Jokulhaups,Sorcery,None,Ice Age,Rare,6,Red,False,False,True,True,b'Richard Thomas',4.28
-Karplusan Giant,Creature,Giant,Ice Age,Uncommon,7,Red,False,False,True,True,b'Daniel Gelon',0.16
-Karplusan Yeti,Creature,Yeti,Ice Age,Rare,5,Red,True,False,True,True,b'Quinton Hoover',0.23
-Lava Burst,Sorcery,None,Ice Age,Common,2,Red,False,False,True,True,b'Tom W\xc3\xa4nerstrand',0.14
-Márton Stromgald,Legendary Creature,Human Knight,Ice Age,Rare,4,Red,False,False,True,True,b'Mark Poole',2.68
-Melee,Instant,None,Ice Age,Uncommon,5,Red,False,False,True,False,b'Dameon Willich',0.12
-Melting,Enchantment,None,Ice Age,Uncommon,4,Red,False,False,True,False,b'Randy Gallegos',0.13
-Meteor Shower,Sorcery,None,Ice Age,Common,3,Red,False,False,True,True,b'Rick Emond',0.12
-Mountain Goat,Creature,Goat,Ice Age,Common,1,Red,False,False,True,True,b'Cornelius Brudi',0.11
-Mudslide,Enchantment,None,Ice Age,Rare,3,Red,False,False,True,True,b'Brian Sn\xc3\xb5ddy',1.31
-Orcish Cannoneers,Creature,Orc Warrior,Ice Age,Uncommon,3,Red,False,False,True,True,b'Dan Frazier',0.09
-Orcish Conscripts,Creature,Orc,Ice Age,Common,1,Red,False,False,True,True,b'Douglas Shuler',0.07
-Orcish Farmer,Creature,Orc,Ice Age,Common,3,Red,False,False,True,True,b'Dan Frazier',0.08
-Orcish Healer,Creature,Orc Cleric,Ice Age,Uncommon,2,Red,False,False,True,True,b'Quinton Hoover',0.11
-Orcish Librarian,Creature,Orc,Ice Age,Rare,2,Red,True,False,True,True,b'Phil Foglio',0.3
-Orcish Lumberjack,Creature,Orc,Ice Age,Common,1,Red,False,False,True,True,b'Dan Frazier',0.26
-Orcish Squatters,Creature,Orc,Ice Age,Rare,5,Red,False,False,True,True,b'Richard Kane Ferguson',0.28
-Panic,Instant,None,Ice Age,Common,1,Red,False,False,True,True,b'Mike Kimble',0.22
-Pyroblast,Instant,None,Ice Age,Common,1,Red,False,False,True,True,b'Kaja Foglio',2.04
-Pyroclasm,Sorcery,None,Ice Age,Uncommon,2,Red,True,False,True,True,b'Pat Morrissey',0.37
-Sabretooth Tiger,Creature,Cat,Ice Age,Common,3,Red,True,False,True,True,b'Melissa A. Benson',0.05
-Shatter,Instant,None,Ice Age,Common,2,Red,True,False,True,True,b'Bryon Wackwitz',0.08
-Stone Rain,Sorcery,None,Ice Age,Common,3,Red,True,False,True,True,b'Kaja Foglio',0.19
-Stone Spirit,Creature,Elemental Spirit,Ice Age,Uncommon,5,Red,False,False,True,True,b'Jeff A. Menges',0.11
-Stonehands,Enchantment,Aura,Ice Age,Common,3,Red,False,False,True,True,b'Dan Frazier',0.06
-Tor Giant,Creature,Giant,Ice Age,Common,4,Red,False,False,True,False,b'Douglas Shuler',0.06
-Total War,Enchantment,None,Ice Age,Rare,4,Red,False,False,True,False,b'Drew Tucker',0.48
-Vertigo,Instant,None,Ice Age,Uncommon,1,Red,False,False,True,True,b'Drew Tucker',0.08
-Wall of Lava,Creature,Wall,Ice Age,Uncommon,3,Red,False,False,True,False,b'Pete Venters',0.15
-Word of Blasting,Instant,None,Ice Age,Uncommon,2,Red,False,False,True,True,"b'Ken Meyer, Jr.'",0.11
-Aurochs,Creature,Aurochs,Ice Age,Common,4,Green,False,False,True,True,"b'Ken Meyer, Jr.'",0.08
-Balduvian Bears,Creature,Bear,Ice Age,Common,2,Green,False,False,True,True,b'Quinton Hoover',0.25
-Blizzard,Enchantment,None,Ice Age,Rare,2,Green,False,False,True,False,b'Anson Maddocks',0.35
-Brown Ouphe,Creature,Ouphe,Ice Age,Common,1,Green,True,False,True,True,b'Daniel Gelon',0.11
-Chub Toad,Creature,Frog,Ice Age,Common,3,Green,False,False,True,True,b'Daniel Gelon',0.12
-Dire Wolves,Creature,Wolf,Ice Age,Common,3,Green,False,False,True,False,b'Ron Spencer',0.1
-Earthlore,Enchantment,Aura,Ice Age,Common,1,Green,False,False,True,False,b'Drew Tucker',0.12
-Elder Druid,Creature,Elf Cleric Druid,Ice Age,Rare,4,Green,False,False,True,True,b'Richard Kane Ferguson',0.3
-Essence Filter,Sorcery,None,Ice Age,Common,3,Green,False,False,True,True,b'Rick Emond',0.13
-Fanatical Fever,Instant,None,Ice Age,Uncommon,4,Green,False,False,True,False,b'Julie Baroh',0.13
-Folk of the Pines,Creature,Dryad,Ice Age,Common,5,Green,False,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.07
-Forbidden Lore,Enchantment,Aura,Ice Age,Rare,3,Green,False,False,True,True,b'Christopher Rush',0.22
-Forgotten Lore,Sorcery,None,Ice Age,Uncommon,1,Green,False,False,True,True,b'Harold McNeill',0.19
-Foxfire,Instant,None,Ice Age,Common,3,Green,False,False,True,True,b'Margaret Organ-Kean',0.08
-Freyalise Supplicant,Creature,Human Cleric,Ice Age,Uncommon,2,Green,False,False,True,False,b'Liz Danforth',0.11
-Freyalise's Charm,Enchantment,None,Ice Age,Uncommon,2,Green,False,False,True,False,b'Margaret Organ-Kean',0.14
-Freyalise's Winds,Enchantment,None,Ice Age,Rare,4,Green,False,False,True,True,b'Mark Tedin',0.37
-Fyndhorn Brownie,Creature,Ouphe,Ice Age,Common,3,Green,False,False,True,True,b'Richard Thomas',0.1
-Fyndhorn Elder,Creature,Elf Druid,Ice Age,Uncommon,3,Green,True,False,True,True,b'Christopher Rush',0.22
-Fyndhorn Elves,Creature,Elf Druid,Ice Age,Common,1,Green,False,False,True,True,b'Justin Hampton',2.1
-Fyndhorn Pollen,Enchantment,None,Ice Age,Rare,3,Green,False,False,True,True,b'Phil Foglio',0.51
-Giant Growth,Instant,None,Ice Age,Common,1,Green,True,True,True,True,b'Allen Williams',0.08
-Gorilla Pack,Creature,Ape,Ice Age,Common,3,Green,False,False,True,False,b'Anthony S. Waters',0.06
-Hot Springs,Enchantment,Aura,Ice Age,Rare,2,Green,False,False,True,False,b'Nicola Leonard',0.37
-Hurricane,Sorcery,None,Ice Age,Uncommon,2,Green,True,False,True,True,b'Cornelius Brudi',0.25
-Johtull Wurm,Creature,Wurm,Ice Age,Uncommon,6,Green,False,False,True,True,b'Daniel Gelon',0.14
-Juniper Order Druid,Creature,Human Cleric Druid,Ice Age,Common,3,Green,False,False,True,False,b'Jeff A. Menges',0.09
-Lhurgoyf,Creature,Lhurgoyf,Ice Age,Rare,4,Green,True,False,True,True,b'Pete Venters',0.54
-Lure,Enchantment,Aura,Ice Age,Uncommon,3,Green,True,False,True,True,b'Phil Foglio',0.16
-Maddening Wind,Enchantment,Aura,Ice Age,Uncommon,3,Green,False,False,True,False,b'Dameon Willich',0.1
-Nature's Lore,Sorcery,None,Ice Age,Uncommon,2,Green,False,False,True,True,b'Rick Emond',2.55
-Pale Bears,Creature,Bear,Ice Age,Rare,3,Green,False,False,True,False,b'Anthony S. Waters',3.42
-Pygmy Allosaurus,Creature,Dinosaur,Ice Age,Rare,3,Green,False,False,True,False,b'Anson Maddocks',0.45
-Pyknite,Creature,Ouphe,Ice Age,Common,3,Green,False,False,True,False,"b'Edward P. Beard, Jr.'",0.08
-Regeneration,Enchantment,Aura,Ice Age,Common,2,Green,True,False,True,True,b'Justin Hampton',0.07
-Rime Dryad,Creature,Dryad,Ice Age,Common,1,Green,False,False,True,False,b'Heather Hudson',0.07
-Ritual of Subdual,Enchantment,None,Ice Age,Rare,6,Green,False,False,True,True,b'Justin Hampton',0.73
-Scaled Wurm,Creature,Wurm,Ice Age,Common,8,Green,True,False,True,True,b'Daniel Gelon',0.08
-Shambling Strider,Creature,Yeti,Ice Age,Common,6,Green,False,False,True,True,b'Douglas Shuler',0.06
-Snowblind,Enchantment,Aura,Ice Age,Rare,4,Green,False,False,True,False,b'Douglas Shuler',0.34
-Stampede,Instant,None,Ice Age,Rare,3,Green,False,False,True,True,b'Jeff A. Menges',0.28
-Stunted Growth,Sorcery,None,Ice Age,Rare,5,Green,False,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.4
-Tarpan,Creature,Horse,Ice Age,Common,1,Green,False,False,True,True,b'Margaret Organ-Kean',0.06
-Thermokarst,Sorcery,None,Ice Age,Uncommon,3,Green,False,False,True,True,"b'Ken Meyer, Jr.'",0.5
-Thoughtleech,Enchantment,None,Ice Age,Uncommon,2,Green,False,False,True,True,b'Mark Tedin',0.11
-Tinder Wall,Creature,Plant Wall,Ice Age,Common,1,Green,False,False,True,True,b'Rick Emond',0.2
-Touch of Vitae,Instant,None,Ice Age,Uncommon,3,Green,False,False,True,False,b'Allen Williams',0.15
-Trailblazer,Instant,None,Ice Age,Rare,4,Green,False,False,True,False,b'Julie Baroh',0.39
-Venomous Breath,Instant,None,Ice Age,Uncommon,4,Green,False,False,True,True,b'Allen Williams',0.09
-Wall of Pine Needles,Creature,Plant Wall,Ice Age,Uncommon,4,Green,False,False,True,False,b'Brian Sn\xc3\xb5ddy',0.1
-Whiteout,Instant,None,Ice Age,Uncommon,2,Green,False,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.22
-Wiitigo,Creature,Yeti,Ice Age,Rare,6,Green,False,False,True,True,b'Melissa A. Benson',0.26
-Wild Growth,Enchantment,Aura,Ice Age,Common,1,Green,False,False,True,True,b'Mike Raabe',0.32
-Woolly Mammoths,Creature,Elephant,Ice Age,Common,3,Green,False,False,True,True,b'Dan Frazier',0.09
-Woolly Spider,Creature,Spider,Ice Age,Common,3,Green,False,False,True,True,b'Daniel Gelon',0.11
-Yavimaya Gnats,Creature,Insect,Ice Age,Uncommon,3,Green,False,False,True,False,b'Dan Frazier',0.1
-Altar of Bone,Sorcery,None,Ice Age,Rare,2,Gold,False,False,True,False,b'Melissa A. Benson',2.75
-Centaur Archer,Creature,Centaur Archer,Ice Age,Uncommon,3,Gold,False,False,True,True,b'Melissa A. Benson',0.13
-Chromatic Armor,Enchantment,Aura,Ice Age,Rare,3,Gold,False,False,True,False,b'Mark Poole',0.42
-Diabolic Vision,Sorcery,None,Ice Age,Uncommon,2,Gold,False,False,True,True,b'Anthony S. Waters',0.3
-Earthlink,Enchantment,None,Ice Age,Rare,6,Gold,False,False,True,True,b'Richard Kane Ferguson',0.5
-Elemental Augury,Enchantment,None,Ice Age,Rare,3,Gold,False,False,True,True,b'Anthony S. Waters',0.45
-Essence Vortex,Instant,None,Ice Age,Uncommon,3,Gold,False,False,True,False,b'Margaret Organ-Kean',0.21
-Fiery Justice,Sorcery,None,Ice Age,Rare,3,Gold,True,False,True,True,b'Melissa A. Benson',0.34
-Fire Covenant,Instant,None,Ice Age,Uncommon,3,Gold,False,False,True,True,b'Dan Frazier',4.94
-Flooded Woodlands,Enchantment,None,Ice Age,Rare,4,Gold,False,False,True,False,b'Kaja Foglio',0.35
-Fumarole,Sorcery,None,Ice Age,Uncommon,5,Gold,False,False,True,True,b'Drew Tucker',0.16
-Ghostly Flame,Enchantment,None,Ice Age,Rare,2,Gold,False,False,True,False,b'Randy Gallegos',0.32
-Giant Trap Door Spider,Creature,Spider,Ice Age,Uncommon,3,Gold,False,False,True,True,b'Heather Hudson',0.24
-Glaciers,Enchantment,None,Ice Age,Rare,4,Gold,False,False,True,False,b'Mark Tedin',0.24
-Hymn of Rebirth,Sorcery,None,Ice Age,Uncommon,5,Gold,False,False,True,True,b'Richard Kane Ferguson',0.24
-Kjeldoran Frostbeast,Creature,Elemental Beast,Ice Age,Uncommon,5,Gold,False,False,True,True,b'Mark Poole',0.12
-Merieke Ri Berit,Legendary Creature,Human,Ice Age,Rare,3,Gold,True,False,True,True,b'Heather Hudson',1.17
-Monsoon,Enchantment,None,Ice Age,Rare,4,Gold,False,False,True,False,b'N\xc3\xa9N\xc3\xa9 Thomas',0.32
-Mountain Titan,Creature,Giant,Ice Age,Rare,4,Gold,False,False,True,False,b'Melissa A. Benson',0.51
-Reclamation,Enchantment,None,Ice Age,Rare,4,Gold,False,False,True,False,b'Dameon Willich',0.32
-Skeleton Ship,Legendary Creature,Skeleton,Ice Age,Rare,5,Gold,False,False,True,True,b'Amy Weber',1.68
-Spectral Shield,Enchantment,Aura,Ice Age,Uncommon,3,Gold,False,False,True,True,b'Margaret Organ-Kean',0.13
-Storm Spirit,Creature,Elemental Spirit,Ice Age,Rare,6,Gold,False,False,True,True,b'Pete Venters',0.4
-Stormbind,Enchantment,None,Ice Age,Rare,3,Gold,True,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.36
-Wings of Aesthir,Enchantment,Aura,Ice Age,Uncommon,2,Gold,False,False,True,True,"b'Edward P. Beard, Jr.'",0.13
-Adarkar Sentinel,Artifact Creature,Soldier,Ice Age,Uncommon,5,Colorless,False,False,True,True,b'Melissa A. Benson',0.11
-Aegis of the Meek,Artifact,None,Ice Age,Rare,3,Colorless,False,False,True,False,b'Allen Williams',0.45
-Amulet of Quoz,Artifact,None,Ice Age,Rare,6,Colorless,False,False,False,False,b'Dan Frazier',0.56
-Arcum's Sleigh,Artifact,None,Ice Age,Uncommon,1,Colorless,False,False,True,False,b'Tom W\xc3\xa4nerstrand',0.11
-Arcum's Weathervane,Artifact,None,Ice Age,Uncommon,2,Colorless,False,False,True,True,b'Tom W\xc3\xa4nerstrand',0.1
-Arcum's Whistle,Artifact,None,Ice Age,Uncommon,3,Colorless,False,False,True,False,b'Quinton Hoover',0.13
-Barbed Sextant,Artifact,None,Ice Age,Common,1,Colorless,False,False,True,True,b'Amy Weber',0.11
-Baton of Morale,Artifact,None,Ice Age,Uncommon,2,Colorless,False,False,True,False,b'Douglas Shuler',0.2
-Celestial Sword,Artifact,None,Ice Age,Rare,6,Colorless,False,False,True,True,b'Amy Weber',0.29
-Crown of the Ages,Artifact,None,Ice Age,Rare,2,Colorless,False,False,True,True,b'Dan Frazier',0.39
-Despotic Scepter,Artifact,None,Ice Age,Rare,1,Colorless,False,False,True,True,b'Richard Thomas',0.4
-Elkin Bottle,Artifact,None,Ice Age,Rare,3,Colorless,False,False,True,True,b'Quinton Hoover',0.21
-Fyndhorn Bow,Artifact,None,Ice Age,Uncommon,2,Colorless,False,False,True,False,b'Rob Alexander',0.11
-Goblin Lyre,Artifact,None,Ice Age,Rare,3,Colorless,False,False,True,False,b'Mike Kimble',0.31
-Hematite Talisman,Artifact,None,Ice Age,Uncommon,2,Colorless,False,False,True,False,b'Allen Williams',0.14
-Ice Cauldron,Artifact,None,Ice Age,Rare,4,Colorless,False,False,True,True,b'Dan Frazier',0.9
-Icy Manipulator,Artifact,None,Ice Age,Uncommon,4,Colorless,True,False,True,True,b'Amy Weber',0.42
-Infinite Hourglass,Artifact,None,Ice Age,Rare,4,Colorless,False,False,True,True,b'Harold McNeill',0.26
-Jester's Cap,Artifact,None,Ice Age,Rare,4,Colorless,True,False,True,True,b'Dan Frazier',5.22
-Jester's Mask,Artifact,None,Ice Age,Rare,5,Colorless,False,False,True,True,b'Dan Frazier',2.0
-Jeweled Amulet,Artifact,None,Ice Age,Uncommon,0,Colorless,False,False,True,True,b'Dan Frazier',2.11
-Lapis Lazuli Talisman,Artifact,None,Ice Age,Uncommon,2,Colorless,False,False,True,False,b'Amy Weber',0.16
-Malachite Talisman,Artifact,None,Ice Age,Uncommon,2,Colorless,False,False,True,False,b'Christopher Rush',0.22
-Nacre Talisman,Artifact,None,Ice Age,Uncommon,2,Colorless,False,False,True,False,b'Mark Tedin',0.13
-Naked Singularity,Artifact,None,Ice Age,Rare,5,Colorless,False,False,True,True,b'Mark Tedin',0.52
-Onyx Talisman,Artifact,None,Ice Age,Uncommon,2,Colorless,False,False,True,False,b'Sandra Everingham',0.17
-Pentagram of the Ages,Artifact,None,Ice Age,Rare,4,Colorless,False,False,True,True,b'Douglas Shuler',0.25
-Pit Trap,Artifact,None,Ice Age,Uncommon,2,Colorless,False,False,True,True,b'Anson Maddocks',0.14
-Runed Arch,Artifact,None,Ice Age,Rare,3,Colorless,False,False,True,False,b'Phil Foglio',0.24
-Shield of the Ages,Artifact,None,Ice Age,Uncommon,2,Colorless,False,False,True,True,b'Anson Maddocks',0.12
-Skull Catapult,Artifact,None,Ice Age,Uncommon,4,Colorless,False,False,True,True,b'Bryon Wackwitz',0.09
-Snow Fortress,Artifact Creature,Wall,Ice Age,Rare,5,Colorless,False,False,True,True,b'Jeff A. Menges',0.36
-Soldevi Golem,Artifact Creature,Golem,Ice Age,Rare,4,Colorless,False,False,True,True,b'Anson Maddocks',0.39
-Soldevi Simulacrum,Artifact Creature,Soldier,Ice Age,Uncommon,4,Colorless,False,False,True,True,b'Dan Frazier',0.09
-Staff of the Ages,Artifact,None,Ice Age,Rare,3,Colorless,False,False,True,False,b'Daniel Gelon',0.21
-Sunstone,Artifact,None,Ice Age,Uncommon,3,Colorless,False,False,True,False,b'Phil Foglio',0.4
-Time Bomb,Artifact,None,Ice Age,Rare,4,Colorless,False,False,True,True,b'Amy Weber',0.3
-Urza's Bauble,Artifact,None,Ice Age,Uncommon,0,Colorless,False,False,True,True,b'Christopher Rush',1.45
-Vexing Arcanix,Artifact,None,Ice Age,Rare,4,Colorless,True,False,True,True,b'Randy Gallegos',0.28
-Vibrating Sphere,Artifact,None,Ice Age,Rare,4,Colorless,False,False,True,True,b'Richard Thomas',0.23
-Walking Wall,Artifact Creature,Wall,Ice Age,Uncommon,4,Colorless,False,False,True,True,b'Anthony S. Waters',0.2
-Wall of Shields,Artifact Creature,Wall,Ice Age,Uncommon,3,Colorless,False,False,True,False,b'Randy Gallegos',0.14
-War Chariot,Artifact,None,Ice Age,Uncommon,3,Colorless,False,False,True,False,b'Dameon Willich',0.1
-Whalebone Glider,Artifact,None,Ice Age,Uncommon,2,Colorless,False,False,True,True,b'Amy Weber',0.1
-Zuran Orb,Artifact,None,Ice Age,Uncommon,0,Colorless,False,False,True,True,b'Sandra Everingham',1.99
-Adarkar Wastes,Land,None,Ice Age,Rare,0,Colorless,True,False,True,True,b'Mike Raabe',7.22
-Brushland,Land,None,Ice Age,Rare,0,Colorless,True,False,True,True,b'Bryon Wackwitz',5.03
-Glacial Chasm,Land,None,Ice Age,Uncommon,0,Colorless,False,False,True,True,b'Liz Danforth',2.04
-Halls of Mist,Land,None,Ice Age,Rare,0,Colorless,False,False,True,False,b'Mark Poole',0.86
-Ice Floe,Land,None,Ice Age,Uncommon,0,Colorless,False,False,True,True,b'Jeff A. Menges',0.23
-Karplusan Forest,Land,None,Ice Age,Rare,0,Colorless,True,False,True,True,b'Nicola Leonard',4.35
-Land Cap,Land,None,Ice Age,Rare,0,Colorless,False,False,True,False,b'Allen Williams',0.82
-Lava Tubes,Land,None,Ice Age,Rare,0,Colorless,False,False,True,True,b'Bryon Wackwitz',0.7
-River Delta,Land,None,Ice Age,Rare,0,Colorless,False,False,True,False,b'Sandra Everingham',0.75
-Sulfurous Springs,Land,None,Ice Age,Rare,0,Colorless,True,False,True,True,b'Phil Foglio',8.42
-Timberline Ridge,Land,None,Ice Age,Rare,0,Colorless,False,False,True,False,b'Jeff A. Menges',0.52
-Underground River,Land,None,Ice Age,Rare,0,Colorless,True,False,True,True,b'N\xc3\xa9N\xc3\xa9 Thomas',5.53
-Veldt,Land,None,Ice Age,Rare,0,Colorless,False,False,True,False,b'Bryon Wackwitz',0.81
-Plains,Basic Land,Plains,Ice Age,Common,0,Colorless,True,True,True,True,b'Christopher Rush',0.56
-Plains,Basic Land,Plains,Ice Age,Common,0,Colorless,True,True,True,True,b'Christopher Rush',0.37
-Plains,Basic Land,Plains,Ice Age,Common,0,Colorless,True,True,True,True,b'Christopher Rush',0.34
-Snow-Covered Plains,Basic Snow Land,Plains,Ice Age,Common,0,Colorless,True,False,True,True,b'Christopher Rush',1.13
-Island,Basic Land,Island,Ice Age,Common,0,Colorless,True,True,True,True,b'Anson Maddocks',0.47
-Island,Basic Land,Island,Ice Age,Common,0,Colorless,True,True,True,True,b'Anson Maddocks',0.38
-Island,Basic Land,Island,Ice Age,Common,0,Colorless,True,True,True,True,b'Anson Maddocks',0.41
-Snow-Covered Island,Basic Snow Land,Island,Ice Age,Common,0,Colorless,True,False,True,True,b'Anson Maddocks',2.73
-Snow-Covered Swamp,Basic Snow Land,Swamp,Ice Age,Common,0,Colorless,True,False,True,True,b'Douglas Shuler',1.29
-Swamp,Basic Land,Swamp,Ice Age,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',0.68
-Swamp,Basic Land,Swamp,Ice Age,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',0.41
-Swamp,Basic Land,Swamp,Ice Age,Common,0,Colorless,True,True,True,True,b'Douglas Shuler',0.27
-Mountain,Basic Land,Mountain,Ice Age,Common,0,Colorless,True,True,True,True,b'Tom W\xc3\xa4nerstrand',0.57
-Mountain,Basic Land,Mountain,Ice Age,Common,0,Colorless,True,True,True,True,b'Tom W\xc3\xa4nerstrand',0.44
-Mountain,Basic Land,Mountain,Ice Age,Common,0,Colorless,True,True,True,True,b'Tom W\xc3\xa4nerstrand',0.61
-Snow-Covered Mountain,Basic Snow Land,Mountain,Ice Age,Common,0,Colorless,True,False,True,True,b'Tom W\xc3\xa4nerstrand',1.26
-Forest,Basic Land,Forest,Ice Age,Common,0,Colorless,True,True,True,True,b'Pat Morrissey',0.59
-Forest,Basic Land,Forest,Ice Age,Common,0,Colorless,True,True,True,True,b'Pat Morrissey',0.84
-Forest,Basic Land,Forest,Ice Age,Common,0,Colorless,True,True,True,True,b'Pat Morrissey',0.41
-Snow-Covered Forest,Basic Snow Land,Forest,Ice Age,Common,0,Colorless,True,False,True,True,b'Pat Morrissey',1.09
+names,supertypes,subtypes,set,rarity,cmc,color,modern legality,standard legality,commander legality,vintage legality,legacy legality,reprint,artist,price,is_legendary
+Adarkar Unicorn,Creature,Unicorn,Ice Age,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Quinton Hoover',0.09,False
+Arctic Foxes,Creature,Fox,Ice Age,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Poole',0.08,False
+Arenson's Aura,Enchantment,None,Ice Age,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Nicola Leonard',0.1,False
+Armor of Faith,Enchantment,Aura,Ice Age,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.11,False
+Battle Cry,Instant,None,Ice Age,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Douglas Shuler',0.11,False
+Black Scarab,Enchantment,Aura,Ice Age,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kaja Foglio',0.18,False
+Blessed Wine,Instant,None,Ice Age,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.07,False
+Blinking Spirit,Creature,Spirit,Ice Age,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Allen Williams',0.4,False
+Blue Scarab,Enchantment,Aura,Ice Age,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Amy Weber',0.18,False
+Call to Arms,Enchantment,None,Ice Age,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.51,False
+Caribou Range,Enchantment,Aura,Ice Age,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ruth Thompson',0.35,False
+Circle of Protection: Black,Enchantment,None,Ice Age,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.1,False
+Circle of Protection: Blue,Enchantment,None,Ice Age,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.09,False
+Circle of Protection: Green,Enchantment,None,Ice Age,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.09,False
+Circle of Protection: Red,Enchantment,None,Ice Age,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.11,False
+Circle of Protection: White,Enchantment,None,Ice Age,Common,2,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.11,False
+Cold Snap,Enchantment,None,Ice Age,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Gallegos',0.11,False
+Cooperation,Enchantment,Aura,Ice Age,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Phil Foglio',0.11,False
+Death Ward,Instant,None,Ice Age,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Harold McNeill',0.09,False
+Disenchant,Instant,None,Ice Age,Common,2,White,Legal,Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.13,False
+Drought,Enchantment,None,Ice Age,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'N\xc3\xa9N\xc3\xa9 Thomas',0.16,False
+Elvish Healer,Creature,Elf Cleric,Ice Age,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rick Emond',0.08,False
+Enduring Renewal,Enchantment,None,Ice Age,Rare,4,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Harold McNeill',1.58,False
+Energy Storm,Enchantment,None,Ice Age,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',0.68,False
+Formation,Instant,None,Ice Age,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,"b'Ken Meyer, Jr.'",0.42,False
+Fylgja,Enchantment,Aura,Ice Age,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,"b'Edward P. Beard, Jr.'",0.1,False
+General Jarkeld,Creature,Human Soldier,Ice Age,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Richard Thomas',0.65,True
+Green Scarab,Enchantment,Aura,Ice Age,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Nicola Leonard',0.23,False
+Hallowed Ground,Enchantment,None,Ice Age,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.14,False
+Heal,Instant,None,Ice Age,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.13,False
+Hipparion,Creature,Horse,Ice Age,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.11,False
+Justice,Enchantment,None,Ice Age,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ruth Thompson',0.15,False
+Kelsinko Ranger,Creature,Human,Ice Age,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Poole',0.08,False
+Kjeldoran Elite Guard,Creature,Human Soldier,Ice Age,Uncommon,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.13,False
+Kjeldoran Guard,Creature,Human Soldier,Ice Age,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony S. Waters',0.1,False
+Kjeldoran Knight,Creature,Human Knight,Ice Age,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.57,False
+Kjeldoran Phalanx,Creature,Human Soldier,Ice Age,Rare,6,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Richard Kane Ferguson',0.39,False
+Kjeldoran Royal Guard,Creature,Human Soldier,Ice Age,Rare,5,White,Legal,Not Legal,Legal,Legal,Legal,True,b'Allen Williams',0.33,False
+Kjeldoran Skycaptain,Creature,Human Soldier,Ice Age,Uncommon,5,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.11,False
+Kjeldoran Skyknight,Creature,Human Knight,Ice Age,Common,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Poole',0.07,False
+Kjeldoran Warrior,Creature,Human Warrior,Ice Age,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Poole',0.06,False
+Lightning Blow,Instant,None,Ice Age,Rare,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Harold McNeill',0.55,False
+Lost Order of Jarkeld,Creature,Human Knight,Ice Age,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Andi Rusu',0.32,False
+Mercenaries,Creature,Human Mercenary,Ice Age,Rare,4,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Cornelius Brudi',0.35,False
+Order of the Sacred Torch,Creature,Human Knight,Ice Age,Rare,3,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ruth Thompson',0.44,False
+Order of the White Shield,Creature,Human Knight,Ice Age,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ruth Thompson',0.25,False
+Prismatic Ward,Enchantment,Aura,Ice Age,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Allen Williams',0.07,False
+Rally,Instant,None,Ice Age,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.06,False
+Red Scarab,Enchantment,Aura,Ice Age,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Sandra Everingham',0.15,False
+Sacred Boon,Instant,None,Ice Age,Uncommon,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Raabe',0.13,False
+Seraph,Creature,Angel,Ice Age,Rare,7,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.57,False
+Shield Bearer,Creature,Human Soldier,Ice Age,Common,2,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.06,False
+Snow Hound,Creature,Dog,Ice Age,Uncommon,3,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pat Morrissey',0.21,False
+Swords to Plowshares,Instant,None,Ice Age,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',3.15,False
+Warning,Instant,None,Ice Age,Common,1,White,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pat Morrissey',0.07,False
+White Scarab,Enchantment,Aura,Ice Age,Uncommon,1,White,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Phil Foglio',0.21,False
+Arnjlot's Ascent,Enchantment,None,Ice Age,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Drew Tucker',0.09,False
+Balduvian Conjurer,Creature,Human Wizard,Ice Age,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.16,False
+Balduvian Shaman,Creature,Human Cleric Shaman,Ice Age,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Quinton Hoover',0.05,False
+Binding Grasp,Enchantment,Aura,Ice Age,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ruth Thompson',0.12,False
+Brainstorm,Instant,None,Ice Age,Common,1,Blue,Not Legal,Not Legal,Legal,Restrict.,Legal,True,b'Christopher Rush',0.96,False
+Breath of Dreams,Enchantment,None,Ice Age,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Phil Foglio',0.14,False
+Clairvoyance,Instant,None,Ice Age,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,"b'Ken Meyer, Jr.'",0.12,False
+Counterspell,Instant,None,Ice Age,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Allen Williams',1.33,False
+Deflection,Instant,None,Ice Age,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Raabe',0.41,False
+Dreams of the Dead,Enchantment,None,Ice Age,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.18,False
+Enervate,Instant,None,Ice Age,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Allen Williams',0.08,False
+Errant Minion,Enchantment,Aura,Ice Age,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Harold McNeill',0.1,False
+Essence Flare,Enchantment,Aura,Ice Age,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Kane Ferguson',0.09,False
+Force Void,Instant,None,Ice Age,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',0.13,False
+Glacial Wall,Creature,Wall,Ice Age,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dameon Willich',0.18,False
+Hydroblast,Instant,None,Ice Age,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.54,False
+Iceberg,Enchantment,None,Ice Age,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.22,False
+Icy Prison,Enchantment,None,Ice Age,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.35,False
+Illusionary Forces,Creature,Illusion,Ice Age,Common,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Hampton',0.07,False
+Illusionary Presence,Creature,Illusion,Ice Age,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kaja Foglio',0.47,False
+Illusionary Terrain,Enchantment,None,Ice Age,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rob Alexander',0.18,False
+Illusionary Wall,Creature,Illusion Wall,Ice Age,Common,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.13,False
+Illusions of Grandeur,Enchantment,None,Ice Age,Rare,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',5.23,False
+Infuse,Instant,None,Ice Age,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.08,False
+Krovikan Sorcerer,Creature,Human Wizard,Ice Age,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pat Morrissey',0.09,False
+Magus of the Unseen,Creature,Human Wizard,Ice Age,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.55,False
+Mesmeric Trance,Enchantment,None,Ice Age,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.46,False
+Mistfolk,Creature,Illusion,Ice Age,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.08,False
+Musician,Creature,Human Wizard,Ice Age,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.7,False
+Mystic Might,Enchantment,Aura,Ice Age,Rare,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Nicola Leonard',0.35,False
+Mystic Remora,Enchantment,None,Ice Age,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,"b'Ken Meyer, Jr.'",5.63,False
+Phantasmal Mount,Creature,Illusion Horse,Ice Age,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.12,False
+Polar Kraken,Creature,Kraken,Ice Age,Rare,11,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',1.6,False
+Portent,Sorcery,None,Ice Age,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Liz Danforth',0.29,False
+Power Sink,Instant,None,Ice Age,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.14,False
+Ray of Command,Instant,None,Ice Age,Common,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Harold McNeill',0.14,False
+Ray of Erasure,Instant,None,Ice Age,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Raabe',0.08,False
+Reality Twist,Enchantment,None,Ice Age,Rare,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'James Ernest',0.56,False
+Sea Spirit,Creature,Elemental Spirit,Ice Age,Uncommon,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.12,False
+Shyft,Creature,Shapeshifter,Ice Age,Rare,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.24,False
+Sibilant Spirit,Creature,Spirit,Ice Age,Rare,6,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.26,False
+Silver Erne,Creature,Bird,Ice Age,Uncommon,4,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Melissa A. Benson',0.15,False
+Sleight of Mind,Instant,None,Ice Age,Uncommon,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Nicola Leonard',0.19,False
+Snow Devil,Enchantment,Aura,Ice Age,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,"b'Ken Meyer, Jr.'",0.08,False
+Snowfall,Enchantment,None,Ice Age,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Phil Foglio',0.11,False
+Soldevi Machinist,Creature,Human Wizard Artificer,Ice Age,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.18,False
+Soul Barrier,Enchantment,None,Ice Age,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Harold McNeill',0.28,False
+Thunder Wall,Creature,Wall,Ice Age,Uncommon,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.19,False
+Updraft,Instant,None,Ice Age,Uncommon,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Allen Williams',0.13,False
+Wind Spirit,Creature,Elemental Spirit,Ice Age,Uncommon,5,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.14,False
+Winter's Chill,Instant,None,Ice Age,Rare,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,"b'Edward P. Beard, Jr.'",0.78,False
+Word of Undoing,Instant,None,Ice Age,Common,1,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.07,False
+Wrath of Marit Lage,Enchantment,None,Ice Age,Rare,5,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Raabe',0.29,False
+Zur's Weirding,Enchantment,None,Ice Age,Rare,4,Blue,Legal,Not Legal,Legal,Legal,Legal,True,b'Liz Danforth',0.88,False
+Zuran Enchanter,Creature,Human Wizard,Ice Age,Common,2,Blue,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Douglas Shuler',0.08,False
+Zuran Spellcaster,Creature,Human Wizard,Ice Age,Common,3,Blue,Not Legal,Not Legal,Legal,Legal,Legal,True,"b'Edward P. Beard, Jr.'",0.22,False
+Abyssal Specter,Creature,Specter,Ice Age,Uncommon,4,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Ruth Thompson',0.2,False
+Ashen Ghoul,Creature,Zombie,Ice Age,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Ron Spencer',0.23,False
+Brine Shaman,Creature,Human Cleric Shaman,Ice Age,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Cornelius Brudi',0.09,False
+Burnt Offering,Instant,None,Ice Age,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.27,False
+Cloak of Confusion,Enchantment,Aura,Ice Age,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Margaret Organ-Kean',0.06,False
+Dance of the Dead,Enchantment,Aura,Ice Age,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',8.64,False
+Dark Banishing,Instant,None,Ice Age,Common,3,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.13,False
+Dark Ritual,Instant,None,Ice Age,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Hampton',0.52,False
+Demonic Consultation,Instant,None,Ice Age,Uncommon,1,Black,Not Legal,Not Legal,Legal,Restrict.,Banned,True,b'Rob Alexander',15.29,False
+Dread Wight,Creature,Zombie,Ice Age,Rare,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.25,False
+Drift of the Dead,Creature,Wall,Ice Age,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.17,False
+Fear,Enchantment,Aura,Ice Age,Common,2,Black,Legal,Not Legal,Legal,Legal,Legal,True,b'Rick Emond',0.08,False
+Flow of Maggots,Creature,Insect,Ice Age,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.52,False
+Foul Familiar,Creature,Spirit,Ice Age,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.08,False
+Gangrenous Zombies,Creature,Zombie,Ice Age,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',0.08,False
+Gaze of Pain,Sorcery,None,Ice Age,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Anson Maddocks',0.07,False
+Gravebind,Instant,None,Ice Age,Rare,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.47,False
+Hecatomb,Enchantment,None,Ice Age,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.45,False
+Hoar Shade,Creature,Shade,Ice Age,Common,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Richard Thomas',0.08,False
+Howl from Beyond,Instant,None,Ice Age,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.12,False
+Hyalopterous Lemure,Creature,Spirit,Ice Age,Uncommon,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.2,False
+Icequake,Sorcery,None,Ice Age,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Kane Ferguson',0.68,False
+Infernal Darkness,Enchantment,None,Ice Age,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Phil Foglio',1.37,False
+Infernal Denizen,Creature,Demon,Ice Age,Rare,8,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Drew Tucker',0.53,False
+Kjeldoran Dead,Creature,Skeleton,Ice Age,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.09,False
+Knight of Stromgald,Creature,Human Knight,Ice Age,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.26,False
+Krovikan Elementalist,Creature,Human Wizard,Ice Age,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Douglas Shuler',0.09,False
+Krovikan Fetish,Enchantment,Aura,Ice Age,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.07,False
+Krovikan Vampire,Creature,Vampire,Ice Age,Uncommon,5,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.2,False
+Legions of Lim-Dûl,Creature,Zombie,Ice Age,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.06,False
+Leshrac's Rite,Enchantment,Aura,Ice Age,Uncommon,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.15,False
+Leshrac's Sigil,Enchantment,None,Ice Age,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Drew Tucker',0.34,False
+Lim-Dûl's Cohort,Creature,Zombie,Ice Age,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.06,False
+Lim-Dûl's Hex,Enchantment,None,Ice Age,Uncommon,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Liz Danforth',0.22,False
+Mind Ravel,Sorcery,None,Ice Age,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.09,False
+Mind Warp,Sorcery,None,Ice Age,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Liz Danforth',0.15,False
+Mind Whip,Enchantment,Aura,Ice Age,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Drew Tucker',0.31,False
+Minion of Leshrac,Creature,Demon Minion,Ice Age,Rare,7,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Allen Williams',0.7,False
+Minion of Tevesh Szat,Creature,Demon Minion,Ice Age,Rare,7,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Julie Baroh',0.46,False
+Mole Worms,Creature,Worm,Ice Age,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.09,False
+Moor Fiend,Creature,Horror,Ice Age,Common,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Anson Maddocks',0.08,False
+Necropotence,Enchantment,None,Ice Age,Rare,3,Black,Not Legal,Not Legal,Legal,Restrict.,Banned,True,b'Mark Tedin',26.16,False
+Norritt,Creature,Imp,Ice Age,Common,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Raabe',0.1,False
+Oath of Lim-Dûl,Enchantment,None,Ice Age,Rare,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Douglas Shuler',0.26,False
+Pestilence Rats,Creature,Rat,Ice Age,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff A. Menges',0.19,False
+Pox,Sorcery,None,Ice Age,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Cornelius Brudi',2.54,False
+Seizures,Enchantment,Aura,Ice Age,Common,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Julie Baroh',0.09,False
+Songs of the Damned,Instant,None,Ice Age,Common,1,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.39,False
+Soul Burn,Sorcery,None,Ice Age,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rob Alexander',0.09,False
+Soul Kiss,Enchantment,Aura,Ice Age,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Nicola Leonard',0.08,False
+Spoils of Evil,Instant,None,Ice Age,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Quinton Hoover',1.73,False
+Spoils of War,Sorcery,None,Ice Age,Rare,2,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.58,False
+Stench of Evil,Sorcery,None,Ice Age,Uncommon,4,Black,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',0.16,False
+Stromgald Cabal,Creature,Human Knight,Ice Age,Rare,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.29,False
+Touch of Death,Sorcery,None,Ice Age,Common,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.07,False
+Withering Wisps,Enchantment,None,Ice Age,Uncommon,3,Black,Not Legal,Not Legal,Legal,Legal,Legal,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.18,False
+Aggression,Enchantment,Aura,Ice Age,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rick Emond',0.14,False
+Anarchy,Sorcery,None,Ice Age,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Phil Foglio',0.29,False
+Avalanche,Sorcery,None,Ice Age,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brian Sn\xc3\xb5ddy',0.12,False
+Balduvian Barbarians,Creature,Human Barbarian,Ice Age,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.09,False
+Balduvian Hydra,Creature,Hydra,Ice Age,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.52,False
+Barbarian Guides,Creature,Human Barbarian,Ice Age,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Richard Thomas',0.1,False
+Battle Frenzy,Instant,None,Ice Age,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brian Sn\xc3\xb5ddy',0.09,False
+Bone Shaman,Creature,Giant Shaman,Ice Age,Common,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Anson Maddocks',0.08,False
+Brand of Ill Omen,Enchantment,Aura,Ice Age,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rob Alexander',0.58,False
+Chaos Lord,Creature,Human,Ice Age,Rare,7,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brian Sn\xc3\xb5ddy',0.27,False
+Chaos Moon,Enchantment,None,Ice Age,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Drew Tucker',0.36,False
+Conquer,Enchantment,Aura,Ice Age,Uncommon,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.17,False
+Curse of Marit Lage,Enchantment,None,Ice Age,Rare,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Amy Weber',0.39,False
+Dwarven Armory,Enchantment,None,Ice Age,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Richard Thomas',0.22,False
+Errantry,Enchantment,Aura,Ice Age,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Allen Williams',0.08,False
+Flame Spirit,Creature,Elemental Spirit,Ice Age,Uncommon,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Hampton',0.14,False
+Flare,Instant,None,Ice Age,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.07,False
+Game of Chaos,Sorcery,None,Ice Age,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',2.1,False
+Glacial Crevasses,Enchantment,None,Ice Age,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Raabe',1.47,False
+Goblin Mutant,Creature,Goblin Mutant,Ice Age,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.13,False
+Goblin Sappers,Creature,Goblin,Ice Age,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff A. Menges',0.06,False
+Goblin Ski Patrol,Creature,Goblin,Ice Age,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.07,False
+Goblin Snowman,Creature,Goblin,Ice Age,Uncommon,4,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.23,False
+Grizzled Wolverine,Creature,Wolverine,Ice Age,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Cornelius Brudi',0.07,False
+Imposing Visage,Enchantment,Aura,Ice Age,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Phil Foglio',0.07,False
+Incinerate,Instant,None,Ice Age,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.15,False
+Jokulhaups,Sorcery,None,Ice Age,Rare,6,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',4.39,False
+Karplusan Giant,Creature,Giant,Ice Age,Uncommon,7,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.14,False
+Karplusan Yeti,Creature,Yeti,Ice Age,Rare,5,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.27,False
+Lava Burst,Sorcery,None,Ice Age,Common,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',0.13,False
+Márton Stromgald,Creature,Human Knight,Ice Age,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',2.81,True
+Melee,Instant,None,Ice Age,Uncommon,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dameon Willich',0.12,False
+Melting,Enchantment,None,Ice Age,Uncommon,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Gallegos',0.14,False
+Meteor Shower,Sorcery,None,Ice Age,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rick Emond',0.12,False
+Mountain Goat,Creature,Goat,Ice Age,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Cornelius Brudi',0.12,False
+Mudslide,Enchantment,None,Ice Age,Rare,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Brian Sn\xc3\xb5ddy',1.27,False
+Orcish Cannoneers,Creature,Orc Warrior,Ice Age,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.12,False
+Orcish Conscripts,Creature,Orc,Ice Age,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.08,False
+Orcish Farmer,Creature,Orc,Ice Age,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.07,False
+Orcish Healer,Creature,Orc Cleric,Ice Age,Uncommon,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.13,False
+Orcish Librarian,Creature,Orc,Ice Age,Rare,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Phil Foglio',0.35,False
+Orcish Lumberjack,Creature,Orc,Ice Age,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.27,False
+Orcish Squatters,Creature,Orc,Ice Age,Rare,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Kane Ferguson',0.32,False
+Panic,Instant,None,Ice Age,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Kimble',0.18,False
+Pyroblast,Instant,None,Ice Age,Common,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',2.66,False
+Pyroclasm,Sorcery,None,Ice Age,Uncommon,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Pat Morrissey',0.42,False
+Sabretooth Tiger,Creature,Cat,Ice Age,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.06,False
+Shatter,Instant,None,Ice Age,Common,2,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Bryon Wackwitz',0.09,False
+Stone Rain,Sorcery,None,Ice Age,Common,3,Red,Legal,Not Legal,Legal,Legal,Legal,True,b'Kaja Foglio',0.18,False
+Stone Spirit,Creature,Elemental Spirit,Ice Age,Uncommon,5,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.11,False
+Stonehands,Enchantment,Aura,Ice Age,Common,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.07,False
+Tor Giant,Creature,Giant,Ice Age,Common,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Douglas Shuler',0.07,False
+Total War,Enchantment,None,Ice Age,Rare,4,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Drew Tucker',0.52,False
+Vertigo,Instant,None,Ice Age,Uncommon,1,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.08,False
+Wall of Lava,Creature,Wall,Ice Age,Uncommon,3,Red,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Pete Venters',0.15,False
+Word of Blasting,Instant,None,Ice Age,Uncommon,2,Red,Not Legal,Not Legal,Legal,Legal,Legal,True,"b'Ken Meyer, Jr.'",0.12,False
+Aurochs,Creature,Aurochs,Ice Age,Common,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,"b'Ken Meyer, Jr.'",0.08,False
+Balduvian Bears,Creature,Bear,Ice Age,Common,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.25,False
+Blizzard,Enchantment,None,Ice Age,Rare,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Anson Maddocks',0.34,False
+Brown Ouphe,Creature,Ouphe,Ice Age,Common,1,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.12,False
+Chub Toad,Creature,Frog,Ice Age,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.12,False
+Dire Wolves,Creature,Wolf,Ice Age,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Ron Spencer',0.12,False
+Earthlore,Enchantment,Aura,Ice Age,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Drew Tucker',0.11,False
+Elder Druid,Creature,Elf Cleric Druid,Ice Age,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Kane Ferguson',0.32,False
+Essence Filter,Sorcery,None,Ice Age,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rick Emond',0.13,False
+Fanatical Fever,Instant,None,Ice Age,Uncommon,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Julie Baroh',0.14,False
+Folk of the Pines,Creature,Dryad,Ice Age,Common,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.08,False
+Forbidden Lore,Enchantment,Aura,Ice Age,Rare,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.27,False
+Forgotten Lore,Sorcery,None,Ice Age,Uncommon,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Harold McNeill',0.23,False
+Foxfire,Instant,None,Ice Age,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Margaret Organ-Kean',0.08,False
+Freyalise Supplicant,Creature,Human Cleric,Ice Age,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Liz Danforth',0.12,False
+Freyalise's Charm,Enchantment,None,Ice Age,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Margaret Organ-Kean',0.14,False
+Freyalise's Winds,Enchantment,None,Ice Age,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.41,False
+Fyndhorn Brownie,Creature,Ouphe,Ice Age,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.1,False
+Fyndhorn Elder,Creature,Elf Druid,Ice Age,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.24,False
+Fyndhorn Elves,Creature,Elf Druid,Ice Age,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Hampton',2.61,False
+Fyndhorn Pollen,Enchantment,None,Ice Age,Rare,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Phil Foglio',0.52,False
+Giant Growth,Instant,None,Ice Age,Common,1,Green,Legal,Legal,Legal,Legal,Legal,True,b'Allen Williams',0.1,False
+Gorilla Pack,Creature,Ape,Ice Age,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony S. Waters',0.08,False
+Hot Springs,Enchantment,Aura,Ice Age,Rare,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Nicola Leonard',0.39,False
+Hurricane,Sorcery,None,Ice Age,Uncommon,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Cornelius Brudi',0.25,False
+Johtull Wurm,Creature,Wurm,Ice Age,Uncommon,6,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.15,False
+Juniper Order Druid,Creature,Human Cleric Druid,Ice Age,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff A. Menges',0.1,False
+Lhurgoyf,Creature,Lhurgoyf,Ice Age,Rare,4,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.63,False
+Lure,Enchantment,Aura,Ice Age,Uncommon,3,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Phil Foglio',0.18,False
+Maddening Wind,Enchantment,Aura,Ice Age,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dameon Willich',0.1,False
+Nature's Lore,Sorcery,None,Ice Age,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rick Emond',3.64,False
+Pale Bears,Creature,Bear,Ice Age,Rare,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Anthony S. Waters',3.43,False
+Pygmy Allosaurus,Creature,Dinosaur,Ice Age,Rare,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Anson Maddocks',0.44,False
+Pyknite,Creature,Ouphe,Ice Age,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,"b'Edward P. Beard, Jr.'",0.09,False
+Regeneration,Enchantment,Aura,Ice Age,Common,2,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Hampton',0.08,False
+Rime Dryad,Creature,Dryad,Ice Age,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Heather Hudson',0.07,False
+Ritual of Subdual,Enchantment,None,Ice Age,Rare,6,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Justin Hampton',0.7,False
+Scaled Wurm,Creature,Wurm,Ice Age,Common,8,Green,Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.1,False
+Shambling Strider,Creature,Yeti,Ice Age,Common,6,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.07,False
+Snowblind,Enchantment,Aura,Ice Age,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Douglas Shuler',0.41,False
+Stampede,Instant,None,Ice Age,Rare,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.39,False
+Stunted Growth,Sorcery,None,Ice Age,Rare,5,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.41,False
+Tarpan,Creature,Horse,Ice Age,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Margaret Organ-Kean',0.06,False
+Thermokarst,Sorcery,None,Ice Age,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,"b'Ken Meyer, Jr.'",0.45,False
+Thoughtleech,Enchantment,None,Ice Age,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.11,False
+Tinder Wall,Creature,Plant Wall,Ice Age,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Rick Emond',0.21,False
+Touch of Vitae,Instant,None,Ice Age,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Allen Williams',0.17,False
+Trailblazer,Instant,None,Ice Age,Rare,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Julie Baroh',0.42,False
+Venomous Breath,Instant,None,Ice Age,Uncommon,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Allen Williams',0.09,False
+Wall of Pine Needles,Creature,Plant Wall,Ice Age,Uncommon,4,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Brian Sn\xc3\xb5ddy',0.11,False
+Whiteout,Instant,None,Ice Age,Uncommon,2,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.19,False
+Wiitigo,Creature,Yeti,Ice Age,Rare,6,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.26,False
+Wild Growth,Enchantment,Aura,Ice Age,Common,1,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Raabe',0.27,False
+Woolly Mammoths,Creature,Elephant,Ice Age,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.11,False
+Woolly Spider,Creature,Spider,Ice Age,Common,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Daniel Gelon',0.11,False
+Yavimaya Gnats,Creature,Insect,Ice Age,Uncommon,3,Green,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dan Frazier',0.1,False
+Altar of Bone,Sorcery,None,Ice Age,Rare,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Melissa A. Benson',4.06,False
+Centaur Archer,Creature,Centaur Archer,Ice Age,Uncommon,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.13,False
+Chromatic Armor,Enchantment,Aura,Ice Age,Rare,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Poole',0.39,False
+Diabolic Vision,Sorcery,None,Ice Age,Uncommon,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',0.3,False
+Earthlink,Enchantment,None,Ice Age,Rare,6,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Kane Ferguson',0.58,False
+Elemental Augury,Enchantment,None,Ice Age,Rare,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',0.45,False
+Essence Vortex,Instant,None,Ice Age,Uncommon,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Margaret Organ-Kean',0.22,False
+Fiery Justice,Sorcery,None,Ice Age,Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.39,False
+Fire Covenant,Instant,None,Ice Age,Uncommon,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',6.98,False
+Flooded Woodlands,Enchantment,None,Ice Age,Rare,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Kaja Foglio',0.37,False
+Fumarole,Sorcery,None,Ice Age,Uncommon,5,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Drew Tucker',0.15,False
+Ghostly Flame,Enchantment,None,Ice Age,Rare,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Gallegos',0.34,False
+Giant Trap Door Spider,Creature,Spider,Ice Age,Uncommon,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',0.23,False
+Glaciers,Enchantment,None,Ice Age,Rare,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',0.25,False
+Hymn of Rebirth,Sorcery,None,Ice Age,Uncommon,5,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Kane Ferguson',0.25,False
+Kjeldoran Frostbeast,Creature,Elemental Beast,Ice Age,Uncommon,5,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Poole',0.13,False
+Merieke Ri Berit,Creature,Human,Ice Age,Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'Heather Hudson',1.28,True
+Monsoon,Enchantment,None,Ice Age,Rare,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'N\xc3\xa9N\xc3\xa9 Thomas',0.35,False
+Mountain Titan,Creature,Giant,Ice Age,Rare,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Melissa A. Benson',0.5,False
+Reclamation,Enchantment,None,Ice Age,Rare,4,Gold,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dameon Willich',0.45,False
+Skeleton Ship,Creature,Skeleton,Ice Age,Rare,5,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',1.59,True
+Spectral Shield,Enchantment,Aura,Ice Age,Uncommon,3,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Margaret Organ-Kean',0.14,False
+Storm Spirit,Creature,Elemental Spirit,Ice Age,Rare,6,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Pete Venters',0.39,False
+Stormbind,Enchantment,None,Ice Age,Rare,3,Gold,Legal,Not Legal,Legal,Legal,Legal,True,b'N\xc3\xa9N\xc3\xa9 Thomas',0.48,False
+Wings of Aesthir,Enchantment,Aura,Ice Age,Uncommon,2,Gold,Not Legal,Not Legal,Legal,Legal,Legal,True,"b'Edward P. Beard, Jr.'",0.11,False
+Adarkar Sentinel,Artifact Creature,Soldier,Ice Age,Uncommon,5,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Melissa A. Benson',0.15,False
+Aegis of the Meek,Artifact,None,Ice Age,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Allen Williams',0.4,False
+Amulet of Quoz,Artifact,None,Ice Age,Rare,6,Colorless,Not Legal,Not Legal,Banned,Banned,Banned,False,b'Dan Frazier',0.64,False
+Arcum's Sleigh,Artifact,None,Ice Age,Uncommon,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Tom W\xc3\xa4nerstrand',0.12,False
+Arcum's Weathervane,Artifact,None,Ice Age,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',0.1,False
+Arcum's Whistle,Artifact,None,Ice Age,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Quinton Hoover',0.13,False
+Barbed Sextant,Artifact,None,Ice Age,Common,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.11,False
+Baton of Morale,Artifact,None,Ice Age,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Douglas Shuler',0.19,False
+Celestial Sword,Artifact,None,Ice Age,Rare,6,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.27,False
+Crown of the Ages,Artifact,None,Ice Age,Rare,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.42,False
+Despotic Scepter,Artifact,None,Ice Age,Rare,1,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.48,False
+Elkin Bottle,Artifact,None,Ice Age,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Quinton Hoover',0.21,False
+Fyndhorn Bow,Artifact,None,Ice Age,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Rob Alexander',0.12,False
+Goblin Lyre,Artifact,None,Ice Age,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mike Kimble',0.33,False
+Hematite Talisman,Artifact,None,Ice Age,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Allen Williams',0.16,False
+Ice Cauldron,Artifact,None,Ice Age,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',1.06,False
+Icy Manipulator,Artifact,None,Ice Age,Uncommon,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.44,False
+Infinite Hourglass,Artifact,None,Ice Age,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Harold McNeill',0.22,False
+Jester's Cap,Artifact,None,Ice Age,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',5.84,False
+Jester's Mask,Artifact,None,Ice Age,Rare,5,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',1.92,False
+Jeweled Amulet,Artifact,None,Ice Age,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',2.6,False
+Lapis Lazuli Talisman,Artifact,None,Ice Age,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Amy Weber',0.17,False
+Malachite Talisman,Artifact,None,Ice Age,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Christopher Rush',0.21,False
+Nacre Talisman,Artifact,None,Ice Age,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Tedin',0.13,False
+Naked Singularity,Artifact,None,Ice Age,Rare,5,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Mark Tedin',0.58,False
+Onyx Talisman,Artifact,None,Ice Age,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Sandra Everingham',0.18,False
+Pentagram of the Ages,Artifact,None,Ice Age,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.3,False
+Pit Trap,Artifact,None,Ice Age,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.15,False
+Runed Arch,Artifact,None,Ice Age,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Phil Foglio',0.24,False
+Shield of the Ages,Artifact,None,Ice Age,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.12,False
+Skull Catapult,Artifact,None,Ice Age,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Bryon Wackwitz',0.1,False
+Snow Fortress,Artifact Creature,Wall,Ice Age,Rare,5,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.46,False
+Soldevi Golem,Artifact Creature,Golem,Ice Age,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.47,False
+Soldevi Simulacrum,Artifact Creature,Soldier,Ice Age,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Dan Frazier',0.1,False
+Staff of the Ages,Artifact,None,Ice Age,Rare,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Daniel Gelon',0.23,False
+Sunstone,Artifact,None,Ice Age,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Phil Foglio',0.44,False
+Time Bomb,Artifact,None,Ice Age,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.36,False
+Urza's Bauble,Artifact,None,Ice Age,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',1.39,False
+Vexing Arcanix,Artifact,None,Ice Age,Rare,4,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Randy Gallegos',0.28,False
+Vibrating Sphere,Artifact,None,Ice Age,Rare,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Richard Thomas',0.24,False
+Walking Wall,Artifact Creature,Wall,Ice Age,Uncommon,4,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Anthony S. Waters',0.2,False
+Wall of Shields,Artifact Creature,Wall,Ice Age,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Randy Gallegos',0.15,False
+War Chariot,Artifact,None,Ice Age,Uncommon,3,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Dameon Willich',0.1,False
+Whalebone Glider,Artifact,None,Ice Age,Uncommon,2,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Amy Weber',0.11,False
+Zuran Orb,Artifact,None,Ice Age,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Sandra Everingham',1.95,False
+Adarkar Wastes,Land,None,Ice Age,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Mike Raabe',7.73,False
+Brushland,Land,None,Ice Age,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Bryon Wackwitz',4.76,False
+Glacial Chasm,Land,None,Ice Age,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Liz Danforth',2.52,False
+Halls of Mist,Land,None,Ice Age,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Mark Poole',1.0,False
+Ice Floe,Land,None,Ice Age,Uncommon,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Jeff A. Menges',0.26,False
+Karplusan Forest,Land,None,Ice Age,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Nicola Leonard',4.26,False
+Land Cap,Land,None,Ice Age,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Allen Williams',0.73,False
+Lava Tubes,Land,None,Ice Age,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,True,b'Bryon Wackwitz',0.67,False
+River Delta,Land,None,Ice Age,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Sandra Everingham',0.81,False
+Sulfurous Springs,Land,None,Ice Age,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Phil Foglio',8.35,False
+Timberline Ridge,Land,None,Ice Age,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Jeff A. Menges',0.52,False
+Underground River,Land,None,Ice Age,Rare,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'N\xc3\xa9N\xc3\xa9 Thomas',6.45,False
+Veldt,Land,None,Ice Age,Rare,0,Colorless,Not Legal,Not Legal,Legal,Legal,Legal,False,b'Bryon Wackwitz',0.77,False
+Plains,Basic Land,Plains,Ice Age,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.54,False
+Plains,Basic Land,Plains,Ice Age,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.38,False
+Plains,Basic Land,Plains,Ice Age,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.35,False
+Snow-Covered Plains,Basic Snow Land,Plains,Ice Age,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Christopher Rush',0.91,False
+Island,Basic Land,Island,Ice Age,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.45,False
+Island,Basic Land,Island,Ice Age,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.41,False
+Island,Basic Land,Island,Ice Age,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Anson Maddocks',0.43,False
+Snow-Covered Island,Basic Snow Land,Island,Ice Age,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Anson Maddocks',3.4,False
+Snow-Covered Swamp,Basic Snow Land,Swamp,Ice Age,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Douglas Shuler',1.44,False
+Swamp,Basic Land,Swamp,Ice Age,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.7,False
+Swamp,Basic Land,Swamp,Ice Age,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.39,False
+Swamp,Basic Land,Swamp,Ice Age,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Douglas Shuler',0.29,False
+Mountain,Basic Land,Mountain,Ice Age,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',0.56,False
+Mountain,Basic Land,Mountain,Ice Age,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',0.51,False
+Mountain,Basic Land,Mountain,Ice Age,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',0.79,False
+Snow-Covered Mountain,Basic Snow Land,Mountain,Ice Age,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Tom W\xc3\xa4nerstrand',1.51,False
+Forest,Basic Land,Forest,Ice Age,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Pat Morrissey',0.59,False
+Forest,Basic Land,Forest,Ice Age,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Pat Morrissey',0.91,False
+Forest,Basic Land,Forest,Ice Age,Common,0,Colorless,Legal,Legal,Legal,Legal,Legal,True,b'Pat Morrissey',0.49,False
+Snow-Covered Forest,Basic Snow Land,Forest,Ice Age,Common,0,Colorless,Legal,Not Legal,Legal,Legal,Legal,True,b'Pat Morrissey',1.21,False
